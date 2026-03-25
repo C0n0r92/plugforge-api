@@ -1,0 +1,27 @@
+name: plugforge-api
+services:
+- name: api
+  github:
+    repo: C0n0r92/plugforge-api
+    branch: main
+    deploy_on_push: true
+  run_command: gunicorn app:app --bind 0.0.0.0:8080
+  environment_slug: python
+  instance_size_slug: apps-s-1vcpu-0.5gb
+  instance_count: 1
+  http_port: 8080
+  routes:
+  - path: /
+  envs:
+  - key: PP_SUPABASE_URL
+    scope: RUN_TIME
+    type: SECRET
+  - key: PP_SUPABASE_SERVICE_ROLE_KEY
+    scope: RUN_TIME
+    type: SECRET
+  - key: GOOGLE_CLIENT_ID
+    scope: RUN_TIME
+    type: SECRET
+  - key: GOOGLE_CLIENT_SECRET
+    scope: RUN_TIME
+    type: SECRET
