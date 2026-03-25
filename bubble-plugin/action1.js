@@ -4,8 +4,8 @@
  *
  * INPUTS:
  * - title (text): Event title
- * - start (text): ISO8601 datetime string (e.g., "2026-03-25T10:00:00Z")
- * - end (text): ISO8601 datetime string
+ * - start (date): Event start date/time — use Bubble date fields directly
+ * - end (date): Event end date/time — use Bubble date fields directly
  * - description (text, optional): Event description
  * - location (text, optional): Event location
  *
@@ -24,10 +24,19 @@ function(properties, context) {
         throw new Error('Missing required fields: title, start, and end are required');
     }
 
+    // Convert Bubble date to ISO string — handles both Date objects and strings
+    function toISO(val) {
+        if (!val) return null;
+        if (typeof val === 'string') return val;
+        if (val instanceof Date) return val.toISOString();
+        if (typeof val === 'number') return new Date(val).toISOString();
+        return String(val);
+    }
+
     const payload = {
         title: properties.title,
-        start: properties.start,
-        end: properties.end,
+        start: toISO(properties.start),
+        end: toISO(properties.end),
         description: properties.description || '',
         location: properties.location || ''
     };
