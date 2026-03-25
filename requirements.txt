@@ -6,6 +6,7 @@ python-dotenv>=1.0.0
 gunicorn>=21.2.0
 icalendar
 python-dateutil
+pytz
 google-auth>=2.0.0
 google-auth-oauthlib>=1.0.0
 google-auth-httplib2>=0.1.0

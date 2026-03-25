@@ -4,8 +4,10 @@
  *
  * INPUTS:
  * - title (text): Event title
- * - start (date): Event start date/time — use Bubble date fields directly
- * - end (date): Event end date/time — use Bubble date fields directly
+ * - event_date (text): Date e.g. "2026-04-01" or "April 1, 2026"
+ * - start_time (text): Start time e.g. "10:00 AM" or "10:00"
+ * - end_time (text): End time e.g. "11:00 AM" or "11:00"
+ * - timezone (text, optional): e.g. "Europe/London", "America/New_York" (defaults to "UTC")
  * - description (text, optional): Event description
  * - location (text, optional): Event location
  *
@@ -20,23 +22,16 @@
 function(properties, context) {
     const API_URL = 'https://api.plugforge.dev/calsync/api/calendar/add-link';
 
-    if (!properties.title || !properties.start || !properties.end) {
-        throw new Error('Missing required fields: title, start, and end are required');
-    }
-
-    // Convert Bubble date to ISO string — handles both Date objects and strings
-    function toISO(val) {
-        if (!val) return null;
-        if (typeof val === 'string') return val;
-        if (val instanceof Date) return val.toISOString();
-        if (typeof val === 'number') return new Date(val).toISOString();
-        return String(val);
+    if (!properties.title || !properties.event_date || !properties.start_time || !properties.end_time) {
+        throw new Error('Missing required fields: title, event_date, start_time, and end_time are required');
     }
 
     const payload = {
         title: properties.title,
-        start: toISO(properties.start),
-        end: toISO(properties.end),
+        event_date: properties.event_date,
+        start_time: properties.start_time,
+        end_time: properties.end_time,
+        timezone: properties.timezone || 'UTC',
         description: properties.description || '',
         location: properties.location || ''
     };

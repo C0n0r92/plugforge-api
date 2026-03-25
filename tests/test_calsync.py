@@ -528,3 +528,238 @@ def test_add_link_minimal_data(client, mock_supabase):
     assert 'apple' in data
     assert 'outlook' in data
     assert 'yahoo' in data
+
+
+# ============================================================================
+# FORMAT A TESTS (User-Friendly Date/Time Inputs)
+# ============================================================================
+
+def test_add_link_format_a_valid(client, mock_supabase):
+    """Test Format A with separate date/time fields."""
+    mock_response = MagicMock()
+    mock_response.data = [{"id": str(uuid.uuid4())}]
+    mock_supabase.table.return_value.insert.return_value.execute.return_value = mock_response
+
+    format_a_event = {
+        "title": "Format A Event",
+        "event_date": "2026-04-01",
+        "start_time": "10:00",
+        "end_time": "11:00",
+        "timezone": "UTC",
+        "description": "Test with Format A",
+        "location": "Test Location"
+    }
+
+    response = client.post(
+        '/calsync/api/calendar/add-link',
+        json=format_a_event,
+        content_type='application/json'
+    )
+
+    assert response.status_code == 200
+    data = response.get_json()
+    assert 'google' in data
+    assert 'apple' in data
+    assert 'outlook' in data
+    assert 'yahoo' in data
+    assert 'event_id' in data
+
+
+def test_add_link_format_a_with_am_pm(client, mock_supabase):
+    """Test Format A with AM/PM time format."""
+    mock_response = MagicMock()
+    mock_response.data = [{"id": str(uuid.uuid4())}]
+    mock_supabase.table.return_value.insert.return_value.execute.return_value = mock_response
+
+    format_a_event = {
+        "title": "Format A Event",
+        "event_date": "April 1, 2026",
+        "start_time": "10:00 AM",
+        "end_time": "11:00 AM",
+        "description": "Test with AM/PM format"
+    }
+
+    response = client.post(
+        '/calsync/api/calendar/add-link',
+        json=format_a_event,
+        content_type='application/json'
+    )
+
+    assert response.status_code == 200
+    data = response.get_json()
+    assert 'google' in data
+    assert 'apple' in data
+
+
+def test_add_link_format_a_with_timezone(client, mock_supabase):
+    """Test Format A with different timezone."""
+    mock_response = MagicMock()
+    mock_response.data = [{"id": str(uuid.uuid4())}]
+    mock_supabase.table.return_value.insert.return_value.execute.return_value = mock_response
+
+    format_a_event = {
+        "title": "London Meeting",
+        "event_date": "2026-04-01",
+        "start_time": "14:00",
+        "end_time": "15:00",
+        "timezone": "Europe/London"
+    }
+
+    response = client.post(
+        '/calsync/api/calendar/add-link',
+        json=format_a_event,
+        content_type='application/json'
+    )
+
+    assert response.status_code == 200
+    data = response.get_json()
+    assert 'google' in data
+    assert 'apple' in data
+
+
+def test_add_link_format_a_missing_start_time(client, mock_supabase):
+    """Test Format A missing start_time returns 400."""
+    format_a_event = {
+        "title": "Format A Event",
+        "event_date": "2026-04-01",
+        "end_time": "11:00"
+    }
+
+    response = client.post(
+        '/calsync/api/calendar/add-link',
+        json=format_a_event,
+        content_type='application/json'
+    )
+
+    assert response.status_code == 400
+    data = response.get_json()
+    assert 'error' in data
+    assert 'start_time' in data['error'].lower()
+
+
+def test_add_link_format_a_missing_end_time(client, mock_supabase):
+    """Test Format A missing end_time returns 400."""
+    format_a_event = {
+        "title": "Format A Event",
+        "event_date": "2026-04-01",
+        "start_time": "10:00"
+    }
+
+    response = client.post(
+        '/calsync/api/calendar/add-link',
+        json=format_a_event,
+        content_type='application/json'
+    )
+
+    assert response.status_code == 400
+    data = response.get_json()
+    assert 'error' in data
+    assert 'end_time' in data['error'].lower()
+
+
+def test_add_link_format_a_invalid_date(client, mock_supabase):
+    """Test Format A with invalid date format returns 400."""
+    format_a_event = {
+        "title": "Format A Event",
+        "event_date": "not-a-date",
+        "start_time": "10:00",
+        "end_time": "11:00"
+    }
+
+    response = client.post(
+        '/calsync/api/calendar/add-link',
+        json=format_a_event,
+        content_type='application/json'
+    )
+
+    assert response.status_code == 400
+    data = response.get_json()
+    assert 'error' in data
+    assert 'datetime' in data['error'].lower()
+
+
+def test_add_link_format_a_invalid_time(client, mock_supabase):
+    """Test Format A with invalid time format returns 400."""
+    format_a_event = {
+        "title": "Format A Event",
+        "event_date": "2026-04-01",
+        "start_time": "invalid-time",
+        "end_time": "11:00"
+    }
+
+    response = client.post(
+        '/calsync/api/calendar/add-link',
+        json=format_a_event,
+        content_type='application/json'
+    )
+
+    assert response.status_code == 400
+    data = response.get_json()
+    assert 'error' in data
+
+
+def test_add_link_format_a_invalid_timezone_fallback(client, mock_supabase):
+    """Test Format A with invalid timezone falls back to UTC."""
+    mock_response = MagicMock()
+    mock_response.data = [{"id": str(uuid.uuid4())}]
+    mock_supabase.table.return_value.insert.return_value.execute.return_value = mock_response
+
+    format_a_event = {
+        "title": "Format A Event",
+        "event_date": "2026-04-01",
+        "start_time": "10:00",
+        "end_time": "11:00",
+        "timezone": "Invalid/Timezone"
+    }
+
+    response = client.post(
+        '/calsync/api/calendar/add-link',
+        json=format_a_event,
+        content_type='application/json'
+    )
+
+    # Should succeed and fall back to UTC
+    assert response.status_code == 200
+    data = response.get_json()
+    assert 'google' in data
+
+
+def test_add_link_format_a_minimal(client, mock_supabase):
+    """Test Format A with minimal fields (no timezone defaults to UTC)."""
+    mock_response = MagicMock()
+    mock_response.data = [{"id": str(uuid.uuid4())}]
+    mock_supabase.table.return_value.insert.return_value.execute.return_value = mock_response
+
+    format_a_event = {
+        "title": "Minimal Format A",
+        "event_date": "2026-04-01",
+        "start_time": "10:00",
+        "end_time": "11:00"
+    }
+
+    response = client.post(
+        '/calsync/api/calendar/add-link',
+        json=format_a_event,
+        content_type='application/json'
+    )
+
+    assert response.status_code == 200
+    data = response.get_json()
+    assert 'google' in data
+    assert 'apple' in data
+    assert 'outlook' in data
+    assert 'yahoo' in data
+
+
+def test_add_link_missing_both_formats(client):
+    """Test that missing both format fields returns 400."""
+    response = client.post(
+        '/calsync/api/calendar/add-link',
+        json={"title": "Test Event"},
+        content_type='application/json'
+    )
+
+    assert response.status_code == 400
+    data = response.get_json()
+    assert 'error' in data
+    assert 'event_date' in data['error'].lower() or 'start' in data['error'].lower()

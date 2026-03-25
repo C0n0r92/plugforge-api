@@ -8,6 +8,7 @@ from datetime import datetime, timezone, timedelta
 from urllib.parse import urlencode, quote
 from functools import wraps
 
+import pytz
 from flask import Blueprint, jsonify, request, Response, redirect
 from flask_limiter import Limiter
 from flask_limiter.util import get_remote_address
@@ -67,6 +68,44 @@ def fmt_google(dt):
 def fmt_yahoo(dt):
     """Format datetime for Yahoo Calendar URL."""
     return dt.strftime('%Y%m%dT%H%M%S')
+
+
+def combine_datetime(date_str, time_str, tz_str="UTC"):
+    """
+    Combine date + time + timezone into a proper datetime.
+
+    Args:
+        date_str: Date string like "2026-04-01" or "April 1, 2026"
+        time_str: Time string like "10:00" or "10:00 AM" or "10:00:00"
+        tz_str: Timezone string like "Europe/London", "America/New_York", defaults to "UTC"
+
+    Returns:
+        timezone-aware datetime object
+    """
+    # Parse date
+    parsed_date = dateparser.parse(date_str)
+    if not parsed_date:
+        raise ValueError(f"Invalid date format: {date_str}")
+    date = parsed_date.date()
+
+    # Parse time
+    parsed_time = dateparser.parse(time_str)
+    if not parsed_time:
+        raise ValueError(f"Invalid time format: {time_str}")
+    time = parsed_time.time()
+
+    # Combine
+    dt = datetime.combine(date, time)
+
+    # Apply timezone
+    try:
+        tz = pytz.timezone(tz_str)
+        dt = tz.localize(dt)
+    except Exception:
+        # Fallback to UTC if invalid timezone
+        dt = dt.replace(tzinfo=pytz.UTC)
+
+    return dt
 
 
 def sanitize_input(text, max_length):
@@ -254,7 +293,21 @@ def add_link():
     Generate add-to-calendar links for all major calendar providers.
     Free tier endpoint (no API key required, but logs usage if provided).
 
-    Body: {
+    Accepts TWO formats:
+    Format A (user-friendly):
+    {
+        title: string,
+        event_date: string (e.g. "2026-04-01" or "April 1, 2026"),
+        start_time: string (e.g. "10:00" or "10:00 AM"),
+        end_time: string (e.g. "11:00" or "11:00 AM"),
+        timezone?: string (e.g. "Europe/London", defaults to "UTC"),
+        description?: string,
+        location?: string,
+        api_key?: string (optional for usage tracking)
+    }
+
+    Format B (existing ISO):
+    {
         title: string,
         start: ISO8601 string,
         end: ISO8601 string,
@@ -268,30 +321,54 @@ def add_link():
         return jsonify({"error": "No JSON data provided"}), 400
     if not data.get('title'):
         return jsonify({"error": "Missing required field: title"}), 400
-    if not data.get('start'):
-        return jsonify({"error": "Missing required field: start"}), 400
-    if not data.get('end'):
-        return jsonify({"error": "Missing required field: end"}), 400
 
-    # Validate datetime formats before sanitization
-    start_valid, start_error = validate_iso_datetime(data['start'])
-    if not start_valid:
-        return jsonify({"error": f"Invalid start datetime: {start_error}"}), 400
+    # Determine which format is being used
+    use_format_a = 'event_date' in data
+    use_format_b = 'start' in data
 
-    end_valid, end_error = validate_iso_datetime(data['end'])
-    if not end_valid:
-        return jsonify({"error": f"Invalid end datetime: {end_error}"}), 400
+    if not use_format_a and not use_format_b:
+        return jsonify({"error": "Missing required fields: provide either (event_date, start_time, end_time) or (start, end)"}), 400
 
-    # Sanitize inputs
+    # Sanitize common inputs
     title = sanitize_input(data['title'], 200)
     description = sanitize_input(data.get('description', ''), 2000)
     location = sanitize_input(data.get('location', ''), 500)
-    start = data['start']
-    end = data['end']
 
     try:
-        start_dt = parse_dt(start)
-        end_dt = parse_dt(end)
+        if use_format_a:
+            # Format A: separate date + time fields
+            if not data.get('start_time'):
+                return jsonify({"error": "Missing required field: start_time"}), 400
+            if not data.get('end_time'):
+                return jsonify({"error": "Missing required field: end_time"}), 400
+
+            event_date = data['event_date']
+            start_time = data['start_time']
+            end_time = data['end_time']
+            timezone_str = data.get('timezone', 'UTC')
+
+            start_dt = combine_datetime(event_date, start_time, timezone_str)
+            end_dt = combine_datetime(event_date, end_time, timezone_str)
+
+            # Convert to ISO strings for storage
+            start = start_dt.isoformat()
+            end = end_dt.isoformat()
+        else:
+            # Format B: existing ISO datetime strings
+            start = data['start']
+            end = data['end']
+
+            # Validate datetime formats before sanitization
+            start_valid, start_error = validate_iso_datetime(start)
+            if not start_valid:
+                return jsonify({"error": f"Invalid start datetime: {start_error}"}), 400
+
+            end_valid, end_error = validate_iso_datetime(end)
+            if not end_valid:
+                return jsonify({"error": f"Invalid end datetime: {end_error}"}), 400
+
+            start_dt = parse_dt(start)
+            end_dt = parse_dt(end)
     except Exception as e:
         return jsonify({"error": f"Invalid datetime format: {str(e)}"}), 400
 
