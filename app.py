@@ -13,9 +13,18 @@ load_dotenv()
 app = Flask(__name__)
 CORS(app)
 
+# Security: Limit request size to 16KB
+app.config['MAX_CONTENT_LENGTH'] = 16 * 1024  # 16KB
+
 # Register blueprints
-from src.calsync import calsync_bp
+from src.calsync import calsync_bp, limiter, rate_limit_handler
 app.register_blueprint(calsync_bp, url_prefix='/calsync')
+
+# Initialize rate limiter with app
+limiter.init_app(app)
+
+# Register rate limit error handler
+app.errorhandler(429)(rate_limit_handler)
 
 @app.route('/health', methods=['GET'])
 def health():
@@ -34,6 +43,11 @@ def root():
         "version": "1.0.0",
         "plugins": ["calsync"]
     })
+
+@app.errorhandler(413)
+def request_entity_too_large(error):
+    """Handle request too large errors"""
+    return jsonify({"error": "Request too large"}), 413
 
 if __name__ == '__main__':
     port = int(os.environ.get('PORT', 8080))

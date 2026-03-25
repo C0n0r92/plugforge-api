@@ -3,11 +3,14 @@ import os
 import uuid
 import secrets
 import json
+import re
 from datetime import datetime, timezone, timedelta
 from urllib.parse import urlencode, quote
 from functools import wraps
 
 from flask import Blueprint, jsonify, request, Response, redirect
+from flask_limiter import Limiter
+from flask_limiter.util import get_remote_address
 from icalendar import Calendar, Event, vText
 from dateutil import parser as dateparser
 from supabase import create_client, Client
@@ -17,6 +20,26 @@ from googleapiclient.discovery import build
 from google.auth.transport.requests import Request as GoogleRequest
 
 calsync_bp = Blueprint('calsync', __name__, url_prefix='/calsync')
+
+# Initialize rate limiter
+limiter = Limiter(
+    key_func=get_remote_address,
+    default_limits=[],
+    storage_uri="memory://",
+)
+
+@limiter.request_filter
+def rate_limit_exempt():
+    """Exempt health check from rate limits."""
+    return request.endpoint == 'calsync.health'
+
+# Custom rate limit exceeded handler
+def rate_limit_handler(e):
+    """Return JSON error for rate limit exceeded."""
+    return jsonify({
+        "error": "Rate limit exceeded",
+        "message": "Too many requests"
+    }), 429
 
 # Supabase client (using service role key for full access)
 SUPABASE_URL = os.environ.get('PP_SUPABASE_URL', 'https://msicttgznftxzvnjawst.supabase.co')
@@ -44,6 +67,53 @@ def fmt_google(dt):
 def fmt_yahoo(dt):
     """Format datetime for Yahoo Calendar URL."""
     return dt.strftime('%Y%m%dT%H%M%S')
+
+
+def sanitize_input(text, max_length):
+    """
+    Sanitize user input by:
+    - Stripping HTML tags
+    - Removing null bytes and control characters
+    - Truncating to max_length
+    """
+    if not text:
+        return ""
+
+    # Convert to string if not already
+    text = str(text)
+
+    # Remove null bytes
+    text = text.replace('\x00', '')
+
+    # Remove other control characters (except newlines, tabs, carriage returns)
+    text = re.sub(r'[\x01-\x08\x0B-\x0C\x0E-\x1F\x7F]', '', text)
+
+    # Strip HTML tags (simple regex - removes anything between < and >)
+    text = re.sub(r'<[^>]*>', '', text)
+
+    # Truncate to max length
+    if len(text) > max_length:
+        text = text[:max_length]
+
+    return text
+
+
+def validate_iso_datetime(dt_string):
+    """
+    Validate that a string is a valid ISO8601 datetime.
+    Returns (is_valid: bool, error_message: str|None)
+    """
+    if not dt_string:
+        return False, "Datetime string is required"
+
+    try:
+        # Try parsing with dateutil parser
+        parsed = dateparser.parse(dt_string)
+        if parsed is None:
+            return False, "Invalid datetime format"
+        return True, None
+    except (ValueError, TypeError) as e:
+        return False, f"Invalid datetime format: {str(e)}"
 
 
 def generate_api_key():
@@ -141,6 +211,7 @@ def health():
 
 
 @calsync_bp.route('/api/keys/generate', methods=['POST'])
+@limiter.limit("10 per hour")
 def generate_key():
     """
     Generate a new CalSync API key.
@@ -177,6 +248,7 @@ def generate_key():
 
 
 @calsync_bp.route('/api/calendar/add-link', methods=['POST'])
+@limiter.limit("60 per minute;1000 per day")
 def add_link():
     """
     Generate add-to-calendar links for all major calendar providers.
@@ -201,11 +273,21 @@ def add_link():
     if not data.get('end'):
         return jsonify({"error": "Missing required field: end"}), 400
 
-    title = data['title']
+    # Validate datetime formats before sanitization
+    start_valid, start_error = validate_iso_datetime(data['start'])
+    if not start_valid:
+        return jsonify({"error": f"Invalid start datetime: {start_error}"}), 400
+
+    end_valid, end_error = validate_iso_datetime(data['end'])
+    if not end_valid:
+        return jsonify({"error": f"Invalid end datetime: {end_error}"}), 400
+
+    # Sanitize inputs
+    title = sanitize_input(data['title'], 200)
+    description = sanitize_input(data.get('description', ''), 2000)
+    location = sanitize_input(data.get('location', ''), 500)
     start = data['start']
     end = data['end']
-    description = data.get('description', '')
-    location = data.get('location', '')
 
     try:
         start_dt = parse_dt(start)
@@ -283,6 +365,7 @@ def add_link():
 
 
 @calsync_bp.route('/ical/event/<event_id>.ics', methods=['GET'])
+@limiter.limit("120 per minute")
 def download_ics(event_id):
     """
     Download .ics file for a single event (Apple Calendar).
@@ -481,14 +564,24 @@ def gcal_create():
         return jsonify({"error": "No JSON data provided"}), 400
 
     access_token = data.get('access_token')
-    title = data.get('title')
-    start = data.get('start')
-    end = data.get('end')
-    description = data.get('description', '')
-    location = data.get('location', '')
-
-    if not all([access_token, title, start, end]):
+    if not all([access_token, data.get('title'), data.get('start'), data.get('end')]):
         return jsonify({"error": "Missing required fields: access_token, title, start, end"}), 400
+
+    # Validate datetime formats
+    start_valid, start_error = validate_iso_datetime(data['start'])
+    if not start_valid:
+        return jsonify({"error": f"Invalid start datetime: {start_error}"}), 400
+
+    end_valid, end_error = validate_iso_datetime(data['end'])
+    if not end_valid:
+        return jsonify({"error": f"Invalid end datetime: {end_error}"}), 400
+
+    # Sanitize inputs
+    title = sanitize_input(data['title'], 200)
+    description = sanitize_input(data.get('description', ''), 2000)
+    location = sanitize_input(data.get('location', ''), 500)
+    start = data['start']
+    end = data['end']
 
     try:
         # Build Google Calendar API client
@@ -544,6 +637,17 @@ def gcal_update():
     if not access_token or not event_id:
         return jsonify({"error": "Missing required fields: access_token, event_id"}), 400
 
+    # Validate datetime formats if provided
+    if 'start' in data:
+        start_valid, start_error = validate_iso_datetime(data['start'])
+        if not start_valid:
+            return jsonify({"error": f"Invalid start datetime: {start_error}"}), 400
+
+    if 'end' in data:
+        end_valid, end_error = validate_iso_datetime(data['end'])
+        if not end_valid:
+            return jsonify({"error": f"Invalid end datetime: {end_error}"}), 400
+
     try:
         creds = Credentials(token=access_token)
         service = build('calendar', 'v3', credentials=creds)
@@ -551,17 +655,17 @@ def gcal_update():
         # Get existing event
         event = service.events().get(calendarId='primary', eventId=event_id).execute()
 
-        # Update fields
+        # Update fields with sanitization
         if 'title' in data:
-            event['summary'] = data['title']
+            event['summary'] = sanitize_input(data['title'], 200)
         if 'start' in data:
             event['start'] = {'dateTime': data['start'], 'timeZone': 'UTC'}
         if 'end' in data:
             event['end'] = {'dateTime': data['end'], 'timeZone': 'UTC'}
         if 'description' in data:
-            event['description'] = data['description']
+            event['description'] = sanitize_input(data['description'], 2000)
         if 'location' in data:
-            event['location'] = data['location']
+            event['location'] = sanitize_input(data['location'], 500)
 
         updated_event = service.events().update(
             calendarId='primary',
@@ -615,6 +719,7 @@ def gcal_delete():
 # ============================================================================
 
 @calsync_bp.route('/api/feed/create', methods=['POST'])
+@limiter.limit("30 per minute")
 def feed_create():
     """
     Create a persistent iCal feed with multiple events.
@@ -648,17 +753,37 @@ def feed_create():
         return jsonify({"error": "Supabase not configured"}), 500
 
     try:
-        # Validate events structure
+        # Validate events structure and sanitize inputs
+        sanitized_events = []
         for event in events:
             if not all(k in event for k in ['title', 'start', 'end']):
                 return jsonify({"error": "Each event must have title, start, and end"}), 400
+
+            # Validate datetime formats
+            start_valid, start_error = validate_iso_datetime(event['start'])
+            if not start_valid:
+                return jsonify({"error": f"Invalid start datetime in event: {start_error}"}), 400
+
+            end_valid, end_error = validate_iso_datetime(event['end'])
+            if not end_valid:
+                return jsonify({"error": f"Invalid end datetime in event: {end_error}"}), 400
+
+            # Sanitize event data
+            sanitized_event = {
+                'title': sanitize_input(event['title'], 200),
+                'start': event['start'],
+                'end': event['end'],
+                'description': sanitize_input(event.get('description', ''), 2000),
+                'location': sanitize_input(event.get('location', ''), 500)
+            }
+            sanitized_events.append(sanitized_event)
 
         feed_id = str(uuid.uuid4())
 
         supabase.table('calsync_feeds').insert({
             'feed_id': feed_id,
             'api_key': api_key,
-            'events': json.dumps(events)
+            'events': json.dumps(sanitized_events)
         }).execute()
 
         # Increment usage
@@ -677,6 +802,7 @@ def feed_create():
 
 
 @calsync_bp.route('/feed/<feed_id>.ics', methods=['GET'])
+@limiter.limit("120 per minute")
 def feed_download(feed_id):
     """
     Download full iCal feed (subscribable URL).
@@ -751,14 +877,34 @@ def feed_update(feed_id):
         return jsonify({"error": "Supabase not configured"}), 500
 
     try:
-        # Validate events structure
+        # Validate events structure and sanitize inputs
+        sanitized_events = []
         for event in events:
             if not all(k in event for k in ['title', 'start', 'end']):
                 return jsonify({"error": "Each event must have title, start, and end"}), 400
 
+            # Validate datetime formats
+            start_valid, start_error = validate_iso_datetime(event['start'])
+            if not start_valid:
+                return jsonify({"error": f"Invalid start datetime in event: {start_error}"}), 400
+
+            end_valid, end_error = validate_iso_datetime(event['end'])
+            if not end_valid:
+                return jsonify({"error": f"Invalid end datetime in event: {end_error}"}), 400
+
+            # Sanitize event data
+            sanitized_event = {
+                'title': sanitize_input(event['title'], 200),
+                'start': event['start'],
+                'end': event['end'],
+                'description': sanitize_input(event.get('description', ''), 2000),
+                'location': sanitize_input(event.get('location', ''), 500)
+            }
+            sanitized_events.append(sanitized_event)
+
         # Update feed
         result = supabase.table('calsync_feeds').update({
-            'events': json.dumps(events),
+            'events': json.dumps(sanitized_events),
             'updated_at': datetime.now(timezone.utc).isoformat()
         }).eq('feed_id', feed_id).execute()
 
