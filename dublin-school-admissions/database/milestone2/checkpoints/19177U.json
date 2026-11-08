@@ -1,0 +1,268 @@
+{
+  "roll": "19177U",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://piusxbns.ie/2022/03/fograi-laethula-o-finn-agus-matthew-snag/",
+      "final_url": "https://piusxbns.ie/2022/03/fograi-laethula-o-finn-agus-matthew-snag/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions/policy URL from public sitemap"
+    },
+    {
+      "url": "https://piusxbns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://piusxbns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://s19177u-pxbns.s3.eu-west-1.amazonaws.com/2026/10/Annual-Admissions-Notice-Oct-2026.pdf",
+      "final_url": "https://s19177u-pxbns.s3.eu-west-1.amazonaws.com/2026/10/Annual-Admissions-Notice-Oct-2026.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "public_wordpress_media_link",
+      "label": "Annual Admissions Notice Oct 2026"
+    },
+    {
+      "url": "https://s19177u-pxbns.s3.eu-west-1.amazonaws.com/2025/10/Annual-Admissions-Notice-Oct-2025.pdf",
+      "final_url": "https://s19177u-pxbns.s3.eu-west-1.amazonaws.com/2025/10/Annual-Admissions-Notice-Oct-2025.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "public_wordpress_media_link",
+      "label": "Annual Admissions Notice Oct 2025"
+    },
+    {
+      "url": "https://s19177u-pxbns.s3.eu-west-1.amazonaws.com/2024/09/Annual-Admissions-Notice-Oct-2024-1.pdf",
+      "final_url": "https://s19177u-pxbns.s3.eu-west-1.amazonaws.com/2024/09/Annual-Admissions-Notice-Oct-2024-1.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "public_wordpress_media_link",
+      "label": "Annual Admissions Notice Oct 2024"
+    },
+    {
+      "url": "https://s19177u-pxbns.s3.eu-west-1.amazonaws.com/2022/09/Annual-Admissions-Notice-Oct-2022.pdf",
+      "final_url": "https://s19177u-pxbns.s3.eu-west-1.amazonaws.com/2022/09/Annual-Admissions-Notice-Oct-2022.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "public_wordpress_media_link",
+      "label": "Annual Admissions Notice Oct 2022"
+    },
+    {
+      "url": "https://s19177u-pxbns.s3.eu-west-1.amazonaws.com/2022/09/Annual-Admissions-Notice-Oct-2022-1.pdf",
+      "final_url": "https://s19177u-pxbns.s3.eu-west-1.amazonaws.com/2022/09/Annual-Admissions-Notice-Oct-2022-1.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "public_wordpress_media_link",
+      "label": "Annual Admissions Notice Oct 2022"
+    },
+    {
+      "url": "https://s19177u-pxbns.s3.eu-west-1.amazonaws.com/2021/10/Annual-Admissions-Notice-Oct-2021.pdf",
+      "final_url": "https://s19177u-pxbns.s3.eu-west-1.amazonaws.com/2021/10/Annual-Admissions-Notice-Oct-2021.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "public_wordpress_media_link",
+      "label": "Annual Admissions Notice Oct 2021"
+    },
+    {
+      "url": "https://s19177u-pxbns.s3.eu-west-1.amazonaws.com/2021/03/Annual-Admissions-Notice-Oct-2020.pdf",
+      "final_url": "https://s19177u-pxbns.s3.eu-west-1.amazonaws.com/2021/03/Annual-Admissions-Notice-Oct-2020.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "public_wordpress_media_link",
+      "label": "Annual Admissions Notice Oct 2020"
+    },
+    {
+      "url": "https://s19177u-pxbns.s3.eu-west-1.amazonaws.com/2020/11/NOTICE_Annual-Admissions-Notice_202010.pdf",
+      "final_url": "https://s19177u-pxbns.s3.eu-west-1.amazonaws.com/2020/11/NOTICE_Annual-Admissions-Notice_202010.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "public_wordpress_media_link",
+      "label": "Notice &#8211; Annual Admissions Notice 2020"
+    },
+    {
+      "url": "https://s19177u-pxbns.s3.eu-west-1.amazonaws.com/2026/10/Junior-Infant-Admissions-Website-Information-2026.pdf",
+      "final_url": "https://s19177u-pxbns.s3.eu-west-1.amazonaws.com/2026/10/Junior-Infant-Admissions-Website-Information-2026.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "public_wordpress_media_link",
+      "label": "Junior Infant Admissions Website Information 2026"
+    },
+    {
+      "url": "https://s19177u-pxbns.s3.eu-west-1.amazonaws.com/2022/09/SI-to-6th-class-Admissions-form-2023.pdf",
+      "final_url": "https://s19177u-pxbns.s3.eu-west-1.amazonaws.com/2022/09/SI-to-6th-class-Admissions-form-2023.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "public_wordpress_media_link",
+      "label": "SI to 6th class Admissions form 2023"
+    },
+    {
+      "url": "https://s19177u-pxbns.s3.eu-west-1.amazonaws.com/2021/10/Admission-Website-2021.pdf",
+      "final_url": "https://s19177u-pxbns.s3.eu-west-1.amazonaws.com/2021/10/Admission-Website-2021.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "public_wordpress_media_link",
+      "label": "Admission Website 2021"
+    },
+    {
+      "url": "https://s19177u-pxbns.s3.eu-west-1.amazonaws.com/2021/03/Admission-Website-2020.pdf",
+      "final_url": "https://s19177u-pxbns.s3.eu-west-1.amazonaws.com/2021/03/Admission-Website-2020.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "public_wordpress_media_link",
+      "label": "Admission Website 2020"
+    },
+    {
+      "url": "https://s19177u-pxbns.s3.eu-west-1.amazonaws.com/2021/03/Admission-Website-2020-1.pdf",
+      "final_url": "https://s19177u-pxbns.s3.eu-west-1.amazonaws.com/2021/03/Admission-Website-2020-1.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "public_wordpress_media_link",
+      "label": "Admission Website 2020 (1)"
+    },
+    {
+      "url": "https://s19177u-pxbns.s3.eu-west-1.amazonaws.com/2020/11/FORM_Application-JI-2021.pdf",
+      "final_url": "https://s19177u-pxbns.s3.eu-west-1.amazonaws.com/2020/11/FORM_Application-JI-2021.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "public_wordpress_media_link",
+      "label": "Form &#8211; Application for Admission to Junior Infants 2021"
+    },
+    {
+      "url": "https://s19177u-pxbns.s3.eu-west-1.amazonaws.com/2026/10/Admissions-Policy-FINAL.pdf",
+      "final_url": "https://s19177u-pxbns.s3.eu-west-1.amazonaws.com/2026/10/Admissions-Policy-FINAL.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Policy FINAL"
+    },
+    {
+      "url": "https://s19177u-pxbns.s3.eu-west-1.amazonaws.com/2024/05/Admissions-Policy-19177u.pdf",
+      "final_url": "https://s19177u-pxbns.s3.eu-west-1.amazonaws.com/2024/05/Admissions-Policy-19177u.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Policy 19177u"
+    },
+    {
+      "url": "https://s19177u-pxbns.s3.eu-west-1.amazonaws.com/2020/11/POLICY_Admissions-Policy_20200921.pdf",
+      "final_url": "https://s19177u-pxbns.s3.eu-west-1.amazonaws.com/2020/11/POLICY_Admissions-Policy_20200921.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "public_wordpress_media_link",
+      "label": "Policy &#8211; Admissions Policy 2020"
+    },
+    {
+      "url": "https://piusxbns.ie/our-school/admissions/",
+      "final_url": "https://piusxbns.ie/our-school/admissions-info/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions Info"
+    },
+    {
+      "url": "https://s19177u-pxbns.s3.eu-west-1.amazonaws.com/2026/05/Senior-Infants-to-6th-class-application-form-20262027.pdf",
+      "final_url": "https://s19177u-pxbns.s3.eu-west-1.amazonaws.com/2026/05/Senior-Infants-to-6th-class-application-form-20262027.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "Application form for Senior Infants – 6th Class 2026- 2027"
+    },
+    {
+      "url": "https://piusxbns.ie/our-school/admissions-info/",
+      "final_url": "https://piusxbns.ie/our-school/admissions-info/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions Information"
+    },
+    {
+      "url": "https://piusxbns.ie/parents/booklists/",
+      "final_url": "https://piusxbns.ie/parents/booklists/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Booklists 2023/24"
+    },
+    {
+      "url": "https://piusxbns.ie/2023/11/junior-infants-2024-admissions-window/",
+      "final_url": "https://piusxbns.ie/2023/11/junior-infants-2024-admissions-window/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions/policy URL from public sitemap"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19177U",
+      "url": "https://piusxbns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "label": "Oldest public admission media (all dates)",
+      "sha256": "af7af525a638311801c576a3a5e82df040f20e729d702b949cedc91ad7e586b1",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19177U_af7af525a638311801c5.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 3944
+    },
+    {
+      "roll": "19177U",
+      "url": "https://piusxbns.ie/our-school/admissions-info/",
+      "label": "Admissions Info",
+      "sha256": "8b30e8062613bb4646bc60c0f2326bf4e00517c1b7cdae1cc151b1de53dd1bdc",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19177U_8b30e8062613bb4646bc.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 930
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://piusxbns.ie/2023/10/junior-infants-admission-sept-24/",
+      "label": "Admissions/policy URL from public sitemap",
+      "via": "prior_public_admissions_landing"
+    },
+    {
+      "url": "https://piusxbns.ie/wp-sitemap.xml",
+      "label": "Public sitemap",
+      "via": "sitemap_root"
+    },
+    {
+      "url": "https://piusxbns.ie/parents/useful-information/",
+      "label": "Useful Information",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://piusxbns.ie/parents/school-uniform/",
+      "label": "School Uniform",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://piusxbns.ie/parents/gaeilge-i-ar-scoil/",
+      "label": "Gaeilge inár scoil",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://piusxbns.ie/parents/extra-curricular-activities/whizz-quiz/",
+      "label": "Whizz Quiz",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://piusxbns.ie/parents/extra-curricular-activities/the-lion-king-jr-musical/",
+      "label": "The Lion King Jr Musical",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://piusxbns.ie/parents/extra-curricular-activities/choir/",
+      "label": "Choir",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://piusxbns.ie/parents/extra-curricular-activities/",
+      "label": "Extra Curricular Activities",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://piusxbns.ie/parents/community-links/",
+      "label": "Community Links",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://piusxbns.ie/parents/",
+      "label": "Parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://piusxbns.ie/our-school/policies/",
+      "label": "Policies",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://piusxbns.ie/",
+      "label": "School homepage",
+      "via": "home"
+    }
+  ],
+  "elapsed_seconds": 27.4,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:04:48+0000"
+}

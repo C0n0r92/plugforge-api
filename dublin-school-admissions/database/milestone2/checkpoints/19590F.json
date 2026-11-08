@@ -1,0 +1,116 @@
+{
+  "roll": "19590F",
+  "status": "bounded_search_no_new_notice_found",
+  "attempts": [
+    {
+      "url": "https://www.scoilmochua.org/admissions/",
+      "final_url": "https://www.scoilmochua.org/admissions/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://www.scoilmochua.org/assets/files/doc/admissions_policy_november_2024_final.doc",
+      "final_url": "https://www.scoilmochua.org/assets/files/doc/admissions_policy_november_2024_final.doc",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admission Policy"
+    },
+    {
+      "url": "https://www.scoilmochua.org/assets/files/docx/178903272546822511.docx",
+      "final_url": "https://www.scoilmochua.org/assets/files/docx/178903272546822511.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Applica tion Form"
+    },
+    {
+      "url": "https://www.scoilmochua.org/sitemap.xml",
+      "final_url": "https://www.scoilmochua.org/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.scoilmochua.org/school-policies/",
+      "final_url": "https://www.scoilmochua.org/school-policies/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Policies"
+    },
+    {
+      "url": "https://www.scoilmochua.org/assets/files/docx/parents_guardians_complaints_procedure_fina.docx",
+      "final_url": "https://www.scoilmochua.org/assets/files/docx/parents_guardians_complaints_procedure_fina.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents Guardians Complaints Procedure"
+    },
+    {
+      "url": "https://www.scoilmochua.org/parents-guardians/",
+      "final_url": "https://www.scoilmochua.org/parents-guardians/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents / Guardians"
+    },
+    {
+      "url": "https://www.scoilmochua.org/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://www.scoilmochua.org/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "http_404",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://www.scoilmochua.org/",
+      "final_url": "https://www.scoilmochua.org/",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.scoilmochua.org/assets/files/pdf/crc-scoil-mochua-anti-bullying-policy.pdf",
+      "final_url": "https://www.scoilmochua.org/assets/files/pdf/crc-scoil-mochua-anti-bullying-policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Anti-Bullying Policy"
+    },
+    {
+      "url": "https://www.scoilmochua.org/assets/files/docx/work_experience_policy_1.docx",
+      "final_url": "https://www.scoilmochua.org/assets/files/docx/work_experience_policy_1.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Work Experience"
+    },
+    {
+      "url": "https://www.scoilmochua.org/assets/files/docx/transport_policy_april_24.docx",
+      "final_url": "https://www.scoilmochua.org/assets/files/docx/transport_policy_april_24.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Transport Policy"
+    },
+    {
+      "url": "https://www.scoilmochua.org/assets/files/docx/intimate_care_policy.docx",
+      "final_url": "https://www.scoilmochua.org/assets/files/docx/intimate_care_policy.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Intimate Care Policy"
+    },
+    {
+      "url": "https://www.scoilmochua.org/assets/files/docx/inclusion_policy.docx",
+      "final_url": "https://www.scoilmochua.org/assets/files/docx/inclusion_policy.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Inclusion Policy"
+    },
+    {
+      "url": "https://www.scoilmochua.org/assets/files/docx/emergency_closures_policy_january_25.docx",
+      "final_url": "https://www.scoilmochua.org/assets/files/docx/emergency_closures_policy_january_25.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Emergency Closures"
+    }
+  ],
+  "documents": [],
+  "pending_links": [],
+  "elapsed_seconds": 47.49,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:56:32+0000"
+}

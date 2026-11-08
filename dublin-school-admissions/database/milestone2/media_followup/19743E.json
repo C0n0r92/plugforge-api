@@ -1,0 +1,35 @@
+{
+  "roll": "19743E",
+  "attempted_at": "2026-11-08T12:53:37+0000",
+  "method": "documented_public_WordPress_media_notice_and_Irish_title_gap_search",
+  "attempts": [
+    {
+      "url": "https://stbernadettesjns.com/wp-json/wp/v2/media?search=notice&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok"
+    },
+    {
+      "url": "https://stbernadettesjns.com/wp-json/wp/v2/media?search=f%C3%B3gra&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok"
+    },
+    {
+      "url": "https://stbernadettesjns.com/wp-content/uploads/2021/02/admissions-notice-pg1.png",
+      "status": "ok",
+      "label": "admissions-notice-pg1"
+    },
+    {
+      "url": "https://stbernadettesjns.com/wp-content/uploads/2021/02/admissions-notice-pg1-1.png",
+      "status": "ok",
+      "label": "admissions-notice-pg1-1"
+    },
+    {
+      "url": "https://stbernadettesjns.com/wp-content/uploads/2021/02/admissions-notice-pg2.png",
+      "status": "ok",
+      "label": "admissions-notice-pg2"
+    }
+  ],
+  "documents": [],
+  "pending_links": [],
+  "earliest_year_cutoff": null,
+  "status": "attempted_no_new_notice_payload",
+  "elapsed_seconds": 14.4
+}

@@ -1,0 +1,111 @@
+{
+  "roll": "18646B",
+  "attempted_at": "2026-11-08T13:02:49+0000",
+  "method": "documented_public_WordPress_media_notice_and_Irish_title_gap_search",
+  "attempts": [
+    {
+      "url": "https://www.springdale.ie/wp-json/wp/v2/media?search=notice&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.springdale.ie/wp-json/wp/v2/media?search=f%C3%B3gra&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.springdale.ie/wp-content/uploads/2022/09/Admissions-Notice.docx",
+      "status": "ok",
+      "label": "Admissions Notice"
+    },
+    {
+      "url": "https://www.springdale.ie/wp-content/uploads/2023/09/Admissions-Notice-2024-2025.pdf",
+      "status": "ok",
+      "label": "Admissions Notice 2024 2025"
+    },
+    {
+      "url": "https://www.springdale.ie/wp-content/uploads/2024/09/Admissions-Notice-2025-2026.pdf",
+      "status": "ok",
+      "label": "Admissions Notice 2025 2026"
+    },
+    {
+      "url": "https://www.springdale.ie/wp-content/uploads/2025/09/Annual-Admissions-Notice-2026-2027.pdf",
+      "status": "ok",
+      "label": "Annual Admissions Notice 2026 2027"
+    },
+    {
+      "url": "https://www.springdale.ie/wp-content/uploads/2025/09/Annual-Admissions-Notice-2026-2027-1.pdf",
+      "status": "ok",
+      "label": "Annual Admissions Notice 2026 2027"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "18646B",
+      "url": "https://www.springdale.ie/wp-content/uploads/2022/09/Admissions-Notice.docx",
+      "label": "Admissions Notice",
+      "sha256": "9076a6aaf95a79f07c32b50dac16e12a6a9f85415353c534d15fc0b6447392e2",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/18646B_9076a6aaf95a79f07c32.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 3220,
+      "discovery_method": "documented_WP_notice_or_Irish_title_media_query",
+      "cms_media_date_as_printed_not_publication": "2022-09-29T21:37:34"
+    },
+    {
+      "roll": "18646B",
+      "url": "https://www.springdale.ie/wp-content/uploads/2023/09/Admissions-Notice-2024-2025.pdf",
+      "label": "Admissions Notice 2024 2025",
+      "sha256": "5f3a76e6d26a6e066c29be8419b990bdebac6efcc88c4490a4b20408a53814da",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/18646B_5f3a76e6d26a6e066c29.txt",
+      "source_file": "database/milestone2/cache/5f3a76e6d26a6e066c29be8419b990bdebac6efcc88c4490a4b20408a53814da.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 3866,
+      "discovery_method": "documented_WP_notice_or_Irish_title_media_query",
+      "cms_media_date_as_printed_not_publication": "2023-09-05T13:28:19"
+    },
+    {
+      "roll": "18646B",
+      "url": "https://www.springdale.ie/wp-content/uploads/2024/09/Admissions-Notice-2025-2026.pdf",
+      "label": "Admissions Notice 2025 2026",
+      "sha256": "23c53500662b6e4d6a5461e44f23dd15d1ad5764fdcc332ef70f7f8f61663802",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/18646B_23c53500662b6e4d6a54.txt",
+      "source_file": "database/milestone2/cache/23c53500662b6e4d6a5461e44f23dd15d1ad5764fdcc332ef70f7f8f61663802.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 3882,
+      "discovery_method": "documented_WP_notice_or_Irish_title_media_query",
+      "cms_media_date_as_printed_not_publication": "2024-09-19T11:35:52"
+    },
+    {
+      "roll": "18646B",
+      "url": "https://www.springdale.ie/wp-content/uploads/2025/09/Annual-Admissions-Notice-2026-2027.pdf",
+      "label": "Annual Admissions Notice 2026 2027",
+      "sha256": "e83334714f84d4acc54d8842848df5502f8cf25d4c3257fc936e1fb235ce44da",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/18646B_e83334714f84d4acc54d.txt",
+      "source_file": "database/milestone2/cache/e83334714f84d4acc54d8842848df5502f8cf25d4c3257fc936e1fb235ce44da.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 3757,
+      "discovery_method": "documented_WP_notice_or_Irish_title_media_query",
+      "cms_media_date_as_printed_not_publication": "2025-09-11T10:46:36"
+    },
+    {
+      "roll": "18646B",
+      "url": "https://www.springdale.ie/wp-content/uploads/2025/09/Annual-Admissions-Notice-2026-2027-1.pdf",
+      "label": "Annual Admissions Notice 2026 2027",
+      "sha256": "b4ed6489f655c317d59e140a9baee57bdfb25b9b14d3859ed12cfe471a1c6c02",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/18646B_b4ed6489f655c317d59e.txt",
+      "source_file": "database/milestone2/cache/b4ed6489f655c317d59e140a9baee57bdfb25b9b14d3859ed12cfe471a1c6c02.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 3693,
+      "discovery_method": "documented_WP_notice_or_Irish_title_media_query",
+      "cms_media_date_as_printed_not_publication": "2025-09-11T16:41:56"
+    }
+  ],
+  "pending_links": [],
+  "earliest_year_cutoff": null,
+  "status": "attempted_new_historical_notice_candidates",
+  "elapsed_seconds": 21.6
+}

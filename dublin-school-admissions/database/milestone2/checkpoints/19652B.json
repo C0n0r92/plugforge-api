@@ -1,0 +1,352 @@
+{
+  "roll": "19652B",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.sacredheartjns.ie/enrolment-20252026/",
+      "final_url": "https://www.sacredheartjns.ie/enrolment-20252026/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Enrolment 2027/2028"
+    },
+    {
+      "url": "https://www.sacredheartjns.ie/securedoclink/15/?open=true",
+      "final_url": "https://www.sacredheartjns.ie/cmsfiles/items/securedocs/8724-Admissions-noticeSacredHeartJNS2728.docx.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions Notice 2027/2028"
+    },
+    {
+      "url": "https://www.sacredheartjns.ie/admin/?open=/enrolment-20252026/",
+      "final_url": "https://www.sacredheartjns.ie/admin/?open=/enrolment-20252026/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.sacredheartjns.ie/sitemap.xml",
+      "final_url": "https://www.sacredheartjns.ie/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.sacredheartjns.ie/securedoclink/7/?open=true",
+      "final_url": "https://www.sacredheartjns.ie/cmsfiles/items/securedocs/AdmissionPolicy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admission Policy"
+    },
+    {
+      "url": "https://www.sacredheartjns.ie/securedoclink/18/?open=true",
+      "final_url": "https://view.officeapps.live.com/op/embed.aspx?src=https://www.sacredheartjns.ie/cmsfiles/items/securedocs/9975-TheDenapplicationform2027-2028.docx",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Download"
+    },
+    {
+      "url": "https://www.sacredheartjns.ie/securedoclink/17/?open=true",
+      "final_url": "https://view.officeapps.live.com/op/embed.aspx?src=https://www.sacredheartjns.ie/cmsfiles/items/securedocs/8080-Juniorinfantform2027-2028.docx",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Download"
+    },
+    {
+      "url": "https://www.sacredheartjns.ie/securedoclink/16/?open=true",
+      "final_url": "https://view.officeapps.live.com/op/embed.aspx?src=https://www.sacredheartjns.ie/cmsfiles/items/securedocs/3837-EarlyStartApplicationForm2027-2028.docx",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Download"
+    },
+    {
+      "url": "https://www.sacredheartjns.ie/parents/spherse/",
+      "final_url": "https://www.sacredheartjns.ie/parents/spherse/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "SPHE/RSE"
+    },
+    {
+      "url": "https://www.sacredheartjns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://www.sacredheartjns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "http_404",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://www.sacredheartjns.ie/cmsfiles/items/downloads/9199-RSE-Manual-JI-and-SI.pdf",
+      "final_url": "https://www.sacredheartjns.ie/cmsfiles/items/downloads/9199-RSE-Manual-JI-and-SI.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "RSE Book for Junior and Senior Infants"
+    },
+    {
+      "url": "https://www.sacredheartjns.ie/cmsfiles/items/downloads/3191-RSE-Manual-1st-and-2nd.pdf",
+      "final_url": "https://www.sacredheartjns.ie/cmsfiles/items/downloads/3191-RSE-Manual-1st-and-2nd.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "RSE book for 1st and 2nd Class"
+    },
+    {
+      "url": "https://www.sacredheartjns.ie/parents/policies/",
+      "final_url": "https://www.sacredheartjns.ie/parents/policies/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.sacredheartjns.ie/documentlink/535/?open=true",
+      "final_url": "https://view.officeapps.live.com/op/embed.aspx?src=https://swddoc.b-cdn.net/133/docletter/20231119063352_32_Admissions-notice_Sacred_Heart_JNS_24.25.docx",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Annual Admissions Notice 2024/25"
+    },
+    {
+      "url": "https://www.sacredheartjns.ie/documentlink/565/?open=true",
+      "final_url": "https://view.officeapps.live.com/op/embed.aspx?src=https://swddoc.b-cdn.net/133/docletter/20250106022757_10_Admissions-notice_Sacred_Heart_JNS_25.26_1_.docx",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Annual Admissions Notice 2025/2026"
+    },
+    {
+      "url": "https://www.sacredheartjns.ie/parents/newsletters/",
+      "final_url": "https://www.sacredheartjns.ie/parents/newsletters/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Newsletters"
+    },
+    {
+      "url": "https://www.sacredheartjns.ie/parents/home-school/",
+      "final_url": "https://www.sacredheartjns.ie/parents/home-school/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Home School Community Liasion"
+    },
+    {
+      "url": "https://www.sacredheartjns.ie/parents/",
+      "final_url": "https://www.sacredheartjns.ie/parents/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents"
+    },
+    {
+      "url": "https://www.sacredheartjns.ie/documentlink/588/?open=true&download=true",
+      "final_url": "https://swdcache.b-cdn.net/133/docletter/20260902023356_23_Bi_cinealta_June_26.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.sacredheartjns.ie/documentlink/587/?open=true&download=true",
+      "final_url": "https://swdcache.b-cdn.net/133/docletter/20260902023327_48_Child_Safeguarding_Statement.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.sacredheartjns.ie/documentlink/565/?open=true&download=true",
+      "final_url": "https://swdcache.b-cdn.net/133/docletter/20250106022757_10_Admissions-notice_Sacred_Heart_JNS_25.26_1_.docx",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.sacredheartjns.ie/documentlink/561/?open=true&download=true",
+      "final_url": "https://swdcache.b-cdn.net/133/docletter/20240916023432_65_Anti_Bullying_Policy_2024_2025.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.sacredheartjns.ie/documentlink/553/?open=true&download=true",
+      "final_url": "https://swdcache.b-cdn.net/133/downloads/20240213053510_45_StaySafePolicy2024.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.sacredheartjns.ie/documentlink/552/?open=true&download=true",
+      "final_url": "https://swdcache.b-cdn.net/133/docletter/20240212052058_19_RSE_Sensitive_Language_Grid.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": ""
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19652B",
+      "url": "https://www.sacredheartjns.ie/parents/policies/",
+      "label": "Policies",
+      "sha256": "05dc9c6fb4cbb2a43af01b1e55ffbee0b49caedf54197b64a126e6c70e4dbf86",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19652B_05dc9c6fb4cbb2a43af0.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 751
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.sacredheartjns.ie/documentlink/551/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sacredheartjns.ie/documentlink/550/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sacredheartjns.ie/documentlink/550/?open=true",
+      "label": "RSE Parent Information Leaflet",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sacredheartjns.ie/documentlink/549/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sacredheartjns.ie/documentlink/549/?open=true",
+      "label": "RSE in Primary School Parent Tips",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sacredheartjns.ie/documentlink/548/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sacredheartjns.ie/documentlink/547/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sacredheartjns.ie/documentlink/547/?open=true",
+      "label": "Stay Safe Parents Guide",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sacredheartjns.ie/documentlink/535/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sacredheartjns.ie/documentlink/534/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sacredheartjns.ie/documentlink/534/?open=true",
+      "label": "Admission Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sacredheartjns.ie/documentlink/526/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sacredheartjns.ie/documentlink/521/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sacredheartjns.ie/documentlink/507/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sacredheartjns.ie/documentlink/507/?open=true",
+      "label": "Remote learning letter for parents PDF",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sacredheartjns.ie/documentlink/506/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sacredheartjns.ie/documentlink/506/?open=true",
+      "label": "Remote Teaching and Learning Guidelines for Parents/Guardians",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sacredheartjns.ie/documentlink/505/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sacredheartjns.ie/documentlink/504/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sacredheartjns.ie/documentlink/497/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sacredheartjns.ie/admin/?open=/parents/spherse/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sacredheartjns.ie/admin/?open=/parents/policies/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sacredheartjns.ie/admin/?open=/parents/newsletters/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sacredheartjns.ie/admin/?open=/parents/home-school/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sacredheartjns.ie/admin/?open=/parents/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sacredheartjns.ie/",
+      "label": "School homepage",
+      "via": "home"
+    },
+    {
+      "url": "https://www.sacredheartjns.ie/documentlink/561/?open=true",
+      "label": "Anti Bullying Policy Updated 2024-2025",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sacredheartjns.ie/documentlink/553/?open=true",
+      "label": "Stay Safe Policy 2024",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sacredheartjns.ie/documentlink/551/?open=true",
+      "label": "RSE Policy 2024",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sacredheartjns.ie/documentlink/548/?open=true",
+      "label": "SPHE Policy 2024",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sacredheartjns.ie/cmsfiles/policies/privacy/",
+      "label": "Website Privacy Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sacredheartjns.ie/cmsfiles/policies/cookie/",
+      "label": "Cookie Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 77.73,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:57:27+0000"
+}

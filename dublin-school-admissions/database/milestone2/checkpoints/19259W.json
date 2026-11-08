@@ -1,0 +1,206 @@
+{
+  "roll": "19259W",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.hollyparkgns.ie/post/enrolment-information",
+      "final_url": "https://www.hollyparkgns.ie/post/enrolment-information",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions/policy URL from public sitemap"
+    },
+    {
+      "url": "https://www.hollyparkgns.ie/startingschool",
+      "final_url": "https://www.hollyparkgns.ie/startingschool",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://www.hollyparkgns.ie/_files/ugd/d9adae_be6dd308980f422e80b3ffce885248ac.docx?dn=APPLICATION%20TO%20ENROL%20FOR%20SI%20to%206th%20Class.docx",
+      "final_url": "https://www.hollyparkgns.ie/_files/ugd/d9adae_be6dd308980f422e80b3ffce885248ac.docx?dn=APPLICATION%20TO%20ENROL%20FOR%20SI%20to%206th%20Class.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions application form for 2nd - 6th class"
+    },
+    {
+      "url": "https://www.hollyparkgns.ie/_files/ugd/d9adae_9261d529dd0c4e3597d442cc18fd0a5e.pdf",
+      "final_url": "https://www.hollyparkgns.ie/_files/ugd/d9adae_9261d529dd0c4e3597d442cc18fd0a5e.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions Policy"
+    },
+    {
+      "url": "https://www.hollyparkgns.ie/sitemap.xml",
+      "final_url": "https://www.hollyparkgns.ie/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.hollyparkgns.ie/policies",
+      "final_url": "https://www.hollyparkgns.ie/policies",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.hollyparkgns.ie/_files/ugd/d9adae_d5676be8a6a6473094e5490417c6186b.pdf",
+      "final_url": "https://www.hollyparkgns.ie/_files/ugd/d9adae_d5676be8a6a6473094e5490417c6186b.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Notification of Annual Review of Anti-Bullying Policy by the Board of Management"
+    },
+    {
+      "url": "https://www.hollyparkgns.ie/_files/ugd/d9adae_c726d6f135c748cab09005a81d14041e.pdf",
+      "final_url": "https://www.hollyparkgns.ie/_files/ugd/d9adae_c726d6f135c748cab09005a81d14041e.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions Policy"
+    },
+    {
+      "url": "https://www.hollyparkgns.ie/parents-association",
+      "final_url": "https://www.hollyparkgns.ie/parents-association",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents' Association"
+    },
+    {
+      "url": "https://www.hollyparkgns.ie/pages-sitemap.xml",
+      "final_url": "https://www.hollyparkgns.ie/pages-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.hollyparkgns.ie/copy-of-parents-association",
+      "final_url": "https://www.hollyparkgns.ie/copy-of-parents-association",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Board of Management"
+    },
+    {
+      "url": "https://www.hollyparkgns.ie/blog-posts-sitemap.xml",
+      "final_url": "https://www.hollyparkgns.ie/blog-posts-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.hollyparkgns.ie/blog-categories-sitemap.xml",
+      "final_url": "https://www.hollyparkgns.ie/blog-categories-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.hollyparkgns.ie/admissions",
+      "final_url": "https://www.hollyparkgns.ie/admissions",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions/policy URL from public sitemap"
+    },
+    {
+      "url": "https://www.hollyparkgns.ie/",
+      "final_url": "https://www.hollyparkgns.ie/",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.hollyparkgns.ie/_files/ugd/d9adae_c031e6ff9d2a4ef9a7f0ddac8677c56b.pdf",
+      "final_url": "https://www.hollyparkgns.ie/_files/ugd/d9adae_c031e6ff9d2a4ef9a7f0ddac8677c56b.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Whistle Blower Policy"
+    },
+    {
+      "url": "https://www.hollyparkgns.ie/_files/ugd/d9adae_89fbc35ae1864a7fa10bf4eb99b21238.pdf",
+      "final_url": "https://www.hollyparkgns.ie/_files/ugd/d9adae_89fbc35ae1864a7fa10bf4eb99b21238.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Bí Cineálta Policy"
+    },
+    {
+      "url": "https://www.hollyparkgns.ie/_files/ugd/d9adae_76704fa4a66c443e97382c8aaef71ad1.pdf",
+      "final_url": "https://www.hollyparkgns.ie/_files/ugd/d9adae_76704fa4a66c443e97382c8aaef71ad1.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Substance Use Policy"
+    },
+    {
+      "url": "https://www.hollyparkgns.ie/_files/ugd/d9adae_6bf85c995344497a9ff6e8552a583514.pdf",
+      "final_url": "https://www.hollyparkgns.ie/_files/ugd/d9adae_6bf85c995344497a9ff6e8552a583514.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Healthy Eating Policy"
+    },
+    {
+      "url": "https://www.hollyparkgns.ie/_files/ugd/d9adae_3f5753301c194f3c99256f5390fa7573.pdf",
+      "final_url": "https://www.hollyparkgns.ie/_files/ugd/d9adae_3f5753301c194f3c99256f5390fa7573.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Communications Policy"
+    },
+    {
+      "url": "https://www.hollyparkgns.ie/_files/ugd/d9adae_2d87695699ec42a49befad7556d43914.pdf",
+      "final_url": "https://www.hollyparkgns.ie/_files/ugd/d9adae_2d87695699ec42a49befad7556d43914.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Critical Incident Policy"
+    },
+    {
+      "url": "https://www.hollyparkgns.ie/_files/ugd/d9adae_1c1f0e45e38e411e8f761e4a15a352f1.pdf",
+      "final_url": "https://www.hollyparkgns.ie/_files/ugd/d9adae_1c1f0e45e38e411e8f761e4a15a352f1.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Religion Policy"
+    },
+    {
+      "url": "https://www.hollyparkgns.ie/_files/ugd/d9adae_014c0e59ddbb467e933fd84ed54257cc.pdf",
+      "final_url": "https://www.hollyparkgns.ie/_files/ugd/d9adae_014c0e59ddbb467e933fd84ed54257cc.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Acceptable Use Policy"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19259W",
+      "url": "https://www.hollyparkgns.ie/_files/ugd/d9adae_9261d529dd0c4e3597d442cc18fd0a5e.pdf",
+      "label": "Admissions Policy",
+      "sha256": "5c742bf5314070d3056f5c88f3289ca4f63f16d6cd36b985a7f5c2c1228c444d",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19259W_5c742bf5314070d3056f.txt",
+      "source_file": "database/milestone2/cache/5c742bf5314070d3056f5c88f3289ca4f63f16d6cd36b985a7f5c2c1228c444d.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 35904
+    },
+    {
+      "roll": "19259W",
+      "url": "https://www.hollyparkgns.ie/_files/ugd/d9adae_c726d6f135c748cab09005a81d14041e.pdf",
+      "label": "Admissions Policy",
+      "sha256": "8e1e13d5d3bb6d93afd55d7cac62b174b7e0bd10a3cfc6989e613ca5deabe1df",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19259W_8e1e13d5d3bb6d93afd5.txt",
+      "source_file": "database/milestone2/cache/8e1e13d5d3bb6d93afd55d7cac62b174b7e0bd10a3cfc6989e613ca5deabe1df.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 34127
+    },
+    {
+      "roll": "19259W",
+      "url": "https://www.hollyparkgns.ie/admissions",
+      "label": "Admissions/policy URL from public sitemap",
+      "sha256": "55f6794e5be3fe9419688c39c0d7ee58ab4cfbd4f4eb0d8204355bb808831d23",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19259W_55f6794e5be3fe941968.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 18100
+    }
+  ],
+  "pending_links": [],
+  "elapsed_seconds": 64.8,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:55:09+0000"
+}

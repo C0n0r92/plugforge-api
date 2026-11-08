@@ -1,0 +1,36 @@
+{
+  "roll": "20309S",
+  "url": "https://hopejns.ie/admissions_policies/admissions_notification_2022_2023.pdf",
+  "prior_sha256": "e281d3ab781c0ae4dbe29da9fb3df48bd67a2979c86e223bbf3863125948c2a3",
+  "prior_status": "ok",
+  "prior_attempted_at": "2026-11-08T12:32:55+0000",
+  "started_at": "2026-11-08T13:29:46+0000",
+  "method": "recheck_prior_success_unparsed_notice_with_actual_OCR_if_needed",
+  "documents": [
+    {
+      "roll": "20309S",
+      "url": "https://hopejns.ie/admissions_policies/admissions_notification_2022_2023.pdf",
+      "sha256": "e281d3ab781c0ae4dbe29da9fb3df48bd67a2979c86e223bbf3863125948c2a3",
+      "format": "pdf",
+      "source_file": "database/milestone2/unparsed_notice_followup/cache/e281d3ab781c0ae4dbe29da9fb3df48bd67a2979c86e223bbf3863125948c2a3.pdf",
+      "text_file": "database/milestone2/unparsed_notice_followup/evidence/20309S_e281d3ab781c0ae4dbe2.txt",
+      "candidate_status": "actual_body_requires_manual_review",
+      "ocr": false,
+      "retrieved_at": "2026-11-08T13:29:53+0000"
+    }
+  ],
+  "attempts": [
+    {
+      "url": "https://hopejns.ie/admissions_policies/admissions_notification_2022_2023.pdf",
+      "final_url": "https://hopejns.ie/admissions_policies/admissions_notification_2022_2023.pdf",
+      "status": "ok"
+    }
+  ],
+  "status": "body_retrieved_requires_manual_review",
+  "sha256": "e281d3ab781c0ae4dbe29da9fb3df48bd67a2979c86e223bbf3863125948c2a3",
+  "same_payload_as_prior_success": true,
+  "format": "pdf",
+  "parse_stderr": "",
+  "text_length": 2153,
+  "elapsed_seconds": 7.66
+}

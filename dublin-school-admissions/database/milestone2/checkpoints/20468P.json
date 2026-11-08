@@ -1,0 +1,302 @@
+{
+  "roll": "20468P",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://stdominicsnationalschool.wordpress.com",
+      "final_url": "https://stdominicsnationalschool.wordpress.com",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://stdominicsnationalschool.wordpress.com/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://stdominicsnationalschool.wordpress.com/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "http_404",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://stdominicsnationalschool.wordpress.com/enrolment/",
+      "final_url": "https://stdominicsnationalschool.wordpress.com/enrolment/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fstdominicsnationalschool.wordpress.com%2Fenrolment%2F&signup_flow=account",
+      "final_url": "https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fstdominicsnationalschool.wordpress.com%2Fenrolment%2F&signup_flow=account",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Log in now."
+    },
+    {
+      "url": "https://wordpress.com/abuse/?report_url=https://stdominicsnationalschool.wordpress.com/enrolment/",
+      "final_url": "https://wordpress.com/abuse/?report_url=https://stdominicsnationalschool.wordpress.com/enrolment/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Report this content"
+    },
+    {
+      "url": "https://wordpress.com/abuse/?report_type=technology&report_url=https%3A%2F%2Fstdominicsnationalschool.wordpress.com%2Fenrolment%2F",
+      "final_url": "https://wordpress.com/abuse/?report_type=technology&report_url=https%3A%2F%2Fstdominicsnationalschool.wordpress.com%2Fenrolment%2F",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Technological Harm Malware, spyware, adware etc. Phishing. Spam or machine-generated content."
+    },
+    {
+      "url": "https://wordpress.com/abuse/?report_url=https%3A%2F%2Fstdominicsnationalschool.wordpress.com%2Fenrolment%2F",
+      "final_url": "https://wordpress.com/abuse/?report_url=https%3A%2F%2Fstdominicsnationalschool.wordpress.com%2Fenrolment%2F",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "All reporting options"
+    },
+    {
+      "url": "https://wordpress.com/abuse/?report_type=regulation&report_url=https%3A%2F%2Fstdominicsnationalschool.wordpress.com%2Fenrolment%2F",
+      "final_url": "https://wordpress.com/abuse/?report_type=regulation&report_url=https%3A%2F%2Fstdominicsnationalschool.wordpress.com%2Fenrolment%2F",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Regulated Material The sale of prohibited or highly regulated items. Gambling and explicit material."
+    },
+    {
+      "url": "https://wordpress.com/abuse/?report_type=privacy&report_url=https%3A%2F%2Fstdominicsnationalschool.wordpress.com%2Fenrolment%2F",
+      "final_url": "https://wordpress.com/abuse/?report_type=privacy&report_url=https%3A%2F%2Fstdominicsnationalschool.wordpress.com%2Fenrolment%2F",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Privacy Concerns about my private information."
+    },
+    {
+      "url": "https://wordpress.com/abuse/?report_type=legal&report_url=https%3A%2F%2Fstdominicsnationalschool.wordpress.com%2Fenrolment%2F",
+      "final_url": "https://wordpress.com/abuse/?report_type=legal&report_url=https%3A%2F%2Fstdominicsnationalschool.wordpress.com%2Fenrolment%2F",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Legal Report copyright and trademark infringement, illegal content in the EU, or non-consensual intimate imagery under the Take It Down Act."
+    },
+    {
+      "url": "https://wordpress.com/abuse/?report_type=at-risk&report_url=https%3A%2F%2Fstdominicsnationalschool.wordpress.com%2Fenrolment%2F",
+      "final_url": "https://wordpress.com/abuse/?report_type=at-risk&report_url=https%3A%2F%2Fstdominicsnationalschool.wordpress.com%2Fenrolment%2F",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Person at Risk A person at imminent risk of death or severe physical harm."
+    },
+    {
+      "url": "https://wordpress.com/abuse/?report_type=abuse&report_url=https%3A%2F%2Fstdominicsnationalschool.wordpress.com%2Fenrolment%2F",
+      "final_url": "https://wordpress.com/abuse/?report_type=abuse&report_url=https%3A%2F%2Fstdominicsnationalschool.wordpress.com%2Fenrolment%2F",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Abuse Abusive content, harassment, and defamation."
+    },
+    {
+      "url": "https://wordpress.com/abuse/?category=violence&report_type=abuse&report_url=https%3A%2F%2Fstdominicsnationalschool.wordpress.com%2Fenrolment%2F",
+      "final_url": "https://wordpress.com/abuse/?category=violence&report_type=abuse&report_url=https%3A%2F%2Fstdominicsnationalschool.wordpress.com%2Fenrolment%2F",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Calls to violence"
+    },
+    {
+      "url": "https://wordpress.com/abuse/?category=terrorism&report_type=abuse&report_url=https%3A%2F%2Fstdominicsnationalschool.wordpress.com%2Fenrolment%2F",
+      "final_url": "https://wordpress.com/abuse/?category=terrorism&report_type=abuse&report_url=https%3A%2F%2Fstdominicsnationalschool.wordpress.com%2Fenrolment%2F",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Terrorist Activity"
+    },
+    {
+      "url": "https://wordpress.com/abuse/?category=spam&report_type=technology&report_url=https%3A%2F%2Fstdominicsnationalschool.wordpress.com%2Fenrolment%2F",
+      "final_url": "https://wordpress.com/abuse/?category=spam&report_type=technology&report_url=https%3A%2F%2Fstdominicsnationalschool.wordpress.com%2Fenrolment%2F",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Spam or excessive automated actions"
+    },
+    {
+      "url": "https://wordpress.com/abuse/?category=sexualization&report_type=privacy&report_url=https%3A%2F%2Fstdominicsnationalschool.wordpress.com%2Fenrolment%2F",
+      "final_url": "https://wordpress.com/abuse/?category=sexualization&report_type=privacy&report_url=https%3A%2F%2Fstdominicsnationalschool.wordpress.com%2Fenrolment%2F",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "I am being sexualized without my consent"
+    },
+    {
+      "url": "https://wordpress.com/abuse/?category=restricted&report_type=regulation&report_url=https%3A%2F%2Fstdominicsnationalschool.wordpress.com%2Fenrolment%2F",
+      "final_url": "https://wordpress.com/abuse/?category=restricted&report_type=regulation&report_url=https%3A%2F%2Fstdominicsnationalschool.wordpress.com%2Fenrolment%2F",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Sale of prohibited or highly regulated items"
+    },
+    {
+      "url": "https://wordpress.com/abuse/?category=request&report_type=privacy&report_url=https%3A%2F%2Fstdominicsnationalschool.wordpress.com%2Fenrolment%2F",
+      "final_url": "https://wordpress.com/abuse/?category=request&report_type=privacy&report_url=https%3A%2F%2Fstdominicsnationalschool.wordpress.com%2Fenrolment%2F",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "I want to request my information"
+    },
+    {
+      "url": "https://wordpress.com/abuse/?category=phishing&report_type=technology&report_url=https%3A%2F%2Fstdominicsnationalschool.wordpress.com%2Fenrolment%2F",
+      "final_url": "https://wordpress.com/abuse/?category=phishing&report_type=technology&report_url=https%3A%2F%2Fstdominicsnationalschool.wordpress.com%2Fenrolment%2F",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Phishing"
+    },
+    {
+      "url": "https://wordpress.com/abuse/?category=ncii&report_type=legal&report_url=https%3A%2F%2Fstdominicsnationalschool.wordpress.com%2Fenrolment%2F",
+      "final_url": "https://wordpress.com/abuse/?category=ncii&report_type=legal&report_url=https%3A%2F%2Fstdominicsnationalschool.wordpress.com%2Fenrolment%2F",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Report non-consensual intimate imagery"
+    },
+    {
+      "url": "https://wordpress.com/abuse/?category=minors&report_type=abuse&report_url=https%3A%2F%2Fstdominicsnationalschool.wordpress.com%2Fenrolment%2F",
+      "final_url": "https://wordpress.com/abuse/?category=minors&report_type=abuse&report_url=https%3A%2F%2Fstdominicsnationalschool.wordpress.com%2Fenrolment%2F",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Harm to Minors"
+    },
+    {
+      "url": "https://wordpress.com/abuse/?category=mature&report_type=regulation&report_url=https%3A%2F%2Fstdominicsnationalschool.wordpress.com%2Fenrolment%2F",
+      "final_url": "https://wordpress.com/abuse/?category=mature&report_type=regulation&report_url=https%3A%2F%2Fstdominicsnationalschool.wordpress.com%2Fenrolment%2F",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Mature"
+    },
+    {
+      "url": "https://wordpress.com/abuse/?category=malware&report_type=technology&report_url=https%3A%2F%2Fstdominicsnationalschool.wordpress.com%2Fenrolment%2F",
+      "final_url": "https://wordpress.com/abuse/?category=malware&report_type=technology&report_url=https%3A%2F%2Fstdominicsnationalschool.wordpress.com%2Fenrolment%2F",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Malware, Spyware, Adware etc."
+    },
+    {
+      "url": "https://wordpress.com/abuse/?category=login&report_type=privacy&report_url=https%3A%2F%2Fstdominicsnationalschool.wordpress.com%2Fenrolment%2F",
+      "final_url": "https://wordpress.com/abuse/?category=login&report_type=privacy&report_url=https%3A%2F%2Fstdominicsnationalschool.wordpress.com%2Fenrolment%2F",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "I've lost my login information"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "20468P",
+      "url": "https://stdominicsnationalschool.wordpress.com/enrolment/",
+      "label": "Admissions",
+      "sha256": "37e76cb7a5f9520311367694841803390c54af0bf9b670994f215ae2cb2b44fa",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20468P_37e76cb7a5f952031136.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 5244
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://wordpress.com/abuse/?category=information&report_type=privacy&report_url=https%3A%2F%2Fstdominicsnationalschool.wordpress.com%2Fenrolment%2F",
+      "label": "My private information is being shared",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://wordpress.com/abuse/?category=impersonation&report_type=abuse&report_url=https%3A%2F%2Fstdominicsnationalschool.wordpress.com%2Fenrolment%2F",
+      "label": "Impersonation",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://wordpress.com/abuse/?category=illegal_content_eu&report_type=legal&report_url=https%3A%2F%2Fstdominicsnationalschool.wordpress.com%2Fenrolment%2F",
+      "label": "Report illegal content in the EU",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://wordpress.com/abuse/?category=hate&report_type=abuse&report_url=https%3A%2F%2Fstdominicsnationalschool.wordpress.com%2Fenrolment%2F",
+      "label": "Hateful Conduct",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://wordpress.com/abuse/?category=harassment&report_type=abuse&report_url=https%3A%2F%2Fstdominicsnationalschool.wordpress.com%2Fenrolment%2F",
+      "label": "Harassment",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://wordpress.com/abuse/?category=gambling&report_type=regulation&report_url=https%3A%2F%2Fstdominicsnationalschool.wordpress.com%2Fenrolment%2F",
+      "label": "Gambling",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://wordpress.com/abuse/?category=deletion&report_type=privacy&report_url=https%3A%2F%2Fstdominicsnationalschool.wordpress.com%2Fenrolment%2F",
+      "label": "I want to delete my account and information",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://wordpress.com/abuse/?category=defamation&report_type=abuse&report_url=https%3A%2F%2Fstdominicsnationalschool.wordpress.com%2Fenrolment%2F",
+      "label": "Defamation",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://wordpress.com/abuse/?category=control&report_type=privacy&report_url=https%3A%2F%2Fstdominicsnationalschool.wordpress.com%2Fenrolment%2F",
+      "label": "I have lost access to the person who has created the site",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://wordpress.com/abuse/?category=adult&report_type=regulation&report_url=https%3A%2F%2Fstdominicsnationalschool.wordpress.com%2Fenrolment%2F",
+      "label": "Sexually Explicit Material",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stdominicsnationalschool.wordpress.com/enrolment/?share=twitter",
+      "label": "Share on X (Opens in new window) X",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stdominicsnationalschool.wordpress.com/wp-content/uploads/2025/09/st-dominics-national-school-admission-policy-2025-review-version-1.2-.pdf",
+      "label": "St Dominic’s National School Admission Policy (2025 Review Version 1.2)",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://wordpress.com/support/sitemap.xml",
+      "label": "Public sitemap",
+      "via": "sitemap_root"
+    },
+    {
+      "url": "https://wordpress.com/sitemap.xml",
+      "label": "Public sitemap",
+      "via": "sitemap_root"
+    },
+    {
+      "url": "https://wordpress.com/news-sitemap.xml",
+      "label": "Public sitemap",
+      "via": "sitemap_root"
+    },
+    {
+      "url": "https://wordpress.com/go/sitemap.xml",
+      "label": "Public sitemap",
+      "via": "sitemap_root"
+    },
+    {
+      "url": "https://wordpress.com/blog/sitemap.xml",
+      "label": "Public sitemap",
+      "via": "sitemap_root"
+    },
+    {
+      "url": "https://stdominicsnationalschool.wordpress.com/sitemap.xml",
+      "label": "Public sitemap",
+      "via": "sitemap_root"
+    },
+    {
+      "url": "https://stdominicsnationalschool.wordpress.com/parents/",
+      "label": "Home School Community Liaison – Parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stdominicsnationalschool.wordpress.com/news-sitemap.xml",
+      "label": "Public sitemap",
+      "via": "sitemap_root"
+    },
+    {
+      "url": "https://stdominicsnationalschool.wordpress.com/documents/",
+      "label": "Documents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stdominicsnationalschool.wordpress.com/about-us/",
+      "label": "School Information",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 83.31,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:00:13+0000"
+}

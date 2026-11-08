@@ -1,0 +1,301 @@
+{
+  "roll": "19114T",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://snp.ie/parent-zone/school-policies/",
+      "final_url": "https://snp.ie/parent-zone/school-policies/",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://snp.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://snp.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://snp.ie/wp-content/uploads/2024/09/Parental-Complaints-Procedure.pdf",
+      "final_url": "https://snp.ie/wp-content/uploads/2024/09/Parental-Complaints-Procedure.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parental Complaints Procedure"
+    },
+    {
+      "url": "https://snp.ie/wp-content/uploads/2024/09/Admission-Policy-September-2024-SNP.pdf",
+      "final_url": "https://snp.ie/wp-content/uploads/2024/09/Admission-Policy-September-2024-SNP.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admission-Policy-September-2024-SNP"
+    },
+    {
+      "url": "https://snp.ie/wp-content/uploads/2025/09/Admission-Policy-September-2025-SNP.pdf",
+      "final_url": "https://snp.ie/wp-content/uploads/2025/09/Admission-Policy-September-2025-SNP.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admission Policy, September 2025, SNP"
+    },
+    {
+      "url": "https://snp.ie/wp-content/uploads/2025/09/Admission-Policy-September-2025-SNP-Updated.pdf",
+      "final_url": "https://snp.ie/wp-content/uploads/2025/09/Admission-Policy-September-2025-SNP-Updated.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admission Policy, September 2025, SNP Updated"
+    },
+    {
+      "url": "https://snp.ie/wp-content/uploads/2025/09/Admission-Policy-September-2025-Final-Updated-Version.pdf",
+      "final_url": "https://snp.ie/wp-content/uploads/2025/09/Admission-Policy-September-2025-Final-Updated-Version.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admission Policy, September 2025 Final Updated Version"
+    },
+    {
+      "url": "https://snp.ie/wp-content/uploads/2026/09/Admission-Policy-of-Scoil-Naomh-Padraig-Sept-2026.pdf",
+      "final_url": "https://snp.ie/wp-content/uploads/2026/09/Admission-Policy-of-Scoil-Naomh-Padraig-Sept-2026.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admission Policy"
+    },
+    {
+      "url": "https://snp.ie/sitemap_index.xml",
+      "final_url": "https://snp.ie/sitemap_index.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://snp.ie/r3d-sitemap.xml",
+      "final_url": "https://snp.ie/r3d-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://snp.ie/post-sitemap.xml",
+      "final_url": "https://snp.ie/post-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://snp.ie/parent-zone/tips-for-new-junior-infants/",
+      "final_url": "https://snp.ie/parent-zone/tips-for-new-junior-infants/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Tips for New Junior Infants"
+    },
+    {
+      "url": "https://snp.ie/wp-content/uploads/2026/07/Booklet-for-Parents-and-Guardians-of-New-Pupils-2026-2027.pdf",
+      "final_url": "https://snp.ie/wp-content/uploads/2026/07/Booklet-for-Parents-and-Guardians-of-New-Pupils-2026-2027.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Booklet for parents of new pupils"
+    },
+    {
+      "url": "https://snp.ie/school-policies/",
+      "final_url": "https://snp.ie/parent-zone/school-policies/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "our Policies page"
+    },
+    {
+      "url": "https://snp.ie/parent-zone/school-uniform/",
+      "final_url": "https://snp.ie/parent-zone/school-uniform/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Uniform"
+    },
+    {
+      "url": "https://snp.ie/parent-zone/parent-association/",
+      "final_url": "https://snp.ie/parent-zone/parent-association/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parent Association"
+    },
+    {
+      "url": "https://snp.ie/parent-zone/newsletter/",
+      "final_url": "https://snp.ie/parent-zone/newsletter/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Newsletter"
+    },
+    {
+      "url": "https://snp.ie/parent-zone/feeder-schools/",
+      "final_url": "https://snp.ie/parent-zone/feeder-schools/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Feeder Schools"
+    },
+    {
+      "url": "https://snp.ie/parent-zone/",
+      "final_url": "https://snp.ie/parent-zone/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parent Zone"
+    },
+    {
+      "url": "https://snp.ie/page-sitemap.xml",
+      "final_url": "https://snp.ie/page-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://snp.ie/",
+      "final_url": "https://snp.ie/",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://snp.ie/wp-content/uploads/2024/09/Administration-of-Medication-Policy.pdf",
+      "final_url": "https://snp.ie/wp-content/uploads/2024/09/Administration-of-Medication-Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Administration of Medicines Policy"
+    },
+    {
+      "url": "https://snp.ie/wp-content/uploads/2026/10/Bi-Cinealta-Policy-SNP-Sept-2026.pdf",
+      "final_url": "https://snp.ie/wp-content/uploads/2026/10/Bi-Cinealta-Policy-SNP-Sept-2026.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Anti-Bullying Policy"
+    },
+    {
+      "url": "https://snp.ie/wp-content/uploads/2026/04/Signed-Ratified-AUP-Policy.pdf",
+      "final_url": "https://snp.ie/wp-content/uploads/2026/04/Signed-Ratified-AUP-Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Acceptable Use of Internet and Devices Policy"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19114T",
+      "url": "https://snp.ie/parent-zone/school-policies/",
+      "label": "Prior school admissions section",
+      "sha256": "cc5792595b91f551eab76f842c646c405066f85d61862556f68b5f82648fc118",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19114T_cc5792595b91f551eab7.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 291
+    },
+    {
+      "roll": "19114T",
+      "url": "https://snp.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "label": "Oldest public admission media (all dates)",
+      "sha256": "7f6aa91c2cf9d6be1605d12cc661cedd432783787ed6f6d5e721bf20e85d6d90",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19114T_7f6aa91c2cf9d6be1605.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1731
+    },
+    {
+      "roll": "19114T",
+      "url": "https://snp.ie/wp-content/uploads/2024/09/Admission-Policy-September-2024-SNP.pdf",
+      "label": "Admission-Policy-September-2024-SNP",
+      "sha256": "08a1cc6cd1abf9be1e4203b669e0df1b184087df4277f4cec68ee197d6587c08",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19114T_08a1cc6cd1abf9be1e42.txt",
+      "source_file": "database/milestone2/cache/08a1cc6cd1abf9be1e4203b669e0df1b184087df4277f4cec68ee197d6587c08.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 35749
+    },
+    {
+      "roll": "19114T",
+      "url": "https://snp.ie/wp-content/uploads/2025/09/Admission-Policy-September-2025-SNP.pdf",
+      "label": "Admission Policy, September 2025, SNP",
+      "sha256": "b5060330c3b72336b46411d86873d78080f9d2a78a4a2bd646f421482ecd3247",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19114T_b5060330c3b72336b464.txt",
+      "source_file": "database/milestone2/cache/b5060330c3b72336b46411d86873d78080f9d2a78a4a2bd646f421482ecd3247.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 34314
+    },
+    {
+      "roll": "19114T",
+      "url": "https://snp.ie/wp-content/uploads/2025/09/Admission-Policy-September-2025-SNP-Updated.pdf",
+      "label": "Admission Policy, September 2025, SNP Updated",
+      "sha256": "823c768c5e78b392740b385c4cc148edb63fcd9702a10d9ba082b3eb6f1b3e8b",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19114T_823c768c5e78b392740b.txt",
+      "source_file": "database/milestone2/cache/823c768c5e78b392740b385c4cc148edb63fcd9702a10d9ba082b3eb6f1b3e8b.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 36025
+    },
+    {
+      "roll": "19114T",
+      "url": "https://snp.ie/wp-content/uploads/2025/09/Admission-Policy-September-2025-Final-Updated-Version.pdf",
+      "label": "Admission Policy, September 2025 Final Updated Version",
+      "sha256": "44858dff019d74b7f060cae6e3a0f89c16e3ede5615c4f1609e0089328207f0d",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19114T_44858dff019d74b7f060.txt",
+      "source_file": "database/milestone2/cache/44858dff019d74b7f060cae6e3a0f89c16e3ede5615c4f1609e0089328207f0d.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 36030
+    },
+    {
+      "roll": "19114T",
+      "url": "https://snp.ie/wp-content/uploads/2026/09/Admission-Policy-of-Scoil-Naomh-Padraig-Sept-2026.pdf",
+      "label": "Admission Policy",
+      "sha256": "01455a7e77bcad2572023ac5e52a97b77457dfb927017c33815b311a126c5903",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19114T_01455a7e77bcad257202.txt",
+      "source_file": "database/milestone2/cache/01455a7e77bcad2572023ac5e52a97b77457dfb927017c33815b311a126c5903.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 36424
+    },
+    {
+      "roll": "19114T",
+      "url": "https://snp.ie/parent-zone/tips-for-new-junior-infants/",
+      "label": "Tips for New Junior Infants",
+      "sha256": "ee216abfcb6da109fe543a81e21526aadc76390ec5e2186c1c60668dd2068145",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19114T_ee216abfcb6da109fe54.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1602
+    },
+    {
+      "roll": "19114T",
+      "url": "https://snp.ie/wp-content/uploads/2026/07/Booklet-for-Parents-and-Guardians-of-New-Pupils-2026-2027.pdf",
+      "label": "Booklet for parents of new pupils",
+      "sha256": "2e5bf67ee6d512f2cf38557aac4efd54f9582d557123f4347ba444445ecc5824",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19114T_2e5bf67ee6d512f2cf38.txt",
+      "source_file": "database/milestone2/cache/2e5bf67ee6d512f2cf38557aac4efd54f9582d557123f4347ba444445ecc5824.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 47893
+    },
+    {
+      "roll": "19114T",
+      "url": "https://snp.ie/",
+      "label": "School homepage",
+      "sha256": "9c9fa76bee5f65b9167081830469699a00948ec92cadccb6314e5e255d724614",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19114T_9c9fa76bee5f65b91670.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 2144
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://snp.ie/privacy-policy/",
+      "label": "Privacy Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://snp.ie/cookie-policy/",
+      "label": "Cookie Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 83.75,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:42:53+0000"
+}

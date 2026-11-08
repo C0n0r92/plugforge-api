@@ -1,0 +1,217 @@
+{
+  "roll": "15569R",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.scoilmoibhi.ie/news/detail/admissions-27-28-opens-1st-october/",
+      "final_url": "https://www.scoilmoibhi.ie/news/detail/admissions-27-28-opens-1st-october/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions 27-28 - Opens 1st October"
+    },
+    {
+      "url": "https://www.scoilmoibhi.ie/admissions/",
+      "final_url": "https://www.scoilmoibhi.ie/admissions/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://primarysite-prod-sorted.s3.amazonaws.com/scoil-moibhi-milverton/UploadedDocument/f4758e65-e27c-4ef2-83a2-cd8b4c7f64aa/annual-admissions-notice-2026-7-scoil-moibhi.pdf",
+      "final_url": "https://primarysite-prod-sorted.s3.amazonaws.com/scoil-moibhi-milverton/UploadedDocument/f4758e65-e27c-4ef2-83a2-cd8b4c7f64aa/annual-admissions-notice-2026-7-scoil-moibhi.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "NEW - Annual Admissions Notice 2026-7 Scoil Moibhi.pdf"
+    },
+    {
+      "url": "https://primarysite-prod-sorted.s3.amazonaws.com/scoil-moibhi-milverton/UploadedDocument/8dd59e57-aaf1-4d9f-b32e-87a3ce1959f4/enrolment-application-form-27-28.pdf",
+      "final_url": "https://primarysite-prod-sorted.s3.amazonaws.com/scoil-moibhi-milverton/UploadedDocument/8dd59e57-aaf1-4d9f-b32e-87a3ce1959f4/enrolment-application-form-27-28.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Enrolment Application form 27-28.pdf"
+    },
+    {
+      "url": "https://primarysite-prod-sorted.s3.amazonaws.com/scoil-moibhi-milverton/UploadedDocument/e85f622d-eef5-4bb3-850f-ba5265036e40/annual-admissions-notice-2728-scoil-moibhi.pdf",
+      "final_url": "https://primarysite-prod-sorted.s3.amazonaws.com/scoil-moibhi-milverton/UploadedDocument/e85f622d-eef5-4bb3-850f-ba5265036e40/annual-admissions-notice-2728-scoil-moibhi.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Annual Admissions Notice 2728 Scoil Moibhi.pdf"
+    },
+    {
+      "url": "https://scoil-moibhi-milverton.secure-primarysite.net/accounts/login/primarysite/?next=/news/detail/admissions-27-28-opens-1st-october/",
+      "final_url": "https://scoil-moibhi-milverton.secure-primarysite.net/accounts/login/primarysite/?next=/news/detail/admissions-27-28-opens-1st-october/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Log in"
+    },
+    {
+      "url": "https://scoil-moibhi-milverton.secure-primarysite.net/accounts/login/primarysite/?next=/admissions/",
+      "final_url": "https://scoil-moibhi-milverton.secure-primarysite.net/accounts/login/primarysite/?next=/admissions/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Log in"
+    },
+    {
+      "url": "https://primarysite-prod-sorted.s3.amazonaws.com/scoil-moibhi-milverton/UploadedDocument/b3b0ff14-5388-4155-ba14-18e49345ff03/parental-consent-update-scoil-moibhi-2025-26.pdf",
+      "final_url": "https://primarysite-prod-sorted.s3.amazonaws.com/scoil-moibhi-milverton/UploadedDocument/b3b0ff14-5388-4155-ba14-18e49345ff03/parental-consent-update-scoil-moibhi-2025-26.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Parental Consent Update Scoil Moibhi 2025-26.pdf"
+    },
+    {
+      "url": "https://www.scoilmoibhi.ie/news/detail/enrolment-for-september-2019/",
+      "final_url": "https://www.scoilmoibhi.ie/news/detail/enrolment-for-september-2019/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions/policy URL from public sitemap"
+    },
+    {
+      "url": "https://scoil-moibhi-milverton.secure-primarysite.net/accounts/login/primarysite/?next=/news/detail/enrolment-for-september-2019/",
+      "final_url": "https://scoil-moibhi-milverton.secure-primarysite.net/accounts/login/primarysite/?next=/news/detail/enrolment-for-september-2019/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Log in"
+    },
+    {
+      "url": "https://primarysite-prod-sorted.s3.amazonaws.com/scoil-moibhi-milverton/UploadedDocument/dd8e7ae6a1264c6c82cb63d85e1241ad/dublin-diocesan-admission-policy-revised-final-draft-scoil-moibhi.pdf",
+      "final_url": "https://primarysite-prod-sorted.s3.amazonaws.com/scoil-moibhi-milverton/UploadedDocument/dd8e7ae6a1264c6c82cb63d85e1241ad/dublin-diocesan-admission-policy-revised-final-draft-scoil-moibhi.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Dublin Diocesan Admission Policy Revised final draft Scoil Moibhi.pdf"
+    },
+    {
+      "url": "https://www.scoilmoibhi.ie/news/detail/pupil-enrolment-for-academic-year-2021-2022/",
+      "final_url": "https://www.scoilmoibhi.ie/news/detail/pupil-enrolment-for-academic-year-2021-2022/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions/policy URL from public sitemap"
+    },
+    {
+      "url": "https://scoil-moibhi-milverton.secure-primarysite.net/accounts/login/primarysite/?next=/news/detail/pupil-enrolment-for-academic-year-2021-2022/",
+      "final_url": "https://scoil-moibhi-milverton.secure-primarysite.net/accounts/login/primarysite/?next=/news/detail/pupil-enrolment-for-academic-year-2021-2022/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Log in"
+    },
+    {
+      "url": "https://www.scoilmoibhi.ie/topic/parents",
+      "final_url": "https://www.scoilmoibhi.ie/topic/parents",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents"
+    },
+    {
+      "url": "https://www.scoilmoibhi.ie/stay-safe-programme-parents-guide/",
+      "final_url": "https://www.scoilmoibhi.ie/stay-safe-programme-parents-guide/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Stay Safe Programme Parents Guide"
+    },
+    {
+      "url": "https://www.scoilmoibhi.ie/sitemap.xml",
+      "final_url": "https://www.scoilmoibhi.ie/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.scoilmoibhi.ie/policies/",
+      "final_url": "https://www.scoilmoibhi.ie/policies/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.scoilmoibhi.ie/parents-association/",
+      "final_url": "https://www.scoilmoibhi.ie/parents-association/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parent's Association"
+    },
+    {
+      "url": "https://www.scoilmoibhi.ie/news/detail/scoil-moibhi-admissions-form/",
+      "final_url": "https://www.scoilmoibhi.ie/news/detail/scoil-moibhi-admissions-form/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions/policy URL from public sitemap"
+    },
+    {
+      "url": "https://scoil-moibhi-milverton.secure-primarysite.net/accounts/login/primarysite/?next=/news/detail/scoil-moibhi-admissions-form/",
+      "final_url": "https://scoil-moibhi-milverton.secure-primarysite.net/accounts/login/primarysite/?next=/news/detail/scoil-moibhi-admissions-form/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Log in"
+    },
+    {
+      "url": "https://primarysite-prod-sorted.s3.amazonaws.com/scoil-moibhi-milverton/UploadedDocument/d70dbbf25734465a8e25f346b35ee0c2/admissions-application-form.pdf",
+      "final_url": "https://primarysite-prod-sorted.s3.amazonaws.com/scoil-moibhi-milverton/UploadedDocument/d70dbbf25734465a8e25f346b35ee0c2/admissions-application-form.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Admission Form November 2020"
+    },
+    {
+      "url": "https://www.scoilmoibhi.ie/news/detail/admission-application-information-2324/",
+      "final_url": "https://www.scoilmoibhi.ie/news/detail/admission-application-information-2324/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions/policy URL from public sitemap"
+    },
+    {
+      "url": "https://scoil-moibhi-milverton.secure-primarysite.net/accounts/login/primarysite/?next=/news/detail/admission-application-information-2324/",
+      "final_url": "https://scoil-moibhi-milverton.secure-primarysite.net/accounts/login/primarysite/?next=/news/detail/admission-application-information-2324/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Log in"
+    },
+    {
+      "url": "https://www.scoilmoibhi.ie",
+      "final_url": "https://www.scoilmoibhi.ie",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "15569R",
+      "url": "https://www.scoilmoibhi.ie/admissions/",
+      "label": "Admissions",
+      "sha256": "b9b24aeaa48586c77aafbe906acc62851c50167c1ae38476009a6baac2c03cff",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/15569R_b9b24aeaa48586c77aaf.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 2062
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.scoilmoibhi.ie/diary/detail/3156878/",
+      "label": "Confirmation - Rituals - Parent Meeting",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://primarysite-prod-sorted.s3.amazonaws.com/scoil-moibhi-milverton/UploadedDocument/83fcf1dd848f48ad97f11d8ea82f8717/scoil-moibhi-code-of-behaviour-policy-1120.pdf",
+      "label": "Scoil Moibhi Code of Behaviour policy 1120.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmoibhi.ie/wellbeing-policy-202526/",
+      "label": "Wellbeing Policy 2025/26",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmoibhi.ie/new-wellbeing-policy-202526/",
+      "label": "NEW - Wellbeing Policy 2025/26",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmoibhi.ie/special/policy/",
+      "label": "Website Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 116.71,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:50:58+0000"
+}

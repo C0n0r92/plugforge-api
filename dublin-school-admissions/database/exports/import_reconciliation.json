@@ -1,0 +1,210 @@
+[
+  {
+    "release_id": "database_local_editions_2026_11_08",
+    "dataset": "local_review_inputs",
+    "expected_rows": 74,
+    "raw_rows": 74,
+    "normalized_rows": 68,
+    "excluded_rows": 6
+  },
+  {
+    "release_id": "database_m2_research_checkpoint_2026_11_08",
+    "dataset": "m2_research_snapshot",
+    "expected_rows": 1107,
+    "raw_rows": 1107,
+    "normalized_rows": 1107,
+    "excluded_rows": 0
+  },
+  {
+    "release_id": "database_m2_reviewed_archive59",
+    "dataset": "m2_reviewed_archive59",
+    "expected_rows": 1,
+    "raw_rows": 1,
+    "normalized_rows": 1,
+    "excluded_rows": 0
+  },
+  {
+    "release_id": "database_m2_reviewed_archive_batch1",
+    "dataset": "m2_reviewed_archive_batch1",
+    "expected_rows": 38,
+    "raw_rows": 38,
+    "normalized_rows": 38,
+    "excluded_rows": 0
+  },
+  {
+    "release_id": "database_m2_reviewed_archive_batch2",
+    "dataset": "m2_reviewed_archive_batch2",
+    "expected_rows": 45,
+    "raw_rows": 45,
+    "normalized_rows": 38,
+    "excluded_rows": 7
+  },
+  {
+    "release_id": "database_m2_reviewed_batch1",
+    "dataset": "m2_reviewed_batch1",
+    "expected_rows": 15,
+    "raw_rows": 15,
+    "normalized_rows": 11,
+    "excluded_rows": 4
+  },
+  {
+    "release_id": "database_m2_reviewed_explicit_events",
+    "dataset": "m2_reviewed_explicit_events",
+    "expected_rows": 1,
+    "raw_rows": 1,
+    "normalized_rows": 1,
+    "excluded_rows": 0
+  },
+  {
+    "release_id": "database_m2_reviewed_site_batch3a",
+    "dataset": "m2_reviewed_site_batch3a",
+    "expected_rows": 46,
+    "raw_rows": 46,
+    "normalized_rows": 37,
+    "excluded_rows": 9
+  },
+  {
+    "release_id": "database_m2_reviewed_site_batch3b",
+    "dataset": "m2_reviewed_site_batch3b",
+    "expected_rows": 39,
+    "raw_rows": 39,
+    "normalized_rows": 32,
+    "excluded_rows": 7
+  },
+  {
+    "release_id": "database_m2_reviewed_site_batch4",
+    "dataset": "m2_reviewed_site_batch4",
+    "expected_rows": 72,
+    "raw_rows": 72,
+    "normalized_rows": 31,
+    "excluded_rows": 41
+  },
+  {
+    "release_id": "database_m2_reviewed_site_batch5",
+    "dataset": "m2_reviewed_site_batch5",
+    "expected_rows": 6,
+    "raw_rows": 6,
+    "normalized_rows": 4,
+    "excluded_rows": 2
+  },
+  {
+    "release_id": "database_m2_reviewed_site_batch6",
+    "dataset": "m2_reviewed_site_batch6",
+    "expected_rows": 19,
+    "raw_rows": 19,
+    "normalized_rows": 12,
+    "excluded_rows": 7
+  },
+  {
+    "release_id": "database_m2_reviewed_visual",
+    "dataset": "m2_reviewed_visual",
+    "expected_rows": 1,
+    "raw_rows": 1,
+    "normalized_rows": 1,
+    "excluded_rows": 0
+  },
+  {
+    "release_id": "database_milestone2_cached_2026_11_08",
+    "dataset": "m2_cached_editions",
+    "expected_rows": 119,
+    "raw_rows": 119,
+    "normalized_rows": 97,
+    "excluded_rows": 22
+  },
+  {
+    "release_id": "historical_archive_index_progress",
+    "dataset": "archive_domain_checkpoints",
+    "expected_rows": 4,
+    "raw_rows": 4,
+    "normalized_rows": 4,
+    "excluded_rows": 0
+  },
+  {
+    "release_id": "v4_plus_wayback_pilot_baseline",
+    "dataset": "v4_amalgamation_evidence",
+    "expected_rows": 3,
+    "raw_rows": 3,
+    "normalized_rows": 3,
+    "excluded_rows": 0
+  },
+  {
+    "release_id": "v4_plus_wayback_pilot_baseline",
+    "dataset": "v4_historical_tables",
+    "expected_rows": 398,
+    "raw_rows": 398,
+    "normalized_rows": 398,
+    "excluded_rows": 0
+  },
+  {
+    "release_id": "v4_plus_wayback_pilot_baseline",
+    "dataset": "v4_local_review_backlog",
+    "expected_rows": 74,
+    "raw_rows": 74,
+    "normalized_rows": 74,
+    "excluded_rows": 0
+  },
+  {
+    "release_id": "v4_plus_wayback_pilot_baseline",
+    "dataset": "v4_notice_inventory",
+    "expected_rows": 884,
+    "raw_rows": 884,
+    "normalized_rows": 884,
+    "excluded_rows": 0
+  },
+  {
+    "release_id": "v4_plus_wayback_pilot_baseline",
+    "dataset": "v4_predecessors",
+    "expected_rows": 4,
+    "raw_rows": 4,
+    "normalized_rows": 4,
+    "excluded_rows": 0
+  },
+  {
+    "release_id": "v4_plus_wayback_pilot_baseline",
+    "dataset": "v4_primary",
+    "expected_rows": 516,
+    "raw_rows": 516,
+    "normalized_rows": 516,
+    "excluded_rows": 0
+  },
+  {
+    "release_id": "v4_plus_wayback_pilot_baseline",
+    "dataset": "v4_review_archive",
+    "expected_rows": 561,
+    "raw_rows": 561,
+    "normalized_rows": 561,
+    "excluded_rows": 0
+  },
+  {
+    "release_id": "v4_plus_wayback_pilot_baseline",
+    "dataset": "v4_reviewed_editions",
+    "expected_rows": 835,
+    "raw_rows": 835,
+    "normalized_rows": 835,
+    "excluded_rows": 0
+  },
+  {
+    "release_id": "v4_plus_wayback_pilot_baseline",
+    "dataset": "v4_screenshot_reference",
+    "expected_rows": 1,
+    "raw_rows": 1,
+    "normalized_rows": 0,
+    "excluded_rows": 1
+  },
+  {
+    "release_id": "v4_plus_wayback_pilot_baseline",
+    "dataset": "v4_waiting_events",
+    "expected_rows": 21,
+    "raw_rows": 21,
+    "normalized_rows": 21,
+    "excluded_rows": 0
+  },
+  {
+    "release_id": "v4_plus_wayback_pilot_baseline",
+    "dataset": "wayback_pilot",
+    "expected_rows": 8,
+    "raw_rows": 8,
+    "normalized_rows": 8,
+    "excluded_rows": 0
+  }
+]

@@ -1,0 +1,213 @@
+{
+  "roll": "16353W",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.stbrigidsgirlsschool.com/admissions/",
+      "final_url": "https://www.stbrigidsgirlsschool.com/admissions/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://www.stbrigidsgirlsschool.com/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://www.stbrigidsgirlsschool.com/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://www.stbrigidsgirlsschool.com/wp-content/uploads/dlm_uploads/2026/09/Annual-Admission-Notice-Junior-Infants-2027-2028.pdf",
+      "final_url": "https://www.stbrigidsgirlsschool.com/wp-content/uploads/dlm_uploads/2026/09/Annual-Admission-Notice-Junior-Infants-2027-2028.pdf",
+      "status": "http_404",
+      "via": "public_wordpress_media_link",
+      "label": "Annual Admission Notice Junior Infants 2027-2028"
+    },
+    {
+      "url": "https://www.stbrigidsgirlsschool.com/download/10981/?tmstv=1794102423",
+      "final_url": "https://www.stbrigidsgirlsschool.com/download/10981/?tmstv=1794102423",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Application to Enrol Form Senior-Infants to 6th Class"
+    },
+    {
+      "url": "https://www.stbrigidsgirlsschool.com/wp-content/uploads/dlm_uploads/2023/03/St.-Brigids-GirlsSchool-Admission-Policy_.pdf",
+      "final_url": "https://www.stbrigidsgirlsschool.com/wp-content/uploads/dlm_uploads/2023/03/St.-Brigids-GirlsSchool-Admission-Policy_.pdf",
+      "status": "http_404",
+      "via": "public_wordpress_media_link",
+      "label": "St. Brigid&#8217;s Girls&#8217;School, Admission Policy_"
+    },
+    {
+      "url": "https://www.stbrigidsgirlsschool.com/wp-content/uploads/2023/03/St.-Brigids-GirlsSchool-Admission-Policy_.pdf",
+      "final_url": "https://www.stbrigidsgirlsschool.com/wp-content/uploads/2023/03/St.-Brigids-GirlsSchool-Admission-Policy_.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "St. Brigid&#8217;s Girls&#8217;School, Admission Policy_"
+    },
+    {
+      "url": "https://www.stbrigidsgirlsschool.com/wp-sitemap.xml",
+      "final_url": "https://www.stbrigidsgirlsschool.com/wp-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.stbrigidsgirlsschool.com/wp-sitemap-posts-ufaq-1.xml",
+      "final_url": "https://www.stbrigidsgirlsschool.com/wp-sitemap-posts-ufaq-1.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.stbrigidsgirlsschool.com/wp-sitemap-posts-post-1.xml",
+      "final_url": "https://www.stbrigidsgirlsschool.com/wp-sitemap-posts-post-1.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.stbrigidsgirlsschool.com/wp-sitemap-posts-page-1.xml",
+      "final_url": "https://www.stbrigidsgirlsschool.com/wp-sitemap-posts-page-1.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.stbrigidsgirlsschool.com/policies-procedures/",
+      "final_url": "https://www.stbrigidsgirlsschool.com/policies-procedures/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies & procedures"
+    },
+    {
+      "url": "https://www.stbrigidsgirlsschool.com/download/9456/?tmstv=1794142217",
+      "final_url": "https://www.stbrigidsgirlsschool.com/download/9456/?tmstv=1794142217",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "BNS-and-GNS-No-SmartPhone-Voluntary-Code-Launch-Sept-2020.pdf"
+    },
+    {
+      "url": "https://www.stbrigidsgirlsschool.com/download/9819/?tmstv=1794142217",
+      "final_url": "https://www.stbrigidsgirlsschool.com/download/9819/?tmstv=1794142217",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Child-Safeguarding-Statement-and-Risk-Assessment-2025"
+    },
+    {
+      "url": "https://www.stbrigidsgirlsschool.com/download/9707/?tmstv=1794142217",
+      "final_url": "https://www.stbrigidsgirlsschool.com/download/9707/?tmstv=1794142217",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Child-Protection-notification-2025.pdf"
+    },
+    {
+      "url": "https://www.stbrigidsgirlsschool.com/download/9701/?tmstv=1794142217",
+      "final_url": "https://www.stbrigidsgirlsschool.com/download/9701/?tmstv=1794142217",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Anti-bullying-Review-Notification-2025.pdf"
+    },
+    {
+      "url": "https://www.stbrigidsgirlsschool.com/parents-association/",
+      "final_url": "https://www.stbrigidsgirlsschool.com/parents-association/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents’ Association"
+    },
+    {
+      "url": "https://www.stbrigidsgirlsschool.com/download/9480/?tmstv=1794102423",
+      "final_url": "https://www.stbrigidsgirlsschool.com/download/9480/?tmstv=1794102423",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "St.-Brigids-Girls-School-Catchment-Area-Map-3.pdf"
+    },
+    {
+      "url": "https://www.stbrigidsgirlsschool.com/download/9440/?tmstv=1794142217",
+      "final_url": "https://www.stbrigidsgirlsschool.com/download/9440/?tmstv=1794142217",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Statement-of-Strategy-for-School-Attendance.pdf"
+    },
+    {
+      "url": "https://www.stbrigidsgirlsschool.com/download/9433/?tmstv=1794142217",
+      "final_url": "https://www.stbrigidsgirlsschool.com/download/9433/?tmstv=1794142217",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Code-of-Good-Behaviour.pdf"
+    },
+    {
+      "url": "https://www.stbrigidsgirlsschool.com/download/8228/?tmstv=1794142217",
+      "final_url": "https://www.stbrigidsgirlsschool.com/download/8228/?tmstv=1794142217",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parental Complaints Procedure"
+    },
+    {
+      "url": "https://www.stbrigidsgirlsschool.com/download/6883/?tmstv=1794102423",
+      "final_url": "https://www.stbrigidsgirlsschool.com/download/6883/?tmstv=1794102423",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "St.-Brigids-GirlsSchool-Admission-Policy_.pdf"
+    },
+    {
+      "url": "https://www.stbrigidsgirlsschool.com",
+      "final_url": "https://www.stbrigidsgirlsschool.com",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.stbrigidsgirlsschool.com/download/9704/?tmstv=1794142217",
+      "final_url": "https://www.stbrigidsgirlsschool.com/download/9704/?tmstv=1794142217",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "St.-Brigids-Girls-School-Bi-Cinealta-Policy-to-Prevent-and-Address-Bullying-Behaviour-2025.pdf"
+    },
+    {
+      "url": "https://www.stbrigidsgirlsschool.com/privacy-policy/",
+      "final_url": "https://www.stbrigidsgirlsschool.com/privacy-policy/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Privacy Policy"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "16353W",
+      "url": "https://www.stbrigidsgirlsschool.com/admissions/",
+      "label": "Admissions",
+      "sha256": "8697f24d001ad638f74dd40b6f227ed57835ce30b421e070678929521417d374",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/16353W_8697f24d001ad638f74d.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 518
+    },
+    {
+      "roll": "16353W",
+      "url": "https://www.stbrigidsgirlsschool.com/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "label": "Oldest public admission media (all dates)",
+      "sha256": "0f6d84cf318ae621fc260273eb45ea705e246a6a1a3c2819338ded4a2083d5a7",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/16353W_0f6d84cf318ae621fc26.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 335
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.stbrigidsgirlsschool.com/download/9459/?tmstv=1794142217",
+      "label": "Managing-Chronic-Health-Conditions-Policy.docx.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stbrigidsgirlsschool.com/download/8231/?tmstv=1794142217",
+      "label": "Parent-Staff Communication Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 94.49,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:51:09+0000"
+}

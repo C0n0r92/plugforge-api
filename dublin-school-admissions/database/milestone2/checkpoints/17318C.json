@@ -1,0 +1,245 @@
+{
+  "roll": "17318C",
+  "status": "bounded_search_no_new_notice_found",
+  "attempts": [
+    {
+      "url": "https://www.holychildbns.ie/admissions-notice-2026-2027.html",
+      "final_url": "https://www.holychildbns.ie/admissions-notice-2026-2027.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions Notice 2026-2027"
+    },
+    {
+      "url": "https://www.holychildbns.ie/uploads/8/0/0/9/80093794/annual_admissions_notice_2026-2027.pdf",
+      "final_url": "https://www.holychildbns.ie/uploads/8/0/0/9/80093794/annual_admissions_notice_2026-2027.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "here"
+    },
+    {
+      "url": "https://www.holychildbns.ie/tips-for-parents.html",
+      "final_url": "https://www.holychildbns.ie/tips-for-parents.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Tips for Parents"
+    },
+    {
+      "url": "https://www.holychildbns.ie/sitemap.xml",
+      "final_url": "https://www.holychildbns.ie/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.holychildbns.ie/reporting-to-parents.html",
+      "final_url": "https://www.holychildbns.ie/reporting-to-parents.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Reporting to Parents"
+    },
+    {
+      "url": "https://www.holychildbns.ie/policies.html",
+      "final_url": "https://www.holychildbns.ie/policies.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "POLICIES >"
+    },
+    {
+      "url": "https://www.holychildbns.ie/uploads/8/0/0/9/80093794/safety_statement_january_2016.doc",
+      "final_url": "https://www.holychildbns.ie/uploads/8/0/0/9/80093794/safety_statement_january_2016.doc",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: safety_statement_january_2016.doc"
+    },
+    {
+      "url": "https://www.holychildbns.ie/parent-association.html",
+      "final_url": "https://www.holychildbns.ie/parent-association",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parent Association >"
+    },
+    {
+      "url": "https://www.holychildbns.ie/parent-association/may-03rd-2017",
+      "final_url": "https://www.holychildbns.ie/parent-association/may-03rd-2017",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Thank you"
+    },
+    {
+      "url": "https://www.holychildbns.ie/parent-association/archives/11-2017",
+      "final_url": "https://www.holychildbns.ie/parent-association/archives/11-2017",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "November 2017"
+    },
+    {
+      "url": "https://www.holychildbns.ie/parent-association/archives/05-2017",
+      "final_url": "https://www.holychildbns.ie/parent-association/archives/05-2017",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "May 2017"
+    },
+    {
+      "url": "https://www.holychildbns.ie/parent-association/archives/02-2017",
+      "final_url": "https://www.holychildbns.ie/parent-association/archives/02-2017",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "February 2017"
+    },
+    {
+      "url": "https://www.holychildbns.ie/parent-association/archives/01-2017",
+      "final_url": "https://www.holychildbns.ie/parent-association/archives/01-2017",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "January 2017"
+    },
+    {
+      "url": "https://www.holychildbns.ie/parent-association/archives/05-2018",
+      "final_url": "https://www.holychildbns.ie/parent-association/archives/05-2018",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "May 2018"
+    },
+    {
+      "url": "https://www.holychildbns.ie/parent-association/archives/03-2018",
+      "final_url": "https://www.holychildbns.ie/parent-association/archives/03-2018",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "March 2018"
+    },
+    {
+      "url": "https://www.holychildbns.ie/parent-association/archives/12-2019",
+      "final_url": "https://www.holychildbns.ie/parent-association/archives/12-2019",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "December 2019"
+    },
+    {
+      "url": "https://www.holychildbns.ie/parent-association/archives/03-2019",
+      "final_url": "https://www.holychildbns.ie/parent-association/archives/03-2019",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "March 2019"
+    },
+    {
+      "url": "https://www.holychildbns.ie/parent-association/archives/01-2023",
+      "final_url": "https://www.holychildbns.ie/parent-association/archives/01-2023",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "January 2023"
+    },
+    {
+      "url": "https://www.holychildbns.ie/parent-association/pa-first-communion-day",
+      "final_url": "https://www.holychildbns.ie/parent-association/pa-first-communion-day",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "PA First Communion Day"
+    },
+    {
+      "url": "https://www.holychildbns.ie/parent-association/new-parent-association",
+      "final_url": "https://www.holychildbns.ie/parent-association/new-parent-association",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "nEW Parent association!"
+    },
+    {
+      "url": "https://www.holychildbns.ie/parent-association/ice-cream-day",
+      "final_url": "https://www.holychildbns.ie/parent-association/ice-cream-day",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Ice cream day!"
+    },
+    {
+      "url": "https://www.holychildbns.ie/parent-association/green-day4027149",
+      "final_url": "https://www.holychildbns.ie/parent-association/green-day4027149",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Green Day..."
+    },
+    {
+      "url": "https://www.holychildbns.ie/parent-association/green-day",
+      "final_url": "https://www.holychildbns.ie/parent-association/green-day",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Green Day..."
+    },
+    {
+      "url": "https://www.holychildbns.ie/parent-association/coffee-morning",
+      "final_url": "https://www.holychildbns.ie/parent-association/coffee-morning",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Coffee Morning"
+    }
+  ],
+  "documents": [],
+  "pending_links": [
+    {
+      "url": "https://www.holychildbns.ie/parent-association/christmas-raffle-christmas-jumper-day",
+      "label": "Christmas Raffle & Christmas jumper day",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holychildbns.ie/parent-association/christmas-movie-day",
+      "label": "Christmas Movie Day",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holychildbns.ie/parent-association/charity-fundraiser",
+      "label": "Charity Fundraiser",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holychildbns.ie/parent-association/category/all",
+      "label": "All",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holychildbns.ie/admissions-policy.html",
+      "label": "Admissions Policy",
+      "via": "prior_public_admissions_landing"
+    },
+    {
+      "url": "https://www.holychildbns.ie",
+      "label": "School homepage",
+      "via": "home"
+    },
+    {
+      "url": "https://www.holychildbns.ie/uploads/8/0/0/9/80093794/homework_policy.doc",
+      "label": "Download file: homework_policy.doc",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holychildbns.ie/rse-policy.html",
+      "label": "RSE Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holychildbns.ie/mobile-phone-policy.html",
+      "label": "Mobile Phone Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holychildbns.ie/homework-policy.html",
+      "label": "Homework Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holychildbns.ie/healthy-eating-policy.html",
+      "label": "Healthy Eating Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holychildbns.ie/data-protection-policy.html",
+      "label": "Data Protection Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holychildbns.ie/attendance-policy.html",
+      "label": "Attendance Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 73.2,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:03:23+0000"
+}

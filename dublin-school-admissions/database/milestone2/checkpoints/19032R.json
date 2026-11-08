@@ -1,0 +1,263 @@
+{
+  "roll": "19032R",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://stewartsschool.ie/?s=admission",
+      "final_url": "https://stewartsschool.ie/?s=admission",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Public site search form"
+    },
+    {
+      "url": "https://stewartsschool.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://stewartsschool.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://stewartsschool.ie/wp-content/uploads/2019/05/Admissions-Policy-2019.pdf",
+      "final_url": "https://stewartsschool.ie/wp-content/uploads/2019/05/Admissions-Policy-2019.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Policy 2019"
+    },
+    {
+      "url": "https://stewartsschool.ie/wp-content/uploads/2019/02/Stewarts-School-Admissions-Policy.pdf",
+      "final_url": "https://stewartsschool.ie/wp-content/uploads/2019/02/Stewarts-School-Admissions-Policy.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Stewarts School Admissions Policy"
+    },
+    {
+      "url": "https://stewartsschool.ie/wp-content/uploads/2020/09/Admissions-Policy.pdf",
+      "final_url": "https://stewartsschool.ie/wp-content/uploads/2020/09/Admissions-Policy.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Policy"
+    },
+    {
+      "url": "https://stewartsschool.ie/wp-content/uploads/2021/09/Admissions-Policy.pdf",
+      "final_url": "https://stewartsschool.ie/wp-content/uploads/2021/09/Admissions-Policy.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Policy"
+    },
+    {
+      "url": "https://stewartsschool.ie/wp-content/uploads/2021/09/Admissions-Policy-2021-2022.pdf",
+      "final_url": "https://stewartsschool.ie/wp-content/uploads/2021/09/Admissions-Policy-2021-2022.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Policy 2021-2022"
+    },
+    {
+      "url": "https://stewartsschool.ie/wp-content/uploads/2021/04/Admissions-Policy.pdf",
+      "final_url": "https://stewartsschool.ie/wp-content/uploads/2021/04/Admissions-Policy.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Policy"
+    },
+    {
+      "url": "https://stewartsschool.ie/wp-content/uploads/2022/09/Admissions-policy.pdf",
+      "final_url": "https://stewartsschool.ie/wp-content/uploads/2022/09/Admissions-policy.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions policy"
+    },
+    {
+      "url": "https://stewartsschool.ie/wp-content/uploads/2023/10/Admissions-Policy-September-2024.pdf",
+      "final_url": "https://stewartsschool.ie/wp-content/uploads/2023/10/Admissions-Policy-September-2024.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Policy September 2024"
+    },
+    {
+      "url": "https://stewartsschool.ie/wp-content/uploads/2023/01/Admissions-policy.pdf",
+      "final_url": "https://stewartsschool.ie/wp-content/uploads/2023/01/Admissions-policy.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions policy"
+    },
+    {
+      "url": "https://stewartsschool.ie/wp-content/uploads/2024/01/Admissions-Policy-September-2024.pdf",
+      "final_url": "https://stewartsschool.ie/wp-content/uploads/2024/01/Admissions-Policy-September-2024.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Policy September 2024"
+    },
+    {
+      "url": "https://stewartsschool.ie/wp-content/uploads/2025/10/Admissions-Policy-2026-2027.pdf",
+      "final_url": "https://stewartsschool.ie/wp-content/uploads/2025/10/Admissions-Policy-2026-2027.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Policy 2026-2027"
+    },
+    {
+      "url": "https://stewartsschool.ie/wp-content/uploads/2025/01/Admissions-Policy-Sept-25.pdf",
+      "final_url": "https://stewartsschool.ie/wp-content/uploads/2025/01/Admissions-Policy-Sept-25.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Policy Sept 25"
+    },
+    {
+      "url": "https://stewartsschool.ie/wp-sitemap.xml",
+      "final_url": "https://stewartsschool.ie/wp-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://stewartsschool.ie/wp-sitemap-posts-post-1.xml",
+      "final_url": "https://stewartsschool.ie/wp-sitemap-posts-post-1.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://stewartsschool.ie/wp-sitemap-posts-page-1.xml",
+      "final_url": "https://stewartsschool.ie/wp-sitemap-posts-page-1.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://stewartsschool.ie/policies/other-policies/",
+      "final_url": "https://stewartsschool.ie/policies/other-policies/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Other Policies"
+    },
+    {
+      "url": "http://stewartsschool.ie/wp-content/uploads/2024/03/Parental-Complaints-Procedure.pdf",
+      "final_url": "http://stewartsschool.ie/wp-content/uploads/2024/03/Parental-Complaints-Procedure.pdf",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "Parental Complaints Procedure"
+    },
+    {
+      "url": "https://stewartsschool.ie/policies/child-safeguarding-statement/",
+      "final_url": "https://stewartsschool.ie/policies/child-safeguarding-statement/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Child Safeguarding Statement"
+    },
+    {
+      "url": "http://stewartsschool.ie/wp-content/uploads/2025/12/Parents-Association-Notification-regarding-the-BOM-review-of-the-Child-Safeguarding-Statement.pdf",
+      "final_url": "http://stewartsschool.ie/wp-content/uploads/2025/12/Parents-Association-Notification-regarding-the-BOM-review-of-the-Child-Safeguarding-Statement.pdf",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "Parents Association Notification regarding the BOM review of the Child Safeguarding Statement"
+    },
+    {
+      "url": "https://stewartsschool.ie/policies/admissions-policy/",
+      "final_url": "https://stewartsschool.ie/policies/admissions-policy/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions Policy and Application Form"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19032R",
+      "url": "https://stewartsschool.ie/wp-content/uploads/2021/04/Admissions-Policy.pdf",
+      "label": "Admissions Policy",
+      "sha256": "0cf6aec995ac519f544afba1de5923c1625282f7de6443ff9be04e8f65a9b0f5",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19032R_0cf6aec995ac519f544a.txt",
+      "source_file": "database/milestone2/cache/0cf6aec995ac519f544afba1de5923c1625282f7de6443ff9be04e8f65a9b0f5.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 64604
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "http://stewartsschool.ie/wp-content/uploads/2025/10/Admissions-Notice-2026-2027.pdf",
+      "label": "Admissions Notice 2026-2027",
+      "via": "school_public_link"
+    },
+    {
+      "url": "http://stewartsschool.ie/wp-content/uploads/2024/04/Appeal-procedures-refusal-to-enrol-oversubscribed.pdf",
+      "label": "Appeal procedures refusal to enrol oversubscribed",
+      "via": "school_public_link"
+    },
+    {
+      "url": "http://stewartsschool.ie/wp-content/uploads/2024/04/Appeal-procedures-refusal-to-enrol-other.pdf",
+      "label": "Appeal procedures refusal to enrol other",
+      "via": "school_public_link"
+    },
+    {
+      "url": "http://stewartsschool.ie/wp-content/uploads/2025/10/Admissions-Policy-2026-2027.pdf",
+      "label": "Admissions Policy 2026-2027",
+      "via": "school_public_link"
+    },
+    {
+      "url": "http://stewartsschool.ie/wp-content/uploads/2026/04/Review-by-BOM-Request-Form.pdf",
+      "label": "Review by BOM Request Form",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stewartsschool.ie/for-parents/useful-links/",
+      "label": "Useful Links",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stewartsschool.ie/for-parents/school-closure-date/",
+      "label": "School Closure Dates 26/27",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stewartsschool.ie/for-parents/parents-association/",
+      "label": "Parents Association",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stewartsschool.ie/for-parents/games/",
+      "label": "Games",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stewartsschool.ie/",
+      "label": "School homepage",
+      "via": "home"
+    },
+    {
+      "url": "http://stewartsschool.ie/wp-content/uploads/2020/12/Data-Protection-Policy.pdf",
+      "label": "Data Protection Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "http://stewartsschool.ie/wp-content/uploads/2023/03/Healthy-Eating-Policy.pdf",
+      "label": "Healthy Eating Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "http://stewartsschool.ie/wp-content/uploads/2024/10/Notifcation-regarding-the-BOM-review-of-Anit-Bullying-Policy-PA.pdf",
+      "label": "Notification regarding the BOM review of Anti Bullying Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "http://stewartsschool.ie/wp-content/uploads/2024/10/Anti-Bullying-Policy.pdf",
+      "label": "Anti-Bullying Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "http://stewartsschool.ie/wp-content/uploads/2024/07/Dignity-at-Work-Policy-1.pdf",
+      "label": "Dignity at Work Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "http://stewartsschool.ie/wp-content/uploads/2025/10/Application-Form-Sept-2026.pdf",
+      "label": "Application Form Sept 2026",
+      "via": "school_public_link"
+    },
+    {
+      "url": "http://stewartsschool.ie/wp-content/uploads/2026/03/Bi-Cinealta-Policy-to-Prevent-and-Address-Bullying-Behaviour.pdf",
+      "label": "Bi Cinealta Policy to Prevent and Address Bullying Behaviour",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 157.05,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:34:04+0000"
+}

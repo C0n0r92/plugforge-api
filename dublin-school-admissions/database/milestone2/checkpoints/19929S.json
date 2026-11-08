@@ -1,0 +1,188 @@
+{
+  "roll": "19929S",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://stbrigidsschool.com/admissions-notice/",
+      "final_url": "https://stbrigidsschool.com/admissions-notice/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions/policy URL from public sitemap"
+    },
+    {
+      "url": "https://stbrigidsschool.com/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://stbrigidsschool.com/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "robots_disallow",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://stbrigidsschool.com/admissions/",
+      "final_url": "https://stbrigidsschool.com/admissions/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://stbrigidsschool.com/wp-content/uploads/2026/10/Admission-Policy-2026-St.-Brigids-Senior-Girls-School-19929s.pdf",
+      "final_url": "https://stbrigidsschool.com/wp-content/uploads/2026/10/Admission-Policy-2026-St.-Brigids-Senior-Girls-School-19929s.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Approved Admissions Policy 2026 Download"
+    },
+    {
+      "url": "https://stbrigidsschool.com/wp-content/uploads/2026/10/Admissions-Forms-2027-2028-St.-Brigids-Senior-Special-Class.pdf",
+      "final_url": "https://stbrigidsschool.com/wp-content/uploads/2026/10/Admissions-Forms-2027-2028-St.-Brigids-Senior-Special-Class.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions Form 2027-2028 – Special Class Download"
+    },
+    {
+      "url": "https://stbrigidsschool.com/wp-content/uploads/2026/10/Admissions-Forms-2027-2028-St.-Brigids-Senior-Mainstream.pdf",
+      "final_url": "https://stbrigidsschool.com/wp-content/uploads/2026/10/Admissions-Forms-2027-2028-St.-Brigids-Senior-Mainstream.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions Form 2027-2028 - Mainstream Download"
+    },
+    {
+      "url": "https://stbrigidsschool.com/sitemap_index.xml",
+      "final_url": "https://stbrigidsschool.com/sitemap_index.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://stbrigidsschool.com/post-sitemap.xml",
+      "final_url": "https://stbrigidsschool.com/post-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://stbrigidsschool.com/page-sitemap.xml",
+      "final_url": "https://stbrigidsschool.com/page-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://stbrigidsschool.com/for-parents/school-rules/",
+      "final_url": "https://stbrigidsschool.com/for-parents/school-rules/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "General School Rules"
+    },
+    {
+      "url": "https://stbrigidsschool.com/for-parents/policies-and-procedures/",
+      "final_url": "https://stbrigidsschool.com/for-parents/policies-and-procedures/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies & Procedures"
+    },
+    {
+      "url": "https://stbrigidsschool.com/wp-content/uploads/2025/10/September-2025-19929s-Child-Safeguarding-Statement-and-Risk-Assessment-.pdf",
+      "final_url": "https://stbrigidsschool.com/wp-content/uploads/2025/10/September-2025-19929s-Child-Safeguarding-Statement-and-Risk-Assessment-.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Child Safeguarding Statement Download"
+    },
+    {
+      "url": "https://stbrigidsschool.com/wp-content/uploads/2025/10/Review-of-Child-Safeguarding-Statament-2025.pdf",
+      "final_url": "https://stbrigidsschool.com/wp-content/uploads/2025/10/Review-of-Child-Safeguarding-Statament-2025.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Review of Child Safeguarding Statement Download"
+    },
+    {
+      "url": "https://stbrigidsschool.com/for-parents/hscl-co-ordinator/",
+      "final_url": "https://stbrigidsschool.com/for-parents/hscl-co-ordinator/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "H.S.C.L. Co-ordinator"
+    },
+    {
+      "url": "https://stbrigidsschool.com/for-parents/calendar-of-the-year/",
+      "final_url": "https://stbrigidsschool.com/for-parents/calendar-of-the-year/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Calendar of the Year"
+    },
+    {
+      "url": "https://stbrigidsschool.com",
+      "final_url": "https://stbrigidsschool.com",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://stbrigidsschool.com/wp-content/themes/stbrigidsschool2023/documents/Mobile-Phone-and-Electronic-Devices-Policy.pdf",
+      "final_url": "https://stbrigidsschool.com/wp-content/themes/stbrigidsschool2023/documents/Mobile-Phone-and-Electronic-Devices-Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Mobile Phone & Electronic Devices Policy Download"
+    },
+    {
+      "url": "https://stbrigidsschool.com/wp-content/themes/stbrigidsschool2023/documents/Administration-of-Medicine-Policy.pdf",
+      "final_url": "https://stbrigidsschool.com/wp-content/themes/stbrigidsschool2023/documents/Administration-of-Medicine-Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Administration of Medicine Policy Download"
+    },
+    {
+      "url": "https://stbrigidsschool.com/wp-content/themes/stbrigidsschool2023/documents/Acceptable-Use-Policy.pdf",
+      "final_url": "https://stbrigidsschool.com/wp-content/themes/stbrigidsschool2023/documents/Acceptable-Use-Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Acceptable Use Policy Download"
+    },
+    {
+      "url": "https://stbrigidsschool.com/wp-content/uploads/2025/10/Homework-Policy-October-2024.pdf",
+      "final_url": "https://stbrigidsschool.com/wp-content/uploads/2025/10/Homework-Policy-October-2024.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Homework Policy Download"
+    },
+    {
+      "url": "https://stbrigidsschool.com/wp-content/uploads/2025/10/September-2025-Ratified-Policy-Code-of-Behaviour-and-Discipline.pdf",
+      "final_url": "https://stbrigidsschool.com/wp-content/uploads/2025/10/September-2025-Ratified-Policy-Code-of-Behaviour-and-Discipline.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Code of Behaviour Download"
+    },
+    {
+      "url": "https://stbrigidsschool.com/wp-content/uploads/2025/10/Bi-Cinealta-Policy-June-2025.pdf",
+      "final_url": "https://stbrigidsschool.com/wp-content/uploads/2025/10/Bi-Cinealta-Policy-June-2025.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Bí Cineálta Policy Download"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19929S",
+      "url": "https://stbrigidsschool.com/admissions/",
+      "label": "Admissions",
+      "sha256": "9a208e3cfc6d1788c91717ed62c83970c1bd2e12eabf40eb592da7ea895c69e3",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19929S_9a208e3cfc6d1788c917.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 184
+    },
+    {
+      "roll": "19929S",
+      "url": "https://stbrigidsschool.com/wp-content/uploads/2026/10/Admission-Policy-2026-St.-Brigids-Senior-Girls-School-19929s.pdf",
+      "label": "Approved Admissions Policy 2026 Download",
+      "sha256": "fb2a22fe968a51201406f58c19048757cfff52975db494623f2028478cac4467",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19929S_fb2a22fe968a51201406.txt",
+      "source_file": "database/milestone2/cache/fb2a22fe968a51201406f58c19048757cfff52975db494623f2028478cac4467.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 24884
+    }
+  ],
+  "pending_links": [],
+  "elapsed_seconds": 89.26,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:58:48+0000"
+}

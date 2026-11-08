@@ -1,0 +1,25 @@
+{
+  "roll": "09642P",
+  "capture": {
+    "timestamp": "20240807110402",
+    "original": "http://burrowschool.ie/wp-content/uploads/2023/09/Annual-Admission-Statement-2024-2025.pdf",
+    "linked_from_capture": "https://web.archive.org/web/20240715191632/https://burrowschool.ie/wp-content/uploads/2023/09/Annual-Admission-Statement-2024-2025.pdf"
+  },
+  "original_url": "http://burrowschool.ie/wp-content/uploads/2023/09/Annual-Admission-Statement-2024-2025.pdf",
+  "archived_url": "https://web.archive.org/web/20240807110402/http://burrowschool.ie/wp-content/uploads/2023/09/Annual-Admission-Statement-2024-2025.pdf",
+  "attempted_at": "2026-11-08T13:03:10.796766+00:00",
+  "linked_from_capture": "https://web.archive.org/web/20240715191632/https://burrowschool.ie/wp-content/uploads/2023/09/Annual-Admission-Statement-2024-2025.pdf",
+  "http_status": 200,
+  "headers": {
+    "Content-Type": "application/pdf",
+    "memento-datetime": "Wed, 07 Aug 2024 11:04:02 GMT"
+  },
+  "bytes": 275475,
+  "payload_sha256": "82adc103919ea8bac05ecafcd1c974ae12e07322248cacff0ec88a9fe52faa06",
+  "format": "pdf",
+  "source_file": "database/milestone2/cache/82adc103919ea8bac05ecafcd1c974ae12e07322248cacff0ec88a9fe52faa06.pdf",
+  "parse_stderr": "",
+  "status": "archived_body_retrieved_requires_manual_evidence_review",
+  "text_file": "database/milestone2/evidence/exact_09642P_82adc103919ea8bac05e.txt",
+  "linked_document_candidates": []
+}

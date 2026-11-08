@@ -1,0 +1,316 @@
+{
+  "roll": "16267G",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.stpatsbns.ie/2022/10/annual-admissions-notice/policies",
+      "final_url": "https://www.stpatsbns.ie/policies/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Read more"
+    },
+    {
+      "url": "https://www.stpatsbns.ie/2022/10/annual-admissions-notice/",
+      "final_url": "https://www.stpatsbns.ie/2022/10/annual-admissions-notice/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Annual Admissions Notice"
+    },
+    {
+      "url": "https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.stpatsbns.ie%2F2022%2F10%2Fannual-admissions-notice%2F&description=The%20Annual%20Admissions%20Statement%202023%2F2024%20informs%20parents%2Fguardians%20of%20how%20many%20places%20are%20available%20in%20Junior%20Infants%20and%20the%20dates%20that%20the%20school%20will%20open%20and%20close%20acceptance%20of%20applications.St.%20Patrick%E2%80%99s%20Boys%E2%80%99%20National%20School%20will%20accept%20applications%20for%20the%202023-2024%20year%20from%20October%2010th%C2%A0%202022.%20The%20closing%20date%20for%20application%20is%2031st%C2%A0%20October%202022.%20Applications&media=https%3A%2F%2Fwww.stpatsbns.ie%2Fwp-content%2Fuploads%2F2022%2F10%2Fblog-default.png",
+      "final_url": "https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.stpatsbns.ie%2F2022%2F10%2Fannual-admissions-notice%2F&description=The%20Annual%20Admissions%20Statement%202023%2F2024%20informs%20parents%2Fguardians%20of%20how%20many%20places%20are%20available%20in%20Junior%20Infants%20and%20the%20dates%20that%20the%20school%20will%20open%20and%20close%20acceptance%20of%20applications.St.%20Patrick%E2%80%99s%20Boys%E2%80%99%20National%20School%20will%20accept%20applications%20for%20the%202023-2024%20year%20from%20October%2010th%C2%A0%202022.%20The%20closing%20date%20for%20application%20is%2031st%C2%A0%20October%202022.%20Applications&media=https%3A%2F%2Fwww.stpatsbns.ie%2Fwp-content%2Fuploads%2F2022%2F10%2Fblog-default.png",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Pinterest"
+    },
+    {
+      "url": "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.stpatsbns.ie%2F2022%2F10%2Fannual-admissions-notice%2F",
+      "final_url": "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.stpatsbns.ie%2F2022%2F10%2Fannual-admissions-notice%2F",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "LinkedIn"
+    },
+    {
+      "url": "https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.stpatsbns.ie%2F2022%2F10%2Fannual-admissions-notice%2F",
+      "final_url": "https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.stpatsbns.ie%2F2022%2F10%2Fannual-admissions-notice%2F",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "WhatsApp"
+    },
+    {
+      "url": "https://www.stpatsbns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://www.stpatsbns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://www.stpatsbns.ie/wp-content/uploads/2023/06/Annual-Autism-Class-Admission-Notice.docx.pdf",
+      "final_url": "https://www.stpatsbns.ie/wp-content/uploads/2023/06/Annual-Autism-Class-Admission-Notice.docx.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Annual Autism Class Admission Notice.docx"
+    },
+    {
+      "url": "https://www.stpatsbns.ie/enrolment/policies",
+      "final_url": "https://www.stpatsbns.ie/policies/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Read more"
+    },
+    {
+      "url": "https://www.stpatsbns.ie/enrolment/",
+      "final_url": "https://www.stpatsbns.ie/enrolment/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Enrolment"
+    },
+    {
+      "url": "https://www.stpatsbns.ie/?s=admission",
+      "final_url": "https://www.stpatsbns.ie/?s=admission",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Public site search form"
+    },
+    {
+      "url": "https://www.stpatsbns.ie/wp-content/uploads/2022/09/Admissions-Policy.pdf",
+      "final_url": "https://www.stpatsbns.ie/wp-content/uploads/2022/09/Admissions-Policy.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions-Policy"
+    },
+    {
+      "url": "https://www.stpatsbns.ie/wp-content/uploads/2023/06/St-Patricks-BNS-Autism-Class-Admissions-Policy.pdf",
+      "final_url": "https://www.stpatsbns.ie/wp-content/uploads/2023/06/St-Patricks-BNS-Autism-Class-Admissions-Policy.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "St Patrick&#8217;s BNS Autism Class Admissions Policy"
+    },
+    {
+      "url": "https://www.stpatsbns.ie/wp-content/uploads/2023/03/Admissions-Policy-SP0032.pdf",
+      "final_url": "https://www.stpatsbns.ie/wp-content/uploads/2023/03/Admissions-Policy-SP0032.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Policy SP0032"
+    },
+    {
+      "url": "https://www.stpatsbns.ie/wp-content/uploads/2025/10/Admissions-Policy-2026_27-SP0032-3.pdf",
+      "final_url": "https://www.stpatsbns.ie/wp-content/uploads/2025/10/Admissions-Policy-2026_27-SP0032-3.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Policy 2026_27 SP0032 (3)"
+    },
+    {
+      "url": "https://www.stpatsbns.ie/wp-content/uploads/2025/10/Admissions-Policy-2026_27-SP0032-1.pdf",
+      "final_url": "https://www.stpatsbns.ie/wp-content/uploads/2025/10/Admissions-Policy-2026_27-SP0032-1.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Policy 2026_27 SP0032 (1)"
+    },
+    {
+      "url": "https://www.stpatsbns.ie/wp-content/uploads/2025/09/Admissions-Policy-2026-27.pdf",
+      "final_url": "https://www.stpatsbns.ie/wp-content/uploads/2025/09/Admissions-Policy-2026-27.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Policy 2026-27"
+    },
+    {
+      "url": "https://www.stpatsbns.ie/wp-content/uploads/2025/04/Admissions-Policy-31st-January-2025.docx.pdf",
+      "final_url": "https://www.stpatsbns.ie/wp-content/uploads/2025/04/Admissions-Policy-31st-January-2025.docx.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Policy 31st January 2025.docx"
+    },
+    {
+      "url": "https://www.stpatsbns.ie/2023/02/grandparents-day-2023/",
+      "final_url": "https://www.stpatsbns.ie/2023/02/grandparents-day-2023/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Grandparents’ Day 2023"
+    },
+    {
+      "url": "https://www.stpatsbns.ie/2023/02/grandparents-day-2023/policies",
+      "final_url": "https://www.stpatsbns.ie/policies/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Read more"
+    },
+    {
+      "url": "https://www.stpatsbns.ie/wp-sitemap.xml",
+      "final_url": "https://www.stpatsbns.ie/wp-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.stpatsbns.ie/wp-sitemap-posts-tribe_events-1.xml",
+      "final_url": "https://www.stpatsbns.ie/wp-sitemap-posts-tribe_events-1.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.stpatsbns.ie/wp-sitemap-posts-post-1.xml",
+      "final_url": "https://www.stpatsbns.ie/wp-sitemap-posts-post-1.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.stpatsbns.ie/wp-sitemap-posts-page-1.xml",
+      "final_url": "https://www.stpatsbns.ie/wp-sitemap-posts-page-1.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.stpatsbns.ie/policies/policies",
+      "final_url": "https://www.stpatsbns.ie/policies/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Read more"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "16267G",
+      "url": "https://www.stpatsbns.ie/2022/10/annual-admissions-notice/",
+      "label": "Annual Admissions Notice",
+      "sha256": "127dca02876a581e28c21b33b63112e5cf451b8ffbbec633d43b388e0eb365cc",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/16267G_127dca02876a581e28c2.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1644
+    },
+    {
+      "roll": "16267G",
+      "url": "https://www.stpatsbns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "label": "Oldest public admission media (all dates)",
+      "sha256": "c0de9cd5612c36fdaf5dd38f2cc0b700e8afd0b2ad94d5af9d9dacde659c950a",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/16267G_c0de9cd5612c36fdaf5d.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 3885
+    },
+    {
+      "roll": "16267G",
+      "url": "https://www.stpatsbns.ie/enrolment/",
+      "label": "Enrolment",
+      "sha256": "f8ff917a14cca6004360246a7b296db37fb13ad86e506af2bbe53442ed7cbc6e",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/16267G_f8ff917a14cca6004360.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 166
+    },
+    {
+      "roll": "16267G",
+      "url": "https://www.stpatsbns.ie/?s=admission",
+      "label": "Public site search form",
+      "sha256": "c2d921b4ade46729b5a4675c747c60c2d6a80b4d8ddcc7ba57a23ef75d6db29e",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/16267G_c2d921b4ade46729b5a4.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 264
+    },
+    {
+      "roll": "16267G",
+      "url": "https://www.stpatsbns.ie/wp-content/uploads/2022/09/Admissions-Policy.pdf",
+      "label": "Admissions-Policy",
+      "sha256": "49b498eb2083c0e35fed2ff15b7cd9d0cf895e60ee9637916c0dbb97d823e8cd",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/16267G_49b498eb2083c0e35fed.txt",
+      "source_file": "database/milestone2/cache/49b498eb2083c0e35fed2ff15b7cd9d0cf895e60ee9637916c0dbb97d823e8cd.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 23643
+    },
+    {
+      "roll": "16267G",
+      "url": "https://www.stpatsbns.ie/wp-content/uploads/2023/03/Admissions-Policy-SP0032.pdf",
+      "label": "Admissions Policy SP0032",
+      "sha256": "b557c54ab2e63de2656a228803c1ee859f859008fb11edd732d0d62019400833",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/16267G_b557c54ab2e63de2656a.txt",
+      "source_file": "database/milestone2/cache/b557c54ab2e63de2656a228803c1ee859f859008fb11edd732d0d62019400833.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 24199
+    },
+    {
+      "roll": "16267G",
+      "url": "https://www.stpatsbns.ie/wp-content/uploads/2025/10/Admissions-Policy-2026_27-SP0032-3.pdf",
+      "label": "Admissions Policy 2026_27 SP0032 (3)",
+      "sha256": "403644d1b0deedb95e9de4e4e3ccf264c20dbc393f02aebca863ce4518535fe8",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/16267G_403644d1b0deedb95e9d.txt",
+      "source_file": "database/milestone2/cache/403644d1b0deedb95e9de4e4e3ccf264c20dbc393f02aebca863ce4518535fe8.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 28912
+    },
+    {
+      "roll": "16267G",
+      "url": "https://www.stpatsbns.ie/wp-content/uploads/2025/10/Admissions-Policy-2026_27-SP0032-1.pdf",
+      "label": "Admissions Policy 2026_27 SP0032 (1)",
+      "sha256": "60cd4136f0ebbbedfa3f6597f7b75f92df236c8c03271a93092b5bc58bb908ca",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/16267G_60cd4136f0ebbbedfa3f.txt",
+      "source_file": "database/milestone2/cache/60cd4136f0ebbbedfa3f6597f7b75f92df236c8c03271a93092b5bc58bb908ca.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 28912
+    },
+    {
+      "roll": "16267G",
+      "url": "https://www.stpatsbns.ie/wp-content/uploads/2025/09/Admissions-Policy-2026-27.pdf",
+      "label": "Admissions Policy 2026-27",
+      "sha256": "bb3be10254508bc79cfac53e6af939f27e2e0a6684c4052b0ff66e060cc598d5",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/16267G_bb3be10254508bc79cfa.txt",
+      "source_file": "database/milestone2/cache/bb3be10254508bc79cfac53e6af939f27e2e0a6684c4052b0ff66e060cc598d5.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 28909
+    },
+    {
+      "roll": "16267G",
+      "url": "https://www.stpatsbns.ie/wp-content/uploads/2025/04/Admissions-Policy-31st-January-2025.docx.pdf",
+      "label": "Admissions Policy 31st January 2025.docx",
+      "sha256": "4d5d99876d560079ca62fb4bbd84aedc4b8cb1cd7e3c40ff46f53eb8f93a8e6f",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/16267G_4d5d99876d560079ca62.txt",
+      "source_file": "database/milestone2/cache/4d5d99876d560079ca62fb4bbd84aedc4b8cb1cd7e3c40ff46f53eb8f93a8e6f.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 27647
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.stpatsbns.ie/policies/",
+      "label": "Skip to content",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stpatsbns.ie/policies",
+      "label": "Read more",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stpatsbns.ie/parents-council/",
+      "label": "Parents’ Council",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stpatsbns.ie/handbooks-policies/",
+      "label": "Handbooks & Policies",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stpatsbns.ie/",
+      "label": "School homepage",
+      "via": "home"
+    }
+  ],
+  "elapsed_seconds": 75.53,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:32:42+0000"
+}

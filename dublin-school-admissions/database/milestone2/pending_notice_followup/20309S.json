@@ -1,0 +1,30 @@
+{
+  "roll": "20309S",
+  "started_at": "2026-11-08T13:20:22+0000",
+  "method": "previously_linked_explicit_annual_notice_gap_followup",
+  "attempts": [
+    {
+      "url": "https://hopejns.ie/admissions_policies/enrolment_2023_steps_to_follow.pdf",
+      "final_url": "https://hopejns.ie/admissions_policies/enrolment_2023_steps_to_follow.pdf",
+      "status": "ok",
+      "label": "Admission URL from sitemap"
+    },
+    {
+      "url": "https://hopejns.ie/admissions_policies/registration_form_asd_class_2023_2024.pdf",
+      "final_url": "https://hopejns.ie/admissions_policies/registration_form_asd_class_2023_2024.pdf",
+      "status": "ok",
+      "label": "Admission URL from sitemap"
+    },
+    {
+      "url": "https://hopejns.ie/enrolment-for-september-2022/",
+      "final_url": "https://hopejns.ie/enrolment-for-september-2022/",
+      "status": "ok",
+      "label": "Admission URL from sitemap"
+    }
+  ],
+  "documents": [],
+  "pending_links": [],
+  "earliest_year_cutoff": null,
+  "status": "attempted_no_new_numeric_notice_established",
+  "elapsed_seconds": 10.59
+}

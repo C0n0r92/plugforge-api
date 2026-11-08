@@ -1,0 +1,212 @@
+{
+  "roll": "19658N",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.bishopshanahan.ie/enrolment/",
+      "final_url": "https://www.bishopshanahan.ie/enrolment/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Enrolment"
+    },
+    {
+      "url": "https://www.bishopshanahan.ie/_media/media/261020140228-11541.pdf",
+      "final_url": "https://www.bishopshanahan.ie/_media/media/261020140228-11541.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "BSNS Admission Policy"
+    },
+    {
+      "url": "https://www.bishopshanahan.ie/parents/school-closures-2026-2027/",
+      "final_url": "https://www.bishopshanahan.ie/parents/school-closures-2026-2027/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Closures 2026-2027"
+    },
+    {
+      "url": "https://www.bishopshanahan.ie/school-policies/",
+      "final_url": "https://www.bishopshanahan.ie/school-policies/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Policies"
+    },
+    {
+      "url": "https://www.bishopshanahan.ie/parents/school-uniform-information/",
+      "final_url": "https://www.bishopshanahan.ie/parents/school-uniform-information/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Uniform Information"
+    },
+    {
+      "url": "https://www.bishopshanahan.ie/parents/parentsassociation/",
+      "final_url": "https://www.bishopshanahan.ie/parents/parentsassociation/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents' Association"
+    },
+    {
+      "url": "https://www.bishopshanahan.ie/parents/new-primary-mathematics-curriculum/",
+      "final_url": "https://www.bishopshanahan.ie/parents/new-primary-mathematics-curriculum/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "New Primary Mathematics Curriculum"
+    },
+    {
+      "url": "https://www.bishopshanahan.ie/parents/new-primary-curriculum-framework/",
+      "final_url": "https://www.bishopshanahan.ie/parents/new-primary-curriculum-framework/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "New Primary Curriculum Framework"
+    },
+    {
+      "url": "https://www.bishopshanahan.ie/parents/general-information/",
+      "final_url": "https://www.bishopshanahan.ie/parents/general-information/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "General Information"
+    },
+    {
+      "url": "https://www.bishopshanahan.ie/parents/extracurricular-after-school-activities/",
+      "final_url": "https://www.bishopshanahan.ie/parents/extracurricular-after-school-activities/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Extracurricular/After-School Activities"
+    },
+    {
+      "url": "https://www.bishopshanahan.ie/school-policies",
+      "final_url": "https://www.bishopshanahan.ie/school-policies/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "After School Activities and Use of the School"
+    },
+    {
+      "url": "https://www.bishopshanahan.ie/parents/complaints-procedure/",
+      "final_url": "https://www.bishopshanahan.ie/parents/complaints-procedure/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Complaints Procedure"
+    },
+    {
+      "url": "https://www.bishopshanahan.ie/parents/advice-for-parents-to-help-your-child-rsquo-s-health-this-school-year/",
+      "final_url": "https://www.bishopshanahan.ie/parents/advice-for-parents-to-help-your-child-rsquo-s-health-this-school-year/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Advice for parents to help your child’s health this school year"
+    },
+    {
+      "url": "https://www.bishopshanahan.ie/parents/",
+      "final_url": "https://www.bishopshanahan.ie/parents/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents ▼"
+    },
+    {
+      "url": "https://www.bishopshanahan.ie/",
+      "final_url": "https://www.bishopshanahan.ie/",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "http://www.bishopshanahan.ie/sitemap.xml",
+      "final_url": "http://www.bishopshanahan.ie/sitemap.xml",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.bishopshanahan.ie/_media/media/260925122746-10650.pdf",
+      "final_url": "https://www.bishopshanahan.ie/_media/media/260925122746-10650.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Bí Cineálta Policy and Procedures"
+    },
+    {
+      "url": "https://www.bishopshanahan.ie/_media/media/260925114826-11331.pdf",
+      "final_url": "https://www.bishopshanahan.ie/_media/media/260925114826-11331.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Attendance Policy"
+    },
+    {
+      "url": "https://www.bishopshanahan.ie/_media/media/260618085545-11140.pdf",
+      "final_url": "https://www.bishopshanahan.ie/_media/media/260618085545-11140.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Code of Positive Behaviour Policy"
+    },
+    {
+      "url": "https://www.bishopshanahan.ie/_media/media/260506121700-11056.pdf",
+      "final_url": "https://www.bishopshanahan.ie/_media/media/260506121700-11056.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "First Aid Policy"
+    },
+    {
+      "url": "https://www.bishopshanahan.ie/_media/media/260206101634-10908.pdf",
+      "final_url": "https://www.bishopshanahan.ie/_media/media/260206101634-10908.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Administration of Medication Policy"
+    },
+    {
+      "url": "https://www.bishopshanahan.ie/_media/media/251124084717-10778.pdf",
+      "final_url": "https://www.bishopshanahan.ie/_media/media/251124084717-10778.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Information and Communication Technology (ICT) and Acceptable Use Policy (AUP)"
+    },
+    {
+      "url": "https://www.bishopshanahan.ie/_media/media/251023143044-10727.pdf",
+      "final_url": "https://www.bishopshanahan.ie/_media/media/251023143044-10727.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Bí Cineálta Child Friendly Policy"
+    },
+    {
+      "url": "https://www.bishopshanahan.ie/_media/media/210223140609-6796.pdf",
+      "final_url": "https://www.bishopshanahan.ie/_media/media/210223140609-6796.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "RemoteTeaching and Learning Policy"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19658N",
+      "url": "https://www.bishopshanahan.ie/enrolment/",
+      "label": "Enrolment",
+      "sha256": "b0d226f7ec591eb89dc9562221fe51406750aee17839aebbc88028b7dd6b0dbd",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19658N_b0d226f7ec591eb89dc9.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 327
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.bishopshanahan.ie/cookie-policy/",
+      "label": "cookie policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.bishopshanahan.ie/activities/health-hub/healthy-lunch-policy/",
+      "label": "Healthy Lunch Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.bishopshanahan.ie/activities/health-hub/healthy-lunch-policy",
+      "label": "Healthy Lunch Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.bishopshanahan.ie/about-us/cookie-policy/",
+      "label": "Cookie Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 80.79,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:57:33+0000"
+}

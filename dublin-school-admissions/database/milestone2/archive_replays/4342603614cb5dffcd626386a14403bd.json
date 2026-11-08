@@ -1,0 +1,22 @@
+{
+  "task_id": "4342603614cb5dffcd626386a14403bd",
+  "roll": "00697S",
+  "capture": {
+    "digest": "MTLMIZZN6C6HHHGKDXNXUZK6ZJNH7C6F",
+    "mimetype": "text/html",
+    "original": "http://saintbrigids.ie/page/Junior-Infant-Admissions-20252026/19674/Index.html",
+    "statuscode": "200",
+    "timestamp": "20241102073532"
+  },
+  "original_url": "http://saintbrigids.ie/page/Junior-Infant-Admissions-20252026/19674/Index.html",
+  "archived_url": "https://web.archive.org/web/20241102073532/http://saintbrigids.ie/page/Junior-Infant-Admissions-20252026/19674/Index.html",
+  "attempted_at": "2026-11-08T12:33:39.080847+00:00",
+  "http_status": 302,
+  "headers": {
+    "Content-Type": "text/plain; charset=utf-8",
+    "location": "https://web.archive.org/web/20241029220449/http://www.saintbrigids.ie/Page/Junior-Infant-Admissions-20252026/19674/Index.html"
+  },
+  "payload_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "bytes": 0,
+  "status": "archive_replay_http_302"
+}

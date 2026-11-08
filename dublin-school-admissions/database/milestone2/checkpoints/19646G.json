@@ -1,0 +1,108 @@
+{
+  "roll": "19646G",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.scoilsantain.com/Content/2025/6/aa00-Polasai_Iontrala_Scoil_Santain_Gaeilge.docx",
+      "final_url": "https://www.scoilsantain.com/Content/2025/6/aa00-Polasai_Iontrala_Scoil_Santain_Gaeilge.docx",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://www.scoilsantain.com/page/Iontrail-20272028/33186/Index.html",
+      "final_url": "https://www.scoilsantain.com/page/Iontrail-20272028/33186/Index.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Iontráil 2027/2028"
+    },
+    {
+      "url": "https://www.scoilsantain.com/Page/Iontrail-20272028/33186/Index.html",
+      "final_url": "https://www.scoilsantain.com/Page/Iontrail-20272028/33186/Index.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Iontráil 2027/2028"
+    },
+    {
+      "url": "https://www.scoilsantain.com/Iontrail/Index.html",
+      "final_url": "https://www.scoilsantain.com/Iontrail/Index.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Iontráil"
+    },
+    {
+      "url": "https://www.scoilsantain.com/Admissions/Index.html",
+      "final_url": "https://www.scoilsantain.com/Admissions/Index.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Clárúchán"
+    },
+    {
+      "url": "https://storage.googleapis.com/iclasscrm_files/5419/Images/Content/2026/266/uo75-Foirm_Iarratais_Rang_Uathachais.docx",
+      "final_url": "https://storage.googleapis.com/iclasscrm_files/5419/Images/Content/2026/266/uo75-Foirm_Iarratais_Rang_Uathachais.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Foirm Iarratais Rang Uathachais"
+    },
+    {
+      "url": "https://www.scoilsantain.com/sitemap.xml",
+      "final_url": "https://www.scoilsantain.com/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.scoilsantain.com",
+      "final_url": "https://www.scoilsantain.com",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://storage.googleapis.com/iclasscrm_files/5419/Images/Content/2026/266/lu47-Autism_Support_Class_Application_Form.docx",
+      "final_url": "https://storage.googleapis.com/iclasscrm_files/5419/Images/Content/2026/266/lu47-Autism_Support_Class_Application_Form.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Autism Support Class Application Form"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19646G",
+      "url": "https://www.scoilsantain.com/Content/2025/6/aa00-Polasai_Iontrala_Scoil_Santain_Gaeilge.docx",
+      "label": "Prior school admissions section",
+      "sha256": "ebb28f287146f9b9ab8ad8addf18a6245aa7ffbddf29a96812ca6cc89da0367a",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/19646G_ebb28f287146f9b9ab8a.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 30769
+    },
+    {
+      "roll": "19646G",
+      "url": "https://www.scoilsantain.com/page/Iontrail-20272028/33186/Index.html",
+      "label": "Iontráil 2027/2028",
+      "sha256": "904537b28b5c9b1e886cc0fbf916058cfc9d361d8c3c2b5e44ab602521c92b09",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19646G_904537b28b5c9b1e886c.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 2004
+    },
+    {
+      "roll": "19646G",
+      "url": "https://www.scoilsantain.com/Page/Iontrail-20272028/33186/Index.html",
+      "label": "Iontráil 2027/2028",
+      "sha256": "eba0c03545aacd6417bf82ae1297725f886bebf998978ba9e6fb8db1953af63f",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19646G_eba0c03545aacd6417bf.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 2004
+    }
+  ],
+  "pending_links": [],
+  "elapsed_seconds": 24.34,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:34:02+0000"
+}

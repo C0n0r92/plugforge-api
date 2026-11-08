@@ -1,0 +1,22 @@
+{
+  "roll": "17507F",
+  "capture": {
+    "timestamp": "20240919172820",
+    "original": "https://www.glencullenschool.ie/policies/admission-policy/",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "digest": "42KZUZY3EB3MDKSZMLYFYKZLV6BE7Z3W"
+  },
+  "original_url": "https://www.glencullenschool.ie/policies/admission-policy/",
+  "archived_url": "https://web.archive.org/web/20240919172820/https://www.glencullenschool.ie/policies/admission-policy/",
+  "attempted_at": "2026-11-08T13:08:52.889760+00:00",
+  "linked_from_capture": null,
+  "http_status": 302,
+  "headers": {
+    "Content-Type": "text/plain; charset=utf-8",
+    "location": "https://web.archive.org/web/20240718181000/https://www.glencullenschool.ie/policies/admission-policy/"
+  },
+  "bytes": 0,
+  "status": "archive_redirect_pending",
+  "redirect_url": "https://web.archive.org/web/20240718181000/https://www.glencullenschool.ie/policies/admission-policy/"
+}

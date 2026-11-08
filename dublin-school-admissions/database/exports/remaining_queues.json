@@ -1,0 +1,30 @@
+{
+  "as_of": "2026-11-08T13:45:32.752497+00:00",
+  "timezone": "Europe/Dublin",
+  "own_sites": {
+    "attempted_accessible": 434,
+    "attempted_permission_or_retrieval_failed": 84,
+    "no_domain": 2
+  },
+  "pending_public_links_not_assumed_notices": 5827,
+  "source_derived_prefixes_queued": 208,
+  "prefixes_checkpointed": 10,
+  "prefixes_index_complete": 6,
+  "prefixes_failed_checkpointed": 4,
+  "additional_prefix_attempt_interrupted_without_own_checkpoint": {
+    "roll": "11873A",
+    "prefix": "https://rathmichaelschool.com/wp-content/uploads/",
+    "basis": "Serial worker queue after10saved prefixes and third consecutive timeout; scope reconstructed from saved source_queue and loop order."
+  },
+  "prefixes_truly_unattempted": 197,
+  "retained_source_ambiguity_tasks": 26,
+  "unreviewed_distinct_payload_body_checkpoints": 368,
+  "unreviewed_admissions_candidate_texts_in_core": 194,
+  "archive429": "All archive requests stopped after13:24:34Europe/Dublin; no retry until later user instruction, normal documented access and service limits respected.",
+  "collectors_running": false,
+  "stopped_archive_pids": [
+    77241,
+    69891
+  ],
+  "other_collection_workers": "All own-site/media/link/seed/unparsed workers completed; no live collectors at snapshot."
+}

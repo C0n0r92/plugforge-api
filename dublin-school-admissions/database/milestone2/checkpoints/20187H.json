@@ -1,0 +1,128 @@
+{
+  "roll": "20187H",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.dmbalgaddysns.ie/activities/31/Divine-Mercy-Admissions--Notice",
+      "final_url": "https://www.dmbalgaddysns.ie/activities/31/Divine-Mercy-Admissions--Notice",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Divine Mercy Admissions  Notice"
+    },
+    {
+      "url": "https://www.dmbalgaddysns.ie//uploads/Divine_Mercy_Website_Privacy_Notice.pdf",
+      "final_url": "https://www.dmbalgaddysns.ie//uploads/Divine_Mercy_Website_Privacy_Notice.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Privacy Statement"
+    },
+    {
+      "url": "https://www.dmbalgaddysns.ie/sitemap.xml",
+      "final_url": "https://www.dmbalgaddysns.ie/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.dmbalgaddysns.ie/activities/32/ASD-Class-Admissions-Policy",
+      "final_url": "https://www.dmbalgaddysns.ie/activities/32/ASD-Class-Admissions-Policy",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "ASD Class Admissions Policy"
+    },
+    {
+      "url": "https://www.dmbalgaddysns.ie/activities/21/Enrolment-Policy",
+      "final_url": "https://www.dmbalgaddysns.ie/activities/21/Enrolment-Policy",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Enrolment Policy"
+    },
+    {
+      "url": "https://dmbalgaddysns.ie/uploads/Enrolment_and_Admission_Policy_jan.25.pdf",
+      "final_url": "https://dmbalgaddysns.ie/uploads/Enrolment_and_Admission_Policy_jan.25.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "View/Download"
+    },
+    {
+      "url": "https://www.dmbalgaddysns.ie/aboutus/6/School-Information-and-Expectations",
+      "final_url": "https://www.dmbalgaddysns.ie/aboutus/6/School-Information-and-Expectations",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Information and Expectations"
+    },
+    {
+      "url": "https://www.dmbalgaddysns.ie",
+      "final_url": "https://www.dmbalgaddysns.ie",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.dmbalgaddysns.ie/activities/26/Sen-Policy",
+      "final_url": "https://www.dmbalgaddysns.ie/activities/26/Sen-Policy",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Sen Policy"
+    },
+    {
+      "url": "https://www.dmbalgaddysns.ie/activities/25/Internet-Acceptable-Usage-Policy",
+      "final_url": "https://www.dmbalgaddysns.ie/activities/25/Internet-Acceptable-Usage-Policy",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Internet Acceptable Usage Policy"
+    },
+    {
+      "url": "https://www.dmbalgaddysns.ie/activities/24/ICT-Policy",
+      "final_url": "https://www.dmbalgaddysns.ie/activities/24/ICT-Policy",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "ICT Policy"
+    },
+    {
+      "url": "https://www.dmbalgaddysns.ie/activities/23/Homework-Policy",
+      "final_url": "https://www.dmbalgaddysns.ie/activities/23/Homework-Policy",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Homework Policy"
+    },
+    {
+      "url": "https://www.dmbalgaddysns.ie/activities/22/healthy-and-safety-policy",
+      "final_url": "https://www.dmbalgaddysns.ie/activities/22/healthy-and-safety-policy",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "healthy and safety policy"
+    },
+    {
+      "url": "https://www.dmbalgaddysns.ie/activities/20/Code-of-Discipline-Policy",
+      "final_url": "https://www.dmbalgaddysns.ie/activities/20/Code-of-Discipline-Policy",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Code of Discipline Policy"
+    },
+    {
+      "url": "https://www.dmbalgaddysns.ie/activities/17/Anti-Bullying-Policy",
+      "final_url": "https://www.dmbalgaddysns.ie/activities/17/Anti-Bullying-Policy",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Anti Bullying Policy"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "20187H",
+      "url": "https://www.dmbalgaddysns.ie/activities/32/ASD-Class-Admissions-Policy",
+      "label": "ASD Class Admissions Policy",
+      "sha256": "05f9f6bd1dae1e9cf9725190ba4bbe71d377b6b6890e265cd7728215bc8ca2a9",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20187H_05f9f6bd1dae1e9cf972.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 11900
+    }
+  ],
+  "pending_links": [],
+  "elapsed_seconds": 46.26,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:58:38+0000"
+}

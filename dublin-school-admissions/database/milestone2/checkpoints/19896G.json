@@ -1,0 +1,330 @@
+{
+  "roll": "19896G",
+  "status": "bounded_search_no_new_notice_found",
+  "attempts": [
+    {
+      "url": "https://www.scoilchaitrionabaggotstreet.ie/enrolment/junior-infant-enrolment/?googletranslate=true",
+      "final_url": "https://www.scoilchaitrionabaggotstreet.ie/enrolment/junior-infant-enrolment/?googletranslate=true",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "https://www.scoilchaitrionabaggotstreet.ie/letterlink/5/?open=true",
+      "final_url": "https://view.officeapps.live.com/op/embed.aspx?src=https://swddoc.b-cdn.net/1013/docletter/20261010093219_62_SCBS-Admissions-Notice-2027-2028-1.docx",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "SCBS Admissions Notice 2027-2028-1"
+    },
+    {
+      "url": "https://www.scoilchaitrionabaggotstreet.ie/enrolment/junior-infant-enrolment/",
+      "final_url": "https://www.scoilchaitrionabaggotstreet.ie/enrolment/junior-infant-enrolment/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Junior Infant Enrolment"
+    },
+    {
+      "url": "https://www.scoilchaitrionabaggotstreet.ie/enrolment/digital-enrolment-forum/?googletranslate=true",
+      "final_url": "https://www.scoilchaitrionabaggotstreet.ie/enrolment/digital-enrolment-forum/?googletranslate=true",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "https://www.scoilchaitrionabaggotstreet.ie/enrolment/digital-enrolment-forum/",
+      "final_url": "https://www.scoilchaitrionabaggotstreet.ie/enrolment/digital-enrolment-forum/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Digital Enrolment Form"
+    },
+    {
+      "url": "https://www.scoilchaitrionabaggotstreet.ie/enrolment/?googletranslate=true",
+      "final_url": "https://www.scoilchaitrionabaggotstreet.ie/enrolment/?googletranslate=true",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "https://www.scoilchaitrionabaggotstreet.ie/enrolment/",
+      "final_url": "https://www.scoilchaitrionabaggotstreet.ie/enrolment/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Enrolment"
+    },
+    {
+      "url": "https://www.scoilchaitrionabaggotstreet.ie/admin/?open=/enrolment/junior-infant-enrolment/?googletranslate=true",
+      "final_url": "https://www.scoilchaitrionabaggotstreet.ie/admin/?open=/enrolment/junior-infant-enrolment/?googletranslate=true",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.scoilchaitrionabaggotstreet.ie/admin/?open=/enrolment/junior-infant-enrolment/",
+      "final_url": "https://www.scoilchaitrionabaggotstreet.ie/admin/?open=/enrolment/junior-infant-enrolment/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.scoilchaitrionabaggotstreet.ie/admin/?open=/enrolment/digital-enrolment-forum/?googletranslate=true",
+      "final_url": "https://www.scoilchaitrionabaggotstreet.ie/admin/?open=/enrolment/digital-enrolment-forum/?googletranslate=true",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.scoilchaitrionabaggotstreet.ie/admin/?open=/enrolment/digital-enrolment-forum/",
+      "final_url": "https://www.scoilchaitrionabaggotstreet.ie/admin/?open=/enrolment/digital-enrolment-forum/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.scoilchaitrionabaggotstreet.ie/admin/?open=/enrolment/?googletranslate=true",
+      "final_url": "https://www.scoilchaitrionabaggotstreet.ie/admin/?open=/enrolment/?googletranslate=true",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.scoilchaitrionabaggotstreet.ie/admin/?open=/enrolment/",
+      "final_url": "https://www.scoilchaitrionabaggotstreet.ie/admin/?open=/enrolment/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.scoilchaitrionabaggotstreet.ie/sitemap.xml",
+      "final_url": "https://www.scoilchaitrionabaggotstreet.ie/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.scoilchaitrionabaggotstreet.ie/school-info/the-school-day/",
+      "final_url": "https://www.scoilchaitrionabaggotstreet.ie/school-info/the-school-day/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "The School Day"
+    },
+    {
+      "url": "https://www.scoilchaitrionabaggotstreet.ie/school-info/the-school-day/?googletranslate=true",
+      "final_url": "https://www.scoilchaitrionabaggotstreet.ie/school-info/the-school-day/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.scoilchaitrionabaggotstreet.ie/school-info/sensory-room/",
+      "final_url": "https://www.scoilchaitrionabaggotstreet.ie/school-info/sensory-room/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Sensory Room"
+    },
+    {
+      "url": "https://www.scoilchaitrionabaggotstreet.ie/school-info/sensory-room/?googletranslate=true",
+      "final_url": "https://www.scoilchaitrionabaggotstreet.ie/school-info/sensory-room/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.scoilchaitrionabaggotstreet.ie/school-info/school-history/",
+      "final_url": "https://www.scoilchaitrionabaggotstreet.ie/school-info/school-history/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School History"
+    },
+    {
+      "url": "https://www.scoilchaitrionabaggotstreet.ie/school-info/school-history/?googletranslate=true",
+      "final_url": "https://www.scoilchaitrionabaggotstreet.ie/school-info/school-history/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.scoilchaitrionabaggotstreet.ie/school-info/our-staff/",
+      "final_url": "https://www.scoilchaitrionabaggotstreet.ie/school-info/our-staff/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Our Staff"
+    },
+    {
+      "url": "https://www.scoilchaitrionabaggotstreet.ie/school-info/our-staff/?googletranslate=true",
+      "final_url": "https://www.scoilchaitrionabaggotstreet.ie/school-info/our-staff/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.scoilchaitrionabaggotstreet.ie/school-info/ecce-year/",
+      "final_url": "https://www.scoilchaitrionabaggotstreet.ie/school-info/ecce-year/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "ECCE Year"
+    },
+    {
+      "url": "https://www.scoilchaitrionabaggotstreet.ie/school-info/ecce-year/?googletranslate=true",
+      "final_url": "https://www.scoilchaitrionabaggotstreet.ie/school-info/ecce-year/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    }
+  ],
+  "documents": [],
+  "pending_links": [
+    {
+      "url": "https://www.scoilchaitrionabaggotstreet.ie/school-info/after-school-childcare/",
+      "label": "After School Childcare",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilchaitrionabaggotstreet.ie/school-info/about-our-school/",
+      "label": "About Our School",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilchaitrionabaggotstreet.ie/school-info/",
+      "label": "School Info",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilchaitrionabaggotstreet.ie/letterlink/7/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilchaitrionabaggotstreet.ie/letterlink/6/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilchaitrionabaggotstreet.ie/letterlink/6/?open=true",
+      "label": "Admissions Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilchaitrionabaggotstreet.ie/letterlink/5/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilchaitrionabaggotstreet.ie/for-parents/uniforms/",
+      "label": "Uniforms",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilchaitrionabaggotstreet.ie/for-parents/supporting-your-child/",
+      "label": "Supporting Your Child",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilchaitrionabaggotstreet.ie/for-parents/policies-page/",
+      "label": "Policies",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilchaitrionabaggotstreet.ie/for-parents/our-parents-association/",
+      "label": "Our Parents Association",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilchaitrionabaggotstreet.ie/for-parents/our-board-of-management/",
+      "label": "Our Board of Management",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilchaitrionabaggotstreet.ie/for-parents/internet-safety-and-cyberbullying-support/",
+      "label": "Internet Safety and Cyberbullying Support",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilchaitrionabaggotstreet.ie/for-parents/hscl/",
+      "label": "HSCL",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilchaitrionabaggotstreet.ie/for-parents/breakfast-club/",
+      "label": "Breakfast Club",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilchaitrionabaggotstreet.ie/for-parents/",
+      "label": "Parents/Guardians",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilchaitrionabaggotstreet.ie/documentlink/22/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilchaitrionabaggotstreet.ie/admin/?open=/school-info/the-school-day/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilchaitrionabaggotstreet.ie/admin/?open=/school-info/the-school-day/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilchaitrionabaggotstreet.ie/admin/?open=/school-info/sensory-room/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilchaitrionabaggotstreet.ie/admin/?open=/school-info/sensory-room/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilchaitrionabaggotstreet.ie/admin/?open=/school-info/school-history/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilchaitrionabaggotstreet.ie/admin/?open=/school-info/school-history/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilchaitrionabaggotstreet.ie/admin/?open=/school-info/our-staff/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilchaitrionabaggotstreet.ie/admin/?open=/school-info/our-staff/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilchaitrionabaggotstreet.ie/admin/?open=/school-info/ecce-year/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilchaitrionabaggotstreet.ie/admin/?open=/school-info/ecce-year/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilchaitrionabaggotstreet.ie",
+      "label": "School homepage",
+      "via": "home"
+    },
+    {
+      "url": "https://www.scoilchaitrionabaggotstreet.ie/cmsfiles/policies/privacy/",
+      "label": "Website Privacy Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilchaitrionabaggotstreet.ie/cmsfiles/policies/cookie/",
+      "label": "Cookie Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 55.7,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:09:40+0000"
+}

@@ -1,0 +1,27 @@
+{
+  "roll": "20043G",
+  "capture": {
+    "timestamp": "20220925232446",
+    "original": "http://gaelscoilchnocliamhna.ie/wp-content/uploads/2022/09/Raiteas-maidir-le-Cumhdach-Leanai-fogra.pdf",
+    "mimetype": "application/pdf",
+    "statuscode": "200",
+    "digest": "QS4GHRRFXY67A3U66UUDSISGWWHSEDFZ"
+  },
+  "original_url": "http://gaelscoilchnocliamhna.ie/wp-content/uploads/2022/09/Raiteas-maidir-le-Cumhdach-Leanai-fogra.pdf",
+  "archived_url": "https://web.archive.org/web/20220925232446/http://gaelscoilchnocliamhna.ie/wp-content/uploads/2022/09/Raiteas-maidir-le-Cumhdach-Leanai-fogra.pdf",
+  "attempted_at": "2026-11-08T12:55:33.461859+00:00",
+  "linked_from_capture": null,
+  "http_status": 200,
+  "headers": {
+    "Content-Type": "application/pdf",
+    "memento-datetime": "Sun, 25 Sep 2022 23:24:46 GMT"
+  },
+  "bytes": 174016,
+  "payload_sha256": "496567fd85cc66ad552656e687e3c240192df88c96d84f15ca8b3a595462f7e3",
+  "format": "pdf",
+  "source_file": "database/milestone2/cache/496567fd85cc66ad552656e687e3c240192df88c96d84f15ca8b3a595462f7e3.pdf",
+  "parse_stderr": "",
+  "status": "archived_body_retrieved_requires_manual_evidence_review",
+  "text_file": "database/milestone2/evidence/exact_20043G_496567fd85cc66ad5526.txt",
+  "linked_document_candidates": []
+}

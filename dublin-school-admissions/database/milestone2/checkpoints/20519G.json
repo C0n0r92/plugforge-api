@@ -1,0 +1,335 @@
+{
+  "roll": "20519G",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.stapolinetns.ie/index.php/enrollment-information/",
+      "final_url": "https://www.stapolinetns.ie/index.php/enrollment-information/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://www.stapolinetns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://www.stapolinetns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://www.stapolinetns.ie/wp-content/uploads/2019/09/Dublin-13-Educate-Together-National-School-Admission-Policy.pdf",
+      "final_url": "https://www.stapolinetns.ie/wp-content/uploads/2019/09/Dublin-13-Educate-Together-National-School-Admission-Policy.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Dublin 13 Educate Together National School Admission Policy"
+    },
+    {
+      "url": "https://www.stapolinetns.ie/wp-content/uploads/2020/09/Website_Privacy_Statement-September-2020.pdf",
+      "final_url": "https://www.stapolinetns.ie/wp-content/uploads/2020/09/Website_Privacy_Statement-September-2020.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Our Website Privacy Statement"
+    },
+    {
+      "url": "https://www.stapolinetns.ie/wp-content/uploads/2020/09/Admission-Policy-Stapolin-Educate-Together-National-School-September-2020-signed.pdf",
+      "final_url": "https://www.stapolinetns.ie/wp-content/uploads/2020/09/Admission-Policy-Stapolin-Educate-Together-National-School-September-2020-signed.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admission Policy Stapolin Educate Together National School September 2020 &#8211; signed"
+    },
+    {
+      "url": "https://www.stapolinetns.ie/wp-content/uploads/2020/09/Admission-Policy-Stapolin-Educate-Together-National-School-September-2020-signed-2.pdf",
+      "final_url": "https://www.stapolinetns.ie/wp-content/uploads/2020/09/Admission-Policy-Stapolin-Educate-Together-National-School-September-2020-signed-2.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admission Policy Stapolin Educate Together National School September 2020 &#8211; signed"
+    },
+    {
+      "url": "https://www.stapolinetns.ie/wp-content/uploads/2020/09/Admission-Policy-Stapolin-Educate-Together-National-School-September-2020-signed-1.pdf",
+      "final_url": "https://www.stapolinetns.ie/wp-content/uploads/2020/09/Admission-Policy-Stapolin-Educate-Together-National-School-September-2020-signed-1.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admission Policy Stapolin Educate Together National School September 2020 &#8211; signed"
+    },
+    {
+      "url": "https://www.stapolinetns.ie/wp-content/uploads/2021/09/Admission-Policy-Stapolin-Educate-Together-National-School-September-2021.pdf",
+      "final_url": "https://www.stapolinetns.ie/wp-content/uploads/2021/09/Admission-Policy-Stapolin-Educate-Together-National-School-September-2021.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admission Policy Stapolin Educate Together National School September 2021"
+    },
+    {
+      "url": "https://www.stapolinetns.ie/wp-content/uploads/2021/07/Admission-Policy-Stapolin-Educate-Together-National-School-July-2021-AS-PUBLISHED.pdf",
+      "final_url": "https://www.stapolinetns.ie/wp-content/uploads/2021/07/Admission-Policy-Stapolin-Educate-Together-National-School-July-2021-AS-PUBLISHED.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admission Policy Stapolin Educate Together National School July 2021 AS PUBLISHED"
+    },
+    {
+      "url": "https://www.stapolinetns.ie/wp-content/uploads/2022/12/FINAL-Admission-Policy-Stapolin-Educate-Together-National-School-December-2022.pdf",
+      "final_url": "https://www.stapolinetns.ie/wp-content/uploads/2022/12/FINAL-Admission-Policy-Stapolin-Educate-Together-National-School-December-2022.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "FINAL Admission Policy Stapolin Educate Together National School December 2022"
+    },
+    {
+      "url": "https://www.stapolinetns.ie/wp-content/uploads/2022/09/Admission-Policy-Stapolin-Educate-Together-National-School-September-2022.pdf",
+      "final_url": "https://www.stapolinetns.ie/wp-content/uploads/2022/09/Admission-Policy-Stapolin-Educate-Together-National-School-September-2022.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admission Policy Stapolin Educate Together National School September 2022"
+    },
+    {
+      "url": "https://www.stapolinetns.ie/wp-content/uploads/2025/12/Final-StapolinETNS_AdmissionsPolicy_Approved-September-2025.pdf",
+      "final_url": "https://www.stapolinetns.ie/wp-content/uploads/2025/12/Final-StapolinETNS_AdmissionsPolicy_Approved-September-2025.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Final-StapolinETNS_AdmissionsPolicy_Approved-September-2025"
+    },
+    {
+      "url": "https://www.stapolinetns.ie/wp-content/uploads/2025/09/Final-StapolinETNS_AdmissionsPolicy_Approved-September-2025.pdf",
+      "final_url": "https://www.stapolinetns.ie/wp-content/uploads/2025/09/Final-StapolinETNS_AdmissionsPolicy_Approved-September-2025.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "here"
+    },
+    {
+      "url": "https://www.stapolinetns.ie/wp-content/uploads/2026/10/Final-DLD_SSD-Class-Admissions-Policy-2027_2028-September-2026.pdf",
+      "final_url": "https://www.stapolinetns.ie/wp-content/uploads/2026/10/Final-DLD_SSD-Class-Admissions-Policy-2027_2028-September-2026.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Final DLD_SSD Class Admissions Policy 2027_2028 September 2026"
+    },
+    {
+      "url": "https://www.stapolinetns.ie/wp-sitemap.xml",
+      "final_url": "https://www.stapolinetns.ie/wp-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.stapolinetns.ie/wp-sitemap-users-1.xml",
+      "final_url": "https://www.stapolinetns.ie/wp-sitemap-users-1.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.stapolinetns.ie/wp-sitemap-posts-post-1.xml",
+      "final_url": "https://www.stapolinetns.ie/wp-sitemap-posts-post-1.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.stapolinetns.ie/wp-sitemap-posts-page-1.xml",
+      "final_url": "https://www.stapolinetns.ie/wp-sitemap-posts-page-1.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.stapolinetns.ie/index.php/policies/",
+      "final_url": "https://www.stapolinetns.ie/index.php/policies/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Policies"
+    },
+    {
+      "url": "https://www.stapolinetns.ie/wp-content/uploads/2020/12/Data-Protection-Policy-Dec-2020.pdf",
+      "final_url": "https://www.stapolinetns.ie/wp-content/uploads/2020/12/Data-Protection-Policy-Dec-2020.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Data Protection Policy"
+    },
+    {
+      "url": "https://www.stapolinetns.ie/wp-content/uploads/2020/11/Positive-Behaviour-Policy.pdf",
+      "final_url": "https://www.stapolinetns.ie/wp-content/uploads/2020/11/Positive-Behaviour-Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Positive Behaviour Policy"
+    },
+    {
+      "url": "https://www.stapolinetns.ie/wp-content/uploads/2020/09/First-Aid-and-Administration-of-Medicines-Policy-May-2020-final.pdf",
+      "final_url": "https://www.stapolinetns.ie/wp-content/uploads/2020/09/First-Aid-and-Administration-of-Medicines-Policy-May-2020-final.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "First Aid and Administration of Medicine Policy"
+    },
+    {
+      "url": "https://www.stapolinetns.ie/index.php/parents-association/",
+      "final_url": "https://www.stapolinetns.ie/index.php/parents-association/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents’ Association"
+    },
+    {
+      "url": "https://www.stapolinetns.ie/wp-content/uploads/2025/11/SETNS-PA-Constitution-2024.pdf",
+      "final_url": "https://www.stapolinetns.ie/wp-content/uploads/2025/11/SETNS-PA-Constitution-2024.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents’ Association Constitution"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "20519G",
+      "url": "https://www.stapolinetns.ie/index.php/enrollment-information/",
+      "label": "Admissions",
+      "sha256": "8ec94a320b1e917ed82c02b9aa42a75da843599a9853464ee208211781fa5b0e",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20519G_8ec94a320b1e917ed82c.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 611
+    },
+    {
+      "roll": "20519G",
+      "url": "https://www.stapolinetns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "label": "Oldest public admission media (all dates)",
+      "sha256": "3ca2d427800ffffbcaffc1b8b7a2d0715f3e0ba3ec34943476126b95162bc640",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20519G_3ca2d427800ffffbcaff.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 4893
+    },
+    {
+      "roll": "20519G",
+      "url": "https://www.stapolinetns.ie/wp-content/uploads/2020/09/Admission-Policy-Stapolin-Educate-Together-National-School-September-2020-signed.pdf",
+      "label": "Admission Policy Stapolin Educate Together National School September 2020 &#8211; signed",
+      "sha256": "c6fd6f02f5ae07de295a5918a97673119de21adc2673dd662a3e747e27032b48",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20519G_c6fd6f02f5ae07de295a.txt",
+      "source_file": "database/milestone2/cache/c6fd6f02f5ae07de295a5918a97673119de21adc2673dd662a3e747e27032b48.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 21101
+    },
+    {
+      "roll": "20519G",
+      "url": "https://www.stapolinetns.ie/wp-content/uploads/2021/09/Admission-Policy-Stapolin-Educate-Together-National-School-September-2021.pdf",
+      "label": "Admission Policy Stapolin Educate Together National School September 2021",
+      "sha256": "9543ec6762e4d83c80fd6e115b1f4be4aee50059add66b01d4d9558dc36a4c91",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20519G_9543ec6762e4d83c80fd.txt",
+      "source_file": "database/milestone2/cache/9543ec6762e4d83c80fd6e115b1f4be4aee50059add66b01d4d9558dc36a4c91.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 28333
+    },
+    {
+      "roll": "20519G",
+      "url": "https://www.stapolinetns.ie/wp-content/uploads/2021/07/Admission-Policy-Stapolin-Educate-Together-National-School-July-2021-AS-PUBLISHED.pdf",
+      "label": "Admission Policy Stapolin Educate Together National School July 2021 AS PUBLISHED",
+      "sha256": "7aa41ef9ec803e915880aa530a475a8f4aed93476aa986315f599846c4eeea2a",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20519G_7aa41ef9ec803e915880.txt",
+      "source_file": "database/milestone2/cache/7aa41ef9ec803e915880aa530a475a8f4aed93476aa986315f599846c4eeea2a.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 28453
+    },
+    {
+      "roll": "20519G",
+      "url": "https://www.stapolinetns.ie/wp-content/uploads/2022/12/FINAL-Admission-Policy-Stapolin-Educate-Together-National-School-December-2022.pdf",
+      "label": "FINAL Admission Policy Stapolin Educate Together National School December 2022",
+      "sha256": "1f1a090a44d4f0f89773e1fe5f4d76efba10a23d228f05db2d22dc4d53c9293e",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20519G_1f1a090a44d4f0f89773.txt",
+      "source_file": "database/milestone2/cache/1f1a090a44d4f0f89773e1fe5f4d76efba10a23d228f05db2d22dc4d53c9293e.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 31690
+    },
+    {
+      "roll": "20519G",
+      "url": "https://www.stapolinetns.ie/wp-content/uploads/2022/09/Admission-Policy-Stapolin-Educate-Together-National-School-September-2022.pdf",
+      "label": "Admission Policy Stapolin Educate Together National School September 2022",
+      "sha256": "60ea24900d295112391fc01af328caca6e446451b91285648fde6f0a35df6ab3",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20519G_60ea24900d295112391f.txt",
+      "source_file": "database/milestone2/cache/60ea24900d295112391fc01af328caca6e446451b91285648fde6f0a35df6ab3.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 30589
+    },
+    {
+      "roll": "20519G",
+      "url": "https://www.stapolinetns.ie/wp-content/uploads/2025/12/Final-StapolinETNS_AdmissionsPolicy_Approved-September-2025.pdf",
+      "label": "Final-StapolinETNS_AdmissionsPolicy_Approved-September-2025",
+      "sha256": "2ddd8f2e9f60f3e11d696ed115c48e68985c29234dd8bbc85d7781d94fddf9d5",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20519G_2ddd8f2e9f60f3e11d69.txt",
+      "source_file": "database/milestone2/cache/2ddd8f2e9f60f3e11d696ed115c48e68985c29234dd8bbc85d7781d94fddf9d5.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 30280
+    },
+    {
+      "roll": "20519G",
+      "url": "https://www.stapolinetns.ie/wp-content/uploads/2026/10/Final-DLD_SSD-Class-Admissions-Policy-2027_2028-September-2026.pdf",
+      "label": "Final DLD_SSD Class Admissions Policy 2027_2028 September 2026",
+      "sha256": "af30d749dc2a1b20e02cdc7d64c824ef2c81dfe4db80c7daa3674b399fe2c560",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20519G_af30d749dc2a1b20e02c.txt",
+      "source_file": "database/milestone2/cache/af30d749dc2a1b20e02cdc7d64c824ef2c81dfe4db80c7daa3674b399fe2c560.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 20784
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.stapolinetns.ie/index.php/parent-info/",
+      "label": "Parent Info",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stapolinetns.ie/index.php/enrollment/application-form/",
+      "label": "Admissions/policy URL from public sitemap",
+      "via": "prior_public_admissions_landing"
+    },
+    {
+      "url": "https://www.stapolinetns.ie/index.php/enrollment/",
+      "label": "Admissions/policy URL from public sitemap",
+      "via": "prior_public_admissions_landing"
+    },
+    {
+      "url": "https://www.stapolinetns.ie/index.php/admission-policy/",
+      "label": "Admissions/policy URL from public sitemap",
+      "via": "prior_public_admissions_landing"
+    },
+    {
+      "url": "https://www.stapolinetns.ie",
+      "label": "School homepage",
+      "via": "home"
+    },
+    {
+      "url": "https://www.stapolinetns.ie/wp-content/uploads/2025/12/Stapolin-Educate-Together-Healthy-Eating-Policy-2023.10.08.pdf",
+      "label": "Healthy Eating Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stapolinetns.ie/wp-content/uploads/2025/01/Acceptable-Use-Policy-December-2024.pdf",
+      "label": "Acceptable Use Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stapolinetns.ie/wp-content/uploads/2025/12/Stapolin-ETNS-Bi-Cinealta-Policy-FINAL-June-2025.pdf",
+      "label": "Anti-Bullying Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stapolinetns.ie/wp-content/uploads/2025/12/Stapolin-ETNS-Additional-Educational-Needs-Policy-FINAL-January-2025.pdf",
+      "label": "Additional Educational Needs Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stapolinetns.ie/wp-content/uploads/2025/12/Final-Stapolin-ETNS-2025-Health-and-Safety-Policy-17th-November-2025.pdf",
+      "label": "Health, Safety and Welfare Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stapolinetns.ie/wp-content/uploads/2025/12/Final-Homework-Policy-17th-November-2025.pdf",
+      "label": "Homework Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 81.41,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:34:12+0000"
+}

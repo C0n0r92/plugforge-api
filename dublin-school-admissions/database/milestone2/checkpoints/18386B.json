@@ -1,0 +1,205 @@
+{
+  "roll": "18386B",
+  "status": "bounded_search_no_new_notice_found",
+  "attempts": [
+    {
+      "url": "https://maristprimaryschool.ie/enrolment",
+      "final_url": "https://maristprimaryschool.ie/enrolment",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Enrolment"
+    },
+    {
+      "url": "https://maristprimaryschool.ie/su_media/documents/o_1gni57r8o1leg1kmu1tr31cv118nba.pdf",
+      "final_url": "https://maristprimaryschool.ie/su_media/documents/o_1gni57r8o1leg1kmu1tr31cv118nba.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "ASD Class Enrolment Form.pdf"
+    },
+    {
+      "url": "https://maristprimaryschool.ie/sitemap.xml",
+      "final_url": "https://maristprimaryschool.ie/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://maristprimaryschool.ie/school-policies",
+      "final_url": "https://maristprimaryschool.ie/school-policies",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Policies"
+    },
+    {
+      "url": "https://maristprimaryschool.ie/su_media/documents/o_1hskttsf55lo1951jqp15del8mb.pdf",
+      "final_url": "https://maristprimaryschool.ie/su_media/documents/o_1hskttsf55lo1951jqp15del8mb.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parental-Complaints-Procedure_V4-final.pdf"
+    },
+    {
+      "url": "https://maristprimaryschool.ie/su_media/documents/o_1f6mp3upr1q8d97e1n91ag1v16a.docx",
+      "final_url": "https://maristprimaryschool.ie/su_media/documents/o_1f6mp3upr1q8d97e1n91ag1v16a.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Health and Safety  Statement  JUNE  2016.docx"
+    },
+    {
+      "url": "https://maristprimaryschool.ie/su_media/documents/o_1ci497ev2kbm5at16ged0i4obi.docx",
+      "final_url": "https://maristprimaryschool.ie/su_media/documents/o_1ci497ev2kbm5at16ged0i4obi.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Supervision During Recreation Periods June 2018.docx"
+    },
+    {
+      "url": "https://maristprimaryschool.ie/su_media/documents/o_1daqu503h3hqsjd7vq1fjcbuoa.docx",
+      "final_url": "https://maristprimaryschool.ie/su_media/documents/o_1daqu503h3hqsjd7vq1fjcbuoa.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Intimate Care and Toileting Accidents or Sickness  March 2019.docx"
+    },
+    {
+      "url": "https://maristprimaryschool.ie/su_media/documents/o_1f7qn0dn01upksihs0k1nqa1n4bb.doc",
+      "final_url": "https://maristprimaryschool.ie/su_media/documents/o_1f7qn0dn01upksihs0k1nqa1n4bb.doc",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Marist Anti- bullying June 2021.doc"
+    },
+    {
+      "url": "https://maristprimaryschool.ie/su_media/documents/o_1eur8736d1b6j18jr17qu1o05v73c.docx",
+      "final_url": "https://maristprimaryschool.ie/su_media/documents/o_1eur8736d1b6j18jr17qu1o05v73c.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Updated Logistics Plan Feb 2021.docx"
+    },
+    {
+      "url": "https://maristprimaryschool.ie/su_media/documents/o_1k6e9r2md16n4e8ip381tst1dvlc.pdf",
+      "final_url": "https://maristprimaryschool.ie/su_media/documents/o_1k6e9r2md16n4e8ip381tst1dvlc.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Child Safeguarding Statement & Risk Assessment October 2026 (1)_compressed.pdf"
+    },
+    {
+      "url": "https://maristprimaryschool.ie/su_media/documents/o_1gni45h1v4se154v1vvo14q5t12a.pdf",
+      "final_url": "https://maristprimaryschool.ie/su_media/documents/o_1gni45h1v4se154v1vvo14q5t12a.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Enrolment Policy for ASD Class.pdf"
+    },
+    {
+      "url": "https://maristprimaryschool.ie/su_media/documents/o_1etm6j08u106dtrg1ono1svn1i01a.pdf",
+      "final_url": "https://maristprimaryschool.ie/su_media/documents/o_1etm6j08u106dtrg1ono1svn1i01a.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions Policy of the Marist National School .pdf"
+    },
+    {
+      "url": "https://maristprimaryschool.ie/su_media/documents/o_1dcn4oqnino363f1ui8hpk33da.docx",
+      "final_url": "https://maristprimaryschool.ie/su_media/documents/o_1dcn4oqnino363f1ui8hpk33da.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Enrolment Policy of the Marist National School.docx"
+    },
+    {
+      "url": "https://maristprimaryschool.ie/su_media/documents/o_1cumfu6lf1m2gdii1ni130e1kbja.doc",
+      "final_url": "https://maristprimaryschool.ie/su_media/documents/o_1cumfu6lf1m2gdii1ni130e1kbja.doc",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "RSE.doc"
+    },
+    {
+      "url": "https://maristprimaryschool.ie/su_media/documents/o_1ci497ev21sg8p0gpq7e30n1lf.doc",
+      "final_url": "https://maristprimaryschool.ie/su_media/documents/o_1ci497ev21sg8p0gpq7e30n1lf.doc",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "DATA Protection JUNE 27th.doc"
+    },
+    {
+      "url": "https://maristprimaryschool.ie/su_media/documents/o_1ci497ev21bmftllp0u1mjf1gcah.doc",
+      "final_url": "https://maristprimaryschool.ie/su_media/documents/o_1ci497ev21bmftllp0u1mjf1gcah.doc",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Marist Primary School Supervision Policy June 2018.doc"
+    },
+    {
+      "url": "https://maristprimaryschool.ie/su_media/documents/o_1ci497ev1s2u1h7n1mt41n2jf86e.doc",
+      "final_url": "https://maristprimaryschool.ie/su_media/documents/o_1ci497ev1s2u1h7n1mt41n2jf86e.doc",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Attendance Policy  JUNE 2018.doc"
+    },
+    {
+      "url": "https://maristprimaryschool.ie/su_media/documents/o_1ffmsafnn1av41rov2461fqq1esa.doc",
+      "final_url": "https://maristprimaryschool.ie/su_media/documents/o_1ffmsafnn1av41rov2461fqq1esa.doc",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Administration of Medicines Policy 2020.doc"
+    },
+    {
+      "url": "https://maristprimaryschool.ie/",
+      "final_url": "https://maristprimaryschool.ie/",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://maristprimaryschool.ie/su_media/documents/o_1f7qn0dn011fb7oa6s81eir115mc.docx",
+      "final_url": "https://maristprimaryschool.ie/su_media/documents/o_1f7qn0dn011fb7oa6s81eir115mc.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Health Lunch Policy  June  2021.docx"
+    },
+    {
+      "url": "https://maristprimaryschool.ie/su_media/documents/o_1h0f4i74t1lhl1d7c4re1dj01ouna.pdf",
+      "final_url": "https://maristprimaryschool.ie/su_media/documents/o_1h0f4i74t1lhl1d7c4re1dj01ouna.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Critical Incident Policy 2023.FD.pdf"
+    },
+    {
+      "url": "https://maristprimaryschool.ie/su_media/documents/o_1j97kv0iskqqqcbeitsmh1qlna.pdf",
+      "final_url": "https://maristprimaryschool.ie/su_media/documents/o_1j97kv0iskqqqcbeitsmh1qlna.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Marist Primary School Bí Cineálta Policy FD..pdf"
+    },
+    {
+      "url": "https://maristprimaryschool.ie/su_media/documents/o_1ened5ad21gshl6h1v8n1b5v1h7ha.docx",
+      "final_url": "https://maristprimaryschool.ie/su_media/documents/o_1ened5ad21gshl6h1v8n1b5v1h7ha.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Acceptable Use Policy..docx"
+    }
+  ],
+  "documents": [],
+  "pending_links": [
+    {
+      "url": "https://maristprimaryschool.ie/su_media/documents/o_1ead7dacr1tns9l77881ksh1p42a.docx",
+      "label": "Marist Early Start Application Form.docx",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://maristprimaryschool.ie/su_media/documents/o_1e7kgej4at5m10g31kfh1gh41btta.docx",
+      "label": "Marist Primary School Application Form.docx",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://maristprimaryschool.ie/su_media/documents/o_1dd3e323o1h6410iaqhoqhh16dqa.doc",
+      "label": "Substance Use Policy.doc",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://maristprimaryschool.ie/su_media/documents/o_1crnc8k9ep0m1nn938keli1ni3g.doc",
+      "label": "Policy for Provision for Pupils with Special Educational Needs.doc",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://maristprimaryschool.ie/su_media/documents/o_1bjida355857p4gc3u1en6fpjc.docx",
+      "label": "Promoting Positive Behaviour Policy.docx",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 76.76,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:53:28+0000"
+}

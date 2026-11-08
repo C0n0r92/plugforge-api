@@ -1,0 +1,139 @@
+{
+  "roll": "20538K",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.gsgm.ie/page/Proiseas-IontralaAdmissions/127485/Index.html",
+      "final_url": "https://www.gsgm.ie/page/Proiseas-IontralaAdmissions/127485/Index.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Próiseas Iontrála"
+    },
+    {
+      "url": "https://storage.googleapis.com/iclasscrm_files/4431/Images/Content/2026/267/gg22-27_2028_Polasai_Iontrala_GS_Ghrainne_Mhaol.docx.pdf",
+      "final_url": "https://storage.googleapis.com/iclasscrm_files/4431/Images/Content/2026/267/gg22-27_2028_Polasai_Iontrala_GS_Ghrainne_Mhaol.docx.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Polasaí Iontrála_GS Ghráinne Mhaol 2027_2028"
+    },
+    {
+      "url": "https://www.gsgm.ie/enrolment/Index.html",
+      "final_url": "https://www.gsgm.ie/enrolment/Index.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "enrolment"
+    },
+    {
+      "url": "https://www.gsgm.ie/Proiseas-Iontrala/Index.html",
+      "final_url": "https://www.gsgm.ie/Proiseas-Iontrala/Index.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Próiséas Iontrála"
+    },
+    {
+      "url": "https://www.gsgm.ie/Page/Proiseas-IontralaAdmissions/127485/Index.html",
+      "final_url": "https://www.gsgm.ie/Page/Proiseas-IontralaAdmissions/127485/Index.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Próiseas Iontrála/Admissions"
+    },
+    {
+      "url": "https://www.gsgm.ie/Admissions/Index.html",
+      "final_url": "https://www.gsgm.ie/Admissions/Index.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://storage.googleapis.com/iclasscrm_files/4431/Images/Content/2026/267/nq56-28_28AdmissionsPolicy.docx.pdf",
+      "final_url": "https://storage.googleapis.com/iclasscrm_files/4431/Images/Content/2026/267/nq56-28_28AdmissionsPolicy.docx.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions-Policy 2027_2028"
+    },
+    {
+      "url": "https://www.gsgm.ie/sitemap.xml",
+      "final_url": "https://www.gsgm.ie/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.gsgm.ie/page/PolasaithePolicies/125850/Index.html",
+      "final_url": "https://www.gsgm.ie/page/PolasaithePolicies/125850/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Polasaithe"
+    },
+    {
+      "url": "https://www.gsgm.ie/page/Eolas-do-clainnte-Caitliceacha-Information-for-Catholic-parents/136314/Index.html",
+      "final_url": "https://www.gsgm.ie/page/Eolas-do-clainnte-Caitliceacha-Information-for-Catholic-parents/136314/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Eolas do teaghlaigh Chaitliceacha"
+    },
+    {
+      "url": "https://www.gsgm.ie/page/Coiste-na-dTuisti-Parents-Association/126831/Index.html",
+      "final_url": "https://www.gsgm.ie/page/Coiste-na-dTuisti-Parents-Association/126831/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Coiste na dtuistí"
+    },
+    {
+      "url": "https://www.gsgm.ie/Policies/Index.html",
+      "final_url": "https://www.gsgm.ie/Policies/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.gsgm.ie/Page/PolasaithePolicies/125850/Index.html",
+      "final_url": "https://www.gsgm.ie/Page/PolasaithePolicies/125850/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Polasaithe/Policies"
+    },
+    {
+      "url": "https://www.gsgm.ie",
+      "final_url": "https://www.gsgm.ie",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.gsgm.ie/Policy/Index.html",
+      "final_url": "https://www.gsgm.ie/Policy/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policy"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "20538K",
+      "url": "https://storage.googleapis.com/iclasscrm_files/4431/Images/Content/2026/267/gg22-27_2028_Polasai_Iontrala_GS_Ghrainne_Mhaol.docx.pdf",
+      "label": "Polasaí Iontrála_GS Ghráinne Mhaol 2027_2028",
+      "sha256": "ec67621d0e840874672ab6f17302e73bf56463705c9d00ebd6c4f92bbbedd696",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20538K_ec67621d0e840874672a.txt",
+      "source_file": "database/milestone2/cache/ec67621d0e840874672ab6f17302e73bf56463705c9d00ebd6c4f92bbbedd696.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 22805
+    },
+    {
+      "roll": "20538K",
+      "url": "https://storage.googleapis.com/iclasscrm_files/4431/Images/Content/2026/267/nq56-28_28AdmissionsPolicy.docx.pdf",
+      "label": "Admissions-Policy 2027_2028",
+      "sha256": "5814d573ac0b33026a762b932dc99b94b9036b62622a6969769d3e134ed525c7",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20538K_5814d573ac0b33026a76.txt",
+      "source_file": "database/milestone2/cache/5814d573ac0b33026a762b932dc99b94b9036b62622a6969769d3e134ed525c7.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 22051
+    }
+  ],
+  "pending_links": [],
+  "elapsed_seconds": 47.76,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:00:01+0000"
+}

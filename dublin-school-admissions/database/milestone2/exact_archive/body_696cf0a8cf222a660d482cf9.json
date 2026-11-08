@@ -1,0 +1,25 @@
+{
+  "roll": "20103V",
+  "capture": {
+    "timestamp": "20240731104843",
+    "original": "https://docs.google.com/document/u/1/d/e/2PACX-1vTd9UZQ0C3IvojsGP2ZNSHNcEOefXG2LxXMwRi7Rj-15n3kvLrzucwxiFHiSrD6JilPllJ_WcWfwb1s/pub?urp=gmail_link",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "digest": "22OIV4W2KJMHQMESMVJJURHLYSGJIF5U"
+  },
+  "original_url": "https://docs.google.com/document/u/1/d/e/2PACX-1vTd9UZQ0C3IvojsGP2ZNSHNcEOefXG2LxXMwRi7Rj-15n3kvLrzucwxiFHiSrD6JilPllJ_WcWfwb1s/pub?urp=gmail_link",
+  "archived_url": "https://web.archive.org/web/20240731104843/https://docs.google.com/document/u/1/d/e/2PACX-1vTd9UZQ0C3IvojsGP2ZNSHNcEOefXG2LxXMwRi7Rj-15n3kvLrzucwxiFHiSrD6JilPllJ_WcWfwb1s/pub?urp=gmail_link",
+  "attempted_at": "2026-11-08T12:54:08.465854+00:00",
+  "linked_from_capture": null,
+  "http_status": 200,
+  "headers": {
+    "Content-Type": "text/html; charset=utf-8",
+    "memento-datetime": "Wed, 31 Jul 2024 10:48:43 GMT"
+  },
+  "bytes": 134796,
+  "payload_sha256": "fc62258c979026c269a5d3d5edaa8f6b72f9f570f2b9453d3247fbcea0609895",
+  "format": "html",
+  "status": "archived_body_retrieved_requires_manual_evidence_review",
+  "text_file": "database/milestone2/evidence/exact_20103V_fc62258c979026c269a5.txt",
+  "linked_document_candidates": []
+}

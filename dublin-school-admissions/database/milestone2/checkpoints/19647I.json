@@ -1,0 +1,373 @@
+{
+  "roll": "19647I",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.stmarysrowlagh.ie/",
+      "final_url": "https://www.stmarysrowlagh.ie/",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.stmarysrowlagh.ie/sitemap.xml",
+      "final_url": "https://www.stmarysrowlagh.ie/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.stmarysrowlagh.ie/parents/when-should-my-child-return-after-illness/",
+      "final_url": "https://www.stmarysrowlagh.ie/parents/when-should-my-child-return-after-illness/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "When should my child return after illness?"
+    },
+    {
+      "url": "https://www.stmarysrowlagh.ie/parents/when-should-my-child-return-after-illness/?googletranslate=true",
+      "final_url": "https://www.stmarysrowlagh.ie/parents/when-should-my-child-return-after-illness/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stmarysrowlagh.ie/parents/useful-websites/",
+      "final_url": "https://www.stmarysrowlagh.ie/parents/useful-websites/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Useful Websites"
+    },
+    {
+      "url": "https://www.stmarysrowlagh.ie/parents/useful-websites/?googletranslate=true",
+      "final_url": "https://www.stmarysrowlagh.ie/parents/useful-websites/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stmarysrowlagh.ie/parents/school-letters/",
+      "final_url": "https://www.stmarysrowlagh.ie/parents/school-letters/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Letters"
+    },
+    {
+      "url": "https://www.stmarysrowlagh.ie/parents/school-letters/?googletranslate=true",
+      "final_url": "https://www.stmarysrowlagh.ie/parents/school-letters/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stmarysrowlagh.ie/parents/hscl-news/",
+      "final_url": "https://www.stmarysrowlagh.ie/parents/hscl-news/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "HSCL News"
+    },
+    {
+      "url": "https://www.stmarysrowlagh.ie/parents/hscl-news/?googletranslate=true",
+      "final_url": "https://www.stmarysrowlagh.ie/parents/hscl-news/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stmarysrowlagh.ie/parents/",
+      "final_url": "https://www.stmarysrowlagh.ie/parents/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents Tuismitheoirí"
+    },
+    {
+      "url": "https://www.stmarysrowlagh.ie/parents/?googletranslate=true",
+      "final_url": "https://www.stmarysrowlagh.ie/parents/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stmarysrowlagh.ie/our-school/policies/",
+      "final_url": "https://www.stmarysrowlagh.ie/our-school/policies/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.stmarysrowlagh.ie/documentlink/51/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/756/docletter/20260130093734_18_Annual_Admission_Notice_26_27.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Annual Admission Notice 26 27.pdf"
+    },
+    {
+      "url": "https://www.stmarysrowlagh.ie/documentlink/57/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/756/docletter/20260421042552_88_Enrolment_Form_Jan_26.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Enrolment Form Jan 26.pdf"
+    },
+    {
+      "url": "https://www.stmarysrowlagh.ie/documentlink/52/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/756/docletter/20260130094051_15_Admission_Policy_Jan_2026.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Admission Policy Jan 2026.pdf"
+    },
+    {
+      "url": "https://www.stmarysrowlagh.ie/our-school/policies/?googletranslate=true",
+      "final_url": "https://www.stmarysrowlagh.ie/our-school/policies/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stmarysrowlagh.ie/our-school/parents-booklet/",
+      "final_url": "https://www.stmarysrowlagh.ie/our-school/parents-booklet/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parent's Booklet"
+    },
+    {
+      "url": "https://www.stmarysrowlagh.ie/letterlink/1/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/756/docletter/20230421114919_89_Parent_s_Booklet2022.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Parent s Booklet2022"
+    },
+    {
+      "url": "https://www.stmarysrowlagh.ie/our-school/parents-booklet/?googletranslate=true",
+      "final_url": "https://www.stmarysrowlagh.ie/our-school/parents-booklet/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stmarysrowlagh.ie/news-961/news/6th-class-parentchild-workshops-a/",
+      "final_url": "https://www.stmarysrowlagh.ie/news-961/news/6th-class-parentchild-workshops-a/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "6th Class Parent/Child Workshops"
+    },
+    {
+      "url": "https://www.stmarysrowlagh.ie/news-961/news/6th-class-parentchild-workshops-a/?googletranslate=true",
+      "final_url": "https://www.stmarysrowlagh.ie/news-961/news/6th-class-parentchild-workshops-a/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stmarysrowlagh.ie/letterlink/1/?open=true&download=true",
+      "final_url": "https://swdcache.b-cdn.net/756/docletter/20230421114919_89_Parent_s_Booklet2022.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stmarysrowlagh.ie/documentlink/61/?open=true&download=true",
+      "final_url": "https://swdcache.b-cdn.net/756/docletter/20260421050448_42_Child_safeguarduing_statement_website_2025.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": ""
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19647I",
+      "url": "https://www.stmarysrowlagh.ie/our-school/policies/",
+      "label": "Policies",
+      "sha256": "7a8e64d04234c625bf902222ea7899f23aea37e815416bc726d71d3b02db82e8",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19647I_7a8e64d04234c625bf90.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 707
+    },
+    {
+      "roll": "19647I",
+      "url": "https://www.stmarysrowlagh.ie/our-school/policies/?googletranslate=true",
+      "label": "",
+      "sha256": "875a6372eeaf4f622a10d552dc6d25e16195e52f19d30ebb85a16f010174f736",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19647I_875a6372eeaf4f622a10.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 707
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.stmarysrowlagh.ie/documentlink/58/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmarysrowlagh.ie/documentlink/57/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmarysrowlagh.ie/documentlink/56/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmarysrowlagh.ie/documentlink/55/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmarysrowlagh.ie/documentlink/54/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmarysrowlagh.ie/documentlink/52/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmarysrowlagh.ie/documentlink/51/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmarysrowlagh.ie/documentlink/50/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmarysrowlagh.ie/documentlink/46/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmarysrowlagh.ie/documentlink/26/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmarysrowlagh.ie/documentlink/26/?open=true",
+      "label": "Parental Complaints Procedure",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmarysrowlagh.ie/admin/?open=/parents/when-should-my-child-return-after-illness/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmarysrowlagh.ie/admin/?open=/parents/when-should-my-child-return-after-illness/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmarysrowlagh.ie/admin/?open=/parents/useful-websites/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmarysrowlagh.ie/admin/?open=/parents/useful-websites/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmarysrowlagh.ie/admin/?open=/parents/school-letters/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmarysrowlagh.ie/admin/?open=/parents/school-letters/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmarysrowlagh.ie/admin/?open=/parents/hscl-news/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmarysrowlagh.ie/admin/?open=/parents/hscl-news/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmarysrowlagh.ie/admin/?open=/parents/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmarysrowlagh.ie/admin/?open=/parents/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmarysrowlagh.ie/admin/?open=/our-school/policies/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmarysrowlagh.ie/admin/?open=/our-school/policies/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmarysrowlagh.ie/admin/?open=/our-school/parents-booklet/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmarysrowlagh.ie/admin/?open=/our-school/parents-booklet/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmarysrowlagh.ie/admin/?open=/news-961/news/6th-class-parentchild-workshops-a/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmarysrowlagh.ie/admin/?open=/news-961/news/6th-class-parentchild-workshops-a/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmarysrowlagh.ie/documentlink/50/?open=true",
+      "label": "Bí Cinealta Policy 2025 .pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmarysrowlagh.ie/documentlink/56/?open=true",
+      "label": "Attendance Policy Feb 2026.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmarysrowlagh.ie/documentlink/55/?open=true",
+      "label": "Code of Behaviour Policy March 2026.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmarysrowlagh.ie/documentlink/54/?open=true",
+      "label": "Health Safety Policy Sept 25 II.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmarysrowlagh.ie/documentlink/46/?open=true",
+      "label": "Healthy Eating Policy Sep 24 pdf.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmarysrowlagh.ie/cmsfiles/policies/privacy/",
+      "label": "Website Privacy Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmarysrowlagh.ie/cmsfiles/policies/cookie/",
+      "label": "Cookie Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 75.62,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:08:50+0000"
+}

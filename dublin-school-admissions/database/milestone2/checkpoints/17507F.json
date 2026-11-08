@@ -1,0 +1,400 @@
+{
+  "roll": "17507F",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.glencullenschool.ie/wp-content/uploads/2021/04/St.-Patricks-N.S.-Admission-Policy-2020-3.docx",
+      "final_url": "https://www.glencullenschool.ie/wp-content/uploads/2021/04/St.-Patricks-N.S.-Admission-Policy-2020-3.docx",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://www.glencullenschool.ie/wp-content/uploads/2020/04/St.-Patricks-N.S.-Draft-Admission-Policy-2020.docx",
+      "final_url": "https://www.glencullenschool.ie/wp-content/uploads/2020/04/St.-Patricks-N.S.-Draft-Admission-Policy-2020.docx",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://www.glencullenschool.ie/?s=admission",
+      "final_url": "https://www.glencullenschool.ie/?s=admission",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Public site search form"
+    },
+    {
+      "url": "https://www.glencullenschool.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://www.glencullenschool.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://www.glencullenschool.ie/wp-content/uploads/2021/04/St.-Patricks-N.S.-Admission-Policy-2020-PDF.pdf",
+      "final_url": "https://www.glencullenschool.ie/wp-content/uploads/2021/04/St.-Patricks-N.S.-Admission-Policy-2020-PDF.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "St.-Patricks-N.S.-Admission-Policy-2020-PDF"
+    },
+    {
+      "url": "https://www.glencullenschool.ie/wp-content/uploads/2020/09/AdmissionsPolicy2020.pdf",
+      "final_url": "https://www.glencullenschool.ie/wp-content/uploads/2020/09/AdmissionsPolicy2020.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "AdmissionsPolicy2020"
+    },
+    {
+      "url": "https://www.glencullenschool.ie/wp-content/uploads/2023/09/St.-Patricks-N.S.-Admission-Policy-2023.pdf",
+      "final_url": "https://www.glencullenschool.ie/wp-content/uploads/2023/09/St.-Patricks-N.S.-Admission-Policy-2023.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "St.-Patricks-N.S.-Admission-Policy-2023"
+    },
+    {
+      "url": "https://www.glencullenschool.ie/wp-content/uploads/2025/10/St.-Patricks-N.S.-Admission-Policy-1.pdf",
+      "final_url": "https://www.glencullenschool.ie/wp-content/uploads/2025/10/St.-Patricks-N.S.-Admission-Policy-1.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "St. Patrick&#8217;s N.S.  Admission Policy  (1)"
+    },
+    {
+      "url": "https://www.glencullenschool.ie/wp-content/uploads/2025/10/St.-Patricks-N.S.-Admission-Policy-.pdf",
+      "final_url": "https://www.glencullenschool.ie/wp-content/uploads/2025/10/St.-Patricks-N.S.-Admission-Policy-.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "St. Patrick&#8217;s N.S. Admission Policy"
+    },
+    {
+      "url": "https://www.glencullenschool.ie/updated-policies-september-2020/",
+      "final_url": "https://www.glencullenschool.ie/updated-policies-september-2020/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Updated Policies – September 2020"
+    },
+    {
+      "url": "https://www.glencullenschool.ie/wp-content/uploads/2020/09/Enrolment-Application-form.docx",
+      "final_url": "https://www.glencullenschool.ie/wp-content/uploads/2020/09/Enrolment-Application-form.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Enrolment Application Form."
+    },
+    {
+      "url": "https://www.glencullenschool.ie/for-parents/general-information-for-parents/school-holiday-list-2021-2022/",
+      "final_url": "https://www.glencullenschool.ie/for-parents/general-information-for-parents/school-holiday-list-2021-2022/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Holiday List"
+    },
+    {
+      "url": "https://www.glencullenschool.ie/wp-sitemap.xml",
+      "final_url": "https://www.glencullenschool.ie/wp-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.glencullenschool.ie/wp-sitemap-posts-post-1.xml",
+      "final_url": "https://www.glencullenschool.ie/wp-sitemap-posts-post-1.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.glencullenschool.ie/wp-sitemap-posts-page-1.xml",
+      "final_url": "https://www.glencullenschool.ie/wp-sitemap-posts-page-1.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.glencullenschool.ie/wp-sitemap-posts-course-1.xml",
+      "final_url": "https://www.glencullenschool.ie/wp-sitemap-posts-course-1.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.glencullenschool.ie/the-school/parents-association/",
+      "final_url": "https://www.glencullenschool.ie/the-school/parents-association/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents’ Association"
+    },
+    {
+      "url": "https://www.glencullenschool.ie/policies/enrolment-policy-2/",
+      "final_url": "https://www.glencullenschool.ie/policies/enrolment-policy-2/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Enrolment Policy & Application Form"
+    },
+    {
+      "url": "https://www.glencullenschool.ie/policies/code-of-behaviour/",
+      "final_url": "https://www.glencullenschool.ie/policies/code-of-behaviour/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Code of Behaviour –"
+    },
+    {
+      "url": "https://www.glencullenschool.ie/policies/",
+      "final_url": "https://www.glencullenschool.ie/policies/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.glencullenschool.ie/policies-2/",
+      "final_url": "https://www.glencullenschool.ie/policies-2/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.glencullenschool.ie/wp-content/uploads/2025/10/enrolment-application-form.pdf",
+      "final_url": "https://www.glencullenschool.ie/wp-content/uploads/2025/10/enrolment-application-form.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.glencullenschool.ie/wp-content/uploads/2025/10/Critical-Incident-25.pdf",
+      "final_url": "https://www.glencullenschool.ie/wp-content/uploads/2025/10/Critical-Incident-25.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download"
+    },
+    {
+      "url": "https://www.glencullenschool.ie/wp-content/uploads/2025/10/Code-of-Conduct-for-Parents.pdf",
+      "final_url": "https://www.glencullenschool.ie/wp-content/uploads/2025/10/Code-of-Conduct-for-Parents.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    }
+  ],
+  "documents": [
+    {
+      "roll": "17507F",
+      "url": "https://www.glencullenschool.ie/wp-content/uploads/2021/04/St.-Patricks-N.S.-Admission-Policy-2020-3.docx",
+      "label": "Prior school admissions section",
+      "sha256": "881c0840dfe8424d21988b336b35232dd2904dd2b84bd616508ed9ad28b86387",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/17507F_881c0840dfe8424d2198.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 21460
+    },
+    {
+      "roll": "17507F",
+      "url": "https://www.glencullenschool.ie/wp-content/uploads/2020/04/St.-Patricks-N.S.-Draft-Admission-Policy-2020.docx",
+      "label": "Prior school admissions section",
+      "sha256": "292083f90518db8429158bbab494e9f771ee3b33df2f3c29d4900d917f710fa0",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/17507F_292083f90518db842915.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 19644
+    },
+    {
+      "roll": "17507F",
+      "url": "https://www.glencullenschool.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "label": "Oldest public admission media (all dates)",
+      "sha256": "fbdedc5858a1845897cb321cc33d58af5b6d638c0ef0f5819199500b3f213cac",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/17507F_fbdedc5858a1845897cb.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 2747
+    },
+    {
+      "roll": "17507F",
+      "url": "https://www.glencullenschool.ie/wp-content/uploads/2021/04/St.-Patricks-N.S.-Admission-Policy-2020-PDF.pdf",
+      "label": "St.-Patricks-N.S.-Admission-Policy-2020-PDF",
+      "sha256": "60b8f09a8515f3560de518c27c391721dba037ecf370ddb8973a279842799f70",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/17507F_60b8f09a8515f3560de5.txt",
+      "source_file": "database/milestone2/cache/60b8f09a8515f3560de518c27c391721dba037ecf370ddb8973a279842799f70.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 23251
+    },
+    {
+      "roll": "17507F",
+      "url": "https://www.glencullenschool.ie/wp-content/uploads/2023/09/St.-Patricks-N.S.-Admission-Policy-2023.pdf",
+      "label": "St.-Patricks-N.S.-Admission-Policy-2023",
+      "sha256": "14e9e5f79c26406af0fe7e287a527c65368ef5cbe3153d208051c08a5ce467dd",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/17507F_14e9e5f79c26406af0fe.txt",
+      "source_file": "database/milestone2/cache/14e9e5f79c26406af0fe7e287a527c65368ef5cbe3153d208051c08a5ce467dd.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 23277
+    },
+    {
+      "roll": "17507F",
+      "url": "https://www.glencullenschool.ie/wp-content/uploads/2025/10/St.-Patricks-N.S.-Admission-Policy-1.pdf",
+      "label": "St. Patrick&#8217;s N.S.  Admission Policy  (1)",
+      "sha256": "b6e3beedf863d6e0ee755ffce2d1a146994034be280f5a51251ec94748cd819e",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/17507F_b6e3beedf863d6e0ee75.txt",
+      "source_file": "database/milestone2/cache/b6e3beedf863d6e0ee755ffce2d1a146994034be280f5a51251ec94748cd819e.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 24695
+    },
+    {
+      "roll": "17507F",
+      "url": "https://www.glencullenschool.ie/wp-content/uploads/2025/10/St.-Patricks-N.S.-Admission-Policy-.pdf",
+      "label": "St. Patrick&#8217;s N.S. Admission Policy",
+      "sha256": "c670f41a93e5902ccb2b6c4b7751fb32219d3c4e8adfd84fccaf232d5b177559",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/17507F_c670f41a93e5902ccb2b.txt",
+      "source_file": "database/milestone2/cache/c670f41a93e5902ccb2b6c4b7751fb32219d3c4e8adfd84fccaf232d5b177559.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 24695
+    },
+    {
+      "roll": "17507F",
+      "url": "https://www.glencullenschool.ie/updated-policies-september-2020/",
+      "label": "Updated Policies – September 2020",
+      "sha256": "26010691d044560373ed30f8255abbac7fc8daf76ecd7dcde601ab7e2f5cb9ac",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/17507F_26010691d044560373ed.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 249
+    },
+    {
+      "roll": "17507F",
+      "url": "https://www.glencullenschool.ie/policies-2/",
+      "label": "Policies",
+      "sha256": "d0af135775e37716b4ef48ad19b6fac232853227f56d0beed8cae17b6baca3a0",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/17507F_d0af135775e37716b4ef.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 2689
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.glencullenschool.ie/wp-content/uploads/2025/10/Child-Safeguarding-Statement-2025_26.pdf",
+      "label": "Download",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.glencullenschool.ie/wp-content/uploads/2025/10/Checklist-for-Review-of-the-Child-Safeguarding-Statement-.pdf",
+      "label": "Download",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.glencullenschool.ie/policies/code-of-conduct-for-parents-visitors/",
+      "label": "Code of Conduct for Parents and Visitors",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.glencullenschool.ie/for-parents/general-information-for-parents/school-uniform/",
+      "label": "School Uniform",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.glencullenschool.ie/for-parents/general-information-for-parents/homework/",
+      "label": "Homework",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.glencullenschool.ie/for-parents/general-information-for-parents/",
+      "label": "General Information for Parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.glencullenschool.ie/for-parents/",
+      "label": "For Parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.glencullenschool.ie/",
+      "label": "School homepage",
+      "via": "home"
+    },
+    {
+      "url": "https://www.glencullenschool.ie/wp-content/uploads/2025/10/Swimming-Policy.pdf",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.glencullenschool.ie/wp-content/uploads/2025/10/Policy-of-Illness-and-Medication.pdf",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.glencullenschool.ie/wp-content/uploads/2025/10/Healthy-Eating-Policy.pdf",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.glencullenschool.ie/wp-content/uploads/2025/10/Healthy-Eating-Policy-1.pdf",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.glencullenschool.ie/wp-content/uploads/2025/10/Bi-Cinealta-Policy-1.pdf",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.glencullenschool.ie/policies/swimming-policy/",
+      "label": "Swimming Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.glencullenschool.ie/policies/st-patricks-ns-anti-bullying-policy/",
+      "label": "Bí Cineálta Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.glencullenschool.ie/policies/school-attendance-policy-2/",
+      "label": "School Attendance",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.glencullenschool.ie/policies/policy-for-illness-and-medication/",
+      "label": "Policy for Illness and Medication sub item",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.glencullenschool.ie/policies/mobile-phone-electronic-gadgets-policy/",
+      "label": "Smart Phone and Watch Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.glencullenschool.ie/policies/homework-policy/",
+      "label": "Homework Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.glencullenschool.ie/policies/healthy-eating-policy/",
+      "label": "Healthy Eating Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.glencullenschool.ie/policies/critical-incident-policy/",
+      "label": "Critical Incident Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.glencullenschool.ie/policies/class-allocation-policy-multi-grade-classes/",
+      "label": "Class Allocation Policy/Multi-grade Classes",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.glencullenschool.ie/policies/child-protection-policy/",
+      "label": "Child Protection Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.glencullenschool.ie/policies/child-protection-policy-2/",
+      "label": "Child Protection Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 95.65,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:36:51+0000"
+}

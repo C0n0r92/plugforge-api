@@ -1,0 +1,177 @@
+{
+  "roll": "19643A",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://stphilips.ie/wp-content/uploads/2018/10/GV-Infographic.png",
+      "final_url": "https://stphilips.ie/wp-content/uploads/2018/10/GV-Infographic.png",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "GV Infographic"
+    },
+    {
+      "url": "https://stphilips.ie/pdfviewer/pdf-enrol/?auto_viewer=true",
+      "final_url": "https://stphilips.ie/pdfviewer/pdf-enrol/?auto_viewer=true",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Click Here"
+    },
+    {
+      "url": "https://www.linkedin.com/shareArticle?mini=true&url=https://stphilips.ie:443/pdfviewer/pdf-enrol/?auto_viewer=true",
+      "final_url": "https://www.linkedin.com/shareArticle?mini=true&url=https://stphilips.ie:443/pdfviewer/pdf-enrol/?auto_viewer=true",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Linkedin"
+    },
+    {
+      "url": "https://stphilips.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://stphilips.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://stphilips.ie/wp-content/uploads/2020/09/St-Philips-Admission-Policy-2020.pdf",
+      "final_url": "https://stphilips.ie/wp-content/uploads/2020/09/St-Philips-Admission-Policy-2020.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "St Philips Admission Policy 2020"
+    },
+    {
+      "url": "https://stphilips.ie/admissions/",
+      "final_url": "https://stphilips.ie/admissions/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://stphilips.ie/Admissions/",
+      "final_url": "https://stphilips.ie/Admissions/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Softwebmedia Inc."
+    },
+    {
+      "url": "https://stphilips.ie/Admissions",
+      "final_url": "https://stphilips.ie/Admissions/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Read More"
+    },
+    {
+      "url": "https://api.whatsapp.com/send?text=https://stphilips.ie:443/pdfviewer/pdf-enrol/?auto_viewer=true",
+      "final_url": "https://api.whatsapp.com/send?text=https://stphilips.ie:443/pdfviewer/pdf-enrol/?auto_viewer=true",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "WhatsApp"
+    },
+    {
+      "url": "https://stphilips.ie/wp-sitemap.xml",
+      "final_url": "https://stphilips.ie/wp-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://stphilips.ie/wp-sitemap-posts-post-1.xml",
+      "final_url": "https://stphilips.ie/wp-sitemap-posts-post-1.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://stphilips.ie/wp-sitemap-posts-pdfviewer-1.xml",
+      "final_url": "https://stphilips.ie/wp-sitemap-posts-pdfviewer-1.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://stphilips.ie/wp-sitemap-posts-page-1.xml",
+      "final_url": "https://stphilips.ie/wp-sitemap-posts-page-1.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://stphilips.ie/school-classes/enrolment-policy/",
+      "final_url": "https://stphilips.ie/school-classes/enrolment-policy/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Enrolment Policy"
+    },
+    {
+      "url": "https://stphilips.ie/pdfviewer/pdf-enrol/",
+      "final_url": "https://stphilips.ie/pdfviewer/pdf-enrol/?auto_viewer=true#page=&zoom=auto&pagemode=none",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions/policy URL from public sitemap"
+    },
+    {
+      "url": "https://stphilips.ie/about-us/key-policies/",
+      "final_url": "https://stphilips.ie/about-us/key-policies/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Key Policies"
+    },
+    {
+      "url": "https://stphilips.ie/",
+      "final_url": "https://stphilips.ie/",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://stphilips.ie/portfolios/family-day-2024/",
+      "final_url": "https://stphilips.ie/portfolios/family-day-2024/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Grandparents, Family and Friends Day 2024"
+    },
+    {
+      "url": "https://stphilips.ie/school-classes/data-protection-policy/",
+      "final_url": "https://stphilips.ie/school-classes/data-protection-policy/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Data Protection Policy"
+    },
+    {
+      "url": "https://stphilips.ie/school-classes/cpp-css/",
+      "final_url": "https://stphilips.ie/school-classes/cpp-css/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Child Protection Policy"
+    },
+    {
+      "url": "https://stphilips.ie/school-classes/antibullying-policy/",
+      "final_url": "https://stphilips.ie/school-classes/antibullying-policy/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Antibullying Policy"
+    },
+    {
+      "url": "https://stphilips.ie/school-classes/acceptable-usage-policy/",
+      "final_url": "https://stphilips.ie/school-classes/acceptable-usage-policy/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Acceptable Usage Policy"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19643A",
+      "url": "https://stphilips.ie/wp-content/uploads/2020/09/St-Philips-Admission-Policy-2020.pdf",
+      "label": "St Philips Admission Policy 2020",
+      "sha256": "c20f068522561f46ed321c411ffe1e30f1db23ccfb366bdff891cdbafe9baffd",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19643A_c20f068522561f46ed32.txt",
+      "source_file": "database/milestone2/cache/c20f068522561f46ed321c411ffe1e30f1db23ccfb366bdff891cdbafe9baffd.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 24451
+    }
+  ],
+  "pending_links": [],
+  "elapsed_seconds": 132.02,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:47:45+0000"
+}

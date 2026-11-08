@@ -1,0 +1,305 @@
+{
+  "roll": "19355S",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.bmss.ie/wp-content/uploads/2020/09/ADMISSION-NOTICE-2.png",
+      "final_url": "https://www.bmss.ie/wp-content/uploads/2020/09/ADMISSION-NOTICE-2.png",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "ADMISSION NOTICE 2"
+    },
+    {
+      "url": "https://www.bmss.ie/wp-content/uploads/2020/09/ADMISSION-NOTICE-2.2.png",
+      "final_url": "https://www.bmss.ie/wp-content/uploads/2020/09/ADMISSION-NOTICE-2.2.png",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "ADMISSION NOTICE 2.2"
+    },
+    {
+      "url": "https://www.bmss.ie/wp-content/uploads/2020/09/ADMISSION-NOTICE-1.png",
+      "final_url": "https://www.bmss.ie/wp-content/uploads/2020/09/ADMISSION-NOTICE-1.png",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "ADMISSION NOTICE 1"
+    },
+    {
+      "url": "https://www.bmss.ie/wp-content/uploads/2020/09/ADMISSION-NOTICE-1.2.png",
+      "final_url": "https://www.bmss.ie/wp-content/uploads/2020/09/ADMISSION-NOTICE-1.2.png",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "ADMISSION NOTICE 1.2"
+    },
+    {
+      "url": "https://www.bmss.ie/wp-content/uploads/2021/09/admissions-notice-2022-23-page2.jpg",
+      "final_url": "https://www.bmss.ie/wp-content/uploads/2021/09/admissions-notice-2022-23-page2.jpg",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "admissions-notice 2022 23-page2"
+    },
+    {
+      "url": "https://www.bmss.ie/wp-content/uploads/2021/09/admissions-notice-2022-23-page1.jpg",
+      "final_url": "https://www.bmss.ie/wp-content/uploads/2021/09/admissions-notice-2022-23-page1.jpg",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "admissions-notice 2022 23-page1"
+    },
+    {
+      "url": "https://www.bmss.ie/wp-content/uploads/2021/09/admissions-notice-2022-23-page0001.jpg",
+      "final_url": "https://www.bmss.ie/wp-content/uploads/2021/09/admissions-notice-2022-23-page0001.jpg",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "admissions-notice 2022 23-page0001"
+    },
+    {
+      "url": "https://www.bmss.ie/?s=admission",
+      "final_url": "https://www.bmss.ie/?s=admission",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Public site search form"
+    },
+    {
+      "url": "https://www.bmss.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://www.bmss.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://www.bmss.ie/wp-content/uploads/2019/06/BMSS-Pre-School-Admissions-Participation-Policy.pdf",
+      "final_url": "https://www.bmss.ie/wp-content/uploads/2019/06/BMSS-Pre-School-Admissions-Participation-Policy.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "BMSS Pre-School Admissions &#038; Participation Policy"
+    },
+    {
+      "url": "https://www.bmss.ie/wp-content/uploads/2019/06/BMSS-Admissions-Participation-Policy.pdf",
+      "final_url": "https://www.bmss.ie/wp-content/uploads/2019/06/BMSS-Admissions-Participation-Policy.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "BMSS Admissions &#038; Participation Policy"
+    },
+    {
+      "url": "https://www.bmss.ie/wp-content/uploads/2020/11/BMSS-Admission-Policy-FINAL.pdf",
+      "final_url": "https://www.bmss.ie/wp-content/uploads/2020/11/BMSS-Admission-Policy-FINAL.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "BMSS Admission Policy &#8211; FINAL"
+    },
+    {
+      "url": "https://www.bmss.ie/wp-content/uploads/2020/09/BMSS-Admission-Policy-FINAL.pdf",
+      "final_url": "https://www.bmss.ie/wp-content/uploads/2020/09/BMSS-Admission-Policy-FINAL.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "BMSS Admission Policy &#8211; FINAL"
+    },
+    {
+      "url": "https://www.bmss.ie/wp-content/uploads/2020/09/BMSS-Admission-Policy-FINAL.doc",
+      "final_url": "https://www.bmss.ie/wp-content/uploads/2020/09/BMSS-Admission-Policy-FINAL.doc",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "BMSS Admission Policy &#8211; FINAL"
+    },
+    {
+      "url": "https://www.bmss.ie/wp-content/uploads/2020/09/BMSS-Admission-Policy-FINAL-1.doc",
+      "final_url": "https://www.bmss.ie/wp-content/uploads/2020/09/BMSS-Admission-Policy-FINAL-1.doc",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "BMSS Admission Policy &#8211; FINAL"
+    },
+    {
+      "url": "https://www.bmss.ie/wp-content/uploads/2020/04/Draft-Admissions-and-Participation-Policy-for-Consultation.pdf",
+      "final_url": "https://www.bmss.ie/wp-content/uploads/2020/04/Draft-Admissions-and-Participation-Policy-for-Consultation.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Draft Admissions and Participation Policy for Consultation"
+    },
+    {
+      "url": "https://www.bmss.ie/wp-content/uploads/2020/04/Ballyowen-Meadows-Admission-Policy-Draft-3-ready-to-send.pdf",
+      "final_url": "https://www.bmss.ie/wp-content/uploads/2020/04/Ballyowen-Meadows-Admission-Policy-Draft-3-ready-to-send.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Ballyowen Meadows -Admission Policy &#8211; Draft 3 &#8211; ready to send"
+    },
+    {
+      "url": "https://www.bmss.ie/wp-content/uploads/2020/01/2020-21-EISC-Admissions-and-Participation-Policy.pdf",
+      "final_url": "https://www.bmss.ie/wp-content/uploads/2020/01/2020-21-EISC-Admissions-and-Participation-Policy.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "2020-21 EISC Admissions and Participation Policy"
+    },
+    {
+      "url": "https://www.bmss.ie/wp-content/uploads/2020/01/2020-2021-Admissions-Participation-Policy.pdf",
+      "final_url": "https://www.bmss.ie/wp-content/uploads/2020/01/2020-2021-Admissions-Participation-Policy.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "2020-2021 Admissions &#038; Participation Policy"
+    },
+    {
+      "url": "https://www.bmss.ie/wp-content/uploads/2022/12/BMSS-Admission-Policy-2022-23.pdf",
+      "final_url": "https://www.bmss.ie/wp-content/uploads/2022/12/BMSS-Admission-Policy-2022-23.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "BMSS Admission Policy 2022 23"
+    },
+    {
+      "url": "https://www.bmss.ie/wp-content/uploads/2022/09/BMSS-Admission-Policy-FINAL-1.pdf",
+      "final_url": "https://www.bmss.ie/wp-content/uploads/2022/09/BMSS-Admission-Policy-FINAL-1.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "BMSS Admission Policy"
+    },
+    {
+      "url": "https://www.bmss.ie/wp-content/uploads/2023/09/BMSS-Admission-Policy-reviewed-19-09-23.pdf",
+      "final_url": "https://www.bmss.ie/wp-content/uploads/2023/09/BMSS-Admission-Policy-reviewed-19-09-23.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "BMSS Admission Policy &#8211; reviewed 19 09 23"
+    },
+    {
+      "url": "https://www.bmss.ie/wp-content/uploads/2025/09/BMSS-Admission-Policy-.pdf",
+      "final_url": "https://www.bmss.ie/wp-content/uploads/2025/09/BMSS-Admission-Policy-.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "BMSS Admission Policy"
+    },
+    {
+      "url": "https://www.bmss.ie/wp-content/uploads/2026/10/BMSS-Admission-Policy-2026-27.pdf",
+      "final_url": "https://www.bmss.ie/wp-content/uploads/2026/10/BMSS-Admission-Policy-2026-27.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "BMSS Admission Policy &#8211; 2026 27"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19355S",
+      "url": "https://www.bmss.ie/wp-content/uploads/2020/11/BMSS-Admission-Policy-FINAL.pdf",
+      "label": "BMSS Admission Policy &#8211; FINAL",
+      "sha256": "c48f29c23320faeab0f805d6698a1550918f5b1c7dd0a0ea5a2a93142f017163",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19355S_c48f29c23320faeab0f8.txt",
+      "source_file": "database/milestone2/cache/c48f29c23320faeab0f805d6698a1550918f5b1c7dd0a0ea5a2a93142f017163.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 79068
+    },
+    {
+      "roll": "19355S",
+      "url": "https://www.bmss.ie/wp-content/uploads/2020/09/BMSS-Admission-Policy-FINAL.pdf",
+      "label": "BMSS Admission Policy &#8211; FINAL",
+      "sha256": "03e0ef0aa893e7ff0142ea0f9ba5d39988c2d87e1aa5ad68262116d2cb2c60c4",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19355S_03e0ef0aa893e7ff0142.txt",
+      "source_file": "database/milestone2/cache/03e0ef0aa893e7ff0142ea0f9ba5d39988c2d87e1aa5ad68262116d2cb2c60c4.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 79278
+    },
+    {
+      "roll": "19355S",
+      "url": "https://www.bmss.ie/wp-content/uploads/2020/09/BMSS-Admission-Policy-FINAL.doc",
+      "label": "BMSS Admission Policy &#8211; FINAL",
+      "sha256": "5d63d7a49b9f98782db8f95a5779656b65d6d9a464093afb67a3cbf7aaf3f31e",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19355S_5d63d7a49b9f98782db8.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 18100
+    },
+    {
+      "roll": "19355S",
+      "url": "https://www.bmss.ie/wp-content/uploads/2020/04/Draft-Admissions-and-Participation-Policy-for-Consultation.pdf",
+      "label": "Draft Admissions and Participation Policy for Consultation",
+      "sha256": "0e8ee3dd0f19807b95d6119cf7c3fd152f872ddaf283be506cc8faa18246836e",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19355S_0e8ee3dd0f19807b95d6.txt",
+      "source_file": "database/milestone2/cache/0e8ee3dd0f19807b95d6119cf7c3fd152f872ddaf283be506cc8faa18246836e.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 79116
+    },
+    {
+      "roll": "19355S",
+      "url": "https://www.bmss.ie/wp-content/uploads/2022/12/BMSS-Admission-Policy-2022-23.pdf",
+      "label": "BMSS Admission Policy 2022 23",
+      "sha256": "cfacb242dbf3113bb36edcf7f28193b24e72e7c16fad3f6e97e0f80f6ce7f6d5",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19355S_cfacb242dbf3113bb36e.txt",
+      "source_file": "database/milestone2/cache/cfacb242dbf3113bb36edcf7f28193b24e72e7c16fad3f6e97e0f80f6ce7f6d5.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 79518
+    },
+    {
+      "roll": "19355S",
+      "url": "https://www.bmss.ie/wp-content/uploads/2022/09/BMSS-Admission-Policy-FINAL-1.pdf",
+      "label": "BMSS Admission Policy",
+      "sha256": "3912f9a9a4aa34067ee2c944d3acc22b3a17d2254bb4a79814defb8615bd756f",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19355S_3912f9a9a4aa34067ee2.txt",
+      "source_file": "database/milestone2/cache/3912f9a9a4aa34067ee2c944d3acc22b3a17d2254bb4a79814defb8615bd756f.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 78946
+    },
+    {
+      "roll": "19355S",
+      "url": "https://www.bmss.ie/wp-content/uploads/2023/09/BMSS-Admission-Policy-reviewed-19-09-23.pdf",
+      "label": "BMSS Admission Policy &#8211; reviewed 19 09 23",
+      "sha256": "51ee21a5b6f9bf47105361fc8b739f7b6fcfcfdfc679d6fbae60f53023b96c75",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19355S_51ee21a5b6f9bf471053.txt",
+      "source_file": "database/milestone2/cache/51ee21a5b6f9bf47105361fc8b739f7b6fcfcfdfc679d6fbae60f53023b96c75.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 79735
+    },
+    {
+      "roll": "19355S",
+      "url": "https://www.bmss.ie/wp-content/uploads/2025/09/BMSS-Admission-Policy-.pdf",
+      "label": "BMSS Admission Policy",
+      "sha256": "e27ef89fcaf16383eaff3d695122fdb3336db2ac805ea4e157cac813574e38e9",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19355S_e27ef89fcaf16383eaff.txt",
+      "source_file": "database/milestone2/cache/e27ef89fcaf16383eaff3d695122fdb3336db2ac805ea4e157cac813574e38e9.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 79736
+    },
+    {
+      "roll": "19355S",
+      "url": "https://www.bmss.ie/wp-content/uploads/2026/10/BMSS-Admission-Policy-2026-27.pdf",
+      "label": "BMSS Admission Policy &#8211; 2026 27",
+      "sha256": "34ed120fd9d73ca6ded4205acf7a0ea6404dfcaf8cab5e49b452d473b25ecbae",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19355S_34ed120fd9d73ca6ded4.txt",
+      "source_file": "database/milestone2/cache/34ed120fd9d73ca6ded4205acf7a0ea6404dfcaf8cab5e49b452d473b25ecbae.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 78411
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.bmss.ie/wp-content/uploads/2026/09/BMSS-Admission-Policy-2026-27.docx",
+      "label": "Prior school admissions section",
+      "via": "prior_link"
+    },
+    {
+      "url": "https://www.bmss.ie/sitemap_index.xml",
+      "label": "Public sitemap",
+      "via": "sitemap_root"
+    },
+    {
+      "url": "https://www.bmss.ie/policies/",
+      "label": "Policies",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.bmss.ie/for-parents/",
+      "label": "For Parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.bmss.ie",
+      "label": "School homepage",
+      "via": "home"
+    }
+  ],
+  "elapsed_seconds": 87.72,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:35:40+0000"
+}

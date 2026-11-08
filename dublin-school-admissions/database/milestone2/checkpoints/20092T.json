@@ -1,0 +1,60 @@
+{
+  "roll": "20092T",
+  "status": "bounded_search_no_new_notice_found",
+  "attempts": [
+    {
+      "url": "https://stultans.ie",
+      "final_url": "https://stultans.ie",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://stultans.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://stultans.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://stultans.ie/wp-sitemap.xml",
+      "final_url": "https://stultans.ie/wp-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://stultans.ie/wp-sitemap-users-1.xml",
+      "final_url": "https://stultans.ie/wp-sitemap-users-1.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://stultans.ie/wp-sitemap-posts-page-1.xml",
+      "final_url": "https://stultans.ie/wp-sitemap-posts-page-1.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://stultans.ie/parent-partnership/",
+      "final_url": "https://stultans.ie/parent-partnership/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://stultans.ie/privacy-policy/",
+      "final_url": "https://stultans.ie/privacy-policy/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Privacy Statement"
+    }
+  ],
+  "documents": [],
+  "pending_links": [],
+  "elapsed_seconds": 20.13,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:10:04+0000"
+}

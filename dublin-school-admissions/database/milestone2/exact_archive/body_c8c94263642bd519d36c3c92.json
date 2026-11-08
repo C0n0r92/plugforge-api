@@ -1,0 +1,27 @@
+{
+  "roll": "20043G",
+  "capture": {
+    "timestamp": "20260122162258",
+    "original": "https://gaelscoilchnocliamhna.ie/wp-content/uploads/2026/01/Annual-Admission-Notice-26-27.pdf",
+    "mimetype": "application/pdf",
+    "statuscode": "200",
+    "digest": "YOSMU6I5XDB5N66V3VX4F43JF6STPXB4"
+  },
+  "original_url": "https://gaelscoilchnocliamhna.ie/wp-content/uploads/2026/01/Annual-Admission-Notice-26-27.pdf",
+  "archived_url": "https://web.archive.org/web/20260122162258/https://gaelscoilchnocliamhna.ie/wp-content/uploads/2026/01/Annual-Admission-Notice-26-27.pdf",
+  "attempted_at": "2026-11-08T12:57:52.609937+00:00",
+  "linked_from_capture": null,
+  "http_status": 200,
+  "headers": {
+    "Content-Type": "application/pdf",
+    "memento-datetime": "Thu, 22 Jan 2026 16:22:58 GMT"
+  },
+  "bytes": 182529,
+  "payload_sha256": "dbcd7cf6b8e0f40c7af4981dbfac3eaac49e55c26c4b7d181d6bbaff0ecfb714",
+  "format": "pdf",
+  "source_file": "database/milestone2/cache/dbcd7cf6b8e0f40c7af4981dbfac3eaac49e55c26c4b7d181d6bbaff0ecfb714.pdf",
+  "parse_stderr": "",
+  "status": "archived_body_retrieved_requires_manual_evidence_review",
+  "text_file": "database/milestone2/evidence/exact_20043G_dbcd7cf6b8e0f40c7af4.txt",
+  "linked_document_candidates": []
+}

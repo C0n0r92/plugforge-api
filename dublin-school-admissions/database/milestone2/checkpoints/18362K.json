@@ -1,0 +1,202 @@
+{
+  "roll": "18362K",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://scinfantsp.ie/admission-policy/",
+      "final_url": "https://scinfantsp.ie/admission-policy/",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://scinfantsp.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://scinfantsp.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://scinfantsp.ie/wp-content/uploads/2021/11/Critical-Incident-Plan.pdf",
+      "final_url": "https://scinfantsp.ie/wp-content/uploads/2021/11/Critical-Incident-Plan.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Critical Incident Plan"
+    },
+    {
+      "url": "https://scinfantsp.ie/wp-content/uploads/2021/09/Updated-Covid-19-Plan-2021.pdf",
+      "final_url": "https://scinfantsp.ie/wp-content/uploads/2021/09/Updated-Covid-19-Plan-2021.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Updated Covid 19 Plan 2021"
+    },
+    {
+      "url": "https://scinfantsp.ie/wp-content/uploads/2023/03/Admission-Policy-.pdf",
+      "final_url": "https://scinfantsp.ie/wp-content/uploads/2023/03/Admission-Policy-.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admission Policy"
+    },
+    {
+      "url": "https://scinfantsp.ie/wp-content/uploads/2025/01/Child-Safeguarding-Statement-and-Risk-Assessment-Updated-PDF-2.pdf",
+      "final_url": "https://scinfantsp.ie/wp-content/uploads/2025/01/Child-Safeguarding-Statement-and-Risk-Assessment-Updated-PDF-2.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Child Safeguarding Statement"
+    },
+    {
+      "url": "https://scinfantsp.ie/sitemap.xml",
+      "final_url": "https://scinfantsp.ie/sitemap_index.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://scinfantsp.ie/team-sitemap.xml",
+      "final_url": "https://scinfantsp.ie/team-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://scinfantsp.ie/school-policies-2/",
+      "final_url": "https://scinfantsp.ie/school-policies-2/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://scinfantsp.ie/post-sitemap.xml",
+      "final_url": "https://scinfantsp.ie/post-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://scinfantsp.ie/parents-association/",
+      "final_url": "https://scinfantsp.ie/parents-association/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents’ Association"
+    },
+    {
+      "url": "https://scinfantsp.ie/page-sitemap.xml",
+      "final_url": "https://scinfantsp.ie/page-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://scinfantsp.ie/admissions-policy/",
+      "final_url": "https://scinfantsp.ie/admissions-policy/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions Policy"
+    },
+    {
+      "url": "https://scinfantsp.ie/admissions-policy/admission-policy-2/",
+      "final_url": "https://scinfantsp.ie/wp-content/uploads/2023/03/Admission-Policy-.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admission Policy"
+    },
+    {
+      "url": "https://scinfantsp.ie/",
+      "final_url": "https://scinfantsp.ie/",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://scinfantsp.ie/covid-19-policy-statement-2021/",
+      "final_url": "https://scinfantsp.ie/covid-19-policy-statement-2021/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "COVID 19 Policy Statement 2021"
+    },
+    {
+      "url": "https://scinfantsp.ie/rse-policy/",
+      "final_url": "https://scinfantsp.ie/rse-policy/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "RSE Policy"
+    },
+    {
+      "url": "https://scinfantsp.ie/internet-acceptable-use-policy/",
+      "final_url": "https://scinfantsp.ie/internet-acceptable-use-policy/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Internet Acceptable Use Policy"
+    },
+    {
+      "url": "https://scinfantsp.ie/health-and-safety-policy/",
+      "final_url": "https://scinfantsp.ie/health-and-safety-policy/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Health and Safety Policy"
+    },
+    {
+      "url": "https://scinfantsp.ie/health-and-safety-policy/health-and-safety-policy-pdf/",
+      "final_url": "https://scinfantsp.ie/wp-content/uploads/2025/01/Health-and-Safety-Policy-PDF.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "health and safety policy"
+    },
+    {
+      "url": "https://scinfantsp.ie/data-protection-policy/",
+      "final_url": "https://scinfantsp.ie/data-protection-policy/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Data Protection Policy"
+    },
+    {
+      "url": "https://scinfantsp.ie/anti-bullying-policy/",
+      "final_url": "https://scinfantsp.ie/anti-bullying-policy/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Anti Bullying Policy"
+    },
+    {
+      "url": "https://scinfantsp.ie/?attachment_id=3393",
+      "final_url": "https://scinfantsp.ie/wp-content/uploads/2025/01/Anti-Bullying-Policy-PDF.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "anti bullying policy."
+    },
+    {
+      "url": "https://scinfantsp.ie/?attachment_id=3359",
+      "final_url": "https://scinfantsp.ie/wp-content/uploads/2023/03/RSE-Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "RSE Policy"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "18362K",
+      "url": "https://scinfantsp.ie/admission-policy/",
+      "label": "Prior school admissions section",
+      "sha256": "a78d5b546bb2774f44b44b87756ca0b0b3c90aefd21f2b9d55edee72277f6236",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/18362K_a78d5b546bb2774f44b4.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 18100
+    },
+    {
+      "roll": "18362K",
+      "url": "https://scinfantsp.ie/wp-content/uploads/2023/03/Admission-Policy-.pdf",
+      "label": "Admission Policy",
+      "sha256": "7587aee727c54fd54d6fec6cb7448d01c757fe81b28224cdc740c18f4ae4a61c",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/18362K_7587aee727c54fd54d6f.txt",
+      "source_file": "database/milestone2/cache/7587aee727c54fd54d6fec6cb7448d01c757fe81b28224cdc740c18f4ae4a61c.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 20967
+    }
+  ],
+  "pending_links": [],
+  "elapsed_seconds": 144.64,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:54:14+0000"
+}

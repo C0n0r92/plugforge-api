@@ -1,0 +1,25 @@
+{
+  "task_id": "402309e58978acd98a6b282cfb726599",
+  "roll": "00697S",
+  "capture": {
+    "digest": "2MCD4AHWZ7FI3CRRCMUOPB3NM3ZGDPLN",
+    "mimetype": "application/pdf",
+    "original": "http://saintbrigids.ie/wp/pwa/wp-content/uploads/sites/15/2020/08/Parks-Recreation-Infographic-1.pdf",
+    "statuscode": "200",
+    "timestamp": "20220516150520"
+  },
+  "original_url": "http://saintbrigids.ie/wp/pwa/wp-content/uploads/sites/15/2020/08/Parks-Recreation-Infographic-1.pdf",
+  "archived_url": "https://web.archive.org/web/20220516150520/http://saintbrigids.ie/wp/pwa/wp-content/uploads/sites/15/2020/08/Parks-Recreation-Infographic-1.pdf",
+  "attempted_at": "2026-11-08T12:32:06.263397+00:00",
+  "http_status": 200,
+  "headers": {
+    "Content-Type": "application/pdf",
+    "memento-datetime": "Mon, 16 May 2022 15:05:20 GMT"
+  },
+  "payload_sha256": "2f0fd901c5fbac9ab12f56e9c6f87c3d4242bbc88389311cc97e81fa3c2521e6",
+  "bytes": 362318,
+  "source_file": "database/milestone2/cache/2f0fd901c5fbac9ab12f56e9c6f87c3d4242bbc88389311cc97e81fa3c2521e6.pdf",
+  "format": "pdf",
+  "status": "archived_body_retrieved_requires_notice_evidence_review",
+  "text_file": "database/milestone2/evidence/archive_00697S_2f0fd901c5fbac9ab12f.txt"
+}

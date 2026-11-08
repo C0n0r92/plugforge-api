@@ -1,0 +1,175 @@
+{
+  "roll": "19668Q",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://stfrancissns.ie/st-francis-sns-annual-admission-notice-2020/",
+      "final_url": "https://stfrancissns.ie/st-francis-sns-annual-admission-notice-2020/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions/policy URL from public sitemap"
+    },
+    {
+      "url": "https://stfrancissns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://stfrancissns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://stfrancissns.ie/wp-content/uploads/2020/11/St-Francis-SNS-Admissions-Policy-2020-1.pdf",
+      "final_url": "https://stfrancissns.ie/wp-content/uploads/2020/11/St-Francis-SNS-Admissions-Policy-2020-1.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Here"
+    },
+    {
+      "url": "https://stfrancissns.ie/school-enrolment/",
+      "final_url": "https://stfrancissns.ie/school-enrolment/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "School Enrolment"
+    },
+    {
+      "url": "https://www.stfrancissns.ie",
+      "final_url": "https://stfrancissns.ie/",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://stfrancissns.ie/sitemap_index.xml",
+      "final_url": "https://stfrancissns.ie/sitemap_index.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://stfrancissns.ie/tribe_events-sitemap.xml",
+      "final_url": "https://stfrancissns.ie/tribe_events-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://stfrancissns.ie/school-policies/",
+      "final_url": "https://stfrancissns.ie/school-policies/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Policies"
+    },
+    {
+      "url": "https://stfrancissns.ie/wp-content/uploads/2021/11/Notice-re-CSS.pdf",
+      "final_url": "https://stfrancissns.ie/wp-content/uploads/2021/11/Notice-re-CSS.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "View / Download"
+    },
+    {
+      "url": "https://stfrancissns.ie/wp-content/uploads/2021/05/stfrancis-internet.pdf",
+      "final_url": "https://stfrancissns.ie/wp-content/uploads/2021/05/stfrancis-internet.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "View / Download"
+    },
+    {
+      "url": "https://stfrancissns.ie/wp-content/uploads/2023/09/Child-safe-guarding-23-1.pdf",
+      "final_url": "https://stfrancissns.ie/wp-content/uploads/2023/09/Child-safe-guarding-23-1.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "View / Download"
+    },
+    {
+      "url": "https://stfrancissns.ie/school-info/",
+      "final_url": "https://stfrancissns.ie/school-info/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Info"
+    },
+    {
+      "url": "https://stfrancissns.ie/post-sitemap.xml",
+      "final_url": "https://stfrancissns.ie/post-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://stfrancissns.ie/page-sitemap.xml",
+      "final_url": "https://stfrancissns.ie/page-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://stfrancissns.ie/classes-courses-for-parents/",
+      "final_url": "https://stfrancissns.ie/classes-courses-for-parents/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Classes/Courses for Parents"
+    },
+    {
+      "url": "https://stfrancissns.ie/wp-content/uploads/2021/05/stfrancis-bullyingpolicy.pdf",
+      "final_url": "https://stfrancissns.ie/wp-content/uploads/2021/05/stfrancis-bullyingpolicy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "View / Download"
+    },
+    {
+      "url": "https://stfrancissns.ie/privacy-policy/",
+      "final_url": "https://stfrancissns.ie/privacy-policy/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Privacy Policy"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19668Q",
+      "url": "https://stfrancissns.ie/st-francis-sns-annual-admission-notice-2020/",
+      "label": "Admissions/policy URL from public sitemap",
+      "sha256": "013fcf18b9351856ada9deef991afa546ab195e5959c0f8465a1668596893dc8",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19668Q_013fcf18b9351856ada9.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1379
+    },
+    {
+      "roll": "19668Q",
+      "url": "https://stfrancissns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "label": "Oldest public admission media (all dates)",
+      "sha256": "19afe39f36032fa09b3295b7106bfd139b76966fa368b924a5aaf20c0d6ddd45",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19668Q_19afe39f36032fa09b32.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 757
+    },
+    {
+      "roll": "19668Q",
+      "url": "https://stfrancissns.ie/wp-content/uploads/2020/11/St-Francis-SNS-Admissions-Policy-2020-1.pdf",
+      "label": "Here",
+      "sha256": "9b2be455b0dd27180a08b3bab90c0012cd42dbd5cc07ce34d7270ca2b9755d1c",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19668Q_9b2be455b0dd27180a08.txt",
+      "source_file": "database/milestone2/cache/9b2be455b0dd27180a08b3bab90c0012cd42dbd5cc07ce34d7270ca2b9755d1c.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 21106
+    },
+    {
+      "roll": "19668Q",
+      "url": "https://stfrancissns.ie/school-policies/",
+      "label": "School Policies",
+      "sha256": "a8b41698db4982e76dcc7d7dfffb0066a347c3c39a7290ffcc8fd0af089b7f65",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19668Q_a8b41698db4982e76dcc.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 327
+    }
+  ],
+  "pending_links": [],
+  "elapsed_seconds": 56.94,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:46:35+0000"
+}

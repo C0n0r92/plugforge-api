@@ -1,0 +1,185 @@
+{
+  "roll": "15895H",
+  "status": "bounded_search_no_new_notice_found",
+  "attempts": [
+    {
+      "url": "https://www.drumcondrans.ie",
+      "final_url": "https://drumcondrans.ie/",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://drumcondrans.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://drumcondrans.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "http_404",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://drumcondrans.ie/?page_id=908",
+      "final_url": "https://drumcondrans.ie/?page_id=908",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://drumcondrans.ie/wp-content/uploads/2025/10/Enrolment_Application-Form-September-2026.pdf",
+      "final_url": "https://drumcondrans.ie/wp-content/uploads/2025/10/Enrolment_Application-Form-September-2026.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Enrolment/Application Form September 2026"
+    },
+    {
+      "url": "https://drumcondrans.ie/wp-content/uploads/2025/10/Admissions-Policy-Last-Reviewed-1st-October-2025.pdf",
+      "final_url": "https://drumcondrans.ie/wp-content/uploads/2025/10/Admissions-Policy-Last-Reviewed-1st-October-2025.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions Policy  – Last Reviewed 1st October 2025"
+    },
+    {
+      "url": "https://drumcondrans.ie/wp-content/uploads/2026/09/Enrolment_Application-Form-for-2027_2028-School-Year.docx.pdf",
+      "final_url": "https://drumcondrans.ie/wp-content/uploads/2026/09/Enrolment_Application-Form-for-2027_2028-School-Year.docx.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Enrolment/Application form for 2027/2028 School Year"
+    },
+    {
+      "url": "https://drumcondrans.ie/sitemap.xml",
+      "final_url": "https://drumcondrans.ie/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://drumcondrans.ie/?page_id=37",
+      "final_url": "https://drumcondrans.ie/?page_id=37",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://drumcondrans.ie/wp-content/uploads/2026/10/Appendix-C_-Annual-Review-of-the-Bi-Cinealta-Policy-Drumondra-National-School.pdf",
+      "final_url": "https://drumcondrans.ie/wp-content/uploads/2026/10/Appendix-C_-Annual-Review-of-the-Bi-Cinealta-Policy-Drumondra-National-School.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Appendix C: Annual Review of the Bí Cineálta Policy – Drumondra National School"
+    },
+    {
+      "url": "https://drumcondrans.ie/?page_id=33",
+      "final_url": "https://drumcondrans.ie/?page_id=33",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parent Association"
+    },
+    {
+      "url": "https://drumcondrans.ie/wp-content/uploads/2023/10/Gen-Free-Info-Letter-for-Parents_Guardians.docx.pdf",
+      "final_url": "https://drumcondrans.ie/wp-content/uploads/2023/10/Gen-Free-Info-Letter-for-Parents_Guardians.docx.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Gen Free Info Letter for Parents/Guardians"
+    },
+    {
+      "url": "https://drumcondrans.ie/?p=749",
+      "final_url": "https://drumcondrans.ie/?p=749",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents’ Association"
+    },
+    {
+      "url": "https://drumcondrans.ie/?p=157",
+      "final_url": "https://drumcondrans.ie/?p=157",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents’ Association Members"
+    },
+    {
+      "url": "https://drumcondrans.ie/",
+      "final_url": "https://drumcondrans.ie/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents"
+    },
+    {
+      "url": "https://drumcondrans.ie/wp-content/uploads/2022/10/Grievance-Policy-for-Employees.pdf",
+      "final_url": "https://drumcondrans.ie/wp-content/uploads/2022/10/Grievance-Policy-for-Employees.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Grievance Policy for Employees"
+    },
+    {
+      "url": "https://drumcondrans.ie/wp-content/uploads/2022/10/Drumcondra-N.S-Lone-Worker-Working-Policy.pdf",
+      "final_url": "https://drumcondrans.ie/wp-content/uploads/2022/10/Drumcondra-N.S-Lone-Worker-Working-Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Drumcondra N.S Lone Worker/Working Policy"
+    },
+    {
+      "url": "https://drumcondrans.ie/wp-content/uploads/2022/10/Disciplinary-Policy-for-Employees-2.pdf",
+      "final_url": "https://drumcondrans.ie/wp-content/uploads/2022/10/Disciplinary-Policy-for-Employees-2.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Disciplinary Policy for Employees"
+    },
+    {
+      "url": "https://drumcondrans.ie/wp-content/uploads/2024/01/Job-Share-Policy-Teachers.pdf",
+      "final_url": "https://drumcondrans.ie/wp-content/uploads/2024/01/Job-Share-Policy-Teachers.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Job Share Policy – Teachers"
+    },
+    {
+      "url": "https://drumcondrans.ie/wp-content/uploads/2024/01/Job-Share-Policy-SNA.pdf",
+      "final_url": "https://drumcondrans.ie/wp-content/uploads/2024/01/Job-Share-Policy-SNA.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Job Share Policy – SNA"
+    },
+    {
+      "url": "https://drumcondrans.ie/wp-content/uploads/2025/10/Critical-Incident-Management-Policy.pdf",
+      "final_url": "https://drumcondrans.ie/wp-content/uploads/2025/10/Critical-Incident-Management-Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Critical Incident Management Policy"
+    },
+    {
+      "url": "https://drumcondrans.ie/wp-content/uploads/2025/10/Bi-Cinealta-Policy-to-Prevent-Address-Bullying-Behaviour.pdf",
+      "final_url": "https://drumcondrans.ie/wp-content/uploads/2025/10/Bi-Cinealta-Policy-to-Prevent-Address-Bullying-Behaviour.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Bí Cineálta Policy to Prevent & Address Bullying Behaviour"
+    },
+    {
+      "url": "https://drumcondrans.ie/wp-content/uploads/2025/06/0662_001.pdf",
+      "final_url": "https://drumcondrans.ie/wp-content/uploads/2025/06/0662_001.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Bí Cineálta Student Friendly Policy"
+    },
+    {
+      "url": "https://drumcondrans.ie/wp-content/uploads/2025/05/Wellbeing-Policy-.pdf",
+      "final_url": "https://drumcondrans.ie/wp-content/uploads/2025/05/Wellbeing-Policy-.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Wellbeing Policy D.N.S"
+    },
+    {
+      "url": "https://drumcondrans.ie/wp-content/uploads/2026/09/D.N.S.-Homework-Policy-2026-Signed.pdf",
+      "final_url": "https://drumcondrans.ie/wp-content/uploads/2026/09/D.N.S.-Homework-Policy-2026-Signed.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "D.N.S. Homework Policy 2026"
+    }
+  ],
+  "documents": [],
+  "pending_links": [
+    {
+      "url": "https://drumcondrans.ie/wp-content/uploads/2026/06/Acceptable-Usage-Policy-Drumcondra-N.S.pdf",
+      "label": "Acceptable Usage Policy – Drumcondra N.S.",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 80.57,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:50:36+0000"
+}

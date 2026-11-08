@@ -1,0 +1,363 @@
+{
+  "roll": "16964F",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.loretoseniorprimarycrumlin.ie/parents/enrolment-form/?googletranslate=true",
+      "final_url": "https://www.loretoseniorprimarycrumlin.ie/parents/enrolment-form/?googletranslate=true",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "https://www.loretoseniorprimarycrumlin.ie/documentlink/52/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/651/docletter/20251007110313_56_Enrolment_Form_Loreto_Senior_2025.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Enrolment Form Loreto Senior 2025.pdf"
+    },
+    {
+      "url": "https://www.loretoseniorprimarycrumlin.ie/parents/enrolment-form/",
+      "final_url": "https://www.loretoseniorprimarycrumlin.ie/parents/enrolment-form/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Enrolment Form"
+    },
+    {
+      "url": "https://www.loretoseniorprimarycrumlin.ie/admin/?open=/parents/enrolment-form/?googletranslate=true",
+      "final_url": "https://www.loretoseniorprimarycrumlin.ie/admin/?open=/parents/enrolment-form/?googletranslate=true",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.loretoseniorprimarycrumlin.ie/admin/?open=/parents/enrolment-form/",
+      "final_url": "https://www.loretoseniorprimarycrumlin.ie/admin/?open=/parents/enrolment-form/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.loretoseniorprimarycrumlin.ie/sitemap.xml",
+      "final_url": "https://www.loretoseniorprimarycrumlin.ie/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.loretoseniorprimarycrumlin.ie/parents/uniform/",
+      "final_url": "https://www.loretoseniorprimarycrumlin.ie/parents/uniform/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Uniform"
+    },
+    {
+      "url": "https://www.loretoseniorprimarycrumlin.ie/parents/uniform/?googletranslate=true",
+      "final_url": "https://www.loretoseniorprimarycrumlin.ie/parents/uniform/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.loretoseniorprimarycrumlin.ie/parents/policies/",
+      "final_url": "https://www.loretoseniorprimarycrumlin.ie/parents/policies/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.loretoseniorprimarycrumlin.ie/documentlink/60/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/651/docletter/20261019014204_42_27_28_Annual_Admissions_Notice.docx.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "27 28 Annual Admissions Notice.docx.pdf"
+    },
+    {
+      "url": "https://www.loretoseniorprimarycrumlin.ie/documentlink/50/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/651/docletter/20251006101740_83_Admissions_Policy_Revised_September_2025.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Admissions Policy Revised September 2025.pdf"
+    },
+    {
+      "url": "https://www.loretoseniorprimarycrumlin.ie/parents/policies/?googletranslate=true",
+      "final_url": "https://www.loretoseniorprimarycrumlin.ie/parents/policies/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.loretoseniorprimarycrumlin.ie/parents/opening-times/",
+      "final_url": "https://www.loretoseniorprimarycrumlin.ie/parents/opening-times/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Opening Times"
+    },
+    {
+      "url": "https://www.loretoseniorprimarycrumlin.ie/parents/opening-times/?googletranslate=true",
+      "final_url": "https://www.loretoseniorprimarycrumlin.ie/parents/opening-times/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.loretoseniorprimarycrumlin.ie/parents/links-690/",
+      "final_url": "https://www.loretoseniorprimarycrumlin.ie/parents/links-690/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Useful Resources & Websites"
+    },
+    {
+      "url": "https://www.loretoseniorprimarycrumlin.ie/cmsfiles/items/downloads/mentalmathssheetforparents.doc",
+      "final_url": "https://www.loretoseniorprimarycrumlin.ie/cmsfiles/items/downloads/mentalmathssheetforparents.doc",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.loretoseniorprimarycrumlin.ie/cmsfiles/items/downloads/Subtractionparents.docx",
+      "final_url": "https://www.loretoseniorprimarycrumlin.ie/cmsfiles/items/downloads/Subtractionparents.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.loretoseniorprimarycrumlin.ie/cmsfiles/items/downloads/Parents-additionsheet.docx",
+      "final_url": "https://www.loretoseniorprimarycrumlin.ie/cmsfiles/items/downloads/Parents-additionsheet.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.loretoseniorprimarycrumlin.ie/cmsfiles/items/downloads/Multiplicationparents.docx",
+      "final_url": "https://www.loretoseniorprimarycrumlin.ie/cmsfiles/items/downloads/Multiplicationparents.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.loretoseniorprimarycrumlin.ie/cmsfiles/items/downloads/Divisionparents.docx",
+      "final_url": "https://www.loretoseniorprimarycrumlin.ie/cmsfiles/items/downloads/Divisionparents.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.loretoseniorprimarycrumlin.ie/parents/links-690/?googletranslate=true",
+      "final_url": "https://www.loretoseniorprimarycrumlin.ie/parents/links-690/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.loretoseniorprimarycrumlin.ie/parents/hscl/",
+      "final_url": "https://www.loretoseniorprimarycrumlin.ie/parents/hscl/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "HSCL"
+    },
+    {
+      "url": "https://www.loretoseniorprimarycrumlin.ie/parents/hscl/?googletranslate=true",
+      "final_url": "https://www.loretoseniorprimarycrumlin.ie/parents/hscl/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.loretoseniorprimarycrumlin.ie/parents/classes-and-courses-for-parents/",
+      "final_url": "https://www.loretoseniorprimarycrumlin.ie/parents/classes-and-courses-for-parents/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Classes and Courses for Parents"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "16964F",
+      "url": "https://www.loretoseniorprimarycrumlin.ie/parents/policies/",
+      "label": "Policies",
+      "sha256": "7b31cc474d0036adbbe7fc245433c2d37103888a02012ba03149a0bb3cc5533f",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/16964F_7b31cc474d0036adbbe7.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 615
+    },
+    {
+      "roll": "16964F",
+      "url": "https://www.loretoseniorprimarycrumlin.ie/parents/policies/?googletranslate=true",
+      "label": "",
+      "sha256": "24e8d9a17bc112b0a6ea8808c787c82b1b3c1d4dfe992c197a0dc72ad485ddd9",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/16964F_24e8d9a17bc112b0a6ea.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 615
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.loretoseniorprimarycrumlin.ie/parents/classes-and-courses-for-parents/?googletranslate=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.loretoseniorprimarycrumlin.ie/parents/",
+      "label": "Parent Zone",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.loretoseniorprimarycrumlin.ie/documentlink/60/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.loretoseniorprimarycrumlin.ie/documentlink/59/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.loretoseniorprimarycrumlin.ie/documentlink/58/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.loretoseniorprimarycrumlin.ie/documentlink/54/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.loretoseniorprimarycrumlin.ie/documentlink/52/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.loretoseniorprimarycrumlin.ie/documentlink/50/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.loretoseniorprimarycrumlin.ie/documentlink/45/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.loretoseniorprimarycrumlin.ie/documentlink/43/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.loretoseniorprimarycrumlin.ie/documentlink/27/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.loretoseniorprimarycrumlin.ie/documentlink/26/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.loretoseniorprimarycrumlin.ie/admin/?open=/parents/uniform/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.loretoseniorprimarycrumlin.ie/admin/?open=/parents/uniform/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.loretoseniorprimarycrumlin.ie/admin/?open=/parents/policies/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.loretoseniorprimarycrumlin.ie/admin/?open=/parents/policies/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.loretoseniorprimarycrumlin.ie/admin/?open=/parents/opening-times/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.loretoseniorprimarycrumlin.ie/admin/?open=/parents/opening-times/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.loretoseniorprimarycrumlin.ie/admin/?open=/parents/links-690/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.loretoseniorprimarycrumlin.ie/admin/?open=/parents/links-690/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.loretoseniorprimarycrumlin.ie/admin/?open=/parents/hscl/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.loretoseniorprimarycrumlin.ie/admin/?open=/parents/hscl/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.loretoseniorprimarycrumlin.ie/admin/?open=/parents/classes-and-courses-for-parents/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.loretoseniorprimarycrumlin.ie",
+      "label": "School homepage",
+      "via": "home"
+    },
+    {
+      "url": "https://www.loretoseniorprimarycrumlin.ie/documentlink/54/?open=true",
+      "label": "Bi Cinealta Policy 2025.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.loretoseniorprimarycrumlin.ie/parents/application-form/",
+      "label": "Application Form",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.loretoseniorprimarycrumlin.ie/documentlink/45/?open=true",
+      "label": "Attendance Policy.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.loretoseniorprimarycrumlin.ie/documentlink/43/?open=true",
+      "label": "Uniform Policy.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.loretoseniorprimarycrumlin.ie/documentlink/27/?open=true",
+      "label": "Substance Use Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.loretoseniorprimarycrumlin.ie/documentlink/26/?open=true",
+      "label": "Protected Disclosures Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.loretoseniorprimarycrumlin.ie/cmsfiles/policies/privacy/",
+      "label": "Website Privacy Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.loretoseniorprimarycrumlin.ie/cmsfiles/policies/cookie/",
+      "label": "Cookie Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 69.91,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:03:11+0000"
+}

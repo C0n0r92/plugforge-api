@@ -1,0 +1,299 @@
+{
+  "roll": "20608F",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.ddletb.ie/wp-content/uploads/2024/09/DDLETB-In-Numbers-Infographic-Web-Irish.png",
+      "final_url": "https://www.ddletb.ie/wp-content/uploads/2024/09/DDLETB-In-Numbers-Infographic-Web-Irish.png",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "DDLETB In Numbers Infographic Web Irish"
+    },
+    {
+      "url": "https://www.ddletb.ie/wp-content/uploads/2024/06/DDLETB-In-Numbers-Infographic-colour-e1720704957510.jpg",
+      "final_url": "https://www.ddletb.ie/wp-content/uploads/2024/06/DDLETB-In-Numbers-Infographic-colour-e1720704957510.jpg",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "DDLETB In Numbers Infographic colour"
+    },
+    {
+      "url": "https://www.ddletb.ie/wp-content/uploads/2024/02/DDLETB-In-Numbers-Infographic.jpg",
+      "final_url": "https://www.ddletb.ie/wp-content/uploads/2024/02/DDLETB-In-Numbers-Infographic.jpg",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "DDLETB In Numbers Infographic"
+    },
+    {
+      "url": "https://www.ddletb.ie/wp-content/uploads/2024/02/DDLETB-In-Numbers-Infographic-1500.jpg",
+      "final_url": "https://www.ddletb.ie/wp-content/uploads/2024/02/DDLETB-In-Numbers-Infographic-1500.jpg",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "DDLETB In Numbers Infographic 1500"
+    },
+    {
+      "url": "https://www.ddletb.ie/wp-content/uploads/2025/02/DDLETB-In-Numbers-Infographic-2025.jpg",
+      "final_url": "https://www.ddletb.ie/wp-content/uploads/2025/02/DDLETB-In-Numbers-Infographic-2025.jpg",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "DDLETB In Numbers Infographic 2025"
+    },
+    {
+      "url": "https://www.ddletb.ie/wp-content/uploads/2026/05/DDLETB-Special-Schools-Admission-Notice-2026-Blog.jpg",
+      "final_url": "https://www.ddletb.ie/wp-content/uploads/2026/05/DDLETB-Special-Schools-Admission-Notice-2026-Blog.jpg",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "DDLETB Special Schools Admission Notice 2026 Blog"
+    },
+    {
+      "url": "https://www.ddletb.ie/wp-content/uploads/2026/05/DDLETB-Lucan-And-Belmayne-Admission-Notice-26-27-scaled.jpg",
+      "final_url": "https://www.ddletb.ie/wp-content/uploads/2026/05/DDLETB-Lucan-And-Belmayne-Admission-Notice-26-27-scaled.jpg",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "DDLETB Lucan And Belmayne Admission Notice 26 27"
+    },
+    {
+      "url": "https://www.ddletb.ie/wp-content/uploads/2026/05/DDLETB-Lucan-And-Belmayne-Admission-Notice-26-27-1-scaled.jpg",
+      "final_url": "https://www.ddletb.ie/wp-content/uploads/2026/05/DDLETB-Lucan-And-Belmayne-Admission-Notice-26-27-1-scaled.jpg",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "DDLETB Lucan And Belmayne Admission Notice 26 27"
+    },
+    {
+      "url": "https://www.ddletb.ie/wp-content/uploads/2026/04/DDLETB-Special-Schools-Admission-Notice-2026.jpg",
+      "final_url": "https://www.ddletb.ie/wp-content/uploads/2026/04/DDLETB-Special-Schools-Admission-Notice-2026.jpg",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "DDLETB Special Schools Admission Notice 2026"
+    },
+    {
+      "url": "https://www.ddletb.ie/new-community-special-schools-admissions-notice/",
+      "final_url": "https://www.ddletb.ie/new-community-special-schools-admissions-notice/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "New Community Special Schools Admissions Notice May 1, 2026 / by Jennifer Farley"
+    },
+    {
+      "url": "https://www.ddletb.ie/new-community-special-schools-admissions-notice/?s=",
+      "final_url": "https://www.ddletb.ie/new-community-special-schools-admissions-notice/?s=",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Search"
+    },
+    {
+      "url": "https://www.ddletb.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://www.ddletb.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://www.ddletb.ie/wp-content/uploads/2020/01/Citywest-Saggart-CC-Admission-Notice-1.docx",
+      "final_url": "https://www.ddletb.ie/wp-content/uploads/2020/01/Citywest-Saggart-CC-Admission-Notice-1.docx",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Citywest &#038; Saggart CC Admission Notice"
+    },
+    {
+      "url": "https://www.ddletb.ie/wp-content/uploads/2020/01/Blanchardstown-CC-Admission-Notice.docx",
+      "final_url": "https://www.ddletb.ie/wp-content/uploads/2020/01/Blanchardstown-CC-Admission-Notice.docx",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Blanchardstown CC Admission Notice"
+    },
+    {
+      "url": "https://www.ddletb.ie/wp-content/uploads/2020/01/ddletb-Blanchardstown-Admissions.jpg",
+      "final_url": "https://www.ddletb.ie/wp-content/uploads/2020/01/ddletb-Blanchardstown-Admissions.jpg",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "ddletb-Blanchardstown-Admissions"
+    },
+    {
+      "url": "https://www.ddletb.ie/wp-content/uploads/2022/01/1-Admission-Policy-2019.docx",
+      "final_url": "https://www.ddletb.ie/wp-content/uploads/2022/01/1-Admission-Policy-2019.docx",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "1 Admission Policy 2019"
+    },
+    {
+      "url": "https://www.ddletb.ie/wp-content/uploads/2020/01/Blanchardstown-CC-Admission-Policy.pdf",
+      "final_url": "https://www.ddletb.ie/wp-content/uploads/2020/01/Blanchardstown-CC-Admission-Policy.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Blanchardstown CC Admission Policy"
+    },
+    {
+      "url": "https://www.ddletb.ie/wp-content/uploads/2020/01/Admissions-Policy-Of-Citywest-Saggart-Community-College.pdf",
+      "final_url": "https://www.ddletb.ie/wp-content/uploads/2020/01/Admissions-Policy-Of-Citywest-Saggart-Community-College.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Policy Of Citywest &#038; Saggart Community College"
+    },
+    {
+      "url": "https://www.ddletb.ie/wp-content/uploads/2025/05/May2025LucanCSSAdmissionsPolicy.docx",
+      "final_url": "https://www.ddletb.ie/wp-content/uploads/2025/05/May2025LucanCSSAdmissionsPolicy.docx",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "May2025LucanCSSAdmissionsPolicy"
+    },
+    {
+      "url": "https://www.ddletb.ie/wp-content/uploads/2025/05/May2025LucanCSSAdmissionsPolicy-1.docx",
+      "final_url": "https://www.ddletb.ie/wp-content/uploads/2025/05/May2025LucanCSSAdmissionsPolicy-1.docx",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "May2025LucanCSSAdmissionsPolicy"
+    },
+    {
+      "url": "https://www.ddletb.ie/wp-content/uploads/2025/05/May2025BelmayneCSSAdmissionsPolicy.docx",
+      "final_url": "https://www.ddletb.ie/wp-content/uploads/2025/05/May2025BelmayneCSSAdmissionsPolicy.docx",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "May2025BelmayneCSSAdmissionsPolicy"
+    },
+    {
+      "url": "https://www.ddletb.ie/wp-content/uploads/2025/05/May2025BelmayneCSSAdmissionsPolicy-1.docx",
+      "final_url": "https://www.ddletb.ie/wp-content/uploads/2025/05/May2025BelmayneCSSAdmissionsPolicy-1.docx",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "May2025BelmayneCSSAdmissionsPolicy"
+    },
+    {
+      "url": "https://www.ddletb.ie/wp-content/uploads/2026/05/BelmayneCSSAdmissionsPolicy.docx",
+      "final_url": "https://www.ddletb.ie/wp-content/uploads/2026/05/BelmayneCSSAdmissionsPolicy.docx",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "BelmayneCSSAdmissionsPolicy"
+    },
+    {
+      "url": "https://www.ddletb.ie/wp-content/uploads/2026/05/BelmayneCSSAdmissionsPolicy-1.docx",
+      "final_url": "https://www.ddletb.ie/wp-content/uploads/2026/05/BelmayneCSSAdmissionsPolicy-1.docx",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "BelmayneCSSAdmissionsPolicy-1"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "20608F",
+      "url": "https://www.ddletb.ie/wp-content/uploads/2020/01/Citywest-Saggart-CC-Admission-Notice-1.docx",
+      "label": "Citywest &#038; Saggart CC Admission Notice",
+      "sha256": "5e292ade541f994d58321fdc1bd4871b7a280c6efbf6cca79bc51e982b40a1cf",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/20608F_5e292ade541f994d5832.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1883
+    },
+    {
+      "roll": "20608F",
+      "url": "https://www.ddletb.ie/wp-content/uploads/2020/01/Blanchardstown-CC-Admission-Notice.docx",
+      "label": "Blanchardstown CC Admission Notice",
+      "sha256": "3162acf91e2938e6ec68d2b602cadd84d9d1e4a76189cc1145bc8064f17cb2f6",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/20608F_3162acf91e2938e6ec68.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1849
+    },
+    {
+      "roll": "20608F",
+      "url": "https://www.ddletb.ie/wp-content/uploads/2025/05/May2025LucanCSSAdmissionsPolicy.docx",
+      "label": "May2025LucanCSSAdmissionsPolicy",
+      "sha256": "4aa68b0379d08fc8aa60579088c1dab15ccbfec79868b88c08ba8bede7cbd4c9",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/20608F_4aa68b0379d08fc8aa60.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 39588
+    },
+    {
+      "roll": "20608F",
+      "url": "https://www.ddletb.ie/wp-content/uploads/2025/05/May2025LucanCSSAdmissionsPolicy-1.docx",
+      "label": "May2025LucanCSSAdmissionsPolicy",
+      "sha256": "ab5167393bd2e5cd2a0531db6537e31257c836d6bb85972372d687f131354888",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/20608F_ab5167393bd2e5cd2a05.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 38367
+    },
+    {
+      "roll": "20608F",
+      "url": "https://www.ddletb.ie/wp-content/uploads/2025/05/May2025BelmayneCSSAdmissionsPolicy.docx",
+      "label": "May2025BelmayneCSSAdmissionsPolicy",
+      "sha256": "7839a55a16d3748be74c9c8dfa67bf27cb77932bf6c8e25851a9c9d8e0c0a09f",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/20608F_7839a55a16d3748be74c.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 39210
+    },
+    {
+      "roll": "20608F",
+      "url": "https://www.ddletb.ie/wp-content/uploads/2025/05/May2025BelmayneCSSAdmissionsPolicy-1.docx",
+      "label": "May2025BelmayneCSSAdmissionsPolicy",
+      "sha256": "0090f0442d04339b7476f650b55b6ae7a00cfb163b5659983cad1a35cd6e11ff",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/20608F_0090f0442d04339b7476.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 37979
+    },
+    {
+      "roll": "20608F",
+      "url": "https://www.ddletb.ie/wp-content/uploads/2026/05/BelmayneCSSAdmissionsPolicy.docx",
+      "label": "BelmayneCSSAdmissionsPolicy",
+      "sha256": "0d23d492a0ead3e17bb13ad8a3b17ffbd8b29ed18a71858754ac0397816c7670",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/20608F_0d23d492a0ead3e17bb1.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 42366
+    },
+    {
+      "roll": "20608F",
+      "url": "https://www.ddletb.ie/wp-content/uploads/2026/05/BelmayneCSSAdmissionsPolicy-1.docx",
+      "label": "BelmayneCSSAdmissionsPolicy-1",
+      "sha256": "86da3fdead16fbf0f0c9972b22abbf1031775c962c960eeb7a9933d25e869af6",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/20608F_86da3fdead16fbf0f0c9.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 42751
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.ddletb.ie/wp-content/uploads/2026/05/Admissions-Policy-LCSS-2026-2027.docx",
+      "label": "Admissions Policy LCSS 2026-2027",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://www.ddletb.ie/sitemap_index.xml",
+      "label": "Public sitemap",
+      "via": "sitemap_root"
+    },
+    {
+      "url": "https://www.ddletb.ie/sitemap.xml",
+      "label": "Public sitemap",
+      "via": "sitemap_root"
+    },
+    {
+      "url": "https://www.ddletb.ie/sitemap.rss",
+      "label": "Public sitemap",
+      "via": "sitemap_root"
+    },
+    {
+      "url": "https://www.ddletb.ie/corporate/corporate-about-us/publications/publications-policies/",
+      "label": "Policies",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ddletb.ie/balbriggan-community-special-school/",
+      "label": "School homepage",
+      "via": "home"
+    }
+  ],
+  "elapsed_seconds": 86.37,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:48:53+0000"
+}

@@ -1,0 +1,25 @@
+{
+  "roll": "19865S",
+  "capture": {
+    "timestamp": "20260930155401",
+    "original": "https://divinemercyjns.weebly.com/annual-admission-notice.html",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "digest": "KQUK24PG2GZYNUEVBYRLBFXXMJW3AB6G"
+  },
+  "original_url": "https://divinemercyjns.weebly.com/annual-admission-notice.html",
+  "archived_url": "https://web.archive.org/web/20260930155401/https://divinemercyjns.weebly.com/annual-admission-notice.html",
+  "attempted_at": "2026-11-08T12:54:02.964919+00:00",
+  "linked_from_capture": null,
+  "http_status": 200,
+  "headers": {
+    "Content-Type": "text/html; charset=UTF-8",
+    "memento-datetime": "Wed, 30 Sep 2026 15:54:01 GMT"
+  },
+  "bytes": 32388,
+  "payload_sha256": "a86e10e5ea71a801f7791a14190fcdb40b3571a619efeb41e0c8315d679d6c8e",
+  "format": "html",
+  "status": "archived_body_retrieved_requires_manual_evidence_review",
+  "text_file": "database/milestone2/evidence/exact_19865S_a86e10e5ea71a801f779.txt",
+  "linked_document_candidates": []
+}

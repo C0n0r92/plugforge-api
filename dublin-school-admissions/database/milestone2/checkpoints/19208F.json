@@ -1,0 +1,200 @@
+{
+  "roll": "19208F",
+  "status": "bounded_search_no_new_notice_found",
+  "attempts": [
+    {
+      "url": "https://www.holyspiritbns.com/enrol",
+      "final_url": "https://www.holyspiritbns.com/enrol",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Enrolment"
+    },
+    {
+      "url": "https://www.holyspiritbns.com/s/2728-Admissions-Notice-October-2026.pdf",
+      "final_url": "https://static1.squarespace.com/static/6526f41762f7311cf09fb390/t/6ac60f3df9736f08f5695ecb/1791364925129/2728+Admissions+Notice+October+2026.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "2027 Admissions Notice"
+    },
+    {
+      "url": "https://www.holyspiritbns.com/s/DONE-Admission-Policy-September-2026.pdf",
+      "final_url": "https://static1.squarespace.com/static/6526f41762f7311cf09fb390/t/6ac6104533d3715e93469836/1791365189782/DONE+Admission+Policy+September+2026.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "2026 Admission Policy"
+    },
+    {
+      "url": "https://www.holyspiritbns.com/sitemap.xml",
+      "final_url": "https://www.holyspiritbns.com/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.holyspiritbns.com/policies",
+      "final_url": "https://www.holyspiritbns.com/policies",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.holyspiritbns.com/s/HSBNS-Health-Safety-Statement-May-2025.pdf",
+      "final_url": "https://static1.squarespace.com/static/6526f41762f7311cf09fb390/t/685286a143916732c65bc914/1750238881755/HSBNS+Health+%26+Safety+Statement+May+2025.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download"
+    },
+    {
+      "url": "https://www.holyspiritbns.com/s/Notification-of-CSS-2026.pdf",
+      "final_url": "https://static1.squarespace.com/static/6526f41762f7311cf09fb390/t/6ac60ea9b6b8e24a1dc3c37d/1791364777286/Notification+of+CSS+2026.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download"
+    },
+    {
+      "url": "https://www.holyspiritbns.com/s/Child-safeguarding-statement-Sept-2026.pdf",
+      "final_url": "https://static1.squarespace.com/static/6526f41762f7311cf09fb390/t/6ac60e72c226141a0d48a16f/1791364722722/Child+safeguarding+statement+Sept+2026.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download"
+    },
+    {
+      "url": "https://www.holyspiritbns.com/s/Admission-Policy-September-2026.pdf",
+      "final_url": "https://static1.squarespace.com/static/6526f41762f7311cf09fb390/t/6ac60e2c9d96b3365232c4f8/1791364652392/Admission+Policy+September+2026.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download"
+    },
+    {
+      "url": "https://www.holyspiritbns.com/s/Yard-supervision-and-procedures-HSBNS.pdf",
+      "final_url": "https://static1.squarespace.com/static/6526f41762f7311cf09fb390/t/65f1c5e8a46c35510366fbd6/1710343657093/Yard+supervision+and++procedures+HSBNS.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download"
+    },
+    {
+      "url": "https://www.holyspiritbns.com/s/SPHE.pdf",
+      "final_url": "https://static1.squarespace.com/static/6526f41762f7311cf09fb390/t/65f1c5b4552de173d0bc5142/1710343604680/SPHE.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download"
+    },
+    {
+      "url": "https://www.holyspiritbns.com/s/ReligiousEducationFaithDevelopment.pdf",
+      "final_url": "https://static1.squarespace.com/static/6526f41762f7311cf09fb390/t/65f1c572c5608d0798502df1/1710343538501/ReligiousEducation%26FaithDevelopment.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download"
+    },
+    {
+      "url": "https://www.holyspiritbns.com/s/Code-of-Behaviour-HSBNS.pdf",
+      "final_url": "https://static1.squarespace.com/static/6526f41762f7311cf09fb390/t/65f1c4b9a46c355103669fba/1710343354286/Code+of+Behaviour+HSBNS.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download"
+    },
+    {
+      "url": "https://www.holyspiritbns.com/s/Assembly-Dismissal-of-pupils.pdf",
+      "final_url": "https://static1.squarespace.com/static/6526f41762f7311cf09fb390/t/65f1cc538576605ecd9dc7cd/1710345299878/Assembly+%26+Dismissal+of+pupils.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download"
+    },
+    {
+      "url": "https://www.holyspiritbns.com",
+      "final_url": "https://www.holyspiritbns.com",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.holyspiritbns.com/s/Swimming-policy-final-Feb-2022.pdf",
+      "final_url": "https://static1.squarespace.com/static/6526f41762f7311cf09fb390/t/65f1c60411ccbd42eb02cc04/1710343685585/Swimming+policy+final+Feb+2022.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download"
+    },
+    {
+      "url": "https://www.holyspiritbns.com/s/Anti-Bullying-Policy-April-2024.pdf",
+      "final_url": "https://static1.squarespace.com/static/6526f41762f7311cf09fb390/t/6718f3bbf02fd270e2e4d8fa/1729688507528/Anti+Bullying+Policy+April+2024.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download"
+    },
+    {
+      "url": "https://www.holyspiritbns.com/s/HSBNS-Bi-Cinealta-Policy-May-2025.pdf",
+      "final_url": "https://static1.squarespace.com/static/6526f41762f7311cf09fb390/t/68528ae102bb70469c314a2a/1750239975211/HSBNS+B%C3%AD+Cine%C3%A1lta+Policy+May+2025.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download"
+    },
+    {
+      "url": "https://www.holyspiritbns.com/s/Critical-incident-policy-HSBNS-May-2025.pdf",
+      "final_url": "https://static1.squarespace.com/static/6526f41762f7311cf09fb390/t/68528ac5c685c35fb267bdd4/1750239943568/Critical+incident+policy+HSBNS+May+2025.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download"
+    },
+    {
+      "url": "https://www.holyspiritbns.com/s/Bi-Cinealta-student-friendly-policy-HSBNS-May-2025.pdf",
+      "final_url": "https://static1.squarespace.com/static/6526f41762f7311cf09fb390/t/685287d77ab2f44297503ab9/1750239192814/Bi+Cinealta+student+friendly+policy+HSBNS+May+2025.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download"
+    },
+    {
+      "url": "https://www.holyspiritbns.com/s/2027-all-other-class-levels-application-form-HSBNS.pdf",
+      "final_url": "https://static1.squarespace.com/static/6526f41762f7311cf09fb390/t/6ac60fb933d3715e9346594c/1791365049765/2027+all+other+class+levels+application+form+HSBNS.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "2027 All other class levels application form"
+    },
+    {
+      "url": "https://www.holyspiritbns.com/s/2027-Junior-Infants-Application-Form-HSBNS.pdf",
+      "final_url": "https://static1.squarespace.com/static/6526f41762f7311cf09fb390/t/6ac60f70f9736f08f5697480/1791364976667/2027+Junior+Infants+Application+Form+HSBNS.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "2027 Junior Infants Application Form"
+    },
+    {
+      "url": "https://www.holyspiritbns.com/s/2027-Autism-Class-Application-Form-HSBNS.pdf",
+      "final_url": "https://static1.squarespace.com/static/6526f41762f7311cf09fb390/t/6ac60fe33774c37289ebdfd9/1791365091500/2027+Autism+Class+Application+Form+HSBNS.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "2027 Autism Class Application form"
+    },
+    {
+      "url": "https://www.holyspiritbns.com/s/Stay-Safe-policy.pdf",
+      "final_url": "https://static1.squarespace.com/static/6526f41762f7311cf09fb390/t/65f1c58d49bddf13c0659b1e/1710343566248/Stay+Safe+policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download"
+    }
+  ],
+  "documents": [],
+  "pending_links": [
+    {
+      "url": "https://www.holyspiritbns.com/s/Medication-Policy.pdf",
+      "label": "Download",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holyspiritbns.com/s/Homework-Policy.pdf",
+      "label": "Download",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holyspiritbns.com/s/Holy-Spirit-BNS-Mobile-Phone-Policy.pdf",
+      "label": "Download",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holyspiritbns.com/s/Animal-Policy.pdf",
+      "label": "Download",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 71.46,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:55:10+0000"
+}

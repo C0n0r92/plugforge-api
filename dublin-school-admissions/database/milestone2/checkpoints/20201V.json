@@ -1,0 +1,284 @@
+{
+  "roll": "20201V",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://tetns.ie/about-our-school/enrolment/",
+      "final_url": "https://tetns.ie/about-our-school/enrolment/",
+      "status": "transient_ConnectTimeout",
+      "via": "prior_public_admissions_landing",
+      "label": "Enrolment"
+    },
+    {
+      "url": "https://tetns.ie/?s=admission",
+      "final_url": "https://tetns.ie/?s=admission",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Public site search form"
+    },
+    {
+      "url": "https://tetns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://tetns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://tetns.ie/wp-content/uploads/2026/10/Admissions-Notice-2026-1.pdf",
+      "final_url": "https://tetns.ie/wp-content/uploads/2026/10/Admissions-Notice-2026-1.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Notice 2026"
+    },
+    {
+      "url": "https://tetns.ie/wp-content/uploads/2026/10/Admissions-Policy-including-autism-classes-2027_28.pdf",
+      "final_url": "https://tetns.ie/wp-content/uploads/2026/10/Admissions-Policy-including-autism-classes-2027_28.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Policy (including autism classes) 2027_28"
+    },
+    {
+      "url": "https://www.tetns.ie",
+      "final_url": "https://www.tetns.ie",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://tetns.ie/wp-sitemap.xml",
+      "final_url": "https://tetns.ie/wp-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://tetns.ie/wp-sitemap-posts-post-1.xml",
+      "final_url": "https://tetns.ie/wp-sitemap-posts-post-1.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://tetns.ie/wp-sitemap-posts-page-1.xml",
+      "final_url": "https://tetns.ie/wp-sitemap-posts-page-1.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://tetns.ie/parents/the-school-day/",
+      "final_url": "https://tetns.ie/parents/the-school-day/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "The school day"
+    },
+    {
+      "url": "https://tetns.ie/wp-content/uploads/2016/09/Healthy-Eating-v2.0.pdf",
+      "final_url": "https://tetns.ie/wp-content/uploads/2016/09/Healthy-Eating-v2.0.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Healthy Eating Policy"
+    },
+    {
+      "url": "https://tetns.ie/parents/the-lunch-bag/",
+      "final_url": "https://tetns.ie/parents/the-lunch-bag/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "The Lunch Bag"
+    },
+    {
+      "url": "https://tetns.ie/parents/starting-school-for-the-first-time/",
+      "final_url": "https://tetns.ie/parents/starting-school-for-the-first-time/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Starting school for the first time"
+    },
+    {
+      "url": "https://tetns.ie/parents/school-calendar/",
+      "final_url": "https://tetns.ie/parents/school-calendar/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School calendar"
+    },
+    {
+      "url": "https://tetns.ie/parents/school-app/",
+      "final_url": "https://tetns.ie/parents/school-app/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School App"
+    },
+    {
+      "url": "https://tetns.ie/parents/parents-association/",
+      "final_url": "https://tetns.ie/parents/parents-association/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents’ Association"
+    },
+    {
+      "url": "https://tetns.ie/parents/homework/",
+      "final_url": "https://tetns.ie/parents/homework/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Homework"
+    },
+    {
+      "url": "https://tetns.ie/wp-content/uploads/2016/09/Homework-Policy-v2.0.pdf",
+      "final_url": "https://tetns.ie/wp-content/uploads/2016/09/Homework-Policy-v2.0.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Homework"
+    },
+    {
+      "url": "https://tetns.ie/parents/healthy-eating/",
+      "final_url": "https://tetns.ie/parents/healthy-eating/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Healthy eating"
+    },
+    {
+      "url": "https://tetns.ie/parents/attendance/",
+      "final_url": "https://tetns.ie/parents/attendance/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Attendance"
+    },
+    {
+      "url": "https://tetns.ie/parents/",
+      "final_url": "https://tetns.ie/parents/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents"
+    },
+    {
+      "url": "https://tetns.ie/about-our-school/school-policies/",
+      "final_url": "https://tetns.ie/about-our-school/school-policies/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School policies"
+    },
+    {
+      "url": "https://tetns.ie/wp-content/uploads/2016/09/ICT-Acceptable-Usage-Policy-v0.2.pdf",
+      "final_url": "https://tetns.ie/wp-content/uploads/2016/09/ICT-Acceptable-Usage-Policy-v0.2.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "ICT Acceptable Usage Policy"
+    },
+    {
+      "url": "http://www.tetns.ie/parents/the-school-day/",
+      "final_url": "http://www.tetns.ie/parents/the-school-day/",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "the school day"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "20201V",
+      "url": "https://tetns.ie/?s=admission",
+      "label": "Public site search form",
+      "sha256": "1263145becac54d3d5e24f377995d6088bafc95e3a48302174784da5f3403f7c",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20201V_1263145becac54d3d5e2.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 227
+    },
+    {
+      "roll": "20201V",
+      "url": "https://tetns.ie/wp-content/uploads/2026/10/Admissions-Notice-2026-1.pdf",
+      "label": "Admissions Notice 2026",
+      "sha256": "6e2b4a2e29bcf233a84479bee750bac3ee7fd035c1224d99608cfe2191648370",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20201V_6e2b4a2e29bcf233a844.txt",
+      "source_file": "database/milestone2/cache/6e2b4a2e29bcf233a84479bee750bac3ee7fd035c1224d99608cfe2191648370.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 7805
+    },
+    {
+      "roll": "20201V",
+      "url": "https://tetns.ie/wp-content/uploads/2026/10/Admissions-Policy-including-autism-classes-2027_28.pdf",
+      "label": "Admissions Policy (including autism classes) 2027_28",
+      "sha256": "45627682dab4c834c51947f6f54d1c28d33ca3a4825beb471daffcff199228e6",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20201V_45627682dab4c834c519.txt",
+      "source_file": "database/milestone2/cache/45627682dab4c834c51947f6f54d1c28d33ca3a4825beb471daffcff199228e6.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 24781
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "http://www.tetns.ie/parents/school-calendar/",
+      "label": "upcoming events",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://tetns.ie/wp-content/uploads/2026/01/Whole-School-Fire-Drill-Evacuation-Procedure_Policy.pdf",
+      "label": "Fire Procedures Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://tetns.ie/wp-content/uploads/2026/01/Supervision-Policy.pdf",
+      "label": "Supervision Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://tetns.ie/wp-content/uploads/2026/01/Substance-Use-Policy.pdf",
+      "label": "Substance Use Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://tetns.ie/wp-content/uploads/2026/01/RSE-School-Plan.pdf",
+      "label": "Relationships and Sexuality Education (RSE) Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://tetns.ie/wp-content/uploads/2026/01/Homework-Policy.pdf",
+      "label": "Homework Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://tetns.ie/wp-content/uploads/2026/01/Healthy-Eating-Policy.pdf",
+      "label": "Healthy Eating Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://tetns.ie/wp-content/uploads/2026/01/Health-and-Safety-Policy.pdf",
+      "label": "Health and Safety Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://tetns.ie/wp-content/uploads/2026/01/Fundraising-Policy.pdf",
+      "label": "Fund Raising Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://tetns.ie/wp-content/uploads/2026/01/Data-Protection-Policy.pdf",
+      "label": "Data Protection Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://tetns.ie/wp-content/uploads/2026/01/Critical-Incident-Policy.pdf",
+      "label": "Critical Incident Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://tetns.ie/wp-content/uploads/2026/01/Bi-Cinealta-Policy-to-Prevent-and-Address-Bullying-Behaviour.pdf",
+      "label": "Bí Cineálta Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://tetns.ie/wp-content/uploads/2026/01/Attendance-Policy.pdf",
+      "label": "Attendance Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://tetns.ie/wp-content/uploads/2026/01/Anti-Bullying-Policy.pdf",
+      "label": "Antibullying Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 80.99,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:11:44+0000"
+}

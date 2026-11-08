@@ -1,0 +1,156 @@
+{
+  "roll": "19663G",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.straphaels.ie",
+      "final_url": "https://www.straphaels.ie",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.straphaels.ie/sitemap.xml",
+      "final_url": "https://www.straphaels.ie/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.straphaels.ie/page/Policies/1085221/Index.html",
+      "final_url": "https://www.straphaels.ie/page/Policies/1085221/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://storage.googleapis.com/iclasscrm_files/2377/Images/Content/2026/29/ze91-5._Sept_25_Admission_Policy.pdf",
+      "final_url": "https://storage.googleapis.com/iclasscrm_files/2377/Images/Content/2026/29/ze91-5._Sept_25_Admission_Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admission Policy"
+    },
+    {
+      "url": "https://www.StRaphaels.ie/Content/2022/6/eo15-Critical_Incident_Policy_2017.pdf",
+      "final_url": "https://www.StRaphaels.ie/Content/2022/6/eo15-Critical_Incident_Policy_2017.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Critical Incident Policy"
+    },
+    {
+      "url": "https://www.StRaphaels.ie/Content/2022/6/wq86-Stay_Safe_Policy_2018_1.pdf",
+      "final_url": "https://www.StRaphaels.ie/Content/2022/6/wq86-Stay_Safe_Policy_2018_1.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Stay Safe Policy"
+    },
+    {
+      "url": "https://www.StRaphaels.ie/Content/2022/6/qd61-ADMINISTRATION_OF_MEDICATION_POLICY_ST_Raphaels_NS_for_Parents_Sept_2018.pdf",
+      "final_url": "https://www.StRaphaels.ie/Content/2022/6/qd61-ADMINISTRATION_OF_MEDICATION_POLICY_ST_Raphaels_NS_for_Parents_Sept_2018.pdf",
+      "status": "http_404",
+      "via": "school_public_link",
+      "label": "Administration of Medications Policy"
+    },
+    {
+      "url": "https://www.StRaphaels.ie/Content/2022/6/hs37-Data_Protection_Policy_2018.pdf",
+      "final_url": "https://www.StRaphaels.ie/Content/2022/6/hs37-Data_Protection_Policy_2018.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Data Protection Policy"
+    },
+    {
+      "url": "https://www.straphaels.ie/Parents/Index.html",
+      "final_url": "https://www.straphaels.ie/Parents/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parent's Zone"
+    },
+    {
+      "url": "https://www.straphaels.ie/Parents/Zoom-Ahead-With-Reading/1096115/Index.html",
+      "final_url": "https://www.straphaels.ie/Parents/Zoom-Ahead-With-Reading/1096115/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Zoom Ahead With Reading"
+    },
+    {
+      "url": "https://www.StRaphaels.ie/Content/2022/6/rn64-RSE_Policy.pdf",
+      "final_url": "https://www.StRaphaels.ie/Content/2022/6/rn64-RSE_Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "RSE Policy"
+    },
+    {
+      "url": "https://www.StRaphaels.ie/Content/2022/6/kz39-Protected_Disclosures_Policy.pdf",
+      "final_url": "https://www.StRaphaels.ie/Content/2022/6/kz39-Protected_Disclosures_Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Protected Disclosure Policy"
+    },
+    {
+      "url": "https://www.StRaphaels.ie/Content/2024/12/pj53-ParentalComplaintsProcedure_V4final.pdf?17052",
+      "final_url": "https://www.StRaphaels.ie/Content/2024/12/pj53-ParentalComplaintsProcedure_V4final.pdf?17052",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parental Complaints Procedure Policy"
+    },
+    {
+      "url": "https://www.StRaphaels.ie/Page/Terms,-Conditions-and-Privacy-Policy/1082707/Index.html",
+      "final_url": "https://www.StRaphaels.ie/Page/Terms,-Conditions-and-Privacy-Policy/1082707/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Terms, Conditions and Privacy Policy"
+    },
+    {
+      "url": "https://www.StRaphaels.ie/sitemap.xml",
+      "final_url": "https://www.StRaphaels.ie/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.StRaphaels.ie/page/Policies/1085221/Index.html",
+      "final_url": "https://www.StRaphaels.ie/page/Policies/1085221/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.StRaphaels.ie/Parents/Index.html",
+      "final_url": "https://www.StRaphaels.ie/Parents/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parent's Zone"
+    },
+    {
+      "url": "https://www.StRaphaels.ie/Parents/Zoom-Ahead-With-Reading/1096115/Index.html",
+      "final_url": "https://www.StRaphaels.ie/Parents/Zoom-Ahead-With-Reading/1096115/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Zoom Ahead With Reading"
+    },
+    {
+      "url": "https://www.StRaphaels.ie/Page/Cookie-Policy/1082288/Index.html",
+      "final_url": "https://www.StRaphaels.ie/Page/Cookie-Policy/1082288/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Cookie Policy"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19663G",
+      "url": "https://storage.googleapis.com/iclasscrm_files/2377/Images/Content/2026/29/ze91-5._Sept_25_Admission_Policy.pdf",
+      "label": "Admission Policy",
+      "sha256": "c8d608899e6c315a72e51cb21ccd6c541b71fea486854e790ae139ade49f04ee",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19663G_c8d608899e6c315a72e5.txt",
+      "source_file": "database/milestone2/cache/c8d608899e6c315a72e51cb21ccd6c541b71fea486854e790ae139ade49f04ee.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 21495
+    }
+  ],
+  "pending_links": [],
+  "elapsed_seconds": 64.22,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:08:44+0000"
+}

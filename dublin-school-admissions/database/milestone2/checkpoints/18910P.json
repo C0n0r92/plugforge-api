@@ -1,0 +1,188 @@
+{
+  "roll": "18910P",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.olvboys.com/uploads/1/2/7/7/127749954/1._admission_policy_2023_bns_signed_copy_.docx",
+      "final_url": "https://www.olvboys.com/uploads/1/2/7/7/127749954/1._admission_policy_2023_bns_signed_copy_.docx",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://www.olvboys.com/uploads/1/2/7/7/127749954/admissions_policy_o.l.v._b.n.s._2025.docx",
+      "final_url": "https://www.olvboys.com/uploads/1/2/7/7/127749954/admissions_policy_o.l.v._b.n.s._2025.docx",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://www.olvboys.com",
+      "final_url": "https://www.olvboys.com",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.olvboys.com/uploads/1/2/7/7/127749954/_application_enrolment_2026_2027.docx",
+      "final_url": "https://www.olvboys.com/uploads/1/2/7/7/127749954/_application_enrolment_2026_2027.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Application_Enrolment_2026/27"
+    },
+    {
+      "url": "https://www.olvboys.com/policies.html",
+      "final_url": "https://www.olvboys.com/policies.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.olvboys.com/uploads/1/2/7/7/127749954/risk_assessment.docx",
+      "final_url": "https://www.olvboys.com/uploads/1/2/7/7/127749954/risk_assessment.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: Risk Assessment 2019- Present - Reviewed on a Yearly Basis"
+    },
+    {
+      "url": "https://www.olvboys.com/uploads/1/2/7/7/127749954/physical_intervention_with_pupils.doc",
+      "final_url": "https://www.olvboys.com/uploads/1/2/7/7/127749954/physical_intervention_with_pupils.doc",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: Physical Intervention with Pupils 2024- Present "
+    },
+    {
+      "url": "https://www.olvboys.com/uploads/1/2/7/7/127749954/olv_bns_2024_child_safeguarding_statement_and_risk_assessment.docx",
+      "final_url": "https://www.olvboys.com/uploads/1/2/7/7/127749954/olv_bns_2024_child_safeguarding_statement_and_risk_assessment.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: 2024- Present Child Safeguarding Statement and Risk Assessment "
+    },
+    {
+      "url": "https://www.olvboys.com/uploads/1/2/7/7/127749954/digital_learning_plan.docx",
+      "final_url": "https://www.olvboys.com/uploads/1/2/7/7/127749954/digital_learning_plan.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: Digital Learning Plan 2024- Present "
+    },
+    {
+      "url": "https://www.olvboys.com/uploads/1/2/7/7/127749954/code_of_behaviour.docx",
+      "final_url": "https://www.olvboys.com/uploads/1/2/7/7/127749954/code_of_behaviour.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: Code of Behaviour 2024- Present "
+    },
+    {
+      "url": "https://www.olvboys.com/uploads/1/2/7/7/127749954/whistleblowing__protected_disclosures__policy_2020.doc",
+      "final_url": "https://www.olvboys.com/uploads/1/2/7/7/127749954/whistleblowing__protected_disclosures__policy_2020.doc",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: Whistleblowing Protected Disclosures Policy 2024- Present "
+    },
+    {
+      "url": "https://www.olvboys.com/parents.html",
+      "final_url": "https://www.olvboys.com/parents.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents"
+    },
+    {
+      "url": "http://www.olvboys.com/sitemap.xml",
+      "final_url": "http://www.olvboys.com/sitemap.xml",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.olvboys.com/uploads/1/2/7/7/127749954/parents_complaints_policy_2021_.docx",
+      "final_url": "https://www.olvboys.com/uploads/1/2/7/7/127749954/parents_complaints_policy_2021_.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: Parents Complaints Policy 2021- Present "
+    },
+    {
+      "url": "https://www.olvboys.com/uploads/1/2/7/7/127749954/data_protection_policy_2022_bns_.docx",
+      "final_url": "https://www.olvboys.com/uploads/1/2/7/7/127749954/data_protection_policy_2022_bns_.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Data_Protection_Policy_2022"
+    },
+    {
+      "url": "https://www.olvboys.com/uploads/1/2/7/7/127749954/substance_use_policy_.docx",
+      "final_url": "https://www.olvboys.com/uploads/1/2/7/7/127749954/substance_use_policy_.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: Substance Use Policy 2024- Present"
+    },
+    {
+      "url": "https://www.olvboys.com/uploads/1/2/7/7/127749954/emergency_closures_policy.docx",
+      "final_url": "https://www.olvboys.com/uploads/1/2/7/7/127749954/emergency_closures_policy.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: Emergency Closures Policy 2024- Present"
+    },
+    {
+      "url": "https://www.olvboys.com/uploads/1/2/7/7/127749954/dignity_at_work_policy.docx",
+      "final_url": "https://www.olvboys.com/uploads/1/2/7/7/127749954/dignity_at_work_policy.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: Dignity at Work Policy 2024- Present "
+    },
+    {
+      "url": "https://www.olvboys.com/uploads/1/2/7/7/127749954/custody_and_separation_policy_for_parents_bns.docx",
+      "final_url": "https://www.olvboys.com/uploads/1/2/7/7/127749954/custody_and_separation_policy_for_parents_bns.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: Custody and Seperation Policy for Parents 2024- Present "
+    },
+    {
+      "url": "https://www.olvboys.com/uploads/1/2/7/7/127749954/covid_policy_statement_2024-_present.docx",
+      "final_url": "https://www.olvboys.com/uploads/1/2/7/7/127749954/covid_policy_statement_2024-_present.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: Covid Policy Statement 2024- Present "
+    },
+    {
+      "url": "https://www.olvboys.com/uploads/1/2/7/7/127749954/acceptable_use_policy_2024-_present.docx",
+      "final_url": "https://www.olvboys.com/uploads/1/2/7/7/127749954/acceptable_use_policy_2024-_present.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: Acceptable Use Policy 2024- Present "
+    },
+    {
+      "url": "https://www.olvboys.com/uploads/1/2/7/7/127749954/critical_incident_policy.docx",
+      "final_url": "https://www.olvboys.com/uploads/1/2/7/7/127749954/critical_incident_policy.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: Critical Incident Policy"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "18910P",
+      "url": "https://www.olvboys.com/uploads/1/2/7/7/127749954/1._admission_policy_2023_bns_signed_copy_.docx",
+      "label": "Prior school admissions section",
+      "sha256": "db93d043f25ecf276559042b037b0775dded7a480c4fdfed39f98f9ca5307c0b",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/18910P_db93d043f25ecf276559.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 20578
+    },
+    {
+      "roll": "18910P",
+      "url": "https://www.olvboys.com/uploads/1/2/7/7/127749954/admissions_policy_o.l.v._b.n.s._2025.docx",
+      "label": "Prior school admissions section",
+      "sha256": "d6d53f14d59dad7b330ec918018459998f9caa85bc95be17184ae1f0a786650d",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/18910P_d6d53f14d59dad7b330e.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 20578
+    }
+  ],
+  "pending_links": [],
+  "elapsed_seconds": 61.77,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:54:18+0000"
+}

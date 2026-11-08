@@ -1,0 +1,225 @@
+{
+  "roll": "19565G",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.scoiltreasa.ie/admissions-2027-2028",
+      "final_url": "https://www.scoiltreasa.ie/admissions-2027-2028",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions 2027/ 2028"
+    },
+    {
+      "url": "https://www.scoiltreasa.ie/_files/ugd/e1ba7b_996f9f6d90b4423aaf87a2d090836b0f.docx?dn=Admission%20Policy%20for%20Autism%20Class%20Scoil%20Treasa%20December%202024.docx",
+      "final_url": "https://www.scoiltreasa.ie/_files/ugd/e1ba7b_996f9f6d90b4423aaf87a2d090836b0f.docx?dn=Admission%20Policy%20for%20Autism%20Class%20Scoil%20Treasa%20December%202024.docx",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://www.scoiltreasa.ie/_files/ugd/e1ba7b_6bb8bd77565749b68457e3adc93b1cee.docx?dn=Scoil%20Treasa%20Firhouse%20Admissions%20Policy%202025-2026.docx",
+      "final_url": "https://www.scoiltreasa.ie/_files/ugd/e1ba7b_6bb8bd77565749b68457e3adc93b1cee.docx?dn=Scoil%20Treasa%20Firhouse%20Admissions%20Policy%202025-2026.docx",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://www.scoiltreasa.ie/sitemap.xml",
+      "final_url": "https://www.scoiltreasa.ie/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.scoiltreasa.ie/school-policies-1",
+      "final_url": "https://www.scoiltreasa.ie/school-policies-1",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Policies"
+    },
+    {
+      "url": "https://www.scoiltreasa.ie/pages-sitemap.xml",
+      "final_url": "https://www.scoiltreasa.ie/pages-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.scoiltreasa.ie/enrolment-form",
+      "final_url": "https://www.scoiltreasa.ie/enrolment-form",
+      "status": "ok",
+      "via": "sitemap_link",
+      "label": "Admission URL from sitemap"
+    },
+    {
+      "url": "https://www.scoiltreasa.ie/copy-of-enrolment-form",
+      "final_url": "https://www.scoiltreasa.ie/copy-of-enrolment-form",
+      "status": "ok",
+      "via": "sitemap_link",
+      "label": "Admission URL from sitemap"
+    },
+    {
+      "url": "https://www.scoiltreasa.ie/enrolment-policy",
+      "final_url": "https://www.scoiltreasa.ie/enrolment-policy",
+      "status": "ok",
+      "via": "sitemap_link",
+      "label": "Admission URL from sitemap"
+    },
+    {
+      "url": "https://www.scoiltreasa.ie/copy-of-admissions-policy",
+      "final_url": "https://www.scoiltreasa.ie/copy-of-admissions-policy",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Consent for Google for Education"
+    },
+    {
+      "url": "https://www.scoiltreasa.ie/_files/ugd/a80d21_8aa164382b03410998d6694dfd925bc9.docx?dn=Google%20Consent%20website.docx",
+      "final_url": "https://ef6d515c-04a5-492e-ad9e-5565abff021e.filesusr.com/ugd/a80d21_8aa164382b03410998d6694dfd925bc9.docx?dn=Google%20Consent%20website.docx",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "Google Consent website.docx"
+    },
+    {
+      "url": "https://www.scoiltreasa.ie/admissions-policy-draft",
+      "final_url": "https://www.scoiltreasa.ie/admissions-policy-draft",
+      "status": "ok",
+      "via": "sitemap_link",
+      "label": "Admission URL from sitemap"
+    },
+    {
+      "url": "https://www.scoiltreasa.ie/_files/ugd/e1ba7b_1c015a8278ea45acb135211a67de98a5.doc?dn=Application%20Form%202027-2028.doc",
+      "final_url": "https://www.scoiltreasa.ie/_files/ugd/e1ba7b_1c015a8278ea45acb135211a67de98a5.doc?dn=Application%20Form%202027-2028.doc",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Application Form 2027 - 2028"
+    },
+    {
+      "url": "https://www.scoiltreasa.ie/",
+      "final_url": "https://www.scoiltreasa.ie/",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.scoiltreasa.ie/_files/ugd/e1ba7b_34456ab68bbe48fcbd980f55d857636c.pdf",
+      "final_url": "https://www.scoiltreasa.ie/_files/ugd/e1ba7b_34456ab68bbe48fcbd980f55d857636c.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions Policy 2027 - 2028"
+    },
+    {
+      "url": "https://www.scoiltreasa.ie/_files/ugd/a80d21_7b4f736dcfae49e1a995f9c933672409.docx?dn=Bi%20Cinealta%20Policy.docx",
+      "final_url": "https://ef6d515c-04a5-492e-ad9e-5565abff021e.filesusr.com/ugd/a80d21_7b4f736dcfae49e1a995f9c933672409.docx?dn=Bi%20Cinealta%20Policy.docx",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "Bí Cinéalta Policy"
+    },
+    {
+      "url": "https://www.scoiltreasa.ie/stay-safe-programme-policy",
+      "final_url": "https://www.scoiltreasa.ie/stay-safe-programme-policy",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Stay Safe Programme Policy"
+    },
+    {
+      "url": "https://www.scoiltreasa.ie/r-s-e-policy-statement",
+      "final_url": "https://www.scoiltreasa.ie/r-s-e-policy-statement",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "R.S.E. Policy Statement"
+    },
+    {
+      "url": "https://www.scoiltreasa.ie/internet-acceptable-user-policy",
+      "final_url": "https://www.scoiltreasa.ie/internet-acceptable-user-policy",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Internet - Acceptable User Policy"
+    },
+    {
+      "url": "https://www.scoiltreasa.ie/_files/ugd/a80d21_a22f9820368041198ff1e8e423962fce.docx?dn=AUP%20_%20Updated%2011%20Sept%2024.docx",
+      "final_url": "https://ef6d515c-04a5-492e-ad9e-5565abff021e.filesusr.com/ugd/a80d21_a22f9820368041198ff1e8e423962fce.docx?dn=AUP%20_%20Updated%2011%20Sept%2024.docx",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "Internet - Acceptable User Policy"
+    },
+    {
+      "url": "https://www.scoiltreasa.ie/_files/ugd/a80d21_6b21ee60e4204dfcbbe50652879a2559.pptx?dn=Student%20B%C3%AD%20Cine%C3%A1lta%20Policy.pptx",
+      "final_url": "https://ef6d515c-04a5-492e-ad9e-5565abff021e.filesusr.com/ugd/a80d21_6b21ee60e4204dfcbbe50652879a2559.pptx?dn=Student%20B%C3%AD%20Cine%C3%A1lta%20Policy.pptx",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "Student Bí Cinéalta Policy"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19565G",
+      "url": "https://www.scoiltreasa.ie/admissions-2027-2028",
+      "label": "Admissions 2027/ 2028",
+      "sha256": "ba3a648865e40f0871325622d1be8d9b6c00603cd58517b5ce781bb99abeddf2",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19565G_ba3a648865e40f087132.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 100
+    },
+    {
+      "roll": "19565G",
+      "url": "https://www.scoiltreasa.ie/_files/ugd/e1ba7b_996f9f6d90b4423aaf87a2d090836b0f.docx?dn=Admission%20Policy%20for%20Autism%20Class%20Scoil%20Treasa%20December%202024.docx",
+      "label": "Prior school admissions section",
+      "sha256": "2bf994fafdb6bf5538cb124ded8f990e5b7dc2afda55d4c4a4f59e621cb14b24",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/19565G_2bf994fafdb6bf5538cb.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 22833
+    },
+    {
+      "roll": "19565G",
+      "url": "https://www.scoiltreasa.ie/_files/ugd/e1ba7b_6bb8bd77565749b68457e3adc93b1cee.docx?dn=Scoil%20Treasa%20Firhouse%20Admissions%20Policy%202025-2026.docx",
+      "label": "Prior school admissions section",
+      "sha256": "1f7d9db936bd820bbb2ca858d77dc9ad691a3f889355be9005de340e7c808ebc",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/19565G_1f7d9db936bd820bbb2c.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 17429
+    },
+    {
+      "roll": "19565G",
+      "url": "https://www.scoiltreasa.ie/school-policies-1",
+      "label": "School Policies",
+      "sha256": "8642fa7bcc29b86717a3545ceb424c2aea4cddc5f3b14d0ded96729d5ce3874d",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19565G_8642fa7bcc29b86717a3.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 243
+    },
+    {
+      "roll": "19565G",
+      "url": "https://www.scoiltreasa.ie/",
+      "label": "School homepage",
+      "sha256": "cf153b70a420ad1d00d06e9351927252a9acf922f80065e4bc3eed9c06bfe20b",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19565G_cf153b70a420ad1d00d0.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 3236
+    },
+    {
+      "roll": "19565G",
+      "url": "https://www.scoiltreasa.ie/_files/ugd/e1ba7b_34456ab68bbe48fcbd980f55d857636c.pdf",
+      "label": "Admissions Policy 2027 - 2028",
+      "sha256": "5c2459ce3254d01ff45653ee421c75d0f17f2bf37b6ffdd71dee637fd728f9d8",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19565G_5c2459ce3254d01ff456.txt",
+      "source_file": "database/milestone2/cache/5c2459ce3254d01ff45653ee421c75d0f17f2bf37b6ffdd71dee637fd728f9d8.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 24413
+    }
+  ],
+  "pending_links": [],
+  "elapsed_seconds": 63.27,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:46:21+0000"
+}

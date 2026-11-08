@@ -1,0 +1,142 @@
+{
+  "roll": "19617W",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.smdpns.com",
+      "final_url": "https://www.smdpns.com",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.smdpns.com/_files/ugd/fbd1b3_e6a805c4604f438fb1c5f554a5566231.pdf",
+      "final_url": "https://www.smdpns.com/_files/ugd/fbd1b3_e6a805c4604f438fb1c5f554a5566231.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions Policy"
+    },
+    {
+      "url": "https://www.smdpns.com/_files/ugd/fbd1b3_8603400e0b1e4c19befcdb30ba91ad37.pdf",
+      "final_url": "https://www.smdpns.com/_files/ugd/fbd1b3_8603400e0b1e4c19befcdb30ba91ad37.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "General Enrolment Application Form 26/27"
+    },
+    {
+      "url": "https://www.smdpns.com/sitemap.xml",
+      "final_url": "https://www.smdpns.com/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.smdpns.com/policies-1",
+      "final_url": "https://www.smdpns.com/policies-1",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.smdpns.com/parents",
+      "final_url": "https://www.smdpns.com/parents",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "PARENTS"
+    },
+    {
+      "url": "https://www.smdpns.com/pages-sitemap.xml",
+      "final_url": "https://www.smdpns.com/pages-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.smdpns.com/blog-posts-sitemap.xml",
+      "final_url": "https://www.smdpns.com/blog-posts-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.smdpns.com/blog-categories-sitemap.xml",
+      "final_url": "https://www.smdpns.com/blog-categories-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.smdpns.com/_files/ugd/fbd1b3_9e4eb2befc6f4c8eb8924616f45bd996.pdf",
+      "final_url": "https://www.smdpns.com/_files/ugd/fbd1b3_9e4eb2befc6f4c8eb8924616f45bd996.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "ATTENDANCE POLICY 2025/2026"
+    },
+    {
+      "url": "https://www.smdpns.com/_files/ugd/fbd1b3_be8953cadde841a8aec1de2026cfe476.pdf",
+      "final_url": "https://www.smdpns.com/_files/ugd/fbd1b3_be8953cadde841a8aec1de2026cfe476.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "ADMINISTRATION OF MEDICINES POLICY"
+    },
+    {
+      "url": "https://www.smdpns.com/_files/ugd/fbd1b3_b29d14c0068f4daaadc065311e5007e4.pdf",
+      "final_url": "https://www.smdpns.com/_files/ugd/fbd1b3_b29d14c0068f4daaadc065311e5007e4.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Child Friendly Bí Cineálta Policy"
+    },
+    {
+      "url": "https://www.smdpns.com/_files/ugd/fbd1b3_ad8c5a013c474e7c8c1a71aca7b2f005.pdf",
+      "final_url": "https://www.smdpns.com/_files/ugd/fbd1b3_ad8c5a013c474e7c8c1a71aca7b2f005.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Mobile Phone & Smart Devices Policy"
+    },
+    {
+      "url": "https://www.smdpns.com/_files/ugd/fbd1b3_a8253fd2553049878179b78a2834ed30.pdf",
+      "final_url": "https://www.smdpns.com/_files/ugd/fbd1b3_a8253fd2553049878179b78a2834ed30.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Bí Cineálta Policy"
+    },
+    {
+      "url": "https://www.smdpns.com/_files/ugd/fbd1b3_94fcb1e57ebf43bd9b4343b47c2d7457.pdf",
+      "final_url": "https://www.smdpns.com/_files/ugd/fbd1b3_94fcb1e57ebf43bd9b4343b47c2d7457.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "ASSESSMENT POLICY"
+    },
+    {
+      "url": "https://www.smdpns.com/_files/ugd/fbd1b3_44564b1a63b1486ea0697387b4c738da.pdf",
+      "final_url": "https://www.smdpns.com/_files/ugd/fbd1b3_44564b1a63b1486ea0697387b4c738da.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "ICT & ACCEPTABLE USE POLICY"
+    },
+    {
+      "url": "https://www.smdpns.com/_files/ugd/fbd1b3_39217dce1d6f4f75a5b2c4f55892635f.pdf",
+      "final_url": "https://www.smdpns.com/_files/ugd/fbd1b3_39217dce1d6f4f75a5b2c4f55892635f.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "HEALTHY EATING POLICY"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19617W",
+      "url": "https://www.smdpns.com",
+      "label": "School homepage",
+      "sha256": "c295d54484115602f647355e4dcd1c17b1d7de867ca14b9e7cad021463357b1d",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19617W_c295d54484115602f647.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1092
+    }
+  ],
+  "pending_links": [],
+  "elapsed_seconds": 48.69,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:56:48+0000"
+}

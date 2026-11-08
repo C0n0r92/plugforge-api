@@ -1,0 +1,320 @@
+{
+  "roll": "18623M",
+  "status": "bounded_search_no_new_notice_found",
+  "attempts": [
+    {
+      "url": "https://castleknocknationalschool.ie",
+      "final_url": "https://castleknocknationalschool.ie",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://castleknocknationalschool.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://castleknocknationalschool.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "http_404",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://castleknocknationalschool.ie/c-n-s-admissions/",
+      "final_url": "https://castleknocknationalschool.ie/c-n-s-admissions/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://castleknocknationalschool.ie/wp-content/uploads/2026/09/2027-28-admission-poster-3.pdf",
+      "final_url": "https://castleknocknationalschool.ie/wp-content/uploads/2026/09/2027-28-admission-poster-3.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fr-login.wordpress.com%2Fremote-login.php%3Faction%3Dlink%26back%3Dhttps%253A%252F%252Fcastleknocknationalschool.ie%252Fc-n-s-admissions%252F",
+      "final_url": "https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fr-login.wordpress.com%2Fremote-login.php%3Faction%3Dlink%26back%3Dhttps%253A%252F%252Fcastleknocknationalschool.ie%252Fc-n-s-admissions%252F",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Log in now."
+    },
+    {
+      "url": "https://wordpress.com/abuse/?report_url=https://castleknocknationalschool.ie/c-n-s-admissions/",
+      "final_url": "https://wordpress.com/abuse/?report_url=https://castleknocknationalschool.ie/c-n-s-admissions/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Report this content"
+    },
+    {
+      "url": "https://wordpress.com/abuse/?report_type=technology&report_url=https%3A%2F%2Fcastleknocknationalschool.ie%2Fc-n-s-admissions%2F",
+      "final_url": "https://wordpress.com/abuse/?report_type=technology&report_url=https%3A%2F%2Fcastleknocknationalschool.ie%2Fc-n-s-admissions%2F",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Technological Harm Malware, spyware, adware etc. Phishing. Spam or machine-generated content."
+    },
+    {
+      "url": "https://wordpress.com/abuse/?report_url=https%3A%2F%2Fcastleknocknationalschool.ie%2Fc-n-s-admissions%2F",
+      "final_url": "https://wordpress.com/abuse/?report_url=https%3A%2F%2Fcastleknocknationalschool.ie%2Fc-n-s-admissions%2F",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "All reporting options"
+    },
+    {
+      "url": "https://wordpress.com/abuse/?report_type=regulation&report_url=https%3A%2F%2Fcastleknocknationalschool.ie%2Fc-n-s-admissions%2F",
+      "final_url": "https://wordpress.com/abuse/?report_type=regulation&report_url=https%3A%2F%2Fcastleknocknationalschool.ie%2Fc-n-s-admissions%2F",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Regulated Material The sale of prohibited or highly regulated items. Gambling and explicit material."
+    },
+    {
+      "url": "https://wordpress.com/abuse/?report_type=privacy&report_url=https%3A%2F%2Fcastleknocknationalschool.ie%2Fc-n-s-admissions%2F",
+      "final_url": "https://wordpress.com/abuse/?report_type=privacy&report_url=https%3A%2F%2Fcastleknocknationalschool.ie%2Fc-n-s-admissions%2F",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Privacy Concerns about my private information."
+    },
+    {
+      "url": "https://wordpress.com/abuse/?report_type=legal&report_url=https%3A%2F%2Fcastleknocknationalschool.ie%2Fc-n-s-admissions%2F",
+      "final_url": "https://wordpress.com/abuse/?report_type=legal&report_url=https%3A%2F%2Fcastleknocknationalschool.ie%2Fc-n-s-admissions%2F",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Legal Report copyright and trademark infringement, illegal content in the EU, or non-consensual intimate imagery under the Take It Down Act."
+    },
+    {
+      "url": "https://wordpress.com/abuse/?report_type=at-risk&report_url=https%3A%2F%2Fcastleknocknationalschool.ie%2Fc-n-s-admissions%2F",
+      "final_url": "https://wordpress.com/abuse/?report_type=at-risk&report_url=https%3A%2F%2Fcastleknocknationalschool.ie%2Fc-n-s-admissions%2F",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Person at Risk A person at imminent risk of death or severe physical harm."
+    },
+    {
+      "url": "https://wordpress.com/abuse/?report_type=abuse&report_url=https%3A%2F%2Fcastleknocknationalschool.ie%2Fc-n-s-admissions%2F",
+      "final_url": "https://wordpress.com/abuse/?report_type=abuse&report_url=https%3A%2F%2Fcastleknocknationalschool.ie%2Fc-n-s-admissions%2F",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Abuse Abusive content, harassment, and defamation."
+    },
+    {
+      "url": "https://wordpress.com/abuse/?category=violence&report_type=abuse&report_url=https%3A%2F%2Fcastleknocknationalschool.ie%2Fc-n-s-admissions%2F",
+      "final_url": "https://wordpress.com/abuse/?category=violence&report_type=abuse&report_url=https%3A%2F%2Fcastleknocknationalschool.ie%2Fc-n-s-admissions%2F",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Calls to violence"
+    },
+    {
+      "url": "https://wordpress.com/abuse/?category=terrorism&report_type=abuse&report_url=https%3A%2F%2Fcastleknocknationalschool.ie%2Fc-n-s-admissions%2F",
+      "final_url": "https://wordpress.com/abuse/?category=terrorism&report_type=abuse&report_url=https%3A%2F%2Fcastleknocknationalschool.ie%2Fc-n-s-admissions%2F",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Terrorist Activity"
+    },
+    {
+      "url": "https://wordpress.com/abuse/?category=spam&report_type=technology&report_url=https%3A%2F%2Fcastleknocknationalschool.ie%2Fc-n-s-admissions%2F",
+      "final_url": "https://wordpress.com/abuse/?category=spam&report_type=technology&report_url=https%3A%2F%2Fcastleknocknationalschool.ie%2Fc-n-s-admissions%2F",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Spam or excessive automated actions"
+    },
+    {
+      "url": "https://wordpress.com/abuse/?category=sexualization&report_type=privacy&report_url=https%3A%2F%2Fcastleknocknationalschool.ie%2Fc-n-s-admissions%2F",
+      "final_url": "https://wordpress.com/abuse/?category=sexualization&report_type=privacy&report_url=https%3A%2F%2Fcastleknocknationalschool.ie%2Fc-n-s-admissions%2F",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "I am being sexualized without my consent"
+    },
+    {
+      "url": "https://wordpress.com/abuse/?category=restricted&report_type=regulation&report_url=https%3A%2F%2Fcastleknocknationalschool.ie%2Fc-n-s-admissions%2F",
+      "final_url": "https://wordpress.com/abuse/?category=restricted&report_type=regulation&report_url=https%3A%2F%2Fcastleknocknationalschool.ie%2Fc-n-s-admissions%2F",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Sale of prohibited or highly regulated items"
+    },
+    {
+      "url": "https://wordpress.com/abuse/?category=request&report_type=privacy&report_url=https%3A%2F%2Fcastleknocknationalschool.ie%2Fc-n-s-admissions%2F",
+      "final_url": "https://wordpress.com/abuse/?category=request&report_type=privacy&report_url=https%3A%2F%2Fcastleknocknationalschool.ie%2Fc-n-s-admissions%2F",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "I want to request my information"
+    },
+    {
+      "url": "https://wordpress.com/abuse/?category=phishing&report_type=technology&report_url=https%3A%2F%2Fcastleknocknationalschool.ie%2Fc-n-s-admissions%2F",
+      "final_url": "https://wordpress.com/abuse/?category=phishing&report_type=technology&report_url=https%3A%2F%2Fcastleknocknationalschool.ie%2Fc-n-s-admissions%2F",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Phishing"
+    },
+    {
+      "url": "https://wordpress.com/abuse/?category=ncii&report_type=legal&report_url=https%3A%2F%2Fcastleknocknationalschool.ie%2Fc-n-s-admissions%2F",
+      "final_url": "https://wordpress.com/abuse/?category=ncii&report_type=legal&report_url=https%3A%2F%2Fcastleknocknationalschool.ie%2Fc-n-s-admissions%2F",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Report non-consensual intimate imagery"
+    },
+    {
+      "url": "https://wordpress.com/abuse/?category=minors&report_type=abuse&report_url=https%3A%2F%2Fcastleknocknationalschool.ie%2Fc-n-s-admissions%2F",
+      "final_url": "https://wordpress.com/abuse/?category=minors&report_type=abuse&report_url=https%3A%2F%2Fcastleknocknationalschool.ie%2Fc-n-s-admissions%2F",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Harm to Minors"
+    },
+    {
+      "url": "https://wordpress.com/abuse/?category=mature&report_type=regulation&report_url=https%3A%2F%2Fcastleknocknationalschool.ie%2Fc-n-s-admissions%2F",
+      "final_url": "https://wordpress.com/abuse/?category=mature&report_type=regulation&report_url=https%3A%2F%2Fcastleknocknationalschool.ie%2Fc-n-s-admissions%2F",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Mature"
+    },
+    {
+      "url": "https://wordpress.com/abuse/?category=malware&report_type=technology&report_url=https%3A%2F%2Fcastleknocknationalschool.ie%2Fc-n-s-admissions%2F",
+      "final_url": "https://wordpress.com/abuse/?category=malware&report_type=technology&report_url=https%3A%2F%2Fcastleknocknationalschool.ie%2Fc-n-s-admissions%2F",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Malware, Spyware, Adware etc."
+    }
+  ],
+  "documents": [],
+  "pending_links": [
+    {
+      "url": "https://wordpress.com/abuse/?category=login&report_type=privacy&report_url=https%3A%2F%2Fcastleknocknationalschool.ie%2Fc-n-s-admissions%2F",
+      "label": "I've lost my login information",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://wordpress.com/abuse/?category=information&report_type=privacy&report_url=https%3A%2F%2Fcastleknocknationalschool.ie%2Fc-n-s-admissions%2F",
+      "label": "My private information is being shared",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://wordpress.com/abuse/?category=impersonation&report_type=abuse&report_url=https%3A%2F%2Fcastleknocknationalschool.ie%2Fc-n-s-admissions%2F",
+      "label": "Impersonation",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://wordpress.com/abuse/?category=illegal_content_eu&report_type=legal&report_url=https%3A%2F%2Fcastleknocknationalschool.ie%2Fc-n-s-admissions%2F",
+      "label": "Report illegal content in the EU",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://wordpress.com/abuse/?category=hate&report_type=abuse&report_url=https%3A%2F%2Fcastleknocknationalschool.ie%2Fc-n-s-admissions%2F",
+      "label": "Hateful Conduct",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://wordpress.com/abuse/?category=harassment&report_type=abuse&report_url=https%3A%2F%2Fcastleknocknationalschool.ie%2Fc-n-s-admissions%2F",
+      "label": "Harassment",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://wordpress.com/abuse/?category=gambling&report_type=regulation&report_url=https%3A%2F%2Fcastleknocknationalschool.ie%2Fc-n-s-admissions%2F",
+      "label": "Gambling",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://wordpress.com/abuse/?category=deletion&report_type=privacy&report_url=https%3A%2F%2Fcastleknocknationalschool.ie%2Fc-n-s-admissions%2F",
+      "label": "I want to delete my account and information",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://wordpress.com/abuse/?category=defamation&report_type=abuse&report_url=https%3A%2F%2Fcastleknocknationalschool.ie%2Fc-n-s-admissions%2F",
+      "label": "Defamation",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://wordpress.com/abuse/?category=control&report_type=privacy&report_url=https%3A%2F%2Fcastleknocknationalschool.ie%2Fc-n-s-admissions%2F",
+      "label": "I have lost access to the person who has created the site",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://wordpress.com/abuse/?category=adult&report_type=regulation&report_url=https%3A%2F%2Fcastleknocknationalschool.ie%2Fc-n-s-admissions%2F",
+      "label": "Sexually Explicit Material",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://castleknocknationalschool.ie/wp-content/uploads/2023/10/admissions-policy-jan.-2023.docx",
+      "label": "Admissions Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://wordpress.com/support/sitemap.xml",
+      "label": "Public sitemap",
+      "via": "sitemap_root"
+    },
+    {
+      "url": "https://wordpress.com/sitemap.xml",
+      "label": "Public sitemap",
+      "via": "sitemap_root"
+    },
+    {
+      "url": "https://wordpress.com/news-sitemap.xml",
+      "label": "Public sitemap",
+      "via": "sitemap_root"
+    },
+    {
+      "url": "https://wordpress.com/go/sitemap.xml",
+      "label": "Public sitemap",
+      "via": "sitemap_root"
+    },
+    {
+      "url": "https://wordpress.com/blog/sitemap.xml",
+      "label": "Public sitemap",
+      "via": "sitemap_root"
+    },
+    {
+      "url": "https://castleknocknationalschool.ie/sitemap.xml",
+      "label": "Public sitemap",
+      "via": "sitemap_root"
+    },
+    {
+      "url": "https://castleknocknationalschool.ie/parents/parents-association/",
+      "label": "PA",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://castleknocknationalschool.ie/parents/information-for-parents/",
+      "label": "Information for Parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://castleknocknationalschool.ie/parents/absence-form/",
+      "label": "Absence Form",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://castleknocknationalschool.ie/parents-complaints-procedure/",
+      "label": "Parents Complaints Procedure",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://castleknocknationalschool.ie/category/policies/",
+      "label": "Policies",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://castleknocknationalschool.ie/wp-content/uploads/2023/10/stage-1-cns-2024-intention-to-apply-for-an-application-form.docx",
+      "label": "Download",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://castleknocknationalschool.ie/wp-content/uploads/2026/09/2027-28-stage-2-application-form.docx",
+      "label": "2027-28 Stage 2 application form",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://castleknocknationalschool.ie/homework-policy/",
+      "label": "Homework Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://castleknocknationalschool.ie/anti-bullying-policy/",
+      "label": "Anti-Bullying Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://castleknocknationalschool.ie/about-us/school-policies/code-of-behaviour-policy/",
+      "label": "Code of Behaviour Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 67.62,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:53:30+0000"
+}

@@ -1,0 +1,130 @@
+{
+  "roll": "18815V",
+  "attempted_at": "2026-11-08T13:09:35+0000",
+  "method": "documented_public_WordPress_media_notice_and_Irish_title_gap_search",
+  "attempts": [
+    {
+      "url": "https://www.nrh.ie/wp-json/wp/v2/media?search=notice&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.nrh.ie/wp-json/wp/v2/media?search=f%C3%B3gra&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.nrh.ie/wp-content/uploads/2026/05/Final-BI-Infographics-2025-A2.pdf",
+      "status": "ok",
+      "label": "Final BI Infographics 2025 &#8211; A2"
+    },
+    {
+      "url": "https://www.nrh.ie/wp-content/uploads/2026/05/Final-OPD-Infographics-BI-and-Stroke-2025-A2.pdf",
+      "status": "ok",
+      "label": "Final OPD Infographics BI and Stroke 2025 &#8211; A2"
+    },
+    {
+      "url": "https://www.nrh.ie/wp-content/uploads/2026/05/Final-OPD-Infographics-SCSC-2025-A2.pdf",
+      "status": "ok",
+      "label": "Final OPD Infographics SCSC 2025 &#8211; A2"
+    },
+    {
+      "url": "https://www.nrh.ie/wp-content/uploads/2026/05/Final-PAEDS-Infographics-2025-A2.pdf",
+      "status": "ok",
+      "label": "Final PAEDS Infographics 2025 &#8211; A2"
+    },
+    {
+      "url": "https://www.nrh.ie/wp-content/uploads/2026/05/Final-POLAR-Day-Patient-Infographic-2025-A2.pdf",
+      "status": "ok",
+      "label": "Final POLAR Day Patient Infographic 2025 &#8211; A2"
+    },
+    {
+      "url": "https://www.nrh.ie/wp-content/uploads/2026/05/Final-POLAR-Inpatient-Infographic-2025-A2.pdf",
+      "status": "ok",
+      "label": "Final POLAR Inpatient Infographic 2025 &#8211; A2"
+    },
+    {
+      "url": "https://www.nrh.ie/wp-content/uploads/2026/05/Final-POLAR-Outpatient-Programme-Infographic-2025-A2.pdf",
+      "status": "ok",
+      "label": "Final POLAR Outpatient Programme Infographic 2025 &#8211; A2"
+    },
+    {
+      "url": "https://www.nrh.ie/wp-content/uploads/2026/05/Final-RTU-Infographics-2025-A2.pdf",
+      "status": "ok",
+      "label": "Final RTU Infographics 2025 &#8211; A2"
+    },
+    {
+      "url": "https://www.nrh.ie/wp-content/uploads/2026/05/Final-SCSC-Infographics-2025-A2.pdf",
+      "status": "ok",
+      "label": "Final SCSC Infographics 2025 &#8211; A2"
+    },
+    {
+      "url": "https://www.nrh.ie/wp-content/uploads/2026/05/Final-Stroke-Infographics-2025-A2.pdf",
+      "status": "ok",
+      "label": "Final Stroke Infographics 2025 &#8211; A2"
+    },
+    {
+      "url": "https://www.nrh.ie/wp-content/uploads/2026/05/Final-1-Stroke-Infographics-2025-A2.pdf",
+      "status": "ok",
+      "label": "Final 1 Stroke Infographics 2025 &#8211; A2"
+    },
+    {
+      "url": "https://www.nrh.ie/wp-content/uploads/2026/05/Final-BI-Infographics-2025-A2.jpg",
+      "status": "ok",
+      "label": "Final BI Infographics 2025 &#8211; A2"
+    },
+    {
+      "url": "https://www.nrh.ie/wp-content/uploads/2026/05/Final-PAEDS-Infographics-2025-A2.jpg",
+      "status": "ok",
+      "label": "Final PAEDS Infographics 2025 &#8211; A2"
+    },
+    {
+      "url": "https://www.nrh.ie/wp-content/uploads/2026/05/Final-POLAR-Outpatient-Programme-Infographic-2025-A2.jpg",
+      "status": "ok",
+      "label": "Final POLAR Outpatient Programme Infographic 2025 &#8211; A2"
+    },
+    {
+      "url": "https://www.nrh.ie/wp-content/uploads/2026/05/Final-RTU-Infographics-2025-A2.jpg",
+      "status": "ok",
+      "label": "Final RTU Infographics 2025 &#8211; A2"
+    },
+    {
+      "url": "https://www.nrh.ie/wp-content/uploads/2026/05/Final-SCSC-Infographics-2025-A2.jpg",
+      "status": "ok",
+      "label": "Final SCSC Infographics 2025 &#8211; A2"
+    },
+    {
+      "url": "https://www.nrh.ie/wp-content/uploads/2026/05/Final-1-Stroke-Infographics-2025-A2.jpg",
+      "status": "ok",
+      "label": "Final 1 Stroke Infographics 2025 &#8211; A2"
+    },
+    {
+      "url": "https://www.nrh.ie/wp-content/uploads/2026/05/Final-1-Stroke-Infographics-2025-A2.odp",
+      "status": "prior_exact_URL_access_denial_not_retried",
+      "label": "Final 1 Stroke Infographics 2025 &#8211; A2"
+    },
+    {
+      "url": "https://www.nrh.ie/wp-content/uploads/2026/05/1-Final-OPD-Infographics-BI-and-Stroke-2025-A2.jpg",
+      "status": "ok",
+      "label": "1 Final OPD Infographics BI and Stroke 2025 &#8211; A2"
+    },
+    {
+      "url": "https://www.nrh.ie/wp-content/uploads/2026/05/1-Final-OPD-Infographics-SCSC-2025-A2.jpg",
+      "status": "ok",
+      "label": "1 Final OPD Infographics SCSC 2025 &#8211; A2"
+    },
+    {
+      "url": "https://www.nrh.ie/wp-content/uploads/2026/05/1-Final-POLAR-Day-Patient-Infographic-2025-A2.jpg",
+      "status": "ok",
+      "label": "1 Final POLAR Day Patient Infographic 2025 &#8211; A2"
+    },
+    {
+      "url": "https://www.nrh.ie/wp-content/uploads/2026/05/1-Final-POLAR-Inpatient-Infographic-2025-A2.jpg",
+      "status": "ok",
+      "label": "1 Final POLAR Inpatient Infographic 2025 &#8211; A2"
+    }
+  ],
+  "documents": [],
+  "pending_links": [],
+  "earliest_year_cutoff": null,
+  "status": "attempted_no_new_notice_payload",
+  "elapsed_seconds": 87.9
+}

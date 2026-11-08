@@ -1,0 +1,25 @@
+{
+  "roll": "19242F",
+  "capture": {
+    "timestamp": "20231202053652",
+    "original": "https://www.olvinfants.com/uploads/1/3/8/4/138468462/__2023_2024_annual-admissions-notice.docx.pdf",
+    "linked_from_capture": "https://web.archive.org/web/20231202051642/https://www.olvinfants.com/uploads/1/3/8/4/138468462/__2023_2024_annual-admissions-notice.docx.pdf"
+  },
+  "original_url": "https://www.olvinfants.com/uploads/1/3/8/4/138468462/__2023_2024_annual-admissions-notice.docx.pdf",
+  "archived_url": "https://web.archive.org/web/20231202053652/https://www.olvinfants.com/uploads/1/3/8/4/138468462/__2023_2024_annual-admissions-notice.docx.pdf",
+  "attempted_at": "2026-11-08T13:11:50.361821+00:00",
+  "linked_from_capture": "https://web.archive.org/web/20231202051642/https://www.olvinfants.com/uploads/1/3/8/4/138468462/__2023_2024_annual-admissions-notice.docx.pdf",
+  "http_status": 200,
+  "headers": {
+    "Content-Type": "application/pdf",
+    "memento-datetime": "Sat, 02 Dec 2023 05:36:52 GMT"
+  },
+  "bytes": 71336,
+  "payload_sha256": "17dc900bdc7274c0be37c60a0d5425e5f0def84593fdc0bf4ab7e76d49b9c4f0",
+  "format": "pdf",
+  "source_file": "database/milestone2/cache/17dc900bdc7274c0be37c60a0d5425e5f0def84593fdc0bf4ab7e76d49b9c4f0.pdf",
+  "parse_stderr": "",
+  "status": "archived_body_retrieved_requires_manual_evidence_review",
+  "text_file": "database/milestone2/evidence/exact_19242F_17dc900bdc7274c0be37.txt",
+  "linked_document_candidates": []
+}

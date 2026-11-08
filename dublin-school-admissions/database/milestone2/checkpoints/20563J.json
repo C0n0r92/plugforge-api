@@ -1,0 +1,254 @@
+{
+  "roll": "20563J",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://libermannschool.ie/wp/annual-admission-statement/",
+      "final_url": "https://libermannschool.ie/wp/annual-admission-statement/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Annual Admission Statement"
+    },
+    {
+      "url": "https://libermannschool.ie/wp/?s=admission",
+      "final_url": "https://libermannschool.ie/wp/?s=admission",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Public site search form"
+    },
+    {
+      "url": "https://libermannschool.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://libermannschool.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "http_404",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://libermannschool.ie/wp/school-policies/",
+      "final_url": "https://libermannschool.ie/wp/school-policies/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Policies"
+    },
+    {
+      "url": "http://www.libermannschool.ie/downloads/LSST_Admission_Policy_2026-2027.pdf",
+      "final_url": "http://www.libermannschool.ie/downloads/LSST_Admission_Policy_2026-2027.pdf",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "VIEW POLICY"
+    },
+    {
+      "url": "https://libermannschool.ie/wp/admission-policy/",
+      "final_url": "https://libermannschool.ie/wp/admission-policy/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admission Policy"
+    },
+    {
+      "url": "https://libermannschool.ie/wp/",
+      "final_url": "https://libermannschool.ie/wp/",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "http://www.libermannschool.ie/downloads/LSST_Annual_Admission_Statement_2026-2027.pdf",
+      "final_url": "http://www.libermannschool.ie/downloads/LSST_Annual_Admission_Statement_2026-2027.pdf",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "Admission Statement"
+    },
+    {
+      "url": "https://libermannschool.ie/sitemap.xml",
+      "final_url": "https://libermannschool.ie/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "http://www.libermannschool.ie/downloads/2024-2026_SPHE_Policy_LSST.pdf",
+      "final_url": "http://www.libermannschool.ie/downloads/2024-2026_SPHE_Policy_LSST.pdf",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "VIEW POLICY"
+    },
+    {
+      "url": "http://www.libermannschool.ie/downloads/2024-2026_Protected_Disclosures.pdf",
+      "final_url": "http://www.libermannschool.ie/downloads/2024-2026_Protected_Disclosures.pdf",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "VIEW POLICY"
+    },
+    {
+      "url": "http://www.libermannschool.ie/downloads/2024-2026_Parental_Complaints_Procedure_&_Policy.pdf",
+      "final_url": "http://www.libermannschool.ie/downloads/2024-2026_Parental_Complaints_Procedure_&_Policy.pdf",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "VIEW POLICY"
+    },
+    {
+      "url": "http://www.libermannschool.ie/downloads/2024-2026_H&S_Statement.pdf",
+      "final_url": "http://www.libermannschool.ie/downloads/2024-2026_H&S_Statement.pdf",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "VIEW POLICY"
+    },
+    {
+      "url": "http://www.libermannschool.ie/downloads/2024-2026_Equality_of_Access_and_Participation_Policy.pdf",
+      "final_url": "http://www.libermannschool.ie/downloads/2024-2026_Equality_of_Access_and_Participation_Policy.pdf",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "VIEW POLICY"
+    },
+    {
+      "url": "http://www.libermannschool.ie/downloads/2024-2026_Data_Protection_Policy.pdf",
+      "final_url": "http://www.libermannschool.ie/downloads/2024-2026_Data_Protection_Policy.pdf",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "VIEW POLICY"
+    },
+    {
+      "url": "http://www.libermannschool.ie/downloads/2024-2026-Code_of_Relationships_Respect_and_Behaviour.pdf",
+      "final_url": "http://www.libermannschool.ie/downloads/2024-2026-Code_of_Relationships_Respect_and_Behaviour.pdf",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "VIEW POLICY"
+    },
+    {
+      "url": "http://www.libermannschool.ie/downloads/2024-2026-Attendance_Policy.pdf",
+      "final_url": "http://www.libermannschool.ie/downloads/2024-2026-Attendance_Policy.pdf",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "VIEW POLICY"
+    },
+    {
+      "url": "http://www.libermannschool.ie/downloads/2024-2025-SSE_SIP.pdf",
+      "final_url": "http://www.libermannschool.ie/downloads/2024-2025-SSE_SIP.pdf",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "VIEW POLICY"
+    },
+    {
+      "url": "http://www.libermannschool.ie/downloads/2025-2027_LSST_Communication_Language_and_Literacy_Policy.pdf",
+      "final_url": "http://www.libermannschool.ie/downloads/2025-2027_LSST_Communication_Language_and_Literacy_Policy.pdf",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "VIEW POLICY"
+    },
+    {
+      "url": "http://www.libermannschool.ie/downloads/2025-2027_Critical_Incident_Policy.pdf",
+      "final_url": "http://www.libermannschool.ie/downloads/2025-2027_Critical_Incident_Policy.pdf",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "VIEW POLICY"
+    },
+    {
+      "url": "http://www.libermannschool.ie/downloads/2025-2027_Communication_Langauge_and_Literacy_Whole_School_Plan.pdf",
+      "final_url": "http://www.libermannschool.ie/downloads/2025-2027_Communication_Langauge_and_Literacy_Whole_School_Plan.pdf",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "VIEW POLICY"
+    },
+    {
+      "url": "http://www.libermannschool.ie/downloads/2025-2027-Communication_Policy.pdf",
+      "final_url": "http://www.libermannschool.ie/downloads/2025-2027-Communication_Policy.pdf",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "VIEW POLICY"
+    },
+    {
+      "url": "http://www.libermannschool.ie/downloads/2025-2026_CP_Statement_&_RA.pdf",
+      "final_url": "http://www.libermannschool.ie/downloads/2025-2026_CP_Statement_&_RA.pdf",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "VIEW POLICY"
+    },
+    {
+      "url": "http://www.libermannschool.ie/downloads/2025-2026_Bi_Cinealta_Policy.pdf",
+      "final_url": "http://www.libermannschool.ie/downloads/2025-2026_Bi_Cinealta_Policy.pdf",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "VIEW POLICY"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "20563J",
+      "url": "https://libermannschool.ie/wp/annual-admission-statement/",
+      "label": "Annual Admission Statement",
+      "sha256": "3b55b063adf2491ff560620cc3d9c4f86cf03c0c059a59b1ef6d9b38bcc55d9e",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20563J_3b55b063adf2491ff560.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 880
+    },
+    {
+      "roll": "20563J",
+      "url": "https://libermannschool.ie/wp/?s=admission",
+      "label": "Public site search form",
+      "sha256": "9dbed2fc03ab16e5f3540f23b13f3ab184cd9aeffdf44eb6972e0fdfb8470aa6",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20563J_9dbed2fc03ab16e5f354.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 330
+    },
+    {
+      "roll": "20563J",
+      "url": "https://libermannschool.ie/wp/",
+      "label": "School homepage",
+      "sha256": "b2af6391cfd38f620bc199bd354277528e1f3913ab6e22c043fac02c7c122c3a",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20563J_b2af6391cfd38f620bc1.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 11003
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "http://www.libermannschool.ie/downloads/2025-2026-SSE_SIP.pdf",
+      "label": "VIEW POLICY",
+      "via": "school_public_link"
+    },
+    {
+      "url": "http://www.libermannschool.ie/downloads/2025-2026-SSE_Language_and_Communication.pdf",
+      "label": "VIEW POLICY",
+      "via": "school_public_link"
+    },
+    {
+      "url": "http://www.libermannschool.ie/downloads/LSST_Application_Form_2026-2027.pdf",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "http://www.libermannschool.ie/downloads/SCHOOL_PLAN.pdf",
+      "label": "VIEW POLICY",
+      "via": "school_public_link"
+    },
+    {
+      "url": "http://www.libermannschool.ie/downloads/Disciplinary_&_Grievance.pdf",
+      "label": "VIEW POLICY",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://libermannschool.ie/wp/data-protection-policy/",
+      "label": "Data Protection Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://libermannschool.ie/wp/child-safeguarding-policy/",
+      "label": "Child Safeguarding Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://libermannschool.ie/wp/anti-bullying-policy/",
+      "label": "Bí Cineálta Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 23.25,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:12:14+0000"
+}

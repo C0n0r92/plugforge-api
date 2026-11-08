@@ -1,0 +1,197 @@
+{
+  "roll": "19316I",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://stpaulsspecialschool.ie/admissions-2027/",
+      "final_url": "https://stpaulsspecialschool.ie/admissions-2027/",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://stpaulsspecialschool.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://stpaulsspecialschool.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "http_404",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://stpaulsspecialschool.ie/sitemap.xml",
+      "final_url": "https://stpaulsspecialschool.ie/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://stpaulsspecialschool.ie/policies/",
+      "final_url": "https://stpaulsspecialschool.ie/policies/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://stpaulsspecialschool.ie/wp-content/uploads/2026/08/Enrolment-Policy-EIC-November-2025.pdf",
+      "final_url": "https://stpaulsspecialschool.ie/wp-content/uploads/2026/08/Enrolment-Policy-EIC-November-2025.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download"
+    },
+    {
+      "url": "https://stpaulsspecialschool.ie/wp-content/uploads/2026/08/Admission-Policy-Main-School-November-2025.pdf",
+      "final_url": "https://stpaulsspecialschool.ie/wp-content/uploads/2026/08/Admission-Policy-Main-School-November-2025.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download"
+    },
+    {
+      "url": "https://stpaulsspecialschool.ie/wp-content/uploads/2025/04/CodeofConduct11.pdf",
+      "final_url": "https://stpaulsspecialschool.ie/wp-content/uploads/2025/04/CodeofConduct11.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download"
+    },
+    {
+      "url": "https://stpaulsspecialschool.ie/wp-content/uploads/2025/04/CodeofBehaviourAppendix.pdf",
+      "final_url": "https://stpaulsspecialschool.ie/wp-content/uploads/2025/04/CodeofBehaviourAppendix.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download"
+    },
+    {
+      "url": "https://stpaulsspecialschool.ie/wp-content/uploads/2026/08/Working-Together_English.pdf",
+      "final_url": "https://stpaulsspecialschool.ie/wp-content/uploads/2026/08/Working-Together_English.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download"
+    },
+    {
+      "url": "https://stpaulsspecialschool.ie/wp-content/uploads/2026/08/Child-Safeguarding-Risk-Assessment-16.04.26.pdf",
+      "final_url": "https://stpaulsspecialschool.ie/wp-content/uploads/2026/08/Child-Safeguarding-Risk-Assessment-16.04.26.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download"
+    },
+    {
+      "url": "https://stpaulsspecialschool.ie/wp-content/uploads/2026/08/Child-Safeguarding-Notification-16.04.26.pdf",
+      "final_url": "https://stpaulsspecialschool.ie/wp-content/uploads/2026/08/Child-Safeguarding-Notification-16.04.26.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download"
+    },
+    {
+      "url": "https://stpaulsspecialschool.ie/wp-content/uploads/2025/04/SchoolAttendancePolicy2020.pdf",
+      "final_url": "https://stpaulsspecialschool.ie/wp-content/uploads/2025/04/SchoolAttendancePolicy2020.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download"
+    },
+    {
+      "url": "https://stpaulsspecialschool.ie",
+      "final_url": "https://stpaulsspecialschool.ie",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://stpaulsspecialschool.ie/admissions-2027",
+      "final_url": "https://stpaulsspecialschool.ie/admissions-2027/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Find Out More"
+    },
+    {
+      "url": "https://stpaulsspecialschool.ie/wp-content/uploads/2026/08/School-Calendar-2026-2027-1.pdf",
+      "final_url": "https://stpaulsspecialschool.ie/wp-content/uploads/2026/08/School-Calendar-2026-2027-1.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download"
+    },
+    {
+      "url": "https://stpaulsspecialschool.ie/wp-content/uploads/2026/08/Bi-Cinealta-Policy-November-2025-Signed-1.pdf",
+      "final_url": "https://stpaulsspecialschool.ie/wp-content/uploads/2026/08/Bi-Cinealta-Policy-November-2025-Signed-1.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download"
+    },
+    {
+      "url": "https://stpaulsspecialschool.ie/wp-content/uploads/2025/04/RSEpolicy25.03.21.pdf",
+      "final_url": "https://stpaulsspecialschool.ie/wp-content/uploads/2025/04/RSEpolicy25.03.21.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download"
+    },
+    {
+      "url": "https://stpaulsspecialschool.ie/wp-content/uploads/2025/04/Parental-Visits-During-School-Hours-Policy.pdf",
+      "final_url": "https://stpaulsspecialschool.ie/wp-content/uploads/2025/04/Parental-Visits-During-School-Hours-Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download"
+    },
+    {
+      "url": "https://stpaulsspecialschool.ie/wp-content/uploads/2025/04/July-Provision-Summer-Programme-Policy.pdf",
+      "final_url": "https://stpaulsspecialschool.ie/wp-content/uploads/2025/04/July-Provision-Summer-Programme-Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download"
+    },
+    {
+      "url": "https://stpaulsspecialschool.ie/wp-content/uploads/2025/04/ChildProtectionPolicy.pdf",
+      "final_url": "https://stpaulsspecialschool.ie/wp-content/uploads/2025/04/ChildProtectionPolicy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download"
+    },
+    {
+      "url": "https://stpaulsspecialschool.ie/wp-content/uploads/2025/04/AntiBullyingPolicyconvertedcompressed.pdf",
+      "final_url": "https://stpaulsspecialschool.ie/wp-content/uploads/2025/04/AntiBullyingPolicyconvertedcompressed.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download"
+    },
+    {
+      "url": "https://stpaulsspecialschool.ie/wp-content/uploads/2026/09/2027-2028-APPLICATION-FORM-MAIN-SCHOOL-Finalised.pdf",
+      "final_url": "https://stpaulsspecialschool.ie/wp-content/uploads/2026/09/2027-2028-APPLICATION-FORM-MAIN-SCHOOL-Finalised.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Application  Main School"
+    },
+    {
+      "url": "https://stpaulsspecialschool.ie/wp-content/uploads/2026/09/2027-2028-APPLICATION-FORM-EARLY-INTERVENTION-CLASS-Finalised.pdf",
+      "final_url": "https://stpaulsspecialschool.ie/wp-content/uploads/2026/09/2027-2028-APPLICATION-FORM-EARLY-INTERVENTION-CLASS-Finalised.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Application Early Intervention"
+    },
+    {
+      "url": "https://stpaulsspecialschool.ie/wp-content/uploads/2026/08/SPHE-Stay-Safe-Policy-School-Plan-26.pdf",
+      "final_url": "https://stpaulsspecialschool.ie/wp-content/uploads/2026/08/SPHE-Stay-Safe-Policy-School-Plan-26.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19316I",
+      "url": "https://stpaulsspecialschool.ie/admissions-2027/",
+      "label": "Prior school admissions section",
+      "sha256": "9bae39c7132e9fbae9fecc90271d9eced1b91434a5b5211f581776df05091fd2",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19316I_9bae39c7132e9fbae9fe.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 763
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://stpaulsspecialschool.ie/wp-content/uploads/2026/08/Dignity-at-Work-Policy-St-Pauls.pdf",
+      "label": "Download",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 78.95,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:55:30+0000"
+}

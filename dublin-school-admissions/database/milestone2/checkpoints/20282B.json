@@ -1,0 +1,90 @@
+{
+  "roll": "20282B",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://brackenetns.com/enrolment",
+      "final_url": "https://brackenetns.com/enrolment",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Enrolment"
+    },
+    {
+      "url": "https://brackenetns.com/sitemap.xml",
+      "final_url": "https://brackenetns.com/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://brackenetns.com/sitemap_pages.xml",
+      "final_url": "https://brackenetns.com/sitemap_pages.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://brackenetns.com/sitemap_blog.xml",
+      "final_url": "https://brackenetns.com/sitemap_blog.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://brackenetns.com/policies",
+      "final_url": "https://brackenetns.com/policies",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://brackenetns.com/parents/index",
+      "final_url": "https://brackenetns.com/parents/index",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents Association"
+    },
+    {
+      "url": "https://brackenetns.com/",
+      "final_url": "https://brackenetns.com/",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://brackenetns.com/pdfsandfiles",
+      "final_url": "https://brackenetns.com/pdfsandfiles",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Annual Admissions Notice"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "20282B",
+      "url": "https://brackenetns.com/enrolment",
+      "label": "Enrolment",
+      "sha256": "a1d24f81ea62ef10ca72e64119750f5b63313a26c002e161071ae3c86b8cfafb",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20282B_a1d24f81ea62ef10ca72.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 202
+    },
+    {
+      "roll": "20282B",
+      "url": "https://brackenetns.com/",
+      "label": "School homepage",
+      "sha256": "d043c866a22a330089a4260211b17adce29d03c90def3888edd4a4aae907dc29",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20282B_d043c866a22a330089a4.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 313
+    }
+  ],
+  "pending_links": [],
+  "elapsed_seconds": 24.97,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:11:19+0000"
+}

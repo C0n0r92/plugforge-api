@@ -1,0 +1,329 @@
+{
+  "roll": "19707A",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.stronans.ie/enrolment.html",
+      "final_url": "https://www.stronans.ie/enrolment.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Enrolment"
+    },
+    {
+      "url": "https://www.stronans.ie/uploads/2/6/3/6/26364396/st_ronan_s_enrolment_form._27_28.docx",
+      "final_url": "https://www.stronans.ie/uploads/2/6/3/6/26364396/st_ronan_s_enrolment_form._27_28.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: St Ronan's Enrolment Form 2027/2028"
+    },
+    {
+      "url": "https://www.stronans.ie/uploads/2/6/3/6/26364396/admission_policy_26_27__newest___1_.docx",
+      "final_url": "https://www.stronans.ie/uploads/2/6/3/6/26364396/admission_policy_26_27__newest___1_.docx",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://www.stronans.ie/wellbeing-for-parents.html",
+      "final_url": "https://www.stronans.ie/wellbeing-for-parents",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Wellbeing for Parents"
+    },
+    {
+      "url": "https://www.stronans.ie/wellbeing-for-parents/archives/06-2021",
+      "final_url": "https://www.stronans.ie/wellbeing-for-parents/archives/06-2021",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "June 2021"
+    },
+    {
+      "url": "https://www.stronans.ie/wellbeing-for-parents/well-being-videos-for-parents",
+      "final_url": "https://www.stronans.ie/wellbeing-for-parents/well-being-videos-for-parents",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Well-Being Videos for Parents"
+    },
+    {
+      "url": "https://www.stronans.ie/wellbeing-for-parents/category/all",
+      "final_url": "https://www.stronans.ie/wellbeing-for-parents/category/all",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "All"
+    },
+    {
+      "url": "https://www.stronans.ie/uploads/2/6/3/6/26364396/arc.png",
+      "final_url": "https://www.stronans.ie/uploads/2/6/3/6/26364396/arc.png",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: Notification to Archbishops House"
+    },
+    {
+      "url": "https://www.stronans.ie/sitemap.xml",
+      "final_url": "https://www.stronans.ie/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.stronans.ie/school-policies.html",
+      "final_url": "https://www.stronans.ie/school-policies.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Policies"
+    },
+    {
+      "url": "https://www.stronans.ie/uploads/2/6/3/6/26364396/strategy_for_pupil_attendance.pdf",
+      "final_url": "https://www.stronans.ie/uploads/2/6/3/6/26364396/strategy_for_pupil_attendance.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download File"
+    },
+    {
+      "url": "https://www.stronans.ie/uploads/2/6/3/6/26364396/st._ronans_remote_teaching_learning_plan.pdf",
+      "final_url": "https://www.stronans.ie/uploads/2/6/3/6/26364396/st._ronans_remote_teaching_learning_plan.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download File"
+    },
+    {
+      "url": "https://www.stronans.ie/uploads/2/6/3/6/26364396/signed_code_of_behaviour.pdf",
+      "final_url": "https://www.stronans.ie/uploads/2/6/3/6/26364396/signed_code_of_behaviour.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download File"
+    },
+    {
+      "url": "https://www.stronans.ie/uploads/2/6/3/6/26364396/signed_26_27_safeguarding_statement.pdf",
+      "final_url": "https://www.stronans.ie/uploads/2/6/3/6/26364396/signed_26_27_safeguarding_statement.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download File"
+    },
+    {
+      "url": "https://www.stronans.ie/uploads/2/6/3/6/26364396/review_of_css_and_ra.pdf",
+      "final_url": "https://www.stronans.ie/uploads/2/6/3/6/26364396/review_of_css_and_ra.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download File"
+    },
+    {
+      "url": "https://www.stronans.ie/uploads/2/6/3/6/26364396/parental-complaints-procedure_v4-final.pdf",
+      "final_url": "https://www.stronans.ie/uploads/2/6/3/6/26364396/parental-complaints-procedure_v4-final.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "下载文件：Parental Complaints Procedure"
+    },
+    {
+      "url": "https://www.stronans.ie/uploads/2/6/3/6/26364396/children_first.doc",
+      "final_url": "https://www.stronans.ie/uploads/2/6/3/6/26364396/children_first.doc",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download File"
+    },
+    {
+      "url": "https://www.stronans.ie/uploads/2/6/3/6/26364396/child_friendly_safeguarding_statement.pdf",
+      "final_url": "https://www.stronans.ie/uploads/2/6/3/6/26364396/child_friendly_safeguarding_statement.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download File"
+    },
+    {
+      "url": "https://www.stronans.ie/uploads/2/6/3/6/26364396/board_of_management_members.pdf",
+      "final_url": "https://www.stronans.ie/uploads/2/6/3/6/26364396/board_of_management_members.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download File"
+    },
+    {
+      "url": "https://www.stronans.ie/uploads/2/6/3/6/26364396/school_survey_results.png",
+      "final_url": "https://www.stronans.ie/uploads/2/6/3/6/26364396/school_survey_results.png",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download File"
+    },
+    {
+      "url": "https://www.stronans.ie/uploads/2/6/3/6/26364396/primary_school_survey_results_1.png",
+      "final_url": "https://www.stronans.ie/uploads/2/6/3/6/26364396/primary_school_survey_results_1.png",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download File"
+    },
+    {
+      "url": "https://www.stronans.ie/parents.html",
+      "final_url": "https://www.stronans.ie/parents.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents"
+    },
+    {
+      "url": "https://www.stronans.ie/uploads/2/6/3/6/26364396/walk_poster__1__2022.docx.pdf",
+      "final_url": "https://www.stronans.ie/uploads/2/6/3/6/26364396/walk_poster__1__2022.docx.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: Step in to Spring"
+    },
+    {
+      "url": "https://www.stronans.ie/uploads/2/6/3/6/26364396/rainbows_separation_parenting_plus_2022.docx.pdf",
+      "final_url": "https://www.stronans.ie/uploads/2/6/3/6/26364396/rainbows_separation_parenting_plus_2022.docx.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: rainbows_separation_parenting_plus_2022.docx.pdf"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19707A",
+      "url": "https://www.stronans.ie/enrolment.html",
+      "label": "Enrolment",
+      "sha256": "45cadb1507c66a81611497073fcba801631fe628f51a7d76b2c49cc1d58e7909",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19707A_45cadb1507c66a816114.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 905
+    },
+    {
+      "roll": "19707A",
+      "url": "https://www.stronans.ie/uploads/2/6/3/6/26364396/admission_policy_26_27__newest___1_.docx",
+      "label": "Prior school admissions section",
+      "sha256": "ac417031cd78b44d3d9f87e0a18c1cc0c1f13e32e3f3ad23390a0a206fbcdea2",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/19707A_ac417031cd78b44d3d9f.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 22242
+    },
+    {
+      "roll": "19707A",
+      "url": "https://www.stronans.ie/school-policies.html",
+      "label": "School Policies",
+      "sha256": "10bd5399ef956030e18bc1d23c530392631d2df4e9ce8dc74cdf3e0bf97e4fe0",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19707A_10bd5399ef956030e18b.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1855
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.stronans.ie/uploads/2/6/3/6/26364396/rainbows_2023.docx.pdf",
+      "label": "Download file: Rainbows",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stronans.ie/uploads/2/6/3/6/26364396/timetable.pdf",
+      "label": "Download file: Walk in Clinic Timetable",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stronans.ie/uploads/2/6/3/6/26364396/memo_schools_7.12.22v1.4_1.pdf",
+      "label": "Download file: Letter to parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stronans.ie/uploads/2/6/3/6/26364396/memo_schools_7.12.22v1.4.pdf",
+      "label": "Download file: Letter to Parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stronans.ie/uploads/2/6/3/6/26364396/library_guide.pdf",
+      "label": "Download file: Library Events",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stronans.ie/uploads/2/6/3/6/26364396/internet_safety_cyberbullying_parent_guardian_teacher_event_flyer.pdf",
+      "label": "Download file: More Information about the event",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stronans.ie/uploads/2/6/3/6/26364396/internet_safer_day_webwise-parents-guide__1_.pdf",
+      "label": "Download file: Parent's Guide to a Better Internet",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stronans.ie/uploads/2/6/3/6/26364396/hse_note_to_parents_-_english__1_.pdf",
+      "label": "here",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stronans.ie/uploads/2/6/3/6/26364396/hscl_sinead.pdf",
+      "label": "Download file: Upcoming Events and Initiatives",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stronans.ie/uploads/2/6/3/6/26364396/flu_vaccine_walk_in_clinics.pdf",
+      "label": "Download file: Flu vaccine Information",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stronans.ie/uploads/2/6/3/6/26364396/deansrath_family_centre.docx.pdf",
+      "label": "Download file: Parenting plus programme",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stronans.ie/uploads/2/6/3/6/26364396/autism_information_talk.docx.pdf",
+      "label": "Download file: Autism Information Talk",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stronans.ie/events-for-parents.html",
+      "label": "EVENTS FOR PARENTS",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stronans.ie/code-of-conduct-for-parents.html",
+      "label": "Code of Conduct for Parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stronans.ie",
+      "label": "School homepage",
+      "via": "home"
+    },
+    {
+      "url": "https://www.stronans.ie/uploads/2/6/3/6/26364396/mobile_phone_electronic_games_policy_2021.docx-2.pdf",
+      "label": "下载文件：St. Ronan's NS Mobile Phone Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stronans.ie/uploads/2/6/3/6/26364396/st_ronans_data_protection_policy.docx",
+      "label": "下载文件：St. Ronan's Data Protection Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stronans.ie/uploads/2/6/3/6/26364396/st._ronans_acceptableusepolicy_edited__2_.pdf",
+      "label": "下载文件：St. Ronan's Acceptable Use Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stronans.ie/uploads/2/6/3/6/26364396/signed_final_bi_cinnealta.pdf",
+      "label": "下载文件：Bí Cineálta Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stronans.ie/uploads/2/6/3/6/26364396/policy_on_the_stay_safe_programme.docx",
+      "label": "下载文件：Stay Safe Program Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stronans.ie/uploads/2/6/3/6/26364396/homework_policy.doc",
+      "label": "下载文件：Homework Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stronans.ie/uploads/2/6/3/6/26364396/administrationofmedicinespolicy.doc.pdf",
+      "label": "下载文件：Administration of Medicines Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stronans.ie/uploads/2/6/3/6/26364396/_healthy_eating_policy_draft_2.docx.pdf",
+      "label": "下载文件：Healthy Eating Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 73.63,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:57:38+0000"
+}

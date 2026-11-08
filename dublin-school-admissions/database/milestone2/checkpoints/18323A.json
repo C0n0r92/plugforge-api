@@ -1,0 +1,46 @@
+{
+  "roll": "18323A",
+  "status": "bounded_search_no_new_notice_found",
+  "attempts": [
+    {
+      "url": "https://www.stlorcans.com/our-school/admissions-enrolment-forms",
+      "final_url": "https://www.stlorcans.com/our-school/admissions-enrolment-forms",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions & Enrolment Forms"
+    },
+    {
+      "url": "https://www.stlorcans.com/sitemap.xml",
+      "final_url": "https://www.stlorcans.com/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.stlorcans.com/parents/parents-association",
+      "final_url": "https://www.stlorcans.com/parents/parents-association",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents' Association"
+    },
+    {
+      "url": "https://www.stlorcans.com/our-school/policies",
+      "final_url": "https://www.stlorcans.com/our-school/policies",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.stlorcans.com/",
+      "final_url": "https://www.stlorcans.com/",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    }
+  ],
+  "documents": [],
+  "pending_links": [],
+  "elapsed_seconds": 14.11,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:03:37+0000"
+}

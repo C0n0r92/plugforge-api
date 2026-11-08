@@ -1,0 +1,195 @@
+{
+  "roll": "19473B",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://scoilbhridedonaghmede.ie/wp-content/uploads/2018/12/admissions1.jpg",
+      "final_url": "https://scoilbhridedonaghmede.ie/wp-content/uploads/2018/12/admissions1.jpg",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "admissions1"
+    },
+    {
+      "url": "https://scoilbhridedonaghmede.ie/wp-content/uploads/2018/12/admissions.jpg",
+      "final_url": "https://scoilbhridedonaghmede.ie/wp-content/uploads/2018/12/admissions.jpg",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "admissions"
+    },
+    {
+      "url": "https://scoilbhridedonaghmede.ie/enrolment-form/",
+      "final_url": "https://scoilbhridedonaghmede.ie/enrolment-form/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Pre-enrolment Form"
+    },
+    {
+      "url": "https://scoilbhridedonaghmede.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://scoilbhridedonaghmede.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://scoilbhridedonaghmede.ie/wp-content/uploads/2026/01/doc03140720260106112526-1.pdf",
+      "final_url": "https://scoilbhridedonaghmede.ie/wp-content/uploads/2026/01/doc03140720260106112526-1.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Policy Updated December 2025"
+    },
+    {
+      "url": "https://scoilbhridedonaghmede.ie/wp-content/uploads/2020/04/admissions-policy.jpeg",
+      "final_url": "https://scoilbhridedonaghmede.ie/wp-content/uploads/2020/04/admissions-policy.jpeg",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "admissions policy"
+    },
+    {
+      "url": "https://scoilbhridedonaghmede.ie/parental-complaints-procedure/",
+      "final_url": "https://scoilbhridedonaghmede.ie/parental-complaints-procedure/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Revised Parental Complaints Procedure 2024"
+    },
+    {
+      "url": "https://scoilbhridedonaghmede.ie/parental-complaints-procedure/parental-complaints-procedure-2024/",
+      "final_url": "https://scoilbhridedonaghmede.ie/wp-content/uploads/2024/04/Parental-Complaints-Procedure-2024.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parental Complaints Procedure 2024"
+    },
+    {
+      "url": "https://scoilbhridedonaghmede.ie/admissions-policy/doc03140720260106112526-1/",
+      "final_url": "https://scoilbhridedonaghmede.ie/wp-content/uploads/2026/01/doc03140720260106112526-1.pdf",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions Policy Updated December 2025"
+    },
+    {
+      "url": "https://scoilbhridedonaghmede.ie/sitemap_index.xml",
+      "final_url": "https://scoilbhridedonaghmede.ie/sitemap_index.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://scoilbhridedonaghmede.ie/parents-association/",
+      "final_url": "https://scoilbhridedonaghmede.ie/parents-association/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents’ Association"
+    },
+    {
+      "url": "https://scoilbhridedonaghmede.ie/admissions-policy/",
+      "final_url": "https://scoilbhridedonaghmede.ie/admissions-policy/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions Policy"
+    },
+    {
+      "url": "https://scoilbhridedonaghmede.ie/",
+      "final_url": "https://scoilbhridedonaghmede.ie/",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://scoilbhridedonaghmede.ie/scoil-bhride-bi-cinealta-policy-to-prevent-and-address-bullying-behaviour/",
+      "final_url": "https://scoilbhridedonaghmede.ie/scoil-bhride-bi-cinealta-policy-to-prevent-and-address-bullying-behaviour/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Scoil Bhríde Bí Cineálta Policy to Prevent and Address Bullying Behaviour"
+    },
+    {
+      "url": "https://scoilbhridedonaghmede.ie/scoil-bhride-bi-cinealta-policy-to-prevent-and-address-bullying-behaviour/bi-cinealta-policy-sbjns-approved-by-patron-body-on-24th-of-october-2025-2/",
+      "final_url": "https://scoilbhridedonaghmede.ie/wp-content/uploads/2025/11/Bi-Cinealta-Policy-SBJNS-Approved-by-Patron-Body-on-24th-of-October-2025-1.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Scoil Bhríde Bí Cineálta Policy to Prevent and Address Bullying Behaviour"
+    },
+    {
+      "url": "https://scoilbhridedonaghmede.ie/remote-learning-policy/",
+      "final_url": "https://scoilbhridedonaghmede.ie/remote-learning-policy/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Remote Learning Policy"
+    },
+    {
+      "url": "https://scoilbhridedonaghmede.ie/religious-education-policy/",
+      "final_url": "https://scoilbhridedonaghmede.ie/religious-education-policy/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Religious Education Policy"
+    },
+    {
+      "url": "https://scoilbhridedonaghmede.ie/privacy-policy/",
+      "final_url": "https://scoilbhridedonaghmede.ie/privacy-policy/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Privacy Policy"
+    },
+    {
+      "url": "https://scoilbhridedonaghmede.ie/parents-as-partners-policy/",
+      "final_url": "https://scoilbhridedonaghmede.ie/parents-as-partners-policy/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents as Partners Policy"
+    },
+    {
+      "url": "https://scoilbhridedonaghmede.ie/healthy-eating-policy/",
+      "final_url": "https://scoilbhridedonaghmede.ie/healthy-eating-policy/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Healthy Eating Policy"
+    },
+    {
+      "url": "https://scoilbhridedonaghmede.ie/equality-of-access-and-participation-policy/",
+      "final_url": "https://scoilbhridedonaghmede.ie/equality-of-access-and-participation-policy/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Equality of Access and Participation Policy"
+    },
+    {
+      "url": "https://scoilbhridedonaghmede.ie/covid-19-response-policy/",
+      "final_url": "https://scoilbhridedonaghmede.ie/covid-19-response-policy/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Covid 19 Response Policy"
+    },
+    {
+      "url": "https://scoilbhridedonaghmede.ie/aup_for_the_internet/",
+      "final_url": "https://scoilbhridedonaghmede.ie/aup_for_the_internet/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Acceptable Use Policy"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19473B",
+      "url": "https://scoilbhridedonaghmede.ie/enrolment-form/",
+      "label": "Pre-enrolment Form",
+      "sha256": "7857d85da1d2212f4666d731635b24f396be9e4714b54f54e5fd0e111fc80ac4",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19473B_7857d85da1d2212f4666.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1062
+    },
+    {
+      "roll": "19473B",
+      "url": "https://scoilbhridedonaghmede.ie/admissions-policy/",
+      "label": "Admissions Policy",
+      "sha256": "a9157d654aa2ddf4e676683b9cd3905bb1650cd9e1c051ee34c0e3857cf9bf19",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19473B_a9157d654aa2ddf4e676.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 18100
+    }
+  ],
+  "pending_links": [],
+  "elapsed_seconds": 136.9,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:56:57+0000"
+}

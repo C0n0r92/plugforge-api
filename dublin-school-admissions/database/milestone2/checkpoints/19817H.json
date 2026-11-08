@@ -1,0 +1,100 @@
+{
+  "roll": "19817H",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.scoilmhuire.ie/Page/Admissions/14546/Index.html",
+      "final_url": "https://www.scoilmhuire.ie/Page/Admissions/14546/Index.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://www.scoilmhuire.ie/Admissions/Index.html",
+      "final_url": "https://www.scoilmhuire.ie/Admissions/Index.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions"
+    },
+    {
+      "url": "http://file:///C:/Users/1kerr/Downloads/doc00532220251014134651%20(1).pdf",
+      "final_url": "http://file:///C:/Users/1kerr/Downloads/doc00532220251014134651%20(1).pdf",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "Latest News"
+    },
+    {
+      "url": "https://www.scoilmhuire.ie/sitemap.xml",
+      "final_url": "https://www.scoilmhuire.ie/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.scoilmhuire.ie/page/Policies/13610/Index.html",
+      "final_url": "https://www.scoilmhuire.ie/page/Policies/13610/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://storage.googleapis.com/iclasscrm_files/6199/Images/Content/2026/295/tp75-doc04241620261022145530.pdf",
+      "final_url": "https://storage.googleapis.com/iclasscrm_files/6199/Images/Content/2026/295/tp75-doc04241620261022145530.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions Policy"
+    },
+    {
+      "url": "https://www.scoilmhuire.ie/page/Parents-Association/13142/Index.html",
+      "final_url": "https://www.scoilmhuire.ie/page/Parents-Association/13142/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents' Association"
+    },
+    {
+      "url": "https://www.scoilmhuire.ie/Parents/Index.html",
+      "final_url": "https://www.scoilmhuire.ie/Parents/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents"
+    },
+    {
+      "url": "https://www.scoilmhuire.ie/Page/Parents-Association/13142/Index.html",
+      "final_url": "https://www.scoilmhuire.ie/Page/Parents-Association/13142/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents Association"
+    },
+    {
+      "url": "https://www.scoilmhuire.ie",
+      "final_url": "https://www.scoilmhuire.ie",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.ScoilMhuire.ie/Content/2025/10/zr96-Bi_Cinealta_Policy_Sept_2025_1.pdf",
+      "final_url": "https://www.ScoilMhuire.ie/Content/2025/10/zr96-Bi_Cinealta_Policy_Sept_2025_1.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Bí Cineálta Policy"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19817H",
+      "url": "https://www.scoilmhuire.ie/Page/Admissions/14546/Index.html",
+      "label": "Admissions",
+      "sha256": "575b7f6e78a4d05401446f3223cf4ef6ec0948b17bf3106c201b8e7474c9ca79",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19817H_575b7f6e78a4d0540144.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 960
+    }
+  ],
+  "pending_links": [],
+  "elapsed_seconds": 31.98,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:57:20+0000"
+}

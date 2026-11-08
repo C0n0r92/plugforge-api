@@ -1,0 +1,24 @@
+{
+  "roll": "17263D",
+  "started_at": "2026-11-08T13:20:22+0000",
+  "method": "previously_linked_explicit_annual_notice_gap_followup",
+  "attempts": [
+    {
+      "url": "https://www.oldtownns.ie/documentlink/35/?open=true",
+      "final_url": "https://view.officeapps.live.com/op/embed.aspx?src=https://swddoc.b-cdn.net/735/docletter/20251001084015_26_Annual_Admission_Notice_2025.doc",
+      "status": "robots_disallow",
+      "label": "Annual Admission Notice 2025.doc"
+    },
+    {
+      "url": "https://www.oldtownns.ie/documentlink/51/?open=true",
+      "final_url": "https://view.officeapps.live.com/op/embed.aspx?src=https://swddoc.b-cdn.net/735/docletter/20260928020358_54_Annual_Admission_Notice_2026.doc",
+      "status": "robots_disallow",
+      "label": "Annual Admission Notice 2026.doc"
+    }
+  ],
+  "documents": [],
+  "pending_links": [],
+  "earliest_year_cutoff": null,
+  "status": "attempted_no_new_numeric_notice_established",
+  "elapsed_seconds": 3.93
+}

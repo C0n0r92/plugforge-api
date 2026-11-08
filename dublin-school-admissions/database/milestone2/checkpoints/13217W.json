@@ -1,0 +1,334 @@
+{
+  "roll": "13217W",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://sites.google.com/holyfamilyns.ie/annual-admission-notice/home",
+      "final_url": "https://sites.google.com/holyfamilyns.ie/annual-admission-notice/home",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Click for Annual Admissions Notice"
+    },
+    {
+      "url": "https://sites.google.com/holyfamilyns.ie/enrolment/home",
+      "final_url": "https://sites.google.com/holyfamilyns.ie/enrolment/home",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Enrolment"
+    },
+    {
+      "url": "https://holyfamilyns.ie/wp-content/uploads/2020/08/EnrolmentAdmission-Policy-Holy-Family-NS-Rathcoole-20.07.2020.docx",
+      "final_url": "https://holyfamilyns.ie/wp-content/uploads/2020/08/EnrolmentAdmission-Policy-Holy-Family-NS-Rathcoole-20.07.2020.docx",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://holyfamilyns.ie/wp-content/uploads/2021/05/EnrolmentAdmission-Policy-Holy-Family-NS-Rathcoole-18.05.2021.docx",
+      "final_url": "https://holyfamilyns.ie/wp-content/uploads/2021/05/EnrolmentAdmission-Policy-Holy-Family-NS-Rathcoole-18.05.2021.docx",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://holyfamilyns.ie/wp-content/uploads/2021/05/EnrolmentAdmission-Policy-Holy-Family-NS-Rathcoole-18.05.2021-2.docx",
+      "final_url": "https://holyfamilyns.ie/wp-content/uploads/2021/05/EnrolmentAdmission-Policy-Holy-Family-NS-Rathcoole-18.05.2021-2.docx",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://holyfamilyns.ie/wp-content/uploads/2023/01/EnrolmentAdmission-Policy-13.12.2022-2.docx",
+      "final_url": "https://holyfamilyns.ie/wp-content/uploads/2023/01/EnrolmentAdmission-Policy-13.12.2022-2.docx",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://holyfamilyns.ie/wp-content/uploads/2022/12/EnrolmentAdmission-Policy-13.12.2022.docx",
+      "final_url": "https://holyfamilyns.ie/wp-content/uploads/2022/12/EnrolmentAdmission-Policy-13.12.2022.docx",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://holyfamilyns.ie/wp-content/uploads/2022/06/EnrolmentAdmission-Policy-Holy-Family-NS-Rathcoole-14.06.22.docx",
+      "final_url": "https://holyfamilyns.ie/wp-content/uploads/2022/06/EnrolmentAdmission-Policy-Holy-Family-NS-Rathcoole-14.06.22.docx",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://holyfamilyns.ie/wp-content/uploads/2023/08/EnrolmentAdmission-Policy-20.06.23.docx",
+      "final_url": "https://holyfamilyns.ie/wp-content/uploads/2023/08/EnrolmentAdmission-Policy-20.06.23.docx",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://holyfamilyns.ie/wp-content/uploads/2023/06/EnrolmentAdmission-Policy-20.06.23.docx",
+      "final_url": "https://holyfamilyns.ie/wp-content/uploads/2023/06/EnrolmentAdmission-Policy-20.06.23.docx",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://holyfamilyns.ie/wp-content/uploads/2024/10/Enrolment-Admission-Policy-15.10.24.docx",
+      "final_url": "https://holyfamilyns.ie/wp-content/uploads/2024/10/Enrolment-Admission-Policy-15.10.24.docx",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://holyfamilyns.ie/wp-content/uploads/2024/06/Enrolment-Admission-Policy-11.06.24.docx",
+      "final_url": "https://holyfamilyns.ie/wp-content/uploads/2024/06/Enrolment-Admission-Policy-11.06.24.docx",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://sites.google.com/sitemap.xml",
+      "final_url": "https://sites.google.com/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://holyfamilyns.ie/enrolment/",
+      "final_url": "https://holyfamilyns.ie/enrolment/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions/policy URL from public sitemap"
+    },
+    {
+      "url": "https://holyfamilyns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://holyfamilyns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://holyfamilyns.ie/wp-content/uploads/2019/12/Enrolment-Admission-Policy-26.09.19.docx",
+      "final_url": "https://holyfamilyns.ie/wp-content/uploads/2019/12/Enrolment-Admission-Policy-26.09.19.docx",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Enrolment Admission Policy 26.09.19"
+    },
+    {
+      "url": "https://holyfamilyns.ie/wp-content/uploads/2019/09/Enrolment-Admission-Policy-26.09.19.docx",
+      "final_url": "https://holyfamilyns.ie/wp-content/uploads/2019/09/Enrolment-Admission-Policy-26.09.19.docx",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Enrolment Admission Policy 26.09.19"
+    },
+    {
+      "url": "https://holyfamilyns.ie/2015-parents-association-members-contact-details/",
+      "final_url": "https://holyfamilyns.ie/2015-parents-association-members-contact-details/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents Association contact details"
+    },
+    {
+      "url": "https://holyfamilyns.ie/wp-sitemap.xml",
+      "final_url": "https://holyfamilyns.ie/wp-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://holyfamilyns.ie/sitemap.xml",
+      "final_url": "https://holyfamilyns.ie/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://holyfamilyns.ie/sitemap.html",
+      "final_url": "https://holyfamilyns.ie/sitemap.html",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://holyfamilyns.ie/sitemap-misc.xml",
+      "final_url": "https://holyfamilyns.ie/sitemap-misc.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://holyfamilyns.ie/parents-association/",
+      "final_url": "https://holyfamilyns.ie/parents-association/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents Association"
+    },
+    {
+      "url": "https://holyfamilyns.ie/page-sitemap.xml",
+      "final_url": "https://holyfamilyns.ie/page-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "13217W",
+      "url": "https://sites.google.com/holyfamilyns.ie/annual-admission-notice/home",
+      "label": "Click for Annual Admissions Notice",
+      "sha256": "80063f8d588d6e6a8937d8837dc864a2830043d018ab815dadb1cb9c4aa6d652",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/13217W_80063f8d588d6e6a8937.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 213
+    },
+    {
+      "roll": "13217W",
+      "url": "https://sites.google.com/holyfamilyns.ie/enrolment/home",
+      "label": "Enrolment",
+      "sha256": "2481b4877be0f3493fd4a0a28822abc5ca2e371feed850edc8b29c23c01f4f45",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/13217W_2481b4877be0f3493fd4.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 4189
+    },
+    {
+      "roll": "13217W",
+      "url": "https://holyfamilyns.ie/wp-content/uploads/2020/08/EnrolmentAdmission-Policy-Holy-Family-NS-Rathcoole-20.07.2020.docx",
+      "label": "Prior school admissions section",
+      "sha256": "f1997b37a88a5850632bdf4cfd4adc050b25312bd7d485ca33c7c5e46d75e4a3",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/13217W_f1997b37a88a5850632b.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 49734
+    },
+    {
+      "roll": "13217W",
+      "url": "https://holyfamilyns.ie/wp-content/uploads/2021/05/EnrolmentAdmission-Policy-Holy-Family-NS-Rathcoole-18.05.2021.docx",
+      "label": "Prior school admissions section",
+      "sha256": "facdfbc9b658f42809b79e02654ae3b2df162ec6f220a7055f1bf6dc8c4aae86",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/13217W_facdfbc9b658f42809b7.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 49524
+    },
+    {
+      "roll": "13217W",
+      "url": "https://holyfamilyns.ie/wp-content/uploads/2021/05/EnrolmentAdmission-Policy-Holy-Family-NS-Rathcoole-18.05.2021-2.docx",
+      "label": "Prior school admissions section",
+      "sha256": "c7316614de3892c1fe6f877b69b059b7e2c6c1eeaee52c854f789fa609c7e92c",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/13217W_c7316614de3892c1fe6f.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 49391
+    },
+    {
+      "roll": "13217W",
+      "url": "https://holyfamilyns.ie/wp-content/uploads/2023/01/EnrolmentAdmission-Policy-13.12.2022-2.docx",
+      "label": "Prior school admissions section",
+      "sha256": "30d374885fe41a792a9f902c45a65f7af99ffdacca7cb9d75871f16156e24f81",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/13217W_30d374885fe41a792a9f.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 49967
+    },
+    {
+      "roll": "13217W",
+      "url": "https://holyfamilyns.ie/wp-content/uploads/2022/12/EnrolmentAdmission-Policy-13.12.2022.docx",
+      "label": "Prior school admissions section",
+      "sha256": "8df4a668dae2a59a4c28aa66595616c70eb955ae88cc00fa7fdca3e5e57a32bb",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/13217W_8df4a668dae2a59a4c28.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 49930
+    },
+    {
+      "roll": "13217W",
+      "url": "https://holyfamilyns.ie/wp-content/uploads/2022/06/EnrolmentAdmission-Policy-Holy-Family-NS-Rathcoole-14.06.22.docx",
+      "label": "Prior school admissions section",
+      "sha256": "ea6476304daa6ea9ea781e319d3e2854c1a3822f4b91bd9e0873464dcd53441d",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/13217W_ea6476304daa6ea9ea78.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 49392
+    },
+    {
+      "roll": "13217W",
+      "url": "https://holyfamilyns.ie/wp-content/uploads/2023/08/EnrolmentAdmission-Policy-20.06.23.docx",
+      "label": "Prior school admissions section",
+      "sha256": "9907af620c49bd672039d995e11bffacf548c3e932718219feeec210056863b1",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/13217W_9907af620c49bd672039.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 49939
+    },
+    {
+      "roll": "13217W",
+      "url": "https://holyfamilyns.ie/wp-content/uploads/2023/06/EnrolmentAdmission-Policy-20.06.23.docx",
+      "label": "Prior school admissions section",
+      "sha256": "92b93fa71a25ca766b66823a627d501b24e820b3d7e59272576a70c424970206",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/13217W_92b93fa71a25ca766b66.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 49941
+    },
+    {
+      "roll": "13217W",
+      "url": "https://holyfamilyns.ie/wp-content/uploads/2024/10/Enrolment-Admission-Policy-15.10.24.docx",
+      "label": "Prior school admissions section",
+      "sha256": "7d5e80553a6fb30ea8c2c8a4bf03069c736694b974f66ba88146134757a459cf",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/13217W_7d5e80553a6fb30ea8c2.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 51528
+    },
+    {
+      "roll": "13217W",
+      "url": "https://holyfamilyns.ie/wp-content/uploads/2024/06/Enrolment-Admission-Policy-11.06.24.docx",
+      "label": "Prior school admissions section",
+      "sha256": "e8070e359cad8affa72b0d436fc931d218266258987a3275f789647d54e9e254",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/13217W_e8070e359cad8affa72b.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 49069
+    },
+    {
+      "roll": "13217W",
+      "url": "https://holyfamilyns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "label": "Oldest public admission media (all dates)",
+      "sha256": "0279f8c43ec5095e3105978677b71494e7a44426c6bd03b51176dcd1c0f84e1a",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/13217W_0279f8c43ec5095e3105.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1572
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://holyfamilyns.ie/constitution-of-parents-association/",
+      "label": "Constitution of PA",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://holyfamilyns.ie/",
+      "label": "School homepage",
+      "via": "home"
+    }
+  ],
+  "elapsed_seconds": 92.63,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:40:49+0000"
+}

@@ -1,0 +1,102 @@
+{
+  "roll": "18411U",
+  "status": "bounded_search_no_new_notice_found",
+  "attempts": [
+    {
+      "url": "https://stmarystallaght.ie/",
+      "final_url": "https://stmarystallaght.ie/",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "http://stmarystallaght.ie/about-us/enrolment/",
+      "final_url": "http://stmarystallaght.ie/about-us/enrolment/",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "Enrolment dates for Junior Infants 2027/28 school year: 2nd - 20th Nov 2026 Please click here for Information on Enrolment"
+    },
+    {
+      "url": "https://stmarystallaght.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://stmarystallaght.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://stmarystallaght.ie/about-us/enrolment/",
+      "final_url": "https://stmarystallaght.ie/about-us/enrolment/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Enrolment"
+    },
+    {
+      "url": "https://stmarystallaght.ie/about-us/enrolment/$1$s",
+      "final_url": "https://stmarystallaght.ie/about-us/enrolment/$1$s",
+      "status": "http_404",
+      "via": "school_public_link",
+      "label": "ThimPress"
+    },
+    {
+      "url": "https://stmarystallaght.ie/sitemap.xml",
+      "final_url": "https://stmarystallaght.ie/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://stmarystallaght.ie/about-us/parents-assos/",
+      "final_url": "https://stmarystallaght.ie/about-us/parents-assos/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents Assos"
+    },
+    {
+      "url": "https://stmarystallaght.ie/about-us/parents-assos/$1$s",
+      "final_url": "https://stmarystallaght.ie/about-us/parents-assos/$1$s",
+      "status": "http_404",
+      "via": "school_public_link",
+      "label": "ThimPress"
+    },
+    {
+      "url": "https://stmarystallaght.ie/about-us/our-policies/img_7597/",
+      "final_url": "https://stmarystallaght.ie/about-us/our-policies/img_7597/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://stmarystallaght.ie/about-us/our-policies/img_7597/$1$s",
+      "final_url": "https://stmarystallaght.ie/about-us/our-policies/img_7597/$1$s",
+      "status": "http_404",
+      "via": "school_public_link",
+      "label": "ThimPress"
+    },
+    {
+      "url": "https://stmarystallaght.ie/about-us/our-policies/",
+      "final_url": "https://stmarystallaght.ie/about-us/our-policies/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Our Policies"
+    },
+    {
+      "url": "https://stmarystallaght.ie/about-us/our-policies/$1$s",
+      "final_url": "https://stmarystallaght.ie/about-us/our-policies/$1$s",
+      "status": "http_404",
+      "via": "school_public_link",
+      "label": "ThimPress"
+    },
+    {
+      "url": "https://stmarysnstallaght-my.sharepoint.com/:w:/g/personal/michelle_meaney_stmarystallaght_ie/Eb-Rj_FcF9NDoUPCWr-BBbUBqD71taqUxbwGwfaCFS17tA?e=3XXZ2b",
+      "final_url": "https://stmarysnstallaght-my.sharepoint.com/:w:/g/personal/michelle_meaney_stmarystallaght_ie/Eb-Rj_FcF9NDoUPCWr-BBbUBqD71taqUxbwGwfaCFS17tA?e=3XXZ2b",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Click here to access our Admission Policy"
+    }
+  ],
+  "documents": [],
+  "pending_links": [],
+  "elapsed_seconds": 61.63,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:04:33+0000"
+}

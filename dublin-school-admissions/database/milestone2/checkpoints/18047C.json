@@ -1,0 +1,384 @@
+{
+  "roll": "18047C",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.scoilbhridecailini.ie/wp-content/uploads/2026/10/Admission-Information-27-28.docx",
+      "final_url": "https://www.scoilbhridecailini.ie/wp-content/uploads/2026/10/Admission-Information-27-28.docx",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://www.scoilbhridecailini.ie/index.php/admissions/",
+      "final_url": "https://www.scoilbhridecailini.ie/index.php/admissions/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://www.scoilbhridecailini.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://www.scoilbhridecailini.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://www.scoilbhridecailini.ie/wp-content/uploads/2021/11/Annual-Admissions-Notice-for-SBC-for-22-239815.pdf",
+      "final_url": "https://www.scoilbhridecailini.ie/wp-content/uploads/2021/11/Annual-Admissions-Notice-for-SBC-for-22-239815.pdf",
+      "status": "http_404",
+      "via": "public_wordpress_media_link",
+      "label": "Annual Admissions Notice for SBC for 22-23[9815]"
+    },
+    {
+      "url": "https://www.scoilbhridecailini.ie/wp-content/uploads/2023/10/Admission-Notice-24-25-FINAL.pdf",
+      "final_url": "https://www.scoilbhridecailini.ie/wp-content/uploads/2023/10/Admission-Notice-24-25-FINAL.pdf",
+      "status": "http_404",
+      "via": "public_wordpress_media_link",
+      "label": "Admission Notice 24-25 FINAL"
+    },
+    {
+      "url": "https://www.scoilbhridecailini.ie/wp-content/uploads/2020/12/Application-for-Admission-to-Scoil-Bhride-Cailini-2021.pdf",
+      "final_url": "https://www.scoilbhridecailini.ie/wp-content/uploads/2020/12/Application-for-Admission-to-Scoil-Bhride-Cailini-2021.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Application for Admission to Scoil Bhríde Cailíní 2021"
+    },
+    {
+      "url": "https://www.scoilbhridecailini.ie/wp-content/uploads/2020/11/Application-for-Admission-to-Scoil-Bhríde-Cailíní.pdf",
+      "final_url": "https://www.scoilbhridecailini.ie/wp-content/uploads/2020/11/Application-for-Admission-to-Scoil-Bhríde-Cailíní.pdf",
+      "status": "http_404",
+      "via": "public_wordpress_media_link",
+      "label": "Application for Admission to Scoil Bhríde (Cailíní)"
+    },
+    {
+      "url": "https://www.scoilbhridecailini.ie/wp-content/uploads/2021/11/Application-for-Admission-to-Scoil-Bhride-Cailini9816.pdf",
+      "final_url": "https://www.scoilbhridecailini.ie/wp-content/uploads/2021/11/Application-for-Admission-to-Scoil-Bhride-Cailini9816.pdf",
+      "status": "http_404",
+      "via": "public_wordpress_media_link",
+      "label": "Application for Admission to Scoil Bhríde Cailíní[9816]"
+    },
+    {
+      "url": "https://www.scoilbhridecailini.ie/wp-content/uploads/2021/11/Application-for-Admission-to-Scoil-Bhride-Cailini-9488.pdf",
+      "final_url": "https://www.scoilbhridecailini.ie/wp-content/uploads/2021/11/Application-for-Admission-to-Scoil-Bhride-Cailini-9488.pdf",
+      "status": "http_404",
+      "via": "public_wordpress_media_link",
+      "label": "Application for Admission to Scoil Bhríde Cailíní [9488]"
+    },
+    {
+      "url": "https://www.scoilbhridecailini.ie/wp-content/uploads/2021/11/Appendix_1_-Admission_to_Special_Class_SBC9814.pdf",
+      "final_url": "https://www.scoilbhridecailini.ie/wp-content/uploads/2021/11/Appendix_1_-Admission_to_Special_Class_SBC9814.pdf",
+      "status": "http_404",
+      "via": "public_wordpress_media_link",
+      "label": "Appendix_1_-Admission_to_Special_Class_SBC[9814]"
+    },
+    {
+      "url": "https://www.scoilbhridecailini.ie/wp-content/uploads/2022/10/Application-for-Admission-to-SBC-Sept-23.pdf",
+      "final_url": "https://www.scoilbhridecailini.ie/wp-content/uploads/2022/10/Application-for-Admission-to-SBC-Sept-23.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Application for Admission to SBC Sept 23"
+    },
+    {
+      "url": "https://www.scoilbhridecailini.ie/wp-content/uploads/2022/04/Appendix_1_-Admission_to_Special_Class_SBC.pdf",
+      "final_url": "https://www.scoilbhridecailini.ie/wp-content/uploads/2022/04/Appendix_1_-Admission_to_Special_Class_SBC.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Appendix_1_-Admission_to_Special_Class_SBC"
+    },
+    {
+      "url": "https://www.scoilbhridecailini.ie/wp-content/uploads/2022/02/Application-for-Admission-to-Scoil-Bhride-Cailini.pdf",
+      "final_url": "https://www.scoilbhridecailini.ie/wp-content/uploads/2022/02/Application-for-Admission-to-Scoil-Bhride-Cailini.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Application for Admission to Scoil Bhríde Cailíní"
+    },
+    {
+      "url": "https://www.scoilbhridecailini.ie/wp-content/uploads/2023/10/Application-for-Admission-to-SBC-24-25-school-year.pdf",
+      "final_url": "https://www.scoilbhridecailini.ie/wp-content/uploads/2023/10/Application-for-Admission-to-SBC-24-25-school-year.pdf",
+      "status": "http_404",
+      "via": "public_wordpress_media_link",
+      "label": "Application for Admission to SBC 24-25 school year"
+    },
+    {
+      "url": "https://www.scoilbhridecailini.ie/wp-content/uploads/2023/10/Appendix-1-Admission-to-ASD-Special-Class-October-2023-Final.pdf",
+      "final_url": "https://www.scoilbhridecailini.ie/wp-content/uploads/2023/10/Appendix-1-Admission-to-ASD-Special-Class-October-2023-Final.pdf",
+      "status": "http_404",
+      "via": "public_wordpress_media_link",
+      "label": "Appendix 1- Admission to ASD Special Class October 2023 Final"
+    },
+    {
+      "url": "https://www.scoilbhridecailini.ie/wp-content/uploads/2023/02/Appendix_1_-Admission_to_Special_Class_SBC_8.2.23.pdf",
+      "final_url": "https://www.scoilbhridecailini.ie/wp-content/uploads/2023/02/Appendix_1_-Admission_to_Special_Class_SBC_8.2.23.pdf",
+      "status": "http_404",
+      "via": "public_wordpress_media_link",
+      "label": "Appendix_1_-Admission_to_Special_Class_SBC_8.2.23"
+    },
+    {
+      "url": "https://www.scoilbhridecailini.ie/wp-content/uploads/2024/10/Appendix-1-Admission-to-Special-Class-SBC-September-2024-PDF.pdf",
+      "final_url": "https://www.scoilbhridecailini.ie/wp-content/uploads/2024/10/Appendix-1-Admission-to-Special-Class-SBC-September-2024-PDF.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Appendix 1 -Admission to Special Class SBC September 2024 PDF"
+    },
+    {
+      "url": "https://www.scoilbhridecailini.ie/wp-content/uploads/2025/06/Application-for-Admission-to-SBC-24-25-school-year.pdf",
+      "final_url": "https://www.scoilbhridecailini.ie/wp-content/uploads/2025/06/Application-for-Admission-to-SBC-24-25-school-year.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Application for Admission to SBC 24-25 school year"
+    },
+    {
+      "url": "https://www.scoilbhridecailini.ie/wp-content/uploads/2025/06/Admission-to-Autism-Special-Classes.pdf",
+      "final_url": "https://www.scoilbhridecailini.ie/wp-content/uploads/2025/06/Admission-to-Autism-Special-Classes.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admission to Autism Special Classes"
+    },
+    {
+      "url": "https://www.scoilbhridecailini.ie/wp-content/uploads/2025/06/Admission-to-Autism-Special-Classes-1.pdf",
+      "final_url": "https://www.scoilbhridecailini.ie/wp-content/uploads/2025/06/Admission-to-Autism-Special-Classes-1.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admission to Autism Special Classes"
+    },
+    {
+      "url": "https://www.scoilbhridecailini.ie/wp-content/uploads/2025/06/18047C-Appendix-1-Admission-to-Special-Class-SBC-3.6.2025.pdf",
+      "final_url": "https://www.scoilbhridecailini.ie/wp-content/uploads/2025/06/18047C-Appendix-1-Admission-to-Special-Class-SBC-3.6.2025.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "18047C &#8211; Appendix 1 -Admission to Special Class SBC 3.6.2025"
+    },
+    {
+      "url": "https://www.scoilbhridecailini.ie/wp-content/uploads/2020/11/Scoil-Bhríde-Cailíní-Admission-Policy-1-2.pdf",
+      "final_url": "https://www.scoilbhridecailini.ie/wp-content/uploads/2020/11/Scoil-Bhríde-Cailíní-Admission-Policy-1-2.pdf",
+      "status": "http_404",
+      "via": "public_wordpress_media_link",
+      "label": "Scoil Bhríde Cailíní Admission Policy (1) (2)"
+    },
+    {
+      "url": "https://www.scoilbhridecailini.ie/wp-content/uploads/2020/11/Appendix-1-Scoil-Bhríde-Cailíní-Admission-Policy-Special-Class-2-1.pdf",
+      "final_url": "https://www.scoilbhridecailini.ie/wp-content/uploads/2020/11/Appendix-1-Scoil-Bhríde-Cailíní-Admission-Policy-Special-Class-2-1.pdf",
+      "status": "http_404",
+      "via": "public_wordpress_media_link",
+      "label": "Appendix 1 Scoil Bhríde Cailíní Admission Policy-Special Class (2) (1)"
+    },
+    {
+      "url": "https://www.scoilbhridecailini.ie/wp-content/uploads/2020/09/Appendix-1-Special-Class-Admission-Policy-SBC-Office2.pdf",
+      "final_url": "https://www.scoilbhridecailini.ie/wp-content/uploads/2020/09/Appendix-1-Special-Class-Admission-Policy-SBC-Office2.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Appendix 1 Special Class Admission Policy SBC-Office2"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "18047C",
+      "url": "https://www.scoilbhridecailini.ie/wp-content/uploads/2026/10/Admission-Information-27-28.docx",
+      "label": "Prior school admissions section",
+      "sha256": "21c51d1dece67ff28179f72f69b714de278f682a30697b4beb944e25b10e47ba",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/18047C_21c51d1dece67ff28179.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1723
+    },
+    {
+      "roll": "18047C",
+      "url": "https://www.scoilbhridecailini.ie/index.php/admissions/",
+      "label": "Admissions",
+      "sha256": "5cb1b82b02836cda59e8e08cc2d705260af6950db7ef3870ad30387416f69441",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/18047C_5cb1b82b02836cda59e8.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1925
+    },
+    {
+      "roll": "18047C",
+      "url": "https://www.scoilbhridecailini.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "label": "Oldest public admission media (all dates)",
+      "sha256": "cd2345f53488067c8a991e7cc269537a2961a9965aa0fdc827e813eb1dd12947",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/18047C_cd2345f53488067c8a99.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 8336
+    },
+    {
+      "roll": "18047C",
+      "url": "https://www.scoilbhridecailini.ie/wp-content/uploads/2020/12/Application-for-Admission-to-Scoil-Bhride-Cailini-2021.pdf",
+      "label": "Application for Admission to Scoil Bhríde Cailíní 2021",
+      "sha256": "931129b5441c433c3a8d81316d334d811e82f630b18f112fac81470299f53064",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/18047C_931129b5441c433c3a8d.txt",
+      "source_file": "database/milestone2/cache/931129b5441c433c3a8d81316d334d811e82f630b18f112fac81470299f53064.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 13643
+    },
+    {
+      "roll": "18047C",
+      "url": "https://www.scoilbhridecailini.ie/wp-content/uploads/2022/10/Application-for-Admission-to-SBC-Sept-23.pdf",
+      "label": "Application for Admission to SBC Sept 23",
+      "sha256": "61b9436a0fb5b37da97b8dfb23783c0d80536c28af79ed450abb58ead7ea0f4f",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/18047C_61b9436a0fb5b37da97b.txt",
+      "source_file": "database/milestone2/cache/61b9436a0fb5b37da97b8dfb23783c0d80536c28af79ed450abb58ead7ea0f4f.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 14074
+    },
+    {
+      "roll": "18047C",
+      "url": "https://www.scoilbhridecailini.ie/wp-content/uploads/2022/02/Application-for-Admission-to-Scoil-Bhride-Cailini.pdf",
+      "label": "Application for Admission to Scoil Bhríde Cailíní",
+      "sha256": "47b14c4771d81a537d39c1a42d59b128c1db94b90ebee2bb750631da1a21757a",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/18047C_47b14c4771d81a537d39.txt",
+      "source_file": "database/milestone2/cache/47b14c4771d81a537d39c1a42d59b128c1db94b90ebee2bb750631da1a21757a.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 14066
+    },
+    {
+      "roll": "18047C",
+      "url": "https://www.scoilbhridecailini.ie/wp-content/uploads/2025/06/Application-for-Admission-to-SBC-24-25-school-year.pdf",
+      "label": "Application for Admission to SBC 24-25 school year",
+      "sha256": "e60a8a7062e9de7c13a4b0a0874a6c15f876d513744458c61ac3d75064e6c5fb",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/18047C_e60a8a7062e9de7c13a4.txt",
+      "source_file": "database/milestone2/cache/e60a8a7062e9de7c13a4b0a0874a6c15f876d513744458c61ac3d75064e6c5fb.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 13848
+    },
+    {
+      "roll": "18047C",
+      "url": "https://www.scoilbhridecailini.ie/wp-content/uploads/2025/06/Admission-to-Autism-Special-Classes.pdf",
+      "label": "Admission to Autism Special Classes",
+      "sha256": "0b129a13db920367fba34ad469ac05d8c9b622fd1bdea5541d29fd29ff1a9e22",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/18047C_0b129a13db920367fba3.txt",
+      "source_file": "database/milestone2/cache/0b129a13db920367fba34ad469ac05d8c9b622fd1bdea5541d29fd29ff1a9e22.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 15233
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.scoilbhridecailini.ie/wp-content/uploads/2020/09/Admission-Policy-SBC.pdf",
+      "label": "Admission Policy SBC",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://www.scoilbhridecailini.ie/wp-content/uploads/2020/08/Scoil-Bhríde-Cailíní-Admission-Policy.pdf",
+      "label": "Scoil Bhríde Cailíní Admission Policy",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://www.scoilbhridecailini.ie/wp-content/uploads/2020/08/Appendix-1-Scoil-Bhríde-Cailíní-Admission-Policy-Special-Class-1.pdf",
+      "label": "Appendix 1 Scoil Bhríde Cailíní Admission Policy-Special Class (1)",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://www.scoilbhridecailini.ie/wp-content/uploads/2021/11/Admission_Policy_SBC9813.pdf",
+      "label": "Admission_Policy_SBC[9813]",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://www.scoilbhridecailini.ie/wp-content/uploads/2022/04/Admission_Policy_SBC-__March_22.docx.pdf",
+      "label": "Admission_Policy_SBC-__March_22.docx",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://www.scoilbhridecailini.ie/wp-content/uploads/2023/10/Admissions-Policy-October-2023-FINAL.pdf",
+      "label": "Admissions Policy October 2023 FINAL",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://www.scoilbhridecailini.ie/wp-content/uploads/2023/02/Admissions_Policy-_8.2.23.pdf",
+      "label": "Admissions_Policy-_8.2.23",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://www.scoilbhridecailini.ie/wp-content/uploads/2024/10/Admissions-Policy-September-2024-PDF.pdf",
+      "label": "Admissions Policy- September 2024 PDF",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://www.scoilbhridecailini.ie/wp-content/uploads/2026/03/18047C-Admission-Policy-October-2025-10.10.2025.pdf",
+      "label": "18047C &#8211; Admission Policy &#8211; October 2025 10.10.2025",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://www.scoilbhridecailini.ie/wp-content/uploads/2025/06/18047C-Admission-Policy-3.6.2025.pdf",
+      "label": "18047C &#8211; Admission Policy &#8211; 3.6.2025",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://www.scoilbhridecailini.ie/wp-content/uploads/2026/10/18047C-Admission-Policy-October-2026-Patron.docx.pdf",
+      "label": "18047C &#8211; Admission Policy &#8211; October 2026 Patron.docx",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://scoilbhridecailini.ie/wp-content/uploads/2026/10/18047C-Admission-Policy-October-2026-Patron.docx.pdf",
+      "label": "https://scoilbhridecailini.ie/wp-content/uploads/2026/10/18047C-Admission-Policy-October-2026-Patron.docx.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilbhridecailini.ie/index.php/2020/11/16/managing-stress-and-anxiety-a-guide-for-parents-and-guardians/",
+      "label": "Managing Stress and Anxiety- A guide for Parents and Guardians",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilbhridecailini.ie/index.php/2021/01/29/des-supports-for-parents-29-1-21/",
+      "label": "DES Supports for Parents 29/1/21",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilbhridecailini.ie/index.php/2021/01/13/useful-documents/",
+      "label": "Useful Documents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilbhridecailini.ie/index.php/2023/11/06/parents-association-newsletters/",
+      "label": "Parents’ Association Newsletters",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilbhridecailini.ie/wp-sitemap.xml",
+      "label": "Public sitemap",
+      "via": "sitemap_root"
+    },
+    {
+      "url": "https://www.scoilbhridecailini.ie/index.php/useful-guidance-for-parents-of-primary-school-pupils/",
+      "label": "Useful Guidance for Parents of Primary School Pupils",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilbhridecailini.ie/index.php/policies-2/",
+      "label": "Policies",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilbhridecailini.ie/index.php/parents-library/",
+      "label": "Parents’ Library",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilbhridecailini.ie/index.php/parents-association/",
+      "label": "Parents’ Association",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilbhridecailini.ie",
+      "label": "School homepage",
+      "via": "home"
+    },
+    {
+      "url": "https://scoilbhridecailini.ie/wp-content/uploads/2026/03/Application-Form-2026-2027.pdf",
+      "label": "https://scoilbhridecailini.ie/wp-content/uploads/2026/03/Application-Form-2026-2027.pdf",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 83.16,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:36:42+0000"
+}

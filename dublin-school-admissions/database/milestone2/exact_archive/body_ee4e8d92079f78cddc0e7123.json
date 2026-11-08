@@ -1,0 +1,25 @@
+{
+  "roll": "19242F",
+  "capture": {
+    "timestamp": "20220705092337",
+    "original": "https://www.olvinfants.com/annual-admissions-notice.html",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "digest": "2RTW2KNSKAHPL2OAAA5COFPLCVNIMPPO"
+  },
+  "original_url": "https://www.olvinfants.com/annual-admissions-notice.html",
+  "archived_url": "https://web.archive.org/web/20220705092337/https://www.olvinfants.com/annual-admissions-notice.html",
+  "attempted_at": "2026-11-08T13:11:25.460720+00:00",
+  "linked_from_capture": null,
+  "http_status": 200,
+  "headers": {
+    "Content-Type": "text/html; charset=UTF-8",
+    "memento-datetime": "Tue, 05 Jul 2022 09:23:37 GMT"
+  },
+  "bytes": 40746,
+  "payload_sha256": "f6ce455e6f34b042fdce08de465c597b9337afce126636b3331c40025010871c",
+  "format": "html",
+  "status": "archived_body_retrieved_requires_manual_evidence_review",
+  "text_file": "database/milestone2/evidence/exact_19242F_f6ce455e6f34b042fdce.txt",
+  "linked_document_candidates": []
+}

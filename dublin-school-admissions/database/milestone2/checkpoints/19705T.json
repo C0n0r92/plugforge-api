@@ -1,0 +1,67 @@
+{
+  "roll": "19705T",
+  "status": "bounded_search_no_new_notice_found",
+  "attempts": [
+    {
+      "url": "https://www.catherinemcauleyns.ie",
+      "final_url": "https://www.catherinemcauleyns.ie",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.catherinemcauleyns.ie/letter-of-eligibility-enrolment-2026-27/",
+      "final_url": "https://www.catherinemcauleyns.ie/letter-of-eligibility-enrolment-2026-27/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.catherinemcauleyns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://www.catherinemcauleyns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "http_access_denied_403",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://www.catherinemcauleyns.ie/admissions/",
+      "final_url": "https://www.catherinemcauleyns.ie/admissions/",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://www.catherinemcauleyns.ie/sitemap_index.xml",
+      "final_url": "https://www.catherinemcauleyns.ie/sitemap_index.xml",
+      "status": "http_access_denied_403",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.catherinemcauleyns.ie/policies/",
+      "final_url": "https://www.catherinemcauleyns.ie/policies/",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.catherinemcauleyns.ie/parents/parent-guardian-consent/",
+      "final_url": "https://www.catherinemcauleyns.ie/parents/parent-guardian-consent/",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": "Parent/Guardian Consent"
+    },
+    {
+      "url": "https://www.catherinemcauleyns.ie/parents/",
+      "final_url": "https://www.catherinemcauleyns.ie/parents/",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": "Parents"
+    }
+  ],
+  "documents": [],
+  "pending_links": [],
+  "elapsed_seconds": 8.82,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:08:03+0000"
+}

@@ -1,0 +1,25 @@
+{
+  "roll": "20445D",
+  "capture": {
+    "timestamp": "20260118173025",
+    "original": "https://www.mpetns.ie/enrol",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "digest": "U4627CJ32Q2J4BCQ6HCL3PCTTGABR55Y"
+  },
+  "original_url": "https://www.mpetns.ie/enrol",
+  "archived_url": "https://web.archive.org/web/20260118173025/https://www.mpetns.ie/enrol",
+  "attempted_at": "2026-11-08T12:55:29.421798+00:00",
+  "linked_from_capture": null,
+  "http_status": 200,
+  "headers": {
+    "Content-Type": "text/html; charset=UTF-8",
+    "memento-datetime": "Sun, 18 Jan 2026 17:30:25 GMT"
+  },
+  "bytes": 1149425,
+  "payload_sha256": "b6f3a75bebcd7cc5427cdb40bada68a73e9a818605a3396d0b465d7256207db0",
+  "format": "html",
+  "status": "archived_body_retrieved_requires_manual_evidence_review",
+  "text_file": "database/milestone2/evidence/exact_20445D_b6f3a75bebcd7cc5427c.txt",
+  "linked_document_candidates": []
+}

@@ -1,0 +1,259 @@
+{
+  "roll": "19335M",
+  "status": "bounded_search_no_new_notice_found",
+  "attempts": [
+    {
+      "url": "https://www.guardianangels.ie/wp-content/uploads/2020/09/Admissions.jpg",
+      "final_url": "https://www.guardianangels.ie/wp-content/uploads/2020/09/Admissions.jpg",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://www.guardianangels.ie/admissions-for-september-2021/",
+      "final_url": "https://www.guardianangels.ie/admissions-for-september-2021/",
+      "status": "transient_ReadTimeout",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://www.guardianangels.ie/admissions/parish-map-and-districts/districts-in-parish-of-newtownpark/",
+      "final_url": "https://www.guardianangels.ie/admissions/parish-map-and-districts/districts-in-parish-of-newtownpark/",
+      "status": "transient_ReadTimeout",
+      "via": "prior_public_admissions_landing",
+      "label": "Addresses in Newtownpark Parish"
+    },
+    {
+      "url": "https://www.guardianangels.ie/admissions/parish-map-and-districts/",
+      "final_url": "https://www.guardianangels.ie/admissions/parish-map-and-districts/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Parish map and districts"
+    },
+    {
+      "url": "https://www.guardianangels.ie/wp-content/uploads/2019/02/Newtownpark.pdf",
+      "final_url": "https://www.guardianangels.ie/wp-content/uploads/2019/02/Newtownpark.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Newtownpark"
+    },
+    {
+      "url": "https://www.guardianangels.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://www.guardianangels.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "transient_ReadTimeout",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://www.guardianangels.ie/admissions/",
+      "final_url": "https://www.guardianangels.ie/admissions/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://www.guardianangels.ie/information-for-parents/school-calendar-2015-2016/",
+      "final_url": "https://www.guardianangels.ie/information-for-parents/school-calendar-2015-2016/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School calendar"
+    },
+    {
+      "url": "https://www.guardianangels.ie/information-for-parents/school-calendar-2015-2016/feilire-scoile-2026_2027-1/",
+      "final_url": "https://www.guardianangels.ie/information-for-parents/school-calendar-2015-2016/feilire-scoile-2026_2027-1/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Calendar 2026-2027"
+    },
+    {
+      "url": "https://guardianangels.ie/policies/enrolment-policy/admissions-policy-2023-2024-3/",
+      "final_url": "https://www.guardianangels.ie/policies/enrolment-policy/admissions-policy-2023-2024-3/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions Policy"
+    },
+    {
+      "url": "https://www.guardianangels.ie/wp-content/uploads/2024/09/Admissions-Policy-2023-2024-1.pdf",
+      "final_url": "https://www.guardianangels.ie/wp-content/uploads/2024/09/Admissions-Policy-2023-2024-1.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions Policy"
+    },
+    {
+      "url": "https://www.guardianangels.ie/information-for-parents/after-school-activities/",
+      "final_url": "https://www.guardianangels.ie/information-for-parents/after-school-activities/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "After-school activities 2026-27"
+    },
+    {
+      "url": "https://www.guardianangels.ie/information-for-parents/after-school-activities/afterschool-activities-2026-27/",
+      "final_url": "https://www.guardianangels.ie/information-for-parents/after-school-activities/afterschool-activities-2026-27/",
+      "status": "transient_ReadTimeout",
+      "via": "school_public_link",
+      "label": "Afterschool activities 2026-27"
+    },
+    {
+      "url": "https://www.guardianangels.ie/sitemap_index.xml",
+      "final_url": "https://www.guardianangels.ie/sitemap_index.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.guardianangels.ie/pta/",
+      "final_url": "https://www.guardianangels.ie/pta/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parent Teacher Association"
+    },
+    {
+      "url": "https://www.guardianangels.ie/post-sitemap.xml",
+      "final_url": "https://www.guardianangels.ie/post-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.guardianangels.ie/policies/remote-teaching-and-learning/",
+      "final_url": "https://www.guardianangels.ie/policies/remote-teaching-and-learning/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Remote teaching and learning"
+    },
+    {
+      "url": "https://www.guardianangels.ie/policies/enrolment-policy/",
+      "final_url": "https://www.guardianangels.ie/policies/enrolment-policy/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions Policy"
+    },
+    {
+      "url": "https://www.guardianangels.ie/policies/child-protection/",
+      "final_url": "https://www.guardianangels.ie/policies/child-protection/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Child protection"
+    },
+    {
+      "url": "https://www.guardianangels.ie/policies/child-protection/child-safeguarding-statement/",
+      "final_url": "https://www.guardianangels.ie/policies/child-protection/child-safeguarding-statement/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Child safeguarding statement"
+    },
+    {
+      "url": "https://guardianangels.ie/policies/child-protection/child-safeguarding-statement/child-safeguarding-statement-2025/",
+      "final_url": "https://www.guardianangels.ie/policies/child-protection/child-safeguarding-statement/child-safeguarding-statement-2025/",
+      "status": "transient_ReadTimeout",
+      "via": "school_public_link",
+      "label": "Child Safeguarding Statement 2025"
+    }
+  ],
+  "documents": [],
+  "pending_links": [
+    {
+      "url": "https://www.guardianangels.ie/policies/",
+      "label": "School policies",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.guardianangels.ie/page-sitemap.xml",
+      "label": "Public sitemap index child",
+      "via": "sitemap_child"
+    },
+    {
+      "url": "https://www.guardianangels.ie/information-for-parents/uniform-tracksuit/",
+      "label": "Uniform & tracksuit",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.guardianangels.ie/information-for-parents/standardised-test-results/",
+      "label": "Standardised test results",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.guardianangels.ie/information-for-parents/paying-online/",
+      "label": "Using Aladdin",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.guardianangels.ie/information-for-parents/news-letter/",
+      "label": "Secondary schools",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.guardianangels.ie/information-for-parents/for-parents/",
+      "label": "Useful websites",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.guardianangels.ie/information-for-parents/covid-19-2/",
+      "label": "Covid-19",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.guardianangels.ie/information-for-parents/",
+      "label": "Information for parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.guardianangels.ie/attachment-sitemap.xml",
+      "label": "Public sitemap index child",
+      "via": "sitemap_child"
+    },
+    {
+      "url": "https://www.guardianangels.ie",
+      "label": "School homepage",
+      "via": "home"
+    },
+    {
+      "url": "https://www.guardianangels.ie/policies/social-media-policy-2/",
+      "label": "Social Media Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.guardianangels.ie/policies/policy-booklet/",
+      "label": "Code of Positive Behaviour",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.guardianangels.ie/policies/parent-staff-communication-policy/",
+      "label": "Parent-school Communication Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.guardianangels.ie/policies/our-healthy-lunch-policy/",
+      "label": "Our Healthy Lunch Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.guardianangels.ie/policies/homework-policy/",
+      "label": "Homework Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.guardianangels.ie/policies/data-protection-policy/",
+      "label": "Data Protection Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.guardianangels.ie/policies/anti-cyber-bullying-policy-for-guardian-angels-national-school/",
+      "label": "Anti-cyber-bullying Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.guardianangels.ie/policies/anti-bullying-policy-2/",
+      "label": "Anti-bullying Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.guardianangels.ie/policies/administration-of-medicines-policy/",
+      "label": "Administration of Medicines Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 169.86,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:38:29+0000"
+}

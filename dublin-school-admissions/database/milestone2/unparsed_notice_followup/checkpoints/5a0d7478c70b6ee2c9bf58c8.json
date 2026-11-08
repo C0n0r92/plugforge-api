@@ -1,0 +1,36 @@
+{
+  "roll": "13611D",
+  "url": "https://storage.googleapis.com/iclasscrm_files/8/Images/Content/2026/278/ve81-Admissions_Notice_20272028.pdf",
+  "prior_sha256": "943649eb0672820943862f387528404b51380f0876c936372fd0e84ce7a654f5",
+  "prior_status": "ok",
+  "prior_attempted_at": "2026-11-08T13:00:44+0000",
+  "started_at": "2026-11-08T13:29:49+0000",
+  "method": "recheck_prior_success_unparsed_notice_with_actual_OCR_if_needed",
+  "documents": [
+    {
+      "roll": "13611D",
+      "url": "https://storage.googleapis.com/iclasscrm_files/8/Images/Content/2026/278/ve81-Admissions_Notice_20272028.pdf",
+      "sha256": "943649eb0672820943862f387528404b51380f0876c936372fd0e84ce7a654f5",
+      "format": "pdf",
+      "source_file": "database/milestone2/unparsed_notice_followup/cache/943649eb0672820943862f387528404b51380f0876c936372fd0e84ce7a654f5.pdf",
+      "text_file": "database/milestone2/unparsed_notice_followup/evidence/13611D_943649eb067282094386.txt",
+      "candidate_status": "actual_body_requires_manual_review",
+      "ocr": false,
+      "retrieved_at": "2026-11-08T13:29:49+0000"
+    }
+  ],
+  "attempts": [
+    {
+      "url": "https://storage.googleapis.com/iclasscrm_files/8/Images/Content/2026/278/ve81-Admissions_Notice_20272028.pdf",
+      "final_url": "https://storage.googleapis.com/iclasscrm_files/8/Images/Content/2026/278/ve81-Admissions_Notice_20272028.pdf",
+      "status": "ok"
+    }
+  ],
+  "status": "body_retrieved_requires_manual_review",
+  "sha256": "943649eb0672820943862f387528404b51380f0876c936372fd0e84ce7a654f5",
+  "same_payload_as_prior_success": true,
+  "format": "pdf",
+  "parse_stderr": "",
+  "text_length": 3252,
+  "elapsed_seconds": 0.22
+}

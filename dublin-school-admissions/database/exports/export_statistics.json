@@ -1,0 +1,14 @@
+{
+  "at": "2026-11-08T13:45:32.752497+00:00",
+  "timezone": "Europe/Dublin",
+  "row_counts": {
+    "schools": 520,
+    "admissions_funnels_by_source": 2377,
+    "comparison_ratios": 2377,
+    "observations": 5447,
+    "evidence": 6244,
+    "work_queue": 1840,
+    "import_reconciliation": 26
+  },
+  "csv_json_same_rows_and_columns": true
+}

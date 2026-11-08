@@ -1,0 +1,163 @@
+{
+  "roll": "17507F",
+  "original_url": "https://www.glencullenschool.ie/policies/admission-policy/",
+  "method": "documented_CDX_exact_URL_all_available_dates",
+  "attempted_at": "2026-11-08T12:42:09.950695+00:00",
+  "params": {
+    "url": "https://www.glencullenschool.ie/policies/admission-policy/",
+    "matchType": "exact",
+    "output": "json",
+    "fl": "timestamp,original,mimetype,statuscode,digest",
+    "filter": "statuscode:200",
+    "collapse": "digest",
+    "limit": "200",
+    "showResumeKey": "true"
+  },
+  "earliest_year_cutoff": null,
+  "captures": [
+    {
+      "timestamp": "20210121201225",
+      "original": "https://www.glencullenschool.ie/policies/admission-policy/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "YO7CPS6OW3N6D4CK2UQI4UCACHON7DN2"
+    },
+    {
+      "timestamp": "20210410215551",
+      "original": "https://www.glencullenschool.ie/policies/admission-policy/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "4LOGFXYYBQHMISWWFHHEFN5NGN3FBSES"
+    },
+    {
+      "timestamp": "20210615093304",
+      "original": "https://www.glencullenschool.ie/policies/admission-policy/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "P3TUVPRTTULLEFVEILWD6XQF3OFQZYW4"
+    },
+    {
+      "timestamp": "20210917185317",
+      "original": "https://www.glencullenschool.ie/policies/admission-policy/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "IRF4SMZR4NUC2OLDHVBXNFAR7BD5Q5TG"
+    },
+    {
+      "timestamp": "20220122202317",
+      "original": "https://www.glencullenschool.ie/policies/admission-policy/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "7WZLLBDHO5ML4DUYYED6PIYUHRS6OVNR"
+    },
+    {
+      "timestamp": "20220627051148",
+      "original": "https://www.glencullenschool.ie/policies/admission-policy/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "CHRFIHW2ZJKMXGW7KDD5ZQXEG6CCAWF7"
+    },
+    {
+      "timestamp": "20220929074141",
+      "original": "https://www.glencullenschool.ie/policies/admission-policy/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "GE4T2227K633IJ6QHIDIPIONZKB2O347"
+    },
+    {
+      "timestamp": "20230201054213",
+      "original": "https://www.glencullenschool.ie/policies/admission-policy/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "G5GXFNJLQDJJWQZ4GYI6WYORFEVCJUZ7"
+    },
+    {
+      "timestamp": "20230605130438",
+      "original": "https://www.glencullenschool.ie/policies/admission-policy/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "GWYSMGEMQ3JPM55PTB4M2DIQY342GKUL"
+    },
+    {
+      "timestamp": "20230924195818",
+      "original": "https://www.glencullenschool.ie/policies/admission-policy/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "4VFMXG35VB55CDPYNIEV2VYW2774ZSKQ"
+    },
+    {
+      "timestamp": "20240420130909",
+      "original": "https://www.glencullenschool.ie/policies/admission-policy/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "5CIEN3GNLJNLSVZBJDAH3N3F6SKVS4LS"
+    },
+    {
+      "timestamp": "20240601081540",
+      "original": "https://www.glencullenschool.ie/policies/admission-policy/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "ZA75ARHCHBMSPC7XH6X4QRQLKMTC5PEE"
+    },
+    {
+      "timestamp": "20240718181000",
+      "original": "https://www.glencullenschool.ie/policies/admission-policy/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "FU6SCFCBANAIALLXTOILWV7CLIB7FE3G"
+    },
+    {
+      "timestamp": "20240919172820",
+      "original": "https://www.glencullenschool.ie/policies/admission-policy/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "42KZUZY3EB3MDKSZMLYFYKZLV6BE7Z3W"
+    },
+    {
+      "timestamp": "20250114123022",
+      "original": "https://www.glencullenschool.ie/policies/admission-policy/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "2KQJ72QC4RBDIEFK6APZDYSFWCTCIROL"
+    },
+    {
+      "timestamp": "20250418031628",
+      "original": "https://www.glencullenschool.ie/policies/admission-policy/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "UED5OQOCTSQ5AWO4Y7KKKJ6FMDFCV3OI"
+    },
+    {
+      "timestamp": "20250727074845",
+      "original": "https://www.glencullenschool.ie/policies/admission-policy/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "LAMC2SGNNB247HT6DWONSIKQI2E7Q5NP"
+    },
+    {
+      "timestamp": "20250808165910",
+      "original": "https://www.glencullenschool.ie/policies/admission-policy/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "4F3YDBW3YVTRG77OGS22KKBRQJFZMGNQ"
+    }
+  ],
+  "pages": [
+    {
+      "at": "2026-11-08T12:42:14.196972+00:00",
+      "http_status": 200,
+      "params": {
+        "url": "https://www.glencullenschool.ie/policies/admission-policy/",
+        "matchType": "exact",
+        "output": "json",
+        "fl": "timestamp,original,mimetype,statuscode,digest",
+        "filter": "statuscode:200",
+        "collapse": "digest",
+        "limit": "200",
+        "showResumeKey": "true"
+      }
+    }
+  ],
+  "status": "index_complete",
+  "capture_count": 18
+}

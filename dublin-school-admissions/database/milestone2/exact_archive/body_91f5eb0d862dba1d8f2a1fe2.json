@@ -1,0 +1,27 @@
+{
+  "roll": "04992R",
+  "capture": {
+    "timestamp": "20260420064633",
+    "original": "https://www.sacredheartballygall.ie/wp-content/uploads/2025/09/Admissions-Notice-2026-2027-School-Year.pdf",
+    "mimetype": "application/pdf",
+    "statuscode": "200",
+    "digest": "4C6MSBEXP4ITO7SF6VDQHYQZN3SR4524"
+  },
+  "original_url": "https://www.sacredheartballygall.ie/wp-content/uploads/2025/09/Admissions-Notice-2026-2027-School-Year.pdf",
+  "archived_url": "https://web.archive.org/web/20260420064633/https://www.sacredheartballygall.ie/wp-content/uploads/2025/09/Admissions-Notice-2026-2027-School-Year.pdf",
+  "attempted_at": "2026-11-08T13:02:05.786359+00:00",
+  "linked_from_capture": null,
+  "http_status": 200,
+  "headers": {
+    "Content-Type": "application/pdf",
+    "memento-datetime": "Mon, 20 Apr 2026 06:46:33 GMT"
+  },
+  "bytes": 571638,
+  "payload_sha256": "5b954125d335ad760148e2be46531193870f6be52ad855d71709d5345157db61",
+  "format": "pdf",
+  "source_file": "database/milestone2/cache/5b954125d335ad760148e2be46531193870f6be52ad855d71709d5345157db61.pdf",
+  "parse_stderr": "",
+  "status": "archived_body_retrieved_requires_manual_evidence_review",
+  "text_file": "database/milestone2/evidence/exact_04992R_5b954125d335ad760148.txt",
+  "linked_document_candidates": []
+}

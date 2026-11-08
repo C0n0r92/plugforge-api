@@ -1,0 +1,208 @@
+{
+  "roll": "19625V",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.realtnamara.ie/page/Admissions-Claru/55099/Index.html",
+      "final_url": "https://www.realtnamara.ie/page/Admissions-Claru/55099/Index.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://storage.googleapis.com/iclasscrm_files/5744/Images/Content/2026/285/os57-Admissions_Notice_Policy_202728_1.pdf",
+      "final_url": "https://storage.googleapis.com/iclasscrm_files/5744/Images/Content/2026/285/os57-Admissions_Notice_Policy_202728_1.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions Notice"
+    },
+    {
+      "url": "https://www.realtnamara.ie/Page/Admissions-Claru/55099/Index.html",
+      "final_url": "https://www.realtnamara.ie/Page/Admissions-Claru/55099/Index.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://www.realtnamara.ie/Admissions/Index.html",
+      "final_url": "https://www.realtnamara.ie/Admissions/Index.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://storage.googleapis.com/iclasscrm_files/5744/Images/Content/2026/285/rx69-Admission_Policy_202728.pdf",
+      "final_url": "https://storage.googleapis.com/iclasscrm_files/5744/Images/Content/2026/285/rx69-Admission_Policy_202728.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions Policy"
+    },
+    {
+      "url": "https://www.realtnamara.ie/sitemap.xml",
+      "final_url": "https://www.realtnamara.ie/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.realtnamara.ie/page/Policies-Polasaithe/54490/Index.html",
+      "final_url": "https://www.realtnamara.ie/page/Policies-Polasaithe/54490/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.RealtNaMara.ie/Content/2025/10/fr26-Admissions_Notice_Policy_202627_1.pdf",
+      "final_url": "https://www.RealtNaMara.ie/Content/2025/10/fr26-Admissions_Notice_Policy_202627_1.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Annual Admissions Notice"
+    },
+    {
+      "url": "https://www.RealtNaMara.ie/Content/2025/10/ap50-Bi_Cinealta_Annual_Review.pdf",
+      "final_url": "https://www.RealtNaMara.ie/Content/2025/10/ap50-Bi_Cinealta_Annual_Review.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Bí Cineálta Policy: Annual Review & Notification Templates"
+    },
+    {
+      "url": "https://www.RealtNaMara.ie/Content/2025/3/vq86-Parental_Complaints_Procedure.pdf",
+      "final_url": "https://www.RealtNaMara.ie/Content/2025/3/vq86-Parental_Complaints_Procedure.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parental Complaints Procedure"
+    },
+    {
+      "url": "https://www.RealtNaMara.ie/Content/2025/10/jq36-Admission_Policy_202627.pdf",
+      "final_url": "https://www.RealtNaMara.ie/Content/2025/10/jq36-Admission_Policy_202627.pdf",
+      "status": "public_document_size_bound",
+      "via": "school_public_link",
+      "label": "Admissions Policy"
+    },
+    {
+      "url": "https://www.realtnamara.ie/page/Parents-Association-Coiste-na-dTuismitheoiri/54664/Index.html",
+      "final_url": "https://www.realtnamara.ie/page/Parents-Association-Coiste-na-dTuismitheoiri/54664/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents Association"
+    },
+    {
+      "url": "https://www.realtnamara.ie",
+      "final_url": "https://www.realtnamara.ie",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.RealtNaMara.ie/Content/2025/6/eu17-Digital_Devices_Policy_2024.pdf",
+      "final_url": "https://www.RealtNaMara.ie/Content/2025/6/eu17-Digital_Devices_Policy_2024.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Digital Device Policy"
+    },
+    {
+      "url": "https://www.RealtNaMara.ie/Content/2025/3/uu77-SEN_Policy_2024.pdf",
+      "final_url": "https://www.RealtNaMara.ie/Content/2025/3/uu77-SEN_Policy_2024.pdf",
+      "status": "public_document_size_bound",
+      "via": "school_public_link",
+      "label": "SEN Policy"
+    },
+    {
+      "url": "https://www.RealtNaMara.ie/Content/2025/3/rv68-Supervision_Policy_2024.pdf",
+      "final_url": "https://www.RealtNaMara.ie/Content/2025/3/rv68-Supervision_Policy_2024.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Supervision Policy"
+    },
+    {
+      "url": "https://www.RealtNaMara.ie/Content/2025/3/ra60-Disclosures_in_the_Workplace_Policy_2024.pdf",
+      "final_url": "https://www.RealtNaMara.ie/Content/2025/3/ra60-Disclosures_in_the_Workplace_Policy_2024.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Disclosures in the Workplace Policy"
+    },
+    {
+      "url": "https://www.RealtNaMara.ie/Content/2025/3/ks36-Acceptable_Usage_Policy_2024.pdf",
+      "final_url": "https://www.RealtNaMara.ie/Content/2025/3/ks36-Acceptable_Usage_Policy_2024.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Acceptable Usage Policy"
+    },
+    {
+      "url": "https://www.RealtNaMara.ie/Content/2025/3/ux79-Data_Protection_Policy.pdf",
+      "final_url": "https://www.RealtNaMara.ie/Content/2025/3/ux79-Data_Protection_Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Data Protection Policy"
+    },
+    {
+      "url": "https://www.RealtNaMara.ie/Content/2025/3/qx69-SPHE_Policy.pdf",
+      "final_url": "https://www.RealtNaMara.ie/Content/2025/3/qx69-SPHE_Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "SPHE Policy"
+    },
+    {
+      "url": "https://www.RealtNaMara.ie/Content/2025/3/nm44-Communication_Policy_Draft.pdf",
+      "final_url": "https://www.RealtNaMara.ie/Content/2025/3/nm44-Communication_Policy_Draft.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Communication Policy"
+    },
+    {
+      "url": "https://www.RealtNaMara.ie/Content/2025/3/cp15-Dignity_at_Work_Policy_.pdf",
+      "final_url": "https://www.RealtNaMara.ie/Content/2025/3/cp15-Dignity_at_Work_Policy_.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Dignity at Work Policy"
+    },
+    {
+      "url": "https://www.RealtNaMara.ie/Content/2025/3/bn40-RSE_Policy.pdf",
+      "final_url": "https://www.RealtNaMara.ie/Content/2025/3/bn40-RSE_Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "RSE Policy"
+    },
+    {
+      "url": "https://www.RealtNaMara.ie/Content/2025/3/aa00-Health_and_Safety_Policy_.pdf",
+      "final_url": "https://www.RealtNaMara.ie/Content/2025/3/aa00-Health_and_Safety_Policy_.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Health and Safety Policy"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19625V",
+      "url": "https://storage.googleapis.com/iclasscrm_files/5744/Images/Content/2026/285/rx69-Admission_Policy_202728.pdf",
+      "label": "Admissions Policy",
+      "sha256": "731c08d59e21484b0d1fe6a70814380b1c4abff6fa517006e6d82621b0ea66c6",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19625V_731c08d59e21484b0d1f.txt",
+      "source_file": "database/milestone2/cache/731c08d59e21484b0d1fe6a70814380b1c4abff6fa517006e6d82621b0ea66c6.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 29099
+    },
+    {
+      "roll": "19625V",
+      "url": "https://www.realtnamara.ie/page/Policies-Polasaithe/54490/Index.html",
+      "label": "Policies",
+      "sha256": "60b441f5feb5ed338e84fb7c84b5074af0d16a288fbe9b0a8aaf7f8165f618f4",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19625V_60b441f5feb5ed338e84.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 938
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.RealtNaMara.ie/Content/2025/10/nk43-Bi_Cinealta_Child_Friendly_Poster.pdf",
+      "label": "Bí Cineálta Child Friendly Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 74.66,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:08:25+0000"
+}

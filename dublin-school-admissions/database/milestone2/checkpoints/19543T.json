@@ -1,0 +1,265 @@
+{
+  "roll": "19543T",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.sacredheartsns.net/web/admissions_notice_2026/715473",
+      "final_url": "https://www.sacredheartsns.net/web/admissions_notice_2026/715473",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions Notice 2026"
+    },
+    {
+      "url": "https://www.sacredheartsns.net/web/admissions/697932",
+      "final_url": "https://www.sacredheartsns.net/web/admissions/697932",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://sacredheartns.eschools.co.uk/storage/secure_download/WWNmMkJLSEpmY2hsczdISzJiTHFEQT09",
+      "final_url": "https://sacredheartns.eschools.co.uk/storage/secure_download/WWNmMkJLSEpmY2hsczdISzJiTHFEQT09",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions_Application_Form_19543T.pdf"
+    },
+    {
+      "url": "https://www.sacredheartsns.net/web/webwise_parents_guides/680275",
+      "final_url": "http://www.sacredheartsns.net/webwise_parents_guides/680275",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "Webwise Parents' Guides"
+    },
+    {
+      "url": "https://www.sacredheartsns.net/web/policies_and_procedures/607483",
+      "final_url": "https://www.sacredheartsns.net/web/policies_and_procedures/607483",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies and Procedures"
+    },
+    {
+      "url": "https://sacredheartns.eschools.co.uk/storage/secure_download/VXZyZ0xuNWRPTzZRMEpFd2NPMGFiUT09",
+      "final_url": "https://sacredheartns.eschools.co.uk/storage/secure_download/VXZyZ0xuNWRPTzZRMEpFd2NPMGFiUT09",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "19543T Admissions Policy 2021.pdf"
+    },
+    {
+      "url": "https://www.sacredheartsns.net/web/policies/607481",
+      "final_url": "https://www.sacredheartsns.net/web/policies/607481",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.sacredheartsns.net/web/parents/595392",
+      "final_url": "https://www.sacredheartsns.net/web/parents/595392",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents"
+    },
+    {
+      "url": "https://www.sacredheartsns.net/web/parental_complaints_procedures/711407",
+      "final_url": "https://www.sacredheartsns.net/web/parental_complaints_procedures/711407",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parental Complaints Procedures"
+    },
+    {
+      "url": "https://www.sacredheartsns.net/web/parent_teacher_meetings_/716694",
+      "final_url": "https://www.sacredheartsns.net/web/parent_teacher_meetings_/716694",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parent Teacher Meetings"
+    },
+    {
+      "url": "https://www.sacredheartsns.net/web/ncca_resources_for_parents/695583",
+      "final_url": "https://www.sacredheartsns.net/web/ncca_resources_for_parents/695583",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "NCCA Resources for Parents"
+    },
+    {
+      "url": "https://www.sacredheartsns.net/web/admissions_policy/697934",
+      "final_url": "https://www.sacredheartsns.net/web/admissions_policy/697934",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions Policy"
+    },
+    {
+      "url": "https://sacredheartns.eschools.co.uk/storage/secure_download/Tm4yQ0F1dEhMbTJ3ZHQwRWRmN2pCdz09",
+      "final_url": "https://sacredheartns.eschools.co.uk/storage/secure_download/Tm4yQ0F1dEhMbTJ3ZHQwRWRmN2pCdz09",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions Policy 2024 19543T.pdf"
+    },
+    {
+      "url": "https://www.sacredheartsns.net/web/admissions_application_form/699067",
+      "final_url": "https://www.sacredheartsns.net/web/admissions_application_form/699067",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions Application Form"
+    },
+    {
+      "url": "https://www.sacredheartsns.net/web/",
+      "final_url": "https://www.sacredheartsns.net/web/",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.sacredheartsns.net/storage/secure_download/dEw4b2thZTVNVG5qcEFFczlJSDArUT09",
+      "final_url": "https://www.sacredheartsns.net/storage/secure_download/dEw4b2thZTVNVG5qcEFFczlJSDArUT09",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Newsletter Easter 2024.pdf"
+    },
+    {
+      "url": "https://www.sacredheartsns.net/storage/secure_download/aUhsclJRdC9sWmt5aWJhOW1CKzExdz09",
+      "final_url": "https://www.sacredheartsns.net/storage/secure_download/aUhsclJRdC9sWmt5aWJhOW1CKzExdz09",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Nollaig Newsletter 2024.pdf"
+    },
+    {
+      "url": "https://www.sacredheartsns.net/storage/secure_download/YnJkQXpRejVPVjBNMWczc0YwamRvdz09",
+      "final_url": "https://www.sacredheartsns.net/storage/secure_download/YnJkQXpRejVPVjBNMWczc0YwamRvdz09",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Newsletter June 2025.pdf"
+    },
+    {
+      "url": "https://www.sacredheartsns.net/storage/secure_download/MUc4c29ieGtrVW95Z0NqQUpuVlIzQT09",
+      "final_url": "https://www.sacredheartsns.net/storage/secure_download/MUc4c29ieGtrVW95Z0NqQUpuVlIzQT09",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Easter 2025.pdf"
+    },
+    {
+      "url": "https://www.sacredheartsns.net/storage/secure_download/YjZEY2VUZUthcmh4aGcreHQvMFppZz09",
+      "final_url": "https://www.sacredheartsns.net/storage/secure_download/YjZEY2VUZUthcmh4aGcreHQvMFppZz09",
+      "status": "public_document_size_bound",
+      "via": "school_public_link",
+      "label": "Summer 2026 Newsletter.pdf"
+    },
+    {
+      "url": "https://www.sacredheartsns.net/storage/secure_download/eFJUdTM0MlpDWFpQdUV6VW1rdWptUT09",
+      "final_url": "https://www.sacredheartsns.net/storage/secure_download/eFJUdTM0MlpDWFpQdUV6VW1rdWptUT09",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "December23 Newsletter"
+    },
+    {
+      "url": "https://www.sacredheartsns.net/storage/secure_download/cklVQ0pOUmZLWG8wREw4UUxSNVhrQT09",
+      "final_url": "https://www.sacredheartsns.net/storage/secure_download/cklVQ0pOUmZLWG8wREw4UUxSNVhrQT09",
+      "status": "public_document_size_bound",
+      "via": "school_public_link",
+      "label": "Newsletter Nollag 25.pdf"
+    },
+    {
+      "url": "https://www.sacredheartsns.net/storage/secure_download/ak9YWGp1ZGoxZE5jQkxrZmZUZlltdz09",
+      "final_url": "https://www.sacredheartsns.net/storage/secure_download/ak9YWGp1ZGoxZE5jQkxrZmZUZlltdz09",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Newsletter June 24"
+    },
+    {
+      "url": "https://www.sacredheartsns.net/storage/secure_download/a1BDSXdnclk1cUliR2c0YzY5dTFPdz09",
+      "final_url": "https://www.sacredheartsns.net/storage/secure_download/a1BDSXdnclk1cUliR2c0YzY5dTFPdz09",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Easter 23.pdf"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19543T",
+      "url": "https://www.sacredheartsns.net/web/admissions_notice_2026/715473",
+      "label": "Admissions Notice 2026",
+      "sha256": "f2e3227e473e3a2e3a9163e08eb61303c20bf7cad0fba3faf07741178671e3d9",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19543T_f2e3227e473e3a2e3a91.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 38
+    },
+    {
+      "roll": "19543T",
+      "url": "https://sacredheartns.eschools.co.uk/storage/secure_download/WWNmMkJLSEpmY2hsczdISzJiTHFEQT09",
+      "label": "Admissions_Application_Form_19543T.pdf",
+      "sha256": "5f69d3e6a5c38fd8ab93a108062d7b8676de17697e403e3d267237187bf0dca4",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19543T_5f69d3e6a5c38fd8ab93.txt",
+      "source_file": "database/milestone2/cache/5f69d3e6a5c38fd8ab93a108062d7b8676de17697e403e3d267237187bf0dca4.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 4428
+    },
+    {
+      "roll": "19543T",
+      "url": "https://sacredheartns.eschools.co.uk/storage/secure_download/VXZyZ0xuNWRPTzZRMEpFd2NPMGFiUT09",
+      "label": "19543T Admissions Policy 2021.pdf",
+      "sha256": "6c08f4126560e829e8599f219f9d53acb6fcd173364312ca2ba63c348b52154a",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19543T_6c08f4126560e829e859.txt",
+      "source_file": "database/milestone2/cache/6c08f4126560e829e8599f219f9d53acb6fcd173364312ca2ba63c348b52154a.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 24041
+    },
+    {
+      "roll": "19543T",
+      "url": "https://sacredheartns.eschools.co.uk/storage/secure_download/Tm4yQ0F1dEhMbTJ3ZHQwRWRmN2pCdz09",
+      "label": "Admissions Policy 2024 19543T.pdf",
+      "sha256": "17c42da6a164538aead24ed2547acf92f82852cca18e439929136ce1fba01ab5",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19543T_17c42da6a164538aead2.txt",
+      "source_file": "database/milestone2/cache/17c42da6a164538aead24ed2547acf92f82852cca18e439929136ce1fba01ab5.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 28892
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.sacredheartsns.net/storage/secure_download/ZEJ5bDl5NytyVi9uZ1VnVjd2YkJqdz09",
+      "label": "Easter Newsletter 26.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sacredheartsns.net/storage/secure_download/WFZkaitvcURpakRhYzFrb1ZkMEhzZz09",
+      "label": "NewsletterDec22.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sacredheartsns.net/storage/secure_download/R2RtVVU2bjJXUXRKaHNwbU9vSlBCdz09",
+      "label": "Newsletter June 23.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sacredheartsns.net/sitemap.xml",
+      "label": "Public sitemap",
+      "via": "sitemap_root"
+    },
+    {
+      "url": "https://www.sacredheartsns.net/web/swimming_policy/714401",
+      "label": "Swimming Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sacredheartsns.net/web/pe_policy/714400",
+      "label": "PE Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sacredheartsns.net/web/hscl_policy/665730",
+      "label": "HSCL Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sacredheartsns.net/web/_behaviours_of_concern_policy_/692043",
+      "label": "Behaviours of Concern  Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 68.86,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:56:24+0000"
+}

@@ -1,0 +1,258 @@
+{
+  "roll": "17976R",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.scoilassaim.com/pages/admissions.php?cookiereset",
+      "final_url": "https://www.scoilassaim.com/pages/admissions.php",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Reset Cookie Permissions"
+    },
+    {
+      "url": "https://www.scoilassaim.com/pages/admissions.php",
+      "final_url": "https://www.scoilassaim.com/pages/admissions.php",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://www.scoilassaim.com/media/Scoil%20Assaim%20Application%202026%202027.pdf",
+      "final_url": "https://www.scoilassaim.com/media/Scoil%20Assaim%20Application%202026%202027.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "To download a copy of our Admissions Application Form 2026-2027 please click here."
+    },
+    {
+      "url": "https://www.scoilassaim.com/media/Policies/Scoil%20Assaim%20ASD%20Class%20Application%20Form%201%20%202027-2028.pdf",
+      "final_url": "https://www.scoilassaim.com/media/Policies/Scoil%20Assaim%20ASD%20Class%20Application%20Form%201%20%202027-2028.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "To download a copy of our ASD Class Admissions Application Form 2027-2028 please click here."
+    },
+    {
+      "url": "https://www.scoilassaim.com/media/download_gallery/Privacy%20Statement_NoContactForm.pdf",
+      "final_url": "https://www.scoilassaim.com/media/download_gallery/Privacy%20Statement_NoContactForm.pdf",
+      "status": "http_404",
+      "via": "school_public_link",
+      "label": "Privacy Statement"
+    },
+    {
+      "url": "https://www.scoilassaim.com/sitemap.xml",
+      "final_url": "https://www.scoilassaim.com/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.scoilassaim.com/pages/policies.php",
+      "final_url": "https://www.scoilassaim.com/pages/policies.php",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.scoilassaim.com/modules/download_gallery/dlc.php?file=188&id=1768915892&sid=99",
+      "final_url": "https://www.scoilassaim.com/media/2026  2027 Scoil Assaim Annual Admissions Notice.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Annual Admissions Notice 2026-2027"
+    },
+    {
+      "url": "https://www.scoilassaim.com/modules/download_gallery/dlc.php?file=201&id=1790851537&sid=99",
+      "final_url": "https://www.scoilassaim.com/media/Policies/Annual Admissions Notice 2027-2028.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Annual Admissions Notice 2027-2028"
+    },
+    {
+      "url": "https://www.scoilassaim.com/modules/download_gallery/dlc.php?file=200&id=1782121279&sid=99",
+      "final_url": "https://www.scoilassaim.com/media/Stationery_List/Stationery_List_for_6th_Class_2026_-_2027.docx.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Stationery List for 6th Class 2026 2027"
+    },
+    {
+      "url": "https://www.scoilassaim.com/modules/download_gallery/dlc.php?file=199&id=1782121279&sid=99",
+      "final_url": "https://www.scoilassaim.com/media/Stationery_List/Stationery_List_for_5th_Class_2026_-_2027.docx.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Stationery List for 5th Class 2026 2027"
+    },
+    {
+      "url": "https://www.scoilassaim.com/modules/download_gallery/dlc.php?file=198&id=1782121279&sid=99",
+      "final_url": "https://www.scoilassaim.com/media/Stationery_List/Stationery_List_for_4th_Class_2026_-_2027.docx.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Stationery List for 4th Class 2026 2027"
+    },
+    {
+      "url": "https://www.scoilassaim.com/modules/download_gallery/dlc.php?file=197&id=1782121279&sid=99",
+      "final_url": "https://www.scoilassaim.com/media/Stationery_List/Stationery_List_for_3rd_Class_2026_-_2027.docx.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Stationery List for 3rd Class 2026 2027"
+    },
+    {
+      "url": "https://www.scoilassaim.com/modules/download_gallery/dlc.php?file=196&id=1782121279&sid=99",
+      "final_url": "https://www.scoilassaim.com/media/Stationery_List/Stationery_List_for_2nd_Class_2026_-_2027.docx.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Stationery List for 2nd Class 2026-2027"
+    },
+    {
+      "url": "https://www.scoilassaim.com/modules/download_gallery/dlc.php?file=195&id=1781773995&sid=99",
+      "final_url": "https://www.scoilassaim.com/media/School calendar 26 27.jpg",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Calendar 2026-27"
+    },
+    {
+      "url": "https://www.scoilassaim.com/pages/policies.php?cookiereset",
+      "final_url": "https://www.scoilassaim.com/pages/policies.php",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Reset Cookie Permissions"
+    },
+    {
+      "url": "https://www.scoilassaim.com/pages/parents.php",
+      "final_url": "https://www.scoilassaim.com/pages/parents.php",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents"
+    },
+    {
+      "url": "https://www.scoilassaim.com/pages/parents.php?cookiereset",
+      "final_url": "https://www.scoilassaim.com/pages/parents.php",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Reset Cookie Permissions"
+    },
+    {
+      "url": "https://www.scoilassaim.com/pages/about-us/school-information.php",
+      "final_url": "https://www.scoilassaim.com/pages/about-us/school-information.php",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Information"
+    },
+    {
+      "url": "https://www.scoilassaim.com/pages/about-us/school-information.php?cookiereset",
+      "final_url": "https://www.scoilassaim.com/pages/about-us/school-information.php",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Reset Cookie Permissions"
+    },
+    {
+      "url": "https://www.scoilassaim.com/modules/download_gallery/dlc.php?file=193&id=1782116909&sid=99",
+      "final_url": "https://www.scoilassaim.com/media/Survey results letter.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Survey Results Letter"
+    },
+    {
+      "url": "https://www.scoilassaim.com/modules/download_gallery/dlc.php?file=190&id=1782116909&sid=99",
+      "final_url": "https://www.scoilassaim.com/media/survey results.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Survey Results"
+    },
+    {
+      "url": "https://www.scoilassaim.com/modules/download_gallery/dlc.php?file=187&id=1751278660&sid=99",
+      "final_url": "https://www.scoilassaim.com/media/Policies/Admission_policy_June_2025.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions Policy"
+    },
+    {
+      "url": "https://www.scoilassaim.com/modules/download_gallery/dlc.php?file=173&id=1732626536&sid=99",
+      "final_url": "https://www.scoilassaim.com/media/Policies/Risk Assessment Statement.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Risk Assessment Statement"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "17976R",
+      "url": "https://www.scoilassaim.com/pages/policies.php",
+      "label": "Policies",
+      "sha256": "ee31bd8ff4657f0ef81f9253fa30d3363eb32a58102215964cfcf776db151ddb",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/17976R_ee31bd8ff4657f0ef81f.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 610
+    },
+    {
+      "roll": "17976R",
+      "url": "https://www.scoilassaim.com/media/Policies/Admission_policy_June_2025.pdf",
+      "label": "Admissions Policy",
+      "sha256": "928d3d00f0c56bdc0ccc9e3125f501f56d455db1b635d015e55d86be1b250191",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/17976R_928d3d00f0c56bdc0ccc.txt",
+      "source_file": "database/milestone2/cache/928d3d00f0c56bdc0ccc9e3125f501f56d455db1b635d015e55d86be1b250191.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 23907
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.scoilassaim.com/modules/download_gallery/dlc.php?file=172&id=1732626534&sid=99",
+      "label": "Child Safeguarding Statement",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilassaim.com/modules/download_gallery/dlc.php?file=171&id=1732626534&sid=99",
+      "label": "Catholic Schedule for Primary Schools",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilassaim.com/",
+      "label": "School homepage",
+      "via": "home"
+    },
+    {
+      "url": "https://www.scoilassaim.com/modules/download_gallery/dlc.php?file=180&id=1769077818&sid=99",
+      "label": "Application Form 2026-2027",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilassaim.com/modules/download_gallery/dlc.php?file=204&id=1792397221&sid=99",
+      "label": "ASD Class Application Form 2027-2028",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilassaim.com/pages/cookiepolicy.php",
+      "label": "please click here.",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilassaim.com/modules/download_gallery/dlc.php?file=181&id=1736850357&sid=99",
+      "label": "Excerpt from Scoil Assaim's Acceptable Use Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilassaim.com/modules/download_gallery/dlc.php?file=178&id=1736511261&sid=99",
+      "label": "Homework Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilassaim.com/modules/download_gallery/dlc.php?file=176&id=1732626536&sid=99",
+      "label": "Scoil Assaim SEN Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilassaim.com/modules/download_gallery/dlc.php?file=170&id=1732626537&sid=99",
+      "label": "Behaviour Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilassaim.com/modules/download_gallery/dlc.php?file=169&id=1732626535&sid=99",
+      "label": "Anti Bullying Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 117.41,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:42:59+0000"
+}

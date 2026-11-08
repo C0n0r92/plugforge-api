@@ -1,0 +1,24 @@
+{
+  "roll": "18038B",
+  "started_at": "2026-11-08T13:20:22+0000",
+  "method": "previously_linked_explicit_annual_notice_gap_followup",
+  "attempts": [
+    {
+      "url": "https://stmargaretsns.ie/wp-content/uploads/2021/01/Admissions-1.png",
+      "final_url": "https://stmargaretsns.ie/wp-content/uploads/2021/01/Admissions-1.png",
+      "status": "ok",
+      "label": "Admissions 1"
+    },
+    {
+      "url": "https://stmargaretsns.ie/wp-content/uploads/2021/01/Admissions-2.png",
+      "final_url": "https://stmargaretsns.ie/wp-content/uploads/2021/01/Admissions-2.png",
+      "status": "ok",
+      "label": "Admissions 2"
+    }
+  ],
+  "documents": [],
+  "pending_links": [],
+  "earliest_year_cutoff": null,
+  "status": "attempted_no_new_numeric_notice_established",
+  "elapsed_seconds": 4.44
+}

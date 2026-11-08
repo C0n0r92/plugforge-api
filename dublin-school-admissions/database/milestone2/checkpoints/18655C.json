@@ -1,0 +1,95 @@
+{
+  "roll": "18655C",
+  "status": "bounded_search_no_new_notice_found",
+  "attempts": [
+    {
+      "url": "https://www.stjosephsbns.ie",
+      "final_url": "https://www.stjosephsbns.ie",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.stjosephsbns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://www.stjosephsbns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "http_access_denied_403",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://www.stjosephsbns.ie/parents/enrolment/",
+      "final_url": "https://www.stjosephsbns.ie/parents/enrolment/",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": "Enrolment"
+    },
+    {
+      "url": "https://www.stjosephsbns.ie/sitemap_index.xml",
+      "final_url": "https://www.stjosephsbns.ie/sitemap_index.xml",
+      "status": "http_access_denied_403",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.stjosephsbns.ie/policies/school-policies/",
+      "final_url": "https://www.stjosephsbns.ie/policies/school-policies/",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": "School Policies"
+    },
+    {
+      "url": "https://www.stjosephsbns.ie/policies/policies-under-review/",
+      "final_url": "https://www.stjosephsbns.ie/policies/policies-under-review/",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": "Policies Under Review"
+    },
+    {
+      "url": "https://www.stjosephsbns.ie/policies/",
+      "final_url": "https://www.stjosephsbns.ie/policies/",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.stjosephsbns.ie/parents/school-uniform/",
+      "final_url": "https://www.stjosephsbns.ie/parents/school-uniform/",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": "School Uniform"
+    },
+    {
+      "url": "https://www.stjosephsbns.ie/parents/school-calendar/",
+      "final_url": "https://www.stjosephsbns.ie/parents/school-calendar/",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": "School Calendar"
+    },
+    {
+      "url": "https://www.stjosephsbns.ie/parents/booklists/",
+      "final_url": "https://www.stjosephsbns.ie/parents/booklists/",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": "Booklists"
+    },
+    {
+      "url": "https://www.stjosephsbns.ie/parents/",
+      "final_url": "https://www.stjosephsbns.ie/parents/",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": "Parents"
+    },
+    {
+      "url": "https://www.stjosephsbns.ie/about/parents-association/",
+      "final_url": "https://www.stjosephsbns.ie/about/parents-association/",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": "Parents Association"
+    }
+  ],
+  "documents": [],
+  "pending_links": [],
+  "elapsed_seconds": 5.31,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:03:48+0000"
+}

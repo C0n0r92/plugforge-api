@@ -1,0 +1,121 @@
+{
+  "roll": "18361I",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.scoilchaitriona.info",
+      "final_url": "https://www.scoilchaitriona.info",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.scoilchaitriona.info/sitemap.xml",
+      "final_url": "https://www.scoilchaitriona.info/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.scoilchaitriona.info/policies",
+      "final_url": "https://www.scoilchaitriona.info/policies",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.scoilchaitriona.info/_files/ugd/7722ff_0db6768e68654634b57c1f7179761d76.pdf",
+      "final_url": "https://www.scoilchaitriona.info/_files/ugd/7722ff_0db6768e68654634b57c1f7179761d76.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions Policy"
+    },
+    {
+      "url": "https://www.scoilchaitriona.info/parents",
+      "final_url": "https://www.scoilchaitriona.info/parents",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents"
+    },
+    {
+      "url": "https://www.scoilchaitriona.info/pararents-association",
+      "final_url": "https://www.scoilchaitriona.info/pararents-association",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents' Association"
+    },
+    {
+      "url": "https://www.scoilchaitriona.info/pages-sitemap.xml",
+      "final_url": "https://www.scoilchaitriona.info/pages-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.scoilchaitriona.info/blog-posts-sitemap.xml",
+      "final_url": "https://www.scoilchaitriona.info/blog-posts-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.scoilchaitriona.info/blog-categories-sitemap.xml",
+      "final_url": "https://www.scoilchaitriona.info/blog-categories-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.scoilchaitriona.info/_files/ugd/7722ff_df6f260e70294ae6a75be8cde7ab5325.pdf",
+      "final_url": "https://www.scoilchaitriona.info/_files/ugd/7722ff_df6f260e70294ae6a75be8cde7ab5325.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Acceptable Use Policy ( AUP)"
+    },
+    {
+      "url": "https://www.scoilchaitriona.info/_files/ugd/7722ff_99ab31a254e94a6eadcb449886c528f8.pdf",
+      "final_url": "https://www.scoilchaitriona.info/_files/ugd/7722ff_99ab31a254e94a6eadcb449886c528f8.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Remote Learning Policy"
+    },
+    {
+      "url": "https://www.scoilchaitriona.info/_files/ugd/7722ff_639dbbee04454f3a8d1e778b69dd945a.pdf",
+      "final_url": "https://www.scoilchaitriona.info/_files/ugd/7722ff_639dbbee04454f3a8d1e778b69dd945a.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Bí Cineálta Policy"
+    },
+    {
+      "url": "https://www.scoilchaitriona.info/_files/ugd/7722ff_40ae3c08dfee4adcbd59d9d00efbe9b0.pdf",
+      "final_url": "https://www.scoilchaitriona.info/_files/ugd/7722ff_40ae3c08dfee4adcbd59d9d00efbe9b0.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Anti Bullying Policy"
+    },
+    {
+      "url": "https://www.scoilchaitriona.info/_files/ugd/7722ff_1ef4223511fe43d9a7a0e440fb86580b.pdf",
+      "final_url": "https://www.scoilchaitriona.info/_files/ugd/7722ff_1ef4223511fe43d9a7a0e440fb86580b.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "RSE Policy"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "18361I",
+      "url": "https://www.scoilchaitriona.info/_files/ugd/7722ff_0db6768e68654634b57c1f7179761d76.pdf",
+      "label": "Admissions Policy",
+      "sha256": "e5ecbc1c11042a96a6f1ff0caa768802079c87dacbf9521c5c7c4fd0f00cc815",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/18361I_e5ecbc1c11042a96a6f1.txt",
+      "source_file": "database/milestone2/cache/e5ecbc1c11042a96a6f1ff0caa768802079c87dacbf9521c5c7c4fd0f00cc815.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 22083
+    }
+  ],
+  "pending_links": [],
+  "elapsed_seconds": 39.04,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:52:14+0000"
+}

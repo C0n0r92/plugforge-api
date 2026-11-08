@@ -1,0 +1,253 @@
+{
+  "roll": "00729F",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.loretograngeroad.ie/admissions/?googletranslate=true",
+      "final_url": "https://www.loretograngeroad.ie/admissions/?googletranslate=true",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "https://www.loretograngeroad.ie/documentlink/48/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/978/docletter/20260930124824_73_Annual_Admissions_Notice_26-27_1_.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Annual Admissions Notice 27-28"
+    },
+    {
+      "url": "https://www.loretograngeroad.ie/admissions/",
+      "final_url": "https://www.loretograngeroad.ie/admissions/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://www.loretograngeroad.ie/admin/?open=/admissions/?googletranslate=true",
+      "final_url": "https://www.loretograngeroad.ie/admin/?open=/admissions/?googletranslate=true",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.loretograngeroad.ie/admin/?open=/admissions/",
+      "final_url": "https://www.loretograngeroad.ie/admin/?open=/admissions/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.loretograngeroad.ie/sitemap.xml",
+      "final_url": "https://www.loretograngeroad.ie/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.loretograngeroad.ie/parents/parents-association-constitution/",
+      "final_url": "https://www.loretograngeroad.ie/parents/parents-association-constitution/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents Association Constitution"
+    },
+    {
+      "url": "https://www.loretograngeroad.ie/parents/parents-association-constitution/?googletranslate=true",
+      "final_url": "https://www.loretograngeroad.ie/parents/parents-association-constitution/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.loretograngeroad.ie/parents/pa-events/",
+      "final_url": "https://www.loretograngeroad.ie/parents/pa-events/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "General Information"
+    },
+    {
+      "url": "https://www.loretograngeroad.ie/parents/pa-events/?googletranslate=true",
+      "final_url": "https://www.loretograngeroad.ie/parents/pa-events/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.loretograngeroad.ie/parents/newsletters-247/",
+      "final_url": "https://www.loretograngeroad.ie/parents/newsletters-247/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Newsletters"
+    },
+    {
+      "url": "https://www.loretograngeroad.ie/parents/newsletters-247/?googletranslate=true",
+      "final_url": "https://www.loretograngeroad.ie/parents/newsletters-247/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.loretograngeroad.ie/parents/calendar/",
+      "final_url": "https://www.loretograngeroad.ie/parents/calendar/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Calendar"
+    },
+    {
+      "url": "https://www.loretograngeroad.ie/parents/calendar/?calyear=2026&calmonth=12&",
+      "final_url": "https://www.loretograngeroad.ie/parents/calendar/?calyear=2026&calmonth=12&",
+      "status": "prior_exact_URL_access_denial_not_retried",
+      "via": "school_public_link",
+      "label": "December 2026"
+    },
+    {
+      "url": "https://www.loretograngeroad.ie/parents/calendar/?calyear=2026&calmonth=10&",
+      "final_url": "https://www.loretograngeroad.ie/parents/calendar/?calyear=2026&calmonth=10&",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": "October 2026"
+    },
+    {
+      "url": "https://www.loretograngeroad.ie/parents/calendar/?googletranslate=true",
+      "final_url": "https://www.loretograngeroad.ie/parents/calendar/?googletranslate=true",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.loretograngeroad.ie/parents/calendar/?calTable=true",
+      "final_url": "https://www.loretograngeroad.ie/parents/calendar/?calTable=true",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.loretograngeroad.ie/parents/",
+      "final_url": "https://www.loretograngeroad.ie/parents/",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": "Parents"
+    },
+    {
+      "url": "https://www.loretograngeroad.ie/information/policies/",
+      "final_url": "https://www.loretograngeroad.ie/information/policies/",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.loretograngeroad.ie/documentlink/48/?open=true&download=true",
+      "final_url": "https://www.loretograngeroad.ie/documentlink/48/?open=true&download=true",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.loretograngeroad.ie/documentlink/25/?open=true&download=true",
+      "final_url": "https://www.loretograngeroad.ie/documentlink/25/?open=true&download=true",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.loretograngeroad.ie/documentlink/25/?open=true",
+      "final_url": "https://www.loretograngeroad.ie/documentlink/25/?open=true",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": "Admission Policy"
+    },
+    {
+      "url": "https://www.loretograngeroad.ie/documentlink/24/?open=true&download=true",
+      "final_url": "https://www.loretograngeroad.ie/documentlink/24/?open=true&download=true",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.loretograngeroad.ie/documentlink/24/?open=true",
+      "final_url": "https://www.loretograngeroad.ie/documentlink/24/?open=true",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": "Parents Association Constitution"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "00729F",
+      "url": "https://www.loretograngeroad.ie/admissions/?googletranslate=true",
+      "label": "",
+      "sha256": "8c67365840aeb8c703140f5641f4ac6af772f46af7ad85367749f46b32d9a6e2",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/00729F_8c67365840aeb8c70314.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 86
+    },
+    {
+      "roll": "00729F",
+      "url": "https://www.loretograngeroad.ie/admissions/",
+      "label": "Admissions",
+      "sha256": "93b824f08e622a01928b06cd01ef862d384e3654ef9259e46c38b3b0ec3914b5",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/00729F_93b824f08e622a01928b.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 86
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.loretograngeroad.ie/admin/?open=/parents/parents-association-constitution/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.loretograngeroad.ie/admin/?open=/parents/parents-association-constitution/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.loretograngeroad.ie/admin/?open=/parents/pa-events/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.loretograngeroad.ie/admin/?open=/parents/pa-events/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.loretograngeroad.ie/admin/?open=/parents/newsletters-247/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.loretograngeroad.ie/admin/?open=/parents/newsletters-247/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.loretograngeroad.ie/admin/?open=/parents/calendar/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.loretograngeroad.ie/",
+      "label": "School homepage",
+      "via": "home"
+    },
+    {
+      "url": "https://www.loretograngeroad.ie/cmsfiles/policies/privacy/",
+      "label": "Website Privacy Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.loretograngeroad.ie/cmsfiles/policies/cookie/",
+      "label": "Cookie Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 36.99,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:00:26+0000"
+}

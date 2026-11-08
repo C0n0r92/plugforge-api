@@ -1,0 +1,25 @@
+{
+  "roll": "19314E",
+  "capture": {
+    "timestamp": "20230610183533",
+    "original": "https://www.olbns.com/",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "digest": "DUME6ASOIVWSMWQKZ4ZFJAOORWVP7BQT"
+  },
+  "original_url": "https://www.olbns.com/",
+  "archived_url": "https://web.archive.org/web/20230610183533/https://www.olbns.com/",
+  "attempted_at": "2026-11-08T13:22:58.106798+00:00",
+  "linked_from_capture": null,
+  "http_status": 200,
+  "headers": {
+    "Content-Type": "text/html; charset=UTF-8",
+    "memento-datetime": "Sat, 10 Jun 2023 18:35:33 GMT"
+  },
+  "bytes": 26916,
+  "payload_sha256": "26363c219b1027f4979369c1ba3dba59acf766b3fc6302eb036138d7e83abd1b",
+  "format": "html",
+  "status": "archived_body_retrieved_requires_manual_evidence_review",
+  "text_file": "database/milestone2/evidence/exact_19314E_26363c219b1027f49793.txt",
+  "linked_document_candidates": []
+}

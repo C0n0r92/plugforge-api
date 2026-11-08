@@ -1,0 +1,338 @@
+{
+  "roll": "19538D",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.stkevinsjns.ie/parents-area/enrolment/?googletranslate=true",
+      "final_url": "https://www.stkevinsjns.ie/parents-area/enrolment/?googletranslate=true",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "https://www.stkevinsjns.ie/documentlink/19/?open=true",
+      "final_url": "https://www.stkevinsjns.ie/cmsfiles/items/downloads/9234-AdmissionNotice-Part1-2027-2028.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Annual Admissions Notice 2027/2028"
+    },
+    {
+      "url": "https://www.stkevinsjns.ie/parents-area/enrolment/",
+      "final_url": "https://www.stkevinsjns.ie/parents-area/enrolment/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Enrolment"
+    },
+    {
+      "url": "https://www.stkevinsjns.ie/documentlink/45/?open=true",
+      "final_url": "https://www.aladdin.ie/i/A5428950809444352",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "St Kevin's Junior National School Pre-Enrollment Form - Special Class"
+    },
+    {
+      "url": "https://www.stkevinsjns.ie/documentlink/30/?open=true",
+      "final_url": "https://www.aladdin.ie/i/5428950809444352",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "St Kevin's Junior National School Pre-Enrolment Form - Mainstream Classes"
+    },
+    {
+      "url": "https://www.stkevinsjns.ie/admin/?open=/parents-area/enrolment/?googletranslate=true",
+      "final_url": "https://www.stkevinsjns.ie/admin/?open=/parents-area/enrolment/?googletranslate=true",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.stkevinsjns.ie/admin/?open=/parents-area/enrolment/",
+      "final_url": "https://www.stkevinsjns.ie/admin/?open=/parents-area/enrolment/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://storage.googleapis.com/siteassetsswd/781/docletter/20240926112403_80_Admission_Policy_2024.pdf",
+      "final_url": "https://storage.googleapis.com/siteassetsswd/781/docletter/20240926112403_80_Admission_Policy_2024.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "school enrolment policy"
+    },
+    {
+      "url": "https://www.stkevinsjns.ie/sitemap.xml",
+      "final_url": "https://www.stkevinsjns.ie/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.stkevinsjns.ie/parents-area/student-of-the-week/",
+      "final_url": "https://www.stkevinsjns.ie/parents-area/student-of-the-week/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Student of the Week"
+    },
+    {
+      "url": "https://www.stkevinsjns.ie/parents-area/student-of-the-week/?googletranslate=true",
+      "final_url": "https://www.stkevinsjns.ie/parents-area/student-of-the-week/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stkevinsjns.ie/parents-area/our-facilities/",
+      "final_url": "https://www.stkevinsjns.ie/parents-area/our-facilities/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Our Facilities"
+    },
+    {
+      "url": "https://www.stkevinsjns.ie/parents-area/our-facilities/?googletranslate=true",
+      "final_url": "https://www.stkevinsjns.ie/parents-area/our-facilities/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stkevinsjns.ie/parents-area/newsletters/",
+      "final_url": "https://www.stkevinsjns.ie/parents-area/newsletters/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Newsletters"
+    },
+    {
+      "url": "https://www.stkevinsjns.ie/parents-area/newsletters/?googletranslate=true",
+      "final_url": "https://www.stkevinsjns.ie/parents-area/newsletters/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stkevinsjns.ie/parents-area/kindness-award/",
+      "final_url": "https://www.stkevinsjns.ie/parents-area/kindness-award/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Kindness Award"
+    },
+    {
+      "url": "https://www.stkevinsjns.ie/parents-area/kindness-award/?googletranslate=true",
+      "final_url": "https://www.stkevinsjns.ie/parents-area/kindness-award/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stkevinsjns.ie/parents-area/getting-ready-for-school-/",
+      "final_url": "https://www.stkevinsjns.ie/parents-area/getting-ready-for-school-/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Getting Ready for School"
+    },
+    {
+      "url": "https://www.stkevinsjns.ie/parents-area/getting-ready-for-school-/?googletranslate=true",
+      "final_url": "https://www.stkevinsjns.ie/parents-area/getting-ready-for-school-/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stkevinsjns.ie/parents-area/calendar/",
+      "final_url": "https://www.stkevinsjns.ie/parents-area/calendar/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Calendar"
+    },
+    {
+      "url": "https://www.stkevinsjns.ie/parents-area/calendar/?calyear=2026&calmonth=12&",
+      "final_url": "https://www.stkevinsjns.ie/parents-area/calendar/?calyear=2026&calmonth=12&",
+      "status": "prior_exact_URL_access_denial_not_retried",
+      "via": "school_public_link",
+      "label": "December 2026"
+    },
+    {
+      "url": "https://www.stkevinsjns.ie/parents-area/calendar/?calyear=2026&calmonth=10&",
+      "final_url": "https://www.stkevinsjns.ie/parents-area/calendar/?calyear=2026&calmonth=10&",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": "October 2026"
+    },
+    {
+      "url": "https://www.stkevinsjns.ie/parents-area/calendar/?googletranslate=true",
+      "final_url": "https://www.stkevinsjns.ie/parents-area/calendar/?googletranslate=true",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stkevinsjns.ie/parents-area/calendar/?calTable=true",
+      "final_url": "https://www.stkevinsjns.ie/parents-area/calendar/?calTable=true",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": ""
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19538D",
+      "url": "https://www.stkevinsjns.ie/parents-area/enrolment/?googletranslate=true",
+      "label": "",
+      "sha256": "c59a54f49c4d1f47e9b92d6461162b38cfaa74d77026de270d33655641a3f48e",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19538D_c59a54f49c4d1f47e9b9.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 947
+    },
+    {
+      "roll": "19538D",
+      "url": "https://www.stkevinsjns.ie/parents-area/enrolment/",
+      "label": "Enrolment",
+      "sha256": "0d278b215566944dfa3e597611d542fc3cbe54e29636bfd4b894f2026eeac9f9",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19538D_0d278b215566944dfa3e.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 947
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.stkevinsjns.ie/parents-area/booklists/",
+      "label": "Booklists",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stkevinsjns.ie/parents-area/acorn-class---home-school-liaison/",
+      "label": "Acorn Class - Home School Liaison",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stkevinsjns.ie/parents-area/",
+      "label": "Parents Area",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stkevinsjns.ie/our-school/policies/",
+      "label": "Policies",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stkevinsjns.ie/letterlink/6/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stkevinsjns.ie/letterlink/5/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stkevinsjns.ie/letterlink/2/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stkevinsjns.ie/documentlink/20/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stkevinsjns.ie/documentlink/19/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stkevinsjns.ie/documentlink/18/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stkevinsjns.ie/documentlink/18/?open=true",
+      "label": "Admission Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stkevinsjns.ie/documentlink/17/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stkevinsjns.ie/adminlite/pages/",
+      "label": "Application Form for Admission",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stkevinsjns.ie/admin/?open=/parents-area/student-of-the-week/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stkevinsjns.ie/admin/?open=/parents-area/student-of-the-week/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stkevinsjns.ie/admin/?open=/parents-area/our-facilities/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stkevinsjns.ie/admin/?open=/parents-area/our-facilities/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stkevinsjns.ie/admin/?open=/parents-area/newsletters/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stkevinsjns.ie/admin/?open=/parents-area/newsletters/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stkevinsjns.ie/admin/?open=/parents-area/kindness-award/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stkevinsjns.ie/admin/?open=/parents-area/kindness-award/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stkevinsjns.ie/admin/?open=/parents-area/getting-ready-for-school-/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stkevinsjns.ie/admin/?open=/parents-area/getting-ready-for-school-/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stkevinsjns.ie/admin/?open=/parents-area/calendar/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stkevinsjns.ie/",
+      "label": "School homepage",
+      "via": "home"
+    },
+    {
+      "url": "https://www.stkevinsjns.ie/cmsfiles/policies/privacy/",
+      "label": "Website Privacy Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stkevinsjns.ie/cmsfiles/policies/cookie/",
+      "label": "Cookie Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 59.75,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:56:09+0000"
+}

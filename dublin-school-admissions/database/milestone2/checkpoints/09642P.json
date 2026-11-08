@@ -1,0 +1,305 @@
+{
+  "roll": "09642P",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://burrowschool.ie/wp-content/uploads/2021/10/Burrow-School-Admissions-Policy-2020.docx",
+      "final_url": "https://burrowschool.ie/wp-content/uploads/2021/10/Burrow-School-Admissions-Policy-2020.docx",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://www.burrowschool.ie",
+      "final_url": "https://burrowschool.ie/",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://burrowschool.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://burrowschool.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://burrowschool.ie/wp-content/uploads/2015/10/admission-and-participation-policy.pdf",
+      "final_url": "https://burrowschool.ie/wp-content/uploads/2015/10/admission-and-participation-policy.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "admission-and-participation-policy"
+    },
+    {
+      "url": "https://burrowschool.ie/wp-content/uploads/2015/10/ADMISSION-POLICY-JUNE-2015.doc",
+      "final_url": "https://burrowschool.ie/wp-content/uploads/2015/10/ADMISSION-POLICY-JUNE-2015.doc",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "admission-policy-june-2015"
+    },
+    {
+      "url": "https://burrowschool.ie/wp-content/uploads/2017/05/Admission-and-Participation-Policy-April-2017.doc",
+      "final_url": "https://burrowschool.ie/wp-content/uploads/2017/05/Admission-and-Participation-Policy-April-2017.doc",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admission and Participation Policy &#8211; April 2017"
+    },
+    {
+      "url": "https://burrowschool.ie/wp-content/uploads/2018/04/Admission-and-Participation-Policy-February-2018.pdf",
+      "final_url": "https://burrowschool.ie/wp-content/uploads/2018/04/Admission-and-Participation-Policy-February-2018.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admission and Participation Policy &#8211; February 2018"
+    },
+    {
+      "url": "https://burrowschool.ie/wp-content/uploads/2019/12/Admission-Policy.pdf",
+      "final_url": "https://burrowschool.ie/wp-content/uploads/2019/12/Admission-Policy.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admission Policy"
+    },
+    {
+      "url": "https://burrowschool.ie/wp-content/uploads/2020/09/Burrow-School-Admissions-Policy-2020.pdf",
+      "final_url": "https://burrowschool.ie/wp-content/uploads/2020/09/Burrow-School-Admissions-Policy-2020.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Burrow School Admissions-Policy 2020"
+    },
+    {
+      "url": "https://burrowschool.ie/wp-content/uploads/2022/12/BURROW-SCHOOL-ADMISSION-POLICY.pdf",
+      "final_url": "https://burrowschool.ie/wp-content/uploads/2022/12/BURROW-SCHOOL-ADMISSION-POLICY.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "BURROW SCHOOL ADMISSION POLICY"
+    },
+    {
+      "url": "https://burrowschool.ie/parents/calendar/",
+      "final_url": "https://burrowschool.ie/parents/calendar/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Calendar 2026/2027"
+    },
+    {
+      "url": "https://burrowschool.ie/sitemap_index.xml",
+      "final_url": "https://burrowschool.ie/sitemap_index.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://burrowschool.ie/policies/",
+      "final_url": "https://burrowschool.ie/policies/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://burrowschool.ie/policies/burrowsecretary@gmail.com",
+      "final_url": "https://burrowschool.ie/policies/burrowsecretary@gmail.com",
+      "status": "http_404",
+      "via": "school_public_link",
+      "label": "burrowsecretary@gmail.com"
+    },
+    {
+      "url": "https://burrowschool.ie/policies/burrowprincipal@gmail.com",
+      "final_url": "https://burrowschool.ie/policies/burrowprincipal@gmail.com",
+      "status": "http_404",
+      "via": "school_public_link",
+      "label": "burrowprincipal@gmail.com"
+    },
+    {
+      "url": "https://burrowschool.ie/parents/tips-for-parents/",
+      "final_url": "https://burrowschool.ie/parents/tips-for-parents/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Tips for Parents"
+    },
+    {
+      "url": "https://burrowschool.ie/parents/tips-for-parents/burrowsecretary@gmail.com",
+      "final_url": "https://burrowschool.ie/parents/tips-for-parents/burrowsecretary@gmail.com",
+      "status": "http_404",
+      "via": "school_public_link",
+      "label": "burrowsecretary@gmail.com"
+    },
+    {
+      "url": "https://burrowschool.ie/parents/tips-for-parents/burrowprincipal@gmail.com",
+      "final_url": "https://burrowschool.ie/parents/tips-for-parents/burrowprincipal@gmail.com",
+      "status": "http_404",
+      "via": "school_public_link",
+      "label": "burrowprincipal@gmail.com"
+    },
+    {
+      "url": "https://burrowschool.ie/parents/parents-association/",
+      "final_url": "https://burrowschool.ie/parents/parents-association/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parent’s Association"
+    },
+    {
+      "url": "https://burrowschool.ie/parents/parents-association/burrowsecretary@gmail.com",
+      "final_url": "https://burrowschool.ie/parents/parents-association/burrowsecretary@gmail.com",
+      "status": "http_404",
+      "via": "school_public_link",
+      "label": "burrowsecretary@gmail.com"
+    },
+    {
+      "url": "https://burrowschool.ie/parents/parents-association/burrowprincipal@gmail.com",
+      "final_url": "https://burrowschool.ie/parents/parents-association/burrowprincipal@gmail.com",
+      "status": "http_404",
+      "via": "school_public_link",
+      "label": "burrowprincipal@gmail.com"
+    },
+    {
+      "url": "https://burrowschool.ie/parents/forms/",
+      "final_url": "https://burrowschool.ie/parents/forms/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Forms"
+    },
+    {
+      "url": "https://burrowschool.ie/wp-content/uploads/2020/09/Chronic-symptoms-Parental-Declaration-Form.pdf",
+      "final_url": "https://burrowschool.ie/wp-content/uploads/2020/09/Chronic-symptoms-Parental-Declaration-Form.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Chronic symptoms Parental Declaration Form"
+    },
+    {
+      "url": "https://burrowschool.ie/parents/forms/burrowsecretary@gmail.com",
+      "final_url": "https://burrowschool.ie/parents/forms/burrowsecretary@gmail.com",
+      "status": "http_404",
+      "via": "school_public_link",
+      "label": "burrowsecretary@gmail.com"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "09642P",
+      "url": "https://burrowschool.ie/wp-content/uploads/2021/10/Burrow-School-Admissions-Policy-2020.docx",
+      "label": "Prior school admissions section",
+      "sha256": "98c0fd8633639f23b318bc5e948331216defeaa17f9fdc082f4fa1886cc32346",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/09642P_98c0fd8633639f23b318.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 24412
+    },
+    {
+      "roll": "09642P",
+      "url": "https://burrowschool.ie/wp-content/uploads/2019/12/Admission-Policy.pdf",
+      "label": "Admission Policy",
+      "sha256": "4615c39c7bdef708303b0028f4dcc8ee92b849e9a52e6567cc9c76cc3d55d2b6",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/09642P_4615c39c7bdef708303b.txt",
+      "source_file": "database/milestone2/cache/4615c39c7bdef708303b0028f4dcc8ee92b849e9a52e6567cc9c76cc3d55d2b6.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 14554
+    },
+    {
+      "roll": "09642P",
+      "url": "https://burrowschool.ie/wp-content/uploads/2020/09/Burrow-School-Admissions-Policy-2020.pdf",
+      "label": "Burrow School Admissions-Policy 2020",
+      "sha256": "d78b7bf1bfab9bd1ecd372b08a90ec81c14e91da12f98044b0d2d01e6c8c809b",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/09642P_d78b7bf1bfab9bd1ecd3.txt",
+      "source_file": "database/milestone2/cache/d78b7bf1bfab9bd1ecd372b08a90ec81c14e91da12f98044b0d2d01e6c8c809b.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 26523
+    },
+    {
+      "roll": "09642P",
+      "url": "https://burrowschool.ie/wp-content/uploads/2022/12/BURROW-SCHOOL-ADMISSION-POLICY.pdf",
+      "label": "BURROW SCHOOL ADMISSION POLICY",
+      "sha256": "94d9f75352f6a4c9065dec424cc5e12a6a0a94872ab923e384ba03526ff94a6a",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/09642P_94d9f75352f6a4c9065d.txt",
+      "source_file": "database/milestone2/cache/94d9f75352f6a4c9065dec424cc5e12a6a0a94872ab923e384ba03526ff94a6a.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 27251
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://burrowschool.ie/parents/forms/burrowprincipal@gmail.com",
+      "label": "burrowprincipal@gmail.com",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://burrowschool.ie/parents/educational-apps-and-websites/",
+      "label": "Educational apps & websites",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://burrowschool.ie/parents/calendar/burrowsecretary@gmail.com",
+      "label": "burrowsecretary@gmail.com",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://burrowschool.ie/parents/calendar/burrowprincipal@gmail.com",
+      "label": "burrowprincipal@gmail.com",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://burrowschool.ie/parents/",
+      "label": "Parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://burrowschool.ie/page-sitemap.xml",
+      "label": "Public sitemap index child",
+      "via": "sitemap_child"
+    },
+    {
+      "url": "https://burrowschool.ie/attachment-sitemap.xml",
+      "label": "Public sitemap index child",
+      "via": "sitemap_child"
+    },
+    {
+      "url": "https://burrowschool.ie/wp-content/uploads/2021/10/DATA-PROTECTION-POLICY.docx",
+      "label": "DATA PROTECTION POLICY",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://burrowschool.ie/wp-content/uploads/2024/11/POLICY-WHISTLEBLOWING.pdf",
+      "label": "POLICY – WHISTLEBLOWING",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://burrowschool.ie/wp-content/uploads/2024/11/POLICY-SUBSTANCE-USE-SEPT-1.pdf",
+      "label": "POLICY – SUBSTANCE USE SEPT",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://burrowschool.ie/wp-content/uploads/2024/11/HOMEWORK-POLICY.pdf",
+      "label": "HOMEWORK POLICY",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://burrowschool.ie/wp-content/uploads/2024/02/Policy-Communication-with-Parent.docx",
+      "label": "Policy Communication with Parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://burrowschool.ie/wp-content/uploads/2025/10/Mobile-Phone-and-Smart-Devices-Policy.doc",
+      "label": "Mobile Phone and Smart Devices Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://burrowschool.ie/wp-content/uploads/2025/09/Burrow-School-Bi-Cinealta-Policy.pdf",
+      "label": "Bí Cineálta Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://burrowschool.ie/wp-content/uploads/2026/09/New-ICT-Policy-September-2026.docx",
+      "label": "ICT Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://burrowschool.ie/wp-content/uploads/2026/09/Healthy-Eating-Policy.doc",
+      "label": "Healthy Eating Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 76.61,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:38:08+0000"
+}

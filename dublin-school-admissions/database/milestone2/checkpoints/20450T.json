@@ -1,0 +1,184 @@
+{
+  "roll": "20450T",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.assumptionjns.com/enrolment.html",
+      "final_url": "https://www.assumptionjns.com/enrolment.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Enrolment"
+    },
+    {
+      "url": "https://www.assumptionjns.com/uploads/3/9/2/8/39288747/admissions_policy-updated_september_2025.pdf",
+      "final_url": "https://www.assumptionjns.com/uploads/3/9/2/8/39288747/admissions_policy-updated_september_2025.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.assumptionjns.com/sitemap.xml",
+      "final_url": "https://www.assumptionjns.com/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.assumptionjns.com/revised-parental-complaints-procedure.html",
+      "final_url": "https://www.assumptionjns.com/revised-parental-complaints-procedure.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Revised Parental Complaints Procedure"
+    },
+    {
+      "url": "https://www.assumptionjns.com/uploads/3/9/2/8/39288747/parental_complaints_procedure[1].pdf",
+      "final_url": "https://www.assumptionjns.com/uploads/3/9/2/8/39288747/parental_complaints_procedure[1].pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Revised Parental Complaints Procedure"
+    },
+    {
+      "url": "https://www.assumptionjns.com/policies.html",
+      "final_url": "https://www.assumptionjns.com/policies.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies >"
+    },
+    {
+      "url": "https://www.assumptionjns.com/parents.html",
+      "final_url": "https://www.assumptionjns.com/parents.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents"
+    },
+    {
+      "url": "https://www.assumptionjns.com/uploads/3/9/2/8/39288747/2017_tips_spanish.pdf",
+      "final_url": "https://www.assumptionjns.com/uploads/3/9/2/8/39288747/2017_tips_spanish.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Tips For Parents - Spanish"
+    },
+    {
+      "url": "https://www.assumptionjns.com/uploads/3/9/2/8/39288747/2017_tips_irish.pdf",
+      "final_url": "https://www.assumptionjns.com/uploads/3/9/2/8/39288747/2017_tips_irish.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Tips For Parents - Irish"
+    },
+    {
+      "url": "https://www.assumptionjns.com/uploads/3/9/2/8/39288747/2017_tips_french.pdf",
+      "final_url": "https://www.assumptionjns.com/uploads/3/9/2/8/39288747/2017_tips_french.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Tips For Parents - French"
+    },
+    {
+      "url": "https://www.assumptionjns.com/uploads/3/9/2/8/39288747/2017_tips_for_parents.pdf",
+      "final_url": "https://www.assumptionjns.com/uploads/3/9/2/8/39288747/2017_tips_for_parents.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.assumptionjns.com/admissions-policy.html",
+      "final_url": "https://www.assumptionjns.com/admissions-policy.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions Policy"
+    },
+    {
+      "url": "https://www.assumptionjns.com/",
+      "final_url": "https://www.assumptionjns.com/",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.assumptionjns.com/special-education-school-policy.html",
+      "final_url": "https://www.assumptionjns.com/special-education-school-policy.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Special Education School Policy"
+    },
+    {
+      "url": "https://www.assumptionjns.com/uploads/3/9/2/8/39288747/special_education_school_policy_assumption_jns_april_2024.pdf",
+      "final_url": "https://www.assumptionjns.com/uploads/3/9/2/8/39288747/special_education_school_policy_assumption_jns_april_2024.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Special Education School Policy"
+    },
+    {
+      "url": "https://www.assumptionjns.com/healthy-eating-policy.html",
+      "final_url": "https://www.assumptionjns.com/healthy-eating-policy.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Healthy Eating Policy"
+    },
+    {
+      "url": "https://www.assumptionjns.com/uploads/3/9/2/8/39288747/healthy_eating_policy.docx",
+      "final_url": "https://www.assumptionjns.com/uploads/3/9/2/8/39288747/healthy_eating_policy.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Click to read the Healthy Eating Policy"
+    },
+    {
+      "url": "https://www.assumptionjns.com/attendance-policy.html",
+      "final_url": "https://www.assumptionjns.com/attendance-policy.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Attendance Policy"
+    },
+    {
+      "url": "https://www.assumptionjns.com/uploads/3/9/2/8/39288747/attendance_policy.pdf",
+      "final_url": "https://www.assumptionjns.com/uploads/3/9/2/8/39288747/attendance_policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Attendance Policy"
+    },
+    {
+      "url": "https://www.assumptionjns.com/anti-bullying-policy.html",
+      "final_url": "https://www.assumptionjns.com/anti-bullying-policy.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Anti-Bullying Policy"
+    },
+    {
+      "url": "https://www.assumptionjns.com/uploads/3/9/2/8/39288747/oct_2025_bí_cineálta_policy_to_prevent_and_address_bullying_behaviour.pdf",
+      "final_url": "https://www.assumptionjns.com/uploads/3/9/2/8/39288747/oct_2025_bí_cineálta_policy_to_prevent_and_address_bullying_behaviour.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Click here to read the Anti-Bullying Policy"
+    },
+    {
+      "url": "https://www.assumptionjns.com/acceptable-use-policy.html",
+      "final_url": "https://www.assumptionjns.com/acceptable-use-policy.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Acceptable Use Policy"
+    },
+    {
+      "url": "https://www.assumptionjns.com/uploads/3/9/2/8/39288747/aup_2026.pdf",
+      "final_url": "https://www.assumptionjns.com/uploads/3/9/2/8/39288747/aup_2026.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Click to read the Acceptable Use Policy"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "20450T",
+      "url": "https://www.assumptionjns.com/uploads/3/9/2/8/39288747/admissions_policy-updated_september_2025.pdf",
+      "label": "",
+      "sha256": "a6f525bb785fd75473ec292bed1f0a3869ab2b3fc6f650df5162872bc0342bfb",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20450T_a6f525bb785fd75473ec.txt",
+      "source_file": "database/milestone2/cache/a6f525bb785fd75473ec292bed1f0a3869ab2b3fc6f650df5162872bc0342bfb.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 34521
+    }
+  ],
+  "pending_links": [],
+  "elapsed_seconds": 66.68,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:59:45+0000"
+}

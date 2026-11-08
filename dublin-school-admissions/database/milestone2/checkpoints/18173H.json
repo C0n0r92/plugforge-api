@@ -1,0 +1,277 @@
+{
+  "roll": "18173H",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://stmartinsbrittas.ie/school-enrolment-form/",
+      "final_url": "https://stmartinsbrittas.ie/school-enrolment-form/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Fill out form"
+    },
+    {
+      "url": "https://stmartinsbrittas.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://stmartinsbrittas.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://stmartinsbrittas.ie/policies-and-enrolment/",
+      "final_url": "https://stmartinsbrittas.ie/policies-and-enrolment/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Browse Our Policies Page"
+    },
+    {
+      "url": "https://stmartinsbrittas.ie/wp-content/uploads/2024/05/St-Martins-Enrolment-Form-2023.pdf",
+      "final_url": "https://stmartinsbrittas.ie/wp-content/uploads/2024/05/St-Martins-Enrolment-Form-2023.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download PDF"
+    },
+    {
+      "url": "https://stmartinsbrittas.ie/wp-content/uploads/2026/11/St-Martins-Enrolment-Special-Class.pdf",
+      "final_url": "https://stmartinsbrittas.ie/wp-content/uploads/2026/11/St-Martins-Enrolment-Special-Class.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download PDF"
+    },
+    {
+      "url": "https://stmartinsbrittas.ie/?s=admission",
+      "final_url": "https://stmartinsbrittas.ie/?s=admission",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Public site search form"
+    },
+    {
+      "url": "https://stmartinsbrittas.ie/wp-content/uploads/2025/05/St-Martins_Summary-Financial-Statement-2023-2024.pdf",
+      "final_url": "https://stmartinsbrittas.ie/wp-content/uploads/2025/05/St-Martins_Summary-Financial-Statement-2023-2024.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download PDF"
+    },
+    {
+      "url": "https://stmartinsbrittas.ie/wp-content/uploads/2024/05/Parental-Complaints-Procedure-Revised-2023.pdf",
+      "final_url": "https://stmartinsbrittas.ie/wp-content/uploads/2024/05/Parental-Complaints-Procedure-Revised-2023.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download PDF"
+    },
+    {
+      "url": "https://stmartinsbrittas.ie/wp-content/uploads/2024/05/Child-Safeguarding-Statement-2023.pdf",
+      "final_url": "https://stmartinsbrittas.ie/wp-content/uploads/2024/05/Child-Safeguarding-Statement-2023.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download PDF"
+    },
+    {
+      "url": "https://stmartinsbrittas.ie/wp-content/uploads/2024/05/Child-Safeguarding-Risk-Assessment-2023.pdf",
+      "final_url": "https://stmartinsbrittas.ie/wp-content/uploads/2024/05/Child-Safeguarding-Risk-Assessment-2023.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download PDF"
+    },
+    {
+      "url": "https://stmartinsbrittas.ie/wp-content/uploads/2025/02/Admission-Policy-2024.pdf",
+      "final_url": "https://stmartinsbrittas.ie/wp-content/uploads/2025/02/Admission-Policy-2024.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admission-Policy-2024"
+    },
+    {
+      "url": "https://stmartinsbrittas.ie/wp-content/uploads/2025/02/School-Rules-Safe.pdf",
+      "final_url": "https://stmartinsbrittas.ie/wp-content/uploads/2025/02/School-Rules-Safe.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download PDF"
+    },
+    {
+      "url": "https://stmartinsbrittas.ie/wp-content/uploads/2025/02/School-Rules-Happy.pdf",
+      "final_url": "https://stmartinsbrittas.ie/wp-content/uploads/2025/02/School-Rules-Happy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download PDF"
+    },
+    {
+      "url": "https://stmartinsbrittas.ie/wp-content/uploads/2025/02/School-Rules-Caring.pdf",
+      "final_url": "https://stmartinsbrittas.ie/wp-content/uploads/2025/02/School-Rules-Caring.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download PDF"
+    },
+    {
+      "url": "https://stmartinsbrittas.ie/wp-content/uploads/2025/02/Health-and-Safety.pdf",
+      "final_url": "https://stmartinsbrittas.ie/wp-content/uploads/2025/02/Health-and-Safety.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download PDF"
+    },
+    {
+      "url": "https://stmartinsbrittas.ie/wp-content/uploads/2026/11/Admission-Policy-2026-2027-Updated-October-2026.pdf",
+      "final_url": "https://stmartinsbrittas.ie/wp-content/uploads/2026/11/Admission-Policy-2026-2027-Updated-October-2026.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admission Policy 2026 2027 Updated October 2026"
+    },
+    {
+      "url": "https://stmartinsbrittas.ie/wp-content/uploads/2026/05/AdmissionPolicy2026-updatedApril2026.pdf",
+      "final_url": "https://stmartinsbrittas.ie/wp-content/uploads/2026/05/AdmissionPolicy2026-updatedApril2026.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "AdmissionPolicy2026-updatedApril2026"
+    },
+    {
+      "url": "https://stmartinsbrittas.ie/wp-sitemap.xml",
+      "final_url": "https://stmartinsbrittas.ie/wp-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://stmartinsbrittas.ie/wp-sitemap-posts-post-1.xml",
+      "final_url": "https://stmartinsbrittas.ie/wp-sitemap-posts-post-1.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://stmartinsbrittas.ie/wp-sitemap-posts-page-1.xml",
+      "final_url": "https://stmartinsbrittas.ie/wp-sitemap-posts-page-1.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://stmartinsbrittas.ie/wp-sitemap-posts-cpt_services-1.xml",
+      "final_url": "https://stmartinsbrittas.ie/wp-sitemap-posts-cpt_services-1.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://stmartinsbrittas.ie/",
+      "final_url": "https://stmartinsbrittas.ie/",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://stmartinsbrittas.ie/wp-content/uploads/2025/02/Uniform-Policy-Nov2024.pdf",
+      "final_url": "https://stmartinsbrittas.ie/wp-content/uploads/2025/02/Uniform-Policy-Nov2024.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download PDF"
+    },
+    {
+      "url": "https://stmartinsbrittas.ie/wp-content/uploads/2024/05/Mobile_PhoneElectronic_Games_Policy.pdf",
+      "final_url": "https://stmartinsbrittas.ie/wp-content/uploads/2024/05/Mobile_PhoneElectronic_Games_Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download PDF"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "18173H",
+      "url": "https://stmartinsbrittas.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "label": "Oldest public admission media (all dates)",
+      "sha256": "387d66ee1e473592978e7deb05c7155230e86beb310a146b7898545155c76ab7",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/18173H_387d66ee1e473592978e.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 537
+    },
+    {
+      "roll": "18173H",
+      "url": "https://stmartinsbrittas.ie/policies-and-enrolment/",
+      "label": "Browse Our Policies Page",
+      "sha256": "92fdf21dd02b92cdc94be4ac6522b1264a926b2f0e20e121a6414c10fe2701a1",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/18173H_92fdf21dd02b92cdc94b.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1171
+    },
+    {
+      "roll": "18173H",
+      "url": "https://stmartinsbrittas.ie/?s=admission",
+      "label": "Public site search form",
+      "sha256": "a7665af127bc54d5ec451b75e64c73a6c36dabe9a731a366cf8d2aa917f1a1b1",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/18173H_a7665af127bc54d5ec45.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 398
+    },
+    {
+      "roll": "18173H",
+      "url": "https://stmartinsbrittas.ie/wp-content/uploads/2025/02/Admission-Policy-2024.pdf",
+      "label": "Admission-Policy-2024",
+      "sha256": "06ba410f6020f5f3649f540ef633ae2e35fae3f8c9bdfa2414ebca1783cb4af5",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/18173H_06ba410f6020f5f3649f.txt",
+      "source_file": "database/milestone2/cache/06ba410f6020f5f3649f540ef633ae2e35fae3f8c9bdfa2414ebca1783cb4af5.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 21443
+    },
+    {
+      "roll": "18173H",
+      "url": "https://stmartinsbrittas.ie/wp-content/uploads/2026/11/Admission-Policy-2026-2027-Updated-October-2026.pdf",
+      "label": "Admission Policy 2026 2027 Updated October 2026",
+      "sha256": "a1412e2a4fb6a96eaaaef55fae685aa0845d8aaaf11769f533663128887394ef",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/18173H_a1412e2a4fb6a96eaaae.txt",
+      "source_file": "database/milestone2/cache/a1412e2a4fb6a96eaaaef55fae685aa0845d8aaaf11769f533663128887394ef.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 23751
+    },
+    {
+      "roll": "18173H",
+      "url": "https://stmartinsbrittas.ie/wp-content/uploads/2026/05/AdmissionPolicy2026-updatedApril2026.pdf",
+      "label": "AdmissionPolicy2026-updatedApril2026",
+      "sha256": "7a09ab78de0097b64b782e0be0e13409ecf6982bb48ef12717af1d6a05667181",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/18173H_7a09ab78de0097b64b78.txt",
+      "source_file": "database/milestone2/cache/7a09ab78de0097b64b782e0be0e13409ecf6982bb48ef12717af1d6a05667181.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 23691
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://stmartinsbrittas.ie/wp-content/uploads/2024/05/Internet-Acceptable-Use-Policy-Updated-0621.pdf",
+      "label": "Download PDF",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stmartinsbrittas.ie/wp-content/uploads/2024/05/HEALTHY-LUNCH-POLICY.pdf",
+      "label": "Download PDF",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stmartinsbrittas.ie/wp-content/uploads/2024/05/Code-of-Behaviour-Policy.pdf",
+      "label": "Download PDF",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stmartinsbrittas.ie/wp-content/uploads/2024/05/Attendance-Policy.pdf",
+      "label": "Download PDF",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stmartinsbrittas.ie/wp-content/uploads/2025/06/Brittas-NS_BiCinealtaPolicy.pdf",
+      "label": "Download PDF",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stmartinsbrittas.ie/privacy-policy/",
+      "label": "Privacy Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 82.38,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:42:27+0000"
+}

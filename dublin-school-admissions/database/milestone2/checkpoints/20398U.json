@@ -1,0 +1,276 @@
+{
+  "roll": "20398U",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://cscns.ie/enrol/",
+      "final_url": "https://cscns.ie/enrol/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Enrol"
+    },
+    {
+      "url": "https://eps.enrol.ie/cscns/Pages/Index.aspx",
+      "final_url": "https://eps.enrol.ie/cscns/Pages/Index.aspx",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": "Online Payment System"
+    },
+    {
+      "url": "https://cscns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://cscns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://cscns.ie/wp-content/uploads/2024/11/Citywest-and-Saggart-CNS-Admissions-Policy-2025.2026.pdf",
+      "final_url": "https://cscns.ie/wp-content/uploads/2024/11/Citywest-and-Saggart-CNS-Admissions-Policy-2025.2026.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Citywest-and-Saggart-CNS-Admissions-Policy-2025.2026"
+    },
+    {
+      "url": "https://cscns.ie/wp-content/uploads/2024/11/Citywest-and-Saggart-CNS-Admissions-Policy-2025.2026-word.pdf",
+      "final_url": "https://cscns.ie/wp-content/uploads/2024/11/Citywest-and-Saggart-CNS-Admissions-Policy-2025.2026-word.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Citywest-and-Saggart-CNS-Admissions-Policy-2025.2026 (word)"
+    },
+    {
+      "url": "https://cscns.ie/wp-content/uploads/2025/09/Citywest-and-Saggart-CNS-Admissions-Policy-2026.2027.pdf",
+      "final_url": "https://cscns.ie/wp-content/uploads/2025/09/Citywest-and-Saggart-CNS-Admissions-Policy-2026.2027.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Citywest and Saggart CNS Admissions Policy 2026.2027"
+    },
+    {
+      "url": "https://cscns.ie/wp-content/uploads/2025/09/CNS-GDPR-Compliance-note-re-forms.pdf",
+      "final_url": "https://cscns.ie/wp-content/uploads/2025/09/CNS-GDPR-Compliance-note-re-forms.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "CNS GDPR Compliance note"
+    },
+    {
+      "url": "https://cscns.ie/wp-content/uploads/2026/09/Citywest-and-Saggart-CNS-Admissions-Policy-2027.2028.pdf",
+      "final_url": "https://cscns.ie/wp-content/uploads/2026/09/Citywest-and-Saggart-CNS-Admissions-Policy-2027.2028.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions Policy 2027.2028"
+    },
+    {
+      "url": "https://cscns.ie/sitemap.xml",
+      "final_url": "https://cscns.ie/sitemap_index.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://cscns.ie/tribe_events-sitemap.xml",
+      "final_url": "https://cscns.ie/tribe_events-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://cscns.ie/school-policies/",
+      "final_url": "https://cscns.ie/school-policies/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://cscns.ie/wp-content/uploads/2024/11/DDLETB-Data-Protection-Policy-May-2018-.pdf",
+      "final_url": "https://cscns.ie/wp-content/uploads/2024/11/DDLETB-Data-Protection-Policy-May-2018-.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://cscns.ie/wp-content/uploads/2024/11/Healthy-Eating-Policy-2019.2020.docx",
+      "final_url": "https://cscns.ie/wp-content/uploads/2024/11/Healthy-Eating-Policy-2019.2020.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://cscns.ie/wp-content/uploads/2024/11/Citywest-and-Saggart-CNS-Attendance-Policy-2019.2020.pdf",
+      "final_url": "https://cscns.ie/wp-content/uploads/2024/11/Citywest-and-Saggart-CNS-Attendance-Policy-2019.2020.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://cscns.ie/post-sitemap.xml",
+      "final_url": "https://cscns.ie/post-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "20398U",
+      "url": "https://cscns.ie/wp-content/uploads/2024/11/Citywest-and-Saggart-CNS-Admissions-Policy-2025.2026.pdf",
+      "label": "Citywest-and-Saggart-CNS-Admissions-Policy-2025.2026",
+      "sha256": "2256cac90de02501b12140f65f0afc8a2be17b137df8409eb6c1f9f4271f3b17",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20398U_2256cac90de02501b121.txt",
+      "source_file": "database/milestone2/cache/2256cac90de02501b12140f65f0afc8a2be17b137df8409eb6c1f9f4271f3b17.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 67733
+    },
+    {
+      "roll": "20398U",
+      "url": "https://cscns.ie/wp-content/uploads/2025/09/Citywest-and-Saggart-CNS-Admissions-Policy-2026.2027.pdf",
+      "label": "Citywest and Saggart CNS Admissions Policy 2026.2027",
+      "sha256": "dd67c1d7c8c36bcaec9d070f94a1afb8e2525ac6bf7b63515149a6ff64d04605",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20398U_dd67c1d7c8c36bcaec9d.txt",
+      "source_file": "database/milestone2/cache/dd67c1d7c8c36bcaec9d070f94a1afb8e2525ac6bf7b63515149a6ff64d04605.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 70081
+    },
+    {
+      "roll": "20398U",
+      "url": "https://cscns.ie/wp-content/uploads/2026/09/Citywest-and-Saggart-CNS-Admissions-Policy-2027.2028.pdf",
+      "label": "Admissions Policy 2027.2028",
+      "sha256": "e7817df478c03db665ca6464195d8bdd0e3f23e8e74e52ad7c4cffdd8f30e0a5",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20398U_e7817df478c03db665ca.txt",
+      "source_file": "database/milestone2/cache/e7817df478c03db665ca6464195d8bdd0e3f23e8e74e52ad7c4cffdd8f30e0a5.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 70351
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "http://cscns.ie/wp-content/uploads/2015/01/enrolment-timeline-2015-300x222.png",
+      "label": "Admission URL from sitemap",
+      "via": "sitemap_link"
+    },
+    {
+      "url": "https://cscns.ie/enrolment/",
+      "label": "Admission URL from sitemap",
+      "via": "sitemap_link"
+    },
+    {
+      "url": "https://cscns.ie/parents/",
+      "label": "Parent Zone",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://cscns.ie/parents-association-news/",
+      "label": "Parents Association News",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://cscns.ie/page-sitemap.xml",
+      "label": "Public sitemap index child",
+      "via": "sitemap_child"
+    },
+    {
+      "url": "https://cscns.ie/information/",
+      "label": "Information for Parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://cscns.ie/general-school-information/",
+      "label": "General School Information",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://cscns.ie/Parents/",
+      "label": "Parent Zone",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://cscns.ie/",
+      "label": "School homepage",
+      "via": "home"
+    },
+    {
+      "url": "https://cscns.ie/wp-content/uploads/2024/11/CSCNS-RSE-Policy-2021-1.pdf",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://cscns.ie/wp-content/uploads/2024/11/Policy-on-Irish-Exemptions-v2022.pdf",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://cscns.ie/wp-content/uploads/2024/11/Critical-Incident-Policy-2022.2023-for-website.pdf",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://cscns.ie/wp-content/uploads/2024/11/Equality-Policy-vFeb2023.pdf",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://cscns.ie/wp-content/uploads/2024/11/Acceptable-Use-Policy-vJune2023.pdf",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://cscns.ie/wp-content/uploads/2024/11/Uniform-Policy-v2024.pdf",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://cscns.ie/wp-content/uploads/2024/11/Policy-for-Social-Personal-and-Health-Education.pdf%22",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://cscns.ie/wp-content/uploads/2024/11/Homework-Policy-vMay2024.pdf",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://cscns.ie/wp-content/uploads/2024/11/Citywest-and-Saggart-CNS-Positive-Communications-Policy.pdf",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://cscns.ie/wp-content/uploads/2024/11/CNS_Website_Management_Policy.pdf",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://cscns.ie/substance-use-policy-may-2026/",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://cscns.ie/policy-on-the-use-of-personal-digital-devices-during-the-school-day-vapr-2026/",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://cscns.ie/privacy-policy/",
+      "label": "Privacy & Cookie Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://cscns.ie/child-friendly-policy-final/",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://cscns.ie/bi-cinealta-policy-vmarch26/",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://cscns.ie/administration-of-medication-apr-26/",
+      "label": "Administration of Medication Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 152.38,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:43:18+0000"
+}

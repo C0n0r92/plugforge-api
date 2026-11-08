@@ -1,0 +1,144 @@
+{
+  "roll": "17890H",
+  "status": "bounded_search_no_new_notice_found",
+  "attempts": [
+    {
+      "url": "https://templestreethospitalschool.com/",
+      "final_url": "https://templestreethospitalschool.com/",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://templestreethospitalschool.com/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://templestreethospitalschool.com/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://templestreethospitalschool.com/wp-content/uploads/2021/05/Admission-Policy.pdf",
+      "final_url": "https://templestreethospitalschool.com/wp-content/uploads/2021/05/Admission-Policy.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admission Policy"
+    },
+    {
+      "url": "https://templestreethospitalschool.com/wp-content/uploads/2021/05/Admission-Policy-scanned-signed.pdf",
+      "final_url": "https://templestreethospitalschool.com/wp-content/uploads/2021/05/Admission-Policy-scanned-signed.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admission Policy &#8211; scanned signed"
+    },
+    {
+      "url": "https://templestreethospitalschool.com/wp-content/uploads/2022/12/Admissions-Policy-2022.pdf",
+      "final_url": "https://templestreethospitalschool.com/wp-content/uploads/2022/12/Admissions-Policy-2022.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Policy 2022"
+    },
+    {
+      "url": "https://templestreethospitalschool.com/wp-content/uploads/2023/03/ADMISSIONS-POLICY-2023-Updated.pdf",
+      "final_url": "https://templestreethospitalschool.com/wp-content/uploads/2023/03/ADMISSIONS-POLICY-2023-Updated.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "ADMISSIONS POLICY 2023 Updated"
+    },
+    {
+      "url": "https://templestreethospitalschool.com/wp-content/uploads/2023/03/ADMISSIONS-POLICY-2023-Updated-1.pdf",
+      "final_url": "https://templestreethospitalschool.com/wp-content/uploads/2023/03/ADMISSIONS-POLICY-2023-Updated-1.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "ADMISSIONS-POLICY-2023-Updated-1"
+    },
+    {
+      "url": "https://templestreethospitalschool.com/wp-content/uploads/2024/11/Admissions-Policy-2024.pdf",
+      "final_url": "https://templestreethospitalschool.com/wp-content/uploads/2024/11/Admissions-Policy-2024.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Policy 2024"
+    },
+    {
+      "url": "https://templestreethospitalschool.com/wp-content/uploads/2025/04/20250402082045090.pdf",
+      "final_url": "https://templestreethospitalschool.com/wp-content/uploads/2025/04/20250402082045090.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Policy 2025-2026"
+    },
+    {
+      "url": "https://templestreethospitalschool.com/sitemap.xml",
+      "final_url": "https://templestreethospitalschool.com/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://templestreethospitalschool.com/video-sitemap-1.xml",
+      "final_url": "https://templestreethospitalschool.com/video-sitemap-1.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://templestreethospitalschool.com/sitemap-1.xml",
+      "final_url": "https://templestreethospitalschool.com/sitemap-1.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://templestreethospitalschool.com/school-policies/",
+      "final_url": "https://templestreethospitalschool.com/school-policies/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Policies"
+    },
+    {
+      "url": "https://templestreethospitalschool.com/wp-content/uploads/2023/12/parental_complaints_procedure_final.pdf",
+      "final_url": "https://templestreethospitalschool.com/wp-content/uploads/2023/12/parental_complaints_procedure_final.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parental Complaints Procedure"
+    },
+    {
+      "url": "https://templestreethospitalschool.com/news-sitemap.xml",
+      "final_url": "https://templestreethospitalschool.com/news-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://templestreethospitalschool.com/wp-content/uploads/2024/11/Data-Protection-Policy-scanned-signed-copy-Oct-2024.pdf",
+      "final_url": "https://templestreethospitalschool.com/wp-content/uploads/2024/11/Data-Protection-Policy-scanned-signed-copy-Oct-2024.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Data Protection Policy"
+    },
+    {
+      "url": "https://templestreethospitalschool.com/wp-content/uploads/2024/02/SEN-Policy-Scanned.pdf",
+      "final_url": "https://templestreethospitalschool.com/wp-content/uploads/2024/02/SEN-Policy-Scanned.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "SEN Policy"
+    },
+    {
+      "url": "https://templestreethospitalschool.com/wp-content/uploads/2025/06/Bi-Cinealta-Policy-June-2025.pdf",
+      "final_url": "https://templestreethospitalschool.com/wp-content/uploads/2025/06/Bi-Cinealta-Policy-June-2025.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Bí Cineallta Policy"
+    },
+    {
+      "url": "https://templestreethospitalschool.com/wp-content/uploads/2025/04/Anti-Bullying-Scanned.pdf",
+      "final_url": "https://templestreethospitalschool.com/wp-content/uploads/2025/04/Anti-Bullying-Scanned.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Anti-Bullying Policy and Procedures"
+    }
+  ],
+  "documents": [],
+  "pending_links": [],
+  "elapsed_seconds": 57.78,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:03:43+0000"
+}

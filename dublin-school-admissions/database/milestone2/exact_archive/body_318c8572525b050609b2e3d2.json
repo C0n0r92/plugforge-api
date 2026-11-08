@@ -1,0 +1,25 @@
+{
+  "roll": "17367P",
+  "capture": {
+    "timestamp": "20251113152212",
+    "original": "https://www.maryhelpofchristians.ie/page/Annual-School-Admissions-Notice/39820/Index.html",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "digest": "BFTH3UGLTG7CNJDZ32LNEPK2QYBOGRQM"
+  },
+  "original_url": "https://www.maryhelpofchristians.ie/page/Annual-School-Admissions-Notice/39820/Index.html",
+  "archived_url": "https://web.archive.org/web/20251113152212/https://www.maryhelpofchristians.ie/page/Annual-School-Admissions-Notice/39820/Index.html",
+  "attempted_at": "2026-11-08T13:07:30.248442+00:00",
+  "linked_from_capture": null,
+  "http_status": 200,
+  "headers": {
+    "Content-Type": "text/html; charset=utf-8",
+    "memento-datetime": "Thu, 13 Nov 2025 15:22:12 GMT"
+  },
+  "bytes": 71392,
+  "payload_sha256": "06df32f2a19254e17db3ed26afa7e1e3ceca5aec0f984be53b17ce09c98ec501",
+  "format": "html",
+  "status": "archived_body_retrieved_requires_manual_evidence_review",
+  "text_file": "database/milestone2/evidence/exact_17367P_06df32f2a19254e17db3.txt",
+  "linked_document_candidates": []
+}

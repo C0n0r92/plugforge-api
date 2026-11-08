@@ -1,0 +1,72 @@
+{
+  "roll": "20168D",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.get.ie",
+      "final_url": "https://www.get.ie",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.get.ie/sitemap.xml",
+      "final_url": "https://www.get.ie/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.get.ie/school-information",
+      "final_url": "https://www.get.ie/school-information",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "SCHOOL INFORMATION"
+    },
+    {
+      "url": "https://www.get.ie/policies",
+      "final_url": "https://www.get.ie/policies",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "POLICIES"
+    },
+    {
+      "url": "https://irp.cdn-website.com/184d2607/files/uploaded/GET-Admissions-2025-1.pdf",
+      "final_url": "https://irp.cdn-website.com/184d2607/files/uploaded/GET-Admissions-2025-1.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "Admission Policy"
+    },
+    {
+      "url": "https://www.get.ie/parent-teacher-association",
+      "final_url": "https://www.get.ie/parent-teacher-association",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "PTA"
+    },
+    {
+      "url": "https://www.get.ie/",
+      "final_url": "https://www.get.ie/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parent Phone Pact"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "20168D",
+      "url": "https://www.get.ie",
+      "label": "School homepage",
+      "sha256": "acf4fbdf4378ab6f3acf4cbb70016f54d2d62f9359940da06696e775336b43fc",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20168D_acf4fbdf4378ab6f3acf.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1491
+    }
+  ],
+  "pending_links": [],
+  "elapsed_seconds": 16.15,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:58:05+0000"
+}

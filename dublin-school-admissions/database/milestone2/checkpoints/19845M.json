@@ -1,0 +1,310 @@
+{
+  "roll": "19845M",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://ndnsp.ie/",
+      "final_url": "https://ndnsp.ie/",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://ndnsp.ie/admissions-notice/",
+      "final_url": "https://ndnsp.ie/admissions-notice/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions notice"
+    },
+    {
+      "url": "http://stagingsite.ndnsp.ie/wp-content/uploads/2022/09/Admission-Notice-2023-2024.pdf",
+      "final_url": "http://stagingsite.ndnsp.ie/wp-content/uploads/2022/09/Admission-Notice-2023-2024.pdf",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "admissions-notice 2022 Download"
+    },
+    {
+      "url": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fndnsp.ie%2Fadmissions-notice%2F&title=Admissions%20notice&summary=&source=NDNSP",
+      "final_url": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fndnsp.ie%2Fadmissions-notice%2F&title=Admissions%20notice&summary=&source=NDNSP",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Share on LinkedIn Share on LinkedIn"
+    },
+    {
+      "url": "https://ndnsp.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://ndnsp.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://ndnsp.ie/wp-content/uploads/2022/09/Admission-Notice-2023-2024.pdf",
+      "final_url": "https://ndnsp.ie/wp-content/uploads/2022/09/Admission-Notice-2023-2024.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admission Notice 2023 2024"
+    },
+    {
+      "url": "https://ndnsp.ie/wp-content/uploads/2023/09/Admission-Notice-2024-2025.pdf",
+      "final_url": "https://ndnsp.ie/wp-content/uploads/2023/09/Admission-Notice-2024-2025.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admission Notice 2024 2025"
+    },
+    {
+      "url": "https://ndnsp.ie/wp-content/uploads/2024/09/Admission-Notice-2025-26.pdf",
+      "final_url": "https://ndnsp.ie/wp-content/uploads/2024/09/Admission-Notice-2025-26.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admission Notice 2025 26"
+    },
+    {
+      "url": "https://ndnsp.ie/wp-content/uploads/2025/09/Admission-Notice-2026-27.pdf",
+      "final_url": "https://ndnsp.ie/wp-content/uploads/2025/09/Admission-Notice-2026-27.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admission Notice 2026 27"
+    },
+    {
+      "url": "https://ndnsp.ie/wp-content/uploads/2026/09/Admission-Notice-2027-2028.pdf",
+      "final_url": "https://ndnsp.ie/wp-content/uploads/2026/09/Admission-Notice-2027-2028.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admission Notice 2027 2028"
+    },
+    {
+      "url": "https://ndnsp.ie/wp-content/uploads/2016/06/element5-digital-OyCl7Y4y0Bk-unsplash-scaled.jpg",
+      "final_url": "https://ndnsp.ie/wp-content/uploads/2016/06/element5-digital-OyCl7Y4y0Bk-unsplash-scaled.jpg",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Notice"
+    },
+    {
+      "url": "https://ndnsp.ie/wp-content/uploads/2022/09/Admission-Notice-2023-2024-1.pdf",
+      "final_url": "https://ndnsp.ie/wp-content/uploads/2022/09/Admission-Notice-2023-2024-1.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admission Policy 2023 2024"
+    },
+    {
+      "url": "https://ndnsp.ie/admissions/",
+      "final_url": "https://ndnsp.ie/admissions/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions"
+    },
+    {
+      "url": "http://ndnsp.ie/wp-content/uploads/2026/09/Admission-Notice-2027-2028.pdf",
+      "final_url": "http://ndnsp.ie/wp-content/uploads/2026/09/Admission-Notice-2027-2028.pdf",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "Admission Notice 2027 2028"
+    },
+    {
+      "url": "https://ndnsp.ie/wp-content/uploads/2023/09/Admissions-Policy-updated-Dec-2022.docx-2.pdf",
+      "final_url": "https://ndnsp.ie/wp-content/uploads/2023/09/Admissions-Policy-updated-Dec-2022.docx-2.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Policy updated Dec 2022.docx (2)"
+    },
+    {
+      "url": "https://ndnsp.ie/wp-content/uploads/2023/05/Admissions-Policy-updated-Dec-2022.docx-1.pdf",
+      "final_url": "https://ndnsp.ie/wp-content/uploads/2023/05/Admissions-Policy-updated-Dec-2022.docx-1.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Policy 2022"
+    },
+    {
+      "url": "https://ndnsp.ie/wp-content/uploads/2022/09/Admissions-Policy.docx.pdf",
+      "final_url": "https://ndnsp.ie/wp-content/uploads/2022/09/Admissions-Policy.docx.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Policy.docx"
+    },
+    {
+      "url": "https://ndnsp.ie/wp-content/uploads/2025/05/Admission-Policy-2024.pdf",
+      "final_url": "https://ndnsp.ie/wp-content/uploads/2025/05/Admission-Policy-2024.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admission Policy 2024"
+    },
+    {
+      "url": "https://ndnsp.ie/wp-content/uploads/2020/09/Preenrol.jpg",
+      "final_url": "https://ndnsp.ie/wp-content/uploads/2020/09/Preenrol.jpg",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Policy"
+    },
+    {
+      "url": "https://ndnsp.ie/parents/",
+      "final_url": "https://ndnsp.ie/parents/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents"
+    },
+    {
+      "url": "https://ndnsp.ie/admissions-policy/",
+      "final_url": "https://ndnsp.ie/admissions-policy/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions policy"
+    },
+    {
+      "url": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fndnsp.ie%2Fadmissions-policy%2F&title=Admissions%20policy&summary=&source=NDNSP",
+      "final_url": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fndnsp.ie%2Fadmissions-policy%2F&title=Admissions%20policy&summary=&source=NDNSP",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Share on LinkedIn Share on LinkedIn"
+    },
+    {
+      "url": "https://ndnsp.ie/about-us/policies/",
+      "final_url": "https://ndnsp.ie/about-us/policies/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://ndnsp.ie/wp-content/uploads/2022/09/Data-Protection-Statement-NDNSP.pdf",
+      "final_url": "https://ndnsp.ie/wp-content/uploads/2022/09/Data-Protection-Statement-NDNSP.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Data Protection Statement Download"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19845M",
+      "url": "https://ndnsp.ie/wp-content/uploads/2022/09/Admission-Notice-2023-2024.pdf",
+      "label": "Admission Notice 2023 2024",
+      "sha256": "02b6637b38ba2c3e79a11a08073dfa98ecd036fbc87c0d1adc7e7254dce637ee",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19845M_02b6637b38ba2c3e79a1.txt",
+      "source_file": "database/milestone2/cache/02b6637b38ba2c3e79a11a08073dfa98ecd036fbc87c0d1adc7e7254dce637ee.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 2332
+    },
+    {
+      "roll": "19845M",
+      "url": "https://ndnsp.ie/wp-content/uploads/2023/09/Admission-Notice-2024-2025.pdf",
+      "label": "Admission Notice 2024 2025",
+      "sha256": "95e5d9ea0939de2b129a515b23b7cb712456c2a47ec43f86448e1fc6e1ee28e4",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19845M_95e5d9ea0939de2b129a.txt",
+      "source_file": "database/milestone2/cache/95e5d9ea0939de2b129a515b23b7cb712456c2a47ec43f86448e1fc6e1ee28e4.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 5434
+    },
+    {
+      "roll": "19845M",
+      "url": "https://ndnsp.ie/wp-content/uploads/2024/09/Admission-Notice-2025-26.pdf",
+      "label": "Admission Notice 2025 26",
+      "sha256": "ab8186ebebb5186904a532c109638933d766aec44d7df20558a831aeb03a0736",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19845M_ab8186ebebb5186904a5.txt",
+      "source_file": "database/milestone2/cache/ab8186ebebb5186904a532c109638933d766aec44d7df20558a831aeb03a0736.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 2716
+    },
+    {
+      "roll": "19845M",
+      "url": "https://ndnsp.ie/wp-content/uploads/2025/09/Admission-Notice-2026-27.pdf",
+      "label": "Admission Notice 2026 27",
+      "sha256": "17a02c859eb2c57637cbdc61c455e2f5409a71b6057eddf5dfa400fec5c85c0d",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19845M_17a02c859eb2c57637cb.txt",
+      "source_file": "database/milestone2/cache/17a02c859eb2c57637cbdc61c455e2f5409a71b6057eddf5dfa400fec5c85c0d.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 2826
+    },
+    {
+      "roll": "19845M",
+      "url": "https://ndnsp.ie/wp-content/uploads/2026/09/Admission-Notice-2027-2028.pdf",
+      "label": "Admission Notice 2027 2028",
+      "sha256": "b86d1cc50c4c74c8af73342f44c6df3abdafff091bfd599521afcc7517e3f0af",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19845M_b86d1cc50c4c74c8af73.txt",
+      "source_file": "database/milestone2/cache/b86d1cc50c4c74c8af73342f44c6df3abdafff091bfd599521afcc7517e3f0af.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 2884
+    },
+    {
+      "roll": "19845M",
+      "url": "https://ndnsp.ie/wp-content/uploads/2023/09/Admissions-Policy-updated-Dec-2022.docx-2.pdf",
+      "label": "Admissions Policy updated Dec 2022.docx (2)",
+      "sha256": "c3a9f03866021765c8c24c39c00c35f660b4952811721bd5c9a2c309eff024d3",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19845M_c3a9f03866021765c8c2.txt",
+      "source_file": "database/milestone2/cache/c3a9f03866021765c8c24c39c00c35f660b4952811721bd5c9a2c309eff024d3.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 24058
+    },
+    {
+      "roll": "19845M",
+      "url": "https://ndnsp.ie/wp-content/uploads/2023/05/Admissions-Policy-updated-Dec-2022.docx-1.pdf",
+      "label": "Admissions Policy 2022",
+      "sha256": "279176b7f0c2626578f865fb4c7e966b4b5a582a49b2f94e51f1974e5906ebea",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19845M_279176b7f0c2626578f8.txt",
+      "source_file": "database/milestone2/cache/279176b7f0c2626578f865fb4c7e966b4b5a582a49b2f94e51f1974e5906ebea.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 24058
+    },
+    {
+      "roll": "19845M",
+      "url": "https://ndnsp.ie/wp-content/uploads/2022/09/Admissions-Policy.docx.pdf",
+      "label": "Admissions Policy.docx",
+      "sha256": "81ea750a13d721aa906e625069e56a2be8ef2c1dc877c9e3fae682d8a4ade4cb",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19845M_81ea750a13d721aa906e.txt",
+      "source_file": "database/milestone2/cache/81ea750a13d721aa906e625069e56a2be8ef2c1dc877c9e3fae682d8a4ade4cb.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 23450
+    },
+    {
+      "roll": "19845M",
+      "url": "https://ndnsp.ie/wp-content/uploads/2025/05/Admission-Policy-2024.pdf",
+      "label": "Admission Policy 2024",
+      "sha256": "2d0ca2e29b3f5f1c303802a693f750c3df6eab97e056a589e2fa34a3d8c16581",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19845M_2d0ca2e29b3f5f1c3038.txt",
+      "source_file": "database/milestone2/cache/2d0ca2e29b3f5f1c303802a693f750c3df6eab97e056a589e2fa34a3d8c16581.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 25990
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://ndnsp.ie/wp-content/uploads/2022/09/CODE-OF-BEHAVIOUR-ndnsp.pdf",
+      "label": "Code of Behaviour Download",
+      "via": "school_public_link"
+    },
+    {
+      "url": "http://ndnsp.ie/wp-content/uploads/2025/05/Admission-Policy-2024.pdf",
+      "label": "Admission Policy 2024",
+      "via": "school_public_link"
+    },
+    {
+      "url": "http://ndnsp.ie/sitemap_index.xml",
+      "label": "Public sitemap",
+      "via": "sitemap_root"
+    },
+    {
+      "url": "https://ndnsp.ie/wp-content/uploads/2022/09/NDNSP-garda-vetting-policy.pdf",
+      "label": "Garda vetting policy Download",
+      "via": "school_public_link"
+    },
+    {
+      "url": "http://ndnsp.ie/wp-content/uploads/2025/05/Attendance-Policy-2024.pdf",
+      "label": "Attendance Policy 2024",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://ndnsp.ie/category/updates/",
+      "label": "Policy Updates",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 88.96,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:09:54+0000"
+}

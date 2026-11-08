@@ -1,0 +1,45 @@
+{
+  "roll": "19898K",
+  "attempted_at": "2026-11-08T12:54:27+0000",
+  "method": "documented_public_WordPress_media_notice_and_Irish_title_gap_search",
+  "attempts": [
+    {
+      "url": "https://scoiland.ie/wp-json/wp/v2/media?search=notice&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok"
+    },
+    {
+      "url": "https://scoiland.ie/wp-json/wp/v2/media?search=f%C3%B3gra&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok"
+    },
+    {
+      "url": "https://scoiland.ie/wp-content/uploads/2019/07/Athbhreithniú-Seicliosta-Fógra-2019.pdf",
+      "status": "http_404",
+      "label": "Athbhreithniú &#8211; Seicliosta &#038; Fógra 2019"
+    },
+    {
+      "url": "https://scoiland.ie/wp-content/uploads/2022/10/FOGRA-BLIANTUIL-Scoil-an-Duinninigh-Rollu-2023-24.pdf",
+      "status": "http_404",
+      "label": "FÓGRA BLIANTÚIL Scoil an Duinnínigh Rollu 2023-24"
+    },
+    {
+      "url": "https://scoiland.ie/wp-content/uploads/2022/12/Fograi-SagusS-2022.pdf",
+      "status": "ok",
+      "label": "Fógraí SagusS 2022"
+    },
+    {
+      "url": "https://scoiland.ie/wp-content/uploads/2025/11/Fogra-maidir-le-hathbhreithniu-an-BB-2025.pdf",
+      "status": "ok",
+      "label": "Fógra maidir le hathbhreithniú an BB 2025"
+    },
+    {
+      "url": "https://scoiland.ie/wp-content/uploads/2024/12/travis.mp3",
+      "status": "ok",
+      "label": "Fógra"
+    }
+  ],
+  "documents": [],
+  "pending_links": [],
+  "earliest_year_cutoff": null,
+  "status": "attempted_no_new_notice_payload",
+  "elapsed_seconds": 27.9
+}

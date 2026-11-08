@@ -1,0 +1,465 @@
+{
+  "roll": "20161M",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.dpetns.ie/",
+      "final_url": "https://www.dpetns.ie/",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.dpetns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://www.dpetns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://www.dpetns.ie/wp-content/uploads/2020/09/Admissions-Notice.docx",
+      "final_url": "https://www.dpetns.ie/wp-content/uploads/2020/09/Admissions-Notice.docx",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Notice"
+    },
+    {
+      "url": "https://www.dpetns.ie/wp-content/uploads/2020/09/Admissions-Notice-1.docx",
+      "final_url": "https://www.dpetns.ie/wp-content/uploads/2020/09/Admissions-Notice-1.docx",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Notice (1)"
+    },
+    {
+      "url": "https://www.dpetns.ie/wp-content/uploads/2023/01/Annual-Admissions-Notice-Sept-2022-1.pdf",
+      "final_url": "https://www.dpetns.ie/wp-content/uploads/2023/01/Annual-Admissions-Notice-Sept-2022-1.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Notice"
+    },
+    {
+      "url": "https://www.dpetns.ie/wp-content/uploads/2022/09/Annual-Admissions-Notice-Sept-2022.pdf",
+      "final_url": "https://www.dpetns.ie/wp-content/uploads/2022/09/Annual-Admissions-Notice-Sept-2022.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Notice"
+    },
+    {
+      "url": "https://www.dpetns.ie/wp-content/uploads/2023/10/Annual-Admissions-Notice-Sept-2023.pdf",
+      "final_url": "https://www.dpetns.ie/wp-content/uploads/2023/10/Annual-Admissions-Notice-Sept-2023.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Annual Admissions Notice"
+    },
+    {
+      "url": "https://www.dpetns.ie/wp-content/uploads/2023/10/Annual-Admissions-Notice-Sept-2023-Correct.pdf",
+      "final_url": "https://www.dpetns.ie/wp-content/uploads/2023/10/Annual-Admissions-Notice-Sept-2023-Correct.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Annual Admissions Notice"
+    },
+    {
+      "url": "https://www.dpetns.ie/wp-content/uploads/2023/10/Annual-Admissions-Notice-Sept-2023-1.pdf",
+      "final_url": "https://www.dpetns.ie/wp-content/uploads/2023/10/Annual-Admissions-Notice-Sept-2023-1.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Annual Admissions Notice &#8211; Sept 2023 (1)"
+    },
+    {
+      "url": "https://www.dpetns.ie/wp-content/uploads/2024/09/DPETNS-Annual-Admissions-Notice-Sept-2024.pdf",
+      "final_url": "https://www.dpetns.ie/wp-content/uploads/2024/09/DPETNS-Annual-Admissions-Notice-Sept-2024.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Annual Admissions Notice Sept 2024"
+    },
+    {
+      "url": "https://www.dpetns.ie/wp-content/uploads/2025/09/DPETNS-Annual-Admissions-Notice-Sept-2025-1.pdf",
+      "final_url": "https://www.dpetns.ie/wp-content/uploads/2025/09/DPETNS-Annual-Admissions-Notice-Sept-2025-1.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Annual Admissions Notice Sept 2025"
+    },
+    {
+      "url": "https://www.dpetns.ie/wp-content/uploads/2025/09/DPETNS-Annual-Admissions-Notice-Sept-2025-1-1.pdf",
+      "final_url": "https://www.dpetns.ie/wp-content/uploads/2025/09/DPETNS-Annual-Admissions-Notice-Sept-2025-1-1.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Annual Admissions Notice Sept 2025"
+    },
+    {
+      "url": "https://www.dpetns.ie/wp-content/uploads/2020/09/Admissions-Policy.docx",
+      "final_url": "https://www.dpetns.ie/wp-content/uploads/2020/09/Admissions-Policy.docx",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Policy"
+    },
+    {
+      "url": "https://www.dpetns.ie/wp-content/uploads/2020/09/Admissions-Policy-amended-1.docx",
+      "final_url": "https://www.dpetns.ie/wp-content/uploads/2020/09/Admissions-Policy-amended-1.docx",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Policy amended (1)"
+    },
+    {
+      "url": "https://www.dpetns.ie/wp-content/uploads/2023/10/Admissions-Policy-03.10.2023.pdf",
+      "final_url": "https://www.dpetns.ie/wp-content/uploads/2023/10/Admissions-Policy-03.10.2023.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Policy"
+    },
+    {
+      "url": "https://www.dpetns.ie/wp-content/uploads/2023/06/Admissions-Policy-new-2023-2024.pdf",
+      "final_url": "https://www.dpetns.ie/wp-content/uploads/2023/06/Admissions-Policy-new-2023-2024.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Policy"
+    },
+    {
+      "url": "https://www.dpetns.ie/wp-content/uploads/2024/09/DPETNS-Admissions-Policy-September-2024.pdf",
+      "final_url": "https://www.dpetns.ie/wp-content/uploads/2024/09/DPETNS-Admissions-Policy-September-2024.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Policy"
+    },
+    {
+      "url": "https://www.dpetns.ie/wp-content/uploads/2024/05/Admissions-Policy-28.05.2024.pdf",
+      "final_url": "https://www.dpetns.ie/wp-content/uploads/2024/05/Admissions-Policy-28.05.2024.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Policy"
+    },
+    {
+      "url": "https://www.dpetns.ie/wp-content/uploads/2025/09/DPETNS-Admissions-Enrolment-Policy-September-2025.pdf",
+      "final_url": "https://www.dpetns.ie/wp-content/uploads/2025/09/DPETNS-Admissions-Enrolment-Policy-September-2025.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions/Enrolment Policy Sept 2025"
+    },
+    {
+      "url": "https://www.dpetns.ie/wp-content/uploads/2025/09/20250918_DonabatePortraneETNS_AdmissionPolicy_Approved-1.docx",
+      "final_url": "https://www.dpetns.ie/wp-content/uploads/2025/09/20250918_DonabatePortraneETNS_AdmissionPolicy_Approved-1.docx",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admission Policy Sept 2025"
+    },
+    {
+      "url": "https://www.dpetns.ie/wp-content/uploads/2026/09/DPETNS-Admissions-Enrolment-Policy-September-2026.pdf",
+      "final_url": "https://www.dpetns.ie/wp-content/uploads/2026/09/DPETNS-Admissions-Enrolment-Policy-September-2026.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "DPETNS Admissions &#8211; Enrolment Policy &#8211; September 2026"
+    },
+    {
+      "url": "https://www.dpetns.ie/wp-content/uploads/2026/09/DPETNS-Admissions-Enrolment-Policy-September-2026-2.pdf",
+      "final_url": "https://www.dpetns.ie/wp-content/uploads/2026/09/DPETNS-Admissions-Enrolment-Policy-September-2026-2.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admission Policy Sept 2026"
+    },
+    {
+      "url": "https://www.dpetns.ie/wp-content/uploads/2026/09/DPETNS-Admissions-Enrolment-Policy-September-2026-1.pdf",
+      "final_url": "https://www.dpetns.ie/wp-content/uploads/2026/09/DPETNS-Admissions-Enrolment-Policy-September-2026-1.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "DPETNS Admissions &#8211; Enrolment Policy &#8211; September 2026"
+    },
+    {
+      "url": "https://www.dpetns.ie/updates/",
+      "final_url": "https://www.dpetns.ie/updates/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Updated School Policies and Documents"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "20161M",
+      "url": "https://www.dpetns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "label": "Oldest public admission media (all dates)",
+      "sha256": "896ac0d4dc2dda966fd06da608c458e82d6dce3e857edcf4e51dfa7bb9c6f9c5",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20161M_896ac0d4dc2dda966fd0.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 3463
+    },
+    {
+      "roll": "20161M",
+      "url": "https://www.dpetns.ie/wp-content/uploads/2020/09/Admissions-Notice.docx",
+      "label": "Admissions Notice",
+      "sha256": "c6d79c42448b76af808db9d8c7e72cac066547a6a33a04318453d4e236326139",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/20161M_c6d79c42448b76af808d.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 5838
+    },
+    {
+      "roll": "20161M",
+      "url": "https://www.dpetns.ie/wp-content/uploads/2020/09/Admissions-Notice-1.docx",
+      "label": "Admissions Notice (1)",
+      "sha256": "63c274cac66f54a0c5e9a22494c08f816c699ac87bb75430c4b6a17beacf2a2d",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/20161M_63c274cac66f54a0c5e9.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 5844
+    },
+    {
+      "roll": "20161M",
+      "url": "https://www.dpetns.ie/wp-content/uploads/2023/01/Annual-Admissions-Notice-Sept-2022-1.pdf",
+      "label": "Admissions Notice",
+      "sha256": "0b0b56c3f1cc4efd13a83a4a68d6dee72a5c52edf2737b089955ee61263852f6",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20161M_0b0b56c3f1cc4efd13a8.txt",
+      "source_file": "database/milestone2/cache/0b0b56c3f1cc4efd13a83a4a68d6dee72a5c52edf2737b089955ee61263852f6.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 7341
+    },
+    {
+      "roll": "20161M",
+      "url": "https://www.dpetns.ie/wp-content/uploads/2022/09/Annual-Admissions-Notice-Sept-2022.pdf",
+      "label": "Admissions Notice",
+      "sha256": "0eff97e62225f28f3b42db745076667a97c5aca395943b891ed6e80e8e960a9a",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20161M_0eff97e62225f28f3b42.txt",
+      "source_file": "database/milestone2/cache/0eff97e62225f28f3b42db745076667a97c5aca395943b891ed6e80e8e960a9a.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 7340
+    },
+    {
+      "roll": "20161M",
+      "url": "https://www.dpetns.ie/wp-content/uploads/2023/10/Annual-Admissions-Notice-Sept-2023.pdf",
+      "label": "Annual Admissions Notice",
+      "sha256": "0056253402347cd3cfed0388ef3ce214b7a15d0b9420f1ecd825ae38a4986b4c",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20161M_0056253402347cd3cfed.txt",
+      "source_file": "database/milestone2/cache/0056253402347cd3cfed0388ef3ce214b7a15d0b9420f1ecd825ae38a4986b4c.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 8081
+    },
+    {
+      "roll": "20161M",
+      "url": "https://www.dpetns.ie/wp-content/uploads/2023/10/Annual-Admissions-Notice-Sept-2023-Correct.pdf",
+      "label": "Annual Admissions Notice",
+      "sha256": "ea0159f5988c6c116e38404fe4c097b0b2abc5529f384f718d36d98d289d635d",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20161M_ea0159f5988c6c116e38.txt",
+      "source_file": "database/milestone2/cache/ea0159f5988c6c116e38404fe4c097b0b2abc5529f384f718d36d98d289d635d.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 8081
+    },
+    {
+      "roll": "20161M",
+      "url": "https://www.dpetns.ie/wp-content/uploads/2023/10/Annual-Admissions-Notice-Sept-2023-1.pdf",
+      "label": "Annual Admissions Notice &#8211; Sept 2023 (1)",
+      "sha256": "0f75073d35ff71d628cfb580e671c4aa4800ff12548507c3f918ac1c7ea1085f",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20161M_0f75073d35ff71d628cf.txt",
+      "source_file": "database/milestone2/cache/0f75073d35ff71d628cfb580e671c4aa4800ff12548507c3f918ac1c7ea1085f.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 8086
+    },
+    {
+      "roll": "20161M",
+      "url": "https://www.dpetns.ie/wp-content/uploads/2024/09/DPETNS-Annual-Admissions-Notice-Sept-2024.pdf",
+      "label": "Annual Admissions Notice Sept 2024",
+      "sha256": "b1de18028c1ab83c5044ec01855c0c3dc39719de91f3d0fb1ea055206f168379",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20161M_b1de18028c1ab83c5044.txt",
+      "source_file": "database/milestone2/cache/b1de18028c1ab83c5044ec01855c0c3dc39719de91f3d0fb1ea055206f168379.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 7669
+    },
+    {
+      "roll": "20161M",
+      "url": "https://www.dpetns.ie/wp-content/uploads/2025/09/DPETNS-Annual-Admissions-Notice-Sept-2025-1.pdf",
+      "label": "Annual Admissions Notice Sept 2025",
+      "sha256": "02688131826a4108788f1c8f495fbfe8a4f39d21f79043b0bf19fbd5cbd4e634",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20161M_02688131826a4108788f.txt",
+      "source_file": "database/milestone2/cache/02688131826a4108788f1c8f495fbfe8a4f39d21f79043b0bf19fbd5cbd4e634.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 7808
+    },
+    {
+      "roll": "20161M",
+      "url": "https://www.dpetns.ie/wp-content/uploads/2020/09/Admissions-Policy.docx",
+      "label": "Admissions Policy",
+      "sha256": "47d9f40128f5a1697f62e47e9597738874f475eab3a46bea6c74c577305984b7",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/20161M_47d9f40128f5a1697f62.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 21661
+    },
+    {
+      "roll": "20161M",
+      "url": "https://www.dpetns.ie/wp-content/uploads/2020/09/Admissions-Policy-amended-1.docx",
+      "label": "Admissions Policy amended (1)",
+      "sha256": "98bbbf5ae7912db3367c56aee4c4b10b881e2b1e39c03b45e47088967cffd7b6",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/20161M_98bbbf5ae7912db3367c.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 21649
+    },
+    {
+      "roll": "20161M",
+      "url": "https://www.dpetns.ie/wp-content/uploads/2023/10/Admissions-Policy-03.10.2023.pdf",
+      "label": "Admissions Policy",
+      "sha256": "9c7f76deac413fdb3a5263fadd14747deb8b7f608a7d527d0274b79de8483ea5",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20161M_9c7f76deac413fdb3a52.txt",
+      "source_file": "database/milestone2/cache/9c7f76deac413fdb3a5263fadd14747deb8b7f608a7d527d0274b79de8483ea5.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 23652
+    },
+    {
+      "roll": "20161M",
+      "url": "https://www.dpetns.ie/wp-content/uploads/2023/06/Admissions-Policy-new-2023-2024.pdf",
+      "label": "Admissions Policy",
+      "sha256": "faf1eaab59b9eb09daa9b8262615437a67f66d019b70db14acda3a56b801d6f1",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20161M_faf1eaab59b9eb09daa9.txt",
+      "source_file": "database/milestone2/cache/faf1eaab59b9eb09daa9b8262615437a67f66d019b70db14acda3a56b801d6f1.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 23968
+    },
+    {
+      "roll": "20161M",
+      "url": "https://www.dpetns.ie/wp-content/uploads/2024/09/DPETNS-Admissions-Policy-September-2024.pdf",
+      "label": "Admissions Policy",
+      "sha256": "ae8afc2616388d9ccc1d984565aebd10719693f48bb65d6af8a5e0eb09e8188c",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20161M_ae8afc2616388d9ccc1d.txt",
+      "source_file": "database/milestone2/cache/ae8afc2616388d9ccc1d984565aebd10719693f48bb65d6af8a5e0eb09e8188c.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 25674
+    },
+    {
+      "roll": "20161M",
+      "url": "https://www.dpetns.ie/wp-content/uploads/2024/05/Admissions-Policy-28.05.2024.pdf",
+      "label": "Admissions Policy",
+      "sha256": "3f7b92e83207b956146a892718f8ea5ee9e6bd4e53b61c57597702b75feb29ee",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20161M_3f7b92e83207b956146a.txt",
+      "source_file": "database/milestone2/cache/3f7b92e83207b956146a892718f8ea5ee9e6bd4e53b61c57597702b75feb29ee.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 23749
+    },
+    {
+      "roll": "20161M",
+      "url": "https://www.dpetns.ie/wp-content/uploads/2025/09/DPETNS-Admissions-Enrolment-Policy-September-2025.pdf",
+      "label": "Admissions/Enrolment Policy Sept 2025",
+      "sha256": "3837bfd840a4fe9c06b26f6d18a4e17474a425fe83fe23d492fd8f096c5ad704",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20161M_3837bfd840a4fe9c06b2.txt",
+      "source_file": "database/milestone2/cache/3837bfd840a4fe9c06b26f6d18a4e17474a425fe83fe23d492fd8f096c5ad704.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 26795
+    },
+    {
+      "roll": "20161M",
+      "url": "https://www.dpetns.ie/wp-content/uploads/2025/09/20250918_DonabatePortraneETNS_AdmissionPolicy_Approved-1.docx",
+      "label": "Admission Policy Sept 2025",
+      "sha256": "c8efee03f3445d9c956dbc29ec93b405add742340067c61dc65a859067587a99",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/20161M_c8efee03f3445d9c956d.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 25322
+    },
+    {
+      "roll": "20161M",
+      "url": "https://www.dpetns.ie/wp-content/uploads/2026/09/DPETNS-Admissions-Enrolment-Policy-September-2026.pdf",
+      "label": "DPETNS Admissions &#8211; Enrolment Policy &#8211; September 2026",
+      "sha256": "c425b38877fe9efb6aeaa89ab405d82e346dda4a216bd0b043237d54449cd543",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20161M_c425b38877fe9efb6aea.txt",
+      "source_file": "database/milestone2/cache/c425b38877fe9efb6aeaa89ab405d82e346dda4a216bd0b043237d54449cd543.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 26793
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.dpetns.ie/sitemap.xml",
+      "label": "Public sitemap",
+      "via": "sitemap_root"
+    },
+    {
+      "url": "https://www.dpetns.ie/parents/school-levy/",
+      "label": "School Levy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.dpetns.ie/parents/pta/",
+      "label": "Booklists 25/26",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.dpetns.ie/parents/pta-2/",
+      "label": "PTA",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.dpetns.ie/parents/junior-infants-25-26/",
+      "label": "Junior Infants 26 / 27",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.dpetns.ie/parents/healthy-eating/",
+      "label": "Healthy Eating",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.dpetns.ie/parents/fundraising/",
+      "label": "Fundraising",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.dpetns.ie/parents/eca/",
+      "label": "ECA",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.dpetns.ie/parents/drop-off/",
+      "label": "Drop Off",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.dpetns.ie/parents/communication/",
+      "label": "Communication",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.dpetns.ie/parents/aup-smart-device-policies/",
+      "label": "AUP & Smart Device Policies",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.dpetns.ie/parents/",
+      "label": "Parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.dpetns.ie/about/policies/curricular/",
+      "label": "Curricular Policies",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.dpetns.ie/about/policies/administrative/",
+      "label": "Administrative Policies",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.dpetns.ie/about/policies/",
+      "label": "Policies",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 82.47,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:59:07+0000"
+}

@@ -1,0 +1,86 @@
+{
+  "roll": "19589U",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://gaelscoilinsechor.ie/fogra-iontrala/",
+      "final_url": "https://gaelscoilinsechor.ie/fogra-iontrala/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions Notice"
+    },
+    {
+      "url": "https://gaelscoilinsechor.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://gaelscoilinsechor.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "http://gaelscoilinsechor.ie/wp-content/uploads/2026/09/Glossary-of-Terms.pdf",
+      "final_url": "http://gaelscoilinsechor.ie/wp-content/uploads/2026/09/Glossary-of-Terms.pdf",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "Glossary of Terms"
+    },
+    {
+      "url": "https://gaelscoilinsechor.ie/wp-sitemap.xml",
+      "final_url": "https://gaelscoilinsechor.ie/wp-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://gaelscoilinsechor.ie/wp-sitemap-posts-post-1.xml",
+      "final_url": "https://gaelscoilinsechor.ie/wp-sitemap-posts-post-1.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://gaelscoilinsechor.ie/wp-sitemap-posts-page-1.xml",
+      "final_url": "https://gaelscoilinsechor.ie/wp-sitemap-posts-page-1.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://gaelscoilinsechor.ie/wp-sitemap-posts-arsim_course-1.xml",
+      "final_url": "https://gaelscoilinsechor.ie/wp-sitemap-posts-arsim_course-1.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://gaelscoilinsechor.ie/",
+      "final_url": "https://gaelscoilinsechor.ie/",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "http://gaelscoilinsechor.ie/fogra-iontrala/",
+      "final_url": "http://gaelscoilinsechor.ie/fogra-iontrala/",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": ""
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19589U",
+      "url": "https://gaelscoilinsechor.ie/",
+      "label": "School homepage",
+      "sha256": "99150aaf199ba4bcdd4c082c5d0dc857225974f5bc0febe75ea6c1c9fbd32698",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19589U_99150aaf199ba4bcdd4c.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 969
+    }
+  ],
+  "pending_links": [],
+  "elapsed_seconds": 24.04,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:07:10+0000"
+}

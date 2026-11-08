@@ -1,0 +1,445 @@
+{
+  "roll": "07546J",
+  "status": "bounded_search_no_new_notice_found",
+  "attempts": [
+    {
+      "url": "https://www.ourladyoflourdesns.ie",
+      "final_url": "https://www.ourladyoflourdesns.ie",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.ourladyoflourdesns.ie/sitemap.xml",
+      "final_url": "https://www.ourladyoflourdesns.ie/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.ourladyoflourdesns.ie/parents-/uniform/",
+      "final_url": "https://www.ourladyoflourdesns.ie/parents-/uniform/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Uniform"
+    },
+    {
+      "url": "https://www.ourladyoflourdesns.ie/parents-/uniform/?googletranslate=true",
+      "final_url": "https://www.ourladyoflourdesns.ie/parents-/uniform/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.ourladyoflourdesns.ie/parents-/support-your-child-at-home-/",
+      "final_url": "https://www.ourladyoflourdesns.ie/parents-/support-your-child-at-home-/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Support your child at home"
+    },
+    {
+      "url": "https://www.ourladyoflourdesns.ie/securedoclink/3/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/680/securedocs/20260630054506_100_5654-supporting-vocabulary-development-in-everyday-activities-top-tips-for-parents.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Download"
+    },
+    {
+      "url": "https://www.ourladyoflourdesns.ie/parents-/support-your-child-at-home-/?googletranslate=true",
+      "final_url": "https://www.ourladyoflourdesns.ie/parents-/support-your-child-at-home-/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.ourladyoflourdesns.ie/parents-/starting-school/",
+      "final_url": "https://www.ourladyoflourdesns.ie/parents-/starting-school/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Starting School"
+    },
+    {
+      "url": "https://www.ourladyoflourdesns.ie/parents-/starting-school/?googletranslate=true",
+      "final_url": "https://www.ourladyoflourdesns.ie/parents-/starting-school/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.ourladyoflourdesns.ie/parents-/forms/",
+      "final_url": "https://www.ourladyoflourdesns.ie/parents-/forms/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Forms"
+    },
+    {
+      "url": "https://www.ourladyoflourdesns.ie/parents-/forms/?googletranslate=true",
+      "final_url": "https://www.ourladyoflourdesns.ie/parents-/forms/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.ourladyoflourdesns.ie/parents-/",
+      "final_url": "https://www.ourladyoflourdesns.ie/parents-/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents"
+    },
+    {
+      "url": "https://www.ourladyoflourdesns.ie/parents-/?googletranslate=true",
+      "final_url": "https://www.ourladyoflourdesns.ie/parents-/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.ourladyoflourdesns.ie/our-school/policies/",
+      "final_url": "https://www.ourladyoflourdesns.ie/our-school/policies/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.ourladyoflourdesns.ie/documentlink/113/?open=true",
+      "final_url": "https://view.officeapps.live.com/op/embed.aspx?src=https://swddoc.b-cdn.net/680/docletter/20260209115053_80_admissions_notice_2026_-_2027_1_.docx",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Admissions notice 2026/2027"
+    },
+    {
+      "url": "https://www.ourladyoflourdesns.ie/documentlink/116/?open=true",
+      "final_url": "https://view.officeapps.live.com/op/embed.aspx?src=https://swddoc.b-cdn.net/680/docletter/20260308042304_28_ADMISSIONS_POLICY_OLOL_SEPTEMBER_2025.docx",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "ADMISSIONS POLICY OLOL SEPTEMBER 2025.docx"
+    },
+    {
+      "url": "https://www.ourladyoflourdesns.ie/our-school/policies/?googletranslate=true",
+      "final_url": "https://www.ourladyoflourdesns.ie/our-school/policies/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.ourladyoflourdesns.ie/documentlink/99/?open=true&download=true",
+      "final_url": "https://swdcache.b-cdn.net/680/docletter/20250603093317_27_final_homework_policy_may_2025_for_board.docx",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.ourladyoflourdesns.ie/documentlink/96/?open=true&download=true",
+      "final_url": "https://swdcache.b-cdn.net/680/docletter/20240923064434_93_healthy_eating_policy_olol.docx",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.ourladyoflourdesns.ie/documentlink/95/?open=true&download=true",
+      "final_url": "https://swdcache.b-cdn.net/680/docletter/20240923064434_30_anti_bullying_policy_-_OLOL_-_October_2024.docx",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.ourladyoflourdesns.ie/documentlink/94/?open=true&download=true",
+      "final_url": "https://swdcache.b-cdn.net/680/docletter/20240923064434_34_Anti_Cyber_bullying_policy_September_2024.doc",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.ourladyoflourdesns.ie/documentlink/89/?open=true&download=true",
+      "final_url": "https://swdcache.b-cdn.net/680/docletter/20240916014856_4_updated_OLOL_RISK_ASSESSMENT_AND_SAFETY_STATMENT.docx",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.ourladyoflourdesns.ie/documentlink/88/?open=true&download=true",
+      "final_url": "https://swdcache.b-cdn.net/680/docletter/20240606095004_77_DEIS_plan_2023-2026.docx.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.ourladyoflourdesns.ie/documentlink/78/?open=true&download=true",
+      "final_url": "https://swdcache.b-cdn.net/680/docletter/20230109104330_49_RSE_in_Primary_School_Parent_Tips.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": ""
+    }
+  ],
+  "documents": [],
+  "pending_links": [
+    {
+      "url": "https://www.ourladyoflourdesns.ie/documentlink/78/?open=true",
+      "label": "RSE in Primary School Parent Tips",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ourladyoflourdesns.ie/documentlink/70/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ourladyoflourdesns.ie/documentlink/69/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ourladyoflourdesns.ie/documentlink/68/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ourladyoflourdesns.ie/documentlink/68/?open=true",
+      "label": "Parent Staff Communication 22",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ourladyoflourdesns.ie/documentlink/58/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ourladyoflourdesns.ie/documentlink/57/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ourladyoflourdesns.ie/documentlink/49/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ourladyoflourdesns.ie/documentlink/27/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ourladyoflourdesns.ie/documentlink/26/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ourladyoflourdesns.ie/documentlink/25/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ourladyoflourdesns.ie/documentlink/24/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ourladyoflourdesns.ie/documentlink/22/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ourladyoflourdesns.ie/documentlink/122/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ourladyoflourdesns.ie/documentlink/119/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ourladyoflourdesns.ie/documentlink/118/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ourladyoflourdesns.ie/documentlink/117/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ourladyoflourdesns.ie/documentlink/116/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ourladyoflourdesns.ie/documentlink/113/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ourladyoflourdesns.ie/documentlink/110/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ourladyoflourdesns.ie/documentlink/103/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ourladyoflourdesns.ie/documentlink/102/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ourladyoflourdesns.ie/documentlink/101/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ourladyoflourdesns.ie/admin/?open=/parents-/uniform/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ourladyoflourdesns.ie/admin/?open=/parents-/uniform/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ourladyoflourdesns.ie/admin/?open=/parents-/support-your-child-at-home-/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ourladyoflourdesns.ie/admin/?open=/parents-/support-your-child-at-home-/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ourladyoflourdesns.ie/admin/?open=/parents-/starting-school/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ourladyoflourdesns.ie/admin/?open=/parents-/starting-school/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ourladyoflourdesns.ie/admin/?open=/parents-/forms/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ourladyoflourdesns.ie/admin/?open=/parents-/forms/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ourladyoflourdesns.ie/admin/?open=/parents-/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ourladyoflourdesns.ie/admin/?open=/parents-/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ourladyoflourdesns.ie/admin/?open=/our-school/policies/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ourladyoflourdesns.ie/admin/?open=/our-school/policies/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ourladyoflourdesns.ie/documentlink/57/?open=true",
+      "label": "HSCL Policy Sept 2021",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ourladyoflourdesns.ie/documentlink/24/?open=true",
+      "label": "Handwriting Policy 2021",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ourladyoflourdesns.ie/documentlink/22/?open=true",
+      "label": "Gaeilge Policy 2021",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ourladyoflourdesns.ie/documentlink/70/?open=true",
+      "label": "Substance Abuse Policy 2022",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ourladyoflourdesns.ie/documentlink/95/?open=true",
+      "label": "anti bullying policy - OLOL - October 2024.docx",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ourladyoflourdesns.ie/documentlink/94/?open=true",
+      "label": "Anti Cyber bullying policy September 2024.doc",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ourladyoflourdesns.ie/documentlink/99/?open=true",
+      "label": "Homework policy May 2025",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ourladyoflourdesns.ie/documentlink/101/?open=true",
+      "label": "Bi Cine lta finished policy July 2025.docx",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ourladyoflourdesns.ie/documentlink/119/?open=true",
+      "label": "mobile phone and electronic devices policy April 2026.docx",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ourladyoflourdesns.ie/documentlink/118/?open=true",
+      "label": "Acceptable use policy April 2026",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ourladyoflourdesns.ie/documentlink/96/?open=true",
+      "label": "healthy eating policy olol.docx",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ourladyoflourdesns.ie/documentlink/69/?open=true",
+      "label": "Safety Health and Welfare Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ourladyoflourdesns.ie/documentlink/58/?open=true",
+      "label": "Administration of Medication policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ourladyoflourdesns.ie/documentlink/27/?open=true",
+      "label": "Multiculturalism Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ourladyoflourdesns.ie/documentlink/26/?open=true",
+      "label": "RE Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ourladyoflourdesns.ie/documentlink/25/?open=true",
+      "label": "English Language Support Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ourladyoflourdesns.ie/cmsfiles/policies/privacy/",
+      "label": "Website Privacy Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ourladyoflourdesns.ie/cmsfiles/policies/cookie/",
+      "label": "Cookie Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 80.07,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:01:33+0000"
+}

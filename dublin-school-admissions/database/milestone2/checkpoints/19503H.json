@@ -1,0 +1,194 @@
+{
+  "roll": "19503H",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.scoilchronain.ie/iontrail-bhliantuil-annual-admissions-2",
+      "final_url": "https://www.scoilchronain.ie/iontrail-bhliantuil-annual-admissions-2",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Iontráil Bhliantúil – Annual Admissions"
+    },
+    {
+      "url": "https://www.scoilchronain.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://www.scoilchronain.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://www.scoilchronain.ie/wp-content/uploads/2026/10/2027.28-Scoil-Chronain_19503H_-Polasai-Iontrala_Admission-Policy.pdf",
+      "final_url": "https://www.scoilchronain.ie/wp-content/uploads/2026/10/2027.28-Scoil-Chronain_19503H_-Polasai-Iontrala_Admission-Policy.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "2027.28 Scoil Chrónáin_19503H_ Polasaí Iontrála_Admission Policy"
+    },
+    {
+      "url": "https://www.scoilchronain.ie/iontrail-bhliantuil",
+      "final_url": "https://www.scoilchronain.ie/iontrail-bhliantuil",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Iontráil Bhliantúil"
+    },
+    {
+      "url": "https://www.scoilchronain.ie/wp-content/uploads/2023/10/Scoil-Chrónáin-Polasaí-Iontrála_Admission-Policy-Deireadh-Fomhair-2023.pdf",
+      "final_url": "https://www.scoilchronain.ie/wp-content/uploads/2023/10/Scoil-Chrónáin-Polasaí-Iontrála_Admission-Policy-Deireadh-Fomhair-2023.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Scoil Chrónáin Polasaí Iontrála_Admission Policy Deireadh Fomhair 2023"
+    },
+    {
+      "url": "https://www.scoilchronain.ie/wp-content/uploads/2023/04/02_2023-24-Scoil-Chrónáin-Admission-Policy-English-Version.docx-1.pdf",
+      "final_url": "https://www.scoilchronain.ie/wp-content/uploads/2023/04/02_2023-24-Scoil-Chrónáin-Admission-Policy-English-Version.docx-1.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "02_2023-24 Scoil Chrónáin Admission Policy English Version.docx (1)"
+    },
+    {
+      "url": "https://www.scoilchronain.ie/wp-content/uploads/2023/03/2023-24-Scoil-Chrónáin-Foirm-Iarratais-Iontrála-Application-Form-for-Admission.pdf",
+      "final_url": "https://www.scoilchronain.ie/wp-content/uploads/2023/03/2023-24-Scoil-Chrónáin-Foirm-Iarratais-Iontrála-Application-Form-for-Admission.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "2023-24 Scoil Chrónáin Foirm Iarratais Iontrála (Application Form for Admission)"
+    },
+    {
+      "url": "https://www.scoilchronain.ie/wp-content/uploads/2024/10/Polasaí-Iontrála-_Admissions-Policy-2025.26.pdf",
+      "final_url": "https://www.scoilchronain.ie/wp-content/uploads/2024/10/Polasaí-Iontrála-_Admissions-Policy-2025.26.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Polasaí Iontrála _Admissions Policy 2025.26"
+    },
+    {
+      "url": "https://www.scoilchronain.ie/wp-content/uploads/2024/03/parental-complaints-procedure-final-version.pdf",
+      "final_url": "https://www.scoilchronain.ie/wp-content/uploads/2024/03/parental-complaints-procedure-final-version.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Gearáin"
+    },
+    {
+      "url": "https://www.scoilchronain.ie/wp-content/uploads/2025/10/2026.27-Scoil-Chronain-Polasai-Iontrala_Admission-Policy-Deireadh-Fomhair.pdf",
+      "final_url": "https://www.scoilchronain.ie/wp-content/uploads/2025/10/2026.27-Scoil-Chronain-Polasai-Iontrala_Admission-Policy-Deireadh-Fomhair.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Scoil Chrónáin Polasaí Iontrála/Admission Policy Deireadh Fomhair"
+    },
+    {
+      "url": "https://www.scoilchronain.ie/wp-content/uploads/2025/06/Scoil-Chrónáin-Rang-Uathachais-Polasaí-Iontála-Special-Class-Admission-Policy-2025.26.pdf",
+      "final_url": "https://www.scoilchronain.ie/wp-content/uploads/2025/06/Scoil-Chrónáin-Rang-Uathachais-Polasaí-Iontála-Special-Class-Admission-Policy-2025.26.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Scoil Chrónáin Rang Uathachais Polasaí Iontála Special Class Admission Policy 2025.26"
+    },
+    {
+      "url": "https://www.scoilchronain.ie/sitemap_index.xml",
+      "final_url": "https://www.scoilchronain.ie/sitemap_index.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.scoilchronain.ie/post-sitemap.xml",
+      "final_url": "https://www.scoilchronain.ie/post-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.scoilchronain.ie/page-sitemap.xml",
+      "final_url": "https://www.scoilchronain.ie/page-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.scoilchronain.ie",
+      "final_url": "https://www.scoilchronain.ie",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19503H",
+      "url": "https://www.scoilchronain.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "label": "Oldest public admission media (all dates)",
+      "sha256": "468f3dd638193818c34472a967f42d307b73888f792a9db50107b5363f4cdc31",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19503H_468f3dd638193818c344.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 2324
+    },
+    {
+      "roll": "19503H",
+      "url": "https://www.scoilchronain.ie/wp-content/uploads/2026/10/2027.28-Scoil-Chronain_19503H_-Polasai-Iontrala_Admission-Policy.pdf",
+      "label": "2027.28 Scoil Chrónáin_19503H_ Polasaí Iontrála_Admission Policy",
+      "sha256": "8d783e3a73b575bf36fdee51f7cb6e1410debe913c41d8c10298e9bd87243c68",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19503H_8d783e3a73b575bf36fd.txt",
+      "source_file": "database/milestone2/cache/8d783e3a73b575bf36fdee51f7cb6e1410debe913c41d8c10298e9bd87243c68.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 68800
+    },
+    {
+      "roll": "19503H",
+      "url": "https://www.scoilchronain.ie/iontrail-bhliantuil",
+      "label": "Iontráil Bhliantúil",
+      "sha256": "cc831fd378091078f648c1027e4a59e22bf2ca30095d86e23cf982babe09b1c6",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19503H_cc831fd378091078f648.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1947
+    },
+    {
+      "roll": "19503H",
+      "url": "https://www.scoilchronain.ie/wp-content/uploads/2023/10/Scoil-Chrónáin-Polasaí-Iontrála_Admission-Policy-Deireadh-Fomhair-2023.pdf",
+      "label": "Scoil Chrónáin Polasaí Iontrála_Admission Policy Deireadh Fomhair 2023",
+      "sha256": "2da0a5eada823ea94e68ca8a9e3aee212381941c177d08d7e1c44dca865c6181",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19503H_2da0a5eada823ea94e68.txt",
+      "source_file": "database/milestone2/cache/2da0a5eada823ea94e68ca8a9e3aee212381941c177d08d7e1c44dca865c6181.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 49198
+    },
+    {
+      "roll": "19503H",
+      "url": "https://www.scoilchronain.ie/wp-content/uploads/2023/04/02_2023-24-Scoil-Chrónáin-Admission-Policy-English-Version.docx-1.pdf",
+      "label": "02_2023-24 Scoil Chrónáin Admission Policy English Version.docx (1)",
+      "sha256": "4cf12c2700b17480be149929b731b16aeedd4a16021f5e564902d75b4202f63b",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19503H_4cf12c2700b17480be14.txt",
+      "source_file": "database/milestone2/cache/4cf12c2700b17480be149929b731b16aeedd4a16021f5e564902d75b4202f63b.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 22838
+    },
+    {
+      "roll": "19503H",
+      "url": "https://www.scoilchronain.ie/wp-content/uploads/2024/10/Polasaí-Iontrála-_Admissions-Policy-2025.26.pdf",
+      "label": "Polasaí Iontrála _Admissions Policy 2025.26",
+      "sha256": "688dbf21f727a932ea6740a80901d2350526303480d5524f10dc940f4158bb12",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19503H_688dbf21f727a932ea67.txt",
+      "source_file": "database/milestone2/cache/688dbf21f727a932ea6740a80901d2350526303480d5524f10dc940f4158bb12.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 49190
+    },
+    {
+      "roll": "19503H",
+      "url": "https://www.scoilchronain.ie/wp-content/uploads/2025/10/2026.27-Scoil-Chronain-Polasai-Iontrala_Admission-Policy-Deireadh-Fomhair.pdf",
+      "label": "Scoil Chrónáin Polasaí Iontrála/Admission Policy Deireadh Fomhair",
+      "sha256": "0524c07839efdda6f831ef0db24f200f1d341ddff397cbbb39137697c35f13c2",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19503H_0524c07839efdda6f831.txt",
+      "source_file": "database/milestone2/cache/0524c07839efdda6f831ef0db24f200f1d341ddff397cbbb39137697c35f13c2.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 68363
+    }
+  ],
+  "pending_links": [],
+  "elapsed_seconds": 57.35,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:38:15+0000"
+}

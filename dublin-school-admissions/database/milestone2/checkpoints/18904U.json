@@ -1,0 +1,253 @@
+{
+  "roll": "18904U",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://stpeterssch.ie/admissions/",
+      "final_url": "https://stpeterssch.ie/admissions/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://stpeterssch.ie/wp-content/uploads/2025/09/New-Admission-Notice.pdf",
+      "final_url": "https://stpeterssch.ie/wp-content/uploads/2025/09/New-Admission-Notice.pdf",
+      "status": "http_404",
+      "via": "school_public_link",
+      "label": "Annual Admission Notice"
+    },
+    {
+      "url": "https://stpeterssch.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://stpeterssch.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://stpeterssch.ie/wp-content/uploads/2025/10/St-Peters-School-Admissions-Policy-25-26.pdf",
+      "final_url": "https://stpeterssch.ie/wp-content/uploads/2025/10/St-Peters-School-Admissions-Policy-25-26.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "St Peters School Admissions Policy 25-26"
+    },
+    {
+      "url": "https://stpeterssch.ie/wp-content/uploads/2025/09/2026-2027-St-Peters-Admission-Application-Form.pdf",
+      "final_url": "https://stpeterssch.ie/wp-content/uploads/2025/09/2026-2027-St-Peters-Admission-Application-Form.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "2026-2027 St-Peters-Admission-Application-Form"
+    },
+    {
+      "url": "https://stpeterssch.ie/wp-content/uploads/2026/09/2027-2028-St-Peters-Admission-Application-Form.docx",
+      "final_url": "https://stpeterssch.ie/wp-content/uploads/2026/09/2027-2028-St-Peters-Admission-Application-Form.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions Application Form 27/28"
+    },
+    {
+      "url": "https://stpeterssch.ie/sitemap_index.xml",
+      "final_url": "https://stpeterssch.ie/sitemap_index.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://stpeterssch.ie/school-admissions/",
+      "final_url": "https://stpeterssch.ie/school-admissions/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions/policy URL from public sitemap"
+    },
+    {
+      "url": "https://stpeterssch.ie/wp-content/uploads/2023/10/School-Admission-policy-document.pdf",
+      "final_url": "https://stpeterssch.ie/wp-content/uploads/2023/10/School-Admission-policy-document.pdf",
+      "status": "http_404",
+      "via": "school_public_link",
+      "label": "School Admission policy document"
+    },
+    {
+      "url": "https://stpeterssch.ie/post-sitemap.xml",
+      "final_url": "https://stpeterssch.ie/post-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://stpeterssch.ie/policies/",
+      "final_url": "https://stpeterssch.ie/policies/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://stpeterssch.ie/wp-content/uploads/2026/02/Parents-Complaint-Procedure.pdf",
+      "final_url": "https://stpeterssch.ie/wp-content/uploads/2026/02/Parents-Complaint-Procedure.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents Complaints Procedure"
+    },
+    {
+      "url": "https://stpeterssch.ie/page-sitemap.xml",
+      "final_url": "https://stpeterssch.ie/page-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://stpeterssch.ie/wp-content/uploads/2025/09/New-Admission-Notice-1.pdf",
+      "final_url": "https://stpeterssch.ie/wp-content/uploads/2025/09/New-Admission-Notice-1.pdf",
+      "status": "http_404",
+      "via": "sitemap_link",
+      "label": "Admission URL from sitemap"
+    },
+    {
+      "url": "https://stpeterssch.ie",
+      "final_url": "https://stpeterssch.ie",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://stpeterssch.ie/wp-content/uploads/2025/11/Protected-Disclosures-Policy.pdf",
+      "final_url": "https://stpeterssch.ie/wp-content/uploads/2025/11/Protected-Disclosures-Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Protected Disclosures Policy"
+    },
+    {
+      "url": "https://stpeterssch.ie/wp-content/uploads/2025/11/Mobile-Phone-Policy.pdf",
+      "final_url": "https://stpeterssch.ie/wp-content/uploads/2025/11/Mobile-Phone-Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Mobile Phone Personal Media Communications Policy"
+    },
+    {
+      "url": "https://stpeterssch.ie/wp-content/uploads/2025/11/Irish-Language-and-Cultural-Activities-Policy-1.pdf",
+      "final_url": "https://stpeterssch.ie/wp-content/uploads/2025/11/Irish-Language-and-Cultural-Activities-Policy-1.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Irish Language and Cultural Activities Policy"
+    },
+    {
+      "url": "https://stpeterssch.ie/wp-content/uploads/2025/11/Fire-Drill-Evacuation-Policy.pdf",
+      "final_url": "https://stpeterssch.ie/wp-content/uploads/2025/11/Fire-Drill-Evacuation-Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Fire Drill and Evacuation Policy"
+    },
+    {
+      "url": "https://stpeterssch.ie/wp-content/uploads/2025/11/Expulsion-Policy-St.-Peters.pdf",
+      "final_url": "https://stpeterssch.ie/wp-content/uploads/2025/11/Expulsion-Policy-St.-Peters.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Expulsion Policy"
+    },
+    {
+      "url": "https://stpeterssch.ie/wp-content/uploads/2025/11/Dignity-at-Work-Policy.pdf",
+      "final_url": "https://stpeterssch.ie/wp-content/uploads/2025/11/Dignity-at-Work-Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Dignity at Work Policy"
+    },
+    {
+      "url": "https://stpeterssch.ie/wp-content/uploads/2025/11/Child-Protection-Policy.pdf",
+      "final_url": "https://stpeterssch.ie/wp-content/uploads/2025/11/Child-Protection-Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Child Protection Policy"
+    },
+    {
+      "url": "https://stpeterssch.ie/wp-content/uploads/2025/11/Administration-of-Medication-Policy.pdf",
+      "final_url": "https://stpeterssch.ie/wp-content/uploads/2025/11/Administration-of-Medication-Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Administration of Medicines Policy"
+    },
+    {
+      "url": "https://stpeterssch.ie/wp-content/uploads/2025/11/Acceptable-Use-Policy.pdf",
+      "final_url": "https://stpeterssch.ie/wp-content/uploads/2025/11/Acceptable-Use-Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Acceptable Use (ICT) Policy"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "18904U",
+      "url": "https://stpeterssch.ie/admissions/",
+      "label": "Admissions",
+      "sha256": "ee2cdd56fb5aac976b96e63fb9ab92609a4effbfb50e31e4b8011182fdd13ab5",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/18904U_ee2cdd56fb5aac976b96.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 57
+    },
+    {
+      "roll": "18904U",
+      "url": "https://stpeterssch.ie/wp-content/uploads/2025/10/St-Peters-School-Admissions-Policy-25-26.pdf",
+      "label": "St Peters School Admissions Policy 25-26",
+      "sha256": "281a1da015fcbf93c313a90a377fa439677108afe331c6154d024676897f42c2",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/18904U_281a1da015fcbf93c313.txt",
+      "source_file": "database/milestone2/cache/281a1da015fcbf93c313a90a377fa439677108afe331c6154d024676897f42c2.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 22976
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://stpeterssch.ie/wp-content/uploads/2025/10/Suspension-Policy-St-Peters-School-Rathgar.pdf",
+      "label": "Suspension Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpeterssch.ie/wp-content/uploads/2025/10/St-Peters-School-School-Outings-Policy.pdf",
+      "label": "School Outings Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpeterssch.ie/wp-content/uploads/2025/06/SPHE-POLICY.pdf",
+      "label": "SPHE Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpeterssch.ie/wp-content/uploads/2026/06/Healthy-Eating-Policy.pdf",
+      "label": "Healthy Eating Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpeterssch.ie/wp-content/uploads/2026/06/Data-Protection-Policy.pdf",
+      "label": "Data Protection Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpeterssch.ie/wp-content/uploads/2026/06/Bi-Cinnealta-Anti-Bullying-Policy.pdf",
+      "label": "Bí Cinnealta (Anti-Bullying Policy)",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpeterssch.ie/wp-content/uploads/2026/06/Assessment-Recording-Policy.pdf",
+      "label": "Assessment and Recording Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpeterssch.ie/wp-content/uploads/2026/04/Physical-Intervention-Policy.pdf",
+      "label": "Physical Intervention Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpeterssch.ie/wp-content/uploads/2026/04/Attendance-Policy.pdf",
+      "label": "Attendance Strategy & Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpeterssch.ie/wp-content/uploads/2026/02/RSE-Policy.pdf",
+      "label": "RSE Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 82.91,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:05:15+0000"
+}

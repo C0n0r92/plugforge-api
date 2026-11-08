@@ -1,0 +1,119 @@
+{
+  "roll": "20425U",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://gaelscoilshliabhrua.ie/",
+      "final_url": "https://gaelscoilshliabhrua.ie/",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://gaelscoilshliabhrua.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://gaelscoilshliabhrua.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://gaelscoilshliabhrua.ie/wp-content/uploads/2024/09/2025-2026.DESAdmissionNotice.docx.pdf",
+      "final_url": "https://gaelscoilshliabhrua.ie/wp-content/uploads/2024/09/2025-2026.DESAdmissionNotice.docx.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "2025-2026.DESAdmissionNotice.docx"
+    },
+    {
+      "url": "https://gaelscoilshliabhrua.ie/wp-content/uploads/2024/09/2024.DESAdmissionNotice.docx-3.pdf",
+      "final_url": "https://gaelscoilshliabhrua.ie/wp-content/uploads/2024/09/2024.DESAdmissionNotice.docx-3.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "2024.DESAdmissionNotice.docx (3)"
+    },
+    {
+      "url": "https://gaelscoilshliabhrua.ie/wp-content/uploads/2024/02/2024.DESAdmissionNotice.docx.pdf",
+      "final_url": "https://gaelscoilshliabhrua.ie/wp-content/uploads/2024/02/2024.DESAdmissionNotice.docx.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "2024.DESAdmissionNotice.docx"
+    },
+    {
+      "url": "https://gaelscoilshliabhrua.ie/wp-content/uploads/2025/09/2026-2027.DESAdmissionNotice.pdf",
+      "final_url": "https://gaelscoilshliabhrua.ie/wp-content/uploads/2025/09/2026-2027.DESAdmissionNotice.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "2026-2027.DESAdmissionNotice"
+    },
+    {
+      "url": "https://gaelscoilshliabhrua.ie/wp-sitemap.xml",
+      "final_url": "https://gaelscoilshliabhrua.ie/wp-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://gaelscoilshliabhrua.ie/wp-sitemap-users-1.xml",
+      "final_url": "https://gaelscoilshliabhrua.ie/wp-sitemap-users-1.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://gaelscoilshliabhrua.ie/wp-sitemap-posts-page-1.xml",
+      "final_url": "https://gaelscoilshliabhrua.ie/wp-sitemap-posts-page-1.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "20425U",
+      "url": "https://gaelscoilshliabhrua.ie/wp-content/uploads/2024/09/2025-2026.DESAdmissionNotice.docx.pdf",
+      "label": "2025-2026.DESAdmissionNotice.docx",
+      "sha256": "94f38e482f634e6233ebd64273d7742f7ca995f4cfd30ac33ac282c3ff565ed7",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20425U_94f38e482f634e6233eb.txt",
+      "source_file": "database/milestone2/cache/94f38e482f634e6233ebd64273d7742f7ca995f4cfd30ac33ac282c3ff565ed7.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 2736
+    },
+    {
+      "roll": "20425U",
+      "url": "https://gaelscoilshliabhrua.ie/wp-content/uploads/2024/09/2024.DESAdmissionNotice.docx-3.pdf",
+      "label": "2024.DESAdmissionNotice.docx (3)",
+      "sha256": "01dd875bed457f688a5f2e8659db234ff69e950982ea0bf3300cbcbac7377afb",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20425U_01dd875bed457f688a5f.txt",
+      "source_file": "database/milestone2/cache/01dd875bed457f688a5f2e8659db234ff69e950982ea0bf3300cbcbac7377afb.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 2736
+    },
+    {
+      "roll": "20425U",
+      "url": "https://gaelscoilshliabhrua.ie/wp-content/uploads/2024/02/2024.DESAdmissionNotice.docx.pdf",
+      "label": "2024.DESAdmissionNotice.docx",
+      "sha256": "61d1cb808ad62b5b0b2c0e310f53f03789f8de565dffda1e1bdd164c747a31db",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20425U_61d1cb808ad62b5b0b2c.txt",
+      "source_file": "database/milestone2/cache/61d1cb808ad62b5b0b2c0e310f53f03789f8de565dffda1e1bdd164c747a31db.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 2733
+    },
+    {
+      "roll": "20425U",
+      "url": "https://gaelscoilshliabhrua.ie/wp-content/uploads/2025/09/2026-2027.DESAdmissionNotice.pdf",
+      "label": "2026-2027.DESAdmissionNotice",
+      "sha256": "7a27b467e20f1b00aa259dc662602012d376ede6179ef2139cf9295cd6564a43",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20425U_7a27b467e20f1b00aa25.txt",
+      "source_file": "database/milestone2/cache/7a27b467e20f1b00aa259dc662602012d376ede6179ef2139cf9295cd6564a43.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 2891
+    }
+  ],
+  "pending_links": [],
+  "elapsed_seconds": 25.52,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:58:48+0000"
+}

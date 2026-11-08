@@ -1,0 +1,30 @@
+{
+  "domain": "stmarysbnslucan.com",
+  "rolls": [
+    "00714P"
+  ],
+  "attempted_at": "2026-11-08T12:16:18.928868+00:00",
+  "method": "official_Wayback_CDX_domain_all_available_dates",
+  "params": {
+    "url": "stmarysbnslucan.com",
+    "matchType": "domain",
+    "output": "json",
+    "fl": "timestamp,original,mimetype,statuscode,digest",
+    "filter": [
+      "statuscode:200",
+      "original:(?i).*(admission|annual.{0,20}notice|iontr|fogra|f%C3%B3gra).*"
+    ],
+    "collapse": "digest",
+    "limit": "200",
+    "showResumeKey": "true"
+  },
+  "earliest_year_cutoff": null,
+  "no_retry": true,
+  "status": "transient_or_unclassified_failure",
+  "error_class": "ReadTimeout",
+  "error": "HTTPSConnectionPool(host='web.archive.org', port=443): Read timed out. (read timeout=40)",
+  "captures": [],
+  "pages": 0,
+  "resume_key": null,
+  "updated_at": "2026-11-08T12:16:59.173183+00:00"
+}

@@ -1,0 +1,222 @@
+{
+  "roll": "19777V",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.gaelscoilmide.com/post/seaimpíní-agus-cúpla-fógra",
+      "final_url": "https://www.gaelscoilmide.com/post/seaimpíní-agus-cúpla-fógra",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions/policy URL from public sitemap"
+    },
+    {
+      "url": "https://www.gaelscoilmide.com/copy-3-of-documents-1-1-1",
+      "final_url": "https://www.gaelscoilmide.com/copy-3-of-documents-1-1-1",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://www.gaelscoilmide.com/sitemap.xml",
+      "final_url": "https://www.gaelscoilmide.com/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.gaelscoilmide.com/store-products-sitemap.xml",
+      "final_url": "https://www.gaelscoilmide.com/store-products-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.gaelscoilmide.com/store-categories-sitemap.xml",
+      "final_url": "https://www.gaelscoilmide.com/store-categories-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.gaelscoilmide.com/documents-1",
+      "final_url": "https://www.gaelscoilmide.com/documents-1",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Fúinn | About"
+    },
+    {
+      "url": "https://www.gaelscoilmide.com/documents-1/suirbh%C3%A9-bunscoile%2Fprimary-survey%2C-gaelscoil-m%C3%ADde",
+      "final_url": "https://www.gaelscoilmide.com/documents-1/suirbh%C3%A9-bunscoile%2Fprimary-survey%2C-gaelscoil-m%C3%ADde",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Brú Anseo"
+    },
+    {
+      "url": "https://www.gaelscoilmide.com/documents-1/stair-agus-strucht%C3%BAr-na-gaelscoile--%7C-history-and-structure-of-the-school",
+      "final_url": "https://www.gaelscoilmide.com/documents-1/stair-agus-strucht%C3%BAr-na-gaelscoile--%7C-history-and-structure-of-the-school",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Brú Anseo"
+    },
+    {
+      "url": "https://www.gaelscoilmide.com/documents-1/coist%C3%AD-%7C-committees",
+      "final_url": "https://www.gaelscoilmide.com/documents-1/coist%C3%AD-%7C-committees",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Brú Anseo"
+    },
+    {
+      "url": "https://www.gaelscoilmide.com/documents-1/baill-an-bhoird-%7C-members-of-the-board-of-management",
+      "final_url": "https://www.gaelscoilmide.com/documents-1/baill-an-bhoird-%7C-members-of-the-board-of-management",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Brú Anseo"
+    },
+    {
+      "url": "https://www.gaelscoilmide.com/documents-1/an-foireann-%7C-the-team",
+      "final_url": "https://www.gaelscoilmide.com/documents-1/an-foireann-%7C-the-team",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Brú Anseo"
+    },
+    {
+      "url": "https://www.gaelscoilmide.com/documents-1/aidhmeanna-agus-feals%C3%BAnacht-na-gaelscoile-%7C-aims-and-philosophy-of-the-school",
+      "final_url": "https://www.gaelscoilmide.com/documents-1/aidhmeanna-agus-feals%C3%BAnacht-na-gaelscoile-%7C-aims-and-philosophy-of-the-school",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Brú Anseo"
+    },
+    {
+      "url": "https://www.gaelscoilmide.com/copy-of-documents-1-2",
+      "final_url": "https://www.gaelscoilmide.com/copy-of-documents-1-2",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "An Ghaeilge | Irish"
+    },
+    {
+      "url": "https://www.gaelscoilmide.com/documents-1/de%C3%A1n-comhr%C3%A1-%7C-a-phrasebook-for-parents",
+      "final_url": "https://www.gaelscoilmide.com/documents-1/de%C3%A1n-comhr%C3%A1-%7C-a-phrasebook-for-parents",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Brú Anseo"
+    },
+    {
+      "url": "https://www.gaelscoilmide.com/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://www.gaelscoilmide.com/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "http_404",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://www.gaelscoilmide.com/documents-1/an-ghailge-%7C-irish",
+      "final_url": "https://www.gaelscoilmide.com/documents-1/an-ghailge-%7C-irish",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Brú Anseo"
+    },
+    {
+      "url": "https://www.gaelscoilmide.com/copy-of-documents-1-1",
+      "final_url": "https://www.gaelscoilmide.com/copy-of-documents-1-1",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Polasaithe | Policies"
+    },
+    {
+      "url": "https://www.gaelscoilmide.com/copy-3-of-documents-1-1",
+      "final_url": "https://www.gaelscoilmide.com/copy-3-of-documents-1-1",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Naisc | Links"
+    },
+    {
+      "url": "https://www.gaelscoilmide.com/copy-2-of-documents-1-1-1",
+      "final_url": "https://www.gaelscoilmide.com/copy-2-of-documents-1-1-1",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Ar Scoil | At School"
+    },
+    {
+      "url": "https://www.gaelscoilmide.com/documents-1/timpist%C3%AD-%7C-accidents",
+      "final_url": "https://www.gaelscoilmide.com/documents-1/timpist%C3%AD-%7C-accidents",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Brú Anseo"
+    },
+    {
+      "url": "https://www.gaelscoilmide.com/documents-1/point%C3%AD-beaga-praitici%C3%BAla-basic-practical-points-",
+      "final_url": "https://www.gaelscoilmide.com/documents-1/point%C3%AD-beaga-praitici%C3%BAla-basic-practical-points-",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Brú Anseo"
+    },
+    {
+      "url": "https://www.gaelscoilmide.com/documents-1/obair-bhaile--homework",
+      "final_url": "https://www.gaelscoilmide.com/documents-1/obair-bhaile--homework",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Brú Anseo"
+    },
+    {
+      "url": "https://www.gaelscoilmide.com/documents-1/leabhair-scoile-school-books",
+      "final_url": "https://www.gaelscoilmide.com/documents-1/leabhair-scoile-school-books",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Brú Anseo"
+    },
+    {
+      "url": "https://www.gaelscoilmide.com/documents-1/iompar-agus-smacht-behaviour-and-discipline",
+      "final_url": "https://www.gaelscoilmide.com/documents-1/iompar-agus-smacht-behaviour-and-discipline",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Brú Anseo"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19777V",
+      "url": "https://www.gaelscoilmide.com/copy-3-of-documents-1-1-1",
+      "label": "Prior school admissions section",
+      "sha256": "fa614d3b535cec3313f777bf0729cdf2e9f425cec83d7a5532dfa8c75cfe9254",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19777V_fa614d3b535cec3313f7.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 294
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.gaelscoilmide.com/documents-1/glantacht-agus-n%C3%A9atacht-cleanliness-and-neatness",
+      "label": "Brú Anseo",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.gaelscoilmide.com/documents-1/dr%C3%A1ma%2C-rince%2C-ceol-agus-sp%C3%B3rt-drama%2C-dance%2C-music-and-sport",
+      "label": "Brú Anseo",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.gaelscoilmide.com/documents-1/an-l%C3%A1-scoile-%7C-the-school-day",
+      "label": "Brú Anseo",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.gaelscoilmide.com/documents-1/an-bhus-scoile-%7C-the-school-bus",
+      "label": "Brú Anseo",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.gaelscoilmide.com/blog-posts-sitemap.xml",
+      "label": "Public sitemap index child",
+      "via": "sitemap_child"
+    },
+    {
+      "url": "https://www.gaelscoilmide.com/",
+      "label": "School homepage",
+      "via": "home"
+    }
+  ],
+  "elapsed_seconds": 67.64,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:09:17+0000"
+}

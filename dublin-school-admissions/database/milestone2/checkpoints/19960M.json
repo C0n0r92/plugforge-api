@@ -1,0 +1,295 @@
+{
+  "roll": "19960M",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.stjohnsns.ie/admissions-notice-2025/",
+      "final_url": "https://www.stjohnsns.ie/admissions-notice-2025/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions/policy URL from public sitemap"
+    },
+    {
+      "url": "https://www.stjohnsns.ie/admission-notice-2026/",
+      "final_url": "https://www.stjohnsns.ie/admission-notice-2026/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions/policy URL from public sitemap"
+    },
+    {
+      "url": "https://www.stjohnsns.ie/annual-admissions-notice/",
+      "final_url": "https://www.stjohnsns.ie/annual-admissions-notice/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions/policy URL from public sitemap"
+    },
+    {
+      "url": "https://www.stjohnsns.ie/annual-admission-notice/",
+      "final_url": "https://www.stjohnsns.ie/annual-admission-notice/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions/policy URL from public sitemap"
+    },
+    {
+      "url": "https://www.stjohnsns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://www.stjohnsns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://www.stjohnsns.ie/wp-content/uploads/2024/12/Admission-p.pdf",
+      "final_url": "https://www.stjohnsns.ie/wp-content/uploads/2024/12/Admission-p.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admission p"
+    },
+    {
+      "url": "https://www.stjohnsns.ie/wp-content/uploads/2023/04/Admission-policy.pdf",
+      "final_url": "https://www.stjohnsns.ie/wp-content/uploads/2023/04/Admission-policy.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admission policy"
+    },
+    {
+      "url": "https://www.stjohnsns.ie/wp-content/uploads/2023/04/Admission-policy-1.pdf",
+      "final_url": "https://www.stjohnsns.ie/wp-content/uploads/2023/04/Admission-policy-1.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admission policy"
+    },
+    {
+      "url": "https://www.stjohnsns.ie/wp-sitemap.xml",
+      "final_url": "https://www.stjohnsns.ie/wp-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.stjohnsns.ie/wp-sitemap-posts-post-1.xml",
+      "final_url": "https://www.stjohnsns.ie/wp-sitemap-posts-post-1.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.stjohnsns.ie/wp-sitemap-posts-page-1.xml",
+      "final_url": "https://www.stjohnsns.ie/wp-sitemap-posts-page-1.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.stjohnsns.ie/wp-sitemap-posts-calendar-1.xml",
+      "final_url": "https://www.stjohnsns.ie/wp-sitemap-posts-calendar-1.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.stjohnsns.ie/school-information/",
+      "final_url": "https://www.stjohnsns.ie/school-information/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Information for Have your Say Survey"
+    },
+    {
+      "url": "https://www.stjohnsns.ie/enrolment-policy/",
+      "final_url": "https://www.stjohnsns.ie/enrolment-policy/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions/policy URL from public sitemap"
+    },
+    {
+      "url": "https://www.stjohnsns.ie/enrolment-application-form/",
+      "final_url": "https://www.stjohnsns.ie/enrolment-application-form/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Enrolment Application Form"
+    },
+    {
+      "url": "https://www.stjohnsns.ie/as-class-enrolment-application-form/",
+      "final_url": "https://www.stjohnsns.ie/as-class-enrolment-application-form/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "AS Class Enrolment Application Form"
+    },
+    {
+      "url": "https://www.stjohnsns.ie/admissions-policy/",
+      "final_url": "https://www.stjohnsns.ie/admissions-policy/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions/policy URL from public sitemap"
+    },
+    {
+      "url": "https://www.stjohnsns.ie/admission-policy/",
+      "final_url": "https://www.stjohnsns.ie/admission-policy/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions/policy URL from public sitemap"
+    },
+    {
+      "url": "https://www.stjohnsns.ie/admission-policy-8/",
+      "final_url": "https://www.stjohnsns.ie/admission-policy-8/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admission Policy"
+    },
+    {
+      "url": "https://www.stjohnsns.ie/admission-policy-7/",
+      "final_url": "https://www.stjohnsns.ie/admission-policy-7/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions/policy URL from public sitemap"
+    },
+    {
+      "url": "https://www.stjohnsns.ie/admission-policy-6/",
+      "final_url": "https://www.stjohnsns.ie/admission-policy-6/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions/policy URL from public sitemap"
+    },
+    {
+      "url": "https://www.stjohnsns.ie/admission-policy-5/",
+      "final_url": "https://www.stjohnsns.ie/admission-policy-5/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions/policy URL from public sitemap"
+    },
+    {
+      "url": "https://www.stjohnsns.ie/admission-policy-4/",
+      "final_url": "https://www.stjohnsns.ie/admission-policy-4/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions/policy URL from public sitemap"
+    },
+    {
+      "url": "https://www.stjohnsns.ie/admission-policy-3/",
+      "final_url": "https://www.stjohnsns.ie/admission-policy-3/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions/policy URL from public sitemap"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19960M",
+      "url": "https://www.stjohnsns.ie/admissions-notice-2025/",
+      "label": "Admissions/policy URL from public sitemap",
+      "sha256": "f106287d5bfe3a480ef6840c20ea90ee587718c9f8cfcd82d2a31114558221dd",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19960M_f106287d5bfe3a480ef6.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 3849
+    },
+    {
+      "roll": "19960M",
+      "url": "https://www.stjohnsns.ie/admission-notice-2026/",
+      "label": "Admissions/policy URL from public sitemap",
+      "sha256": "7dac2a41c27c54c1a4bd17848d34323adc204be0077598d6b2337b587f3dd0d6",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19960M_7dac2a41c27c54c1a4bd.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 3164
+    },
+    {
+      "roll": "19960M",
+      "url": "https://www.stjohnsns.ie/annual-admissions-notice/",
+      "label": "Admissions/policy URL from public sitemap",
+      "sha256": "6f08aff1e11c91e4ede10c27ec97e47ffacee2a1820c44224cf80d3e9c4815e5",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19960M_6f08aff1e11c91e4ede1.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 3181
+    },
+    {
+      "roll": "19960M",
+      "url": "https://www.stjohnsns.ie/annual-admission-notice/",
+      "label": "Admissions/policy URL from public sitemap",
+      "sha256": "a7101509f19bd99efcfa00783f62eea87aa6a0653bde2806eb753418de99e41d",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19960M_a7101509f19bd99efcfa.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 2199
+    },
+    {
+      "roll": "19960M",
+      "url": "https://www.stjohnsns.ie/admissions-policy/",
+      "label": "Admissions/policy URL from public sitemap",
+      "sha256": "314384b50db22cb752645918e6d795d137563e4154b753f276de489289628fc7",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19960M_314384b50db22cb75264.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 18100
+    },
+    {
+      "roll": "19960M",
+      "url": "https://www.stjohnsns.ie/admission-policy-8/",
+      "label": "Admission Policy",
+      "sha256": "a7314a6e4915a6efb181e3faa810c1460f2b1b41ef7adf96c1d0cf426591b3eb",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19960M_a7314a6e4915a6efb181.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 18100
+    },
+    {
+      "roll": "19960M",
+      "url": "https://www.stjohnsns.ie/admission-policy-7/",
+      "label": "Admissions/policy URL from public sitemap",
+      "sha256": "2192198d60045e9bc939fb85e913be88a7d483a2105dcebf4d8535545c8cd165",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19960M_2192198d60045e9bc939.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 18100
+    },
+    {
+      "roll": "19960M",
+      "url": "https://www.stjohnsns.ie/admission-policy-6/",
+      "label": "Admissions/policy URL from public sitemap",
+      "sha256": "957a7f172db1dadc1eb192f6ef52dcf101e837a376f222a1c9ec2c0c81645983",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19960M_957a7f172db1dadc1eb1.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 18100
+    },
+    {
+      "roll": "19960M",
+      "url": "https://www.stjohnsns.ie/admission-policy-3/",
+      "label": "Admissions/policy URL from public sitemap",
+      "sha256": "126a9d41b18e321c6c97fc1994a235325fd8dd94ee206721e8eb9ec290fa9d3b",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19960M_126a9d41b18e321c6c97.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 18100
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.stjohnsns.ie/admission-policy-2/",
+      "label": "Admissions/policy URL from public sitemap",
+      "via": "prior_public_admissions_landing"
+    },
+    {
+      "url": "https://www.stjohnsns.ie",
+      "label": "School homepage",
+      "via": "home"
+    },
+    {
+      "url": "https://www.stjohnsns.ie/acceptable-use-policy-2/",
+      "label": "Acceptable Use Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 92.47,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:41:41+0000"
+}

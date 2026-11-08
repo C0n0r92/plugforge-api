@@ -1,0 +1,74 @@
+{
+  "roll": "20486R",
+  "status": "bounded_search_no_new_notice_found",
+  "attempts": [
+    {
+      "url": "https://www.graceparketns.com/enrolments",
+      "final_url": "https://www.graceparketns.com/enrolments",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://drive.google.com/file/d/14XlaYyB7UMe3g-s3QrGYC0o8iJDw9Qd5/view?usp=drive_link",
+      "final_url": "https://drive.google.com/file/d/14XlaYyB7UMe3g-s3QrGYC0o8iJDw9Qd5/view?usp=drive_link",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions Notice 2027/2028"
+    },
+    {
+      "url": "https://www.graceparketns.com/sitemap.xml",
+      "final_url": "https://www.graceparketns.com/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.graceparketns.com/policies",
+      "final_url": "https://www.graceparketns.com/policies",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.graceparketns.com/information-for-parents",
+      "final_url": "https://www.graceparketns.com/information-for-parents",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Information for Parents"
+    },
+    {
+      "url": "https://www.graceparketns.com/copy-of-school-policies",
+      "final_url": "https://www.graceparketns.com/copy-of-school-policies",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Classes"
+    },
+    {
+      "url": "https://www.graceparketns.com/",
+      "final_url": "https://www.graceparketns.com/",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://drive.google.com/sitemap.xml",
+      "final_url": "https://drive.google.com/sitemap.xml",
+      "status": "robots_disallow",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://drive.google.com/file/d/12yu-Yxzzx9h4Aaa9X0D6fZQ2IkTqrjp5/view?usp=drive_link",
+      "final_url": "https://drive.google.com/file/d/12yu-Yxzzx9h4Aaa9X0D6fZQ2IkTqrjp5/view?usp=drive_link",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admission Policy"
+    }
+  ],
+  "documents": [],
+  "pending_links": [],
+  "elapsed_seconds": 16.03,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:11:42+0000"
+}

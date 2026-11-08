@@ -1,0 +1,450 @@
+{
+  "roll": "16333Q",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://stps.ie/wp-content/uploads/2020/09/Annual-Admission-Notice.jpg",
+      "final_url": "https://stps.ie/wp-content/uploads/2020/09/Annual-Admission-Notice.jpg",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Annual Admission Notice"
+    },
+    {
+      "url": "https://stps.ie/wp-content/uploads/2021/09/Annual-Admissions-Notice-2022-2023.png",
+      "final_url": "https://stps.ie/wp-content/uploads/2021/09/Annual-Admissions-Notice-2022-2023.png",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Annual Admissions Notice 2022-2023"
+    },
+    {
+      "url": "https://stps.ie/wp-content/uploads/2024/10/THUMB_Admissions-Notice-2025-26-school-year.jpg",
+      "final_url": "https://stps.ie/wp-content/uploads/2024/10/THUMB_Admissions-Notice-2025-26-school-year.jpg",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "THUMB_Admissions Notice 2025 26 school year"
+    },
+    {
+      "url": "https://stps.ie/wp-content/uploads/2024/06/STPS-Annual-Admissions-Notice-AUTISM-CLASS-2024_2025_v5.5.6.24.jpg",
+      "final_url": "https://stps.ie/wp-content/uploads/2024/06/STPS-Annual-Admissions-Notice-AUTISM-CLASS-2024_2025_v5.5.6.24.jpg",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "STPS Annual Admissions Notice AUTISM CLASS 2024_2025_v5.5.6.24"
+    },
+    {
+      "url": "https://stps.ie/wp-content/uploads/2024/05/STPS-Annual-Admissions-Notice-AUTISM-CLASS-2024-2025-IMAGE.jpg",
+      "final_url": "https://stps.ie/wp-content/uploads/2024/05/STPS-Annual-Admissions-Notice-AUTISM-CLASS-2024-2025-IMAGE.jpg",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "STPS-Annual-Admissions-Notice-AUTISM-CLASS-2024-2025 IMAGE"
+    },
+    {
+      "url": "https://stps.ie/wp-content/uploads/2024/05/Annual_Admission_notice_2024_25.jpg",
+      "final_url": "https://stps.ie/wp-content/uploads/2024/05/Annual_Admission_notice_2024_25.jpg",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Annual_Admission_notice_2024_25"
+    },
+    {
+      "url": "https://stps.ie/wp-content/uploads/2025/10/2026-2027-STPS-Annual-Admission-Notice-JPG.jpg",
+      "final_url": "https://stps.ie/wp-content/uploads/2025/10/2026-2027-STPS-Annual-Admission-Notice-JPG.jpg",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "2026 2027 STPS Annual Admission Notice JPG"
+    },
+    {
+      "url": "https://stps.ie/wp-content/uploads/2026/10/2027-2028-STPS-annual-admission-notice_jpg.jpg",
+      "final_url": "https://stps.ie/wp-content/uploads/2026/10/2027-2028-STPS-annual-admission-notice_jpg.jpg",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "2027-2028 STPS annual admission notice_jpg"
+    },
+    {
+      "url": "https://stps.ie/wp-content/uploads/2023/09/admission_form_2024.jpg",
+      "final_url": "https://stps.ie/wp-content/uploads/2023/09/admission_form_2024.jpg",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "admission_form_2024"
+    },
+    {
+      "url": "https://stps.ie/wp-content/uploads/2026/10/austism-admission27-28-JPG.jpg",
+      "final_url": "https://stps.ie/wp-content/uploads/2026/10/austism-admission27-28-JPG.jpg",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "austism-admission27-28-JPG"
+    },
+    {
+      "url": "https://stps.ie/wp-content/uploads/2026/10/2027-2028-Admissions-form.jpg",
+      "final_url": "https://stps.ie/wp-content/uploads/2026/10/2027-2028-Admissions-form.jpg",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "2027-2028-Admissions-form"
+    },
+    {
+      "url": "https://stps.ie/enrolment/",
+      "final_url": "https://stps.ie/enrolment/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Enrolment 2026"
+    },
+    {
+      "url": "https://stps.ie/wp-content/uploads/2026/10/PDF-Austism-admission27-28.pdf",
+      "final_url": "https://stps.ie/wp-content/uploads/2026/10/PDF-Austism-admission27-28.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://stps.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://stps.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://stps.ie/wp-content/uploads/2020/09/Annual-Admissions-Notice-2021-2022.pdf",
+      "final_url": "https://stps.ie/wp-content/uploads/2020/09/Annual-Admissions-Notice-2021-2022.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Annual Admissions Notice 2021-2022"
+    },
+    {
+      "url": "https://stps.ie/wp-content/uploads/2020/09/Annual-Admissions-Notice-2021-2022-4.pdf",
+      "final_url": "https://stps.ie/wp-content/uploads/2020/09/Annual-Admissions-Notice-2021-2022-4.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Annual Admissions Notice 2021-2022"
+    },
+    {
+      "url": "https://stps.ie/wp-content/uploads/2020/09/Annual-Admissions-Notice-2021-2022-3.pdf",
+      "final_url": "https://stps.ie/wp-content/uploads/2020/09/Annual-Admissions-Notice-2021-2022-3.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Annual Admissions Notice 2021-2022"
+    },
+    {
+      "url": "https://stps.ie/wp-content/uploads/2020/09/Annual-Admissions-Notice-2021-2022-2.pdf",
+      "final_url": "https://stps.ie/wp-content/uploads/2020/09/Annual-Admissions-Notice-2021-2022-2.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Annual Admissions Notice 2021-2022"
+    },
+    {
+      "url": "https://stps.ie/wp-content/uploads/2020/09/Annual-Admissions-Notice-2021-2022-1.pdf",
+      "final_url": "https://stps.ie/wp-content/uploads/2020/09/Annual-Admissions-Notice-2021-2022-1.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Annual Admissions Notice 2021-2022"
+    },
+    {
+      "url": "https://stps.ie/wp-content/uploads/2020/08/St.-Patricks-JNS-Annual-Admissions-Notice-2021-2022.pdf",
+      "final_url": "https://stps.ie/wp-content/uploads/2020/08/St.-Patricks-JNS-Annual-Admissions-Notice-2021-2022.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "St. Patrick&#8217;s JNS Annual Admissions Notice 2021 2022"
+    },
+    {
+      "url": "https://stps.ie/wp-content/uploads/2020/12/Admissions-Application-Form-2020-2021.pdf",
+      "final_url": "https://stps.ie/wp-content/uploads/2020/12/Admissions-Application-Form-2020-2021.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Application Form 2020-2021"
+    },
+    {
+      "url": "https://stps.ie/wp-content/uploads/2020/12/Admissions-Application-Form-2020-2021-1.pdf",
+      "final_url": "https://stps.ie/wp-content/uploads/2020/12/Admissions-Application-Form-2020-2021-1.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Application Form 2020-2021"
+    },
+    {
+      "url": "https://stps.ie/wp-content/uploads/2020/09/Admissions-Application-Form.pdf",
+      "final_url": "https://stps.ie/wp-content/uploads/2020/09/Admissions-Application-Form.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Application Form"
+    },
+    {
+      "url": "https://stps.ie/wp-content/uploads/2020/09/Admissions-Application-Form-8.pdf",
+      "final_url": "https://stps.ie/wp-content/uploads/2020/09/Admissions-Application-Form-8.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Application Form"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "16333Q",
+      "url": "https://stps.ie/enrolment/",
+      "label": "Enrolment 2026",
+      "sha256": "5ad9fca896399ff51c4403eff2d42d2ce721a4b3e43b8900d306648ccdef4531",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/16333Q_5ad9fca896399ff51c44.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 223
+    },
+    {
+      "roll": "16333Q",
+      "url": "https://stps.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "label": "Oldest public admission media (all dates)",
+      "sha256": "12730818cc004e45dbfebadb67b13814ee3e21717b56f0006674187bdefbd293",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/16333Q_12730818cc004e45dbfe.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 16637
+    },
+    {
+      "roll": "16333Q",
+      "url": "https://stps.ie/wp-content/uploads/2020/09/Annual-Admissions-Notice-2021-2022.pdf",
+      "label": "Annual Admissions Notice 2021-2022",
+      "sha256": "e53f865e47f758b6331d3b40ce57ac059e49efeaf83c0aef0a2dd9a4343093a2",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/16333Q_e53f865e47f758b6331d.txt",
+      "source_file": "database/milestone2/cache/e53f865e47f758b6331d3b40ce57ac059e49efeaf83c0aef0a2dd9a4343093a2.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 4476
+    },
+    {
+      "roll": "16333Q",
+      "url": "https://stps.ie/wp-content/uploads/2020/08/St.-Patricks-JNS-Annual-Admissions-Notice-2021-2022.pdf",
+      "label": "St. Patrick&#8217;s JNS Annual Admissions Notice 2021 2022",
+      "sha256": "da94b4ecf3e3ad2d082315b74564d29bf19e2d154c012f5241aa4c4af5b62cd0",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/16333Q_da94b4ecf3e3ad2d0823.txt",
+      "source_file": "database/milestone2/cache/da94b4ecf3e3ad2d082315b74564d29bf19e2d154c012f5241aa4c4af5b62cd0.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 3957
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://stps.ie/wp-content/uploads/2020/09/Admissions-Application-Form-7.pdf",
+      "label": "Admissions Application Form",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://stps.ie/wp-content/uploads/2020/09/Admissions-Application-Form-6.pdf",
+      "label": "Admissions Application Form",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://stps.ie/wp-content/uploads/2020/09/Admissions-Application-Form-5.pdf",
+      "label": "Admissions Application Form",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://stps.ie/wp-content/uploads/2020/09/Admissions-Application-Form-4.pdf",
+      "label": "Admissions Application Form",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://stps.ie/wp-content/uploads/2020/09/Admissions-Application-Form-3.pdf",
+      "label": "Admissions Application Form",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://stps.ie/wp-content/uploads/2020/09/Admissions-Application-Form-2.pdf",
+      "label": "Admissions Application Form",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://stps.ie/wp-content/uploads/2020/09/Admissions-Application-Form-1.pdf",
+      "label": "Admissions Application Form",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://stps.ie/wp-content/uploads/2020/08/St.-Patricks-JNS-Admission-Policy-2020.pdf",
+      "label": "St. Patrick&#8217;s JNS Admission Policy 2020",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://stps.ie/wp-content/uploads/2020/08/2020-Admission-Application-Form.pdf",
+      "label": "2020 Admission Application Form",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://stps.ie/enrolment",
+      "label": "",
+      "via": "prior_public_admissions_landing"
+    },
+    {
+      "url": "https://stps.ie/wp-content/uploads/2021/09/Admission-Application-Form-2022-2023.pdf",
+      "label": "Admission Application Form 2022-2023",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://stps.ie/wp-content/uploads/2023/11/2022-St.-Patricks-JNS-Admissions-Policy.pdf",
+      "label": "2022-St.-Patricks-JNS-Admissions-Policy",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://stps.ie/wp-content/uploads/2023/11/2022-St.-Patricks-JNS-Admissions-Policy-2.pdf",
+      "label": "2022-St.-Patricks-JNS-Admissions-Policy",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://stps.ie/wp-content/uploads/2023/11/2022-St.-Patricks-JNS-Admissions-Policy-1.pdf",
+      "label": "2022-St.-Patricks-JNS-Admissions-Policy",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://stps.ie/wp-content/uploads/2022/12/2022-St.-Patricks-JNS-Admissions-Policy.docx",
+      "label": "2022 St. Patricks JNS Admissions Policy",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://stps.ie/wp-content/uploads/2022/09/2023-Admission-Application-Form.pdf",
+      "label": "2023 Admission Application Form",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://stps.ie/wp-content/uploads/2023/09/2024-Admissions-Application-Form.pdf",
+      "label": "2024 Admissions Application Form",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://stps.ie/wp-content/uploads/2024/05/AUTISM-CLASS-Admissions-Application-Form.pdf",
+      "label": "AUTISM CLASS Admissions Application Form",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://stps.ie/wp-content/uploads/2024/05/AUTISM-CLASS-Admissions-Application-Form-1.pdf",
+      "label": "AUTISM CLASS Admissions Application Form",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://stps.ie/wp-content/uploads/2024/05/2024-Admissions-Policy-May24.pdf",
+      "label": "2024 Admissions Policy-May24",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://stps.ie/wp-content/uploads/2025/10/2026-Mainstream-Admissions-Application-Form.pdf",
+      "label": "2027- 2028 Mainstream Admissions Form  -",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stps.ie/wp-content/uploads/2025/10/2026-Autism-Class-Admissions-Application-Form.pdf",
+      "label": "2026 Autism Class Admissions Application Form",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://stps.ie/wp-content/uploads/2025/10/2025-Admissions-Policy.pdf",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stps.ie/wp-content/uploads/2026/10/2027-28-Admission-Application-form.pdf",
+      "label": "2027-28-Admission-Application-form",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://stps.ie/wp-content/uploads/2026/10/2027-28-Admission-Application-form-2.pdf",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stps.ie/wp-content/uploads/2026/10/2027-28-Admission-Application-form-1.pdf",
+      "label": "2027-28-Admission-Application-form",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://stps.ie/wp-content/uploads/2020/12/Admissions-Application-Form-2020-2021.png",
+      "label": "Admissions Application Form 2020-2021",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://stps.ie/wp-content/uploads/2020/09/Admissions-Application-Form.jpg",
+      "label": "Admissions Application Form",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://stps.ie/wp-content/uploads/2020/09/Admissions-Application-Form-1.jpg",
+      "label": "Admissions Application Form",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://stps.ie/wp-content/uploads/2021/10/Admissions-Application-Form-2022-2023.png",
+      "label": "Admissions Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stps.ie/wp-content/uploads/2021/09/Admissions-Application-Form-2022-2023.png",
+      "label": "Admissions Application Form 2022-2023",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://stps.ie/wp-content/uploads/2023/11/Admissions-Policy-2022-image.jpg",
+      "label": "Admissions Policy 2022 image",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://stps.ie/wp-content/uploads/2022/10/2023-Admission-Application-Form-IMAGE.png",
+      "label": "2023 Admission Application Form IMAGE",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://stps.ie/wp-content/uploads/2022/10/2023-Admission-Application-Form-IMAGE-1.png",
+      "label": "2023 Admission Application Form IMAGE",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://stps.ie/wp-content/uploads/2024/05/AUTISM-Class-Admission-Application-FORM-24-25-IMAGE.jpg",
+      "label": "AUTISM Class Admission Application FORM 24-25 IMAGE",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://stps.ie/wp-content/uploads/2024/05/2024-Admissions-Policy.jpg",
+      "label": "2024 Admissions Policy",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://stps.ie/wp-content/uploads/2025/10/2026-Mainstream-Admissions-Application-Form-JPG.jpg",
+      "label": "2026 Mainstream Admissions Application Form JPG",
+      "via": "prior_public_admissions_landing"
+    },
+    {
+      "url": "https://stps.ie/wp-content/uploads/2025/10/2026-Autism-Class-Admissions-Application-Form-JPG.jpg",
+      "label": "2026 Autism Class Admissions Application Form JPG",
+      "via": "prior_public_admissions_landing"
+    },
+    {
+      "url": "https://stps.ie/wp-content/uploads/2025/10/2025-Admissions-Policy-JPG.jpg",
+      "label": "2025 Admissions Policy JPG",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://stps.ie/wp-sitemap.xml",
+      "label": "Public sitemap",
+      "via": "sitemap_root"
+    },
+    {
+      "url": "https://stps.ie/the-first-day/",
+      "label": "Parents’ Guide",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stps.ie/school-policies/",
+      "label": "School Policies",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stps.ie/child-safeguarding-policies/",
+      "label": "Child Safeguarding",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stps.ie/3d-flip-book/welcome-booklet/",
+      "label": "Parents Booklet",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stps.ie",
+      "label": "School homepage",
+      "via": "home"
+    }
+  ],
+  "elapsed_seconds": 130.61,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:33:37+0000"
+}

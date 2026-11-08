@@ -1,0 +1,286 @@
+{
+  "roll": "19556F",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.stkiliansjns.ie/school-year/enrolment/",
+      "final_url": "https://www.stkiliansjns.ie/school-year/enrolment/",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://www.stkiliansjns.ie/assets/uploads/Autism-Class-Enrolment-2027-28.pdf",
+      "final_url": "https://www.stkiliansjns.ie/assets/uploads/Autism-Class-Enrolment-2027-28.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Autism Class Enrolment 2027-28"
+    },
+    {
+      "url": "https://www.stkiliansjns.ie/assets/uploads/Enrolment-Form-2027-8.pdf",
+      "final_url": "https://www.stkiliansjns.ie/assets/uploads/Enrolment-Form-2027-8.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download Application Form for Enrolment"
+    },
+    {
+      "url": "https://www.stkiliansjns.ie/assets/uploads/Handbook-for-Parents.pdf",
+      "final_url": "https://www.stkiliansjns.ie/assets/uploads/Handbook-for-Parents.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Handbook for Parents"
+    },
+    {
+      "url": "https://www.stkiliansjns.ie/assets/uploads/Admissions-Policy-St.-Kilians-JNS-Sept-25.pdf",
+      "final_url": "https://www.stkiliansjns.ie/assets/uploads/Admissions-Policy-St.-Kilians-JNS-Sept-25.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions Policy St. Kilian’s JNS Sept 25"
+    },
+    {
+      "url": "https://www.stkiliansjns.ie/sitemap.xml",
+      "final_url": "https://www.stkiliansjns.ie/sitemap_index.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.stkiliansjns.ie/post-sitemap.xml",
+      "final_url": "https://www.stkiliansjns.ie/post-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.stkiliansjns.ie/annual-admissions-and-enrolment/",
+      "final_url": "https://www.stkiliansjns.ie/annual-admissions-and-enrolment/",
+      "status": "ok",
+      "via": "sitemap_link",
+      "label": "Admission URL from sitemap"
+    },
+    {
+      "url": "https://www.stkiliansjns.ie/annual-admissions-and-enrolment-2/",
+      "final_url": "https://www.stkiliansjns.ie/annual-admissions-and-enrolment-2/",
+      "status": "ok",
+      "via": "sitemap_link",
+      "label": "Admission URL from sitemap"
+    },
+    {
+      "url": "https://www.stkiliansjns.ie/enrolment-opens-9th-october/",
+      "final_url": "https://www.stkiliansjns.ie/enrolment-opens-9th-october/",
+      "status": "ok",
+      "via": "sitemap_link",
+      "label": "Admission URL from sitemap"
+    },
+    {
+      "url": "https://www.stkiliansjns.ie/enrolment-opens-7th-october/",
+      "final_url": "https://www.stkiliansjns.ie/enrolment-opens-7th-october/",
+      "status": "ok",
+      "via": "sitemap_link",
+      "label": "Admission URL from sitemap"
+    },
+    {
+      "url": "https://www.stkiliansjns.ie/enrolment-17th-october-until-7th-november/",
+      "final_url": "https://www.stkiliansjns.ie/enrolment-17th-october-until-7th-november/",
+      "status": "ok",
+      "via": "sitemap_link",
+      "label": "Admission URL from sitemap"
+    },
+    {
+      "url": "https://www.stkiliansjns.ie/assets/uploads/schools_admissions.jpg",
+      "final_url": "https://www.stkiliansjns.ie/assets/uploads/schools_admissions.jpg",
+      "status": "ok",
+      "via": "sitemap_link",
+      "label": "Admission URL from sitemap"
+    },
+    {
+      "url": "https://www.stkiliansjns.ie/assets/uploads/schools_admissions-1.jpg",
+      "final_url": "https://www.stkiliansjns.ie/assets/uploads/schools_admissions-1.jpg",
+      "status": "ok",
+      "via": "sitemap_link",
+      "label": "Admission URL from sitemap"
+    },
+    {
+      "url": "https://www.stkiliansjns.ie/page-sitemap.xml",
+      "final_url": "https://www.stkiliansjns.ie/page-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.stkiliansjns.ie/about-us/policies/",
+      "final_url": "https://www.stkiliansjns.ie/about-us/policies/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Policies"
+    },
+    {
+      "url": "https://www.stkiliansjns.ie/assets/uploads/Handbook-for-Parents.Update-June-26.pdf",
+      "final_url": "https://www.stkiliansjns.ie/assets/uploads/Handbook-for-Parents.Update-June-26.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Handbook for Parents.Update June 26"
+    },
+    {
+      "url": "https://www.stkiliansjns.ie/about-us/parents-association/",
+      "final_url": "https://www.stkiliansjns.ie/about-us/parents-association/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "St. Kilian’s Parents Association"
+    },
+    {
+      "url": "https://www.stkiliansjns.ie/",
+      "final_url": "https://www.stkiliansjns.ie/",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.stkiliansjns.ie/assets/uploads/Critical-Incident-Policy-Nov-2021.pdf",
+      "final_url": "https://www.stkiliansjns.ie/assets/uploads/Critical-Incident-Policy-Nov-2021.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Critical Incident Policy"
+    },
+    {
+      "url": "https://www.stkiliansjns.ie/assets/uploads/Assessment-Policy-2024.doc.pdf",
+      "final_url": "https://www.stkiliansjns.ie/assets/uploads/Assessment-Policy-2024.doc.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Assessment Policy 2024"
+    },
+    {
+      "url": "https://www.stkiliansjns.ie/assets/uploads/AEN-Policy-2024-1.pdf",
+      "final_url": "https://www.stkiliansjns.ie/assets/uploads/AEN-Policy-2024-1.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "AEN Policy 2024"
+    },
+    {
+      "url": "https://www.stkiliansjns.ie/assets/uploads/Stay-Safe-Policy-Dec-18.pdf",
+      "final_url": "https://www.stkiliansjns.ie/assets/uploads/Stay-Safe-Policy-Dec-18.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Stay Safe Policy"
+    },
+    {
+      "url": "https://www.stkiliansjns.ie/assets/uploads/School-Visitors-Policy-Sept-18.pdf",
+      "final_url": "https://www.stkiliansjns.ie/assets/uploads/School-Visitors-Policy-Sept-18.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Visitors Policy"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19556F",
+      "url": "https://www.stkiliansjns.ie/school-year/enrolment/",
+      "label": "Prior school admissions section",
+      "sha256": "8f7728a670c08e88ad999a643b5e660b24fed5d63d25470f897768c257568b12",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19556F_8f7728a670c08e88ad99.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1973
+    },
+    {
+      "roll": "19556F",
+      "url": "https://www.stkiliansjns.ie/assets/uploads/Admissions-Policy-St.-Kilians-JNS-Sept-25.pdf",
+      "label": "Admissions Policy St. Kilian’s JNS Sept 25",
+      "sha256": "9276a6e244ef1b340e3fcf9b115415e69147accb7f1fd25f662aad48d84345bf",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19556F_9276a6e244ef1b340e3f.txt",
+      "source_file": "database/milestone2/cache/9276a6e244ef1b340e3fcf9b115415e69147accb7f1fd25f662aad48d84345bf.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 28508
+    },
+    {
+      "roll": "19556F",
+      "url": "https://www.stkiliansjns.ie/annual-admissions-and-enrolment/",
+      "label": "Admission URL from sitemap",
+      "sha256": "7d49a837d231612b1ef0297f46e1b3b7d3c8408f250ae60dbe1cdb0e8c2482ff",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19556F_7d49a837d231612b1ef0.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1141
+    },
+    {
+      "roll": "19556F",
+      "url": "https://www.stkiliansjns.ie/annual-admissions-and-enrolment-2/",
+      "label": "Admission URL from sitemap",
+      "sha256": "248e5341cfa31c52a18f69f0f34a107204edad136dfbcf30290528d532cf4ed9",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19556F_248e5341cfa31c52a18f.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1122
+    },
+    {
+      "roll": "19556F",
+      "url": "https://www.stkiliansjns.ie/enrolment-17th-october-until-7th-november/",
+      "label": "Admission URL from sitemap",
+      "sha256": "299c10a7f239fcab875d820652e0bb68fbf84490fe67f78b547bafab0130243f",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19556F_299c10a7f239fcab875d.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 154
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.stkiliansjns.ie/assets/uploads/School-Tour-Policy-Sept-18.pdf",
+      "label": "School Tour Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stkiliansjns.ie/assets/uploads/RSE-Policy.pdf",
+      "label": "RSE Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stkiliansjns.ie/assets/uploads/Healthy-Lunch-Box-Policy-2.pdf",
+      "label": "Healthy Lunch Box Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stkiliansjns.ie/assets/uploads/Exceptional-or-Emergency-Closure-Policy-Jan19.pdf",
+      "label": "Exceptional or Emergency Closure Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stkiliansjns.ie/assets/uploads/Data-Protection-Policy-18.pdf",
+      "label": "Data Protection Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stkiliansjns.ie/assets/uploads/Custody-and-Separation-policy.pdf",
+      "label": "Custody and Separation policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stkiliansjns.ie/assets/uploads/Communications-Policy-St.-Kilians-JNS.pdf",
+      "label": "Communications Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stkiliansjns.ie/assets/uploads/Bí-Cineálta-Policy-Final.pdf",
+      "label": "Bí Cineálta Anti-Bullying Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stkiliansjns.ie/assets/uploads/Acceptable-Use-Policy-March-23.pdf",
+      "label": "Acceptable Use Policy March 23",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stkiliansjns.ie/cookies-privacy-policy/",
+      "label": "Cookies & Privacy Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 92.01,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:56:54+0000"
+}

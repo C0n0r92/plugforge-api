@@ -1,0 +1,222 @@
+{
+  "roll": "20186F",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.castaheanyetns.ie/enrolment.html",
+      "final_url": "https://www.castaheanyetns.ie/enrolment.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Enrolment"
+    },
+    {
+      "url": "https://www.castaheanyetns.ie/uploads/1/2/2/8/122856522/castaheany_etns_admissions_policy_approved.docx.pdf",
+      "final_url": "https://www.castaheanyetns.ie/uploads/1/2/2/8/122856522/castaheany_etns_admissions_policy_approved.docx.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions policy"
+    },
+    {
+      "url": "https://www.castaheanyetns.ie/sitemap.xml",
+      "final_url": "https://www.castaheanyetns.ie/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.castaheanyetns.ie/policies--procedures.html",
+      "final_url": "https://www.castaheanyetns.ie/policies--procedures.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies & Procedures"
+    },
+    {
+      "url": "https://www.castaheanyetns.ie/uploads/1/2/2/8/122856522/homework_policy_revised_2011.docx",
+      "final_url": "https://www.castaheanyetns.ie/uploads/1/2/2/8/122856522/homework_policy_revised_2011.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Homework Policy"
+    },
+    {
+      "url": "https://www.castaheanyetns.ie/uploads/1/2/2/8/122856522/cetns_parental_involvement_policy_2012.pdf",
+      "final_url": "https://www.castaheanyetns.ie/uploads/1/2/2/8/122856522/cetns_parental_involvement_policy_2012.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parental Involvement"
+    },
+    {
+      "url": "https://www.castaheanyetns.ie/uploads/1/2/2/8/122856522/cetns_cctv_policy_2017.pdf",
+      "final_url": "https://www.castaheanyetns.ie/uploads/1/2/2/8/122856522/cetns_cctv_policy_2017.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "CCTV Policy"
+    },
+    {
+      "url": "https://www.castaheanyetns.ie/uploads/1/2/2/8/122856522/attendance_policy_revised_2017.doc",
+      "final_url": "https://www.castaheanyetns.ie/uploads/1/2/2/8/122856522/attendance_policy_revised_2017.doc",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Attendance Strategy"
+    },
+    {
+      "url": "https://www.castaheanyetns.ie/uploads/1/2/2/8/122856522/_cetns_sen_policy_2017.pdf",
+      "final_url": "https://www.castaheanyetns.ie/uploads/1/2/2/8/122856522/_cetns_sen_policy_2017.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Additional Support Policy"
+    },
+    {
+      "url": "https://www.castaheanyetns.ie/uploads/1/2/2/8/122856522/assessment_policy__june_2018_.docx",
+      "final_url": "https://www.castaheanyetns.ie/uploads/1/2/2/8/122856522/assessment_policy__june_2018_.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Assessment Policy"
+    },
+    {
+      "url": "https://www.castaheanyetns.ie/parent-teacher-association.html",
+      "final_url": "https://www.castaheanyetns.ie/parent-teacher-association.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parent Teacher Association"
+    },
+    {
+      "url": "https://www.castaheanyetns.ie/parent-supports.html",
+      "final_url": "https://www.castaheanyetns.ie/parent-supports.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parent Supports"
+    },
+    {
+      "url": "https://www.castaheanyetns.ie/parent-information.html",
+      "final_url": "https://www.castaheanyetns.ie/parent-information.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parent Information"
+    },
+    {
+      "url": "https://www.castaheanyetns.ie",
+      "final_url": "https://www.castaheanyetns.ie",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.castaheanyetns.ie/uploads/1/2/2/8/122856522/cetns_admin_of_meds_policy2021.pdf",
+      "final_url": "https://www.castaheanyetns.ie/uploads/1/2/2/8/122856522/cetns_admin_of_meds_policy2021.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Administration of Medication Policy"
+    },
+    {
+      "url": "https://www.castaheanyetns.ie/uploads/1/2/2/8/122856522/cetns_accident_and_injury_policy_2021.pdf",
+      "final_url": "https://www.castaheanyetns.ie/uploads/1/2/2/8/122856522/cetns_accident_and_injury_policy_2021.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Accident and Injury Policy"
+    },
+    {
+      "url": "https://www.castaheanyetns.ie/uploads/1/2/2/8/122856522/social_media_policy_june_2022.docx.pdf",
+      "final_url": "https://www.castaheanyetns.ie/uploads/1/2/2/8/122856522/social_media_policy_june_2022.docx.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Social Media Policy"
+    },
+    {
+      "url": "https://www.castaheanyetns.ie/uploads/1/2/2/8/122856522/substance_use_policy_nov_22.pdf",
+      "final_url": "https://www.castaheanyetns.ie/uploads/1/2/2/8/122856522/substance_use_policy_nov_22.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Substance Use Policy"
+    },
+    {
+      "url": "https://www.castaheanyetns.ie/uploads/1/2/2/8/122856522/school_therapy_dog_policy.pdf",
+      "final_url": "https://www.castaheanyetns.ie/uploads/1/2/2/8/122856522/school_therapy_dog_policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Therapy Dog Policy"
+    },
+    {
+      "url": "https://www.castaheanyetns.ie/uploads/1/2/2/8/122856522/protected_disclosures_policy__1_.pdf",
+      "final_url": "https://www.castaheanyetns.ie/uploads/1/2/2/8/122856522/protected_disclosures_policy__1_.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Protected Disclosures Policy"
+    },
+    {
+      "url": "https://www.castaheanyetns.ie/uploads/1/2/2/8/122856522/mobile_phone_policy_june_22.docx.pdf",
+      "final_url": "https://www.castaheanyetns.ie/uploads/1/2/2/8/122856522/mobile_phone_policy_june_22.docx.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Mobile Phone and Smart Device Policy"
+    },
+    {
+      "url": "https://www.castaheanyetns.ie/uploads/1/2/2/8/122856522/cetns_parental_complaints_policy_jan24.pdf",
+      "final_url": "https://www.castaheanyetns.ie/uploads/1/2/2/8/122856522/cetns_parental_complaints_policy_jan24.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parental Complaints Policy"
+    },
+    {
+      "url": "https://www.castaheanyetns.ie/uploads/1/2/2/8/122856522/cetns_internet_acceptable_usage_policy_feb21.pdf",
+      "final_url": "https://www.castaheanyetns.ie/uploads/1/2/2/8/122856522/cetns_internet_acceptable_usage_policy_feb21.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Internet Acceptable Use Policy"
+    },
+    {
+      "url": "https://www.castaheanyetns.ie/uploads/1/2/2/8/122856522/cetns_healthy_eating_policy.pdf",
+      "final_url": "https://www.castaheanyetns.ie/uploads/1/2/2/8/122856522/cetns_healthy_eating_policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Healthy Eating Policy"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "20186F",
+      "url": "https://www.castaheanyetns.ie/uploads/1/2/2/8/122856522/castaheany_etns_admissions_policy_approved.docx.pdf",
+      "label": "Admissions policy",
+      "sha256": "6e6114b0f5a96f900f94af7b854ac01732180b74c27051be285571cdb4b40516",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20186F_6e6114b0f5a96f900f94.txt",
+      "source_file": "database/milestone2/cache/6e6114b0f5a96f900f94af7b854ac01732180b74c27051be285571cdb4b40516.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 23520
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.castaheanyetns.ie/uploads/1/2/2/8/122856522/cetns_filming_and_photography_policy.pdf",
+      "label": "Filming and Photography Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.castaheanyetns.ie/uploads/1/2/2/8/122856522/cetns_draft_mobile_phone_policy_jan22.docx",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.castaheanyetns.ie/uploads/1/2/2/8/122856522/cetns_data_protection_policy_oct_20.pdf",
+      "label": "Data Protection Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.castaheanyetns.ie/uploads/1/2/2/8/122856522/cetns_anti-racism_policy_sept23.pdf",
+      "label": "Anti-racism policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.castaheanyetns.ie/uploads/1/2/2/8/122856522/bi_cinealta.pdf",
+      "label": "Bí Cineálta (Anti-bullying policy)",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.castaheanyetns.ie/uploads/1/2/2/8/122856522/assistive_technology_policy_.docx.pdf",
+      "label": "Assistive Technology Policy​",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 70.69,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:59:01+0000"
+}

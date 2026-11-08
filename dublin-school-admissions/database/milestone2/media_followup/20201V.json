@@ -1,0 +1,39 @@
+{
+  "roll": "20201V",
+  "attempted_at": "2026-11-08T13:15:18+0000",
+  "method": "documented_public_WordPress_media_notice_and_Irish_title_gap_search",
+  "attempts": [
+    {
+      "url": "https://tetns.ie/wp-json/wp/v2/media?search=notice&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok"
+    },
+    {
+      "url": "https://tetns.ie/wp-json/wp/v2/media?search=f%C3%B3gra&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok"
+    },
+    {
+      "url": "https://tetns.ie/wp-content/uploads/2026/10/Admissions-Notice-2026-1.pdf",
+      "status": "ok",
+      "label": "Admissions Notice 2026"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "20201V",
+      "url": "https://tetns.ie/wp-content/uploads/2026/10/Admissions-Notice-2026-1.pdf",
+      "label": "Admissions Notice 2026",
+      "sha256": "6e2b4a2e29bcf233a84479bee750bac3ee7fd035c1224d99608cfe2191648370",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20201V_6e2b4a2e29bcf233a844.txt",
+      "source_file": "database/milestone2/cache/6e2b4a2e29bcf233a84479bee750bac3ee7fd035c1224d99608cfe2191648370.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 7805,
+      "discovery_method": "documented_WP_notice_or_Irish_title_media_query",
+      "cms_media_date_as_printed_not_publication": "2026-10-06T14:12:26"
+    }
+  ],
+  "pending_links": [],
+  "earliest_year_cutoff": null,
+  "status": "attempted_new_historical_notice_candidates",
+  "elapsed_seconds": 9.0
+}

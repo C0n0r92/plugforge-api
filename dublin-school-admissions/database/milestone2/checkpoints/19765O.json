@@ -1,0 +1,394 @@
+{
+  "roll": "19765O",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.stthomas.ie/2020/annual-admissions-notice-2021-22/",
+      "final_url": "https://www.stthomas.ie/2020/annual-admissions-notice-2021-22/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "https://www.stthomas.ie/2021/admission-notice/",
+      "final_url": "https://www.stthomas.ie/2021/admission-notice/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "https://www.stthomas.ie/wp-content/uploads/2020/12/schools_admissions.jpg",
+      "final_url": "https://www.stthomas.ie/wp-content/uploads/2020/12/schools_admissions.jpg",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "schools_admissions"
+    },
+    {
+      "url": "https://www.stthomas.ie/wp-content/uploads/2022/12/school-admissions.png",
+      "final_url": "https://www.stthomas.ie/wp-content/uploads/2022/12/school-admissions.png",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "school-admissions"
+    },
+    {
+      "url": "https://www.stthomas.ie/2022/admissions-2023-24/",
+      "final_url": "https://www.stthomas.ie/2022/admissions-2023-24/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "https://www.stthomas.ie/2022/admission-application/",
+      "final_url": "https://www.stthomas.ie/2022/admission-application/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "https://www.stthomas.ie/2024/admissions-2024-25/",
+      "final_url": "https://www.stthomas.ie/2024/admissions-2024-25/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "https://www.stthomas.ie/2025/admissions-2025-26/",
+      "final_url": "https://www.stthomas.ie/2025/admissions-2025-26/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "https://www.stthomas.ie/wp-content/uploads/2026/09/Admissions.png",
+      "final_url": "https://www.stthomas.ie/wp-content/uploads/2026/09/Admissions.png",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://www.stthomas.ie/2026/admissions-2026-27/",
+      "final_url": "https://www.stthomas.ie/2026/admissions-2026-27/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "http://www.stthomas.ie/wp-content/uploads/2016/04/Active-School-Certificate.pdf",
+      "final_url": "http://www.stthomas.ie/wp-content/uploads/2016/04/Active-School-Certificate.pdf",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "ASF Award"
+    },
+    {
+      "url": "https://www.stthomas.ie/wp-content/uploads/2018/06/DSoD-Evaluation-Report.pdf",
+      "final_url": "https://www.stthomas.ie/wp-content/uploads/2018/06/DSoD-Evaluation-Report.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "DSoD Evaluation"
+    },
+    {
+      "url": "http://www.stthomas.ie/wp-content/uploads/2018/02/Oral-Language-Tips-for-Parents-Guardians.pdf",
+      "final_url": "http://www.stthomas.ie/wp-content/uploads/2018/02/Oral-Language-Tips-for-Parents-Guardians.pdf",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "Oral Language"
+    },
+    {
+      "url": "https://www.stthomas.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://www.stthomas.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://www.stthomas.ie/wp-content/uploads/2021/01/Application-for-Admission-2021-2022.pdf",
+      "final_url": "https://www.stthomas.ie/wp-content/uploads/2021/01/Application-for-Admission-2021-2022.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Application for Admission 2021 2022"
+    },
+    {
+      "url": "https://www.stthomas.ie/wp-content/uploads/2026/09/Admissions-Open-Day.pdf",
+      "final_url": "https://www.stthomas.ie/wp-content/uploads/2026/09/Admissions-Open-Day.pdf",
+      "status": "public_document_size_bound",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Open Day"
+    },
+    {
+      "url": "https://www.stthomas.ie/wp-content/uploads/2017/05/Enrolment-and-Admissions-Policy-compressed.pdf",
+      "final_url": "https://www.stthomas.ie/wp-content/uploads/2017/05/Enrolment-and-Admissions-Policy-compressed.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Enrolment and Admissions Policy (compressed)"
+    },
+    {
+      "url": "https://www.stthomas.ie/wp-content/uploads/2021/11/Admission-Policy-21-July-2020.pdf",
+      "final_url": "https://www.stthomas.ie/wp-content/uploads/2021/11/Admission-Policy-21-July-2020.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admission Policy (21 July 2020)"
+    },
+    {
+      "url": "https://www.stthomas.ie/wp-content/uploads/2020/04/Tips_for_families_COVID19.pdf",
+      "final_url": "https://www.stthomas.ie/wp-content/uploads/2020/04/Tips_for_families_COVID19.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "ASD Tips for Families"
+    },
+    {
+      "url": "https://www.stthomas.ie/wp-content/uploads/2020/04/Supporting-students-with-Autism.pdf",
+      "final_url": "https://www.stthomas.ie/wp-content/uploads/2020/04/Supporting-students-with-Autism.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Supporting Children with ASD"
+    },
+    {
+      "url": "https://www.stthomas.ie/wp-content/uploads/2020/04/Draft-Admissions-Policy-April-2020.pdf",
+      "final_url": "https://www.stthomas.ie/wp-content/uploads/2020/04/Draft-Admissions-Policy-April-2020.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Draft Admissions Policy April 2020"
+    },
+    {
+      "url": "https://www.stthomas.ie/wp-content/uploads/2020/04/Autism-Toolkit.pdf",
+      "final_url": "https://www.stthomas.ie/wp-content/uploads/2020/04/Autism-Toolkit.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "ASD Toolkit"
+    },
+    {
+      "url": "https://www.stthomas.ie/wp-content/uploads/2020/03/relaxation-techniques.pdf",
+      "final_url": "https://www.stthomas.ie/wp-content/uploads/2020/03/relaxation-techniques.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Relaxation Techniques"
+    },
+    {
+      "url": "https://www.stthomas.ie/wp-content/uploads/2020/03/plan-your-day.pdf",
+      "final_url": "https://www.stthomas.ie/wp-content/uploads/2020/03/plan-your-day.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Plan Your Day"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19765O",
+      "url": "https://www.stthomas.ie/wp-content/uploads/2021/01/Application-for-Admission-2021-2022.pdf",
+      "label": "Application for Admission 2021 2022",
+      "sha256": "f2270e921090356f93a89574ed188aaaf761b8b70b48c050fb9473f5c4235641",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19765O_f2270e921090356f93a8.txt",
+      "source_file": "database/milestone2/cache/f2270e921090356f93a89574ed188aaaf761b8b70b48c050fb9473f5c4235641.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 4210
+    },
+    {
+      "roll": "19765O",
+      "url": "https://www.stthomas.ie/wp-content/uploads/2021/11/Admission-Policy-21-July-2020.pdf",
+      "label": "Admission Policy (21 July 2020)",
+      "sha256": "2b1f083ed6a0699eb91472a7dd561ec1f461fe08953b84e8ac6e46c1dc6bff5a",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19765O_2b1f083ed6a0699eb914.txt",
+      "source_file": "database/milestone2/cache/2b1f083ed6a0699eb91472a7dd561ec1f461fe08953b84e8ac6e46c1dc6bff5a.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 24981
+    },
+    {
+      "roll": "19765O",
+      "url": "https://www.stthomas.ie/wp-content/uploads/2020/04/Draft-Admissions-Policy-April-2020.pdf",
+      "label": "Draft Admissions Policy April 2020",
+      "sha256": "1d4b5b484d792c9e4d7c95437aea28b4f48a00e12b178b25b78c12c9e3644156",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19765O_1d4b5b484d792c9e4d7c.txt",
+      "source_file": "database/milestone2/cache/1d4b5b484d792c9e4d7c95437aea28b4f48a00e12b178b25b78c12c9e3644156.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 30979
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.stthomas.ie/wp-content/uploads/2020/03/Supporting-children-and-young-people-with-ASD-during-the-Covid-19-pandemic-Visuals-to-support-understanding.pdf",
+      "label": "Visuals for Children with ASD",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stthomas.ie/wp-content/uploads/2020/03/Supporting-children-and-young-people-with-ASD-during-the-Covid-19-pandemic-Social-Stories-1.pdf",
+      "label": "Social Stories for Children with ASD",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stthomas.ie/wp-content/uploads/2020/03/Supporting-Students-Wellbeing-for-Primary-School-Teachers.pdf",
+      "label": "Supporting Your Child's Wellbeing",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stthomas.ie/wp-content/uploads/2020/03/Lets-Get-Regulated-Information-for-Parents.pdf",
+      "label": "Let's Get Regulated",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stthomas.ie/wp-content/uploads/2020/03/Gross-Motor-Skills-Parent-Booklet-Primary.pdf",
+      "label": "Developing Gross Motor Skills",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stthomas.ie/wp-content/uploads/2020/03/DNC-SLT-Social-Story-Getting-ready-to-go-to-the-test-centre.pdf",
+      "label": "Coronavirus Social Story",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stthomas.ie/?s=admission",
+      "label": "Public site search form",
+      "via": "prior_public_admissions_landing"
+    },
+    {
+      "url": "https://databizsolutions.ie/AdmissionForm",
+      "label": "CLICK HERE",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stthomas.ie/wp-content/uploads/2022/12/Letter-to-parents-Admissions-Policy-2022_23-1.pdf",
+      "label": "Letter to parents Admissions Policy 2022_23 (1)",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://www.stthomas.ie/wp-content/uploads/2022/12/Admission-Policy-2022_23.docx.pdf",
+      "label": "Admission Policy 2022_23.docx",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://www.stthomas.ie/wp-content/uploads/2024/11/Admissions-Policy-2025-26.pdf",
+      "label": "Admissions Policy 2024 25",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://www.stthomas.ie/wp-content/uploads/2024/11/Admissions-Policy-2024-25.pdf",
+      "label": "Admissions Policy 2024 25",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://www.stthomas.ie/wp-content/uploads/2024/11/Admissions-Policy-2024-25-2.pdf",
+      "label": "Admissions Policy 2024 25",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://www.stthomas.ie/wp-content/uploads/2024/11/Admissions-Policy-2024-25-1.pdf",
+      "label": "Admissions Policy 2024 25",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://www.stthomas.ie/wp-content/uploads/2024/01/Admission-Policy-2024-25.pdf",
+      "label": "Admission Policy 2024-25",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://www.stthomas.ie/wp-content/uploads/2025/01/Admission-Policy-2025-26.pdf",
+      "label": "Admissions Policy 2025-26",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stthomas.ie/wp-content/uploads/2026/01/Admission-Policy-2026-27.pdf",
+      "label": "Admissions Policy 2026-27",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stthomas.ie/2021/new-parent-app/",
+      "label": "Parent App",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stthomas.ie/wp-sitemap.xml",
+      "label": "Public sitemap",
+      "via": "sitemap_root"
+    },
+    {
+      "url": "https://www.stthomas.ie/parents/speech-language-therapy/",
+      "label": "Speech & Language Therapy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stthomas.ie/parents/school-policies/",
+      "label": "School Policies",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stthomas.ie/parents/school-calendar/",
+      "label": "School Calendar",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stthomas.ie/parents/primary-curriculum/",
+      "label": "Primary School Curriculum",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stthomas.ie/parents/parent-eolas-app/",
+      "label": "Parent Eolas App",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stthomas.ie/parents/online-safety/",
+      "label": "Online Safety",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stthomas.ie/parents/occupational-therapy/",
+      "label": "Occupational Therapy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stthomas.ie/parents/mindfulness-wellbeing/",
+      "label": "Mindfulness & Wellbeing",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stthomas.ie/parents/learning/",
+      "label": "Helping Your Child Learn",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stthomas.ie/parents/homework/",
+      "label": "Homework",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stthomas.ie/parents/home-school-community-liaison/",
+      "label": "HSCL Overview",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stthomas.ie/parents/additional-educational-needs/",
+      "label": "Additional Educational Needs",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stthomas.ie/category/parents/newsletters/",
+      "label": "Newsletters",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stthomas.ie/category/parents/",
+      "label": "Parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stthomas.ie/active-school/information-for-parents/",
+      "label": "Information for Parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stthomas.ie",
+      "label": "School homepage",
+      "via": "home"
+    },
+    {
+      "url": "http://www.stthomas.ie/category/parents",
+      "label": "HSCL Blog",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 79.27,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:37:17+0000"
+}

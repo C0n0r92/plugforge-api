@@ -1,0 +1,107 @@
+{
+  "roll": "17977T",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.scoilaineraheny.ie/",
+      "final_url": "https://www.scoilaineraheny.ie/",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.scoilaineraheny.ie/sitemap.xml",
+      "final_url": "https://www.scoilaineraheny.ie/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.scoilaineraheny.ie/parents-association",
+      "final_url": "https://www.scoilaineraheny.ie/parents-association",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents Association"
+    },
+    {
+      "url": "https://www.scoilaineraheny.ie/new-dropdown",
+      "final_url": "https://www.scoilaineraheny.ie/parents-association",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Folder: Parents"
+    },
+    {
+      "url": "https://www.scoilaineraheny.ie/policy-downloads",
+      "final_url": "https://www.scoilaineraheny.ie/policy-downloads",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policy  Downloads"
+    },
+    {
+      "url": "https://www.scoilaineraheny.ie/s/Admission-Policy-including-special-class-OFFICIAL-2026-docx.pdf",
+      "final_url": "https://static1.squarespace.com/static/68b6e70a1983520e7a6cdc45/t/69b154d4df16e708d3fde8fd/1773229268278/Admission+Policy+including+special+class+OFFICIAL+2026+.docx.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions Policy"
+    },
+    {
+      "url": "https://www.scoilaineraheny.ie/s/Whistleblowing.pdf",
+      "final_url": "https://static1.squarespace.com/static/68b6e70a1983520e7a6cdc45/t/691f4edda4b62d1951de5415/1763659485653/Whistleblowing.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Whitleblowing Policy"
+    },
+    {
+      "url": "https://www.scoilaineraheny.ie/s/Substance-abuse.pdf",
+      "final_url": "https://static1.squarespace.com/static/68b6e70a1983520e7a6cdc45/t/691f4ec9e4535040c60488bd/1763659465446/Substance+abuse.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Substance Abuse Policy"
+    },
+    {
+      "url": "https://www.scoilaineraheny.ie/s/Critical-Incident-Policy.pdf",
+      "final_url": "https://static1.squarespace.com/static/68b6e70a1983520e7a6cdc45/t/691f4e77ca31e62ce915e16e/1763659383988/Critical+Incident+Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Critical Incidents Policy"
+    },
+    {
+      "url": "https://www.scoilaineraheny.ie/s/Bi-Cinealta-Policy-to-Prevent-and-Address-Bullying-Behaviour.pdf",
+      "final_url": "https://static1.squarespace.com/static/68b6e70a1983520e7a6cdc45/t/691f4e1bcfd3413d46e6d686/1763659291198/B%C3%AD+Cine%C3%A1lta+Policy+to+Prevent+and+Address+Bullying+Behaviour.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Bí Cineálta Policy"
+    },
+    {
+      "url": "https://www.scoilaineraheny.ie/s/Appendix-B-1.png",
+      "final_url": "https://static1.squarespace.com/static/68b6e70a1983520e7a6cdc45/t/6a047b53ce807332558e9008/1778678611373/Appendix+B-1.png",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Bí Cineálta Child Friendly Policy"
+    },
+    {
+      "url": "https://static1.squarespace.com/sitemap.xml",
+      "final_url": "https://static1.squarespace.com/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "17977T",
+      "url": "https://static1.squarespace.com/static/68b6e70a1983520e7a6cdc45/t/69b154d4df16e708d3fde8fd/1773229268278/Admission+Policy+including+special+class+OFFICIAL+2026+.docx.pdf",
+      "label": "Admissions Policy",
+      "sha256": "b1c7d97947dc53cdad6386e4584688d0ccc6a8358a473cb5a26647f5d4ba3f79",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/17977T_b1c7d97947dc53cdad63.txt",
+      "source_file": "database/milestone2/cache/b1c7d97947dc53cdad6386e4584688d0ccc6a8358a473cb5a26647f5d4ba3f79.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 28204
+    }
+  ],
+  "pending_links": [],
+  "elapsed_seconds": 38.46,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:03:49+0000"
+}

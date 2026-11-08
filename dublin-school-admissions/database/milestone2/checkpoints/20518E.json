@@ -1,0 +1,142 @@
+{
+  "roll": "20518E",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.gaelscoillaighean.com/claru-/-enrolment",
+      "final_url": "https://www.gaelscoillaighean.com/claru-/-enrolment",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "https://www.gaelscoillaighean.com/s/Fogra-maidir-le-ligean-isteach-2027-28.pdf",
+      "final_url": "https://static1.squarespace.com/static/5fa4234df24aa45e96a32815/t/6ad8971ccd12bb6b0e47c223/1792579356913/F%C3%B3gra+maidir+le+ligean+isteach+2027-28.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Fógra Maidr le Ligean Isteach - Notice for Admissions"
+    },
+    {
+      "url": "https://www.gaelscoillaighean.com/s/Polasai-Iontrala-2027.pdf",
+      "final_url": "https://static1.squarespace.com/static/5fa4234df24aa45e96a32815/t/6ad899652676c9411a319e0e/1792579941696/Polasa%C3%AD+Iontr%C3%A1la+2027.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Polasaí Iontrála"
+    },
+    {
+      "url": "https://www.gaelscoillaighean.com/s/Admissions-Policy-2026-English-version-pd.pdf",
+      "final_url": "https://static1.squarespace.com/static/5fa4234df24aa45e96a32815/t/693fe45c417cd84f619e8be0/1765794908515/Admissions+Policy+2026+English+version+pd.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Enrolment Policy"
+    },
+    {
+      "url": "https://www.gaelscoillaighean.com/tuistmitheoiri",
+      "final_url": "https://www.gaelscoillaighean.com/feilire-/-calendar",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Folder: Tuismitheoirí Parents"
+    },
+    {
+      "url": "https://www.gaelscoillaighean.com/sitemap.xml",
+      "final_url": "https://www.gaelscoillaighean.com/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.gaelscoillaighean.com/polasaithe-/-policies",
+      "final_url": "https://www.gaelscoillaighean.com/polasaithe-/-policies",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Polasaithe / Policies"
+    },
+    {
+      "url": "https://www.gaelscoillaighean.com/coiste-na-dtuismitheoir-/-parents-committee",
+      "final_url": "https://www.gaelscoillaighean.com/coiste-na-dtuismitheoir-/-parents-committee",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Coiste na dTuismitheoirí / Parents' Committee"
+    },
+    {
+      "url": "https://www.gaelscoillaighean.com",
+      "final_url": "https://www.gaelscoillaighean.com",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.gaelscoillaighean.com/gaeilge-do-thuismitheoir-/-irish-for-parents",
+      "final_url": "https://www.gaelscoillaighean.com/gaeilge-do-thuismitheoir-/-irish-for-parents",
+      "status": "http_404",
+      "via": "school_public_link",
+      "label": "Gaeilge do Thuismitheoirí/Parents"
+    },
+    {
+      "url": "https://www.gaelscoillaighean.com/s/Polasai-Frithbhulaiochta-2022-Anti-Bullying-Policy.pdf",
+      "final_url": "https://static1.squarespace.com/static/5fa4234df24aa45e96a32815/t/6362e31fdb31f1283cb497fb/1667425056241/Polasa%C3%AD+Frithbhula%C3%ADochta++2022+Anti-Bullying+Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Polasaí Frithbhulaíochta"
+    },
+    {
+      "url": "https://www.gaelscoillaighean.com/s/Polasai-Obair-Bhaile-2025-PDF.pdf",
+      "final_url": "https://static1.squarespace.com/static/5fa4234df24aa45e96a32815/t/692457b1bbec4a1ee0be2a29/1763989425238/Polasa%C3%AD+Obair+Bhaile+2025+PDF.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Homework Policy"
+    },
+    {
+      "url": "https://www.gaelscoillaighean.com/s/Bi-Cinealta-2025.pdf",
+      "final_url": "https://static1.squarespace.com/static/5fa4234df24aa45e96a32815/t/6928a6b28c95461152f1db58/1764271794760/B%C3%AD+Cinealta+2025.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Bí Cineálta Policy for Preventing and Addressing Bullying Behaviour"
+    },
+    {
+      "url": "https://www.gaelscoillaighean.com/s/BEARTAS-SCOILE-MAIDIR-LE-FOIN-PHOCA-GLEASANNA-LEICTREONACHA-PEARSANTA-2025.pdf",
+      "final_url": "https://static1.squarespace.com/static/5fa4234df24aa45e96a32815/t/692456fee036a23782457474/1763989246898/BEARTAS+SCOILE+MAIDIR+LE+F%C3%93IN+PH%C3%93CA+%26+GL%C3%89ASANNA+LEICTREONACHA+PEARSANTA+2025.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Policy on Mobile Phones & Personal Electronic Devices"
+    },
+    {
+      "url": "https://www.gaelscoillaighean.com/s/Polasai-Loin-Shlaintiuil-24-25.pdf",
+      "final_url": "https://static1.squarespace.com/static/5fa4234df24aa45e96a32815/t/675979e70a8bf547f5a2e5fe/1733917160211/Polasa%C3%AD+L%C3%B3in+Shl%C3%A1inti%C3%BAil+24-25.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Healthy Lunch Policy"
+    },
+    {
+      "url": "https://www.gaelscoillaighean.com/s/Polasai-Cumarsaide.pdf",
+      "final_url": "https://static1.squarespace.com/static/5fa4234df24aa45e96a32815/t/637f3a497e103318bfe2ae2d/1669282378601/Polasai%CC%81+Cumarsa%CC%81ide.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Communication Policy"
+    },
+    {
+      "url": "https://www.gaelscoillaighean.com/s/Polasai-Cosaint-Sonrai-faobhaithe.pdf",
+      "final_url": "https://static1.squarespace.com/static/5fa4234df24aa45e96a32815/t/60872f0b18b9cf189b091e6b/1619472139829/Polasai%CC%81+Cosaint+Sonrai%CC%81+faobhaithe.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Data Protection Policy"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "20518E",
+      "url": "https://static1.squarespace.com/static/5fa4234df24aa45e96a32815/t/693fe45c417cd84f619e8be0/1765794908515/Admissions+Policy+2026+English+version+pd.pdf",
+      "label": "Enrolment Policy",
+      "sha256": "106dfc975fc6553c53e0190410d3f9dbbab677b15d7fbdfcb55c42aeb6566457",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20518E_106dfc975fc6553c53e0.txt",
+      "source_file": "database/milestone2/cache/106dfc975fc6553c53e0190410d3f9dbbab677b15d7fbdfcb55c42aeb6566457.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 21887
+    }
+  ],
+  "pending_links": [],
+  "elapsed_seconds": 66.99,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:00:04+0000"
+}

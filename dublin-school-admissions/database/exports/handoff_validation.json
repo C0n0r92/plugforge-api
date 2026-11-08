@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "validated_at": "2026-11-08T13:46:40.997731+00:00",
+  "timezone": "Europe/Dublin",
+  "integrity_check": "ok",
+  "foreign_key_violations": 0,
+  "duplicate_school_payloads": 0,
+  "raw_conservation": "passed",
+  "core_fixtures": "Dominican,GSer,Stewarts passed",
+  "evidence_text_files_missing": 0,
+  "evidence_text_hash_mismatches": 0,
+  "optional_original_payloads": "Install optional evidence archives to resolve original payload paths; archiveHTML not universally retained."
+}

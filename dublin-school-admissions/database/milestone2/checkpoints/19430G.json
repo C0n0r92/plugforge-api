@@ -1,0 +1,217 @@
+{
+  "roll": "19430G",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://scoilantseachtarlaoch.ie/search/admission/",
+      "final_url": "https://scoilantseachtarlaoch.ie/search/admission/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "admission"
+    },
+    {
+      "url": "https://scoilantseachtarlaoch.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://scoilantseachtarlaoch.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://scoilantseachtarlaoch.ie/polasai-iontrala-2/raiteas-um-chumhdach-leanai-agus-measunu-riosca-pdf/",
+      "final_url": "https://scoilantseachtarlaoch.ie/polasai-iontrala-2/raiteas-um-chumhdach-leanai-agus-measunu-riosca-pdf/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Polasaí Cosaint Leanaí"
+    },
+    {
+      "url": "https://scoilantseachtarlaoch.ie/polasai-iontrala-2/polasai-slainte-agus-sabhailteacht/",
+      "final_url": "https://scoilantseachtarlaoch.ie/polasai-iontrala-2/polasai-slainte-agus-sabhailteacht/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Polasaí Sláinte agus Sábháilteacht"
+    },
+    {
+      "url": "https://scoilantseachtarlaoch.ie/polasai-iontrala-2/polasai-lon-follain/",
+      "final_url": "https://scoilantseachtarlaoch.ie/polasai-iontrala-2/polasai-lon-follain/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Polasaí Lón Folláin"
+    },
+    {
+      "url": "https://scoilantseachtarlaoch.ie/polasai-iontrala-2/polasai-iontrala/",
+      "final_url": "https://scoilantseachtarlaoch.ie/polasai-iontrala-2/polasai-iontrala/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Polasaí Fon Póca"
+    },
+    {
+      "url": "https://scoilantseachtarlaoch.ie/polasai-iontrala-2/polasai-iontrala-2/",
+      "final_url": "https://scoilantseachtarlaoch.ie/polasai-iontrala-2/polasai-iontrala-2/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Polasaí Iontrála"
+    },
+    {
+      "url": "https://scoilantseachtarlaoch.ie/polasai-iontrala-2/polasai-iompair-agus-smachta/",
+      "final_url": "https://scoilantseachtarlaoch.ie/polasai-iontrala-2/polasai-iompair-agus-smachta/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Polasaí Iompair agus Smachta"
+    },
+    {
+      "url": "https://scoilantseachtarlaoch.ie/polasai-iontrala-2/polasai-frithbhulaiochta/",
+      "final_url": "https://scoilantseachtarlaoch.ie/polasai-iontrala-2/polasai-frithbhulaiochta/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Polasaí Bí Cineálta"
+    },
+    {
+      "url": "https://scoilantseachtarlaoch.ie/polasai-iontrala-2/polasai-faoi-gearain/",
+      "final_url": "https://scoilantseachtarlaoch.ie/polasai-iontrala-2/polasai-faoi-gearain/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Polasaí faoi Gearáin"
+    },
+    {
+      "url": "https://www.into.ie/app/uploads/2019/07/An-Nos-Imeachta-Athbhreithnithe-maidir-le-Gearain-o-Thuismitheoiri.pdf",
+      "final_url": "https://www.into.ie/app/uploads/2019/07/An-Nos-Imeachta-Athbhreithnithe-maidir-le-Gearain-o-Thuismitheoiri.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "An Nos Imeachta Athbhreithnithe maidir le Gearain Ó Thuismitheoirí"
+    },
+    {
+      "url": "https://scoilantseachtarlaoch.ie/polasai-iontrala-2/foirm-iarratais-iontrala/",
+      "final_url": "https://scoilantseachtarlaoch.ie/polasai-iontrala-2/foirm-iarratais-iontrala/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Foirm Iarratais Iontrála"
+    },
+    {
+      "url": "https://scoilantseachtarlaoch.ie/wp-content/uploads/2020/09/Foirm-Iarraitis.pdf",
+      "final_url": "https://scoilantseachtarlaoch.ie/wp-content/uploads/2020/09/Foirm-Iarraitis.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Ioslódáil Anseo"
+    },
+    {
+      "url": "https://scoilantseachtarlaoch.ie/polasai-iontrala-2/",
+      "final_url": "https://scoilantseachtarlaoch.ie/polasai-iontrala-2/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "POLASAITHE"
+    },
+    {
+      "url": "https://scoilantseachtarlaoch.ie/?s=admission",
+      "final_url": "https://scoilantseachtarlaoch.ie/?s=admission",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Public site search form"
+    },
+    {
+      "url": "https://www.cpsma.ie/wp-content/uploads/2021/05/Parental-Complaints-Procedure-Updated-Dec-2023.pdf",
+      "final_url": "https://www.cpsma.ie/wp-content/uploads/2021/05/Parental-Complaints-Procedure-Updated-Dec-2023.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parental Complaints Procedure"
+    },
+    {
+      "url": "https://scoilantseachtarlaoch.ie/wp-content/uploads/2021/10/Enrolement-Policy-2021-2022.pdf",
+      "final_url": "https://scoilantseachtarlaoch.ie/wp-content/uploads/2021/10/Enrolement-Policy-2021-2022.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Ioslódáil Anseo"
+    },
+    {
+      "url": "https://scoilantseachtarlaoch.ie/wp-content/uploads/2026/01/Raiteas-um-Chumhadach-Leanai-2023-1.pdf",
+      "final_url": "https://scoilantseachtarlaoch.ie/wp-content/uploads/2026/01/Raiteas-um-Chumhadach-Leanai-2023-1.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Raiteas um Chumhdach Leanai agus Measunu Riosca"
+    },
+    {
+      "url": "https://scoilantseachtarlaoch.ie/wp-content/uploads/2024/09/Polasai-Slainte-agsu-Sabhailteachta-2024-Gaeilge.pdf",
+      "final_url": "https://scoilantseachtarlaoch.ie/wp-content/uploads/2024/09/Polasai-Slainte-agsu-Sabhailteachta-2024-Gaeilge.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Ioslódáil Anseo"
+    },
+    {
+      "url": "https://scoilantseachtarlaoch.ie/wp-content/uploads/2024/09/Code-of-Conduct-2024-1.pdf",
+      "final_url": "https://scoilantseachtarlaoch.ie/wp-content/uploads/2024/09/Code-of-Conduct-2024-1.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Ioslódáil Anseo"
+    },
+    {
+      "url": "https://scoilantseachtarlaoch.ie/wp-content/uploads/2024/09/Cod-Iompair-agus-Smachta-2024-1.pdf",
+      "final_url": "https://scoilantseachtarlaoch.ie/wp-content/uploads/2024/09/Cod-Iompair-agus-Smachta-2024-1.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Ioslódáil Anseo"
+    },
+    {
+      "url": "https://scoilantseachtarlaoch.ie/wp-content/uploads/2026/01/Polasai-Bi-Cinealta-Gaeilge-2025-1.pdf",
+      "final_url": "https://scoilantseachtarlaoch.ie/wp-content/uploads/2026/01/Polasai-Bi-Cinealta-Gaeilge-2025-1.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "https://scoilantseachtarlaoch.ie/wp-content/uploads/2026/01/Polasai-Bi-Cinealta-Gaeilge-2025-1.pdf"
+    },
+    {
+      "url": "https://scoilantseachtarlaoch.ie/wp-content/uploads/2026/01/Child-safeguarding-mandatory-2025.pdf",
+      "final_url": "https://scoilantseachtarlaoch.ie/wp-content/uploads/2026/01/Child-safeguarding-mandatory-2025.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Child Safe Guarding Statement and Risk Assesment"
+    },
+    {
+      "url": "https://scoilantseachtarlaoch.ie/wp-content/uploads/2026/01/Bi-Cinealta-bearla-2025-1.pdf",
+      "final_url": "https://scoilantseachtarlaoch.ie/wp-content/uploads/2026/01/Bi-Cinealta-bearla-2025-1.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "https://scoilantseachtarlaoch.ie/wp-content/uploads/2026/01/Bi-Cinealta-bearla-2025-1.pdf"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19430G",
+      "url": "https://scoilantseachtarlaoch.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "label": "Oldest public admission media (all dates)",
+      "sha256": "4c35af4a1d43bd93cafdda6f342ca3620a345f0aa59a7bb4f96c86f9f1611511",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19430G_4c35af4a1d43bd93cafd.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 2108
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://scoilantseachtarlaoch.ie/wp-sitemap.xml",
+      "label": "Public sitemap",
+      "via": "sitemap_root"
+    },
+    {
+      "url": "https://scoilantseachtarlaoch.ie/sitemap.xml",
+      "label": "Public sitemap",
+      "via": "sitemap_root"
+    },
+    {
+      "url": "https://scoilantseachtarlaoch.ie/sitemap.html",
+      "label": "Public sitemap",
+      "via": "sitemap_root"
+    },
+    {
+      "url": "https://scoilantseachtarlaoch.ie/",
+      "label": "School homepage",
+      "via": "home"
+    },
+    {
+      "url": "https://scoilantseachtarlaoch.ie/wp-content/uploads/2024/09/Health-and-Safety-Policy-2024-Bearla-1.pdf",
+      "label": "Ioslódáil Anseo",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 115.88,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:35:55+0000"
+}

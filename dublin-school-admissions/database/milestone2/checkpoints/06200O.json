@@ -1,0 +1,405 @@
+{
+  "roll": "06200O",
+  "status": "bounded_search_no_new_notice_found",
+  "attempts": [
+    {
+      "url": "https://stmarysbooterstown.ie/policies/admission-policies",
+      "final_url": "https://stmarysbooterstown.ie/policies/admission-policies",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admission Policies"
+    },
+    {
+      "url": "https://stmarysbooterstown.ie/component/edocman/330-department-of-education-letter-regarding-admissions-to-secondary/viewdocument/330?Itemid=",
+      "final_url": "https://stmarysbooterstown.ie/component/edocman/330-department-of-education-letter-regarding-admissions-to-secondary/viewdocument/330?Itemid=",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Department of Education Letter Regarding Admissions to Secondary."
+    },
+    {
+      "url": "https://stmarysbooterstown.ie/images/downloads/school-prospectus-2022.pdf",
+      "final_url": "https://stmarysbooterstown.ie/images/downloads/school-prospectus-2022.pdf",
+      "status": "public_document_size_bound",
+      "via": "school_public_link",
+      "label": "School Prospectus"
+    },
+    {
+      "url": "https://stmarysbooterstown.ie/images/downloads/AcademicCalendar_2026-2027.pdf",
+      "final_url": "https://stmarysbooterstown.ie/images/downloads/AcademicCalendar_2026-2027.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Academic Calendar"
+    },
+    {
+      "url": "https://stmarysbooterstown.ie/component/edocman/320-admissions-policy/viewdocument/320?Itemid=",
+      "final_url": "https://stmarysbooterstown.ie/component/edocman/320-admissions-policy/viewdocument/320?Itemid=",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions Policy 2027-2028"
+    },
+    {
+      "url": "https://www.stmarysbooterstown.ie",
+      "final_url": "https://stmarysbooterstown.ie/",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://stmarysbooterstown.ie/sitemap.xml",
+      "final_url": "https://stmarysbooterstown.ie/index.php?option=com_jmap&view=sitemap&format=xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://stmarysbooterstown.ie/school-application-form",
+      "final_url": "https://stmarysbooterstown.ie/school-application-form",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions/Application"
+    },
+    {
+      "url": "https://stmarysbooterstown.ie/images/downloads/School%20Brochure.pdf",
+      "final_url": "https://stmarysbooterstown.ie/images/downloads/School%20Brochure.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Brochure"
+    },
+    {
+      "url": "https://stmarysbooterstown.ie/policies/wellbeing-documents",
+      "final_url": "https://stmarysbooterstown.ie/policies/wellbeing-documents",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Wellbeing Documents"
+    },
+    {
+      "url": "https://stmarysbooterstown.ie/policies/school-policies",
+      "final_url": "https://stmarysbooterstown.ie/policies/school-policies",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Policies"
+    },
+    {
+      "url": "https://stmarysbooterstown.ie/component/edocman/274-parental-complaints-procedure-revised-2023/viewdocument/274?Itemid=",
+      "final_url": "https://stmarysbooterstown.ie/component/edocman/274-parental-complaints-procedure-revised-2023/viewdocument/274?Itemid=",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parental Complaints Procedure Revised 2023."
+    },
+    {
+      "url": "https://stmarysbooterstown.ie/policies/covid-19-policies",
+      "final_url": "https://stmarysbooterstown.ie/policies/covid-19-policies",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Covid-19 Policies"
+    },
+    {
+      "url": "https://stmarysbooterstown.ie/component/edocman/96-1-12-2021-chief-medical-officer-letter-to-parents/viewdocument/96?Itemid=",
+      "final_url": "https://stmarysbooterstown.ie/component/edocman/96-1-12-2021-chief-medical-officer-letter-to-parents/viewdocument/96?Itemid=",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "1-12-2021 Chief Medical Officer Letter to Parents"
+    },
+    {
+      "url": "https://stmarysbooterstown.ie/policies",
+      "final_url": "https://stmarysbooterstown.ie/policies",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://stmarysbooterstown.ie/parents/tips-for-parents",
+      "final_url": "https://stmarysbooterstown.ie/parents/tips-for-parents",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Tips for Parents"
+    },
+    {
+      "url": "https://stmarysbooterstown.ie/component/edocman/275-parental-complaints-procedure-updated-2023/viewdocument/275?Itemid=",
+      "final_url": "https://stmarysbooterstown.ie/component/edocman/275-parental-complaints-procedure-updated-2023/viewdocument/275?Itemid=",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parental Complaints Procedure Updated 2023"
+    },
+    {
+      "url": "https://stmarysbooterstown.ie/component/edocman/216-junior-infants-parents-welcome-presentation-2023/viewdocument/216?Itemid=",
+      "final_url": "https://stmarysbooterstown.ie/component/edocman/216-junior-infants-parents-welcome-presentation-2023/viewdocument/216?Itemid=",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Junior Infants Parents Welcome  Presentation 2023."
+    },
+    {
+      "url": "https://stmarysbooterstown.ie/component/edocman/386-junior-infants-information-morning-for-parents-guardians-2026-2027/viewdocument/386?Itemid=",
+      "final_url": "https://stmarysbooterstown.ie/component/edocman/386-junior-infants-information-morning-for-parents-guardians-2026-2027/viewdocument/386?Itemid=",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Junior Infants Information Morning for Parents-Guardians. 2026-2027."
+    },
+    {
+      "url": "https://stmarysbooterstown.ie/parents/school-uniform",
+      "final_url": "https://stmarysbooterstown.ie/parents/school-uniform",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Uniform"
+    },
+    {
+      "url": "https://stmarysbooterstown.ie/parents/parents-association",
+      "final_url": "https://stmarysbooterstown.ie/parents/parents-association",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents Association"
+    },
+    {
+      "url": "https://stmarysbooterstown.ie/parents/parental-involvement",
+      "final_url": "https://stmarysbooterstown.ie/parents/parental-involvement",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parental Involvement"
+    },
+    {
+      "url": "https://stmarysbooterstown.ie/parents/parent-teacher-meetings",
+      "final_url": "https://stmarysbooterstown.ie/parents/parent-teacher-meetings",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parent Teacher Meetings"
+    },
+    {
+      "url": "https://stmarysbooterstown.ie/parents/pa-news-and-updates",
+      "final_url": "https://stmarysbooterstown.ie/parents/pa-news-and-updates",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "PA News and Updates"
+    }
+  ],
+  "documents": [],
+  "pending_links": [
+    {
+      "url": "https://stmarysbooterstown.ie/parents/boredom-busters",
+      "label": "Boredom Busters",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stmarysbooterstown.ie/parents/book-lists",
+      "label": "Book Lists",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stmarysbooterstown.ie/parents/before-after-school-care-services",
+      "label": "Before & After School Care Services",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stmarysbooterstown.ie/parents/action-team-partnership",
+      "label": "Action Team Partnership",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stmarysbooterstown.ie/parents",
+      "label": "Parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stmarysbooterstown.ie/images/parents/uniform/tracksuit.jpg",
+      "label": "Tracksuit",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stmarysbooterstown.ie/images/parents/uniform/tracksuit-top.jpg",
+      "label": "Tracksuit Top",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stmarysbooterstown.ie/images/parents/uniform/polo-shirt.jpg",
+      "label": "Polo Shirt",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stmarysbooterstown.ie/component/edocman/82-tips-for-parents/viewdocument/82?Itemid=",
+      "label": "Tips for Parents of Children in Primary Schools",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stmarysbooterstown.ie/component/edocman/68-hse-a-parents-guide-to-close-contacts/viewdocument/68?Itemid=",
+      "label": "HSE A Parents Guide to Close Contacts",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stmarysbooterstown.ie/component/edocman/400-a-short-guide-for-parents-who-are-newly-arrived-in-ireland/viewdocument/400?Itemid=",
+      "label": "A Short Guide for Parents Who are Newly Arrived in Ireland.",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stmarysbooterstown.ie/component/edocman/399-tusla-a-short-guide-for-parents-who-are-newly-arrived-in-ireland/viewdocument/399?Itemid=",
+      "label": "TUSLA: A Short Guide For Parents who are Newly Arrived in Ireland.",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stmarysbooterstown.ie/component/edocman/380-parents-association-brochure/viewdocument/380?Itemid=",
+      "label": "Parents Association Brochure",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stmarysbooterstown.ie/component/edocman/365-undertsanding-standardised-tests-tips-and-supports-for-parents/viewdocument/365?Itemid=",
+      "label": "Undertsanding Standardised Tests Tips and Supports for Parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stmarysbooterstown.ie/component/edocman/363-revised-parents-complaints-procedure/viewdocument/363?Itemid=",
+      "label": "Revised Parents Complaints Procedure",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stmarysbooterstown.ie/component/edocman/328-ncca-resources-for-parents/viewdocument/328?Itemid=",
+      "label": "NCCA: Resources for Parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stmarysbooterstown.ie/component/edocman/320-admissions-policy/viewdocument/320?Itemid=0",
+      "label": "Admissions Policy",
+      "via": "prior_public_admissions_landing"
+    },
+    {
+      "url": "https://stmarysbooterstown.ie/component/edocman/287-webwise-support-and-tips-for-parents/viewdocument/287?Itemid=",
+      "label": "Webwise: Support  and Tips for Parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stmarysbooterstown.ie/component/edocman/284-information-note-for-parents-on-ecce/viewdocument/284?Itemid=",
+      "label": "Information Note  for Parents on ECCE",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stmarysbooterstown.ie/component/edocman/264-bom-explainer-for-parents-2/viewdocument/264?Itemid=",
+      "label": "BOM Explainer for Parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stmarysbooterstown.ie/component/edocman/263-bom-explainer-for-parents/viewdocument/263?Itemid=",
+      "label": "BOM Explainer for Parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stmarysbooterstown.ie/component/edocman/262-working-effectively-as-a-parents-association/viewdocument/262?Itemid=",
+      "label": "Working Effectively as A Parents' Association",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stmarysbooterstown.ie/component/edocman/192-national-parent-council-transition-from-primary-to-secondary/viewdocument/192?Itemid=",
+      "label": "National Parent Council: Transition from Primary to Secondary.",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stmarysbooterstown.ie/component/edocman/190-webwise-setting-parental-controls/viewdocument/190?Itemid=",
+      "label": "Webwise: Setting Parental Controls",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stmarysbooterstown.ie/component/edocman/186-online-safety-tips-for-parents/viewdocument/186?Itemid=",
+      "label": "Online Safety Tips for Parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stmarysbooterstown.ie/component/edocman/185-the-internet-a-parents-guide/viewdocument/185?Itemid=",
+      "label": "The Internet: A Parents Guide",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stmarysbooterstown.ie/component/edocman/182-webwise-parents-guide-to-a-better-internet-2/viewdocument/182?Itemid=",
+      "label": "Webwise: Parents Guide to a Better Internet",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stmarysbooterstown.ie/component/edocman/154-national-parents-council-transition-to-secondary-school/viewdocument/154?Itemid=",
+      "label": "National Parents Council: Transition to Secondary School",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stmarysbooterstown.ie/component/edocman/112-primary-language-curriculum-resources-for-parents/viewdocument/112?Itemid=",
+      "label": "Primary Language Curriculum Resources for Parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stmarysbooterstown.ie/cookie-policy",
+      "label": "Cookie Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stmarysbooterstown.ie/component/edocman/66-protected-disclosure-policy/viewdocument/66?Itemid=",
+      "label": "Protected Disclosure Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stmarysbooterstown.ie/component/edocman/64-work-placement-policy/viewdocument/64?Itemid=",
+      "label": "Work-Placement-Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stmarysbooterstown.ie/component/edocman/63-supervision-policy-docx/viewdocument/63?Itemid=",
+      "label": "Supervision-Policy.docx",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stmarysbooterstown.ie/component/edocman/62-class-allocation-policy/viewdocument/62?Itemid=",
+      "label": "Class Allocation Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stmarysbooterstown.ie/component/edocman/59-remote-learning-policy/viewdocument/59?Itemid=",
+      "label": "Remote Learning Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stmarysbooterstown.ie/component/edocman/58-acceptable-use-policy/viewdocument/58?Itemid=",
+      "label": "Acceptable Use Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stmarysbooterstown.ie/component/edocman/56-custody-access-separation-policy/viewdocument/56?Itemid=",
+      "label": "Custody, Access & Separation Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stmarysbooterstown.ie/component/edocman/55-dignity-at-work-equality-and-anti-harassment-policy/viewdocument/55?Itemid=",
+      "label": "Dignity At Work ,Equality and Anti-Harassment  Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stmarysbooterstown.ie/component/edocman/49-gdpr-data-protection-policy/viewdocument/49?Itemid=",
+      "label": "GDPR Data Protection Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stmarysbooterstown.ie/component/edocman/47-disciplinary-grievance-policy/viewdocument/47?Itemid=",
+      "label": "Disciplinary & Grievance Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stmarysbooterstown.ie/component/edocman/376-bi-cinealta-anti-bullying-policy-procedures/viewdocument/376?Itemid=",
+      "label": "Bí Cineálta Anti-Bullying Policy & Procedures",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stmarysbooterstown.ie/component/edocman/310-mobile-phone-policy/viewdocument/310?Itemid=",
+      "label": "Mobile Phone Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stmarysbooterstown.ie/component/edocman/14-covid-19-policy-statement/viewdocument/14?Itemid=",
+      "label": "COVID-19 Policy Statement",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stmarysbooterstown.ie/component/edocman/139-intercultural-education-policy/viewdocument/139?Itemid=",
+      "label": "Intercultural Education Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stmarysbooterstown.ie/component/edocman/118-covid-19-policy-statementt/viewdocument/118?Itemid=",
+      "label": "COVID-19 Policy Statementt",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 94.36,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:49:36+0000"
+}

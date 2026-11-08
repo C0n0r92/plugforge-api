@@ -1,0 +1,143 @@
+{
+  "roll": "19502F",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.scoilaonghusajnr.com/enrolment-admissions-for-sept-2027.html",
+      "final_url": "https://www.scoilaonghusajnr.com/enrolment-admissions-for-sept-2027.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Enrolment (admissions) for Sept 2027"
+    },
+    {
+      "url": "https://www.scoilaonghusajnr.com/uploads/1/2/2/1/122129509/saj_admission_policy.docx",
+      "final_url": "https://www.scoilaonghusajnr.com/uploads/1/2/2/1/122129509/saj_admission_policy.docx",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://www.scoilaonghusajnr.com/sitemap.xml",
+      "final_url": "https://www.scoilaonghusajnr.com/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.scoilaonghusajnr.com/parents-association.html",
+      "final_url": "https://www.scoilaonghusajnr.com/parents-association.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents association"
+    },
+    {
+      "url": "https://www.scoilaonghusajnr.com/parental-complaintsgrievance-procedures.html",
+      "final_url": "https://www.scoilaonghusajnr.com/parental-complaintsgrievance-procedures.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parental Complaints/Grievance Procedures"
+    },
+    {
+      "url": "https://www.scoilaonghusajnr.com/admission-enrolment-policy.html",
+      "final_url": "https://www.scoilaonghusajnr.com/admission-enrolment-policy.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admission (Enrolment) Policy"
+    },
+    {
+      "url": "https://www.scoilaonghusajnr.com/",
+      "final_url": "https://www.scoilaonghusajnr.com/",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.scoilaonghusajnr.com/special-additional-educational-needs-policy.html",
+      "final_url": "https://www.scoilaonghusajnr.com/special-additional-educational-needs-policy.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Special (Additional) Educational Needs Policy"
+    },
+    {
+      "url": "https://www.scoilaonghusajnr.com/homework-policy.html",
+      "final_url": "https://www.scoilaonghusajnr.com/homework-policy.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Homework Policy"
+    },
+    {
+      "url": "https://www.scoilaonghusajnr.com/data-protection-policy.html",
+      "final_url": "https://www.scoilaonghusajnr.com/data-protection-policy.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Data Protection Policy"
+    },
+    {
+      "url": "https://www.scoilaonghusajnr.com/critical-incident-management-policy.html",
+      "final_url": "https://www.scoilaonghusajnr.com/critical-incident-management-policy.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Critical Incident Management Policy"
+    },
+    {
+      "url": "https://www.scoilaonghusajnr.com/child-protection-safeguarding-policy.html",
+      "final_url": "https://www.scoilaonghusajnr.com/child-protection-safeguarding-policy.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Child Protection Safeguarding Policy"
+    },
+    {
+      "url": "https://www.scoilaonghusajnr.com/biacute-cineaacutelta-anti-bullying-policy.html",
+      "final_url": "https://www.scoilaonghusajnr.com/biacute-cineaacutelta-anti-bullying-policy.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Bí Cineálta Anti-Bullying Policy"
+    },
+    {
+      "url": "https://www.scoilaonghusajnr.com/acceptable-usage-internet-policy.html",
+      "final_url": "https://www.scoilaonghusajnr.com/acceptable-usage-internet-policy.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Acceptable Usage (Internet) Policy"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19502F",
+      "url": "https://www.scoilaonghusajnr.com/enrolment-admissions-for-sept-2027.html",
+      "label": "Enrolment (admissions) for Sept 2027",
+      "sha256": "a9493717ff0fa69c9eb434bbff9af1e059765d74e7b796c8683e6460f7c33f89",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19502F_a9493717ff0fa69c9eb4.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1944
+    },
+    {
+      "roll": "19502F",
+      "url": "https://www.scoilaonghusajnr.com/uploads/1/2/2/1/122129509/saj_admission_policy.docx",
+      "label": "Prior school admissions section",
+      "sha256": "a0145d46bf85d32d84bcf9899ca8af5c099707d7181745bc6dde4b82d867a14a",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/19502F_a0145d46bf85d32d84bc.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 22660
+    },
+    {
+      "roll": "19502F",
+      "url": "https://www.scoilaonghusajnr.com/",
+      "label": "School homepage",
+      "sha256": "97ccc404ce88cdbcbfcc77000925d4b5fe7a8b6da3acb2bd7a84c8578a4fbd6c",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19502F_97ccc404ce88cdbcbfcc.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1947
+    }
+  ],
+  "pending_links": [],
+  "elapsed_seconds": 39.31,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:55:42+0000"
+}

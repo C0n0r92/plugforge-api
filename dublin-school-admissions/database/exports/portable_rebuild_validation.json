@@ -1,0 +1,137 @@
+{
+  "passed": true,
+  "at": "2026-11-08T13:46:40.665388+00:00",
+  "timezone": "Europe/Dublin",
+  "all_table_counts_equal": {
+    "cohort": {
+      "snapshot": 707,
+      "portable_rebuild": 707
+    },
+    "collection_attempt": {
+      "snapshot": 20115,
+      "portable_rebuild": 20115
+    },
+    "coverage": {
+      "snapshot": 520,
+      "portable_rebuild": 520
+    },
+    "dataset_release": {
+      "snapshot": 16,
+      "portable_rebuild": 16
+    },
+    "development_inspection": {
+      "snapshot": 0,
+      "portable_rebuild": 0
+    },
+    "document": {
+      "snapshot": 1076,
+      "portable_rebuild": 1076
+    },
+    "document_source": {
+      "snapshot": 1169,
+      "portable_rebuild": 1169
+    },
+    "evidence": {
+      "snapshot": 6244,
+      "portable_rebuild": 6244
+    },
+    "external_dataset": {
+      "snapshot": 0,
+      "portable_rebuild": 0
+    },
+    "geographic_area": {
+      "snapshot": 0,
+      "portable_rebuild": 0
+    },
+    "geographic_time_observation": {
+      "snapshot": 0,
+      "portable_rebuild": 0
+    },
+    "group_lineage": {
+      "snapshot": 4323,
+      "portable_rebuild": 4323
+    },
+    "import_reconciliation": {
+      "snapshot": 26,
+      "portable_rebuild": 26
+    },
+    "metric_definition": {
+      "snapshot": 39,
+      "portable_rebuild": 39
+    },
+    "notice": {
+      "snapshot": 975,
+      "portable_rebuild": 975
+    },
+    "notice_publication_assertion": {
+      "snapshot": 20,
+      "portable_rebuild": 20
+    },
+    "notice_title_assertion": {
+      "snapshot": 2312,
+      "portable_rebuild": 2312
+    },
+    "observation": {
+      "snapshot": 5447,
+      "portable_rebuild": 5447
+    },
+    "observation_evidence": {
+      "snapshot": 5378,
+      "portable_rebuild": 5378
+    },
+    "observation_group": {
+      "snapshot": 2377,
+      "portable_rebuild": 2377
+    },
+    "observation_lineage": {
+      "snapshot": 11568,
+      "portable_rebuild": 11568
+    },
+    "raw_record": {
+      "snapshot": 4892,
+      "portable_rebuild": 4892
+    },
+    "retrieval": {
+      "snapshot": 1014,
+      "portable_rebuild": 1014
+    },
+    "schema_migration": {
+      "snapshot": 5,
+      "portable_rebuild": 5
+    },
+    "school": {
+      "snapshot": 520,
+      "portable_rebuild": 520
+    },
+    "school_identity": {
+      "snapshot": 1029,
+      "portable_rebuild": 1029
+    },
+    "school_location": {
+      "snapshot": 515,
+      "portable_rebuild": 515
+    },
+    "school_metadata": {
+      "snapshot": 3607,
+      "portable_rebuild": 3607
+    },
+    "school_period": {
+      "snapshot": 1532,
+      "portable_rebuild": 1532
+    },
+    "school_relation": {
+      "snapshot": 4,
+      "portable_rebuild": 4
+    },
+    "source": {
+      "snapshot": 14021,
+      "portable_rebuild": 14021
+    },
+    "work_queue": {
+      "snapshot": 1840,
+      "portable_rebuild": 1840
+    }
+  },
+  "all_source_group_numeric_funnels_exactly_equal": true,
+  "rebuild_used_only_core_files_no_optional_original_payloads": true
+}

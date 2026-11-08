@@ -1,0 +1,25 @@
+{
+  "roll": "19454U",
+  "capture": {
+    "timestamp": "20250426184526",
+    "original": "https://www.ourladyimmaculatejns.ie/page/Admissions/74731/Index.html",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "digest": "D3NU3QEKFRGRJDNPLUXJBUJDWRQMGK7W"
+  },
+  "original_url": "https://www.ourladyimmaculatejns.ie/page/Admissions/74731/Index.html",
+  "archived_url": "https://web.archive.org/web/20250426184526/https://www.ourladyimmaculatejns.ie/page/Admissions/74731/Index.html",
+  "attempted_at": "2026-11-08T12:52:40.866862+00:00",
+  "linked_from_capture": null,
+  "http_status": 200,
+  "headers": {
+    "Content-Type": "text/html; charset=utf-8",
+    "memento-datetime": "Sat, 26 Apr 2025 18:45:26 GMT"
+  },
+  "bytes": 57896,
+  "payload_sha256": "2fccba6c387ea8eb1e4d973725a18620ff370395029c7dd5dcbee9f3eea38bd1",
+  "format": "html",
+  "status": "archived_body_retrieved_requires_manual_evidence_review",
+  "text_file": "database/milestone2/evidence/exact_19454U_2fccba6c387ea8eb1e4d.txt",
+  "linked_document_candidates": []
+}

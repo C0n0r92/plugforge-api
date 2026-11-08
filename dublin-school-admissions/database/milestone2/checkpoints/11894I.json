@@ -1,0 +1,259 @@
+{
+  "roll": "11894I",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.scoilmhuiregns.ie/enrolment",
+      "final_url": "https://www.scoilmhuiregns.ie/enrolment",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://www.scoilmhuiregns.ie/@/file/KaSMkfKmFep5h2t1",
+      "final_url": "https://www.scoilmhuiregns.ie/media/pages/enrolment/5faf3d0c37-1760005376/sm-gns-annual-admission-notice-2026-27.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Annual Admission notice for 2026/27"
+    },
+    {
+      "url": "https://drive.google.com/file/d/1-xCWFHy7xwwUvBoCpn6H1YbmU_82I7Ct/view?usp=drive_link",
+      "final_url": "https://drive.google.com/file/d/1-xCWFHy7xwwUvBoCpn6H1YbmU_82I7Ct/view?usp=drive_link",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Annual Admission Notice for 2027/2028."
+    },
+    {
+      "url": "https://www.scoilmhuiregns.ie/media/pages/enrolment/5f9e128722-1790759495/admission-policy-sept-2026.pdf",
+      "final_url": "https://www.scoilmhuiregns.ie/media/pages/enrolment/5f9e128722-1790759495/admission-policy-sept-2026.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.scoilmhuiregns.ie/for-parents/school-materials",
+      "final_url": "https://www.scoilmhuiregns.ie/for-parents/school-materials",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Materials for 2026-27"
+    },
+    {
+      "url": "https://www.scoilmhuiregns.ie/media/pages/for-parents/school-materials/af73813899-1781189345/5th-class-2026-2027.docx.pdf",
+      "final_url": "https://www.scoilmhuiregns.ie/media/pages/for-parents/school-materials/af73813899-1781189345/5th-class-2026-2027.docx.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Fifth Class"
+    },
+    {
+      "url": "https://www.scoilmhuiregns.ie/media/pages/for-parents/school-materials/ab940dbdbe-1781189333/4th-class-2026-2027.docx.pdf",
+      "final_url": "https://www.scoilmhuiregns.ie/media/pages/for-parents/school-materials/ab940dbdbe-1781189333/4th-class-2026-2027.docx.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Fourth Class"
+    },
+    {
+      "url": "https://www.scoilmhuiregns.ie/media/pages/for-parents/school-materials/a1d620b553-1781189274/2nd-class-2026-2027.docx.pdf",
+      "final_url": "https://www.scoilmhuiregns.ie/media/pages/for-parents/school-materials/a1d620b553-1781189274/2nd-class-2026-2027.docx.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Second Class"
+    },
+    {
+      "url": "https://www.scoilmhuiregns.ie/media/pages/for-parents/school-materials/4a390d21e3-1781189235/junior-infants-2026_2027.docx.pdf",
+      "final_url": "https://www.scoilmhuiregns.ie/media/pages/for-parents/school-materials/4a390d21e3-1781189235/junior-infants-2026_2027.docx.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Junior Infants"
+    },
+    {
+      "url": "https://www.scoilmhuiregns.ie/media/pages/for-parents/school-materials/2e3ccedd97-1781189321/3rd-class-2026-2027.docx.pdf",
+      "final_url": "https://www.scoilmhuiregns.ie/media/pages/for-parents/school-materials/2e3ccedd97-1781189321/3rd-class-2026-2027.docx.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Third Class"
+    },
+    {
+      "url": "https://www.scoilmhuiregns.ie/media/pages/for-parents/school-materials/2a6d642a71-1781189249/senior-infants-2026-2027.docx.pdf",
+      "final_url": "https://www.scoilmhuiregns.ie/media/pages/for-parents/school-materials/2a6d642a71-1781189249/senior-infants-2026-2027.docx.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Senior Infants"
+    },
+    {
+      "url": "https://www.scoilmhuiregns.ie/media/pages/for-parents/school-materials/1e9a6a6dfc-1781189262/1st-class-2026-2027.docx.pdf",
+      "final_url": "https://www.scoilmhuiregns.ie/media/pages/for-parents/school-materials/1e9a6a6dfc-1781189262/1st-class-2026-2027.docx.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "First Class"
+    },
+    {
+      "url": "https://www.scoilmhuiregns.ie/media/pages/for-parents/school-materials/0ac542ad24-1781189358/6th-class-2026-2027.docx.pdf",
+      "final_url": "https://www.scoilmhuiregns.ie/media/pages/for-parents/school-materials/0ac542ad24-1781189358/6th-class-2026-2027.docx.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Sixth Class"
+    },
+    {
+      "url": "https://www.scoilmhuiregns.ie/sitemap.xml",
+      "final_url": "https://www.scoilmhuiregns.ie/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.scoilmhuiregns.ie/for-parents/useful-links",
+      "final_url": "https://www.scoilmhuiregns.ie/for-parents/useful-links",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Useful Links"
+    },
+    {
+      "url": "https://www.scoilmhuiregns.ie/media/pages/for-parents/useful-links/eb77ca24fa-1705055929/home_school_links_junior_infants.pdf",
+      "final_url": "https://www.scoilmhuiregns.ie/media/pages/for-parents/useful-links/eb77ca24fa-1705055929/home_school_links_junior_infants.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Junior Infants"
+    },
+    {
+      "url": "https://www.scoilmhuiregns.ie/media/pages/for-parents/useful-links/e4e785ea5b-1705055938/home-school-links-5th-class.pdf",
+      "final_url": "https://www.scoilmhuiregns.ie/media/pages/for-parents/useful-links/e4e785ea5b-1705055938/home-school-links-5th-class.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "5th Class"
+    },
+    {
+      "url": "https://www.scoilmhuiregns.ie/media/pages/for-parents/useful-links/d7cdc34796-1705055930/home-school-links-2nd-class.pdf",
+      "final_url": "https://www.scoilmhuiregns.ie/media/pages/for-parents/useful-links/d7cdc34796-1705055930/home-school-links-2nd-class.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "2nd Class"
+    },
+    {
+      "url": "https://www.scoilmhuiregns.ie/media/pages/for-parents/useful-links/a81815710c-1705055933/home-school-links-3rd-class.pdf",
+      "final_url": "https://www.scoilmhuiregns.ie/media/pages/for-parents/useful-links/a81815710c-1705055933/home-school-links-3rd-class.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "3rd Class"
+    },
+    {
+      "url": "https://www.scoilmhuiregns.ie/media/pages/for-parents/useful-links/7990d1ae24-1705055931/home_school_links_senior_infants.pdf",
+      "final_url": "https://www.scoilmhuiregns.ie/media/pages/for-parents/useful-links/7990d1ae24-1705055931/home_school_links_senior_infants.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Senior Infants"
+    },
+    {
+      "url": "https://www.scoilmhuiregns.ie/media/pages/for-parents/useful-links/5e2aeab05e-1705055928/home-school-links-1st-class.pdf",
+      "final_url": "https://www.scoilmhuiregns.ie/media/pages/for-parents/useful-links/5e2aeab05e-1705055928/home-school-links-1st-class.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "1st Class"
+    },
+    {
+      "url": "https://www.scoilmhuiregns.ie/media/pages/for-parents/useful-links/57b8c15014-1705055940/home-school-links-4th-class.pdf",
+      "final_url": "https://www.scoilmhuiregns.ie/media/pages/for-parents/useful-links/57b8c15014-1705055940/home-school-links-4th-class.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "4th Class"
+    },
+    {
+      "url": "https://www.scoilmhuiregns.ie/media/pages/for-parents/useful-links/2c11a945a0-1705055938/home-school-links-6th-class.pdf",
+      "final_url": "https://www.scoilmhuiregns.ie/media/pages/for-parents/useful-links/2c11a945a0-1705055938/home-school-links-6th-class.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "6th Class"
+    },
+    {
+      "url": "https://www.scoilmhuiregns.ie/for-parents/uniform",
+      "final_url": "https://www.scoilmhuiregns.ie/for-parents/uniform",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Uniform"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "11894I",
+      "url": "https://www.scoilmhuiregns.ie/enrolment",
+      "label": "Prior school admissions section",
+      "sha256": "eb6c2915ef7c9e8481b6b575a846b580d84fc62aed3da58e1936c869b9ce7cb3",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/11894I_eb6c2915ef7c9e8481b6.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 294
+    },
+    {
+      "roll": "11894I",
+      "url": "https://drive.google.com/file/d/1-xCWFHy7xwwUvBoCpn6H1YbmU_82I7Ct/view?usp=drive_link",
+      "label": "Annual Admission Notice for 2027/2028.",
+      "sha256": "7bb3fc98dd5a625116e52fe59e44f8a1f2065a737fcb9e1203a6a747d41e3dd0",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/11894I_7bb3fc98dd5a625116e5.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 66
+    },
+    {
+      "roll": "11894I",
+      "url": "https://www.scoilmhuiregns.ie/media/pages/enrolment/5f9e128722-1790759495/admission-policy-sept-2026.pdf",
+      "label": "",
+      "sha256": "52a3af3cf7510836ea9058cf58c384a51728b2b11a5b1e7649fd034b9d9f3b39",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/11894I_52a3af3cf7510836ea90.txt",
+      "source_file": "database/milestone2/cache/52a3af3cf7510836ea9058cf58c384a51728b2b11a5b1e7649fd034b9d9f3b39.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 28187
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.scoilmhuiregns.ie/for-parents/school-hours",
+      "label": "School Hours",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmhuiregns.ie/for-parents/policies",
+      "label": "Policies",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmhuiregns.ie/for-parents/parents-association",
+      "label": "Parents Association",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmhuiregns.ie/for-parents/online-payments",
+      "label": "Online Payments",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmhuiregns.ie/for-parents/extra-curricular",
+      "label": "Extra Curricular Activities",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmhuiregns.ie/for-parents/calendar",
+      "label": "Calendar",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmhuiregns.ie/",
+      "label": "School homepage",
+      "via": "home"
+    },
+    {
+      "url": "https://drive.google.com/sitemap.xml",
+      "label": "Public sitemap",
+      "via": "sitemap_root"
+    },
+    {
+      "url": "https://drive.google.com/file/d/1KxE3mU58qG8V1IIAEUAuCcH-4VSvrOjm/view?usp=drive_link",
+      "label": "Admission Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 78.05,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:44:36+0000"
+}

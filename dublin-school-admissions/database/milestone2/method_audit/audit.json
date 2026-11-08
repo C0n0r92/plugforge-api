@@ -1,0 +1,532 @@
+{
+  "generated_at": "2026-11-08T13:24:34.853410+00:00",
+  "timezone": "Europe/Dublin",
+  "official_method_sources": [
+    "https://archive.org/help/wayback_api.php",
+    "https://archive.org/developers/tutorial-compare-snapshot-wayback.html"
+  ],
+  "pilot_actual_evidence": {
+    "statistics": {
+      "sample_schools_tested": 4,
+      "schools_with_archived_body_recovered": 3,
+      "successful_archived_body_retrievals": 4,
+      "html_bodies": 2,
+      "pdf_bodies": 2,
+      "distinct_recovered_notice_editions": 3,
+      "distinct_notice_admission_school_year_pairs": 3,
+      "distinct_table_school_year_pairs": 4,
+      "extracted_same_year_same_cohort_rows": 8,
+      "snapshots_not_new_school_year": 1,
+      "strict_prior_year_part_2_tables": 1,
+      "same_year_as_part_1_part_2_tables": 1,
+      "missing_school_notice_recovery": 1,
+      "separate_original_exact_url_without_capture": 1,
+      "network_or_proxy_blocks": 0,
+      "school_contacts": 0,
+      "archive_requests_including_robots": 11,
+      "production_modified": false
+    },
+    "requests_path": "wayback-pilot/requests.jsonl",
+    "findings": "Pilot used known exact notice/page CDX captures and actual HTML/PDF replays; GSer latest exact PDF had no capture, but a school-owned uploads-prefix query found one older PDF that was actually retrieved. Three successes from four schools is a small source-informed feasibility sample, not a population recovery rate."
+  },
+  "broad_domain_actual_evidence": {
+    "attempt_records": 4,
+    "distinct_school_domains_attempted": 4,
+    "failures": [
+      {
+        "domain": "saintbrigids.ie",
+        "at": "2026-11-08T12:15:49.916573+00:00",
+        "error_class": null,
+        "error": null,
+        "query": {
+          "url": "saintbrigids.ie",
+          "matchType": "domain",
+          "output": "json",
+          "fl": "timestamp,original,mimetype,statuscode,digest",
+          "filter": [
+            "statuscode:200",
+            "original:(?i).*(admission|annual.{0,20}notice|iontr|fogra|f%C3%B3gra).*"
+          ],
+          "collapse": "digest",
+          "limit": "200",
+          "showResumeKey": "true"
+        }
+      },
+      {
+        "domain": "stmarysbnslucan.com",
+        "at": "2026-11-08T12:16:18.928868+00:00",
+        "error_class": "ReadTimeout",
+        "error": "HTTPSConnectionPool(host='web.archive.org', port=443): Read timed out. (read timeout=40)",
+        "query": {
+          "url": "stmarysbnslucan.com",
+          "matchType": "domain",
+          "output": "json",
+          "fl": "timestamp,original,mimetype,statuscode,digest",
+          "filter": [
+            "statuscode:200",
+            "original:(?i).*(admission|annual.{0,20}notice|iontr|fogra|f%C3%B3gra).*"
+          ],
+          "collapse": "digest",
+          "limit": "200",
+          "showResumeKey": "true"
+        }
+      },
+      {
+        "domain": "loretograngeroad.ie",
+        "at": "2026-11-08T12:17:14.174632+00:00",
+        "error_class": "ReadTimeout",
+        "error": "HTTPSConnectionPool(host='web.archive.org', port=443): Read timed out. (read timeout=40)",
+        "query": {
+          "url": "loretograngeroad.ie",
+          "matchType": "domain",
+          "output": "json",
+          "fl": "timestamp,original,mimetype,statuscode,digest",
+          "filter": [
+            "statuscode:200",
+            "original:(?i).*(admission|annual.{0,20}notice|iontr|fogra|f%C3%B3gra).*"
+          ],
+          "collapse": "digest",
+          "limit": "200",
+          "showResumeKey": "true"
+        }
+      },
+      {
+        "domain": "centralmodelseniorschool.ie",
+        "at": "2026-11-08T12:18:09.448316+00:00",
+        "error_class": "ReadTimeout",
+        "error": "HTTPSConnectionPool(host='web.archive.org', port=443): Read timed out. (read timeout=40)",
+        "query": {
+          "url": "centralmodelseniorschool.ie",
+          "matchType": "domain",
+          "output": "json",
+          "fl": "timestamp,original,mimetype,statuscode,digest",
+          "filter": [
+            "statuscode:200",
+            "original:(?i).*(admission|annual.{0,20}notice|iontr|fogra|f%C3%B3gra).*"
+          ],
+          "collapse": "digest",
+          "limit": "200",
+          "showResumeKey": "true"
+        }
+      }
+    ],
+    "observation": "Domain-match index requests reached40second read timeouts. No HTTP denial was observed on these requests. Cause not established; do not claim archive universally unavailable."
+  },
+  "source_prefix_actual_evidence": {
+    "checkpointed_prefix_queries": 10,
+    "index_complete": 6,
+    "transient_failures_checkpointed": 4,
+    "third_consecutive_timeout_trip_record": {
+      "at": "2026-11-08T13:05:41.698315+00:00",
+      "url": "https://web.archive.org/cdx/search/cdx",
+      "error": "HTTPSConnectionPool(host='web.archive.org', port=443): Read timed out. (read timeout=25)"
+    }
+  },
+  "next_ten_sample": {
+    "selection_rule": "First 10 ascending-roll schools without a milestone1 retrospective numeric group, not previously exact-index/replay-tested, with accessible attempted own-site checkpoint and payload-verified admission-looking notice URL. Prefer HTML, otherwise lexicographic notice URL. Selection frozen before archive outcomes. Use first successful previously public-linked admissions HTML landing, where available, to recover older outgoing documents; otherwise verified notice URL. No invented paths.",
+    "selected": 10,
+    "schools_with_actual_requests": 4,
+    "completed_before_stop": 3,
+    "stopped_school": "10494K",
+    "not_attempted_after_stop": 6,
+    "schools_with_readable_archived_HTML": 2,
+    "genuine_archived_notice_bodies_recovered": 0,
+    "new_verified_school_years": 0,
+    "numeric_fields_extracted": 0,
+    "latency_by_route": {
+      "CDX_exact_URL_all_available_dates": {
+        "requests": 3,
+        "HTTP_status_counts": {
+          "200": 3
+        },
+        "response_header_seconds_min": 2.091132,
+        "response_header_seconds_median": 2.352494,
+        "response_header_seconds_max": 4.588153,
+        "wall_seconds_including_polite_wait_total": 20.303
+      },
+      "actual_archived_body": {
+        "requests": 4,
+        "HTTP_status_counts": {
+          "200": 4
+        },
+        "response_header_seconds_min": 0.936681,
+        "response_header_seconds_median": 1.2116704999999999,
+        "response_header_seconds_max": 2.996945,
+        "wall_seconds_including_polite_wait_total": 21.551
+      },
+      "availability_exact_URL": {
+        "requests": 4,
+        "HTTP_status_counts": {
+          "200": 3,
+          "429": 1
+        },
+        "response_header_seconds_min": 0.838353,
+        "response_header_seconds_median": 1.283872,
+        "response_header_seconds_max": 1.779611,
+        "wall_seconds_including_polite_wait_total": 15.591
+      }
+    },
+    "schools": [
+      {
+        "roll": "00714P",
+        "original_url": "https://storage.googleapis.com/iclasscrm_files/4756/Images/Content/2026/282/xe91-Annual_Admissions_Notice_2027_and_2028.pdf",
+        "media_type": "pdf",
+        "landing_url": "https://www.stmarysbnslucan.com/page/Admissions/355589/Index.html",
+        "status": "completed_bounded_exact_method_test",
+        "archive_request_count": 5,
+        "readable_body_retrievals": 3,
+        "distinct_payload_hashes": 3,
+        "distinct_text_bodies": 2,
+        "genuine_notice_bodies_recovered": 0,
+        "new_verified_school_years_from_sample": 0,
+        "numeric_fields_extracted_from_sample": 0,
+        "manual_review": "00714P snapshots are admissions navigation with application-form links, no numeric notice;09492W has embeddedOffice notice but archived original document was not retrieved;01795A exact DOCX has no capture. No unsupported notice or year success claimed."
+      },
+      {
+        "roll": "01795A",
+        "original_url": "https://www.centralmodelinfantschool.ie/Content/2025/10/yt97-Annual_Admission_Notice_2025__26.docx",
+        "media_type": "docx",
+        "landing_url": null,
+        "status": "completed_bounded_exact_method_test",
+        "archive_request_count": 2,
+        "readable_body_retrievals": 0,
+        "distinct_payload_hashes": 0,
+        "distinct_text_bodies": 0,
+        "genuine_notice_bodies_recovered": 0,
+        "new_verified_school_years_from_sample": 0,
+        "numeric_fields_extracted_from_sample": 0,
+        "manual_review": "00714P snapshots are admissions navigation with application-form links, no numeric notice;09492W has embeddedOffice notice but archived original document was not retrieved;01795A exact DOCX has no capture. No unsupported notice or year success claimed."
+      },
+      {
+        "roll": "09492W",
+        "original_url": "https://www.balscadden.com/cmsfiles/items/downloads/9134-AdmissionsNoticeBNSJI2027.docx",
+        "media_type": "docx",
+        "landing_url": "https://www.balscadden.com/news/admissions-notice-bns-ji-2027pdf/",
+        "status": "completed_bounded_exact_method_test",
+        "archive_request_count": 3,
+        "readable_body_retrievals": 1,
+        "distinct_payload_hashes": 1,
+        "distinct_text_bodies": 1,
+        "genuine_notice_bodies_recovered": 0,
+        "new_verified_school_years_from_sample": 0,
+        "numeric_fields_extracted_from_sample": 0,
+        "manual_review": "00714P snapshots are admissions navigation with application-form links, no numeric notice;09492W has embeddedOffice notice but archived original document was not retrieved;01795A exact DOCX has no capture. No unsupported notice or year success claimed."
+      },
+      {
+        "roll": "10494K",
+        "original_url": "https://www.allsaintsnsblackrock.com/admissions",
+        "media_type": "html",
+        "landing_url": "https://www.allsaintsnsblackrock.com/admissions",
+        "status": "availability_HTTP429_no_body_request",
+        "archive_request_count": 1,
+        "readable_body_retrievals": 0,
+        "distinct_payload_hashes": 0,
+        "distinct_text_bodies": 0,
+        "genuine_notice_bodies_recovered": 0,
+        "new_verified_school_years_from_sample": 0,
+        "numeric_fields_extracted_from_sample": 0,
+        "manual_review": null
+      },
+      {
+        "roll": "13447Q",
+        "original_url": "https://storage.googleapis.com/iclasscrm_files/4769/Images/Content/2026/273/dg12-Annual_Admissions_Notice_Oct._2027.2028.docx.pdf",
+        "media_type": "pdf",
+        "landing_url": "https://www.smgnslucan.com/Page/Admissions/47022/Index.html",
+        "status": "not_attempted_after_archive_rate_limit_stop",
+        "archive_request_count": 0,
+        "readable_body_retrievals": 0,
+        "distinct_payload_hashes": 0,
+        "distinct_text_bodies": 0,
+        "genuine_notice_bodies_recovered": 0,
+        "new_verified_school_years_from_sample": 0,
+        "numeric_fields_extracted_from_sample": 0,
+        "manual_review": null
+      },
+      {
+        "roll": "14556D",
+        "original_url": "https://static1.squarespace.com/static/6703eac3e9990d357ee3a58f/t/68d132b00bcc162d4dabcdbb/1758540464142/2.+Admission+Notice+South+City++CNS.pdf",
+        "media_type": "pdf",
+        "landing_url": "https://www.southcitycns.ie/admissions",
+        "status": "not_attempted_after_archive_rate_limit_stop",
+        "archive_request_count": 0,
+        "readable_body_retrievals": 0,
+        "distinct_payload_hashes": 0,
+        "distinct_text_bodies": 0,
+        "genuine_notice_bodies_recovered": 0,
+        "new_verified_school_years_from_sample": 0,
+        "numeric_fields_extracted_from_sample": 0,
+        "manual_review": null
+      },
+      {
+        "roll": "15056L",
+        "original_url": "https://stvincentsgns.weebly.com/uploads/2/3/3/3/23339672/annual_admissions_notice_2026-2027.docx",
+        "media_type": "docx",
+        "landing_url": "https://stvincentsgns.weebly.com/enrolment.html",
+        "status": "not_attempted_after_archive_rate_limit_stop",
+        "archive_request_count": 0,
+        "readable_body_retrievals": 0,
+        "distinct_payload_hashes": 0,
+        "distinct_text_bodies": 0,
+        "genuine_notice_bodies_recovered": 0,
+        "new_verified_school_years_from_sample": 0,
+        "numeric_fields_extracted_from_sample": 0,
+        "manual_review": null
+      },
+      {
+        "roll": "16675V",
+        "original_url": "https://stlukesns.ie/wp-content/uploads/2026/09/Annual-Admission-Notice-St.-Lukes-NS-2027-2028.pdf",
+        "media_type": "pdf",
+        "landing_url": null,
+        "status": "not_attempted_after_archive_rate_limit_stop",
+        "archive_request_count": 0,
+        "readable_body_retrievals": 0,
+        "distinct_payload_hashes": 0,
+        "distinct_text_bodies": 0,
+        "genuine_notice_bodies_recovered": 0,
+        "new_verified_school_years_from_sample": 0,
+        "numeric_fields_extracted_from_sample": 0,
+        "manual_review": null
+      },
+      {
+        "roll": "16695E",
+        "original_url": "https://www.brunnerprimary.ie/_files/ugd/2d1e22_f1ffcffc42d647458121bb95a2d83bf2.docx?dn=_Admissions%20notice%202026-2027.docx",
+        "media_type": "docx",
+        "landing_url": "https://www.brunnerprimary.ie/admissions",
+        "status": "not_attempted_after_archive_rate_limit_stop",
+        "archive_request_count": 0,
+        "readable_body_retrievals": 0,
+        "distinct_payload_hashes": 0,
+        "distinct_text_bodies": 0,
+        "genuine_notice_bodies_recovered": 0,
+        "new_verified_school_years_from_sample": 0,
+        "numeric_fields_extracted_from_sample": 0,
+        "manual_review": null
+      },
+      {
+        "roll": "16759E",
+        "original_url": "https://storage.googleapis.com/siteassetsswd/531/letter/11/20251127114802_32_9669-AnnualAdmissionsNotice2026-2027JuniorInfants.pdf",
+        "media_type": "pdf",
+        "landing_url": null,
+        "status": "not_attempted_after_archive_rate_limit_stop",
+        "archive_request_count": 0,
+        "readable_body_retrievals": 0,
+        "distinct_payload_hashes": 0,
+        "distinct_text_bodies": 0,
+        "genuine_notice_bodies_recovered": 0,
+        "new_verified_school_years_from_sample": 0,
+        "numeric_fields_extracted_from_sample": 0,
+        "manual_review": null
+      }
+    ],
+    "requests_with_stop_reconciled": [
+      {
+        "at": "2026-11-08T13:23:39.028203+00:00",
+        "school_roll": "00714P",
+        "stage": "availability_exact_URL",
+        "url": "https://archive.org/wayback/available?url=https%3A%2F%2Fwww.stmarysbnslucan.com%2Fpage%2FAdmissions%2F355589%2FIndex.html&timestamp=20220101",
+        "params": {
+          "url": "https://www.stmarysbnslucan.com/page/Admissions/355589/Index.html",
+          "timestamp": "20220101"
+        },
+        "elapsed_total_seconds": 1.781,
+        "response_elapsed_seconds": 1.779611,
+        "http_status": 200,
+        "error": null
+      },
+      {
+        "at": "2026-11-08T13:23:45.826470+00:00",
+        "school_roll": "00714P",
+        "stage": "actual_archived_body",
+        "url": "https://web.archive.org/web/20251108063120/https://www.stmarysbnslucan.com/page/Admissions/355589/Index.html",
+        "params": null,
+        "elapsed_total_seconds": 6.798,
+        "response_elapsed_seconds": 2.996945,
+        "http_status": 200,
+        "error": null
+      },
+      {
+        "at": "2026-11-08T13:23:54.215575+00:00",
+        "school_roll": "00714P",
+        "stage": "CDX_exact_URL_all_available_dates",
+        "url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.stmarysbnslucan.com%2Fpage%2FAdmissions%2F355589%2FIndex.html&matchType=exact&output=json&fl=timestamp%2Coriginal%2Cmimetype%2Cstatuscode%2Cdigest&filter=statuscode%3A200&collapse=digest&limit=200&showResumeKey=true",
+        "params": {
+          "url": "https://www.stmarysbnslucan.com/page/Admissions/355589/Index.html",
+          "matchType": "exact",
+          "output": "json",
+          "fl": "timestamp,original,mimetype,statuscode,digest",
+          "filter": "statuscode:200",
+          "collapse": "digest",
+          "limit": "200",
+          "showResumeKey": "true"
+        },
+        "elapsed_total_seconds": 8.306,
+        "response_elapsed_seconds": 4.588153,
+        "http_status": 200,
+        "error": null
+      },
+      {
+        "at": "2026-11-08T13:23:59.212439+00:00",
+        "school_roll": "00714P",
+        "stage": "actual_archived_body",
+        "url": "https://web.archive.org/web/20251108063120/https://stmarysbnslucan.com/page/Admissions/355589/Index.html",
+        "params": null,
+        "elapsed_total_seconds": 4.996,
+        "response_elapsed_seconds": 1.195689,
+        "http_status": 200,
+        "error": null
+      },
+      {
+        "at": "2026-11-08T13:24:03.950328+00:00",
+        "school_roll": "00714P",
+        "stage": "actual_archived_body",
+        "url": "https://web.archive.org/web/20260613181041/https://www.stmarysbnslucan.com/Page/Admissions/355589/Index.html",
+        "params": null,
+        "elapsed_total_seconds": 4.726,
+        "response_elapsed_seconds": 0.936681,
+        "http_status": 200,
+        "error": null
+      },
+      {
+        "at": "2026-11-08T13:24:09.035081+00:00",
+        "school_roll": "01795A",
+        "stage": "availability_exact_URL",
+        "url": "https://archive.org/wayback/available?url=https%3A%2F%2Fwww.centralmodelinfantschool.ie%2FContent%2F2025%2F10%2Fyt97-Annual_Admission_Notice_2025__26.docx&timestamp=20220101",
+        "params": {
+          "url": "https://www.centralmodelinfantschool.ie/Content/2025/10/yt97-Annual_Admission_Notice_2025__26.docx",
+          "timestamp": "20220101"
+        },
+        "elapsed_total_seconds": 5.072,
+        "response_elapsed_seconds": 1.283872,
+        "http_status": 200,
+        "error": null
+      },
+      {
+        "at": "2026-11-08T13:24:14.927257+00:00",
+        "school_roll": "01795A",
+        "stage": "CDX_exact_URL_all_available_dates",
+        "url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.centralmodelinfantschool.ie%2FContent%2F2025%2F10%2Fyt97-Annual_Admission_Notice_2025__26.docx&matchType=exact&output=json&fl=timestamp%2Coriginal%2Cmimetype%2Cstatuscode%2Cdigest&filter=statuscode%3A200&collapse=digest&limit=200&showResumeKey=true",
+        "params": {
+          "url": "https://www.centralmodelinfantschool.ie/Content/2025/10/yt97-Annual_Admission_Notice_2025__26.docx",
+          "matchType": "exact",
+          "output": "json",
+          "fl": "timestamp,original,mimetype,statuscode,digest",
+          "filter": "statuscode:200",
+          "collapse": "digest",
+          "limit": "200",
+          "showResumeKey": "true"
+        },
+        "elapsed_total_seconds": 5.891,
+        "response_elapsed_seconds": 2.091132,
+        "http_status": 200,
+        "error": null
+      },
+      {
+        "at": "2026-11-08T13:24:19.566747+00:00",
+        "school_roll": "09492W",
+        "stage": "availability_exact_URL",
+        "url": "https://archive.org/wayback/available?url=https%3A%2F%2Fwww.balscadden.com%2Fnews%2Fadmissions-notice-bns-ji-2027pdf%2F&timestamp=20220101",
+        "params": {
+          "url": "https://www.balscadden.com/news/admissions-notice-bns-ji-2027pdf/",
+          "timestamp": "20220101"
+        },
+        "elapsed_total_seconds": 4.638,
+        "response_elapsed_seconds": 0.838353,
+        "http_status": 200,
+        "error": null
+      },
+      {
+        "at": "2026-11-08T13:24:24.599018+00:00",
+        "school_roll": "09492W",
+        "stage": "actual_archived_body",
+        "url": "https://web.archive.org/web/20261002174259/https://www.balscadden.com/news/admissions-notice-bns-ji-2027pdf/",
+        "params": null,
+        "elapsed_total_seconds": 5.031,
+        "response_elapsed_seconds": 1.227652,
+        "http_status": 200,
+        "error": null
+      },
+      {
+        "at": "2026-11-08T13:24:30.752261+00:00",
+        "school_roll": "09492W",
+        "stage": "CDX_exact_URL_all_available_dates",
+        "url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.balscadden.com%2Fnews%2Fadmissions-notice-bns-ji-2027pdf%2F&matchType=exact&output=json&fl=timestamp%2Coriginal%2Cmimetype%2Cstatuscode%2Cdigest&filter=statuscode%3A200&collapse=digest&limit=200&showResumeKey=true",
+        "params": {
+          "url": "https://www.balscadden.com/news/admissions-notice-bns-ji-2027pdf/",
+          "matchType": "exact",
+          "output": "json",
+          "fl": "timestamp,original,mimetype,statuscode,digest",
+          "filter": "statuscode:200",
+          "collapse": "digest",
+          "limit": "200",
+          "showResumeKey": "true"
+        },
+        "elapsed_total_seconds": 6.106,
+        "response_elapsed_seconds": 2.352494,
+        "http_status": 200,
+        "error": null
+      },
+      {
+        "at": "2026-11-08T13:24:34.853828+00:00",
+        "school_roll": "10494K",
+        "stage": "availability_exact_URL",
+        "url": "https://archive.org/wayback/available",
+        "params": {
+          "url": "https://www.allsaintsnsblackrock.com/admissions",
+          "timestamp": "20220101"
+        },
+        "elapsed_total_seconds": 4.1,
+        "response_elapsed_seconds": null,
+        "http_status": 429,
+        "error": {
+          "source": "exact_archive/STOP_ACCESS.json",
+          "error": "Too Many Requests; all archive requests stopped"
+        }
+      }
+    ]
+  },
+  "concrete_bottlenecks_and_corrections": [
+    {
+      "issue": "Whole-domain enumeration stalled, whereas exact-source queries returned200 in2.09–4.59seconds header latency in this new sample.",
+      "consequence": "Use exact historically relevant pages and archived outgoing documents first, but exact current-year PDF filenames cannot discover older differently named notices. Metadata success is not numeric recovery."
+    },
+    {
+      "issue": "Archived admissions pages can contain only form links or embedded Office frames, not annual-notice numbers.",
+      "consequence": "Sample recovered readable pages for two schools but zero numeric notice bodies. Need original linked document capture, not live-PDF substitution or capture-date school-year inference."
+    },
+    {
+      "issue": "Replay discovery originally recognized PDF/Drive/Wix links but not ordinaryDOCX or Officeiframe encoded src.",
+      "correction": "Added actual DOCX body parsing and rawHTML caching for future retrievals; queue encoded Office/document links for sanctioned ordinary archive retrieval only after service access permits. No archive request after429."
+    },
+    {
+      "issue": "Filename admissions regex is unsuitable for opaque Wix documents and cannot prove no notices.",
+      "correction": "Prefer exact officially linked document URLs; do not interpret empty name-filtered indexes as exhaustive missing school years."
+    },
+    {
+      "issue": "Official-site parser rejected real notices whose titles omitANNUAL or insertAUTISMCLASS; scans were discarded when text extraction was empty.",
+      "correction": "Rechecked all19strong previously successful-but-unparsed source-identified documents at14schools, performed direct PDF text and complete visual scan review. Actual new evidence imported in batch6, separate from sample counts."
+    },
+    {
+      "issue": "Two duplicate archive workers shared a request lock but duplicated some body work.",
+      "correction": "Stopped duplicate worker, then all archive workers when429occurred; payload/year deduplication prevents coverage inflation."
+    }
+  ],
+  "current_archive_blocker": {
+    "at": "2026-11-08T13:24:34.853410+00:00",
+    "url": "https://archive.org/wayback/available?url=https%3A%2F%2Fwww.allsaintsnsblackrock.com%2Fadmissions&timestamp=20220101",
+    "http_status": 429,
+    "error": "<html><body><h1>429 Too Many Requests</h1>\nYou have sent too many requests in a given amount of time.\n</body></html>\n"
+  },
+  "stop_policy": "No alternate archive host/network/browser route, retries or block evasion attempted after429. Continue permitted independent original-school sources and cached evidence.",
+  "actual_new_school_years_from_independent_collection": {
+    "supported_numeric_school_year_pairs_including_qualified_or_noncore": 163,
+    "core_admissions_school_year_pairs": 155,
+    "explicitly_dated_cohort_matched_core_pairs": 148,
+    "retrospective_core_school_year_pairs": 84,
+    "strict_retrospective_core_pairs": 71,
+    "schools_with_supported_numeric_year": 17,
+    "schools_with_at_least_two_supported_numeric_years": 23,
+    "schools_with_at_least_two_strict_core_years": 25,
+    "full_five_metric_source_groups": 7,
+    "distinct_full_five_metric_school_year_pairs": 6
+  }
+}

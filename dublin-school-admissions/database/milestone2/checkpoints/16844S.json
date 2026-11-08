@@ -1,0 +1,235 @@
+{
+  "roll": "16844S",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.loughshinnyns.ie",
+      "final_url": "https://loughshinnyns.ie/",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://loughshinnyns.ie/documents/admissions-policy.pdf",
+      "final_url": "https://loughshinnyns.ie/documents/admissions-policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions Policy 2027"
+    },
+    {
+      "url": "https://loughshinnyns.ie/news/further-strike-day-thursday-12th-of-november/",
+      "final_url": "https://loughshinnyns.ie/news/further-strike-day-thursday-12th-of-november/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "4 November 2026 Strike update: school is closed on Thursday 12 November School is closed for the full day on Thursday 12 November because of a further INTO strike day. Parent and teacher meetings will be rescheduled to take place du"
+    },
+    {
+      "url": "https://loughshinnyns.ie/sitemap.xml",
+      "final_url": "https://loughshinnyns.ie/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://loughshinnyns.ie/parents/",
+      "final_url": "https://loughshinnyns.ie/parents/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents' hub"
+    },
+    {
+      "url": "https://loughshinnyns.ie/documents/school-calendar-2026.pdf",
+      "final_url": "https://loughshinnyns.ie/documents/school-calendar-2026.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School calendar 2026/2027 PDF"
+    },
+    {
+      "url": "https://loughshinnyns.ie/joining-us/",
+      "final_url": "https://loughshinnyns.ie/joining-us/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Questions parents ask Class sizes, the day, uniform and parking"
+    },
+    {
+      "url": "https://loughshinnyns.ie/documents/application-form-for-admission-2027.pdf",
+      "final_url": "https://loughshinnyns.ie/documents/application-form-for-admission-2027.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "download the Application Form for Admission (PDF)"
+    },
+    {
+      "url": "https://loughshinnyns.ie/enrolment/",
+      "final_url": "https://loughshinnyns.ie/enrolment/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Enrolment and admissions How to apply, the forms and the policy"
+    },
+    {
+      "url": "https://loughshinnyns.ie/policies/",
+      "final_url": "https://loughshinnyns.ie/policies/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies and forms Every policy and form to download"
+    },
+    {
+      "url": "https://loughshinnyns.ie/documents/general-school-policies.pdf",
+      "final_url": "https://loughshinnyns.ie/documents/general-school-policies.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "General School Policies The smaller everyday policies, gathered in one document."
+    },
+    {
+      "url": "https://loughshinnyns.ie/documents/code-of-behaviour.pdf",
+      "final_url": "https://loughshinnyns.ie/documents/code-of-behaviour.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Code of Behaviour What we expect and how behaviour is supported and managed."
+    },
+    {
+      "url": "https://loughshinnyns.ie/documents/child-safeguarding-statement.pdf",
+      "final_url": "https://loughshinnyns.ie/documents/child-safeguarding-statement.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Child Safeguarding Statement Our statement and risk assessment under the Child Protection Procedures."
+    },
+    {
+      "url": "https://loughshinnyns.ie/documents/special-needs-policy.pdf",
+      "final_url": "https://loughshinnyns.ie/documents/special-needs-policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Special Needs and Learning Support Policy How additional needs are identified and supported here."
+    },
+    {
+      "url": "https://loughshinnyns.ie/documents/mobile-phone-and-device-policy.pdf",
+      "final_url": "https://loughshinnyns.ie/documents/mobile-phone-and-device-policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Mobile Phone and Device Policy"
+    },
+    {
+      "url": "https://loughshinnyns.ie/documents/internet-acceptable-use-policy.pdf",
+      "final_url": "https://loughshinnyns.ie/documents/internet-acceptable-use-policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Internet Acceptable Use Policy How devices and the internet are used in school."
+    },
+    {
+      "url": "https://loughshinnyns.ie/documents/health-and-safety-policy.pdf",
+      "final_url": "https://loughshinnyns.ie/documents/health-and-safety-policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Health and Safety Policy"
+    },
+    {
+      "url": "https://loughshinnyns.ie/documents/data-protection-policy.pdf",
+      "final_url": "https://loughshinnyns.ie/documents/data-protection-policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Data Protection Policy What information the school holds and how it is looked after."
+    },
+    {
+      "url": "https://loughshinnyns.ie/documents/critical-incident-policy.pdf",
+      "final_url": "https://loughshinnyns.ie/documents/critical-incident-policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Critical Incident Policy What the school does in the event of a serious incident."
+    },
+    {
+      "url": "https://loughshinnyns.ie/documents/child-protection-policy.pdf",
+      "final_url": "https://loughshinnyns.ie/documents/child-protection-policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Child Protection Policy How concerns are raised, recorded and acted on."
+    },
+    {
+      "url": "https://loughshinnyns.ie/documents/bi-cinealta-policy.pdf",
+      "final_url": "https://loughshinnyns.ie/documents/bi-cinealta-policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Bí Cineálta Policy (Anti-Bullying) Our anti-bullying policy, to prevent and address bullying behaviour. It replaces our earlier anti-bullying policies."
+    },
+    {
+      "url": "https://loughshinnyns.ie/documents/attendance-policy.pdf",
+      "final_url": "https://loughshinnyns.ie/documents/attendance-policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Attendance Policy Absences, lateness and when to let the office know."
+    },
+    {
+      "url": "https://loughshinnyns.ie/documents/anti-cyber-bullying-policy.pdf",
+      "final_url": "https://loughshinnyns.ie/documents/anti-cyber-bullying-policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Anti-Cyber Bullying Policy"
+    },
+    {
+      "url": "https://loughshinnyns.ie/documents/administration-of-medicine-policy.pdf",
+      "final_url": "https://loughshinnyns.ie/documents/administration-of-medicine-policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Administration of Medicine If your child needs medication during the school day."
+    }
+  ],
+  "documents": [
+    {
+      "roll": "16844S",
+      "url": "https://loughshinnyns.ie/",
+      "label": "School homepage",
+      "sha256": "56718f722d7079fcfb81047ff6ff79f6794333b262cf8fdc8f6eb102a12eea83",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/16844S_56718f722d7079fcfb81.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1143
+    },
+    {
+      "roll": "16844S",
+      "url": "https://loughshinnyns.ie/documents/admissions-policy.pdf",
+      "label": "Admissions Policy 2027",
+      "sha256": "01a91213cb13ddfab109df192bb440326632d854b2f1d5b3a7b52356b38073a1",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/16844S_01a91213cb13ddfab109.txt",
+      "source_file": "database/milestone2/cache/01a91213cb13ddfab109df192bb440326632d854b2f1d5b3a7b52356b38073a1.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 12966
+    },
+    {
+      "roll": "16844S",
+      "url": "https://loughshinnyns.ie/parents/",
+      "label": "Parents' hub",
+      "sha256": "d711dcd0ed654d71160ecf7c2620a65ad558ca3b9e799f29c5e382cd7c6b3384",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/16844S_d711dcd0ed654d71160e.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1623
+    },
+    {
+      "roll": "16844S",
+      "url": "https://loughshinnyns.ie/enrolment/",
+      "label": "Enrolment and admissions How to apply, the forms and the policy",
+      "sha256": "ba1c6152c3b5e59e612b6e478c4b97143c8b4c719ae22ab1880a6f7aabbc891f",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/16844S_ba1c6152c3b5e59e612b.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 3357
+    },
+    {
+      "roll": "16844S",
+      "url": "https://loughshinnyns.ie/policies/",
+      "label": "Policies and forms Every policy and form to download",
+      "sha256": "9faead5e63bf0b58661ebb785283f2dc72d8a5840b01ed647cfbf5aa42724b71",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/16844S_9faead5e63bf0b58661e.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 2244
+    }
+  ],
+  "pending_links": [],
+  "elapsed_seconds": 76.82,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:51:28+0000"
+}

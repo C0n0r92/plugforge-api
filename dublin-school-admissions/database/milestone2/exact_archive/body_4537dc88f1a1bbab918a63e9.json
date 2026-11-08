@@ -1,0 +1,30 @@
+{
+  "roll": "15132B",
+  "capture": {
+    "timestamp": "20250215105523",
+    "original": "https://www.haroldboysdalkey.ie/copy-of-teachers-2024-2025-1",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "digest": "JXAXZBTPVTDOFAZOBEMWEJD5TTSJHHBJ"
+  },
+  "original_url": "https://www.haroldboysdalkey.ie/copy-of-teachers-2024-2025-1",
+  "archived_url": "https://web.archive.org/web/20250215105523/https://www.haroldboysdalkey.ie/copy-of-teachers-2024-2025-1",
+  "attempted_at": "2026-11-08T12:44:26.382481+00:00",
+  "linked_from_capture": null,
+  "http_status": 200,
+  "headers": {
+    "Content-Type": "text/html; charset=UTF-8",
+    "memento-datetime": "Sat, 15 Feb 2025 10:55:23 GMT"
+  },
+  "bytes": 507060,
+  "payload_sha256": "99bdd141cf01b76199b126360e532f7ccdc098832441a5f2618184c6c56e0fd4",
+  "format": "html",
+  "status": "archived_body_retrieved_requires_manual_evidence_review",
+  "text_file": "database/milestone2/evidence/exact_15132B_99bdd141cf01b76199b1.txt",
+  "linked_document_candidates": [
+    {
+      "url": "https://www.haroldboysdalkey.ie/_files/ugd/7ce6f8_c536f50f59b9483cadc1f263a2c399e0.pdf",
+      "label": "Annual Admissions Notice"
+    }
+  ]
+}

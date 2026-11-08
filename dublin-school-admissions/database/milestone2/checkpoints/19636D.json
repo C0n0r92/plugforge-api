@@ -1,0 +1,240 @@
+{
+  "roll": "19636D",
+  "status": "bounded_search_no_new_notice_found",
+  "attempts": [
+    {
+      "url": "https://www.stpatrickscorduff.ie/enrolment/?googletranslate=true",
+      "final_url": "https://www.stpatrickscorduff.ie/enrolment/?googletranslate=true",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "https://swdcache.b-cdn.net/673/docletter/20260930115351_97_Admissions_Notice_2027_2028.pdf",
+      "final_url": "https://swdcache.b-cdn.net/673/docletter/20260930115351_97_Admissions_Notice_2027_2028.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stpatrickscorduff.ie/documentlink/85/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/673/docletter/20260930115351_97_Admissions_Notice_2027_2028.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Admissions Notice 2027 2028.pdf"
+    },
+    {
+      "url": "https://view.officeapps.live.com/op/embed.aspx?src=https://swddoc.b-cdn.net/673/docletter/20250609114106_52_Enrolment_form_2025.docx",
+      "final_url": "https://view.officeapps.live.com/op/embed.aspx?src=https://swddoc.b-cdn.net/673/docletter/20250609114106_52_Enrolment_form_2025.docx",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "This is an embedded Microsoft Office document, powered by Office ."
+    },
+    {
+      "url": "https://www.stpatrickscorduff.ie/documentlink/68/?open=true",
+      "final_url": "https://view.officeapps.live.com/op/embed.aspx?src=https://swddoc.b-cdn.net/673/docletter/20250609114106_52_Enrolment_form_2025.docx",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Enrolment form 2025.docx"
+    },
+    {
+      "url": "https://www.stpatrickscorduff.ie/enrolment/",
+      "final_url": "https://www.stpatrickscorduff.ie/enrolment/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Enrolment"
+    },
+    {
+      "url": "https://www.stpatrickscorduff.ie/admin/?open=/enrolment/?googletranslate=true",
+      "final_url": "https://www.stpatrickscorduff.ie/admin/?open=/enrolment/?googletranslate=true",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.stpatrickscorduff.ie/admin/?open=/enrolment/",
+      "final_url": "https://www.stpatrickscorduff.ie/admin/?open=/enrolment/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://swdcache.b-cdn.net/673/docletter/20260311123426_91_Admissions_Policy_December_2025.pdf",
+      "final_url": "https://swdcache.b-cdn.net/673/docletter/20260311123426_91_Admissions_Policy_December_2025.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stpatrickscorduff.ie/documentlink/81/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/673/docletter/20260311123426_91_Admissions_Policy_December_2025.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Admissions Policy December 2025.pdf"
+    },
+    {
+      "url": "https://www.stpatrickscorduff.ie/sitemap.xml",
+      "final_url": "https://www.stpatrickscorduff.ie/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.stpatrickscorduff.ie/parents-area/uniform/",
+      "final_url": "https://www.stpatrickscorduff.ie/parents-area/uniform/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Uniform"
+    },
+    {
+      "url": "https://www.stpatrickscorduff.ie/parents-area/uniform/?googletranslate=true",
+      "final_url": "https://www.stpatrickscorduff.ie/parents-area/uniform/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stpatrickscorduff.ie/parents-area/hscl/",
+      "final_url": "https://www.stpatrickscorduff.ie/parents-area/hscl/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "HSCL"
+    },
+    {
+      "url": "https://www.stpatrickscorduff.ie/parents-area/hscl/?googletranslate=true",
+      "final_url": "https://www.stpatrickscorduff.ie/parents-area/hscl/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stpatrickscorduff.ie/parents-area/calendar/",
+      "final_url": "https://www.stpatrickscorduff.ie/parents-area/calendar/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Calendar"
+    },
+    {
+      "url": "https://www.stpatrickscorduff.ie/parents-area/calendar/?calyear=2026&calmonth=12&",
+      "final_url": "https://www.stpatrickscorduff.ie/parents-area/calendar/?calyear=2026&calmonth=12&",
+      "status": "prior_exact_URL_access_denial_not_retried",
+      "via": "school_public_link",
+      "label": "December 2026"
+    },
+    {
+      "url": "https://www.stpatrickscorduff.ie/parents-area/calendar/?calyear=2026&calmonth=10&",
+      "final_url": "https://www.stpatrickscorduff.ie/parents-area/calendar/?calyear=2026&calmonth=10&",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": "October 2026"
+    },
+    {
+      "url": "https://www.stpatrickscorduff.ie/parents-area/calendar/?googletranslate=true",
+      "final_url": "https://www.stpatrickscorduff.ie/parents-area/calendar/?googletranslate=true",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stpatrickscorduff.ie/parents-area/calendar/?calTable=true",
+      "final_url": "https://www.stpatrickscorduff.ie/parents-area/calendar/?calTable=true",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stpatrickscorduff.ie/parents-area/booklists/",
+      "final_url": "https://www.stpatrickscorduff.ie/parents-area/booklists/",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": "Booklists"
+    },
+    {
+      "url": "https://www.stpatrickscorduff.ie/parents-area/",
+      "final_url": "https://www.stpatrickscorduff.ie/parents-area/",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": "Parents"
+    },
+    {
+      "url": "https://www.stpatrickscorduff.ie/our-school/policies/",
+      "final_url": "https://www.stpatrickscorduff.ie/our-school/policies/",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.stpatrickscorduff.ie/letterlink/15/?open=true&download=true",
+      "final_url": "https://www.stpatrickscorduff.ie/letterlink/15/?open=true&download=true",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": ""
+    }
+  ],
+  "documents": [],
+  "pending_links": [
+    {
+      "url": "https://www.stpatrickscorduff.ie/letterlink/14/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stpatrickscorduff.ie/documentlink/85/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stpatrickscorduff.ie/documentlink/81/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stpatrickscorduff.ie/documentlink/68/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stpatrickscorduff.ie/admin/?open=/parents-area/uniform/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stpatrickscorduff.ie/admin/?open=/parents-area/uniform/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stpatrickscorduff.ie/admin/?open=/parents-area/hscl/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stpatrickscorduff.ie/admin/?open=/parents-area/hscl/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stpatrickscorduff.ie/admin/?open=/parents-area/calendar/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stpatrickscorduff.ie/",
+      "label": "School homepage",
+      "via": "home"
+    },
+    {
+      "url": "https://www.stpatrickscorduff.ie/cmsfiles/policies/privacy/",
+      "label": "Website Privacy Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stpatrickscorduff.ie/cmsfiles/policies/cookie/",
+      "label": "Cookie Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 38.19,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:08:06+0000"
+}

@@ -1,0 +1,53 @@
+{
+  "roll": "19437U",
+  "status": "bounded_search_no_new_notice_found",
+  "attempts": [
+    {
+      "url": "https://www.scoilnaithi.com",
+      "final_url": "https://www.scoilnaithi.com",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.scoilnaithi.com/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://www.scoilnaithi.com/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "http_access_denied_403",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://www.scoilnaithi.com/sitemap_index.xml",
+      "final_url": "https://www.scoilnaithi.com/sitemap_index.xml",
+      "status": "http_access_denied_403",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.scoilnaithi.com/comhlucht-naithi/comhlucht",
+      "final_url": "https://www.scoilnaithi.com/comhlucht-naithi/comhlucht",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": "An Comhlucht/Parents Association"
+    },
+    {
+      "url": "https://www.scoilnaithi.com/ar-scoil/polasaithe",
+      "final_url": "https://www.scoilnaithi.com/ar-scoil/polasaithe",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": "Polasaithe/Policies"
+    },
+    {
+      "url": "https://www.scoilnaithi.com/ar-scoil/polasai-claraithe",
+      "final_url": "https://www.scoilnaithi.com/ar-scoil/polasai-claraithe",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": "Polasaí Cláraithe/Enrolment Policy"
+    }
+  ],
+  "documents": [],
+  "pending_links": [],
+  "elapsed_seconds": 6.8,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:54:25+0000"
+}

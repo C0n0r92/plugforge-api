@@ -1,0 +1,304 @@
+{
+  "roll": "13815T",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://howthroadns.ie/admissions-and-enrolment/",
+      "final_url": "https://howthroadns.ie/admissions-and-enrolment/",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://howthroadns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://howthroadns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://howthroadns.ie/wp-content/uploads/2020/10/2021-22-Annual-Admissions-Notice.pdf",
+      "final_url": "https://howthroadns.ie/wp-content/uploads/2020/10/2021-22-Annual-Admissions-Notice.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "2021-22 Annual Admissions Notice"
+    },
+    {
+      "url": "https://howthroadns.ie/wp-content/uploads/2021/07/Admissions-notice-for-2022-23-School-Year.pdf",
+      "final_url": "https://howthroadns.ie/wp-content/uploads/2021/07/Admissions-notice-for-2022-23-School-Year.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions-notice for 2022-23 School Year"
+    },
+    {
+      "url": "https://howthroadns.ie/wp-content/uploads/2022/08/Annual-Admissions-Notice-2023-24.doc.pdf",
+      "final_url": "https://howthroadns.ie/wp-content/uploads/2022/08/Annual-Admissions-Notice-2023-24.doc.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Annual Admissions Notice 2023 &#8211; 24.doc"
+    },
+    {
+      "url": "https://howthroadns.ie/wp-content/uploads/2023/09/Annual-Admission-Notice-2024-25.pdf",
+      "final_url": "https://howthroadns.ie/wp-content/uploads/2023/09/Annual-Admission-Notice-2024-25.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Annual Admission Notice &#8211; 2024 25"
+    },
+    {
+      "url": "https://howthroadns.ie/wp-content/uploads/2025/09/Annual-Admission-Notice-2026-27-1.pdf",
+      "final_url": "https://howthroadns.ie/wp-content/uploads/2025/09/Annual-Admission-Notice-2026-27-1.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Annual Admission Notice 2026 -27 (1)"
+    },
+    {
+      "url": "https://howthroadns.ie/wp-content/uploads/2020/04/Admission-and-Enrolment-Jan-2019.pdf",
+      "final_url": "https://howthroadns.ie/wp-content/uploads/2020/04/Admission-and-Enrolment-Jan-2019.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admission and Enrolment -Jan 2019"
+    },
+    {
+      "url": "https://howthroadns.ie/wp-content/uploads/2020/06/Admissions-2020-final-approved.pdf",
+      "final_url": "https://howthroadns.ie/wp-content/uploads/2020/06/Admissions-2020-final-approved.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions 2020 final approved"
+    },
+    {
+      "url": "https://howthroadns.ie/wp-content/uploads/2022/08/Active-Schools-2022.pdf",
+      "final_url": "https://howthroadns.ie/wp-content/uploads/2022/08/Active-Schools-2022.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://howthroadns.ie/wp-sitemap.xml",
+      "final_url": "https://howthroadns.ie/wp-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://howthroadns.ie/wp-sitemap-users-1.xml",
+      "final_url": "https://howthroadns.ie/wp-sitemap-users-1.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://howthroadns.ie/wp-sitemap-posts-post-1.xml",
+      "final_url": "https://howthroadns.ie/wp-sitemap-posts-post-1.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://howthroadns.ie/2026/09/17/admissions-notice-2026-2027/",
+      "final_url": "https://howthroadns.ie/2026/09/17/admissions-notice-2026-2027/",
+      "status": "ok",
+      "via": "sitemap_link",
+      "label": "Admission URL from sitemap"
+    },
+    {
+      "url": "https://howthroadns.ie/wp-sitemap-posts-page-1.xml",
+      "final_url": "https://howthroadns.ie/wp-sitemap-posts-page-1.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://howthroadns.ie/school-policies-2/",
+      "final_url": "https://howthroadns.ie/school-policies-2/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Policies"
+    },
+    {
+      "url": "https://howthroadns.ie/wp-content/uploads/2026/11/Code-of-Behaviour-2012.doc",
+      "final_url": "https://howthroadns.ie/wp-content/uploads/2026/11/Code-of-Behaviour-2012.doc",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download"
+    },
+    {
+      "url": "https://howthroadns.ie/wp-content/uploads/2026/10/Parental-Complaints-Procedure-2024.pdf",
+      "final_url": "https://howthroadns.ie/wp-content/uploads/2026/10/Parental-Complaints-Procedure-2024.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parental Complaints Procedure 2024"
+    },
+    {
+      "url": "https://howthroadns.ie/wp-content/uploads/2020/04/internetusage.pdf",
+      "final_url": "https://howthroadns.ie/wp-content/uploads/2020/04/internetusage.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Internet Acceptable Usage Policy"
+    },
+    {
+      "url": "https://howthroadns.ie/wp-content/uploads/2020/04/homework.pdf",
+      "final_url": "https://howthroadns.ie/wp-content/uploads/2020/04/homework.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Homework Policy"
+    },
+    {
+      "url": "https://howthroadns.ie/wp-content/uploads/2020/04/firstaid.pdf",
+      "final_url": "https://howthroadns.ie/wp-content/uploads/2020/04/firstaid.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "First Aid Policy"
+    },
+    {
+      "url": "https://howthroadns.ie/wp-content/uploads/2020/04/equality.pdf",
+      "final_url": "https://howthroadns.ie/wp-content/uploads/2020/04/equality.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Gender Equality Policy"
+    },
+    {
+      "url": "https://howthroadns.ie/wp-content/uploads/2020/04/dataprotection.pdf",
+      "final_url": "https://howthroadns.ie/wp-content/uploads/2020/04/dataprotection.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Data Protection and Records Policy"
+    },
+    {
+      "url": "https://howthroadns.ie/wp-content/uploads/2020/04/attendance.pdf",
+      "final_url": "https://howthroadns.ie/wp-content/uploads/2020/04/attendance.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Attendance Policy"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "13815T",
+      "url": "https://howthroadns.ie/admissions-and-enrolment/",
+      "label": "Prior school admissions section",
+      "sha256": "f8aa57499da9500f03db9715174106980bf1bb9c7278a809825e854e4cf7361f",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/13815T_f8aa57499da9500f03db.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 712
+    },
+    {
+      "roll": "13815T",
+      "url": "https://howthroadns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "label": "Oldest public admission media (all dates)",
+      "sha256": "9065b47af27b52b4af826263aea50f974bee9adb44e9f211f4e77fc2c3698903",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/13815T_9065b47af27b52b4af82.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1438
+    },
+    {
+      "roll": "13815T",
+      "url": "https://howthroadns.ie/wp-content/uploads/2020/10/2021-22-Annual-Admissions-Notice.pdf",
+      "label": "2021-22 Annual Admissions Notice",
+      "sha256": "d08bbc5d879b2b29cf1cd431118f1b4ebab1487c6741f29216fa558331a542ca",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/13815T_d08bbc5d879b2b29cf1c.txt",
+      "source_file": "database/milestone2/cache/d08bbc5d879b2b29cf1cd431118f1b4ebab1487c6741f29216fa558331a542ca.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 4593
+    },
+    {
+      "roll": "13815T",
+      "url": "https://howthroadns.ie/wp-content/uploads/2021/07/Admissions-notice-for-2022-23-School-Year.pdf",
+      "label": "Admissions-notice for 2022-23 School Year",
+      "sha256": "e3676342b169d5121d68aef69242f6981c6c3e973b06aab1272cbfa6c7f08be3",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/13815T_e3676342b169d5121d68.txt",
+      "source_file": "database/milestone2/cache/e3676342b169d5121d68aef69242f6981c6c3e973b06aab1272cbfa6c7f08be3.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 4214
+    },
+    {
+      "roll": "13815T",
+      "url": "https://howthroadns.ie/wp-content/uploads/2022/08/Annual-Admissions-Notice-2023-24.doc.pdf",
+      "label": "Annual Admissions Notice 2023 &#8211; 24.doc",
+      "sha256": "9c7471660ce9718ca3499d9034ef02bbf24a2cb49694b5e8fd70b79d3d8198a9",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/13815T_9c7471660ce9718ca349.txt",
+      "source_file": "database/milestone2/cache/9c7471660ce9718ca3499d9034ef02bbf24a2cb49694b5e8fd70b79d3d8198a9.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 4268
+    },
+    {
+      "roll": "13815T",
+      "url": "https://howthroadns.ie/wp-content/uploads/2023/09/Annual-Admission-Notice-2024-25.pdf",
+      "label": "Annual Admission Notice &#8211; 2024 25",
+      "sha256": "c7990f2dca99dd33f1a12ab5418fedd54cb421207ef686b67aaacc89498f944e",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/13815T_c7990f2dca99dd33f1a1.txt",
+      "source_file": "database/milestone2/cache/c7990f2dca99dd33f1a12ab5418fedd54cb421207ef686b67aaacc89498f944e.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 4425
+    },
+    {
+      "roll": "13815T",
+      "url": "https://howthroadns.ie/wp-content/uploads/2025/09/Annual-Admission-Notice-2026-27-1.pdf",
+      "label": "Annual Admission Notice 2026 -27 (1)",
+      "sha256": "e63166b2a7e41e5a00c2d213598dd907dd209aebf646a5a3bbc44f4305336f0d",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/13815T_e63166b2a7e41e5a00c2.txt",
+      "source_file": "database/milestone2/cache/e63166b2a7e41e5a00c2d213598dd907dd209aebf646a5a3bbc44f4305336f0d.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 4434
+    },
+    {
+      "roll": "13815T",
+      "url": "https://howthroadns.ie/wp-content/uploads/2020/06/Admissions-2020-final-approved.pdf",
+      "label": "Admissions 2020 final approved",
+      "sha256": "bc759a88dc0abaa90ec2ada36c83959a7b7f743d1842b78ad9f55c42aa0339b7",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/13815T_bc759a88dc0abaa90ec2.txt",
+      "source_file": "database/milestone2/cache/bc759a88dc0abaa90ec2ada36c83959a7b7f743d1842b78ad9f55c42aa0339b7.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 22813
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://howthroadns.ie/wp-content/uploads/2020/04/assessment.pdf",
+      "label": "Assessment Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://howthroadns.ie/parents-association/",
+      "label": "Parents Association",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://howthroadns.ie",
+      "label": "School homepage",
+      "via": "home"
+    },
+    {
+      "url": "https://howthroadns.ie/wp-content/uploads/2022/10/Intimate-Care-Policy-120922-.pdf",
+      "label": "Intimate Care Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://howthroadns.ie/wp-content/uploads/2023/10/SEN-Policy-hrns-Oct-2023-1.pdf",
+      "label": "SEN Policy 2023",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://howthroadns.ie/wp-content/uploads/2025/10/Bi-Cinealta-Policy-to-Prevent-and-Address-Bullying-Behaviour-Sept-2025.pdf",
+      "label": "Bi Cinealta Policy to Prevent and Address Bullying Behaviour Sept 2025",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://howthroadns.ie/wp-content/uploads/2026/10/Application-form-2027-28.pdf",
+      "label": "",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 83.2,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:49:34+0000"
+}

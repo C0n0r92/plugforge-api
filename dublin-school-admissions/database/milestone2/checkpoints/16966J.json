@@ -1,0 +1,207 @@
+{
+  "roll": "16966J",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.stratfordns.ie/copy-of-admissions",
+      "final_url": "https://www.stratfordns.ie/copy-of-admissions",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Why Choose Stratford NS"
+    },
+    {
+      "url": "https://www.stratfordns.ie/admissions",
+      "final_url": "https://www.stratfordns.ie/admissions",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://www.stratfordns.ie/_files/ugd/984911_ff8787025195451580f876ef4e6ff12c.pdf",
+      "final_url": "https://www.stratfordns.ie/_files/ugd/984911_ff8787025195451580f876ef4e6ff12c.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions Notice"
+    },
+    {
+      "url": "https://www.stratfordns.ie/_files/ugd/984911_2959e99b28f64323804081a9cc22c785.pdf",
+      "final_url": "https://www.stratfordns.ie/_files/ugd/984911_2959e99b28f64323804081a9cc22c785.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions Policy"
+    },
+    {
+      "url": "https://www.stratfordns.ie/sitemap.xml",
+      "final_url": "https://www.stratfordns.ie/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.stratfordns.ie/policies-procedures",
+      "final_url": "https://www.stratfordns.ie/policies-procedures",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies & Procedures"
+    },
+    {
+      "url": "https://www.stratfordns.ie/_files/ugd/984911_e827135b74434486b4d619187a8c4f86.pdf",
+      "final_url": "https://www.stratfordns.ie/_files/ugd/984911_e827135b74434486b4d619187a8c4f86.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Protected Disclosures Policy"
+    },
+    {
+      "url": "https://www.stratfordns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://www.stratfordns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "http_404",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://www.stratfordns.ie/_files/ugd/984911_99237384bc1f460380ab654e69e21d10.pdf",
+      "final_url": "https://www.stratfordns.ie/_files/ugd/984911_99237384bc1f460380ab654e69e21d10.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions Policy"
+    },
+    {
+      "url": "https://www.stratfordns.ie/parents-guardians",
+      "final_url": "https://www.stratfordns.ie/parents-guardians",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents - Guardians"
+    },
+    {
+      "url": "https://www.stratfordns.ie/_files/ugd/984911_bab285b3bfdf4ac3ba32e94fc7a6921c.pdf",
+      "final_url": "https://www.stratfordns.ie/_files/ugd/984911_bab285b3bfdf4ac3ba32e94fc7a6921c.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Understanding Standardised Tests - Information and Supports for Parents_Guardians 2025"
+    },
+    {
+      "url": "https://www.stratfordns.ie/he_he-sitemap.xml",
+      "final_url": "https://www.stratfordns.ie/he_he-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.stratfordns.ie/booking-services-sitemap.xml",
+      "final_url": "https://www.stratfordns.ie/booking-services-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.stratfordns.ie/blog-posts-sitemap.xml",
+      "final_url": "https://www.stratfordns.ie/blog-posts-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.stratfordns.ie/blog-categories-sitemap.xml",
+      "final_url": "https://www.stratfordns.ie/blog-categories-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.stratfordns.ie",
+      "final_url": "https://www.stratfordns.ie",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.stratfordns.ie/_files/ugd/984911_e85c953775bb4a20b26e457b025cbe60.pdf",
+      "final_url": "https://www.stratfordns.ie/_files/ugd/984911_e85c953775bb4a20b26e457b025cbe60.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Communications Policy"
+    },
+    {
+      "url": "https://www.stratfordns.ie/_files/ugd/984911_e3a25e1d7a0b4ba4b07f29faaebf38d2.pdf",
+      "final_url": "https://www.stratfordns.ie/_files/ugd/984911_e3a25e1d7a0b4ba4b07f29faaebf38d2.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Substance Use Policy"
+    },
+    {
+      "url": "https://www.stratfordns.ie/_files/ugd/984911_dc61d88f358d4c50beb44e453687dcae.pdf",
+      "final_url": "https://www.stratfordns.ie/_files/ugd/984911_dc61d88f358d4c50beb44e453687dcae.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Healthy Eating Policy"
+    },
+    {
+      "url": "https://www.stratfordns.ie/_files/ugd/984911_db1b0b9a0bbf40eb9e058fa7fdce02d8.pdf",
+      "final_url": "https://www.stratfordns.ie/_files/ugd/984911_db1b0b9a0bbf40eb9e058fa7fdce02d8.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Mobile Phone Policy"
+    },
+    {
+      "url": "https://www.stratfordns.ie/_files/ugd/984911_c8c22e19b6a54572896e9b7cf010431f.pdf",
+      "final_url": "https://www.stratfordns.ie/_files/ugd/984911_c8c22e19b6a54572896e9b7cf010431f.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "After School Clubs Policy"
+    },
+    {
+      "url": "https://www.stratfordns.ie/_files/ugd/984911_bd768f2d531c4942940adc7752e0fff8.pdf",
+      "final_url": "https://www.stratfordns.ie/_files/ugd/984911_bd768f2d531c4942940adc7752e0fff8.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Critical Incident Policy"
+    },
+    {
+      "url": "https://www.stratfordns.ie/_files/ugd/984911_53fe8ac2814949708a9eca43a55b561d.pdf",
+      "final_url": "https://www.stratfordns.ie/_files/ugd/984911_53fe8ac2814949708a9eca43a55b561d.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Homework Policy"
+    },
+    {
+      "url": "https://www.stratfordns.ie/_files/ugd/984911_39fc921e745c447f9c07a94e12775772.pdf",
+      "final_url": "https://www.stratfordns.ie/_files/ugd/984911_39fc921e745c447f9c07a94e12775772.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Inclusion Policy"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "16966J",
+      "url": "https://www.stratfordns.ie/_files/ugd/984911_99237384bc1f460380ab654e69e21d10.pdf",
+      "label": "Admissions Policy",
+      "sha256": "b98d30d19b4dfbc68b755167c2f0652010433ce397a0b5f3ae9de271ead70818",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/16966J_b98d30d19b4dfbc68b75.txt",
+      "source_file": "database/milestone2/cache/b98d30d19b4dfbc68b755167c2f0652010433ce397a0b5f3ae9de271ead70818.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 29119
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.stratfordns.ie/_files/ugd/984911_3996848c99ab492398ffca6e9c26444d.pdf",
+      "label": "Intimate Care Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stratfordns.ie/_files/ugd/984911_235a9adf89944e558194b7772e14df90.pdf",
+      "label": "Administrations of Medicines Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stratfordns.ie/_files/ugd/984911_20544cd2c4754e4d93b48fbbb50fa8ff.pdf",
+      "label": "Anti-Bullying Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 67.04,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:51:29+0000"
+}

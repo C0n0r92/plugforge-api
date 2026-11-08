@@ -1,0 +1,93 @@
+{
+  "roll": "20194E",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://stjohntheevangelistnationalschool.com/annual-admission-notice",
+      "final_url": "https://stjohntheevangelistnationalschool.com/annual-admission-notice",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Annual Admission Notice"
+    },
+    {
+      "url": "https://stjohntheevangelistnationalschool.com/sitemap.xml",
+      "final_url": "https://stjohntheevangelistnationalschool.com/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://stjohntheevangelistnationalschool.com/sitemap.website.xml",
+      "final_url": "https://stjohntheevangelistnationalschool.com/sitemap.website.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://stjohntheevangelistnationalschool.com/sitemap.ols.xml",
+      "final_url": "https://stjohntheevangelistnationalschool.com/sitemap.ols.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://stjohntheevangelistnationalschool.com/sitemap.blog.xml",
+      "final_url": "https://stjohntheevangelistnationalschool.com/sitemap.blog.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://stjohntheevangelistnationalschool.com/parents-information",
+      "final_url": "https://stjohntheevangelistnationalschool.com/parents-information",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parent's Information"
+    },
+    {
+      "url": "https://stjohntheevangelistnationalschool.com/",
+      "final_url": "https://stjohntheevangelistnationalschool.com/",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://stjohntheevangelistnationalschool.com/privacy-policy",
+      "final_url": "https://stjohntheevangelistnationalschool.com/privacy-policy",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Privacy Policy"
+    },
+    {
+      "url": "https://stjohntheevangelistnationalschool.com/policy-documents",
+      "final_url": "https://stjohntheevangelistnationalschool.com/policy-documents",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policy Documents"
+    },
+    {
+      "url": "https://img1.wsimg.com/blobby/go/cd7ab460-57cd-4eb8-8db0-21b931f58628/downloads/9500da65-a3e5-41c4-8147-e136d62cc3ee/Admissions%20Policy%202027-28.pdf?ver=1792488823538",
+      "final_url": "https://img1.wsimg.com/blobby/go/cd7ab460-57cd-4eb8-8db0-21b931f58628/downloads/9500da65-a3e5-41c4-8147-e136d62cc3ee/Admissions%20Policy%202027-28.pdf?ver=1792488823538",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "20194E",
+      "url": "https://stjohntheevangelistnationalschool.com/annual-admission-notice",
+      "label": "Annual Admission Notice",
+      "sha256": "4bf32d64163479caad648d9c19e3e609757c99c4e02b7f642ee23b3e78f2397e",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20194E_4bf32d64163479caad64.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 706
+    }
+  ],
+  "pending_links": [],
+  "elapsed_seconds": 25.17,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:47:10+0000"
+}

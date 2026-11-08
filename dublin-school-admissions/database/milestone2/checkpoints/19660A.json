@@ -1,0 +1,370 @@
+{
+  "roll": "19660A",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://rushnationalschool.ie?s=admission",
+      "final_url": "https://rushnationalschool.ie?s=admission",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Public site search form"
+    },
+    {
+      "url": "https://rushnationalschool.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://rushnationalschool.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://rushnationalschool.ie/wp-content/uploads/2016/10/Enrolment-Parish-Admission-Policy-for-Rush-Parish.docx",
+      "final_url": "https://rushnationalschool.ie/wp-content/uploads/2016/10/Enrolment-Parish-Admission-Policy-for-Rush-Parish.docx",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Enrolment Parish Admission Policy for Rush Parish"
+    },
+    {
+      "url": "https://rushnationalschool.ie/wp-content/uploads/2019/03/Junior-Infant-Admission-Policy-for-Rush-Parish-2018-update.pdf",
+      "final_url": "https://rushnationalschool.ie/wp-content/uploads/2019/03/Junior-Infant-Admission-Policy-for-Rush-Parish-2018-update.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Junior Infant Admission Policy for Rush Parish 2018 update"
+    },
+    {
+      "url": "https://rushnationalschool.ie/wp-content/uploads/2018/12/Parish-Admission-Policy-for-Rush-Parish.pdf",
+      "final_url": "https://rushnationalschool.ie/wp-content/uploads/2018/12/Parish-Admission-Policy-for-Rush-Parish.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Parish Admission Policy for Rush Parish"
+    },
+    {
+      "url": "https://rushnationalschool.ie/wp-content/uploads/2018/01/Enrolment-Parish-Admission-Policy-for-Rush-Parish.docx",
+      "final_url": "https://rushnationalschool.ie/wp-content/uploads/2018/01/Enrolment-Parish-Admission-Policy-for-Rush-Parish.docx",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Enrolment Parish Admission Policy for Rush Parish"
+    },
+    {
+      "url": "https://rushnationalschool.ie/wp-content/uploads/2020/12/Admission-Policy.pdf",
+      "final_url": "https://rushnationalschool.ie/wp-content/uploads/2020/12/Admission-Policy.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admission Policy"
+    },
+    {
+      "url": "https://rushnationalschool.ie/wp-content/uploads/2020/11/pdf-Admissions-Policy-Rush-National-School-2020-2.pdf",
+      "final_url": "https://rushnationalschool.ie/wp-content/uploads/2020/11/pdf-Admissions-Policy-Rush-National-School-2020-2.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "pdf Admissions-Policy-Rush-National-School-2020 (2)"
+    },
+    {
+      "url": "https://rushnationalschool.ie/wp-content/uploads/2020/11/Application-Form-for-Admission.pdf",
+      "final_url": "https://rushnationalschool.ie/wp-content/uploads/2020/11/Application-Form-for-Admission.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Application Form for Admission"
+    },
+    {
+      "url": "https://rushnationalschool.ie/wp-content/uploads/2020/11/Admissions-Policy-Rush-National-School-2020.docx",
+      "final_url": "https://rushnationalschool.ie/wp-content/uploads/2020/11/Admissions-Policy-Rush-National-School-2020.docx",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://rushnationalschool.ie/wp-content/uploads/2020/10/Admissions-Policy-Rush-National-School-2020-1.pdf",
+      "final_url": "https://rushnationalschool.ie/wp-content/uploads/2020/10/Admissions-Policy-Rush-National-School-2020-1.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Policy, Rush National School 2020 (1)"
+    },
+    {
+      "url": "https://rushnationalschool.ie/admission/",
+      "final_url": "https://rushnationalschool.ie/admission/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admission"
+    },
+    {
+      "url": "https://rushnationalschool.ie/wp-content/uploads/2021/12/Application-Form-for-Admission.pdf",
+      "final_url": "https://rushnationalschool.ie/wp-content/uploads/2021/12/Application-Form-for-Admission.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Application Form for Admission"
+    },
+    {
+      "url": "https://rushnationalschool.ie/wp-content/uploads/2021/02/Application-Form-for-Admission.pdf",
+      "final_url": "https://rushnationalschool.ie/wp-content/uploads/2021/02/Application-Form-for-Admission.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Application-Form-for-Admission"
+    },
+    {
+      "url": "https://rushnationalschool.ie/wp-content/uploads/2021/02/Application-Form-for-Admission-2.pdf",
+      "final_url": "https://rushnationalschool.ie/wp-content/uploads/2021/02/Application-Form-for-Admission-2.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Application-Form-for-Admission"
+    },
+    {
+      "url": "https://rushnationalschool.ie/wp-content/uploads/2021/02/Application-Form-for-Admission-1.pdf",
+      "final_url": "https://rushnationalschool.ie/wp-content/uploads/2021/02/Application-Form-for-Admission-1.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Application-Form-for-Admission"
+    },
+    {
+      "url": "https://rushnationalschool.ie/wp-content/uploads/2021/02/Admission-Policy.pdf",
+      "final_url": "https://rushnationalschool.ie/wp-content/uploads/2021/02/Admission-Policy.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admission-Policy"
+    },
+    {
+      "url": "https://rushnationalschool.ie/wp-content/uploads/2021/02/Admission-Policy-1.pdf",
+      "final_url": "https://rushnationalschool.ie/wp-content/uploads/2021/02/Admission-Policy-1.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admission Policy"
+    },
+    {
+      "url": "https://rushnationalschool.ie/wp-content/uploads/2022/11/Application-Form-for-Admission-1.pdf",
+      "final_url": "https://rushnationalschool.ie/wp-content/uploads/2022/11/Application-Form-for-Admission-1.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Application Form for Admission (1)"
+    },
+    {
+      "url": "https://rushnationalschool.ie/wp-content/uploads/2022/11/Admission-Policy.pdf",
+      "final_url": "https://rushnationalschool.ie/wp-content/uploads/2022/11/Admission-Policy.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admission Policy"
+    },
+    {
+      "url": "https://rushnationalschool.ie/wp-content/uploads/2022/01/Application-Form-for-Admission.pdf",
+      "final_url": "https://rushnationalschool.ie/wp-content/uploads/2022/01/Application-Form-for-Admission.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Application Form for Admission"
+    },
+    {
+      "url": "https://rushnationalschool.ie/wp-content/uploads/2023/01/Admission-Policy-1.pdf",
+      "final_url": "https://rushnationalschool.ie/wp-content/uploads/2023/01/Admission-Policy-1.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admission Policy (1)"
+    },
+    {
+      "url": "https://rushnationalschool.ie/sitemap.xml",
+      "final_url": "https://rushnationalschool.ie/sitemap_index.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://rushnationalschool.ie/school-policies/",
+      "final_url": "https://rushnationalschool.ie/school-policies/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Policies"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19660A",
+      "url": "https://rushnationalschool.ie?s=admission",
+      "label": "Public site search form",
+      "sha256": "f0f1ac0619cc7c1920f89ffe30fb812b1c2454230af90741317f1d9dbff02d5b",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19660A_f0f1ac0619cc7c1920f8.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 292
+    },
+    {
+      "roll": "19660A",
+      "url": "https://rushnationalschool.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "label": "Oldest public admission media (all dates)",
+      "sha256": "759f45bdf8648a30404f765a803693e06083ff3a9a9a298c294df471f3acafc6",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19660A_759f45bdf8648a30404f.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 5527
+    },
+    {
+      "roll": "19660A",
+      "url": "https://rushnationalschool.ie/wp-content/uploads/2020/12/Admission-Policy.pdf",
+      "label": "Admission Policy",
+      "sha256": "7e4f124e9601147cae246f3189aeed2b1be1488d95ced347c12af72e1ec9a929",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19660A_7e4f124e9601147cae24.txt",
+      "source_file": "database/milestone2/cache/7e4f124e9601147cae246f3189aeed2b1be1488d95ced347c12af72e1ec9a929.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 25060
+    },
+    {
+      "roll": "19660A",
+      "url": "https://rushnationalschool.ie/wp-content/uploads/2020/11/pdf-Admissions-Policy-Rush-National-School-2020-2.pdf",
+      "label": "pdf Admissions-Policy-Rush-National-School-2020 (2)",
+      "sha256": "7eb08e8ee8d677cdc42e0e92ee0333d478fe52c9efee541f336e730c46a57bd6",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19660A_7eb08e8ee8d677cdc42e.txt",
+      "source_file": "database/milestone2/cache/7eb08e8ee8d677cdc42e0e92ee0333d478fe52c9efee541f336e730c46a57bd6.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 25039
+    },
+    {
+      "roll": "19660A",
+      "url": "https://rushnationalschool.ie/wp-content/uploads/2020/11/Admissions-Policy-Rush-National-School-2020.docx",
+      "label": "Prior school admissions section",
+      "sha256": "c60399c240324ae56e53dd7c509fe6b5c068c81d4428bd83638c7411076672aa",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/19660A_c60399c240324ae56e53.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 23991
+    },
+    {
+      "roll": "19660A",
+      "url": "https://rushnationalschool.ie/wp-content/uploads/2020/10/Admissions-Policy-Rush-National-School-2020-1.pdf",
+      "label": "Admissions Policy, Rush National School 2020 (1)",
+      "sha256": "07c157a9258d5c140f635e49e8c8bac466ab33f5c0159672842d16c2568f421d",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19660A_07c157a9258d5c140f63.txt",
+      "source_file": "database/milestone2/cache/07c157a9258d5c140f635e49e8c8bac466ab33f5c0159672842d16c2568f421d.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 25129
+    },
+    {
+      "roll": "19660A",
+      "url": "https://rushnationalschool.ie/admission/",
+      "label": "Admission",
+      "sha256": "e2ba452ea55fdb2648c2e1536a6498c3c6b4dbac71b3be8cd0875cd6deee11bd",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19660A_e2ba452ea55fdb2648c2.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 292
+    },
+    {
+      "roll": "19660A",
+      "url": "https://rushnationalschool.ie/wp-content/uploads/2022/11/Admission-Policy.pdf",
+      "label": "Admission Policy",
+      "sha256": "782d66e93c5c972b8fa9ef08234f4e37e214190ae8edfbc2ecdbbc2d9ad46c51",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19660A_782d66e93c5c972b8fa9.txt",
+      "source_file": "database/milestone2/cache/782d66e93c5c972b8fa9ef08234f4e37e214190ae8edfbc2ecdbbc2d9ad46c51.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 25060
+    },
+    {
+      "roll": "19660A",
+      "url": "https://rushnationalschool.ie/wp-content/uploads/2023/01/Admission-Policy-1.pdf",
+      "label": "Admission Policy (1)",
+      "sha256": "d8095afd9cf887cc5fb2c7c291f611650f64e2320487ddf3f7cfcb8dbfab8fd4",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19660A_d8095afd9cf887cc5fb2.txt",
+      "source_file": "database/milestone2/cache/d8095afd9cf887cc5fb2c7c291f611650f64e2320487ddf3f7cfcb8dbfab8fd4.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 25628
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://rushnationalschool.ie/wp-content/uploads/2024/02/Anti-Bullying-Policy-Annual-Review-1.pdf",
+      "label": "Anti-Bullying Policy Annual Review",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://rushnationalschool.ie/post-sitemap.xml",
+      "label": "Public sitemap index child",
+      "via": "sitemap_child"
+    },
+    {
+      "url": "https://rushnationalschool.ie/policies/",
+      "label": "Documents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://rushnationalschool.ie/parents/",
+      "label": "Useful websites",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://rushnationalschool.ie/parents-2/",
+      "label": "Parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://rushnationalschool.ie/page-sitemap.xml",
+      "label": "Public sitemap index child",
+      "via": "sitemap_child"
+    },
+    {
+      "url": "https://rushnationalschool.ie/documents/",
+      "label": "B.O.M. End of Year Reports",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://rushnationalschool.ie/attachment-sitemap.xml",
+      "label": "Public sitemap index child",
+      "via": "sitemap_child"
+    },
+    {
+      "url": "https://rushnationalschool.ie",
+      "label": "School homepage",
+      "via": "home"
+    },
+    {
+      "url": "https://rushnationalschool.ie/wp-content/uploads/2026/02/Code-of-Behaviour-Policy-2024.pdf",
+      "label": "Code of Behaviour Policy 2024",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://rushnationalschool.ie/wp-content/uploads/2026/10/Social-Personal-and-Health-Education-Policy-reviewed-2026.pdf",
+      "label": "Social Personal and Health Education Policy reviewed 2026",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://rushnationalschool.ie/wp-content/uploads/2026/10/Relationship-and-Sexuality-Education-Policy.pdf",
+      "label": "Relationship and Sexuality Education Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://rushnationalschool.ie/wp-content/uploads/2026/10/Internet-Acceptable-Use-Policy.pdf",
+      "label": "Internet Acceptable Use Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://rushnationalschool.ie/wp-content/uploads/2026/10/Health-and-Safety-Policy-2026.pdf",
+      "label": "Health and Safety Policy 2026",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://rushnationalschool.ie/wp-content/uploads/2026/10/Bi-Cinealta-Policy.pdf",
+      "label": "Bí Cineálta Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://rushnationalschool.ie/wp-content/uploads/2026/02/Homework-Policy.pdf",
+      "label": "Homework Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://rushnationalschool.ie/wp-content/uploads/2026/02/Data-Protection-Policy.pdf",
+      "label": "Data Protection Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://rushnationalschool.ie/wp-content/uploads/2026/02/Critical-Incident-Management-Policy.pdf",
+      "label": "Critical Incident Management Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 113.75,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:33:20+0000"
+}

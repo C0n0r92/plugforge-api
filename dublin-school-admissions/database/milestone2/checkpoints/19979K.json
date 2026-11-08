@@ -1,0 +1,196 @@
+{
+  "roll": "19979K",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.stkevinsns.net",
+      "final_url": "https://www.stkevinsns.net",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.stkevinsns.net/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://www.stkevinsns.net/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://www.stkevinsns.net/wp-content/uploads/2020/04/Draft-Annual-Admissions-Notice_st_kevins_19979k_2021_2022.pdf",
+      "final_url": "https://www.stkevinsns.net/wp-content/uploads/2020/04/Draft-Annual-Admissions-Notice_st_kevins_19979k_2021_2022.pdf",
+      "status": "http_404",
+      "via": "public_wordpress_media_link",
+      "label": "Draft Annual Admissions Notice_st_kevins_19979k_2021_2022"
+    },
+    {
+      "url": "https://www.stkevinsns.net/wp-content/uploads/2021/09/Admissions-Policy_st_kevins_19979K_2021_2022.pdf",
+      "final_url": "https://www.stkevinsns.net/wp-content/uploads/2021/09/Admissions-Policy_st_kevins_19979K_2021_2022.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Policy_st_kevins_19979K_2021_2022"
+    },
+    {
+      "url": "https://www.stkevinsns.net/wp-content/uploads/2020/10/Admissions-Policy_st_kevins_19979K_2021_2022.pdf",
+      "final_url": "https://www.stkevinsns.net/wp-content/uploads/2020/10/Admissions-Policy_st_kevins_19979K_2021_2022.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Policy_st_kevins_19979K_2021_2022"
+    },
+    {
+      "url": "https://www.stkevinsns.net/wp-content/uploads/2020/04/Draft-Admissions-Policy_st_kevins_19979K.pdf",
+      "final_url": "https://www.stkevinsns.net/wp-content/uploads/2020/04/Draft-Admissions-Policy_st_kevins_19979K.pdf",
+      "status": "http_404",
+      "via": "public_wordpress_media_link",
+      "label": "Draft Admissions Policy_st_kevins_19979K"
+    },
+    {
+      "url": "https://www.stkevinsns.net/wp-content/uploads/2020/04/Draft-Admissions-Policy_st_kevins_19979K.docx",
+      "final_url": "https://www.stkevinsns.net/wp-content/uploads/2020/04/Draft-Admissions-Policy_st_kevins_19979K.docx",
+      "status": "http_404",
+      "via": "public_wordpress_media_link",
+      "label": "Draft Admissions Policy_st_kevins_19979K"
+    },
+    {
+      "url": "https://www.stkevinsns.net/wp-content/uploads/2013/09/stkevinsns_enrolment_admission_policy_2017_2018.pdf",
+      "final_url": "https://www.stkevinsns.net/wp-content/uploads/2013/09/stkevinsns_enrolment_admission_policy_2017_2018.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "stkevinsns_enrolment_admission_policy_2017_2018"
+    },
+    {
+      "url": "https://www.stkevinsns.net/wp-content/uploads/2013/09/stkevinsns_enrolment_admission_policy.pdf",
+      "final_url": "https://www.stkevinsns.net/wp-content/uploads/2013/09/stkevinsns_enrolment_admission_policy.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "stkevinsns_enrolment_admission_policy"
+    },
+    {
+      "url": "https://www.stkevinsns.net/wp-content/uploads/2019/10/stkevinsns_enrolment_admission_policy_19_20.pdf",
+      "final_url": "https://www.stkevinsns.net/wp-content/uploads/2019/10/stkevinsns_enrolment_admission_policy_19_20.pdf",
+      "status": "http_404",
+      "via": "public_wordpress_media_link",
+      "label": "stkevinsns_enrolment_admission_policy_19_20"
+    },
+    {
+      "url": "https://www.stkevinsns.net/wp-content/uploads/2022/09/stkevinsns_enrolment_admission_policy_22_23.pdf",
+      "final_url": "https://www.stkevinsns.net/wp-content/uploads/2022/09/stkevinsns_enrolment_admission_policy_22_23.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "stkevinsns_enrolment_admission_policy_22_23"
+    },
+    {
+      "url": "https://www.stkevinsns.net/sitemap.xml",
+      "final_url": "https://www.stkevinsns.net/sitemap_index.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.stkevinsns.net/post-sitemap.xml",
+      "final_url": "https://www.stkevinsns.net/post-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.stkevinsns.net/policies/",
+      "final_url": "https://www.stkevinsns.net/policies/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies & Reports"
+    },
+    {
+      "url": "https://www.stkevinsns.net/parents-association/",
+      "final_url": "https://www.stkevinsns.net/parents-association/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents’ Association"
+    },
+    {
+      "url": "https://www.stkevinsns.net/wp-content/uploads/2013/11/About-the-Parents-Association.pdf",
+      "final_url": "https://www.stkevinsns.net/wp-content/uploads/2013/11/About-the-Parents-Association.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "About the Parents' Association"
+    },
+    {
+      "url": "https://www.stkevinsns.net/page-sitemap.xml",
+      "final_url": "https://www.stkevinsns.net/page-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.stkevinsns.net/wp-content/uploads/2022/09/stkevinsns_health_andsafety_policy_2022_2023.pdf",
+      "final_url": "https://www.stkevinsns.net/wp-content/uploads/2022/09/stkevinsns_health_andsafety_policy_2022_2023.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "St. Kevin's Health and Safety Policy 2022/2023"
+    },
+    {
+      "url": "https://www.stkevinsns.net/wp-content/uploads/2022/09/stkevinsns_code_of_behaviour_conduct_discipline_policy_2022_2023.pdf",
+      "final_url": "https://www.stkevinsns.net/wp-content/uploads/2022/09/stkevinsns_code_of_behaviour_conduct_discipline_policy_2022_2023.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "St. Kevin's Code of Behaviour 2022/2023"
+    },
+    {
+      "url": "https://www.stkevinsns.net/wp-content/uploads/2022/09/stkevinsns_child_protection_policy_2022_2023.pdf",
+      "final_url": "https://www.stkevinsns.net/wp-content/uploads/2022/09/stkevinsns_child_protection_policy_2022_2023.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "St. Kevin's Child Protection Policy 2022/2023"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19979K",
+      "url": "https://www.stkevinsns.net/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "label": "Oldest public admission media (all dates)",
+      "sha256": "dacb57d61f0b7858bf0c4e7d2c0c96608eb1af3ddf03f4b3e9ab5a95dc1d39d2",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19979K_dacb57d61f0b7858bf0c.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1920
+    },
+    {
+      "roll": "19979K",
+      "url": "https://www.stkevinsns.net/wp-content/uploads/2021/09/Admissions-Policy_st_kevins_19979K_2021_2022.pdf",
+      "label": "Admissions Policy_st_kevins_19979K_2021_2022",
+      "sha256": "531ee5841001bcd0d2c4edaa8e078117448fa76ac28dbe3c2e1db9bac0bc3cf7",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19979K_531ee5841001bcd0d2c4.txt",
+      "source_file": "database/milestone2/cache/531ee5841001bcd0d2c4edaa8e078117448fa76ac28dbe3c2e1db9bac0bc3cf7.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 36705
+    },
+    {
+      "roll": "19979K",
+      "url": "https://www.stkevinsns.net/wp-content/uploads/2020/10/Admissions-Policy_st_kevins_19979K_2021_2022.pdf",
+      "label": "Admissions Policy_st_kevins_19979K_2021_2022",
+      "sha256": "6efe817fc00c862463d7d3fcc9f7bb9dcea8ecd4ec1daf4891f488d405958191",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19979K_6efe817fc00c862463d7.txt",
+      "source_file": "database/milestone2/cache/6efe817fc00c862463d7d3fcc9f7bb9dcea8ecd4ec1daf4891f488d405958191.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 36705
+    },
+    {
+      "roll": "19979K",
+      "url": "https://www.stkevinsns.net/policies/",
+      "label": "Policies & Reports",
+      "sha256": "3e68ea7b35cbf560b1bf2ac44bf7ed197e956b92b2adc3517272d33edfb302b2",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19979K_3e68ea7b35cbf560b1bf.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1511
+    }
+  ],
+  "pending_links": [],
+  "elapsed_seconds": 83.4,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:44:10+0000"
+}

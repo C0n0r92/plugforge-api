@@ -1,0 +1,30 @@
+{
+  "task_id": "b1eb5ad41e683fb5b1b437aa43371a00",
+  "roll": "00697S",
+  "capture": {
+    "digest": "55ZHEUXHKCECFTLVWN7QFV6K5NGUG3OW",
+    "mimetype": "text/html",
+    "original": "https://m.saintbrigids.ie/noticeboard/i/28053/annual-admissions-notice",
+    "statuscode": "200",
+    "timestamp": "20220124063650"
+  },
+  "original_url": "https://m.saintbrigids.ie/noticeboard/i/28053/annual-admissions-notice",
+  "archived_url": "https://web.archive.org/web/20220124063650/https://m.saintbrigids.ie/noticeboard/i/28053/annual-admissions-notice",
+  "attempted_at": "2026-11-08T12:32:37.049893+00:00",
+  "http_status": 200,
+  "headers": {
+    "Content-Type": "text/html; charset=utf-8",
+    "memento-datetime": "Mon, 24 Jan 2022 06:36:50 GMT"
+  },
+  "payload_sha256": "cfaeaba0b8fa193192c9bbffb374e050384cc33fb57f7a7db2471ea4fcc5d4bd",
+  "bytes": 126950,
+  "format": "html",
+  "archive_link_candidates": [
+    {
+      "url": "/web/20220124063650/https://m.saintbrigids.ie/noticeboard",
+      "label": "The Noticeboard"
+    }
+  ],
+  "status": "archived_body_retrieved_requires_notice_evidence_review",
+  "text_file": "database/milestone2/evidence/archive_00697S_cfaeaba0b8fa193192c9.txt"
+}

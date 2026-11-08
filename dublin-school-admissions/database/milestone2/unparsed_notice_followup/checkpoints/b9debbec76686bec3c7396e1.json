@@ -1,0 +1,36 @@
+{
+  "roll": "19605P",
+  "url": "https://www.scoilmhuirejunior.ie/wp-content/uploads/2023/10/Admissions-Notice-24_25.pdf",
+  "prior_sha256": "5365a909d2ca17d1d3903275372ffa333b1c5c7139498e04b20ca8e9f1153d9b",
+  "prior_status": "ok",
+  "prior_attempted_at": "2026-11-08T12:46:06+0000",
+  "started_at": "2026-11-08T13:29:47+0000",
+  "method": "recheck_prior_success_unparsed_notice_with_actual_OCR_if_needed",
+  "documents": [
+    {
+      "roll": "19605P",
+      "url": "https://www.scoilmhuirejunior.ie/wp-content/uploads/2023/10/Admissions-Notice-24_25.pdf",
+      "sha256": "5365a909d2ca17d1d3903275372ffa333b1c5c7139498e04b20ca8e9f1153d9b",
+      "format": "pdf",
+      "source_file": "database/milestone2/unparsed_notice_followup/cache/5365a909d2ca17d1d3903275372ffa333b1c5c7139498e04b20ca8e9f1153d9b.pdf",
+      "text_file": "database/milestone2/unparsed_notice_followup/evidence/19605P_5365a909d2ca17d1d390.txt",
+      "candidate_status": "actual_body_requires_manual_review",
+      "ocr": false,
+      "retrieved_at": "2026-11-08T13:29:47+0000"
+    }
+  ],
+  "attempts": [
+    {
+      "url": "https://www.scoilmhuirejunior.ie/wp-content/uploads/2023/10/Admissions-Notice-24_25.pdf",
+      "final_url": "https://www.scoilmhuirejunior.ie/wp-content/uploads/2023/10/Admissions-Notice-24_25.pdf",
+      "status": "ok"
+    }
+  ],
+  "status": "body_retrieved_requires_manual_review",
+  "sha256": "5365a909d2ca17d1d3903275372ffa333b1c5c7139498e04b20ca8e9f1153d9b",
+  "same_payload_as_prior_success": true,
+  "format": "pdf",
+  "parse_stderr": "",
+  "text_length": 1542,
+  "elapsed_seconds": 0.58
+}

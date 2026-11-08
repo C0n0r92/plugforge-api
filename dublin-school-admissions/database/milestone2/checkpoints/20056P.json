@@ -1,0 +1,158 @@
+{
+  "roll": "20056P",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://gaelscoilphadraig.ie/claruchan-enrolment/",
+      "final_url": "https://gaelscoilphadraig.ie/claruchan-enrolment/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Clárúchán / Enrolment"
+    },
+    {
+      "url": "https://gaelscoilphadraig.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://gaelscoilphadraig.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://gaelscoilphadraig.ie/wp-content/uploads/2020/06/Admissions-Policy-2021-2022.pdf",
+      "final_url": "https://gaelscoilphadraig.ie/wp-content/uploads/2020/06/Admissions-Policy-2021-2022.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Policy 2021-2022"
+    },
+    {
+      "url": "https://gaelscoilphadraig.ie/1684-2/",
+      "final_url": "https://gaelscoilphadraig.ie/1684-2/",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://gaelscoilphadraig.ie/wp-content/uploads/2024/09/Polasai-Iontrala-GaeilgeBearla-PDF.pdf",
+      "final_url": "https://gaelscoilphadraig.ie/wp-content/uploads/2024/09/Polasai-Iontrala-GaeilgeBearla-PDF.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Polasaí Iontrála/ Admissions Policy"
+    },
+    {
+      "url": "https://gaelscoilphadraig.ie/wp-content/uploads/2024/04/Polasai-Iontrala-Admissions-Policy.pdf",
+      "final_url": "https://gaelscoilphadraig.ie/wp-content/uploads/2024/04/Polasai-Iontrala-Admissions-Policy.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Polasaí Iontrála: Admissions Policy"
+    },
+    {
+      "url": "https://gaelscoilphadraig.ie/tuismitheoiri-parents/",
+      "final_url": "https://gaelscoilphadraig.ie/tuismitheoiri-parents/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Tuismitheoirí / Parents"
+    },
+    {
+      "url": "https://gaelscoilphadraig.ie/sitemap_index.xml",
+      "final_url": "https://gaelscoilphadraig.ie/sitemap_index.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://gaelscoilphadraig.ie/post-sitemap.xml",
+      "final_url": "https://gaelscoilphadraig.ie/post-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://gaelscoilphadraig.ie/polaisithe-policies/",
+      "final_url": "https://gaelscoilphadraig.ie/polaisithe-policies/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Polaisithe / Policies"
+    },
+    {
+      "url": "https://gaelscoilphadraig.ie/page-sitemap.xml",
+      "final_url": "https://gaelscoilphadraig.ie/page-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://gaelscoilphadraig.ie/coiste-na-dtuisti-parents-committee/",
+      "final_url": "https://gaelscoilphadraig.ie/coiste-na-dtuisti-parents-committee/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Coiste na dTuistí / Parents Committee"
+    },
+    {
+      "url": "https://gaelscoilphadraig.ie/",
+      "final_url": "https://gaelscoilphadraig.ie/",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "20056P",
+      "url": "https://gaelscoilphadraig.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "label": "Oldest public admission media (all dates)",
+      "sha256": "cd7b930a9932127e254129957d630a80d195fcfafa47be15e318e849d73638b1",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20056P_cd7b930a9932127e2541.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 572
+    },
+    {
+      "roll": "20056P",
+      "url": "https://gaelscoilphadraig.ie/wp-content/uploads/2020/06/Admissions-Policy-2021-2022.pdf",
+      "label": "Admissions Policy 2021-2022",
+      "sha256": "8f6641fa1790ad37901ece765a3a4cee39b69be7cc6990b135e35fd911314d00",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20056P_8f6641fa1790ad37901e.txt",
+      "source_file": "database/milestone2/cache/8f6641fa1790ad37901ece765a3a4cee39b69be7cc6990b135e35fd911314d00.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 20680
+    },
+    {
+      "roll": "20056P",
+      "url": "https://gaelscoilphadraig.ie/1684-2/",
+      "label": "Prior school admissions section",
+      "sha256": "e136075cce76e3a622b7df224573f1b8139b570eab7b5199ee6c9ea0ea8b8f9f",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20056P_e136075cce76e3a622b7.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 151
+    },
+    {
+      "roll": "20056P",
+      "url": "https://gaelscoilphadraig.ie/wp-content/uploads/2024/09/Polasai-Iontrala-GaeilgeBearla-PDF.pdf",
+      "label": "Polasaí Iontrála/ Admissions Policy",
+      "sha256": "0f257e6c39e02008a232766d75a3076ad53b58e6b0439c1c24c71ba5836d2e3b",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20056P_0f257e6c39e02008a232.txt",
+      "source_file": "database/milestone2/cache/0f257e6c39e02008a232766d75a3076ad53b58e6b0439c1c24c71ba5836d2e3b.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 49250
+    },
+    {
+      "roll": "20056P",
+      "url": "https://gaelscoilphadraig.ie/wp-content/uploads/2024/04/Polasai-Iontrala-Admissions-Policy.pdf",
+      "label": "Polasaí Iontrála: Admissions Policy",
+      "sha256": "de563735f63acd8daa720fa39977fda2cc4329519519deb7d9533046c012c339",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20056P_de563735f63acd8daa72.txt",
+      "source_file": "database/milestone2/cache/de563735f63acd8daa720fa39977fda2cc4329519519deb7d9533046c012c339.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 44462
+    }
+  ],
+  "pending_links": [],
+  "elapsed_seconds": 80.36,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:35:19+0000"
+}

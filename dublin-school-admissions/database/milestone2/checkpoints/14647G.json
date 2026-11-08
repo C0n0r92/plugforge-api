@@ -1,0 +1,160 @@
+{
+  "roll": "14647G",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.stpatricksnsdalkey.ie/admissions.html",
+      "final_url": "https://www.stpatricksnsdalkey.ie/admissions.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://www.stpatricksnsdalkey.ie/uploads/4/5/5/5/45552587/website_privacy_statement_2018_-_copy.pdf",
+      "final_url": "https://www.stpatricksnsdalkey.ie/uploads/4/5/5/5/45552587/website_privacy_statement_2018_-_copy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: Website Privacy Statement"
+    },
+    {
+      "url": "https://www.stpatricksnsdalkey.ie/uploads/4/5/5/5/45552587/admissions_policy.pdf",
+      "final_url": "https://www.stpatricksnsdalkey.ie/uploads/4/5/5/5/45552587/admissions_policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: Admissions Policy"
+    },
+    {
+      "url": "https://www.stpatricksnsdalkey.ie/sitemap.xml",
+      "final_url": "https://www.stpatricksnsdalkey.ie/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.stpatricksnsdalkey.ie/school-policies.html",
+      "final_url": "https://www.stpatricksnsdalkey.ie/school-policies.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Policies"
+    },
+    {
+      "url": "https://www.stpatricksnsdalkey.ie/uploads/4/5/5/5/45552587/child_safeguarding_statement_2025.pdf",
+      "final_url": "https://www.stpatricksnsdalkey.ie/uploads/4/5/5/5/45552587/child_safeguarding_statement_2025.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: Child Safeguarding Statement 2025"
+    },
+    {
+      "url": "https://www.stpatricksnsdalkey.ie/uploads/4/5/5/5/45552587/administration_of_medicines_2025.pdf",
+      "final_url": "https://www.stpatricksnsdalkey.ie/uploads/4/5/5/5/45552587/administration_of_medicines_2025.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: Administration of Medicines 2025"
+    },
+    {
+      "url": "https://www.stpatricksnsdalkey.ie/uploads/4/5/5/5/45552587/communication_procedures_2627.pdf",
+      "final_url": "https://www.stpatricksnsdalkey.ie/uploads/4/5/5/5/45552587/communication_procedures_2627.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: Communication Procedures 2026/2027"
+    },
+    {
+      "url": "https://www.stpatricksnsdalkey.ie/uploads/4/5/5/5/45552587/parental_complaints_procedure.pdf",
+      "final_url": "https://www.stpatricksnsdalkey.ie/uploads/4/5/5/5/45552587/parental_complaints_procedure.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: Parental Complaints Procedure"
+    },
+    {
+      "url": "https://www.stpatricksnsdalkey.ie/uploads/4/5/5/5/45552587/mission_statement_and_ethos.pdf",
+      "final_url": "https://www.stpatricksnsdalkey.ie/uploads/4/5/5/5/45552587/mission_statement_and_ethos.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: Mission Statement and Ethos"
+    },
+    {
+      "url": "https://www.stpatricksnsdalkey.ie/information-for-parents.html",
+      "final_url": "https://www.stpatricksnsdalkey.ie/information-for-parents.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Information for Parents"
+    },
+    {
+      "url": "https://www.stpatricksnsdalkey.ie",
+      "final_url": "https://www.stpatricksnsdalkey.ie",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.stpatricksnsdalkey.ie/uploads/4/5/5/5/45552587/smart_devices_policy_2025.pdf",
+      "final_url": "https://www.stpatricksnsdalkey.ie/uploads/4/5/5/5/45552587/smart_devices_policy_2025.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: Smart Devices Policy 2025"
+    },
+    {
+      "url": "https://www.stpatricksnsdalkey.ie/uploads/4/5/5/5/45552587/data_protection_policy_2025.pdf",
+      "final_url": "https://www.stpatricksnsdalkey.ie/uploads/4/5/5/5/45552587/data_protection_policy_2025.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: Data Protection Policy 2025"
+    },
+    {
+      "url": "https://www.stpatricksnsdalkey.ie/uploads/4/5/5/5/45552587/code_of_behaviour_policy_2025.pdf",
+      "final_url": "https://www.stpatricksnsdalkey.ie/uploads/4/5/5/5/45552587/code_of_behaviour_policy_2025.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: Code of Behaviour Policy 2025"
+    },
+    {
+      "url": "https://www.stpatricksnsdalkey.ie/uploads/4/5/5/5/45552587/cctv_policy_dec_2025.pdf",
+      "final_url": "https://www.stpatricksnsdalkey.ie/uploads/4/5/5/5/45552587/cctv_policy_dec_2025.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: CCTV Policy 2025 "
+    },
+    {
+      "url": "https://www.stpatricksnsdalkey.ie/uploads/4/5/5/5/45552587/bí_cineálta_policy_2025.pdf",
+      "final_url": "https://www.stpatricksnsdalkey.ie/uploads/4/5/5/5/45552587/bí_cineálta_policy_2025.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: Bí Cineálta Policy 2025"
+    },
+    {
+      "url": "https://www.stpatricksnsdalkey.ie/uploads/4/5/5/5/45552587/acceptable_use_policy_2025.pdf",
+      "final_url": "https://www.stpatricksnsdalkey.ie/uploads/4/5/5/5/45552587/acceptable_use_policy_2025.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: Acceptable Use Policy 2025"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "14647G",
+      "url": "https://www.stpatricksnsdalkey.ie/admissions.html",
+      "label": "Admissions",
+      "sha256": "3490ecba28b0739d12f0134d67a8f74c20b8e01c16710c9aaca4a9c43cef82d1",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/14647G_3490ecba28b0739d12f0.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 299
+    },
+    {
+      "roll": "14647G",
+      "url": "https://www.stpatricksnsdalkey.ie/uploads/4/5/5/5/45552587/admissions_policy.pdf",
+      "label": "Download file: Admissions Policy",
+      "sha256": "96d836127be717756b64716ad8b02d4745bba05507e199b0d0a2040c6d6e5768",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/14647G_96d836127be717756b64.txt",
+      "source_file": "database/milestone2/cache/96d836127be717756b64716ad8b02d4745bba05507e199b0d0a2040c6d6e5768.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 27737
+    }
+  ],
+  "pending_links": [],
+  "elapsed_seconds": 54.91,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:49:22+0000"
+}

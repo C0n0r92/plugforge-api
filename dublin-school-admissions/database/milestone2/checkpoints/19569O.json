@@ -1,0 +1,195 @@
+{
+  "roll": "19569O",
+  "status": "bounded_search_no_new_notice_found",
+  "attempts": [
+    {
+      "url": "https://www.stpeterapostlejns.ie/",
+      "final_url": "https://www.stpeterapostlejns.ie/",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.stpeterapostlejns.ie/sitemap.xml",
+      "final_url": "https://www.stpeterapostlejns.ie/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.stpeterapostlejns.ie/policies",
+      "final_url": "https://www.stpeterapostlejns.ie/policies",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.stpeterapostlejns.ie/_files/ugd/dd1418_fc1efe3c1f7a440381934020011e7a38.pdf",
+      "final_url": "https://www.stpeterapostlejns.ie/_files/ugd/dd1418_fc1efe3c1f7a440381934020011e7a38.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Homework policy"
+    },
+    {
+      "url": "https://www.stpeterapostlejns.ie/_files/ugd/dd1418_0c06c5c3be1946cea0bfaba73a795e4e.pdf",
+      "final_url": "https://www.stpeterapostlejns.ie/_files/ugd/dd1418_0c06c5c3be1946cea0bfaba73a795e4e.pdf",
+      "status": "public_document_size_bound",
+      "via": "school_public_link",
+      "label": "Assessment Policy"
+    },
+    {
+      "url": "https://www.stpeterapostlejns.ie/_files/ugd/dd1418_a8bfc62e8e544219864e79768fcdf613.pdf",
+      "final_url": "https://www.stpeterapostlejns.ie/_files/ugd/dd1418_a8bfc62e8e544219864e79768fcdf613.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions Policy 2027-2028"
+    },
+    {
+      "url": "https://www.stpeterapostlejns.ie/parents-booklet",
+      "final_url": "https://www.stpeterapostlejns.ie/parents-booklet",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents information"
+    },
+    {
+      "url": "https://www.stpeterapostlejns.ie/pages-sitemap.xml",
+      "final_url": "https://www.stpeterapostlejns.ie/pages-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.stpeterapostlejns.ie/blog-categories-sitemap.xml",
+      "final_url": "https://www.stpeterapostlejns.ie/blog-categories-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.stpeterapostlejns.ie/about-3-1",
+      "final_url": "https://www.stpeterapostlejns.ie/about-3-1",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents Association"
+    },
+    {
+      "url": "https://www.stpeterapostlejns.ie/_files/ugd/dd1418_c77d0bf62cfd48239e4a23ad98df67c5.docx?dn=Healthy%20Eating%20policy%202024.docx",
+      "final_url": "https://www.stpeterapostlejns.ie/_files/ugd/dd1418_c77d0bf62cfd48239e4a23ad98df67c5.docx?dn=Healthy%20Eating%20policy%202024.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Healthy Eating Policy"
+    },
+    {
+      "url": "https://www.stpeterapostlejns.ie/_files/ugd/dd1418_aff3fb716a7142748c75297b7c8271a5.pdf",
+      "final_url": "https://www.stpeterapostlejns.ie/_files/ugd/dd1418_aff3fb716a7142748c75297b7c8271a5.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Bí Cineálta Policy 2026-27"
+    },
+    {
+      "url": "https://www.stpeterapostlejns.ie/_files/ugd/dd1418_d2dd8b691e9a4ba8902f3cbb16878b10.pdf",
+      "final_url": "https://www.stpeterapostlejns.ie/_files/ugd/dd1418_d2dd8b691e9a4ba8902f3cbb16878b10.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Dignity in the workplace policy"
+    },
+    {
+      "url": "https://www.stpeterapostlejns.ie/_files/ugd/dd1418_bd47e7fe8ce8425fbe5dc3f4f065d0b5.pdf",
+      "final_url": "https://www.stpeterapostlejns.ie/_files/ugd/dd1418_bd47e7fe8ce8425fbe5dc3f4f065d0b5.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "RSE policy"
+    },
+    {
+      "url": "https://www.stpeterapostlejns.ie/_files/ugd/dd1418_baf1badd8c814081b980a56cbb2146d0.pdf",
+      "final_url": "https://www.stpeterapostlejns.ie/_files/ugd/dd1418_baf1badd8c814081b980a56cbb2146d0.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Notification of the review of the anti-bullying policy"
+    },
+    {
+      "url": "https://www.stpeterapostlejns.ie/_files/ugd/dd1418_b0c9c27f360a4efebbcaf58f56830f60.pdf",
+      "final_url": "https://www.stpeterapostlejns.ie/_files/ugd/dd1418_b0c9c27f360a4efebbcaf58f56830f60.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Protected disclosure policy"
+    },
+    {
+      "url": "https://www.stpeterapostlejns.ie/_files/ugd/dd1418_9830d8d78d0b427a8b1a2d32b22f88c3.pdf",
+      "final_url": "https://www.stpeterapostlejns.ie/_files/ugd/dd1418_9830d8d78d0b427a8b1a2d32b22f88c3.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Acceptable use policy"
+    },
+    {
+      "url": "https://www.stpeterapostlejns.ie/_files/ugd/dd1418_7f90480da9df42169ae222d789d714a1.docx?dn=Intimate%20Care%20Policy.docx",
+      "final_url": "https://www.stpeterapostlejns.ie/_files/ugd/dd1418_7f90480da9df42169ae222d789d714a1.docx?dn=Intimate%20Care%20Policy.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Intimate Care Policy"
+    },
+    {
+      "url": "https://www.stpeterapostlejns.ie/_files/ugd/dd1418_67db4cc3935c48aa8617eba6e21b33ba.pdf",
+      "final_url": "https://www.stpeterapostlejns.ie/_files/ugd/dd1418_67db4cc3935c48aa8617eba6e21b33ba.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "HSCL policy"
+    },
+    {
+      "url": "https://www.stpeterapostlejns.ie/_files/ugd/dd1418_60e8a140cd17474a87c77c519a98d408.docx?dn=Inclusion%20Policy.docx",
+      "final_url": "https://www.stpeterapostlejns.ie/_files/ugd/dd1418_60e8a140cd17474a87c77c519a98d408.docx?dn=Inclusion%20Policy.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Inclusion Policy"
+    },
+    {
+      "url": "https://www.stpeterapostlejns.ie/_files/ugd/dd1418_517541fbb99042b8a32a58f4e4a07b61.pdf",
+      "final_url": "https://www.stpeterapostlejns.ie/_files/ugd/dd1418_517541fbb99042b8a32a58f4e4a07b61.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Care Team Policy"
+    },
+    {
+      "url": "https://www.stpeterapostlejns.ie/_files/ugd/dd1418_4dff0a67e2604ae1a838b1e0a02ffdc4.pdf",
+      "final_url": "https://www.stpeterapostlejns.ie/_files/ugd/dd1418_4dff0a67e2604ae1a838b1e0a02ffdc4.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Attendance policy"
+    },
+    {
+      "url": "https://www.stpeterapostlejns.ie/_files/ugd/dd1418_4607b9db4e124b829a1602a75b1bd483.pdf",
+      "final_url": "https://www.stpeterapostlejns.ie/_files/ugd/dd1418_4607b9db4e124b829a1602a75b1bd483.pdf",
+      "status": "public_document_size_bound",
+      "via": "school_public_link",
+      "label": "Health and Safety policy"
+    },
+    {
+      "url": "https://www.stpeterapostlejns.ie/_files/ugd/dd1418_42a5b9a979474d45a7995c154d449159.pdf",
+      "final_url": "https://www.stpeterapostlejns.ie/_files/ugd/dd1418_42a5b9a979474d45a7995c154d449159.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Sustainability policy"
+    }
+  ],
+  "documents": [],
+  "pending_links": [
+    {
+      "url": "https://www.stpeterapostlejns.ie/_files/ugd/dd1418_2482f4bf022c4cd6833e68529da9cc03.pdf",
+      "label": "Critical incident policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stpeterapostlejns.ie/_files/ugd/dd1418_0502f2c25f1a463f965bcae343f9d271.pdf",
+      "label": "​CCTV policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stpeterapostlejns.ie/_files/ugd/dd1418_01892f17c7cd40bda7c045d352f30e8c.pdf",
+      "label": "GDPR policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 74.51,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:56:44+0000"
+}

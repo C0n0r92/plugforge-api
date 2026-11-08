@@ -1,0 +1,103 @@
+{
+  "roll": "19395H",
+  "attempted_at": "2026-11-08T13:11:57+0000",
+  "method": "documented_public_WordPress_media_notice_and_Irish_title_gap_search",
+  "attempts": [
+    {
+      "url": "https://scoilmobhi.ie/wp-json/wp/v2/media?search=notice&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok"
+    },
+    {
+      "url": "https://scoilmobhi.ie/wp-json/wp/v2/media?search=f%C3%B3gra&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok"
+    },
+    {
+      "url": "https://scoilmobhi.ie/wp-content/uploads/2020/09/annual-admissions-notice-2021-2022.pdf",
+      "status": "ok",
+      "label": "Annual Admissions Notice 2021-2022"
+    },
+    {
+      "url": "https://scoilmobhi.ie/wp-content/uploads/2021/09/annual-admissions-notice-2022-2023.pdf",
+      "status": "ok",
+      "label": "Annual Admissions Notice 2022-2023"
+    },
+    {
+      "url": "https://scoilmobhi.ie/wp-content/uploads/2022/09/annual-admissions-notice-2023-2024.pdf",
+      "status": "ok",
+      "label": "Annual Admissions Notice 2023-2024"
+    },
+    {
+      "url": "https://scoilmobhi.ie/wp-content/uploads/2024/09/annual-admissions-notice-2025-2026-2.pdf",
+      "status": "ok",
+      "label": "Annual Admissions Notice 2025-2026 (2)"
+    },
+    {
+      "url": "https://scoilmobhi.ie/wp-content/uploads/2024/09/annual-admissions-notice-2025-2026-2-1.pdf",
+      "status": "ok",
+      "label": "Annual Admissions Notice 2025-2026 (2)"
+    },
+    {
+      "url": "https://scoilmobhi.ie/wp-content/uploads/2024/09/annual-admissions-notice-2025-2026-2-2.pdf",
+      "status": "ok",
+      "label": "Annual Admissions Notice 2025-2026 (2)"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19395H",
+      "url": "https://scoilmobhi.ie/wp-content/uploads/2020/09/annual-admissions-notice-2021-2022.pdf",
+      "label": "Annual Admissions Notice 2021-2022",
+      "sha256": "747c4b8eff6fd0e7e744841318e677574f2213b431bdbe43fcb930a4438d9e84",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19395H_747c4b8eff6fd0e7e744.txt",
+      "source_file": "database/milestone2/cache/747c4b8eff6fd0e7e744841318e677574f2213b431bdbe43fcb930a4438d9e84.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 3766,
+      "discovery_method": "documented_WP_notice_or_Irish_title_media_query",
+      "cms_media_date_as_printed_not_publication": "2020-09-30T14:51:09"
+    },
+    {
+      "roll": "19395H",
+      "url": "https://scoilmobhi.ie/wp-content/uploads/2021/09/annual-admissions-notice-2022-2023.pdf",
+      "label": "Annual Admissions Notice 2022-2023",
+      "sha256": "d3fe836910aec66374b6819b516e8c6bd9c2778ef3ec7da129e444c17230705b",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19395H_d3fe836910aec66374b6.txt",
+      "source_file": "database/milestone2/cache/d3fe836910aec66374b6819b516e8c6bd9c2778ef3ec7da129e444c17230705b.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 3761,
+      "discovery_method": "documented_WP_notice_or_Irish_title_media_query",
+      "cms_media_date_as_printed_not_publication": "2021-09-24T09:29:09"
+    },
+    {
+      "roll": "19395H",
+      "url": "https://scoilmobhi.ie/wp-content/uploads/2022/09/annual-admissions-notice-2023-2024.pdf",
+      "label": "Annual Admissions Notice 2023-2024",
+      "sha256": "b20268eddd30c19c5ab64d46b5c621e7a1ac89cebb8dfc8e7e72a09aa2fa139c",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19395H_b20268eddd30c19c5ab6.txt",
+      "source_file": "database/milestone2/cache/b20268eddd30c19c5ab64d46b5c621e7a1ac89cebb8dfc8e7e72a09aa2fa139c.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 3921,
+      "discovery_method": "documented_WP_notice_or_Irish_title_media_query",
+      "cms_media_date_as_printed_not_publication": "2022-09-23T14:12:38"
+    },
+    {
+      "roll": "19395H",
+      "url": "https://scoilmobhi.ie/wp-content/uploads/2024/09/annual-admissions-notice-2025-2026-2.pdf",
+      "label": "Annual Admissions Notice 2025-2026 (2)",
+      "sha256": "fe6aa833703104cd9c2b72f599a70af06fe15b070a41587bbc80e69ce15fecc4",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19395H_fe6aa833703104cd9c2b.txt",
+      "source_file": "database/milestone2/cache/fe6aa833703104cd9c2b72f599a70af06fe15b070a41587bbc80e69ce15fecc4.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 3969,
+      "discovery_method": "documented_WP_notice_or_Irish_title_media_query",
+      "cms_media_date_as_printed_not_publication": "2024-09-24T11:25:16"
+    }
+  ],
+  "pending_links": [],
+  "earliest_year_cutoff": null,
+  "status": "attempted_new_historical_notice_candidates",
+  "elapsed_seconds": 22.9
+}

@@ -1,0 +1,272 @@
+{
+  "roll": "18370J",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.sandymountschool.ie/",
+      "final_url": "https://www.sandymountschool.ie/",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.sandymountschool.ie/admissions",
+      "final_url": "https://www.sandymountschool.ie/admissions",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://www.sandymountschool.ie/s/2027-28-Admissions-Statement.pdf",
+      "final_url": "https://static1.squarespace.com/static/6ac74d9688662273e47edd45/t/6ac8d0c3ccadb668a677f588/1791545539212/2027-28+Admissions+Statement.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "link"
+    },
+    {
+      "url": "https://www.sandymountschool.ie/s/FINAL-Admissions-Policy-3-July-2026-MANDATORY-32l3.pdf",
+      "final_url": "https://static1.squarespace.com/static/6ac74d9688662273e47edd45/t/6ac8aa9ddc6b6409d346d8d6/1791535773411/FINAL+Admissions+Policy+3+July+2026+MANDATORY.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "link"
+    },
+    {
+      "url": "https://www.sandymountschool.ie/sitemap.xml",
+      "final_url": "https://www.sandymountschool.ie/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.sandymountschool.ie/policies",
+      "final_url": "https://www.sandymountschool.ie/policies",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.sandymountschool.ie/s/FINAL-Admissions-Statement-2027-28.pdf",
+      "final_url": "https://static1.squarespace.com/static/6ac74d9688662273e47edd45/t/6ac8acc20f5f235841ffd74a/1791536322464/FINAL+Admissions+Statement+2027-28.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions Statement"
+    },
+    {
+      "url": "https://www.sandymountschool.ie/parents",
+      "final_url": "https://www.sandymountschool.ie/calendar",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Folder: Parents"
+    },
+    {
+      "url": "https://www.sandymountschool.ie/s/FINAL-Anti-bullying-23-May-2023-4e7l.pdf",
+      "final_url": "https://static1.squarespace.com/static/6ac74d9688662273e47edd45/t/6ac8acf65a2ec12443db0940/1791536374961/FINAL+Anti+bullying+23+May+2023.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Anti Bullying Policy"
+    },
+    {
+      "url": "https://www.sandymountschool.ie/s/FINAL-Wellbeing-policy-July-2024.pdf",
+      "final_url": "https://static1.squarespace.com/static/6ac74d9688662273e47edd45/t/6ac8babab20bfe71d3b5457c/1791539899063/FINAL+Wellbeing+policy+July+2024.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Wellbeing Policy"
+    },
+    {
+      "url": "https://www.sandymountschool.ie/s/FINAL-Curriculum-SPHE-16-Oct-2024.pdf",
+      "final_url": "https://static1.squarespace.com/static/6ac74d9688662273e47edd45/t/6ac8ba7f12cfe02ada5111ea/1791539839930/FINAL+Curriculum+SPHE+16+Oct+2024.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "SPHE Policy"
+    },
+    {
+      "url": "https://www.sandymountschool.ie/s/FINAL-Curriculum-RSE-16-Oct-2024.pdf",
+      "final_url": "https://static1.squarespace.com/static/6ac74d9688662273e47edd45/t/6ac8ba6a7022195cba39e63f/1791539818772/FINAL+Curriculum+RSE+16+Oct+2024.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "RSE Policy"
+    },
+    {
+      "url": "https://www.sandymountschool.ie/s/FINAL-Curriculum-Language-Communication-Policy-Oct-2024.pdf",
+      "final_url": "https://static1.squarespace.com/static/6ac74d9688662273e47edd45/t/6ac8ba0603f7c2206c738b92/1791539720038/FINAL+Curriculum+Language+%26+Communication+Policy+Oct+2024.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Language & Communication Policy"
+    },
+    {
+      "url": "https://www.sandymountschool.ie/s/FINAL-Curriculum-Irish-exemption-policy-July-2024.pdf",
+      "final_url": "https://static1.squarespace.com/static/6ac74d9688662273e47edd45/t/6ac8b4521e9f5048f7b07721/1791538258902/FINAL+Curriculum+Irish+exemption+policy+July+2024.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Irish Exemption Policy"
+    },
+    {
+      "url": "https://www.sandymountschool.ie/s/FINAL-Assessment-policy-July-2024-bk54.pdf",
+      "final_url": "https://static1.squarespace.com/static/6ac74d9688662273e47edd45/t/6ac8af80712db810f29674a0/1791537024833/FINAL+Assessment+policy+July+2024.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Assessment Policy"
+    },
+    {
+      "url": "https://www.sandymountschool.ie/s/FINAL-Staff-shortage-policy-2-April-2025.pdf",
+      "final_url": "https://static1.squarespace.com/static/6ac74d9688662273e47edd45/t/6ac8b4f4a7c52d1c4608b538/1791538420497/FINAL+Staff+shortage+policy+2+April+2025.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Staff Shortage Policy"
+    },
+    {
+      "url": "https://www.sandymountschool.ie/s/FINAL-School-trips-policy-2-April-2025.pdf",
+      "final_url": "https://static1.squarespace.com/static/6ac74d9688662273e47edd45/t/6ac8b4e2eda9bd4b4a2b78b2/1791538402522/FINAL+School+trips+policy+2+April+2025.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Trips Policy"
+    },
+    {
+      "url": "https://www.sandymountschool.ie/s/FINAL-GDPR-policy-April-2025.pdf",
+      "final_url": "https://static1.squarespace.com/static/6ac74d9688662273e47edd45/t/6ac8b38a12cfe02ada4f186f/1791538059545/FINAL+GDPR+policy+April+2025.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "GDPR Policy"
+    },
+    {
+      "url": "https://www.sandymountschool.ie/s/FINAL-Dignity-respect-at-work-25-Sep-2025-zfzn.pdf",
+      "final_url": "https://static1.squarespace.com/static/6ac74d9688662273e47edd45/t/6ac8b3249dd9252768912cee/1791537956709/FINAL+Dignity+%26+respect+at+work+25+Sep+2025.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Dignity and Respect at Work Policy"
+    },
+    {
+      "url": "https://www.sandymountschool.ie/s/FINAL-Curriculum-History-12-Feb-2025.pdf",
+      "final_url": "https://static1.squarespace.com/static/6ac74d9688662273e47edd45/t/6ac8b9f1a7b09577bc22d735/1791539697210/FINAL+Curriculum+History+12+Feb+2025.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "History Policy"
+    },
+    {
+      "url": "https://www.sandymountschool.ie/s/FINAL-Curriculum-Geography-12-Feb-2025.pdf",
+      "final_url": "https://static1.squarespace.com/static/6ac74d9688662273e47edd45/t/6ac8b8d499db6a2320d02c66/1791539413928/FINAL+Curriculum+Geography+12+Feb+2025.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Geography Policy"
+    },
+    {
+      "url": "https://www.sandymountschool.ie/s/FINAL-Critical-Incident-25-Sep-2025.pdf",
+      "final_url": "https://static1.squarespace.com/static/6ac74d9688662273e47edd45/t/6ac8b13206ee2d217ab47929/1791537459044/FINAL+Critical+Incident+25+Sep+2025.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Critical Incident Policy"
+    },
+    {
+      "url": "https://www.sandymountschool.ie/s/FINAL-CCTV-Policy-12-Feb-2025-ez4g.pdf",
+      "final_url": "https://static1.squarespace.com/static/6ac74d9688662273e47edd45/t/6ac8b05ea7b09577bc208694/1791537247069/FINAL+CCTV+Policy+12+Feb+2025.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "CCTV Policy"
+    },
+    {
+      "url": "https://www.sandymountschool.ie/s/FINAL-Substance-Use-3-July-2026-MANDATORY.pdf",
+      "final_url": "https://static1.squarespace.com/static/6ac74d9688662273e47edd45/t/6ac8b50c0f5f23584101f20c/1791538444769/FINAL+Substance+Use+3+July+2026+MANDATORY.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Substance Use Policy"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "18370J",
+      "url": "https://static1.squarespace.com/static/6ac74d9688662273e47edd45/t/6ac8aa9ddc6b6409d346d8d6/1791535773411/FINAL+Admissions+Policy+3+July+2026+MANDATORY.pdf",
+      "label": "link",
+      "sha256": "9c89ae6314d8835af81f2c41b495af69c1a678c7c79cd54e7253aafaa3d3383b",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/18370J_9c89ae6314d8835af81f.txt",
+      "source_file": "database/milestone2/cache/9c89ae6314d8835af81f2c41b495af69c1a678c7c79cd54e7253aafaa3d3383b.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 20976
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.sandymountschool.ie/s/FINAL-Safety-Health-Welfare-3-July-2026-MANDATORY.pdf",
+      "label": "Safety Health and Welfare Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sandymountschool.ie/s/FINAL-Protected-disclosure-3-July-2026-MANDATORY.pdf",
+      "label": "Protected Disclosure Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sandymountschool.ie/s/FINAL-Health-Eating-Policy-14-May-2026.pdf",
+      "label": "Healthy Eating Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sandymountschool.ie/s/FINAL-Fire-14-May-2026.pdf",
+      "label": "Fire Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sandymountschool.ie/s/FINAL-Confidentiality-19-Mar-2026.pdf",
+      "label": "Confidentiality Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sandymountschool.ie/s/FINAL-Bi-Cinealta-3-July-2026-MANDATORY-7sbt.pdf",
+      "label": "BÍ Cineálta Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sandymountschool.ie/s/FINAL-Midaz-local-policy-250424.pdf",
+      "label": "Midazolam Protocol",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sandymountschool.ie/s/FINAL-Intimate-physical-care-12-Feb-25-4wkn.pdf",
+      "label": "Intimate Physical Care Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sandymountschool.ie/s/FINAL-Home-school-communication-policy-16-Oct-24.pdf",
+      "label": "Home School Communication Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sandymountschool.ie/s/FINAL-Custody-Separation-December-25.pdf",
+      "label": "Custody and Separation Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sandymountschool.ie/s/FINAL-Curriculum-Visual-Arts-Policy-17-April-24.pdf",
+      "label": "Visual Arts Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sandymountschool.ie/s/FINAL-Curriculum-Physical-Education-16-Oct-24.pdf",
+      "label": "Physical Education Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sandymountschool.ie/s/FINAL-Curriculum-Numeracy-policy-24July23.pdf",
+      "label": "Numeracy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sandymountschool.ie/s/FINAL-Curriculum-Music-policy-17-April-24.pdf",
+      "label": "Music Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sandymountschool.ie/s/FINAL-Curriculum-Drama-policy-17-April-24docx.pdf",
+      "label": "Drama Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sandymountschool.ie/s/FINAL-Additional-Placement-Policy-16-Nov-23-pkkc.pdf",
+      "label": "Additional Placement Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 79.63,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:53:30+0000"
+}

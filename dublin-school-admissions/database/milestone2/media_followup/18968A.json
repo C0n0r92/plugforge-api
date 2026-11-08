@@ -1,0 +1,167 @@
+{
+  "roll": "18968A",
+  "attempted_at": "2026-11-08T13:11:08+0000",
+  "method": "documented_public_WordPress_media_notice_and_Irish_title_gap_search",
+  "attempts": [
+    {
+      "url": "https://www.stmalachysbns.ie/wp-json/wp/v2/media?search=notice&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.stmalachysbns.ie/wp-json/wp/v2/media?search=f%C3%B3gra&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.stmalachysbns.ie/wp-content/uploads/2022/05/2.-Annual-Admission-Notice-21-22.pdf",
+      "status": "ok",
+      "label": "2. Annual Admission Notice 21-22"
+    },
+    {
+      "url": "https://www.stmalachysbns.ie/wp-content/uploads/2022/05/2.-Annual-Admission-Notice-21-22-1.pdf",
+      "status": "ok",
+      "label": "2. Annual Admission Notice 21-22"
+    },
+    {
+      "url": "https://www.stmalachysbns.ie/wp-content/uploads/2023/04/Annual-Admission-Notice.pdf",
+      "status": "ok",
+      "label": "Annual Admission Notice"
+    },
+    {
+      "url": "https://www.stmalachysbns.ie/wp-content/uploads/2023/05/2.-Annual-Admission-Notice-22-23.pdf",
+      "status": "ok",
+      "label": "2. Annual Admission Notice 22-23"
+    },
+    {
+      "url": "https://www.stmalachysbns.ie/wp-content/uploads/2024/04/Annual-Admission-Notice-24-25.pdf",
+      "status": "ok",
+      "label": "Annual Admission Notice 24-25"
+    },
+    {
+      "url": "https://www.stmalachysbns.ie/wp-content/uploads/2025/03/Annual-Admission-Notice-2025-26-1.pdf",
+      "status": "ok",
+      "label": "Annual Admission Notice 2025-26 (1)"
+    },
+    {
+      "url": "https://www.stmalachysbns.ie/wp-content/uploads/2026/03/Annual-Admission-Notice-26-27.pdf",
+      "status": "ok",
+      "label": "Annual Admission Notice 26-27"
+    },
+    {
+      "url": "https://www.stmalachysbns.ie/wp-content/uploads/2026/03/Annual-Admission-Notice-26-27-1.pdf",
+      "status": "ok",
+      "label": "Annual Admission Notice 26-27 (1)"
+    },
+    {
+      "url": "https://www.stmalachysbns.ie/wp-content/uploads/2024/04/Admissions-Notice.jpg",
+      "status": "ok",
+      "label": "Admissions Notice"
+    },
+    {
+      "url": "https://www.stmalachysbns.ie/wp-content/uploads/2025/03/Admissions-Notice.jpg",
+      "status": "ok",
+      "label": "Admissions Notice"
+    },
+    {
+      "url": "https://www.stmalachysbns.ie/wp-content/uploads/2026/03/Admissions-Notice-26-27.jpg",
+      "status": "ok",
+      "label": "Admissions Notice 26-27"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "18968A",
+      "url": "https://www.stmalachysbns.ie/wp-content/uploads/2022/05/2.-Annual-Admission-Notice-21-22.pdf",
+      "label": "2. Annual Admission Notice 21-22",
+      "sha256": "1684087a817cb4d8210980f863c6436f40ff2f78110e09b34d238a18a8238e9f",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/18968A_1684087a817cb4d82109.txt",
+      "source_file": "database/milestone2/cache/1684087a817cb4d8210980f863c6436f40ff2f78110e09b34d238a18a8238e9f.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1614,
+      "discovery_method": "documented_WP_notice_or_Irish_title_media_query",
+      "cms_media_date_as_printed_not_publication": "2022-05-10T09:36:22"
+    },
+    {
+      "roll": "18968A",
+      "url": "https://www.stmalachysbns.ie/wp-content/uploads/2023/04/Annual-Admission-Notice.pdf",
+      "label": "Annual Admission Notice",
+      "sha256": "708383ae5a767d9bb7f4611a2a4e9b693759f10eeeb43383ea7bc35dc9f52c96",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/18968A_708383ae5a767d9bb7f4.txt",
+      "source_file": "database/milestone2/cache/708383ae5a767d9bb7f4611a2a4e9b693759f10eeeb43383ea7bc35dc9f52c96.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1616,
+      "discovery_method": "documented_WP_notice_or_Irish_title_media_query",
+      "cms_media_date_as_printed_not_publication": "2023-04-24T12:01:02"
+    },
+    {
+      "roll": "18968A",
+      "url": "https://www.stmalachysbns.ie/wp-content/uploads/2023/05/2.-Annual-Admission-Notice-22-23.pdf",
+      "label": "2. Annual Admission Notice 22-23",
+      "sha256": "9790fe98188c861a57a19554362a33367698962774952b5c563aa5252289af2d",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/18968A_9790fe98188c861a57a1.txt",
+      "source_file": "database/milestone2/cache/9790fe98188c861a57a19554362a33367698962774952b5c563aa5252289af2d.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1613,
+      "discovery_method": "documented_WP_notice_or_Irish_title_media_query",
+      "cms_media_date_as_printed_not_publication": "2023-05-02T11:45:15"
+    },
+    {
+      "roll": "18968A",
+      "url": "https://www.stmalachysbns.ie/wp-content/uploads/2024/04/Annual-Admission-Notice-24-25.pdf",
+      "label": "Annual Admission Notice 24-25",
+      "sha256": "1de3facb35eaf30da2eb02d1e3fd9bd4c5b6e31b41598a090bb9f6063168bb31",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/18968A_1de3facb35eaf30da2eb.txt",
+      "source_file": "database/milestone2/cache/1de3facb35eaf30da2eb02d1e3fd9bd4c5b6e31b41598a090bb9f6063168bb31.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1611,
+      "discovery_method": "documented_WP_notice_or_Irish_title_media_query",
+      "cms_media_date_as_printed_not_publication": "2024-04-08T10:55:38"
+    },
+    {
+      "roll": "18968A",
+      "url": "https://www.stmalachysbns.ie/wp-content/uploads/2025/03/Annual-Admission-Notice-2025-26-1.pdf",
+      "label": "Annual Admission Notice 2025-26 (1)",
+      "sha256": "444ec6a7eed6409b4060ed71da2ebb7fba594f6cc8ac87ae25871c575bd45ed6",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/18968A_444ec6a7eed6409b4060.txt",
+      "source_file": "database/milestone2/cache/444ec6a7eed6409b4060ed71da2ebb7fba594f6cc8ac87ae25871c575bd45ed6.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1617,
+      "discovery_method": "documented_WP_notice_or_Irish_title_media_query",
+      "cms_media_date_as_printed_not_publication": "2025-03-12T13:53:36"
+    },
+    {
+      "roll": "18968A",
+      "url": "https://www.stmalachysbns.ie/wp-content/uploads/2026/03/Annual-Admission-Notice-26-27.pdf",
+      "label": "Annual Admission Notice 26-27",
+      "sha256": "817427015006a8695f682aa3c710431d44594bd2cb5bc330a9adedcf19677750",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/18968A_817427015006a8695f68.txt",
+      "source_file": "database/milestone2/cache/817427015006a8695f682aa3c710431d44594bd2cb5bc330a9adedcf19677750.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1617,
+      "discovery_method": "documented_WP_notice_or_Irish_title_media_query",
+      "cms_media_date_as_printed_not_publication": "2026-03-25T11:42:30"
+    },
+    {
+      "roll": "18968A",
+      "url": "https://www.stmalachysbns.ie/wp-content/uploads/2026/03/Annual-Admission-Notice-26-27-1.pdf",
+      "label": "Annual Admission Notice 26-27 (1)",
+      "sha256": "3ba00af612474176f7569c45973abc32b82a9ac5edea57bcfc2ff77800b6ce93",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/18968A_3ba00af612474176f756.txt",
+      "source_file": "database/milestone2/cache/3ba00af612474176f7569c45973abc32b82a9ac5edea57bcfc2ff77800b6ce93.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1617,
+      "discovery_method": "documented_WP_notice_or_Irish_title_media_query",
+      "cms_media_date_as_printed_not_publication": "2026-03-26T10:05:11"
+    }
+  ],
+  "pending_links": [],
+  "earliest_year_cutoff": null,
+  "status": "attempted_new_historical_notice_candidates",
+  "elapsed_seconds": 41.9
+}

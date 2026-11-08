@@ -1,0 +1,210 @@
+{
+  "roll": "15625B",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://stcatherinesns.net/wp-content/uploads/2024/05/p_annual-admissions-notice.png",
+      "final_url": "https://stcatherinesns.net/wp-content/uploads/2024/05/p_annual-admissions-notice.png",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "p_annual admissions notice"
+    },
+    {
+      "url": "https://stcatherinesns.net/wp-content/uploads/2024/05/p_admissions.png",
+      "final_url": "https://stcatherinesns.net/wp-content/uploads/2024/05/p_admissions.png",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "p_admissions"
+    },
+    {
+      "url": "https://stcatherinesns.net/wp-content/uploads/2024/05/p_admission.png",
+      "final_url": "https://stcatherinesns.net/wp-content/uploads/2024/05/p_admission.png",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "p_admission"
+    },
+    {
+      "url": "https://stcatherinesns.net/wp-content/uploads/2024/05/p_intend-to-enroll.png",
+      "final_url": "https://stcatherinesns.net/wp-content/uploads/2024/05/p_intend-to-enroll.png",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions/policy URL from public sitemap"
+    },
+    {
+      "url": "https://stcatherinesns.net/sitemap_index.xml",
+      "final_url": "https://stcatherinesns.net/sitemap_index.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://stcatherinesns.net/tribe_events-sitemap.xml",
+      "final_url": "https://stcatherinesns.net/tribe_events-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://stcatherinesns.net/post-sitemap.xml",
+      "final_url": "https://stcatherinesns.net/post-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://stcatherinesns.net/page-sitemap.xml",
+      "final_url": "https://stcatherinesns.net/page-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://stcatherinesns.net/",
+      "final_url": "https://stcatherinesns.net/",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://stcatherinesns.net/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://stcatherinesns.net/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://stcatherinesns.net/wp-content/uploads/2024/05/ADMISSIONS-POLICY-EXPLANATORY-NOTE-November-2019.pdf",
+      "final_url": "https://stcatherinesns.net/wp-content/uploads/2024/05/ADMISSIONS-POLICY-EXPLANATORY-NOTE-November-2019.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "ADMISSIONS-POLICY-EXPLANATORY-NOTE-November-2019"
+    },
+    {
+      "url": "https://stcatherinesns.net/wp-content/uploads/2024/05/ADMISSIONS-POLICY-EXPLANATORY-NOTE-November-2019-1.pdf",
+      "final_url": "https://stcatherinesns.net/wp-content/uploads/2024/05/ADMISSIONS-POLICY-EXPLANATORY-NOTE-November-2019-1.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "ADMISSIONS-POLICY-EXPLANATORY-NOTE-November-2019"
+    },
+    {
+      "url": "https://stcatherinesns.net/wp-content/uploads/2024/05/Admission-Policy-Sept-2023-with-NCSE-amendment.pdf",
+      "final_url": "https://stcatherinesns.net/wp-content/uploads/2024/05/Admission-Policy-Sept-2023-with-NCSE-amendment.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admission-Policy-Sept-2023-with-NCSE-amendment"
+    },
+    {
+      "url": "https://stcatherinesns.net/school-policies/",
+      "final_url": "https://stcatherinesns.net/school-policies/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Policies"
+    },
+    {
+      "url": "https://stcatherinesns.net/parent-association/",
+      "final_url": "https://stcatherinesns.net/parent-association/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents’ Association"
+    },
+    {
+      "url": "https://stcatherinesns.net/information-for-parents/",
+      "final_url": "https://stcatherinesns.net/information-for-parents/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Information for parents"
+    },
+    {
+      "url": "https://stcatherinesns.net/wp-content/uploads/2026/06/DEY-patronage-survey-results15625B_NPS_en-1.pdf",
+      "final_url": "https://stcatherinesns.net/wp-content/uploads/2026/06/DEY-patronage-survey-results15625B_NPS_en-1.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download Results"
+    },
+    {
+      "url": "https://stcatherinesns.net/applications/",
+      "final_url": "https://stcatherinesns.net/applications/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Documents"
+    },
+    {
+      "url": "https://stcatherinesns.net/wp-content/uploads/2024/05/intent-to-enrol.pdf",
+      "final_url": "https://stcatherinesns.net/wp-content/uploads/2024/05/intent-to-enrol.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download"
+    },
+    {
+      "url": "https://stcatherinesns.net/wp-content/uploads/2025/09/Application-Form-2026-27.pdf",
+      "final_url": "https://stcatherinesns.net/wp-content/uploads/2025/09/Application-Form-2026-27.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download Application Form"
+    },
+    {
+      "url": "https://stcatherinesns.net/privacy-policy/",
+      "final_url": "https://stcatherinesns.net/privacy-policy/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Privacy Policy"
+    },
+    {
+      "url": "https://stcatherinesns.net/cookie-policy/",
+      "final_url": "https://stcatherinesns.net/cookie-policy/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Cookie Policy"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "15625B",
+      "url": "https://stcatherinesns.net/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "label": "Oldest public admission media (all dates)",
+      "sha256": "a5689e98caa5a5dcd46337fcfbe018359fc120ec9d7e7ba52a17b906d593077e",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/15625B_a5689e98caa5a5dcd463.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1184
+    },
+    {
+      "roll": "15625B",
+      "url": "https://stcatherinesns.net/wp-content/uploads/2024/05/Admission-Policy-Sept-2023-with-NCSE-amendment.pdf",
+      "label": "Admission-Policy-Sept-2023-with-NCSE-amendment",
+      "sha256": "2cff45d971ab5b056388639d7a9e3d547b9b04d50da47ed09c680fd512d55ef3",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/15625B_2cff45d971ab5b056388.txt",
+      "source_file": "database/milestone2/cache/2cff45d971ab5b056388639d7a9e3d547b9b04d50da47ed09c680fd512d55ef3.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 25256
+    },
+    {
+      "roll": "15625B",
+      "url": "https://stcatherinesns.net/school-policies/",
+      "label": "School Policies",
+      "sha256": "fd05e679e450638dc8252a0252db2bb947b3918d7fa288129dd1c7662a12d226",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/15625B_fd05e679e450638dc825.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 498
+    },
+    {
+      "roll": "15625B",
+      "url": "https://stcatherinesns.net/applications/",
+      "label": "Documents",
+      "sha256": "b864ebcd7ee3669a5d68d7b462dcc70c0116d91e1c8130dab0200aee5d893895",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/15625B_b864ebcd7ee3669a5d68.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 197
+    }
+  ],
+  "pending_links": [],
+  "elapsed_seconds": 73.51,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:39:28+0000"
+}

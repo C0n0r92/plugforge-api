@@ -1,0 +1,142 @@
+{
+  "roll": "19473B",
+  "original_url": "https://scoilbhridedonaghmede.ie/annual-admissions-notice/",
+  "method": "documented_CDX_exact_URL_all_available_dates",
+  "attempted_at": "2026-11-08T12:42:59.370538+00:00",
+  "params": {
+    "url": "https://scoilbhridedonaghmede.ie/annual-admissions-notice/",
+    "matchType": "exact",
+    "output": "json",
+    "fl": "timestamp,original,mimetype,statuscode,digest",
+    "filter": "statuscode:200",
+    "collapse": "digest",
+    "limit": "200",
+    "showResumeKey": "true"
+  },
+  "earliest_year_cutoff": null,
+  "captures": [
+    {
+      "timestamp": "20200924230545",
+      "original": "https://scoilbhridedonaghmede.ie/annual-admissions-notice/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "MQ6DFKILJT2MI2INBMCXITYI6SFCVWKL"
+    },
+    {
+      "timestamp": "20201130131159",
+      "original": "https://scoilbhridedonaghmede.ie/annual-admissions-notice/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "OPTQI5EJ5BWEST5GQJYFFGYEDWGUP2HK"
+    },
+    {
+      "timestamp": "20210512035944",
+      "original": "https://scoilbhridedonaghmede.ie/annual-admissions-notice/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "CSZZBHKBGAVL4PLXGQBQFGG4I3EJVT4U"
+    },
+    {
+      "timestamp": "20210924050333",
+      "original": "https://scoilbhridedonaghmede.ie/annual-admissions-notice/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "L4VLZ7Z2FDPKOLUDSB6VO5NZURIGAMIH"
+    },
+    {
+      "timestamp": "20220127043108",
+      "original": "https://scoilbhridedonaghmede.ie/annual-admissions-notice/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "QJH6BOMDC6RPPDRES2CUW5QM4NP2WE2L"
+    },
+    {
+      "timestamp": "20220705083849",
+      "original": "https://scoilbhridedonaghmede.ie/annual-admissions-notice/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "W2HG37IKB27QQ6GV7YTK2NAYEITOLHXL"
+    },
+    {
+      "timestamp": "20221202151216",
+      "original": "https://scoilbhridedonaghmede.ie/annual-admissions-notice/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "4LIBQUDWNXXGNFHACOPFRCADWGGVTQ5L"
+    },
+    {
+      "timestamp": "20230322212242",
+      "original": "https://scoilbhridedonaghmede.ie/annual-admissions-notice/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "WGV4TUKIADZ2KRSNRGP7ITHBCP4CD2UI"
+    },
+    {
+      "timestamp": "20231001142117",
+      "original": "https://scoilbhridedonaghmede.ie/annual-admissions-notice/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "SDD2HSCWUKB6U5XQOGRJDIMCPYK6EQPI"
+    },
+    {
+      "timestamp": "20240228013433",
+      "original": "https://scoilbhridedonaghmede.ie/annual-admissions-notice/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "TA57YADDJHCJI7U2TW4GKAG3IZXFLO3B"
+    },
+    {
+      "timestamp": "20240622144507",
+      "original": "https://scoilbhridedonaghmede.ie/annual-admissions-notice/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "JCU2S5CC24XE6MOZQXW5QNBGCKRNWDCM"
+    },
+    {
+      "timestamp": "20241013061958",
+      "original": "https://scoilbhridedonaghmede.ie/annual-admissions-notice/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "BRVP5ICMDB5WXDSRE2PQDAHVD4NNUFFS"
+    },
+    {
+      "timestamp": "20250113054356",
+      "original": "https://scoilbhridedonaghmede.ie/annual-admissions-notice/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "BXQDSPC6QOXSQ2IF6FC7B4UFIQHURHCD"
+    },
+    {
+      "timestamp": "20250427215907",
+      "original": "https://scoilbhridedonaghmede.ie/annual-admissions-notice/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "SD2OL6LP4NPHC5S2PVXEY5ILURUZLOKJ"
+    },
+    {
+      "timestamp": "20250805033530",
+      "original": "https://scoilbhridedonaghmede.ie/annual-admissions-notice/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "MJBML54QDGUEUNPIRKJLSIYGQJRY2CI4"
+    }
+  ],
+  "pages": [
+    {
+      "at": "2026-11-08T12:43:03.810177+00:00",
+      "http_status": 200,
+      "params": {
+        "url": "https://scoilbhridedonaghmede.ie/annual-admissions-notice/",
+        "matchType": "exact",
+        "output": "json",
+        "fl": "timestamp,original,mimetype,statuscode,digest",
+        "filter": "statuscode:200",
+        "collapse": "digest",
+        "limit": "200",
+        "showResumeKey": "true"
+      }
+    }
+  ],
+  "status": "index_complete",
+  "capture_count": 15
+}

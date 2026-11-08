@@ -1,0 +1,140 @@
+{
+  "roll": "15056L",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://stvincentsgns.weebly.com/uploads/2/3/3/3/23339672/annual_admissions_notice_2026-2027.docx",
+      "final_url": "https://stvincentsgns.weebly.com/uploads/2/3/3/3/23339672/annual_admissions_notice_2026-2027.docx",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://stvincentsgns.weebly.com/enrolment.html",
+      "final_url": "https://stvincentsgns.weebly.com/enrolment.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Enrolment"
+    },
+    {
+      "url": "https://stvincentsgns.weebly.com/uploads/2/3/3/3/23339672/enrolment_form_2017.docx",
+      "final_url": "https://stvincentsgns.weebly.com/uploads/2/3/3/3/23339672/enrolment_form_2017.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Enrolment form"
+    },
+    {
+      "url": "https://stvincentsgns.weebly.com/uploads/2/3/3/3/23339672/school_admissions_policy_2023_updated.docx",
+      "final_url": "https://stvincentsgns.weebly.com/uploads/2/3/3/3/23339672/school_admissions_policy_2023_updated.docx",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://stvincentsgns.weebly.com/uploads/2/3/3/3/23339672/admission_policy_st_vincents_gns_2025.docx",
+      "final_url": "https://stvincentsgns.weebly.com/uploads/2/3/3/3/23339672/admission_policy_st_vincents_gns_2025.docx",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://stvincentsgns.weebly.com/sitemap.xml",
+      "final_url": "https://stvincentsgns.weebly.com/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://stvincentsgns.weebly.com/policies.html",
+      "final_url": "https://stvincentsgns.weebly.com/policies.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://stvincentsgns.weebly.com/uploads/2/3/3/3/23339672/enrolment_policy_2018.docx",
+      "final_url": "https://stvincentsgns.weebly.com/uploads/2/3/3/3/23339672/enrolment_policy_2018.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Enrolment Policy"
+    },
+    {
+      "url": "https://stvincentsgns.weebly.com/uploads/2/3/3/3/23339672/new_anti_bullying_policy_st_vincent_2019.docx",
+      "final_url": "https://stvincentsgns.weebly.com/uploads/2/3/3/3/23339672/new_anti_bullying_policy_st_vincent_2019.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "aNTI-BULLYING POLICY"
+    },
+    {
+      "url": "https://stvincentsgns.weebly.com/parents-section.html",
+      "final_url": "https://stvincentsgns.weebly.com/parents-section.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents' Section"
+    },
+    {
+      "url": "https://stvincentsgns.weebly.com",
+      "final_url": "https://stvincentsgns.weebly.com",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://stvincentsgns.weebly.com/uploads/2/3/3/3/23339672/september__5_.pdf",
+      "final_url": "https://stvincentsgns.weebly.com/uploads/2/3/3/3/23339672/september__5_.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: september__5_.pdf"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "15056L",
+      "url": "https://stvincentsgns.weebly.com/uploads/2/3/3/3/23339672/annual_admissions_notice_2026-2027.docx",
+      "label": "Prior school admissions section",
+      "sha256": "226856adb7daf356cd77c0bc2eebb228860c6fd52cc2e4b44bf977973a7cee04",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/15056L_226856adb7daf356cd77.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 3260
+    },
+    {
+      "roll": "15056L",
+      "url": "https://stvincentsgns.weebly.com/enrolment.html",
+      "label": "Enrolment",
+      "sha256": "496470bb7b1d84c4857ad04799c3bf4df3d387f6751b04aa045965af1a8182a7",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/15056L_496470bb7b1d84c4857a.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1804
+    },
+    {
+      "roll": "15056L",
+      "url": "https://stvincentsgns.weebly.com/uploads/2/3/3/3/23339672/school_admissions_policy_2023_updated.docx",
+      "label": "Prior school admissions section",
+      "sha256": "08a2f06bdc1203001e9a9d3f48cec41460cfab98f2dbe72e71bbb8867464acf2",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/15056L_08a2f06bdc1203001e9a.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 22729
+    },
+    {
+      "roll": "15056L",
+      "url": "https://stvincentsgns.weebly.com/uploads/2/3/3/3/23339672/admission_policy_st_vincents_gns_2025.docx",
+      "label": "Prior school admissions section",
+      "sha256": "f857061d78d8a3f8fbaf17fe62f5c6d55537ae2168ab8ecf900538c7c960c214",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/15056L_f857061d78d8a3f8fbaf.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 23658
+    }
+  ],
+  "pending_links": [],
+  "elapsed_seconds": 33.39,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:01:35+0000"
+}

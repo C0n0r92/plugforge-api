@@ -1,0 +1,118 @@
+{
+  "roll": "03359N",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.ballyroanboysschool.ie/admissions",
+      "final_url": "https://www.ballyroanboysschool.ie/admissions",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions"
+    },
+    {
+      "url": "http://www.ballyroanboysschool.ie/wp-content/uploads/2014/03/Parental-permission-note.doc",
+      "final_url": "http://www.ballyroanboysschool.ie/wp-content/uploads/2014/03/Parental-permission-note.doc",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "​"
+    },
+    {
+      "url": "https://www.ballyroanboysschool.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://www.ballyroanboysschool.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "http_404",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "http://www.ballyroanboysschool.ie/wp-content/uploads/2018/01/Application-form-2018.docx",
+      "final_url": "http://www.ballyroanboysschool.ie/wp-content/uploads/2018/01/Application-form-2018.docx",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "​ ​"
+    },
+    {
+      "url": "https://www.ballyroanboysschool.ie/sitemap.xml",
+      "final_url": "https://www.ballyroanboysschool.ie/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.ballyroanboysschool.ie/school-policies",
+      "final_url": "https://www.ballyroanboysschool.ie/school-policies",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Policies"
+    },
+    {
+      "url": "https://www.ballyroanboysschool.ie/_files/ugd/bb788b_aabd9074c4cf4c0da997c4585f40f4b2.pdf",
+      "final_url": "https://www.ballyroanboysschool.ie/_files/ugd/bb788b_aabd9074c4cf4c0da997c4585f40f4b2.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download Here"
+    },
+    {
+      "url": "https://www.ballyroanboysschool.ie/_files/ugd/bb788b_1b02b08330c34a19add3f6d69b500e6e.pdf",
+      "final_url": "https://www.ballyroanboysschool.ie/_files/ugd/bb788b_1b02b08330c34a19add3f6d69b500e6e.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download Here"
+    },
+    {
+      "url": "https://www.ballyroanboysschool.ie/_files/ugd/bb788b_054bca20617142989546268cd7f56bf2.pdf",
+      "final_url": "https://www.ballyroanboysschool.ie/_files/ugd/bb788b_054bca20617142989546268cd7f56bf2.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download Here"
+    },
+    {
+      "url": "https://www.ballyroanboysschool.ie/parent-s-association",
+      "final_url": "https://www.ballyroanboysschool.ie/parent-s-association",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parent's Association"
+    },
+    {
+      "url": "https://www.ballyroanboysschool.ie/pages-sitemap.xml",
+      "final_url": "https://www.ballyroanboysschool.ie/pages-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.ballyroanboysschool.ie",
+      "final_url": "https://www.ballyroanboysschool.ie",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "03359N",
+      "url": "https://www.ballyroanboysschool.ie/admissions",
+      "label": "Admissions",
+      "sha256": "4206ee65aefd9ec7a5fb7cc4a9b9156932efaf7824391f14c96f15efec02c01f",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/03359N_4206ee65aefd9ec7a5fb.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 474
+    },
+    {
+      "roll": "03359N",
+      "url": "https://www.ballyroanboysschool.ie/_files/ugd/bb788b_054bca20617142989546268cd7f56bf2.pdf",
+      "label": "Download Here",
+      "sha256": "17ff269a94ec0fe61a8e1ed34183d0cda076cb4e66d9c4a627206bac812985e4",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/03359N_17ff269a94ec0fe61a8e.txt",
+      "source_file": "database/milestone2/cache/17ff269a94ec0fe61a8e1ed34183d0cda076cb4e66d9c4a627206bac812985e4.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 22847
+    }
+  ],
+  "pending_links": [],
+  "elapsed_seconds": 29.51,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:48:10+0000"
+}

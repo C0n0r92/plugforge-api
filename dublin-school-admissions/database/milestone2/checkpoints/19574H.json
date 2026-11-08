@@ -1,0 +1,249 @@
+{
+  "roll": "19574H",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.divinewordns.ie",
+      "final_url": "https://www.divinewordns.ie",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.divinewordns.ie/sitemap.xml",
+      "final_url": "https://www.divinewordns.ie/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.divinewordns.ie/page/Policies/16441/Index.html",
+      "final_url": "https://www.divinewordns.ie/page/Policies/16441/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.DivineWordNS.ie/Content/2023/10/jh32-Notification_regarding_Board_of_Managements_annual_review_of_AntiBullying_Policy_Sep._2023.pdf",
+      "final_url": "https://www.DivineWordNS.ie/Content/2023/10/jh32-Notification_regarding_Board_of_Managements_annual_review_of_AntiBullying_Policy_Sep._2023.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Notification regarding Board of Management's Annual Review of Anti-Bullying Policy (Sept. 2023)"
+    },
+    {
+      "url": "https://www.DivineWordNS.ie/Content/2022/10/ag20-Stay_Safe_Parents_Guide.pdf",
+      "final_url": "https://www.DivineWordNS.ie/Content/2022/10/ag20-Stay_Safe_Parents_Guide.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Stay Safe, a Guide for Parents"
+    },
+    {
+      "url": "https://www.DivineWordNS.ie/Content/2024/2/be10-Parental_Complaints_Procedure.pdf",
+      "final_url": "https://www.DivineWordNS.ie/Content/2024/2/be10-Parental_Complaints_Procedure.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parental Complaints Procedures (February 2024)"
+    },
+    {
+      "url": "https://storage.googleapis.com/iclasscrm_files/5146/Images/Content/2026/272/kn35-Admissions_Policy_Updated_Sept_2026.pdf",
+      "final_url": "https://storage.googleapis.com/iclasscrm_files/5146/Images/Content/2026/272/kn35-Admissions_Policy_Updated_Sept_2026.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions Policy (Sept. 2026)"
+    },
+    {
+      "url": "https://www.divinewordns.ie/page/Parents-Association/16755/Index.html",
+      "final_url": "https://www.divinewordns.ie/page/Parents-Association/16755/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents’ Association"
+    },
+    {
+      "url": "https://www.divinewordns.ie/Policies/Index.html",
+      "final_url": "https://www.divinewordns.ie/Policies/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.divinewordns.ie/Parents-Association/Index.html",
+      "final_url": "https://www.divinewordns.ie/Parents-Association/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents Association"
+    },
+    {
+      "url": "https://www.divinewordns.ie/Page/Policies/16441/Index.html",
+      "final_url": "https://www.divinewordns.ie/Page/Policies/16441/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.divinewordns.ie/Page/Parents-Association/16755/Index.html",
+      "final_url": "https://www.divinewordns.ie/Page/Parents-Association/16755/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents’ Association"
+    },
+    {
+      "url": "https://www.DivineWordNS.ie/Content/2022/10/ae10-Distance_Learning_Policy.pdf",
+      "final_url": "https://www.DivineWordNS.ie/Content/2022/10/ae10-Distance_Learning_Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Distance Learning Policy"
+    },
+    {
+      "url": "https://www.DivineWordNS.ie/Content/2023/11/eh13-Protected_Disclosure_Policy.pdf",
+      "final_url": "https://www.DivineWordNS.ie/Content/2023/11/eh13-Protected_Disclosure_Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Protected Disclosure Policy (Nov. 2023)"
+    },
+    {
+      "url": "https://www.DivineWordNS.ie/Content/2023/11/bb00-Data_Protection_Policy.pdf",
+      "final_url": "https://www.DivineWordNS.ie/Content/2023/11/bb00-Data_Protection_Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Data Protection Policy (Nov. 2023)"
+    },
+    {
+      "url": "https://www.DivineWordNS.ie/Content/2025/10/mx49-Bi_Cinealta_Policy.pdf",
+      "final_url": "https://www.DivineWordNS.ie/Content/2025/10/mx49-Bi_Cinealta_Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Bí Cineálta Policy (Anti-Bullying) (Nov. 2024)"
+    },
+    {
+      "url": "https://www.DivineWordNS.ie/Content/2025/2/zx99-Administration_of_Medicines_Policy_Updated_Feb_2025.pdf",
+      "final_url": "https://www.DivineWordNS.ie/Content/2025/2/zx99-Administration_of_Medicines_Policy_Updated_Feb_2025.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Administration of Medication (Feb. 2025)"
+    },
+    {
+      "url": "https://www.DivineWordNS.ie/Page/Terms,-Conditions-and-Privacy-Policy/15185/Index.html",
+      "final_url": "https://www.DivineWordNS.ie/Page/Terms,-Conditions-and-Privacy-Policy/15185/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Terms, Conditions and Privacy Policy"
+    },
+    {
+      "url": "https://www.DivineWordNS.ie/page/Admissions/16912/Index.html",
+      "final_url": "https://www.DivineWordNS.ie/page/Admissions/16912/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://www.DivineWordNS.ie/Enrolment/Index.html",
+      "final_url": "https://www.DivineWordNS.ie/Enrolment/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Enrolment"
+    },
+    {
+      "url": "https://www.DivineWordNS.ie/Page/Admissions/16912/Index.html",
+      "final_url": "https://www.DivineWordNS.ie/Page/Admissions/16912/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://www.DivineWordNS.ie/Admissions/Index.html",
+      "final_url": "https://www.DivineWordNS.ie/Admissions/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://www.DivineWordNS.ie/News/Admissions-September-2025/532814/Index.html",
+      "final_url": "https://www.DivineWordNS.ie/News/Admissions-September-2025/532814/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions September 2025"
+    },
+    {
+      "url": "https://storage.googleapis.com/iclasscrm_files/5146/Images/Content/2026/275/yc90-Student_Friendly_Safe_Guarding_Statement.pdf",
+      "final_url": "https://storage.googleapis.com/iclasscrm_files/5146/Images/Content/2026/275/yc90-Student_Friendly_Safe_Guarding_Statement.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "CSS Student Friendly Version"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19574H",
+      "url": "https://storage.googleapis.com/iclasscrm_files/5146/Images/Content/2026/272/kn35-Admissions_Policy_Updated_Sept_2026.pdf",
+      "label": "Admissions Policy (Sept. 2026)",
+      "sha256": "9da8ede2a866fc7a13a62ee5ac47b7e7761ca51a581ee058ed5ee80f8f46f2a6",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19574H_9da8ede2a866fc7a13a6.txt",
+      "source_file": "database/milestone2/cache/9da8ede2a866fc7a13a62ee5ac47b7e7761ca51a581ee058ed5ee80f8f46f2a6.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 27184
+    },
+    {
+      "roll": "19574H",
+      "url": "https://www.DivineWordNS.ie/page/Admissions/16912/Index.html",
+      "label": "Admissions",
+      "sha256": "1fb4114da772a8cc5490620a839af18b0d898d616eab9fb776d00b8bf91402ea",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19574H_1fb4114da772a8cc5490.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 4907
+    },
+    {
+      "roll": "19574H",
+      "url": "https://www.DivineWordNS.ie/Page/Admissions/16912/Index.html",
+      "label": "Admissions",
+      "sha256": "bc2b099264736895e2f91d50f1d356e5fc2f0766048a956589ddccf67eaf8fdc",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19574H_bc2b099264736895e2f9.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 4907
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://storage.googleapis.com/iclasscrm_files/5146/Content/2026/7/pn55-Book_Lists_2627_2.pdf?1834",
+      "label": "Booklists 2026/27",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://storage.googleapis.com/iclasscrm_files/5146/Content/2026/10/ss76-CSS_1_Child_Protection_Safeguarding_Statement_Divine_Word_NS.pdf?26703",
+      "label": "CSS 1-Child Protection Statement",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://storage.googleapis.com/iclasscrm_files/5146/Content/2026/10/pr56-School_Calendar_20262027.pdf?14706",
+      "label": "Calendar",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.DivineWordNS.ie/sitemap.xml",
+      "label": "Public sitemap",
+      "via": "sitemap_root"
+    },
+    {
+      "url": "https://www.DivineWordNS.ie/page/Policies/16441/Index.html",
+      "label": "Policies",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.DivineWordNS.ie/page/Parents-Association/16755/Index.html",
+      "label": "Parents’ Association",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.DivineWordNS.ie/Page/Cookie-Policy/15028/Index.html",
+      "label": "Cookie Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 82.19,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:46:41+0000"
+}

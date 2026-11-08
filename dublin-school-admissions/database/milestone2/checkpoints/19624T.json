@@ -1,0 +1,376 @@
+{
+  "roll": "19624T",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.stcatherinesns.ie",
+      "final_url": "https://www.stcatherinesns.ie",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.stcatherinesns.ie/page/Autism-Class-Enrolment/77654/Index.html",
+      "final_url": "https://www.stcatherinesns.ie/page/Autism-Class-Enrolment/77654/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Autism Class Enrolment"
+    },
+    {
+      "url": "https://www.stcatherinesns.ie/page/Admissions-and-Enrolment/77287/Index.html",
+      "final_url": "https://www.stcatherinesns.ie/page/Admissions-and-Enrolment/77287/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions and Enrolment"
+    },
+    {
+      "url": "https://www.stcatherinesns.ie/admissions/Index.html",
+      "final_url": "https://www.stcatherinesns.ie/admissions/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "admissions"
+    },
+    {
+      "url": "https://www.stcatherinesns.ie/admission/Index.html",
+      "final_url": "https://www.stcatherinesns.ie/admission/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "admission"
+    },
+    {
+      "url": "https://www.stcatherinesns.ie/Page/Autism-Class-Enrolment/77654/Index.html",
+      "final_url": "https://www.stcatherinesns.ie/Page/Autism-Class-Enrolment/77654/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Autism Class Enrolment"
+    },
+    {
+      "url": "https://www.stcatherinesns.ie/Page/Admissions-and-Enrolment/77287/Index.html",
+      "final_url": "https://www.stcatherinesns.ie/Page/Admissions-and-Enrolment/77287/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions and Enrolment"
+    },
+    {
+      "url": "https://storage.googleapis.com/iclasscrm_files/3157/Images/Content/2026/296/tx79-St_Catherines_Admission_Policy_Oct26.pdf",
+      "final_url": "https://storage.googleapis.com/iclasscrm_files/3157/Images/Content/2026/296/tx79-St_Catherines_Admission_Policy_Oct26.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "St_Catherines_Admission_Policy_Oct26"
+    },
+    {
+      "url": "https://storage.googleapis.com/iclasscrm_files/3157/Images/Content/2026/296/fb20-St_Catherines_Admission_Policy_Oct26.pdf",
+      "final_url": "https://storage.googleapis.com/iclasscrm_files/3157/Images/Content/2026/296/fb20-St_Catherines_Admission_Policy_Oct26.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "St_Catherines_Admission_Policy_Oct26"
+    },
+    {
+      "url": "https://www.stcatherinesns.ie/sitemap.xml",
+      "final_url": "https://www.stcatherinesns.ie/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.stcatherinesns.ie/page/Primary-Maths-Curriculum/97105/Index.html",
+      "final_url": "https://www.stcatherinesns.ie/page/Primary-Maths-Curriculum/97105/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents"
+    },
+    {
+      "url": "https://www.stcatherinesns.ie/page/Policies/54533/Index.html",
+      "final_url": "https://www.stcatherinesns.ie/page/Policies/54533/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://storage.googleapis.com/iclasscrm_files/3157/Images/Content/2025/322/vn84-Annual_Admission_Notice_202627.docx",
+      "final_url": "https://storage.googleapis.com/iclasscrm_files/3157/Images/Content/2025/322/vn84-Annual_Admission_Notice_202627.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Annual Admission Notice 2026-27"
+    },
+    {
+      "url": "https://www.StCatherinesNS.ie/Content/2025/5/ep15-ParentalComplaintsProcedure_V4final_3.pdf",
+      "final_url": "https://www.StCatherinesNS.ie/Content/2025/5/ep15-ParentalComplaintsProcedure_V4final_3.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parental-Complaints-Procedure.pdf"
+    },
+    {
+      "url": "https://storage.googleapis.com/iclasscrm_files/3157/Images/Content/2025/322/un75-St_Catherines_Admission_Policy_Oct25.docx",
+      "final_url": "https://storage.googleapis.com/iclasscrm_files/3157/Images/Content/2025/322/un75-St_Catherines_Admission_Policy_Oct25.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "St Catherine's Admission Policy Oct25"
+    },
+    {
+      "url": "https://www.StCatherinesNS.ie/Content/2020/3/Data_Protection_Policy_September_2018.pdf",
+      "final_url": "https://www.StCatherinesNS.ie/Content/2020/3/Data_Protection_Policy_September_2018.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Data Protection Policy"
+    },
+    {
+      "url": "https://www.StCatherinesNS.ie/Content/2020/3/SupervisionPolicy_2019.pdf",
+      "final_url": "https://www.StCatherinesNS.ie/Content/2020/3/SupervisionPolicy_2019.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Supervision Policy"
+    },
+    {
+      "url": "https://www.StCatherinesNS.ie/Content/2020/3/OnetoOneTeachingPolicy_2019.pdf",
+      "final_url": "https://www.StCatherinesNS.ie/Content/2020/3/OnetoOneTeachingPolicy_2019.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "One-to-One-Teaching-Policy"
+    },
+    {
+      "url": "https://www.StCatherinesNS.ie/Content/2020/3/Homework_Policy_2019_Final_Copy_1.pdf",
+      "final_url": "https://www.StCatherinesNS.ie/Content/2020/3/Homework_Policy_2019_Final_Copy_1.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Homework Policy"
+    },
+    {
+      "url": "https://www.stcatherinesns.ie/policies/Index.html",
+      "final_url": "https://www.stcatherinesns.ie/policies/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "policies"
+    },
+    {
+      "url": "https://www.stcatherinesns.ie/page/Parents-Association/55267/Index.html",
+      "final_url": "https://www.stcatherinesns.ie/page/Parents-Association/55267/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents' Association"
+    },
+    {
+      "url": "https://www.StCatherinesNS.ie/Content/2024/5/td71-SCPA_Constitution.pdf",
+      "final_url": "https://www.StCatherinesNS.ie/Content/2024/5/td71-SCPA_Constitution.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents' Association Constitution"
+    },
+    {
+      "url": "https://www.stcatherinesns.ie/parents-association/Index.html",
+      "final_url": "https://www.stcatherinesns.ie/parents-association/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "parents association"
+    },
+    {
+      "url": "https://www.stcatherinesns.ie/page/Parent-Supports/96371/Index.html",
+      "final_url": "https://www.stcatherinesns.ie/page/Parent-Supports/96371/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parent Supports"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19624T",
+      "url": "https://www.stcatherinesns.ie/page/Autism-Class-Enrolment/77654/Index.html",
+      "label": "Autism Class Enrolment",
+      "sha256": "37f25608b383ebaa3ac21c4ef10829f9126ac0b1cf8c7c82cda83db852a6e6e5",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19624T_37f25608b383ebaa3ac2.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 947
+    },
+    {
+      "roll": "19624T",
+      "url": "https://www.stcatherinesns.ie/page/Admissions-and-Enrolment/77287/Index.html",
+      "label": "Admissions and Enrolment",
+      "sha256": "1f035c13dd2c7cf6a45cef5538ff4d8f9bc41f994e0fd615372846c785ffe924",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19624T_1f035c13dd2c7cf6a45c.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1068
+    },
+    {
+      "roll": "19624T",
+      "url": "https://www.stcatherinesns.ie/admissions/Index.html",
+      "label": "admissions",
+      "sha256": "51d0682fa03e24a897c766e5d43dc8c7eabf9285114a8ba82e464535baa951f5",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19624T_51d0682fa03e24a897c7.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 523
+    },
+    {
+      "roll": "19624T",
+      "url": "https://www.stcatherinesns.ie/Page/Autism-Class-Enrolment/77654/Index.html",
+      "label": "Autism Class Enrolment",
+      "sha256": "f21c93b788800a0edb9413d911ecf7424863aee473c74e971a207e7ecdcae2ba",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19624T_f21c93b788800a0edb94.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 947
+    },
+    {
+      "roll": "19624T",
+      "url": "https://www.stcatherinesns.ie/Page/Admissions-and-Enrolment/77287/Index.html",
+      "label": "Admissions and Enrolment",
+      "sha256": "e84879579ac3a0f875c62dc314685838657fe0e48e0dfc5257f1e38840b780e9",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19624T_e84879579ac3a0f875c6.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1068
+    },
+    {
+      "roll": "19624T",
+      "url": "https://storage.googleapis.com/iclasscrm_files/3157/Images/Content/2026/296/tx79-St_Catherines_Admission_Policy_Oct26.pdf",
+      "label": "St_Catherines_Admission_Policy_Oct26",
+      "sha256": "a84ca9a12713e65744f373804649a78dad8fa4254cddc8012dc63b15575f7dad",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19624T_a84ca9a12713e65744f3.txt",
+      "source_file": "database/milestone2/cache/a84ca9a12713e65744f373804649a78dad8fa4254cddc8012dc63b15575f7dad.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 28911
+    },
+    {
+      "roll": "19624T",
+      "url": "https://www.stcatherinesns.ie/page/Policies/54533/Index.html",
+      "label": "Policies",
+      "sha256": "1a240ec87188bf79c55a9e954b2e52c3027bfa5e07e0fec5e204a25f596eb7c5",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19624T_1a240ec87188bf79c55a.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1197
+    },
+    {
+      "roll": "19624T",
+      "url": "https://storage.googleapis.com/iclasscrm_files/3157/Images/Content/2025/322/vn84-Annual_Admission_Notice_202627.docx",
+      "label": "Annual Admission Notice 2026-27",
+      "sha256": "b5c94bebc1fdaf610cc19d9f7e84ab3480c4a0d1ba87c5bac53eeef31ecc2365",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/19624T_b5c94bebc1fdaf610cc1.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 2609
+    },
+    {
+      "roll": "19624T",
+      "url": "https://storage.googleapis.com/iclasscrm_files/3157/Images/Content/2025/322/un75-St_Catherines_Admission_Policy_Oct25.docx",
+      "label": "St Catherine's Admission Policy Oct25",
+      "sha256": "8454bca13d10e781708afc87be481ae05a5648f2ecc87ff54796dfc99735484d",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/19624T_8454bca13d10e781708a.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 26171
+    },
+    {
+      "roll": "19624T",
+      "url": "https://www.stcatherinesns.ie/policies/Index.html",
+      "label": "policies",
+      "sha256": "9b10c623c96b533a9abea02e51cff36405285e454b6a98445a42eb88d0cd9974",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19624T_9b10c623c96b533a9abe.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 511
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.StCatherinesNS.ie/Content/2024/11/cx19-119261_a005d44fccbe4246888788a22c911463.pdf",
+      "label": "Directory of Wellbeing Supports and Resources for Post Primary School Parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.StCatherinesNS.ie/Content/2024/11/xu97-RSE_in_Primary_School_Parent_Tips.pdf",
+      "label": "RSE in Primary School Parent Tips.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.StCatherinesNS.ie/Content/2024/11/qb60-OnlineSafetyTalkingPointsforParents.pdf",
+      "label": "Online-Safety-Talking-Points-for-Parents.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.StCatherinesNS.ie/Content/2024/11/nt47-WebwiseParentsOnlineSafetyChecklist.pdf",
+      "label": "Webwise-Parents-Online-Safety-Checklist.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.StCatherinesNS.ie/Content/2024/11/nd51-TOPINTERNETSAFETYTIPSFORPARENTS.pdf",
+      "label": "TOP-INTERNET-SAFETY-TIPS-FOR-PARENTS.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.StCatherinesNS.ie/Content/2024/11/mo45-WebwiseParentsGuide.pdf",
+      "label": "Webwise-Parents-Guide.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.StCatherinesNS.ie/Content/2024/11/kl34-StaySafe__ParentsGuide.pdf",
+      "label": "Stay-Safe - Parent's-Guide.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stcatherinesns.ie/Parent/Index.html",
+      "label": "Parent",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stcatherinesns.ie/Page/Policies/54533/Index.html",
+      "label": "Policies",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stcatherinesns.ie/Page/Parents-Association/55267/Index.html",
+      "label": "Parents' Association",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.StCatherinesNS.ie/Content/2020/3/Restrictive_Practices_Policy.pdf",
+      "label": "Restrictive Practices Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.StCatherinesNS.ie/Content/2020/3/RSE_policy.pdf",
+      "label": "RSE Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.StCatherinesNS.ie/Content/2020/3/Parent_as_Partners_Policy.pdf",
+      "label": "Parent as Partners Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.StCatherinesNS.ie/Content/2025/5/gf22-Policy_on_Reconfiguration_7.4.25.docx",
+      "label": "Policy on Reconfiguration.docx",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.StCatherinesNS.ie/Content/2025/5/cx90-Healthy_Eating_Policy.docx",
+      "label": "Healthy Eating Policy.docx",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://storage.googleapis.com/iclasscrm_files/3157/Images/Content/2026/294/ov58-nv58Autism_Class_Application_Form_2027_3.docx",
+      "label": "Autism Class Application Form 2027–2028",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stcatherinesns.ie/Policy/Index.html",
+      "label": "Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 75.79,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:46:45+0000"
+}

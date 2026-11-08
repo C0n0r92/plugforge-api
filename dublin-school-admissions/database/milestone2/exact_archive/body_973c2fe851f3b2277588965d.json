@@ -1,0 +1,22 @@
+{
+  "roll": "19314E",
+  "capture": {
+    "timestamp": "20150313170155",
+    "original": "http://www.olbns.com:80/",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "digest": "SOKS5RQY6FM4HP4CJQPWGUC5J3X22QSW"
+  },
+  "original_url": "http://www.olbns.com:80/",
+  "archived_url": "https://web.archive.org/web/20150313170155/http://www.olbns.com:80/",
+  "attempted_at": "2026-11-08T12:51:15.870248+00:00",
+  "linked_from_capture": null,
+  "http_status": 302,
+  "headers": {
+    "Content-Type": "text/plain; charset=utf-8",
+    "location": "https://web.archive.org/web/20160206163929/http://www.olbns.com/"
+  },
+  "bytes": 0,
+  "status": "archive_redirect_pending",
+  "redirect_url": "https://web.archive.org/web/20160206163929/http://www.olbns.com/"
+}

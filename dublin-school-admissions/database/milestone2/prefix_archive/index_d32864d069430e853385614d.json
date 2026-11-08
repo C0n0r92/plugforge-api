@@ -1,0 +1,31 @@
+{
+  "roll": "00697S",
+  "original_prefix": "https://saintbrigids.ie/wp/pwa/wp-content/uploads/",
+  "method": "documented_CDX_source_derived_upload_prefix_all_available_dates",
+  "earliest_year_cutoff": null,
+  "attempted_at": "2026-11-08T12:58:49.205687+00:00",
+  "pages": [
+    {
+      "at": "2026-11-08T12:59:23.731003+00:00",
+      "params": {
+        "url": "https://saintbrigids.ie/wp/pwa/wp-content/uploads/",
+        "matchType": "prefix",
+        "output": "json",
+        "fl": "timestamp,original,mimetype,statuscode,digest",
+        "filter": [
+          "statuscode:200",
+          "mimetype:application/pdf",
+          "original:(?i).*(admi|fogra|fógra|iontr|bliant|enrol).*"
+        ],
+        "collapse": "urlkey",
+        "limit": "200",
+        "showResumeKey": "true"
+      },
+      "http_status": null
+    }
+  ],
+  "captures": [],
+  "status": "index_transient_failure_pending",
+  "error_class": "ReadTimeout",
+  "error": "HTTPSConnectionPool(host='web.archive.org', port=443): Read timed out. (read timeout=25)"
+}

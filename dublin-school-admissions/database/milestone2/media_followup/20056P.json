@@ -1,0 +1,40 @@
+{
+  "roll": "20056P",
+  "attempted_at": "2026-11-08T12:56:31+0000",
+  "method": "documented_public_WordPress_media_notice_and_Irish_title_gap_search",
+  "attempts": [
+    {
+      "url": "https://gaelscoilphadraig.ie/wp-json/wp/v2/media?search=notice&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok"
+    },
+    {
+      "url": "https://gaelscoilphadraig.ie/wp-json/wp/v2/media?search=f%C3%B3gra&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok"
+    },
+    {
+      "url": "https://gaelscoilphadraig.ie/wp-content/uploads/2023/10/Fogra-bliantuiil-Frith-bhulaiocht.pdf",
+      "status": "ok",
+      "label": "Fógra bliantuìil Frith bhulaíocht"
+    },
+    {
+      "url": "https://gaelscoilphadraig.ie/wp-content/uploads/2023/10/Fogra-bliantuil-Cosaint-Leanai.pdf",
+      "status": "ok",
+      "label": "Fógra bliantúil Cosaint Leanaí"
+    },
+    {
+      "url": "https://gaelscoilphadraig.ie/wp-content/uploads/2025/10/Fogra-sinithe-Raiteas-um-Chumhdach-Leanai-.pdf",
+      "status": "ok",
+      "label": "Fógra sínithe- Ráiteas um Chumhdach Leanaí"
+    },
+    {
+      "url": "https://gaelscoilphadraig.ie/wp-content/uploads/2026/10/Fogra-maidir-le-hAthbhreithniu-_-Notification-of-Review.pdf",
+      "status": "ok",
+      "label": "Fógra maidir le hAthbhreithniú _ Notification of Review"
+    }
+  ],
+  "documents": [],
+  "pending_links": [],
+  "earliest_year_cutoff": null,
+  "status": "attempted_no_new_notice_payload",
+  "elapsed_seconds": 25.6
+}

@@ -1,0 +1,25 @@
+{
+  "roll": "16786H",
+  "status": "access_or_infrastructure_deferred",
+  "attempts": [
+    {
+      "url": "https://www.stbrigidsthecoombe.ie/enrolment-2026-27",
+      "final_url": "https://www.stbrigidsthecoombe.ie/enrolment-2026-27",
+      "status": "robots_permission_unestablished_http_200",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://www.stbrigidsthecoombe.ie",
+      "final_url": "https://www.stbrigidsthecoombe.ie",
+      "status": "robots_permission_unestablished_http_200",
+      "via": "home",
+      "label": "School homepage"
+    }
+  ],
+  "documents": [],
+  "pending_links": [],
+  "elapsed_seconds": 0.96,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:02:00+0000"
+}

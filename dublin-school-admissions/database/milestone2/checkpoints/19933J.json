@@ -1,0 +1,81 @@
+{
+  "roll": "19933J",
+  "status": "bounded_search_no_new_notice_found",
+  "attempts": [
+    {
+      "url": "https://www.scoiltreasanaofa.ie/enrolment-admissions",
+      "final_url": "https://www.scoiltreasanaofa.ie/enrolment-admissions",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Enrolment Process"
+    },
+    {
+      "url": "http://www.scoiltreasanaofa.ie/uploads/9/6/4/4/9644885/2025-2026_admissions_notice.pdf",
+      "final_url": "http://www.scoiltreasanaofa.ie/uploads/9/6/4/4/9644885/2025-2026_admissions_notice.pdf",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "​"
+    },
+    {
+      "url": "https://www.scoiltreasanaofa.ie/_files/ugd/c08cc8_8efd511872e9437d9d2b68d0e7646423.pdf",
+      "final_url": "https://b99f322a-63f3-4636-97e1-443037bce831.filesusr.com/ugd/c08cc8_8efd511872e9437d9d2b68d0e7646423.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "2026-2027 Admission Notice"
+    },
+    {
+      "url": "https://www.scoiltreasanaofa.ie/_files/ugd/c08cc8_5d0efb4cc9584b1faf74d1d08fc14a92.pdf?index=true",
+      "final_url": "https://b99f322a-63f3-4636-97e1-443037bce831.filesusr.com/ugd/c08cc8_5d0efb4cc9584b1faf74d1d08fc14a92.pdf?index=true",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "here"
+    },
+    {
+      "url": "https://www.scoiltreasanaofa.ie/_files/ugd/4d0b36_74fb106c51c34168911584a17d61d780.pdf",
+      "final_url": "https://b99f322a-63f3-4636-97e1-443037bce831.filesusr.com/ugd/4d0b36_74fb106c51c34168911584a17d61d780.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "Admissions Policy"
+    },
+    {
+      "url": "https://www.scoiltreasanaofa.ie/sitemap.xml",
+      "final_url": "https://www.scoiltreasanaofa.ie/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.scoiltreasanaofa.ie",
+      "final_url": "https://www.scoiltreasanaofa.ie",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.scoiltreasanaofa.ie/policy",
+      "final_url": "https://www.scoiltreasanaofa.ie/policy",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "POLICIES"
+    },
+    {
+      "url": "https://www.scoiltreasanaofa.ie/_files/ugd/4d0b36_08e09ce099284b589f9af2a45389ff65.pdf",
+      "final_url": "https://b99f322a-63f3-4636-97e1-443037bce831.filesusr.com/ugd/4d0b36_08e09ce099284b589f9af2a45389ff65.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "Parental Complaints"
+    },
+    {
+      "url": "https://www.scoiltreasanaofa.ie/_files/ugd/4d0b36_b4bf7f1819c147b688cab34fcce7df6a.pdf",
+      "final_url": "https://b99f322a-63f3-4636-97e1-443037bce831.filesusr.com/ugd/4d0b36_b4bf7f1819c147b688cab34fcce7df6a.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "Acceptable Usage Policy"
+    }
+  ],
+  "documents": [],
+  "pending_links": [],
+  "elapsed_seconds": 26.89,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:09:44+0000"
+}

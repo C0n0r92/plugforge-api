@@ -1,0 +1,156 @@
+{
+  "roll": "18417J",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://stjosephsprimaryvi.ie/admissions-2026-2027/",
+      "final_url": "https://stjosephsprimaryvi.ie/admissions-2026-2027/",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://stjosephsprimaryvi.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://stjosephsprimaryvi.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "http_access_denied_401",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://stjosephsprimaryvi.ie/wp-content/uploads/2022/11/St-Josephs-Code-of-Behaviour_09_20.pdf",
+      "final_url": "https://stjosephsprimaryvi.ie/wp-content/uploads/2022/11/St-Josephs-Code-of-Behaviour_09_20.pdf",
+      "status": "http_access_denied_401",
+      "via": "school_public_link",
+      "label": "St Joseph’s Code of Behaviour_09_20"
+    },
+    {
+      "url": "https://stjosephsprimaryvi.ie/wp-content/uploads/2025/12/Final-Admissions-Policy-2025_26-St-Josephs-Primary-VI.pdf",
+      "final_url": "https://stjosephsprimaryvi.ie/wp-content/uploads/2025/12/Final-Admissions-Policy-2025_26-St-Josephs-Primary-VI.pdf",
+      "status": "http_access_denied_401",
+      "via": "school_public_link",
+      "label": "Final Admissions Policy 2025_26 St Josephs Primary VI"
+    },
+    {
+      "url": "https://stjosephsprimaryvi.ie/wp-sitemap.xml",
+      "final_url": "https://stjosephsprimaryvi.ie/wp-sitemap.xml",
+      "status": "http_access_denied_401",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://stjosephsprimaryvi.ie/sitemap.xml",
+      "final_url": "https://stjosephsprimaryvi.ie/sitemap.xml",
+      "status": "http_access_denied_401",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://stjosephsprimaryvi.ie/school-policies/school-bus-transport-responsibilities-and-procedures/",
+      "final_url": "https://stjosephsprimaryvi.ie/school-policies/school-bus-transport-responsibilities-and-procedures/",
+      "status": "http_access_denied_401",
+      "via": "school_public_link",
+      "label": "School Bus Transport"
+    },
+    {
+      "url": "https://stjosephsprimaryvi.ie/school-policies/childsafeguardingstatement/",
+      "final_url": "https://stjosephsprimaryvi.ie/school-policies/childsafeguardingstatement/",
+      "status": "http_access_denied_401",
+      "via": "school_public_link",
+      "label": "Child Safeguarding Statement"
+    },
+    {
+      "url": "https://stjosephsprimaryvi.ie/school-policies/",
+      "final_url": "https://stjosephsprimaryvi.ie/school-policies/",
+      "status": "http_access_denied_401",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://stjosephsprimaryvi.ie/category/online-resources-parents/",
+      "final_url": "https://stjosephsprimaryvi.ie/category/online-resources-parents/",
+      "status": "http_access_denied_401",
+      "via": "school_public_link",
+      "label": "Online Resources for Parents"
+    },
+    {
+      "url": "https://stjosephsprimaryvi.ie/about-us/school-information-for-parents-and-guardians/",
+      "final_url": "https://stjosephsprimaryvi.ie/about-us/school-information-for-parents-and-guardians/",
+      "status": "http_access_denied_401",
+      "via": "school_public_link",
+      "label": "School Information for Parents and Guardians"
+    },
+    {
+      "url": "https://stjosephsprimaryvi.ie",
+      "final_url": "https://stjosephsprimaryvi.ie",
+      "status": "http_access_denied_401",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://stjosephsprimaryvi.ie/wp-content/uploads/2025/12/St_J_VI_Post-Primary_L1LP_Application-Form_2026_2027-2.docx",
+      "final_url": "https://stjosephsprimaryvi.ie/wp-content/uploads/2025/12/St_J_VI_Post-Primary_L1LP_Application-Form_2026_2027-2.docx",
+      "status": "http_access_denied_401",
+      "via": "school_public_link",
+      "label": "https://stjosephsprimaryvi.ie/wp-content/uploads/2025/12/St_J_VI_Post-Primary_L1LP_Application-Form_2026_2027-2.docx"
+    },
+    {
+      "url": "https://stjosephsprimaryvi.ie/wp-content/uploads/2025/12/St_J_Primary_VI_Application-Form-2026_27.docx",
+      "final_url": "https://stjosephsprimaryvi.ie/wp-content/uploads/2025/12/St_J_Primary_VI_Application-Form-2026_27.docx",
+      "status": "http_access_denied_401",
+      "via": "school_public_link",
+      "label": "St_J_Primary_VI_Application Form 2025_26"
+    },
+    {
+      "url": "https://stjosephsprimaryvi.ie/wp-content/uploads/2025/12/Bi-Cinealta-Policy-to-Prevent-and-Address-Bullying-Behaviour-September-2025.pdf",
+      "final_url": "https://stjosephsprimaryvi.ie/wp-content/uploads/2025/12/Bi-Cinealta-Policy-to-Prevent-and-Address-Bullying-Behaviour-September-2025.pdf",
+      "status": "http_access_denied_401",
+      "via": "school_public_link",
+      "label": "https://stjosephsprimaryvi.ie/wp-content/uploads/2025/12/Bi-Cinealta-Policy-to-Prevent-and-Address-Bullying-Behaviour-September-2025.pdf"
+    },
+    {
+      "url": "https://stjosephsprimaryvi.ie/school-policies/https-stjosephsprimaryvi-ie-wp-content-uploads-2024-11-anti-bullying-policy-june-2024-pdf/",
+      "final_url": "https://stjosephsprimaryvi.ie/school-policies/https-stjosephsprimaryvi-ie-wp-content-uploads-2024-11-anti-bullying-policy-june-2024-pdf/",
+      "status": "http_access_denied_401",
+      "via": "school_public_link",
+      "label": "Bí Cineálta Policy to Prevent and Address Bullying Behaviour"
+    },
+    {
+      "url": "https://stjosephsprimaryvi.ie/school-policies/sphe_wellbeing-policy/",
+      "final_url": "https://stjosephsprimaryvi.ie/school-policies/sphe_wellbeing-policy/",
+      "status": "http_access_denied_401",
+      "via": "school_public_link",
+      "label": "SPHE_Wellbeing Policy"
+    },
+    {
+      "url": "https://stjosephsprimaryvi.ie/school-policies/pupil-illness-and-medications-policy/",
+      "final_url": "https://stjosephsprimaryvi.ie/school-policies/pupil-illness-and-medications-policy/",
+      "status": "http_access_denied_401",
+      "via": "school_public_link",
+      "label": "Pupil Illness & Medications"
+    },
+    {
+      "url": "https://stjosephsprimaryvi.ie/school-policies/positive-behaviour-policy-and-code/",
+      "final_url": "https://stjosephsprimaryvi.ie/school-policies/positive-behaviour-policy-and-code/",
+      "status": "http_access_denied_401",
+      "via": "school_public_link",
+      "label": "Positive Behaviour Policy and Code"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "18417J",
+      "url": "https://stjosephsprimaryvi.ie/admissions-2026-2027/",
+      "label": "Prior school admissions section",
+      "sha256": "1232f419376428fdf45e9a5ee5cd5eebb4daf812c026505a3c7542fff92ba182",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/18417J_1232f419376428fdf45e.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 924
+    }
+  ],
+  "pending_links": [],
+  "elapsed_seconds": 10.33,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:52:23+0000"
+}

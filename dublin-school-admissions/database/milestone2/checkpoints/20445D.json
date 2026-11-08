@@ -1,0 +1,158 @@
+{
+  "roll": "20445D",
+  "status": "bounded_search_no_new_notice_found",
+  "attempts": [
+    {
+      "url": "https://www.mpetns.ie/",
+      "final_url": "https://www.mpetns.ie/",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.mpetns.ie/sitemap.xml",
+      "final_url": "https://www.mpetns.ie/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.mpetns.ie/policies",
+      "final_url": "https://www.mpetns.ie/policies",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.mpetns.ie/_files/ugd/aa267c_c79fd714c60f4495a8d97db89c5af014.pdf",
+      "final_url": "https://db1ba97c-3bb0-4a2c-8372-760a9c14b183.filesusr.com/ugd/aa267c_c79fd714c60f4495a8d97db89c5af014.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "Admission and Participation Policy"
+    },
+    {
+      "url": "https://www.mpetns.ie/event-pages-sitemap.xml",
+      "final_url": "https://www.mpetns.ie/event-pages-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.mpetns.ie/blog-posts-sitemap.xml",
+      "final_url": "https://www.mpetns.ie/blog-posts-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.mpetns.ie/blog-categories-sitemap.xml",
+      "final_url": "https://www.mpetns.ie/blog-categories-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.mpetns.ie/_files/ugd/d146e9_e36b20554f6f4e9d923a8c35c7b6d15a.pdf",
+      "final_url": "https://www.mpetns.ie/_files/ugd/d146e9_e36b20554f6f4e9d923a8c35c7b6d15a.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Acceptable Use Policy"
+    },
+    {
+      "url": "https://www.mpetns.ie/_files/ugd/d146e9_ce6b87c3b6b44139a1e28474cd96f7eb.pdf",
+      "final_url": "https://www.mpetns.ie/_files/ugd/d146e9_ce6b87c3b6b44139a1e28474cd96f7eb.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parental/Guardian Complaints Procedure Policy"
+    },
+    {
+      "url": "https://www.mpetns.ie/_files/ugd/ccc8ee_b6f3b1014cec4dbdbeb9d871878bd006.pdf",
+      "final_url": "https://db1ba97c-3bb0-4a2c-8372-760a9c14b183.filesusr.com/ugd/ccc8ee_b6f3b1014cec4dbdbeb9d871878bd006.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "After School Activities Policy"
+    },
+    {
+      "url": "https://www.mpetns.ie/_files/ugd/ccc8ee_aa96f361d06c4531852fc4f855e64581.pdf",
+      "final_url": "https://db1ba97c-3bb0-4a2c-8372-760a9c14b183.filesusr.com/ugd/ccc8ee_aa96f361d06c4531852fc4f855e64581.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "Protected Disclosure in the Workplace Policy"
+    },
+    {
+      "url": "https://www.mpetns.ie/_files/ugd/ccc8ee_a7885932e3f8439fa55f3e85e101d26e.pdf",
+      "final_url": "https://db1ba97c-3bb0-4a2c-8372-760a9c14b183.filesusr.com/ugd/ccc8ee_a7885932e3f8439fa55f3e85e101d26e.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "Critical Incident Management Policy"
+    },
+    {
+      "url": "https://www.mpetns.ie/_files/ugd/ccc8ee_62e13c4137cf4f639ed8506dfcaa9507.pdf",
+      "final_url": "https://db1ba97c-3bb0-4a2c-8372-760a9c14b183.filesusr.com/ugd/ccc8ee_62e13c4137cf4f639ed8506dfcaa9507.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "Bí Cineálta (Anti-Bullying) Policy"
+    },
+    {
+      "url": "https://www.mpetns.ie/_files/ugd/ccc8ee_09b8d87f37ab49c4ad8acdcf947f6798.pdf",
+      "final_url": "https://db1ba97c-3bb0-4a2c-8372-760a9c14b183.filesusr.com/ugd/ccc8ee_09b8d87f37ab49c4ad8acdcf947f6798.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "Healthy Eating Policy"
+    },
+    {
+      "url": "https://www.mpetns.ie/_files/ugd/aa267c_f41a34ccebff4ad4a8df3860f20854e3.pdf",
+      "final_url": "https://db1ba97c-3bb0-4a2c-8372-760a9c14b183.filesusr.com/ugd/aa267c_f41a34ccebff4ad4a8df3860f20854e3.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "Special Educational Needs Policy"
+    },
+    {
+      "url": "https://www.mpetns.ie/_files/ugd/aa267c_2f69245740e5404abe2f05a4c457bcc3.pdf",
+      "final_url": "https://db1ba97c-3bb0-4a2c-8372-760a9c14b183.filesusr.com/ugd/aa267c_2f69245740e5404abe2f05a4c457bcc3.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "Parental/Guardian Involvement Policy"
+    },
+    {
+      "url": "https://www.mpetns.ie/_files/ugd/16ae24_e8e987d04bce4b5c81c8af5a2bdf1153.pdf",
+      "final_url": "https://db1ba97c-3bb0-4a2c-8372-760a9c14b183.filesusr.com/ugd/16ae24_e8e987d04bce4b5c81c8af5a2bdf1153.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "Garda Vetting Policy"
+    },
+    {
+      "url": "https://www.mpetns.ie/_files/ugd/16ae24_d36874a54cb349f1a0bf4f5dd4274a89.pdf",
+      "final_url": "https://db1ba97c-3bb0-4a2c-8372-760a9c14b183.filesusr.com/ugd/16ae24_d36874a54cb349f1a0bf4f5dd4274a89.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "Attendance Policy"
+    },
+    {
+      "url": "https://www.mpetns.ie/_files/ugd/16ae24_8e3d385e33ba4e29be80126769686d5f.pdf",
+      "final_url": "https://db1ba97c-3bb0-4a2c-8372-760a9c14b183.filesusr.com/ugd/16ae24_8e3d385e33ba4e29be80126769686d5f.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "Assessment Policy"
+    },
+    {
+      "url": "https://www.mpetns.ie/_files/ugd/16ae24_7ef75db81e35403da9d010b6b9b4467c.pdf",
+      "final_url": "https://db1ba97c-3bb0-4a2c-8372-760a9c14b183.filesusr.com/ugd/16ae24_7ef75db81e35403da9d010b6b9b4467c.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "Personal Digital Device Policy"
+    },
+    {
+      "url": "https://www.mpetns.ie/_files/ugd/16ae24_327be67360684a69bbc3ce84de08f6c2.pdf",
+      "final_url": "https://db1ba97c-3bb0-4a2c-8372-760a9c14b183.filesusr.com/ugd/16ae24_327be67360684a69bbc3ce84de08f6c2.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "Data Protection Policy"
+    }
+  ],
+  "documents": [],
+  "pending_links": [],
+  "elapsed_seconds": 62.49,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:59:34+0000"
+}

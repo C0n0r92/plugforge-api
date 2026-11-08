@@ -1,0 +1,405 @@
+{
+  "roll": "15618E",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.sandfordparishns.com/news-archive/updated-annual-admissions-notice-for-2728-school-year/?googletranslate=true",
+      "final_url": "https://www.sandfordparishns.com/news-archive/updated-annual-admissions-notice-for-2728-school-year/?googletranslate=true",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://www.sandfordparishns.com/news-archive/updated-annual-admissions-notice-for-2728-school-year/",
+      "final_url": "https://www.sandfordparishns.com/news-archive/updated-annual-admissions-notice-for-2728-school-year/",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://www.sandfordparishns.com/admin/?open=/news-archive/updated-annual-admissions-notice-for-2728-school-year/?googletranslate=true",
+      "final_url": "https://www.sandfordparishns.com/admin/?open=/news-archive/updated-annual-admissions-notice-for-2728-school-year/?googletranslate=true",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.sandfordparishns.com/admin/?open=/news-archive/updated-annual-admissions-notice-for-2728-school-year/",
+      "final_url": "https://www.sandfordparishns.com/admin/?open=/news-archive/updated-annual-admissions-notice-for-2728-school-year/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.sandfordparishns.com/admissions/?googletranslate=true",
+      "final_url": "https://www.sandfordparishns.com/admissions/?googletranslate=true",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://swdcache.b-cdn.net/994/docletter/20260918112047_29_Annual_Admissions_Notice_2027-28.pdf",
+      "final_url": "https://swdcache.b-cdn.net/994/docletter/20260918112047_29_Annual_Admissions_Notice_2027-28.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.sandfordparishns.com/documentlink/46/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/994/docletter/20260918112047_29_Annual_Admissions_Notice_2027-28.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Annual Admissions Notice 2027-28.pdf"
+    },
+    {
+      "url": "https://www.sandfordparishns.com/admissions/",
+      "final_url": "https://www.sandfordparishns.com/admissions/",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://www.sandfordparishns.com/admin/?open=/admissions/?googletranslate=true",
+      "final_url": "https://www.sandfordparishns.com/admin/?open=/admissions/?googletranslate=true",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.sandfordparishns.com/admin/?open=/admissions/",
+      "final_url": "https://www.sandfordparishns.com/admin/?open=/admissions/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://swdcache.b-cdn.net/994/docletter/20260728014636_41_Admission_Policy_SPNS.pdf",
+      "final_url": "https://swdcache.b-cdn.net/994/docletter/20260728014636_41_Admission_Policy_SPNS.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.sandfordparishns.com/cmsfiles/items/downloads/6391-ApplicationFormJuniorInfants2027-2028SPNSFV.pdf",
+      "final_url": "https://www.sandfordparishns.com/cmsfiles/items/downloads/6391-ApplicationFormJuniorInfants2027-2028SPNSFV.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.sandfordparishns.com/cmsfiles/items/downloads/1885-ApplicationFormforALLotherClassesSPNSFV27-28.pdf",
+      "final_url": "https://www.sandfordparishns.com/cmsfiles/items/downloads/1885-ApplicationFormforALLotherClassesSPNSFV27-28.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.sandfordparishns.com/sitemap.xml",
+      "final_url": "https://www.sandfordparishns.com/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.sandfordparishns.com/policies/health-and-safety-statement/",
+      "final_url": "https://www.sandfordparishns.com/policies/health-and-safety-statement/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Health and Safety Statement"
+    },
+    {
+      "url": "https://www.sandfordparishns.com/policies/health-and-safety-statement/?googletranslate=true",
+      "final_url": "https://www.sandfordparishns.com/policies/health-and-safety-statement/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.sandfordparishns.com/policies/complaints-procedure/",
+      "final_url": "https://www.sandfordparishns.com/policies/complaints-procedure/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Complaints Procedure"
+    },
+    {
+      "url": "https://www.sandfordparishns.com/policies/complaints-procedure/?googletranslate=true",
+      "final_url": "https://www.sandfordparishns.com/policies/complaints-procedure/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.sandfordparishns.com/policies/code-of-behaviour/",
+      "final_url": "https://www.sandfordparishns.com/policies/code-of-behaviour/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Code of Behaviour"
+    },
+    {
+      "url": "https://www.sandfordparishns.com/policies/code-of-behaviour/?googletranslate=true",
+      "final_url": "https://www.sandfordparishns.com/policies/code-of-behaviour/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.sandfordparishns.com/policies/child-safguarding-statement/",
+      "final_url": "https://www.sandfordparishns.com/policies/child-safguarding-statement/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Child Safeguarding Statement"
+    },
+    {
+      "url": "https://www.sandfordparishns.com/policies/child-safguarding-statement/?googletranslate=true",
+      "final_url": "https://www.sandfordparishns.com/policies/child-safguarding-statement/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.sandfordparishns.com/policies/b-cinelta/",
+      "final_url": "https://www.sandfordparishns.com/policies/b-cinelta/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Bí Cineálta"
+    },
+    {
+      "url": "https://www.sandfordparishns.com/policies/b-cinelta/?googletranslate=true",
+      "final_url": "https://www.sandfordparishns.com/policies/b-cinelta/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    }
+  ],
+  "documents": [
+    {
+      "roll": "15618E",
+      "url": "https://www.sandfordparishns.com/news-archive/updated-annual-admissions-notice-for-2728-school-year/?googletranslate=true",
+      "label": "Prior school admissions section",
+      "sha256": "01e60a2d9e4f0cfe5afe5d14289fc8b2ea9e92cae9bd339f786f788bf775aa2b",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/15618E_01e60a2d9e4f0cfe5afe.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1210
+    },
+    {
+      "roll": "15618E",
+      "url": "https://www.sandfordparishns.com/news-archive/updated-annual-admissions-notice-for-2728-school-year/",
+      "label": "Prior school admissions section",
+      "sha256": "10003537f4a0b97bb993faa383da080711c256a8825eee4aabc48626982e856b",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/15618E_10003537f4a0b97bb993.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1210
+    },
+    {
+      "roll": "15618E",
+      "url": "https://www.sandfordparishns.com/admissions/?googletranslate=true",
+      "label": "Prior school admissions section",
+      "sha256": "07507314fac1b3dd2dfdea75b9c121649d7146b1190cf82a13692dc5b0e092e4",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/15618E_07507314fac1b3dd2dfd.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 672
+    },
+    {
+      "roll": "15618E",
+      "url": "https://www.sandfordparishns.com/admissions/",
+      "label": "Prior school admissions section",
+      "sha256": "9f9ab46b390fb213e62f48b9779f80875415d09d7dfc2f85c73628360af0a7d1",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/15618E_9f9ab46b390fb213e62f.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 672
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.sandfordparishns.com/policies/admissions-policy/?googletranslate=true",
+      "label": "Prior school admissions section",
+      "via": "prior_link"
+    },
+    {
+      "url": "https://www.sandfordparishns.com/policies/admissions-policy/",
+      "label": "Prior school admissions section",
+      "via": "prior_link"
+    },
+    {
+      "url": "https://www.sandfordparishns.com/policies/",
+      "label": "Policies",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sandfordparishns.com/parentsguardians/pta/",
+      "label": "PTA",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sandfordparishns.com/parentsguardians/newsletters/",
+      "label": "Newsletters",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sandfordparishns.com/parentsguardians/lost-property/",
+      "label": "Lost Property",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sandfordparishns.com/parentsguardians/calendar/",
+      "label": "School Calendar",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sandfordparishns.com/parentsguardians/board-of-management-reports/",
+      "label": "Board of Management Reports",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sandfordparishns.com/parentsguardians/after-school-activities/",
+      "label": "After School Activities",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sandfordparishns.com/parentsguardians/",
+      "label": "Parents/Guardians",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sandfordparishns.com/documentlink/46/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sandfordparishns.com/documentlink/44/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sandfordparishns.com/documentlink/43/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sandfordparishns.com/documentlink/41/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sandfordparishns.com/documentlink/41/?open=true",
+      "label": "Admission Policy SPNS.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sandfordparishns.com/documentlink/39/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sandfordparishns.com/documentlink/35/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sandfordparishns.com/documentlink/35/?open=true",
+      "label": "Parental-Complaints-Procedure V4-final",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sandfordparishns.com/documentlink/34/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sandfordparishns.com/documentlink/33/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sandfordparishns.com/documentlink/32/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sandfordparishns.com/documentlink/30/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sandfordparishns.com/admin/?open=/policies/health-and-safety-statement/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sandfordparishns.com/admin/?open=/policies/health-and-safety-statement/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sandfordparishns.com/admin/?open=/policies/complaints-procedure/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sandfordparishns.com/admin/?open=/policies/complaints-procedure/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sandfordparishns.com/admin/?open=/policies/code-of-behaviour/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sandfordparishns.com/admin/?open=/policies/code-of-behaviour/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sandfordparishns.com/admin/?open=/policies/child-safguarding-statement/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sandfordparishns.com/admin/?open=/policies/child-safguarding-statement/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sandfordparishns.com/admin/?open=/policies/b-cinelta/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sandfordparishns.com/admin/?open=/policies/b-cinelta/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sandfordparishns.com",
+      "label": "School homepage",
+      "via": "home"
+    },
+    {
+      "url": "https://www.sandfordparishns.com/policies/data-protection-policy/",
+      "label": "Data Protection Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sandfordparishns.com/cmsfiles/policies/privacy/",
+      "label": "Website Privacy Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sandfordparishns.com/cmsfiles/policies/cookie/",
+      "label": "Cookie Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 57.23,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:50:11+0000"
+}

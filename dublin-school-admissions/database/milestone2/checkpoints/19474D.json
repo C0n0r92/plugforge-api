@@ -1,0 +1,265 @@
+{
+  "roll": "19474D",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.stcolmcillesjns.ie/admissions/",
+      "final_url": "https://www.stcolmcillesjns.ie/admissions/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://www.stcolmcillesjns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://www.stcolmcillesjns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://www.stcolmcillesjns.ie/wp-content/uploads/2026/10/Admissions-Policy-St.Colmcilles-JNS-19474D-September-2026.pdf",
+      "final_url": "https://www.stcolmcillesjns.ie/wp-content/uploads/2026/10/Admissions-Policy-St.Colmcilles-JNS-19474D-September-2026.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Policy St.Colmcille&#8217;s JNS 19474D September 2026"
+    },
+    {
+      "url": "https://www.stcolmcillesjns.ie/wp-content/uploads/2025/09/Admissions-Policy-St.Colmcilles-JNS-19474D-September-2025.pdf",
+      "final_url": "https://www.stcolmcillesjns.ie/wp-content/uploads/2025/09/Admissions-Policy-St.Colmcilles-JNS-19474D-September-2025.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Policy St.Colmcille&#8217;s JNS 19474D September 2025"
+    },
+    {
+      "url": "https://www.stcolmcillesjns.ie/wp-content/uploads/2021/07/Admissions-Policy-St-Colmcilles-JNS.pdf",
+      "final_url": "https://www.stcolmcillesjns.ie/wp-content/uploads/2021/07/Admissions-Policy-St-Colmcilles-JNS.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Policy St Colmcilles JNS"
+    },
+    {
+      "url": "https://www.stcolmcillesjns.ie/wp-content/uploads/2021/03/admissions_policy.pdf",
+      "final_url": "https://www.stcolmcillesjns.ie/wp-content/uploads/2021/03/admissions_policy.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "admissions_policy"
+    },
+    {
+      "url": "https://www.stcolmcillesjns.ie/wp-content/uploads/2023/11/Admissions-Policy-St-Colmcilles-JNS.docx",
+      "final_url": "https://www.stcolmcillesjns.ie/wp-content/uploads/2023/11/Admissions-Policy-St-Colmcilles-JNS.docx",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://www.stcolmcillesjns.ie/wp-content/uploads/2024/01/Admissions-Policy-St-Colmcilles-JNS-Jan-2024.pdf",
+      "final_url": "https://www.stcolmcillesjns.ie/wp-content/uploads/2024/01/Admissions-Policy-St-Colmcilles-JNS-Jan-2024.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Policy St Colmcilles JNS Jan 2024"
+    },
+    {
+      "url": "https://www.stcolmcillesjns.ie/wp-content/uploads/2024/01/Admissions-Policy-St-Colmcilles-JNS-@-Jan-2024.pdf",
+      "final_url": "https://www.stcolmcillesjns.ie/wp-content/uploads/2024/01/Admissions-Policy-St-Colmcilles-JNS-@-Jan-2024.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Policy St Colmcilles JNS @ Jan 2024"
+    },
+    {
+      "url": "https://www.stcolmcillesjns.ie/st-colmcilles-jns-junior-infant-admissions-2024/",
+      "final_url": "https://www.stcolmcillesjns.ie/st-colmcilles-jns-junior-infant-admissions-2024/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions/policy URL from public sitemap"
+    },
+    {
+      "url": "https://www.stcolmcillesjns.ie/sitemap_index.xml",
+      "final_url": "https://www.stcolmcillesjns.ie/sitemap_index.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.stcolmcillesjns.ie/pre-enrolment-form/",
+      "final_url": "https://www.stcolmcillesjns.ie/pre-enrolment-form/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions/policy URL from public sitemap"
+    },
+    {
+      "url": "https://www.stcolmcillesjns.ie/pp_video_block-sitemap.xml",
+      "final_url": "https://www.stcolmcillesjns.ie/pp_video_block-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.stcolmcillesjns.ie/post-sitemap.xml",
+      "final_url": "https://www.stcolmcillesjns.ie/post-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.stcolmcillesjns.ie/policies/",
+      "final_url": "https://www.stcolmcillesjns.ie/policies/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies & Publications"
+    },
+    {
+      "url": "https://www.stcolmcillesjns.ie/parents-association/",
+      "final_url": "https://www.stcolmcillesjns.ie/parents-association/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents Association"
+    },
+    {
+      "url": "https://www.stcolmcillesjns.ie/wp-content/uploads/2025/09/parents-association-04.jpeg",
+      "final_url": "https://www.stcolmcillesjns.ie/wp-content/uploads/2025/09/parents-association-04.jpeg",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stcolmcillesjns.ie/wp-content/uploads/2025/09/parents-association-03.jpeg",
+      "final_url": "https://www.stcolmcillesjns.ie/wp-content/uploads/2025/09/parents-association-03.jpeg",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stcolmcillesjns.ie/wp-content/uploads/2025/09/parents-association-02.jpeg",
+      "final_url": "https://www.stcolmcillesjns.ie/wp-content/uploads/2025/09/parents-association-02.jpeg",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stcolmcillesjns.ie/wp-content/uploads/2025/09/parents-association-01.jpeg",
+      "final_url": "https://www.stcolmcillesjns.ie/wp-content/uploads/2025/09/parents-association-01.jpeg",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stcolmcillesjns.ie/page-sitemap.xml",
+      "final_url": "https://www.stcolmcillesjns.ie/page-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.stcolmcillesjns.ie",
+      "final_url": "https://www.stcolmcillesjns.ie",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19474D",
+      "url": "https://www.stcolmcillesjns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "label": "Oldest public admission media (all dates)",
+      "sha256": "a5a070849db56b7e5ec36813691032eef677761c6c17034904d86934ad66e17e",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19474D_a5a070849db56b7e5ec3.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 2559
+    },
+    {
+      "roll": "19474D",
+      "url": "https://www.stcolmcillesjns.ie/wp-content/uploads/2026/10/Admissions-Policy-St.Colmcilles-JNS-19474D-September-2026.pdf",
+      "label": "Admissions Policy St.Colmcille&#8217;s JNS 19474D September 2026",
+      "sha256": "a2696116628100d6d800933192604e2901c15b66d0496bce25bd7fe5bd88b695",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19474D_a2696116628100d6d800.txt",
+      "source_file": "database/milestone2/cache/a2696116628100d6d800933192604e2901c15b66d0496bce25bd7fe5bd88b695.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 36185
+    },
+    {
+      "roll": "19474D",
+      "url": "https://www.stcolmcillesjns.ie/wp-content/uploads/2025/09/Admissions-Policy-St.Colmcilles-JNS-19474D-September-2025.pdf",
+      "label": "Admissions Policy St.Colmcille&#8217;s JNS 19474D September 2025",
+      "sha256": "b75687b38870406e5cf453cb3ce47cd756335ad35f77bce850d6834585248ab9",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19474D_b75687b38870406e5cf4.txt",
+      "source_file": "database/milestone2/cache/b75687b38870406e5cf453cb3ce47cd756335ad35f77bce850d6834585248ab9.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 35868
+    },
+    {
+      "roll": "19474D",
+      "url": "https://www.stcolmcillesjns.ie/wp-content/uploads/2021/07/Admissions-Policy-St-Colmcilles-JNS.pdf",
+      "label": "Admissions Policy St Colmcilles JNS",
+      "sha256": "29211c3680b18522a884aa4a7a9ee97fb5a02b78799c6a6080588dec3e9e0291",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19474D_29211c3680b18522a884.txt",
+      "source_file": "database/milestone2/cache/29211c3680b18522a884aa4a7a9ee97fb5a02b78799c6a6080588dec3e9e0291.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 28807
+    },
+    {
+      "roll": "19474D",
+      "url": "https://www.stcolmcillesjns.ie/wp-content/uploads/2021/03/admissions_policy.pdf",
+      "label": "admissions_policy",
+      "sha256": "88e92181f7de2a761a1d1d50b917086cf5011ce019dec27124cd22da992b02f5",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19474D_88e92181f7de2a761a1d.txt",
+      "source_file": "database/milestone2/cache/88e92181f7de2a761a1d1d50b917086cf5011ce019dec27124cd22da992b02f5.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 28577
+    },
+    {
+      "roll": "19474D",
+      "url": "https://www.stcolmcillesjns.ie/wp-content/uploads/2023/11/Admissions-Policy-St-Colmcilles-JNS.docx",
+      "label": "Prior school admissions section",
+      "sha256": "771396028c37c6f479957db9c61521c3385967e1057e8d66f1c8ab4f3b167b6e",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/19474D_771396028c37c6f47995.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 25826
+    },
+    {
+      "roll": "19474D",
+      "url": "https://www.stcolmcillesjns.ie/wp-content/uploads/2024/01/Admissions-Policy-St-Colmcilles-JNS-Jan-2024.pdf",
+      "label": "Admissions Policy St Colmcilles JNS Jan 2024",
+      "sha256": "0c6ebfffa7cde944cee0f03ab8361749d4edc438630f3448d79df1a826ad1a64",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19474D_0c6ebfffa7cde944cee0.txt",
+      "source_file": "database/milestone2/cache/0c6ebfffa7cde944cee0f03ab8361749d4edc438630f3448d79df1a826ad1a64.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 37056
+    },
+    {
+      "roll": "19474D",
+      "url": "https://www.stcolmcillesjns.ie/wp-content/uploads/2024/01/Admissions-Policy-St-Colmcilles-JNS-@-Jan-2024.pdf",
+      "label": "Admissions Policy St Colmcilles JNS @ Jan 2024",
+      "sha256": "cfd3202029f4ce4e1e92ed8eb01597eafea49ccbbe315c848e6f6a299446e7a9",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19474D_cfd3202029f4ce4e1e92.txt",
+      "source_file": "database/milestone2/cache/cfd3202029f4ce4e1e92ed8eb01597eafea49ccbbe315c848e6f6a299446e7a9.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 37057
+    },
+    {
+      "roll": "19474D",
+      "url": "https://www.stcolmcillesjns.ie",
+      "label": "School homepage",
+      "sha256": "555ff8831907084def336c78f278aa7b8bfea56a9275c830d6ba41a99a622cc7",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19474D_555ff8831907084def33.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 214
+    }
+  ],
+  "pending_links": [],
+  "elapsed_seconds": 83.09,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:37:11+0000"
+}

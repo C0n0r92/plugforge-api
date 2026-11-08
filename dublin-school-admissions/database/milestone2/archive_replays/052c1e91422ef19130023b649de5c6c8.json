@@ -1,0 +1,46 @@
+{
+  "task_id": "052c1e91422ef19130023b649de5c6c8",
+  "roll": "00697S",
+  "capture": {
+    "digest": "LPICR74B2ST2SN7U2M637E3BYXWDXDDW",
+    "mimetype": "text/html",
+    "original": "https://www.saintbrigids.ie/page/Junior-Infant-Admissions-20252026/19674/Index.html",
+    "statuscode": "200",
+    "timestamp": "20250617191202"
+  },
+  "original_url": "https://www.saintbrigids.ie/page/Junior-Infant-Admissions-20252026/19674/Index.html",
+  "archived_url": "https://web.archive.org/web/20250617191202/https://www.saintbrigids.ie/page/Junior-Infant-Admissions-20252026/19674/Index.html",
+  "attempted_at": "2026-11-08T12:34:45.234369+00:00",
+  "http_status": 200,
+  "headers": {
+    "Content-Type": "text/html; charset=utf-8",
+    "memento-datetime": "Tue, 17 Jun 2025 19:12:02 GMT"
+  },
+  "payload_sha256": "7c9158cd54c029e1acef2d16377964431da06fefd37c5491575c800fb2955563",
+  "bytes": 66342,
+  "format": "html",
+  "archive_link_candidates": [
+    {
+      "url": "https://web.archive.org/web/20250617191202/https://www.saintbrigids.ie/page/Admissions-20252026/19674/Index.html",
+      "label": "Admissions"
+    },
+    {
+      "url": "/web/20250617191202/https://www.saintbrigids.ie/Parent-Noticeboard/Index.html",
+      "label": "Parent Noticeboard"
+    },
+    {
+      "url": "https://web.archive.org/web/20250617191202/https://drive.google.com/file/d/1FkRGQVcHD_ceDW0vcwuHf9IK2KZgdagp/view?usp=sharing",
+      "label": "Admission Notice"
+    },
+    {
+      "url": "https://web.archive.org/web/20250617191202/https://drive.google.com/file/d/1_9y7LSJv2e4b0OxG_gQqGPErs35qEKj5/view?usp=sharing",
+      "label": "Admission Policy"
+    },
+    {
+      "url": "https://web.archive.org/web/20250617191202/https://drive.google.com/file/d/1fOuabw5R8M8ncNT2Vd-acu_fG2AkYA1I/view?usp=sharing",
+      "label": "Admission Notice for Autism Classes"
+    }
+  ],
+  "status": "archived_body_retrieved_requires_notice_evidence_review",
+  "text_file": "database/milestone2/evidence/archive_00697S_7c9158cd54c029e1acef.txt"
+}

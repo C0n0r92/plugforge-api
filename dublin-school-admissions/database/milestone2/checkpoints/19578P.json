@@ -1,0 +1,568 @@
+{
+  "roll": "19578P",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.sthelensjunior.com/admissions/?googletranslate=true",
+      "final_url": "https://www.sthelensjunior.com/admissions/?googletranslate=true",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "https://www.sthelensjunior.com/documentlink/332/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/507/docletter/20251121022444_29_Annual_Admission_Notice_2026_-27.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Annual Admission Notice 2026 -27.pdf"
+    },
+    {
+      "url": "https://www.sthelensjunior.com/documentlink/346/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/507/docletter/20261023024757_68_Annual_Admission_Notice_2027_-28.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Annual Admission Notice 2027 -28.pdf"
+    },
+    {
+      "url": "https://www.sthelensjunior.com/documentlink/299/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/507/docletter/20241204094156_37_Admission_Procedures.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Admissions Procedures.pdf"
+    },
+    {
+      "url": "https://www.sthelensjunior.com/admissions/",
+      "final_url": "https://www.sthelensjunior.com/admissions/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions Iontrála"
+    },
+    {
+      "url": "https://www.sthelensjunior.com/admin/?open=/admissions/?googletranslate=true",
+      "final_url": "https://www.sthelensjunior.com/admin/?open=/admissions/?googletranslate=true",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.sthelensjunior.com/admin/?open=/admissions/",
+      "final_url": "https://www.sthelensjunior.com/admin/?open=/admissions/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.sthelensjunior.com/documentlink/345/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/507/docletter/20261023024251_87_Admissions_Policy_2027-28.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Admissions Policy 2027-28.pdf"
+    },
+    {
+      "url": "https://www.sthelensjunior.com/sitemap.xml",
+      "final_url": "https://www.sthelensjunior.com/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.sthelensjunior.com/policies-and-documents/",
+      "final_url": "https://www.sthelensjunior.com/policies-and-documents/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies Polasaithe"
+    },
+    {
+      "url": "https://www.sthelensjunior.com/policies-and-documents/?googletranslate=true",
+      "final_url": "https://www.sthelensjunior.com/policies-and-documents/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.sthelensjunior.com/parents/useful-links-656/",
+      "final_url": "https://www.sthelensjunior.com/parents/useful-links-656/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Useful Links"
+    },
+    {
+      "url": "https://www.sthelensjunior.com/parents/useful-links-656/www.webwise.ie",
+      "final_url": "https://www.sthelensjunior.com/parents/useful-links-656/www.webwise.ie",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.sthelensjunior.com/parents/useful-links-656/www.webwise.ie?googletranslate=true",
+      "final_url": "https://www.sthelensjunior.com/parents/useful-links-656/www.webwise.ie?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.sthelensjunior.com/parents/useful-links-656/www.hse.ie",
+      "final_url": "https://www.sthelensjunior.com/parents/useful-links-656/www.hse.ie",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.sthelensjunior.com/parents/useful-links-656/www.hse.ie?googletranslate=true",
+      "final_url": "https://www.sthelensjunior.com/parents/useful-links-656/www.hse.ie?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.sthelensjunior.com/parents/useful-links-656/Www.ncse.ie",
+      "final_url": "https://www.sthelensjunior.com/parents/useful-links-656/Www.ncse.ie",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.sthelensjunior.com/parents/useful-links-656/Www.ncse.ie?googletranslate=true",
+      "final_url": "https://www.sthelensjunior.com/parents/useful-links-656/Www.ncse.ie?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.sthelensjunior.com/parents/useful-links-656/Www.ncca.ie",
+      "final_url": "https://www.sthelensjunior.com/parents/useful-links-656/Www.ncca.ie",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.sthelensjunior.com/parents/useful-links-656/Www.ncca.ie?googletranslate=true",
+      "final_url": "https://www.sthelensjunior.com/parents/useful-links-656/Www.ncca.ie?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.sthelensjunior.com/parents/useful-links-656/Www.helens.ie",
+      "final_url": "https://www.sthelensjunior.com/parents/useful-links-656/Www.helens.ie",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.sthelensjunior.com/parents/useful-links-656/Www.helens.ie?googletranslate=true",
+      "final_url": "https://www.sthelensjunior.com/parents/useful-links-656/Www.helens.ie?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.sthelensjunior.com/parents/useful-links-656/Www.education.ie",
+      "final_url": "https://www.sthelensjunior.com/parents/useful-links-656/Www.education.ie",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.sthelensjunior.com/parents/useful-links-656/Www.education.ie?googletranslate=true",
+      "final_url": "https://www.sthelensjunior.com/parents/useful-links-656/Www.education.ie?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19578P",
+      "url": "https://www.sthelensjunior.com/admissions/?googletranslate=true",
+      "label": "",
+      "sha256": "4bac521e1ed463c3d6fa0fee5adc219075876f703994184f62c076667ac11e6a",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19578P_4bac521e1ed463c3d6fa.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 459
+    },
+    {
+      "roll": "19578P",
+      "url": "https://www.sthelensjunior.com/admissions/",
+      "label": "Admissions Iontrála",
+      "sha256": "565a88cba2c7502c0aaaf276a1825d7694b560714a9178ea34bd43a757404af4",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19578P_565a88cba2c7502c0aaa.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 459
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.sthelensjunior.com/parents/useful-links-656/?googletranslate=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sthelensjunior.com/parents/parents-of-incoming-junior-infants/",
+      "label": "Parents of Incoming Junior Infants",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sthelensjunior.com/parents/parents-association-768/",
+      "label": "Parents' Association",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sthelensjunior.com/parents/newsletters-730/",
+      "label": "Newsletters",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sthelensjunior.com/parents/mgt-of-infectious-diseases-759/",
+      "label": "Management of Infectious Diseases",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sthelensjunior.com/parents/letters-to-parents-291/",
+      "label": "Letters to Parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sthelensjunior.com/parents/healthy-lunch-box-ideas-935/",
+      "label": "Healthy Lunch Box Ideas",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sthelensjunior.com/parents/gaeilge/senior-infants-398/",
+      "label": "Naíonáin Shinsearacha",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sthelensjunior.com/parents/gaeilge/second-class-548/",
+      "label": "Rang a Dó",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sthelensjunior.com/parents/gaeilge/junior-infants-577/",
+      "label": "Naíonáin Shóisearacha",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sthelensjunior.com/parents/gaeilge/first-class-499/",
+      "label": "Rang a hAon",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sthelensjunior.com/parents/gaeilge/",
+      "label": "Gaeilge",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sthelensjunior.com/parents/covid-19-links/seesaw-letter-to-parents-922/",
+      "label": "Seesaw Information for Parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sthelensjunior.com/parents/covid-19-links/informational-links/",
+      "label": "Informational Links",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sthelensjunior.com/parents/covid-19-links/google-classroom-letter-to-parents/",
+      "label": "Google Classroom Information for Parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sthelensjunior.com/parents/covid-19-links/educational-links/",
+      "label": "SEN PDFs",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sthelensjunior.com/parents/covid-19-links/educational-links-244/",
+      "label": "Educational Links",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sthelensjunior.com/parents/covid-19-links/covid-19-letters-to-parents/",
+      "label": "Covid-19 Documents and Letters",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sthelensjunior.com/parents/covid-19-links/",
+      "label": "Covid-19 Links Naisc Covid-19",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sthelensjunior.com/parents/calendar/",
+      "label": "Calendar Féilire",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sthelensjunior.com/parents/",
+      "label": "Parents Tuismitheoirí",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sthelensjunior.com/documentlink/346/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sthelensjunior.com/documentlink/345/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sthelensjunior.com/documentlink/332/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sthelensjunior.com/documentlink/330/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sthelensjunior.com/documentlink/326/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sthelensjunior.com/documentlink/324/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sthelensjunior.com/documentlink/323/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sthelensjunior.com/documentlink/322/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sthelensjunior.com/documentlink/321/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sthelensjunior.com/documentlink/320/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sthelensjunior.com/documentlink/316/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sthelensjunior.com/documentlink/314/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sthelensjunior.com/documentlink/299/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sthelensjunior.com/documentlink/293/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sthelensjunior.com/documentlink/292/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sthelensjunior.com/documentlink/291/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sthelensjunior.com/documentlink/267/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sthelensjunior.com/documentlink/266/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sthelensjunior.com/documentlink/233/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sthelensjunior.com/documentlink/200/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sthelensjunior.com/documentlink/172/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sthelensjunior.com/documentlink/160/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sthelensjunior.com/admin/?open=/policies-and-documents/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sthelensjunior.com/admin/?open=/policies-and-documents/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sthelensjunior.com/admin/?open=/parents/useful-links-656/www.webwise.ie?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sthelensjunior.com/admin/?open=/parents/useful-links-656/www.webwise.ie",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sthelensjunior.com/admin/?open=/parents/useful-links-656/www.hse.ie?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sthelensjunior.com/admin/?open=/parents/useful-links-656/www.hse.ie",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sthelensjunior.com/admin/?open=/parents/useful-links-656/Www.ncse.ie?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sthelensjunior.com/admin/?open=/parents/useful-links-656/Www.ncse.ie",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sthelensjunior.com/admin/?open=/parents/useful-links-656/Www.ncca.ie?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sthelensjunior.com/admin/?open=/parents/useful-links-656/Www.ncca.ie",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sthelensjunior.com/admin/?open=/parents/useful-links-656/Www.helens.ie?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sthelensjunior.com/admin/?open=/parents/useful-links-656/Www.helens.ie",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sthelensjunior.com/admin/?open=/parents/useful-links-656/Www.education.ie?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sthelensjunior.com/admin/?open=/parents/useful-links-656/Www.education.ie",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sthelensjunior.com/admin/?open=/parents/useful-links-656/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sthelensjunior.com/",
+      "label": "School homepage",
+      "via": "home"
+    },
+    {
+      "url": "https://www.sthelensjunior.com/documentlink/267/?open=true",
+      "label": "Child Protection Policy 2023.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sthelensjunior.com/documentlink/292/?open=true",
+      "label": "First Aid Policy 2024.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sthelensjunior.com/documentlink/330/?open=true",
+      "label": "Child Protection Policy 2025.docx.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sthelensjunior.com/documentlink/323/?open=true",
+      "label": "Whistleblowing-Protected-Disclosures-Policy-2025.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sthelensjunior.com/documentlink/322/?open=true",
+      "label": "Data Protection Policy June 2025.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sthelensjunior.com/documentlink/321/?open=true",
+      "label": "Code of Behaviour Policy 2025.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sthelensjunior.com/documentlink/316/?open=true",
+      "label": "Bi Cineálta Policy (Draft) October 2025.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sthelensjunior.com/documentlink/320/?open=true",
+      "label": "Homework Policy.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sthelensjunior.com/documentlink/266/?open=true",
+      "label": "Anti-Bullying Policy.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sthelensjunior.com/documentlink/200/?open=true",
+      "label": "Distance Learning Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sthelensjunior.com/documentlink/172/?open=true",
+      "label": "Acceptable Use Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sthelensjunior.com/documentlink/160/?open=true",
+      "label": "Medicine Administration Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sthelensjunior.com/cmsfiles/policies/privacy/",
+      "label": "Website Privacy Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sthelensjunior.com/cmsfiles/policies/cookie/",
+      "label": "Cookie Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 69.88,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:07:43+0000"
+}

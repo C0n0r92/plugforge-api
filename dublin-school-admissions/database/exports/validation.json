@@ -1,0 +1,23 @@
+{
+  "validated_at": "2026-11-08T13:39:54.758119+00:00",
+  "timezone": "Europe/Dublin",
+  "integrity_check": "ok",
+  "foreign_key_violations": 0,
+  "cross_payload_evidence_mismatches": 0,
+  "duplicate_school_payload_editions": 0,
+  "raw_import_conservation": "passed all releases/datasets",
+  "fixture_tests": [
+    "Dominican2021/22 capacity36",
+    "GSer2024/25 60places70applications0list; no invented offers",
+    "Stewarts2021/22 16places109applications21offers56list; aggregateacceptancesnull",
+    "Stewarts historic-waitlist explicit13offers8acceptances",
+    "four sourced amalgamation links"
+  ],
+  "known_payload_hashes_checked": 798,
+  "local_payloads_not_present": 0,
+  "production_v4_and_pilot_unchanged": true,
+  "future_geographic_enrichment_tables_empty": true,
+  "zero_vs_null_constraints": "passed",
+  "denominator_and_comparable_gates": "passed",
+  "passed": true
+}

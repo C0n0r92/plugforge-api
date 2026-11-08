@@ -1,0 +1,53 @@
+{
+  "roll": "19702N",
+  "status": "bounded_search_no_new_notice_found",
+  "attempts": [
+    {
+      "url": "https://www.stthomasjns.ie/enrolment.html",
+      "final_url": "https://www.stthomasjns.ie/enrolment.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Enrolment"
+    },
+    {
+      "url": "https://www.stthomasjns.ie/sitemap.xml",
+      "final_url": "https://www.stthomasjns.ie/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.stthomasjns.ie/policies.html",
+      "final_url": "https://www.stthomasjns.ie/policies.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.stthomasjns.ie/files/Admissions-policy.pdf",
+      "final_url": "https://www.stthomasjns.ie/files/Admissions-policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions policy"
+    },
+    {
+      "url": "https://www.stthomasjns.ie",
+      "final_url": "https://www.stthomasjns.ie",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.stthomasjns.ie/files/Special-Educational-Needs-Policy.pdf",
+      "final_url": "https://www.stthomasjns.ie/files/Special-Educational-Needs-Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Special Educational Needs Policy"
+    }
+  ],
+  "documents": [],
+  "pending_links": [],
+  "elapsed_seconds": 19.28,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:56:39+0000"
+}

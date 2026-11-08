@@ -1,0 +1,237 @@
+{
+  "roll": "19471U",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.stpaulsjns.ie/",
+      "final_url": "https://www.stpaulsjns.ie/",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.stpaulsjns.ie/enrolmentadmission.html",
+      "final_url": "https://www.stpaulsjns.ie/enrolmentadmission.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Enrolment/Admission"
+    },
+    {
+      "url": "https://www.stpaulsjns.ie/uploads/1/0/5/7/10573868/parent_guardian_information_august_2023.docx",
+      "final_url": "https://www.stpaulsjns.ie/uploads/1/0/5/7/10573868/parent_guardian_information_august_2023.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: parent_guardian_information_august_2023.docx"
+    },
+    {
+      "url": "https://www.stpaulsjns.ie/uploads/1/0/5/7/10573868/admissions_policy_2027_-_2028.pdf",
+      "final_url": "https://www.stpaulsjns.ie/uploads/1/0/5/7/10573868/admissions_policy_2027_-_2028.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Télécharger un fichier : admissions_policy_2027_-_2028.pdf"
+    },
+    {
+      "url": "https://www.stpaulsjns.ie/uploads/1/0/5/7/10573868/st_pauls_jns_easter_newsletter.pdf",
+      "final_url": "https://www.stpaulsjns.ie/uploads/1/0/5/7/10573868/st_pauls_jns_easter_newsletter.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: st_pauls_jns_easter_newsletter.pdf"
+    },
+    {
+      "url": "https://www.stpaulsjns.ie/uploads/1/0/5/7/10573868/open_letter_acmo_to_parents_.pdf",
+      "final_url": "https://www.stpaulsjns.ie/uploads/1/0/5/7/10573868/open_letter_acmo_to_parents_.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: open_letter_acmo_to_parents_.pdf"
+    },
+    {
+      "url": "https://www.stpaulsjns.ie/uploads/1/0/5/7/10573868/march_re-opening_letter_parents_guardians.docx",
+      "final_url": "https://www.stpaulsjns.ie/uploads/1/0/5/7/10573868/march_re-opening_letter_parents_guardians.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "here"
+    },
+    {
+      "url": "https://www.stpaulsjns.ie/uploads/1/0/5/7/10573868/letter_for_parents_en.pdf",
+      "final_url": "https://www.stpaulsjns.ie/uploads/1/0/5/7/10573868/letter_for_parents_en.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: letter_for_parents_en.pdf"
+    },
+    {
+      "url": "https://www.stpaulsjns.ie/uploads/1/0/5/7/10573868/isolation_quick_guide.pdf",
+      "final_url": "https://www.stpaulsjns.ie/uploads/1/0/5/7/10573868/isolation_quick_guide.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: isolation_quick_guide.pdf"
+    },
+    {
+      "url": "https://www.stpaulsjns.ie/uploads/1/0/5/7/10573868/footright_fortnight_v.2.pdf",
+      "final_url": "https://www.stpaulsjns.ie/uploads/1/0/5/7/10573868/footright_fortnight_v.2.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: footright_fortnight_v.2.pdf"
+    },
+    {
+      "url": "https://www.stpaulsjns.ie/uploads/1/0/5/7/10573868/final_reopening_letter_for_parents_guardians.pdf",
+      "final_url": "https://www.stpaulsjns.ie/uploads/1/0/5/7/10573868/final_reopening_letter_for_parents_guardians.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "​Arrangements for Reopening - PDF"
+    },
+    {
+      "url": "https://www.stpaulsjns.ie/uploads/1/0/5/7/10573868/final_reopening_letter_for_parents_guardians.docx",
+      "final_url": "https://www.stpaulsjns.ie/uploads/1/0/5/7/10573868/final_reopening_letter_for_parents_guardians.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "here"
+    },
+    {
+      "url": "https://www.stpaulsjns.ie/uploads/1/0/5/7/10573868/covid_advice_for_parents.pdf",
+      "final_url": "https://www.stpaulsjns.ie/uploads/1/0/5/7/10573868/covid_advice_for_parents.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: covid_advice_for_parents.pdf"
+    },
+    {
+      "url": "https://www.stpaulsjns.ie/uploads/1/0/5/7/10573868/back_to_school_advice_for_parents.pdf",
+      "final_url": "https://www.stpaulsjns.ie/uploads/1/0/5/7/10573868/back_to_school_advice_for_parents.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: back_to_school_advice_for_parents.pdf"
+    },
+    {
+      "url": "https://www.stpaulsjns.ie/sitemap.xml",
+      "final_url": "https://www.stpaulsjns.ie/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.stpaulsjns.ie/policies.html",
+      "final_url": "https://www.stpaulsjns.ie/policies.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.stpaulsjns.ie/parents-info.html",
+      "final_url": "https://www.stpaulsjns.ie/parents-info.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents' Info"
+    },
+    {
+      "url": "https://www.stpaulsjns.ie/parents-association1.html",
+      "final_url": "https://www.stpaulsjns.ie/parents-association1",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents"
+    },
+    {
+      "url": "https://www.stpaulsjns.ie/parents-association1/archives/01-2017",
+      "final_url": "https://www.stpaulsjns.ie/parents-association1/archives/01-2017",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "January 2017"
+    },
+    {
+      "url": "https://www.stpaulsjns.ie/parents-association1/archives/10-2019",
+      "final_url": "https://www.stpaulsjns.ie/parents-association1/archives/10-2019",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "October 2019"
+    },
+    {
+      "url": "https://www.stpaulsjns.ie/parents-association1/parents-association-agm",
+      "final_url": "https://www.stpaulsjns.ie/parents-association1/parents-association-agm",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents' Association AGM"
+    },
+    {
+      "url": "https://www.stpaulsjns.ie/parents-association1/collection-champions-for-november",
+      "final_url": "https://www.stpaulsjns.ie/parents-association1/collection-champions-for-november",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents' Association"
+    },
+    {
+      "url": "https://www.stpaulsjns.ie/parents-association1/category/all",
+      "final_url": "https://www.stpaulsjns.ie/parents-association1/category/all",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "All"
+    },
+    {
+      "url": "https://www.stpaulsjns.ie/parents-association1/category/_blank",
+      "final_url": "https://www.stpaulsjns.ie/parents-association1/category/_blank",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Weebly"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19471U",
+      "url": "https://www.stpaulsjns.ie/uploads/1/0/5/7/10573868/admissions_policy_2027_-_2028.pdf",
+      "label": "Télécharger un fichier : admissions_policy_2027_-_2028.pdf",
+      "sha256": "76ef306144d7ba7a6a15f3f963e9c384e85368b999fd78374fae9584d8bfb332",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19471U_76ef306144d7ba7a6a15.txt",
+      "source_file": "database/milestone2/cache/76ef306144d7ba7a6a15f3f963e9c384e85368b999fd78374fae9584d8bfb332.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 33368
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.stpaulsjns.ie/parents-association1/archives/_blank",
+      "label": "Weebly",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stpaulsjns.ie/parents-association1/_blank",
+      "label": "Weebly",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stpaulsjns.ie/parents-association.html",
+      "label": "Parents' Association",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stpaulsjns.ie/supervision-policy.html",
+      "label": "Supervision Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stpaulsjns.ie/substance-use-policy.html",
+      "label": "Substance Use",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stpaulsjns.ie/health--safety.html",
+      "label": "Health and Safety Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stpaulsjns.ie/disciplinary-grievance-procedures-policy.html",
+      "label": "Disciplinary Grievance Procedures Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stpaulsjns.ie/data-protection-policy.html",
+      "label": "Data Protection Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stpaulsjns.ie/attendance-policy.html",
+      "label": "Attendance Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 73.04,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:55:50+0000"
+}

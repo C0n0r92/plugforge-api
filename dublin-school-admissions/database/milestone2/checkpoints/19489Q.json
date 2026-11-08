@@ -1,0 +1,300 @@
+{
+  "roll": "19489Q",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://saintfinians.ie/",
+      "final_url": "https://saintfinians.ie/",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "http://saintfinians.ie/wp-content/uploads/2025/09/26_27-Admissions-notice-1.pdf",
+      "final_url": "http://saintfinians.ie/wp-content/uploads/2025/09/26_27-Admissions-notice-1.pdf",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "Admissions Notice"
+    },
+    {
+      "url": "http://saintfinians.ie/wp-content/uploads/2026/10/Annual-Admissions-27_28.pdf",
+      "final_url": "http://saintfinians.ie/wp-content/uploads/2026/10/Annual-Admissions-27_28.pdf",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "Admission Notice"
+    },
+    {
+      "url": "https://saintfinians.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://saintfinians.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://saintfinians.ie/wp-content/uploads/2022/09/Saint-Finians-Admission-Notice-22-23.pdf",
+      "final_url": "https://saintfinians.ie/wp-content/uploads/2022/09/Saint-Finians-Admission-Notice-22-23.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Saint Finians Admission Notice 22-23"
+    },
+    {
+      "url": "https://saintfinians.ie/wp-content/uploads/2023/10/24_25Admissions-notice-1.pdf",
+      "final_url": "https://saintfinians.ie/wp-content/uploads/2023/10/24_25Admissions-notice-1.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "24_25Admissions-notice (1)"
+    },
+    {
+      "url": "https://saintfinians.ie/wp-content/uploads/2023/09/23_34-Admissions-notice-1.pdf",
+      "final_url": "https://saintfinians.ie/wp-content/uploads/2023/09/23_34-Admissions-notice-1.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "23_34 Admissions-notice (1)"
+    },
+    {
+      "url": "https://saintfinians.ie/wp-content/uploads/2024/09/25_26-Admissions-notice-1.pdf",
+      "final_url": "https://saintfinians.ie/wp-content/uploads/2024/09/25_26-Admissions-notice-1.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "25_26 Admissions-notice (1)"
+    },
+    {
+      "url": "https://saintfinians.ie/wp-content/uploads/2025/09/Admissions-Notice.pdf",
+      "final_url": "https://saintfinians.ie/wp-content/uploads/2025/09/Admissions-Notice.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Notice"
+    },
+    {
+      "url": "https://saintfinians.ie/wp-content/uploads/2025/09/26_27-Admissions-notice-1.pdf",
+      "final_url": "https://saintfinians.ie/wp-content/uploads/2025/09/26_27-Admissions-notice-1.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "26_27 Admissions-notice (1)"
+    },
+    {
+      "url": "https://saintfinians.ie/wp-content/uploads/2026/10/Annual-Admissions-27_28.pdf",
+      "final_url": "https://saintfinians.ie/wp-content/uploads/2026/10/Annual-Admissions-27_28.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Annual Admissions 27_28"
+    },
+    {
+      "url": "https://saintfinians.ie/enrolment/",
+      "final_url": "https://saintfinians.ie/enrolment/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Enrollment"
+    },
+    {
+      "url": "http://saintfinians.ie/wp-content/uploads/2024/09/25_26-Admissions-notice-1.pdf",
+      "final_url": "http://saintfinians.ie/wp-content/uploads/2024/09/25_26-Admissions-notice-1.pdf",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "Admission Notice"
+    },
+    {
+      "url": "https://saintfinians.ie/wp-content/uploads/2023/09/Admissions-Policy-NEW-2.pdf",
+      "final_url": "https://saintfinians.ie/wp-content/uploads/2023/09/Admissions-Policy-NEW-2.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Policy NEW 2"
+    },
+    {
+      "url": "http://saintfinians.ie/wp-content/uploads/2023/11/new-Early-Start-Enrolment-Policy-2023.pdf",
+      "final_url": "http://saintfinians.ie/wp-content/uploads/2023/11/new-Early-Start-Enrolment-Policy-2023.pdf",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "Early Start Enrollment Policy"
+    },
+    {
+      "url": "http://saintfinians.ie/wp-content/uploads/2023/11/New-application-Form-Early-Start-2023.pdf",
+      "final_url": "http://saintfinians.ie/wp-content/uploads/2023/11/New-application-Form-Early-Start-2023.pdf",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "Early Start Enrolment Application Form"
+    },
+    {
+      "url": "http://saintfinians.ie/wp-content/uploads/2024/09/St-Finians-Enrolment-application-form.pdf",
+      "final_url": "http://saintfinians.ie/wp-content/uploads/2024/09/St-Finians-Enrolment-application-form.pdf",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "St Finian’s Enrolment Application Form"
+    },
+    {
+      "url": "https://saintfinians.ie/wp-content/uploads/2025/09/Admission-Policy-w_-ASD-Class.docx.pdf",
+      "final_url": "https://saintfinians.ie/wp-content/uploads/2025/09/Admission-Policy-w_-ASD-Class.docx.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admission Policy w_ ASD Class.docx"
+    },
+    {
+      "url": "https://saintfinians.ie/wp-content/uploads/2025/09/Admission-Policy-new.pdf",
+      "final_url": "https://saintfinians.ie/wp-content/uploads/2025/09/Admission-Policy-new.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admission Policy new"
+    },
+    {
+      "url": "http://saintfinians.ie/wp-content/uploads/2025/09/Admission-Policy-new.pdf",
+      "final_url": "http://saintfinians.ie/wp-content/uploads/2025/09/Admission-Policy-new.pdf",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "Autism Class admissions policy"
+    },
+    {
+      "url": "http://saintfinians.ie/wp-content/uploads/2025/05/HSE-Letter-to-Parents.docx.pdf",
+      "final_url": "http://saintfinians.ie/wp-content/uploads/2025/05/HSE-Letter-to-Parents.docx.pdf",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "HSE Letter to Parents"
+    },
+    {
+      "url": "http://saintfinians.ie/wp-content/uploads/2026/10/Final-Draft-Calendar-2026-2027-.docx.pdf",
+      "final_url": "http://saintfinians.ie/wp-content/uploads/2026/10/Final-Draft-Calendar-2026-2027-.docx.pdf",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "Calendar 26/27"
+    },
+    {
+      "url": "https://saintfinians.ie/wp-sitemap.xml",
+      "final_url": "https://saintfinians.ie/wp-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://saintfinians.ie/wp-sitemap-users-1.xml",
+      "final_url": "https://saintfinians.ie/wp-sitemap-users-1.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19489Q",
+      "url": "https://saintfinians.ie/wp-content/uploads/2022/09/Saint-Finians-Admission-Notice-22-23.pdf",
+      "label": "Saint Finians Admission Notice 22-23",
+      "sha256": "39818ff07b8915f09c20f5ced8fc7369b7d2eb57fe50989275d4da145a5c44ce",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19489Q_39818ff07b8915f09c20.txt",
+      "source_file": "database/milestone2/cache/39818ff07b8915f09c20f5ced8fc7369b7d2eb57fe50989275d4da145a5c44ce.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 2729
+    },
+    {
+      "roll": "19489Q",
+      "url": "https://saintfinians.ie/wp-content/uploads/2023/10/24_25Admissions-notice-1.pdf",
+      "label": "24_25Admissions-notice (1)",
+      "sha256": "359c50e9a008e0afb869feda56466fc10efd6da1ce9fbb8a02191f9a39a48a1f",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19489Q_359c50e9a008e0afb869.txt",
+      "source_file": "database/milestone2/cache/359c50e9a008e0afb869feda56466fc10efd6da1ce9fbb8a02191f9a39a48a1f.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1659
+    },
+    {
+      "roll": "19489Q",
+      "url": "https://saintfinians.ie/wp-content/uploads/2023/09/23_34-Admissions-notice-1.pdf",
+      "label": "23_34 Admissions-notice (1)",
+      "sha256": "9a343eace5901748a99596b36677e7a75a26f9d3cdb472c62821b3fa27a91746",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19489Q_9a343eace5901748a995.txt",
+      "source_file": "database/milestone2/cache/9a343eace5901748a99596b36677e7a75a26f9d3cdb472c62821b3fa27a91746.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1619
+    },
+    {
+      "roll": "19489Q",
+      "url": "https://saintfinians.ie/wp-content/uploads/2024/09/25_26-Admissions-notice-1.pdf",
+      "label": "25_26 Admissions-notice (1)",
+      "sha256": "f2b787948b42415bd46e40e53b25cd2db415a3dc56c4feae958b18f2fda08c88",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19489Q_f2b787948b42415bd46e.txt",
+      "source_file": "database/milestone2/cache/f2b787948b42415bd46e40e53b25cd2db415a3dc56c4feae958b18f2fda08c88.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1834
+    },
+    {
+      "roll": "19489Q",
+      "url": "https://saintfinians.ie/wp-content/uploads/2025/09/Admissions-Notice.pdf",
+      "label": "Admissions Notice",
+      "sha256": "bd5263b9e25605fb4fe9658c493cdb86d32819a138e0c0edcaea75a819a54acf",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19489Q_bd5263b9e25605fb4fe9.txt",
+      "source_file": "database/milestone2/cache/bd5263b9e25605fb4fe9658c493cdb86d32819a138e0c0edcaea75a819a54acf.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 2907
+    },
+    {
+      "roll": "19489Q",
+      "url": "https://saintfinians.ie/wp-content/uploads/2025/09/26_27-Admissions-notice-1.pdf",
+      "label": "26_27 Admissions-notice (1)",
+      "sha256": "078ef92996f75e058bb7bbe90aca072879e75c381a0cffa55c45ffa196c3bb0c",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19489Q_078ef92996f75e058bb7.txt",
+      "source_file": "database/milestone2/cache/078ef92996f75e058bb7bbe90aca072879e75c381a0cffa55c45ffa196c3bb0c.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 2924
+    },
+    {
+      "roll": "19489Q",
+      "url": "https://saintfinians.ie/wp-content/uploads/2026/10/Annual-Admissions-27_28.pdf",
+      "label": "Annual Admissions 27_28",
+      "sha256": "413ed717e25d658fa09be8b5ee0e2f2ecf043e7ba73621f4c4219318a0956639",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19489Q_413ed717e25d658fa09b.txt",
+      "source_file": "database/milestone2/cache/413ed717e25d658fa09be8b5ee0e2f2ecf043e7ba73621f4c4219318a0956639.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 3874
+    },
+    {
+      "roll": "19489Q",
+      "url": "https://saintfinians.ie/wp-content/uploads/2025/09/Admission-Policy-w_-ASD-Class.docx.pdf",
+      "label": "Admission Policy w_ ASD Class.docx",
+      "sha256": "61d02f0dd8161c9b852775b20599aaafe0591d3a801583cc14dd0cbc1a15eeb0",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19489Q_61d02f0dd8161c9b8527.txt",
+      "source_file": "database/milestone2/cache/61d02f0dd8161c9b852775b20599aaafe0591d3a801583cc14dd0cbc1a15eeb0.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 27475
+    },
+    {
+      "roll": "19489Q",
+      "url": "https://saintfinians.ie/wp-content/uploads/2025/09/Admission-Policy-new.pdf",
+      "label": "Admission Policy new",
+      "sha256": "4bbfe24fd1e33950218eb032e78a7e34f3cea0ea14d86aad414a40f1b33fae5d",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19489Q_4bbfe24fd1e33950218e.txt",
+      "source_file": "database/milestone2/cache/4bbfe24fd1e33950218eb032e78a7e34f3cea0ea14d86aad414a40f1b33fae5d.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 27150
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://saintfinians.ie/wp-sitemap-posts-post-1.xml",
+      "label": "Public sitemap index child",
+      "via": "sitemap_child"
+    },
+    {
+      "url": "https://saintfinians.ie/wp-sitemap-posts-page-1.xml",
+      "label": "Public sitemap index child",
+      "via": "sitemap_child"
+    },
+    {
+      "url": "https://saintfinians.ie/policies/",
+      "label": "Policies",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://saintfinians.ie/parents/",
+      "label": "Parents",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 52.63,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:06:26+0000"
+}

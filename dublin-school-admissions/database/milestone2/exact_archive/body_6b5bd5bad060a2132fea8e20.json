@@ -1,0 +1,25 @@
+{
+  "roll": "20168D",
+  "capture": {
+    "timestamp": "20240227201830",
+    "original": "https://get.ie/enrolment-information/",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "digest": "N6PY3GFFJFHCAOBAELZIFJPDV5J6YKZS"
+  },
+  "original_url": "https://get.ie/enrolment-information/",
+  "archived_url": "https://web.archive.org/web/20240227201830/https://get.ie/enrolment-information/",
+  "attempted_at": "2026-11-08T12:54:34.517650+00:00",
+  "linked_from_capture": null,
+  "http_status": 200,
+  "headers": {
+    "Content-Type": "text/html; charset=UTF-8",
+    "memento-datetime": "Tue, 27 Feb 2024 20:18:30 GMT"
+  },
+  "bytes": 1057817,
+  "payload_sha256": "5d3a8f73341917db3fae1323a3d335d7d4fadd6fef8a73e03eb7654eba0dd395",
+  "format": "html",
+  "status": "archived_body_retrieved_requires_manual_evidence_review",
+  "text_file": "database/milestone2/evidence/exact_20168D_5d3a8f73341917db3fae.txt",
+  "linked_document_candidates": []
+}

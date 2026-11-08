@@ -1,0 +1,213 @@
+{
+  "roll": "20141G",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.theharoldschool.ie",
+      "final_url": "https://www.theharoldschool.ie",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.theharoldschool.ie/admission",
+      "final_url": "https://www.theharoldschool.ie/admission",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://www.theharoldschool.ie/s/Annual-Admission-Notice-2024-2025.pdf",
+      "final_url": "https://www.theharoldschool.ie/s/Annual-Admission-Notice-2024-2025.pdf",
+      "status": "http_404",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.theharoldschool.ie/s/Annual-Admission-Notice-JI-2027-to-2028-s946.pdf",
+      "final_url": "https://static1.squarespace.com/static/5a95188045776ee281b9fd9c/t/6ab917c362f19159f0a92d9e/1790515139461/Annual+Admission+Notice+JI+2027+to+2028.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Junior Infant Admissions Notice 2027/202"
+    },
+    {
+      "url": "https://www.theharoldschool.ie/s/Annual-Admission-Notice-2027-28-ASD-class.pdf",
+      "final_url": "https://static1.squarespace.com/static/5a95188045776ee281b9fd9c/t/6abd43f9fb620b64e20d0ee4/1790788601953/Annual+Admission+Notice+2027-28+ASD+class.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admission Notice 27/28- ASD Special Class"
+    },
+    {
+      "url": "https://www.theharoldschool.ie/s/Terms-2019.pdf",
+      "final_url": "https://static1.squarespace.com/static/5a95188045776ee281b9fd9c/t/5db2e2868a62df0bc132736a/1572004486941/Terms+2019.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Terms"
+    },
+    {
+      "url": "https://www.theharoldschool.ie/s/Harold-Boundary-Map.pdf",
+      "final_url": "https://static1.squarespace.com/static/5a95188045776ee281b9fd9c/t/6abce1ca98447e4f6d1e3b20/1790763466529/Harold+Boundary+Map.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Glasthule Parish Boundary"
+    },
+    {
+      "url": "https://www.theharoldschool.ie/s/Admissions-Policy-Sept-26-docx.pdf",
+      "final_url": "https://static1.squarespace.com/static/5a95188045776ee281b9fd9c/t/6abbf951ddb3cd185174efd0/1790703953651/Admissions+Policy+Sept+26+.docx.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admission Policy"
+    },
+    {
+      "url": "https://www.theharoldschool.ie/sitemap.xml",
+      "final_url": "https://www.theharoldschool.ie/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.theharoldschool.ie/school-policies",
+      "final_url": "https://www.theharoldschool.ie/school-policies",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.theharoldschool.ie/s/TheHaroldSchoolAdmissionPolicySep2025-1.pdf",
+      "final_url": "https://static1.squarespace.com/static/5a95188045776ee281b9fd9c/t/68dc07c91085a70789bfa421/1759250377991/The%2BHarold%2BSchool%2BAdmission%2BPolicy%2BSep%2B2025+%281%29.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admission Policy"
+    },
+    {
+      "url": "https://www.theharoldschool.ie/our-school-info",
+      "final_url": "https://www.theharoldschool.ie/our-school-vision",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Our School/Ár Scoil"
+    },
+    {
+      "url": "https://www.theharoldschool.ie/haroldparentsassociation",
+      "final_url": "https://www.theharoldschool.ie/haroldparentsassociation",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents’ Association"
+    },
+    {
+      "url": "https://www.theharoldschool.ie/for-our-parents",
+      "final_url": "https://www.theharoldschool.ie/haroldparentsassociation",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents/Tuismitheoirí"
+    },
+    {
+      "url": "https://www.theharoldschool.ie/s/Notification-regarding-BOM-review-of-Bi-Cinealta-policy-2025.docx",
+      "final_url": "https://static1.squarespace.com/static/5a95188045776ee281b9fd9c/t/68d2ac6c7d2ab625c3ef229d/1758637164988/Notification+regarding+BOM+review+of+Bi+Cinealta+policy+2025.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Notification regarding BOM review of Bi Cinealta policy 2025"
+    },
+    {
+      "url": "https://www.theharoldschool.ie/s/Bi-Cinealta-Policy-signed.pdf",
+      "final_url": "https://static1.squarespace.com/static/5a95188045776ee281b9fd9c/t/6971efeca894552d35506f33/1769074668154/Bi+Cinealta+Policy+signed.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Bí Cineálta Policy ( 2025/2026)"
+    },
+    {
+      "url": "https://www.theharoldschool.ie/s/SI-6th-App-Form-2026-2027-1-d73a.pdf",
+      "final_url": "https://static1.squarespace.com/static/5a95188045776ee281b9fd9c/t/6abe40297a1f19061b1ce017/1790853161991/SI-6th+App+Form+2026-2027+%281%29.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Application Form Senior Infants - 6th Classes 26/27"
+    },
+    {
+      "url": "https://www.theharoldschool.ie/s/Autism-Class-App-Form-2027-2028.pdf",
+      "final_url": "https://static1.squarespace.com/static/5a95188045776ee281b9fd9c/t/6abe37ce2bfa517aba445918/1790851022293/Autism+Class+App+Form+2027-2028.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Application Form ASD Special Class"
+    },
+    {
+      "url": "https://www.theharoldschool.ie/s/The-Harold-School-Parental-Complaints-Policy-and-procedure-ak3p.pdf",
+      "final_url": "https://static1.squarespace.com/static/5a95188045776ee281b9fd9c/t/69650c1902900529ba132baa/1768229913588/The+Harold+School+Parental+Complaints+Policy+and+procedure.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parental Complaints Policy and Procedure"
+    },
+    {
+      "url": "https://www.theharoldschool.ie/s/Supervision-Policy-43af.pdf",
+      "final_url": "https://static1.squarespace.com/static/5a95188045776ee281b9fd9c/t/6aa9b1678034d36adc9571a5/1789505895392/Supervision+Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Supervision Policy"
+    },
+    {
+      "url": "https://www.theharoldschool.ie/s/Regrouping-Policy-1-sfk5.pdf",
+      "final_url": "https://static1.squarespace.com/static/5a95188045776ee281b9fd9c/t/698b08c12c0c120ed3049257/1770719425846/Regrouping+Policy+%281%29.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Regrouping Policy"
+    },
+    {
+      "url": "https://www.theharoldschool.ie/s/Medical-Policy.pdf",
+      "final_url": "https://static1.squarespace.com/static/5a95188045776ee281b9fd9c/t/5bdd96778a922d1dc80cfc41/1541248631451/Medical-Policy-.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Medical Policy"
+    },
+    {
+      "url": "https://www.theharoldschool.ie/s/Healthy-Eating-Policy-draft.pdf",
+      "final_url": "https://static1.squarespace.com/static/5a95188045776ee281b9fd9c/t/698b096418e22455ef529fdb/1770719588924/Healthy+Eating+Policy+draft.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Healthy Eating"
+    },
+    {
+      "url": "https://www.theharoldschool.ie/s/Digital-Technology-and-Social-Media-Policy-1.pdf",
+      "final_url": "https://static1.squarespace.com/static/5a95188045776ee281b9fd9c/t/6adb73fdcd552b2865e8869e/1792766973210/Digital+Technology+and+Social+Media+Policy++%281%29.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Digital Technology and Social Media Policy"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "20141G",
+      "url": "https://static1.squarespace.com/static/5a95188045776ee281b9fd9c/t/6abbf951ddb3cd185174efd0/1790703953651/Admissions+Policy+Sept+26+.docx.pdf",
+      "label": "Admission Policy",
+      "sha256": "f7b5264d2c279edc5d1a796249b299be65838f807304c0b99328d0600030128f",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20141G_f7b5264d2c279edc5d1a.txt",
+      "source_file": "database/milestone2/cache/f7b5264d2c279edc5d1a796249b299be65838f807304c0b99328d0600030128f.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 36239
+    },
+    {
+      "roll": "20141G",
+      "url": "https://static1.squarespace.com/static/5a95188045776ee281b9fd9c/t/68dc07c91085a70789bfa421/1759250377991/The%2BHarold%2BSchool%2BAdmission%2BPolicy%2BSep%2B2025+%281%29.pdf",
+      "label": "Admission Policy",
+      "sha256": "3adbbcd246c886d4554c821eba3ee6ef22af3fdce55911440c2c7b22010d8643",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20141G_3adbbcd246c886d4554c.txt",
+      "source_file": "database/milestone2/cache/3adbbcd246c886d4554c821eba3ee6ef22af3fdce55911440c2c7b22010d8643.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 34716
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.theharoldschool.ie/s/Communication-Policy-updated.pdf",
+      "label": "Communication Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.theharoldschool.ie/s/Code-of-Behaviour-Policy.pdf",
+      "label": "Code of Behaviour",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 77.06,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:58:55+0000"
+}

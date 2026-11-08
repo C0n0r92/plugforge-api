@@ -1,0 +1,180 @@
+{
+  "roll": "20218P",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://stcolumbanus.ie",
+      "final_url": "https://stcolumbanus.ie",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "http://stcolumbanus.ie/wp-content/uploads/2026/09/admissions-notice-2027-2028.pdf",
+      "final_url": "http://stcolumbanus.ie/wp-content/uploads/2026/09/admissions-notice-2027-2028.pdf",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "Enrolment Form"
+    },
+    {
+      "url": "https://stcolumbanus.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://stcolumbanus.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://stcolumbanus.ie/wp-content/uploads/2022/10/admissions-notice2023-2024.pdf",
+      "final_url": "https://stcolumbanus.ie/wp-content/uploads/2022/10/admissions-notice2023-2024.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "admissions-notice2023 2024"
+    },
+    {
+      "url": "https://stcolumbanus.ie/wp-content/uploads/2022/01/admissions-notice2122.pdf",
+      "final_url": "https://stcolumbanus.ie/wp-content/uploads/2022/01/admissions-notice2122.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "admissions-notice2122"
+    },
+    {
+      "url": "https://stcolumbanus.ie/wp-content/uploads/2023/10/admissions-notice.pdf",
+      "final_url": "https://stcolumbanus.ie/wp-content/uploads/2023/10/admissions-notice.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "admissions-notice"
+    },
+    {
+      "url": "https://stcolumbanus.ie/wp-content/uploads/2024/09/admissions-notice2025-2026.docx",
+      "final_url": "https://stcolumbanus.ie/wp-content/uploads/2024/09/admissions-notice2025-2026.docx",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "admissions-notice2025 2026"
+    },
+    {
+      "url": "https://stcolumbanus.ie/wp-content/uploads/2026/09/admissions-notice-2027-2028.pdf",
+      "final_url": "https://stcolumbanus.ie/wp-content/uploads/2026/09/admissions-notice-2027-2028.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "admissions-notice 2027 2028"
+    },
+    {
+      "url": "https://stcolumbanus.ie/wp-content/uploads/2022/10/Admissions-policy-20218P-update-2022-approved-Copy.pdf",
+      "final_url": "https://stcolumbanus.ie/wp-content/uploads/2022/10/Admissions-policy-20218P-update-2022-approved-Copy.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions policy 20218P update 2022 approved &#8211; Copy"
+    },
+    {
+      "url": "https://stcolumbanus.ie/wp-content/uploads/2022/01/Admissions-policy-20218P-Approved.pdf",
+      "final_url": "https://stcolumbanus.ie/wp-content/uploads/2022/01/Admissions-policy-20218P-Approved.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions-policy-20218P-Approved"
+    },
+    {
+      "url": "http://stcolumbanus.ie/sitemap_index.xml",
+      "final_url": "http://stcolumbanus.ie/sitemap_index.xml",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "http://stcolumbanus.ie/information/",
+      "final_url": "http://stcolumbanus.ie/information/",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "General Info"
+    },
+    {
+      "url": "https://stcolumbanus.ie/cookie-policy-eu/",
+      "final_url": "https://stcolumbanus.ie/cookie-policy-eu/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Cookie Policy (EU)"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "20218P",
+      "url": "https://stcolumbanus.ie/wp-content/uploads/2022/10/admissions-notice2023-2024.pdf",
+      "label": "admissions-notice2023 2024",
+      "sha256": "f928081c211860e05b86cc0a5d0c84b67952788be2750924be2069d0f690d480",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20218P_f928081c211860e05b86.txt",
+      "source_file": "database/milestone2/cache/f928081c211860e05b86cc0a5d0c84b67952788be2750924be2069d0f690d480.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 3663
+    },
+    {
+      "roll": "20218P",
+      "url": "https://stcolumbanus.ie/wp-content/uploads/2022/01/admissions-notice2122.pdf",
+      "label": "admissions-notice2122",
+      "sha256": "fe52c23fd50c7c39d90e83141aeaacc89625c003bb94911cb8f0529e8337d7f9",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20218P_fe52c23fd50c7c39d90e.txt",
+      "source_file": "database/milestone2/cache/fe52c23fd50c7c39d90e83141aeaacc89625c003bb94911cb8f0529e8337d7f9.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 3723
+    },
+    {
+      "roll": "20218P",
+      "url": "https://stcolumbanus.ie/wp-content/uploads/2023/10/admissions-notice.pdf",
+      "label": "admissions-notice",
+      "sha256": "9052e9be4307cf84fa77e12bfd3bf6ce15c6d3ef4a7546c097bcc70259ef5451",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20218P_9052e9be4307cf84fa77.txt",
+      "source_file": "database/milestone2/cache/9052e9be4307cf84fa77e12bfd3bf6ce15c6d3ef4a7546c097bcc70259ef5451.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 3477
+    },
+    {
+      "roll": "20218P",
+      "url": "https://stcolumbanus.ie/wp-content/uploads/2024/09/admissions-notice2025-2026.docx",
+      "label": "admissions-notice2025 2026",
+      "sha256": "337c7676ca048eab6c188d0e9f874321b0c1f48a48d42a52ff6ec4564fb29dde",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/20218P_337c7676ca048eab6c18.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 3803
+    },
+    {
+      "roll": "20218P",
+      "url": "https://stcolumbanus.ie/wp-content/uploads/2026/09/admissions-notice-2027-2028.pdf",
+      "label": "admissions-notice 2027 2028",
+      "sha256": "fac51cc1edf91de38573c6b32facd02a1ca89cc600d43b632051cb74a16abd8f",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20218P_fac51cc1edf91de38573.txt",
+      "source_file": "database/milestone2/cache/fac51cc1edf91de38573c6b32facd02a1ca89cc600d43b632051cb74a16abd8f.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 3653
+    },
+    {
+      "roll": "20218P",
+      "url": "https://stcolumbanus.ie/wp-content/uploads/2022/10/Admissions-policy-20218P-update-2022-approved-Copy.pdf",
+      "label": "Admissions policy 20218P update 2022 approved &#8211; Copy",
+      "sha256": "6b9458552de884ef557c9eeed3bd43d41877fcd3d6296aba798e1fa9dbb33f30",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20218P_6b9458552de884ef557c.txt",
+      "source_file": "database/milestone2/cache/6b9458552de884ef557c9eeed3bd43d41877fcd3d6296aba798e1fa9dbb33f30.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 27166
+    },
+    {
+      "roll": "20218P",
+      "url": "https://stcolumbanus.ie/wp-content/uploads/2022/01/Admissions-policy-20218P-Approved.pdf",
+      "label": "Admissions-policy-20218P-Approved",
+      "sha256": "0c3f715b8c78dbc70ac41840a8248ba33a3aa22942d10f4e13e28c866cdb561e",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20218P_0c3f715b8c78dbc70ac4.txt",
+      "source_file": "database/milestone2/cache/0c3f715b8c78dbc70ac41840a8248ba33a3aa22942d10f4e13e28c866cdb561e.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 24990
+    }
+  ],
+  "pending_links": [],
+  "elapsed_seconds": 37.9,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:11:03+0000"
+}

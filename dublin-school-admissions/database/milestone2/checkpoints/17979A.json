@@ -1,0 +1,185 @@
+{
+  "roll": "17979A",
+  "status": "bounded_search_no_new_notice_found",
+  "attempts": [
+    {
+      "url": "https://www.mountanvilleprimaryschool.com/page/Admissions/14734/Index.html",
+      "final_url": "https://www.mountanvilleprimaryschool.com/page/Admissions/14734/Index.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://www.mountanvilleprimaryschool.com/Page/Admissions/14734/Index.html",
+      "final_url": "https://www.mountanvilleprimaryschool.com/Page/Admissions/14734/Index.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Please click here for admission info"
+    },
+    {
+      "url": "https://storage.googleapis.com/iclasscrm_files/5354/Images/Content/2026/260/fy29-Admissions_Policy_MAPS_2026_Signed.pdf",
+      "final_url": "https://storage.googleapis.com/iclasscrm_files/5354/Images/Content/2026/260/fy29-Admissions_Policy_MAPS_2026_Signed.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions Policy"
+    },
+    {
+      "url": "https://www.mountanvilleprimaryschool.com/sitemap.xml",
+      "final_url": "https://www.mountanvilleprimaryschool.com/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.mountanvilleprimaryschool.com/page/Policies/14245/Index.html",
+      "final_url": "https://www.mountanvilleprimaryschool.com/page/Policies/14245/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Policies"
+    },
+    {
+      "url": "https://www.mountanvilleprimaryschool.com/Content/2025/6/xg82-Notice_of_Review_of_Bi_Cinealta_Policy.pdf",
+      "final_url": "https://www.mountanvilleprimaryschool.com/Content/2025/6/xg82-Notice_of_Review_of_Bi_Cinealta_Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Bí Cineálta Policy – Notification of Review ↗"
+    },
+    {
+      "url": "https://www.mountanvilleprimaryschool.com/Content/2024/1/so65-Parental_Complaints_Scan.pdf",
+      "final_url": "https://www.mountanvilleprimaryschool.com/Content/2024/1/so65-Parental_Complaints_Scan.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Complaints Procedure ↗"
+    },
+    {
+      "url": "https://storage.googleapis.com/iclasscrm_files/5354/Images/Content/2026/146/ox59-Admissions_Policy_MAPS_2026_Signed.pdf",
+      "final_url": "https://storage.googleapis.com/iclasscrm_files/5354/Images/Content/2026/146/ox59-Admissions_Policy_MAPS_2026_Signed.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions Policy ↗"
+    },
+    {
+      "url": "https://www.mountanvilleprimaryschool.com/page/Parents-Council/15386/Index.html",
+      "final_url": "https://www.mountanvilleprimaryschool.com/page/Parents-Council/15386/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents Council"
+    },
+    {
+      "url": "https://www.mountanvilleprimaryschool.com/page/Forms-and-Downloads/21580/Index.html",
+      "final_url": "https://www.mountanvilleprimaryschool.com/page/Forms-and-Downloads/21580/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Forms and Downloads"
+    },
+    {
+      "url": "https://www.mountanvilleprimaryschool.com/Page/School-Policies/14245/Index.html",
+      "final_url": "https://www.mountanvilleprimaryschool.com/Page/School-Policies/14245/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Policies"
+    },
+    {
+      "url": "https://www.mountanvilleprimaryschool.com/Page/Parents-Council/15386/Index.html",
+      "final_url": "https://www.mountanvilleprimaryschool.com/Page/Parents-Council/15386/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents Council"
+    },
+    {
+      "url": "https://www.mountanvilleprimaryschool.com/Page/Forms-and-Downloads/21580/Index.html",
+      "final_url": "https://www.mountanvilleprimaryschool.com/Page/Forms-and-Downloads/21580/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Forms and Downloads"
+    },
+    {
+      "url": "https://www.mountanvilleprimaryschool.com",
+      "final_url": "https://www.mountanvilleprimaryschool.com",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.mountanvilleprimaryschool.com/Content/2023/9/el14-Health_and_Safety_Policy_2022.pdf",
+      "final_url": "https://www.mountanvilleprimaryschool.com/Content/2023/9/el14-Health_and_Safety_Policy_2022.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Health & Safety Policy ↗"
+    },
+    {
+      "url": "https://www.mountanvilleprimaryschool.com/Content/2023/11/vc80-Administration_of_Medicine_Policy_2023.pdf",
+      "final_url": "https://www.mountanvilleprimaryschool.com/Content/2023/11/vc80-Administration_of_Medicine_Policy_2023.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Administration of Medication Policy ↗"
+    },
+    {
+      "url": "https://www.mountanvilleprimaryschool.com/Content/2023/11/cx80-First_Aid_Policy_MAPS_2023.pdf",
+      "final_url": "https://www.mountanvilleprimaryschool.com/Content/2023/11/cx80-First_Aid_Policy_MAPS_2023.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "First Aid Policy ↗"
+    },
+    {
+      "url": "https://www.mountanvilleprimaryschool.com/Content/2024/9/qt67-Policy_on_the_Stay_Safe_Programme.pdf",
+      "final_url": "https://www.mountanvilleprimaryschool.com/Content/2024/9/qt67-Policy_on_the_Stay_Safe_Programme.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Stay Safe Policy ↗"
+    },
+    {
+      "url": "https://www.mountanvilleprimaryschool.com/Content/2024/5/yw98-School_Tours_and_Outings_Policy_2024.pdf",
+      "final_url": "https://www.mountanvilleprimaryschool.com/Content/2024/5/yw98-School_Tours_and_Outings_Policy_2024.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Tour Policy ↗"
+    },
+    {
+      "url": "https://www.mountanvilleprimaryschool.com/Content/2024/5/sa60-Class_Regrouping_Policy_2024.pdf",
+      "final_url": "https://www.mountanvilleprimaryschool.com/Content/2024/5/sa60-Class_Regrouping_Policy_2024.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Class Regrouping Policy ↗"
+    },
+    {
+      "url": "https://www.mountanvilleprimaryschool.com/Content/2024/4/ed11-Code_of_Behaviour_Policy_2024.pdf",
+      "final_url": "https://www.mountanvilleprimaryschool.com/Content/2024/4/ed11-Code_of_Behaviour_Policy_2024.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Code of Behaviour ↗"
+    },
+    {
+      "url": "https://www.mountanvilleprimaryschool.com/Content/2024/10/zm94-Communications_Policy_2024.pdf",
+      "final_url": "https://www.mountanvilleprimaryschool.com/Content/2024/10/zm94-Communications_Policy_2024.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Communications Policy ↗"
+    },
+    {
+      "url": "https://www.mountanvilleprimaryschool.com/Content/2025/6/hl34-SEN_Policy.pdf",
+      "final_url": "https://www.mountanvilleprimaryschool.com/Content/2025/6/hl34-SEN_Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "SEN Policy ↗"
+    },
+    {
+      "url": "https://www.mountanvilleprimaryschool.com/Content/2025/5/dl14-Homework_Policy.pdf",
+      "final_url": "https://www.mountanvilleprimaryschool.com/Content/2025/5/dl14-Homework_Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Homework Policy ↗"
+    }
+  ],
+  "documents": [],
+  "pending_links": [
+    {
+      "url": "https://www.mountanvilleprimaryschool.com/Content/2025/1/bs70-Parents_Council_Policy_2.pdf",
+      "label": "Parents' Council Policy ↗",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 75.11,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:52:40+0000"
+}

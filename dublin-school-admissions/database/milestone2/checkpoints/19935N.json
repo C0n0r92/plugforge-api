@@ -1,0 +1,273 @@
+{
+  "roll": "19935N",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.scoileoinns.com/pages/admissions.php?cookiereset",
+      "final_url": "https://www.scoileoinns.com/pages/admissions.php",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Reset Cookie Permissions"
+    },
+    {
+      "url": "https://www.scoileoinns.com/pages/admissions.php",
+      "final_url": "https://www.scoileoinns.com/pages/admissions.php",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://plus.google.com/share?url=https%3A%2F%2Fwww.scoileoinns.com%2Fpages%2Fadmissions.php",
+      "final_url": "https://plus.google.com/share?url=https%3A%2F%2Fwww.scoileoinns.com%2Fpages%2Fadmissions.php",
+      "status": "robots_permission_unestablished_http_301",
+      "via": "school_public_link",
+      "label": "GooglePlus"
+    },
+    {
+      "url": "https://www.scoileoinns.com/media/download_gallery/Privacy_Statement_NoContactForm.pdf",
+      "final_url": "https://www.scoileoinns.com/media/download_gallery/Privacy_Statement_NoContactForm.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Privacy Statement"
+    },
+    {
+      "url": "https://www.scoileoinns.com/sitemap.xml",
+      "final_url": "https://www.scoileoinns.com/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.scoileoinns.com/pages/parents/information.php",
+      "final_url": "https://www.scoileoinns.com/pages/parents/information.php",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Information"
+    },
+    {
+      "url": "https://www.scoileoinns.com/media/download_gallery/Scoil%20Eoin%20Uniform%20Flyer%202023%20(1).pdf",
+      "final_url": "https://www.scoileoinns.com/media/download_gallery/Scoil%20Eoin%20Uniform%20Flyer%202023%20(1).pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Click here to view our Scoil Uniform 2023/2024"
+    },
+    {
+      "url": "https://www.scoileoinns.com/media/download_gallery/Hot%20Food%20menu.pdf",
+      "final_url": "https://www.scoileoinns.com/media/download_gallery/Hot%20Food%20menu.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Click here to view our hot food menu."
+    },
+    {
+      "url": "https://www.scoileoinns.com/pages/parents/information.php?cookiereset",
+      "final_url": "https://www.scoileoinns.com/pages/parents/information.php",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Reset Cookie Permissions"
+    },
+    {
+      "url": "https://www.scoileoinns.com/pages/parents/downloadspolicies.php",
+      "final_url": "https://www.scoileoinns.com/pages/parents/downloadspolicies.php",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Downloads/Policies"
+    },
+    {
+      "url": "https://www.scoileoinns.com/modules/download_gallery/dlc.php?file=112&id=1792677831&sid=190",
+      "final_url": "https://www.scoileoinns.com/media/documents/Annual_Admission_Notice_2027_2028.doc",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Annual Admission Notice 2027/2028"
+    },
+    {
+      "url": "https://www.scoileoinns.com/modules/download_gallery/dlc.php?file=67&id=1719491355&sid=190",
+      "final_url": "https://www.scoileoinns.com/media/download_gallery/Home School Community Liaison April 2024.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Home School Community Liaison Policy"
+    },
+    {
+      "url": "https://www.scoileoinns.com/modules/download_gallery/dlc.php?file=106&id=1791494455&sid=190",
+      "final_url": "https://www.scoileoinns.com/media/documents/Bi_Cinealta_Annual_Review_May_2026_(1).pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Bí Cineálta Annual Review 2026"
+    },
+    {
+      "url": "https://www.scoileoinns.com/modules/download_gallery/dlc.php?file=74&id=1727698256&sid=190",
+      "final_url": "https://www.scoileoinns.com/media/documents/Child Safeguarding Statement.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Child Safeguarding Statement 2024/2025"
+    },
+    {
+      "url": "https://www.scoileoinns.com/modules/download_gallery/dlc.php?file=118&id=1792691892&sid=190",
+      "final_url": "https://www.scoileoinns.com/media/Scoil Eoin Admissions Policy 2026 (2).pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Scoil Eoin Admission Policy 2026"
+    },
+    {
+      "url": "https://www.scoileoinns.com/modules/download_gallery/dlc.php?file=103&id=1789597680&sid=190",
+      "final_url": "https://www.scoileoinns.com/media/download_gallery/2026_2027 School Calendar including Additional School Closures.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Calendar 2026 2027 ."
+    },
+    {
+      "url": "https://www.scoileoinns.com/pages/parents/downloadspolicies.php?cookiereset",
+      "final_url": "https://www.scoileoinns.com/pages/parents/downloadspolicies.php",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Reset Cookie Permissions"
+    },
+    {
+      "url": "https://www.scoileoinns.com/pages/parents.php",
+      "final_url": "https://www.scoileoinns.com/pages/parents.php",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents"
+    },
+    {
+      "url": "https://www.scoileoinns.com/pages/parents.php?cookiereset",
+      "final_url": "https://www.scoileoinns.com/pages/parents.php",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Reset Cookie Permissions"
+    },
+    {
+      "url": "https://www.scoileoinns.com/modules/download_gallery/dlc.php?file=86&id=1709722099&sid=190",
+      "final_url": "https://www.hse.ie/eng/services/list/2/primarycare/pcteams/dublin-north-city-and-county/childrens-services-referral-form.pdf",
+      "status": "http_404",
+      "via": "school_public_link",
+      "label": "Childrens Services Referral Form"
+    },
+    {
+      "url": "https://www.scoileoinns.com/modules/download_gallery/dlc.php?file=79&id=1742485189&sid=190",
+      "final_url": "https://www.scoileoinns.com/media/SET/AdviceClinicPosterPsychology.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Psychology Advice Clinic for Parents"
+    },
+    {
+      "url": "https://www.scoileoinns.com/modules/download_gallery/dlc.php?file=78&id=1742485189&sid=190",
+      "final_url": "https://www.scoileoinns.com/media/SET/SpecialEducationTeaching.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Special Education Teaching (SET) Information for Parents"
+    },
+    {
+      "url": "https://www.scoileoinns.com/modules/download_gallery/dlc.php?file=56&id=1706523701&sid=190",
+      "final_url": "https://www.scoileoinns.com/media/documents/Parental-Complaints-Procedure-Updated-Dec-2023.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parental Complaints Procedure"
+    },
+    {
+      "url": "https://www.scoileoinns.com/modules/download_gallery/dlc.php?file=51&id=1680683514&sid=190",
+      "final_url": "https://www.scoileoinns.com/media/download_gallery/Scoil Eoin Statement of Strategy for School Attendance.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Statement of Strategy for School Attendance"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19935N",
+      "url": "https://www.scoileoinns.com/pages/parents/downloadspolicies.php",
+      "label": "Downloads/Policies",
+      "sha256": "f4a99888afd7961b1dc666d64d1d29b172a0628e0aa59478707d71e53d6df991",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19935N_f4a99888afd7961b1dc6.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 443
+    },
+    {
+      "roll": "19935N",
+      "url": "https://www.scoileoinns.com/media/documents/Annual_Admission_Notice_2027_2028.doc",
+      "label": "Annual Admission Notice 2027/2028",
+      "sha256": "92cb75ba0032e018eb19d9a0ce342aa94872b9a6c547a3c0fd72cd9b0d63253b",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19935N_92cb75ba0032e018eb19.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 18100
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.scoileoinns.com",
+      "label": "School homepage",
+      "via": "home"
+    },
+    {
+      "url": "https://www.scoileoinns.com/modules/download_gallery/dlc.php?file=80&id=1746108015&sid=190",
+      "label": "Acceptable User Policy (AUP) March 2025",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoileoinns.com/pages/cookiepolicy.php",
+      "label": "please click here.",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoileoinns.com/modules/download_gallery/dlc.php?file=99&id=1773095412&sid=190",
+      "label": "Bí Cineálta Child Friendly Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoileoinns.com/modules/download_gallery/dlc.php?file=89&id=1760362104&sid=190",
+      "label": "Wellbeing Policy & Statement",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoileoinns.com/modules/download_gallery/dlc.php?file=87&id=1760361639&sid=190",
+      "label": "Healthy Eating Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoileoinns.com/modules/download_gallery/dlc.php?file=84&id=1762177236&sid=190",
+      "label": "Bí Cineálta Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoileoinns.com/modules/download_gallery/dlc.php?file=71&id=1727037883&sid=190",
+      "label": "Scoil Eoin Art Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoileoinns.com/modules/download_gallery/dlc.php?file=69&id=1727038285&sid=190",
+      "label": "Health and Safety Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoileoinns.com/modules/download_gallery/dlc.php?file=52&id=1680683514&sid=190",
+      "label": "Code of Behaviour Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoileoinns.com/modules/download_gallery/dlc.php?file=49&id=1680683513&sid=190",
+      "label": "SPHE Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoileoinns.com/modules/download_gallery/dlc.php?file=114&id=1792677831&sid=190",
+      "label": "Scoil Eoin Religion Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoileoinns.com/modules/download_gallery/dlc.php?file=105&id=1791491670&sid=190",
+      "label": "Scoil Eoin Homework Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoileoinns.com/modules/download_gallery/dlc.php?file=100&id=1778682601&sid=190",
+      "label": "Policy to Support Pupils with Additional Educational Needs",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 107.68,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:11:04+0000"
+}

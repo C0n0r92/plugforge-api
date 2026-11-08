@@ -1,0 +1,287 @@
+{
+  "roll": "05600C",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.dominicandunlaoghaire.ie/our-school/attendance/",
+      "final_url": "https://www.dominicandunlaoghaire.ie/our-school/attendance/",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://www.dominicandunlaoghaire.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://www.dominicandunlaoghaire.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://www.dominicandunlaoghaire.ie/wp-content/uploads/2011/11/Application_Form_for_admission.pdf",
+      "final_url": "https://www.dominicandunlaoghaire.ie/wp-content/uploads/2011/11/Application_Form_for_admission.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Application_Form_for_admission"
+    },
+    {
+      "url": "https://www.dominicandunlaoghaire.ie/wp-content/uploads/2017/02/Admission-and-Enrolment-Policy.doc",
+      "final_url": "https://www.dominicandunlaoghaire.ie/wp-content/uploads/2017/02/Admission-and-Enrolment-Policy.doc",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admission and Enrolment Policy"
+    },
+    {
+      "url": "https://www.dominicandunlaoghaire.ie/wp-content/uploads/2025/12/Admission-Policy-of-Dominican-PS-11.11.2025.pdf",
+      "final_url": "https://www.dominicandunlaoghaire.ie/wp-content/uploads/2025/12/Admission-Policy-of-Dominican-PS-11.11.2025.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admission Policy of Dominican PS 11.11.2025"
+    },
+    {
+      "url": "https://www.dominicandunlaoghaire.ie/wp-sitemap.xml",
+      "final_url": "https://www.dominicandunlaoghaire.ie/wp-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.dominicandunlaoghaire.ie/wp-sitemap-posts-slide-1.xml",
+      "final_url": "https://www.dominicandunlaoghaire.ie/wp-sitemap-posts-slide-1.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.dominicandunlaoghaire.ie/wp-sitemap-posts-post-1.xml",
+      "final_url": "https://www.dominicandunlaoghaire.ie/wp-sitemap-posts-post-1.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.dominicandunlaoghaire.ie/wp-sitemap-posts-page-1.xml",
+      "final_url": "https://www.dominicandunlaoghaire.ie/wp-sitemap-posts-page-1.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.dominicandunlaoghaire.ie/parents/upcoming-events-2/",
+      "final_url": "https://www.dominicandunlaoghaire.ie/parents/upcoming-events-2/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Upcoming Events"
+    },
+    {
+      "url": "https://www.dominicandunlaoghaire.ie/parents/about-us/",
+      "final_url": "https://www.dominicandunlaoghaire.ie/parents/about-us/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "About Us"
+    },
+    {
+      "url": "https://www.dominicandunlaoghaire.ie/parents/about-hscl/",
+      "final_url": "https://www.dominicandunlaoghaire.ie/parents/about-hscl/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "About HSCL"
+    },
+    {
+      "url": "https://www.dominicandunlaoghaire.ie/parents/home-school/logo_hscl1/",
+      "final_url": "https://www.dominicandunlaoghaire.ie/parents/home-school/logo_hscl1/",
+      "status": "http_500",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.dominicandunlaoghaire.ie/parents/",
+      "final_url": "https://www.dominicandunlaoghaire.ie/parents/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents"
+    },
+    {
+      "url": "https://www.dominicandunlaoghaire.ie/parents/upcoming-events/",
+      "final_url": "https://www.dominicandunlaoghaire.ie/parents/upcoming-events/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Upcoming Events"
+    },
+    {
+      "url": "https://www.dominicandunlaoghaire.ie/parents/home-school/",
+      "final_url": "https://www.dominicandunlaoghaire.ie/parents/home-school/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Home School"
+    },
+    {
+      "url": "https://www.dominicandunlaoghaire.ie/parents-association/%20",
+      "final_url": "https://www.dominicandunlaoghaire.ie/parents-association/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents Association"
+    },
+    {
+      "url": "https://www.dominicandunlaoghaire.ie/parents-association/",
+      "final_url": "https://www.dominicandunlaoghaire.ie/parents-association/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents Association"
+    },
+    {
+      "url": "https://www.dominicandunlaoghaire.ie/parental-involvement/",
+      "final_url": "https://www.dominicandunlaoghaire.ie/parental-involvement/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Calendar"
+    },
+    {
+      "url": "https://www.dominicandunlaoghaire.ie/our-school/policies/",
+      "final_url": "https://www.dominicandunlaoghaire.ie/our-school/policies/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.dominicandunlaoghaire.ie/",
+      "final_url": "https://www.dominicandunlaoghaire.ie/",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.dominicandunlaoghaire.ie/wp-content/uploads/2024/05/Protected-Disclosure-Policy.pdf",
+      "final_url": "https://www.dominicandunlaoghaire.ie/wp-content/uploads/2024/05/Protected-Disclosure-Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Protected-Disclosure-Policy"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "05600C",
+      "url": "https://www.dominicandunlaoghaire.ie/our-school/attendance/",
+      "label": "Prior school admissions section",
+      "sha256": "290e54d32c7e11c11e344fb754eb78a2817611a35c0bae46e0290f2df08b237e",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/05600C_290e54d32c7e11c11e34.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 949
+    },
+    {
+      "roll": "05600C",
+      "url": "https://www.dominicandunlaoghaire.ie/parents/upcoming-events-2/",
+      "label": "Upcoming Events",
+      "sha256": "46ca57016ffb55e7bd7598bdca078ad48d112892d80a43238dab5b83daeee0e7",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/05600C_46ca57016ffb55e7bd75.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1117
+    },
+    {
+      "roll": "05600C",
+      "url": "https://www.dominicandunlaoghaire.ie/parents/about-us/",
+      "label": "About Us",
+      "sha256": "c893f1a723117431881ef0832fd14a08795f503e7ddd1e157b4b6766c7f007d9",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/05600C_c893f1a723117431881e.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1370
+    },
+    {
+      "roll": "05600C",
+      "url": "https://www.dominicandunlaoghaire.ie/parents/about-hscl/",
+      "label": "About HSCL",
+      "sha256": "a3132109d41d594c9a8ce85111ae129f50995f66f6441475533544aad5a57d7b",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/05600C_a3132109d41d594c9a8c.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1939
+    },
+    {
+      "roll": "05600C",
+      "url": "https://www.dominicandunlaoghaire.ie/parents/",
+      "label": "Parents",
+      "sha256": "3512ae008793a76680798045dacbf38375eb791afc1e761e1dc03c96e30ead05",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/05600C_3512ae008793a7668079.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1054
+    },
+    {
+      "roll": "05600C",
+      "url": "https://www.dominicandunlaoghaire.ie/parents/upcoming-events/",
+      "label": "Upcoming Events",
+      "sha256": "2ddd55ceb1a3d9639f2cba3fcab132cda15e6894b85fc34524776f1e5c60e86e",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/05600C_2ddd55ceb1a3d9639f2c.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1092
+    },
+    {
+      "roll": "05600C",
+      "url": "https://www.dominicandunlaoghaire.ie/parents/home-school/",
+      "label": "Home School",
+      "sha256": "ddac3c9de45ddc54305afbb488e913270de3941896e79ea35613b6ef2f7bc396",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/05600C_ddac3c9de45ddc54305a.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1944
+    },
+    {
+      "roll": "05600C",
+      "url": "https://www.dominicandunlaoghaire.ie/parents-association/",
+      "label": "Parents Association",
+      "sha256": "527d541052d852322d7f3c7e53064f1039915558e3f17507d9f673d4e8213ee1",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/05600C_527d541052d852322d7f.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1359
+    },
+    {
+      "roll": "05600C",
+      "url": "https://www.dominicandunlaoghaire.ie/parental-involvement/",
+      "label": "School Calendar",
+      "sha256": "bb1607b7c4dce1caad87638cf80ef08d959d434fbb09258d71e399d35717c7f2",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/05600C_bb1607b7c4dce1caad87.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1851
+    },
+    {
+      "roll": "05600C",
+      "url": "https://www.dominicandunlaoghaire.ie/our-school/policies/",
+      "label": "Policies",
+      "sha256": "b0ca7b18a8b7cdee4761dc9e8cf0b653ccb23e2354b06dfd2743a1eb6883b4af",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/05600C_b0ca7b18a8b7cdee4761.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1063
+    },
+    {
+      "roll": "05600C",
+      "url": "https://www.dominicandunlaoghaire.ie/",
+      "label": "School homepage",
+      "sha256": "a4a541fbcb6b03ec0a480242cfd287a9fb92e8d23d00a65bee8d8216b4e59fea",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/05600C_a4a541fbcb6b03ec0a48.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1915
+    }
+  ],
+  "pending_links": [],
+  "elapsed_seconds": 109.71,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:49:34+0000"
+}

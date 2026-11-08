@@ -1,0 +1,27 @@
+{
+  "roll": "20043G",
+  "capture": {
+    "timestamp": "20220925234733",
+    "original": "http://gaelscoilchnocliamhna.ie/wp-content/uploads/2022/09/Fogra-Iontrala-Bliantuil-Annual-Admission-Notice-23-24.pdf",
+    "mimetype": "application/pdf",
+    "statuscode": "200",
+    "digest": "P3C4XCYEFNURF7W2RGXLELVCWQ36PSD7"
+  },
+  "original_url": "http://gaelscoilchnocliamhna.ie/wp-content/uploads/2022/09/Fogra-Iontrala-Bliantuil-Annual-Admission-Notice-23-24.pdf",
+  "archived_url": "https://web.archive.org/web/20220925234733/http://gaelscoilchnocliamhna.ie/wp-content/uploads/2022/09/Fogra-Iontrala-Bliantuil-Annual-Admission-Notice-23-24.pdf",
+  "attempted_at": "2026-11-08T12:55:39.154869+00:00",
+  "linked_from_capture": null,
+  "http_status": 200,
+  "headers": {
+    "Content-Type": "application/pdf",
+    "memento-datetime": "Sun, 25 Sep 2022 23:47:33 GMT"
+  },
+  "bytes": 193096,
+  "payload_sha256": "3a1a5a85639c81981170b37592db89673a98e2c8034214b2adb037de8b2aa99b",
+  "format": "pdf",
+  "source_file": "database/milestone2/cache/3a1a5a85639c81981170b37592db89673a98e2c8034214b2adb037de8b2aa99b.pdf",
+  "parse_stderr": "",
+  "status": "archived_body_retrieved_requires_manual_evidence_review",
+  "text_file": "database/milestone2/evidence/exact_20043G_3a1a5a85639c81981170.txt",
+  "linked_document_candidates": []
+}

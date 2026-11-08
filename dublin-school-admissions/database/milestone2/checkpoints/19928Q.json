@@ -1,0 +1,200 @@
+{
+  "roll": "19928Q",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://rmds.ie/admissions/",
+      "final_url": "https://rmds.ie/admissions/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://rmds.ie/wp-content/uploads/2025/04/Admission-Policy-Notice-September-2025.pdf",
+      "final_url": "https://rmds.ie/wp-content/uploads/2025/04/Admission-Policy-Notice-September-2025.pdf",
+      "status": "http_404",
+      "via": "school_public_link",
+      "label": "Admissions Policy"
+    },
+    {
+      "url": "https://rmds.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://rmds.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://rmds.ie/wp-content/uploads/2025/10/2.13-RMDS-Admissions-Policy-2.pdf",
+      "final_url": "https://rmds.ie/wp-content/uploads/2025/10/2.13-RMDS-Admissions-Policy-2.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "2.13 RMDS Admissions Policy (2)"
+    },
+    {
+      "url": "https://rmds.ie/wp-content/uploads/2025/10/2.13-RMDS-Admissions-Policy-2-1.pdf",
+      "final_url": "https://rmds.ie/wp-content/uploads/2025/10/2.13-RMDS-Admissions-Policy-2-1.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "2.13 RMDS Admissions Policy (2)"
+    },
+    {
+      "url": "https://rmds.ie/wp-content/uploads/2026/10/1.01-RMDS-Admissions-Policy.pdf",
+      "final_url": "https://rmds.ie/wp-content/uploads/2026/10/1.01-RMDS-Admissions-Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "here"
+    },
+    {
+      "url": "https://rmds.ie/policies/childcare-faq/",
+      "final_url": "https://rmds.ie/policies/childcare-faq/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Childcare FAQ 2026/2027"
+    },
+    {
+      "url": "https://rmds.ie/the-parents-association/",
+      "final_url": "https://rmds.ie/the-parents-association/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "The Parents’ Association"
+    },
+    {
+      "url": "https://rmds.ie/sitemap_index.xml",
+      "final_url": "https://rmds.ie/sitemap_index.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://rmds.ie/staff-sitemap.xml",
+      "final_url": "https://rmds.ie/staff-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://rmds.ie/post-sitemap.xml",
+      "final_url": "https://rmds.ie/post-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://rmds.ie/policies/",
+      "final_url": "https://rmds.ie/policies/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Afterschool & Childcare – Policies"
+    },
+    {
+      "url": "https://rmds.ie/page-sitemap.xml",
+      "final_url": "https://rmds.ie/page-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://rmds.ie/our-policies/",
+      "final_url": "https://rmds.ie/our-policies/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Our Policies"
+    },
+    {
+      "url": "https://rmds.ie/",
+      "final_url": "https://rmds.ie/",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19928Q",
+      "url": "https://rmds.ie/wp-content/uploads/2025/10/2.13-RMDS-Admissions-Policy-2.pdf",
+      "label": "2.13 RMDS Admissions Policy (2)",
+      "sha256": "3918c5779d6cce3f5246e1775f75d5fb40db1501c2e332b593243ce6bfdc2354",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19928Q_3918c5779d6cce3f5246.txt",
+      "source_file": "database/milestone2/cache/3918c5779d6cce3f5246e1775f75d5fb40db1501c2e332b593243ce6bfdc2354.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 28812
+    },
+    {
+      "roll": "19928Q",
+      "url": "https://rmds.ie/wp-content/uploads/2026/10/1.01-RMDS-Admissions-Policy.pdf",
+      "label": "here",
+      "sha256": "a827f90020f1ed78bb48ebbee5e81bfde10ecd1c1dcf7aa757aae1255027be57",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19928Q_a827f90020f1ed78bb48.txt",
+      "source_file": "database/milestone2/cache/a827f90020f1ed78bb48ebbee5e81bfde10ecd1c1dcf7aa757aae1255027be57.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 29169
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://rmds.ie/admissions-info/",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://rmds.ie/wp-content/uploads/2025/11/2.19-RMDS-Bi-Cinealta-Policy-Anti-Bullying-Policy-2025.pdf",
+      "label": "Bí Cineálta -RMDS- Anti-Bullying Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://rmds.ie/wp-content/uploads/2025/04/RMDS-School-Age-Childcare-Complaints-Policy.pdf",
+      "label": "RMDS School Age Childcare Complaints Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://rmds.ie/wp-content/uploads/2025/04/RMDS-Childcare-Policy-on-Managing-Behaviour.pdf",
+      "label": "RMDS Childcare Policy on Managing Behaviour",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://rmds.ie/wp-content/uploads/2025/04/RMDS-Childcare-Company-Policy-on-Infection-Control.pdf",
+      "label": "RMDS Childcare Company Policy on Infection Control",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://rmds.ie/wp-content/uploads/2025/04/Fire-Safety-Policy-RMDS-School-Age-Childcare-Company-Ltd-.pdf",
+      "label": "Fire Safety Policy RMDS School Age Childcare Company Ltd",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://rmds.ie/wp-content/uploads/2025/04/Childcare-Statement-Purpose-and-Function-Policy-2025-2.pdf",
+      "label": "Childcare Statement & Purpose and Function Policy 2025",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://rmds.ie/wp-content/uploads/2025/02/RMDS-Substance-Use-Policy.pdf",
+      "label": "Substance Use Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://rmds.ie/wp-content/uploads/2025/02/RMDS-Protected-Disclosures-Policy.docx.pdf",
+      "label": "Protected Disclosure Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://rmds.ie/wp-content/uploads/2026/11/Disciplinary-and-Grievance-Procedures-Policy-2026.pdf",
+      "label": "Disciplinary and Grievance Procedures Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://rmds.ie/wp-content/uploads/2026/06/3.04-RMDS-Mobile-Phones-Smart-Devices-Policy.pdf",
+      "label": "Mobile Phone Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://rmds.ie/privacy-policy/",
+      "label": "Privacy Policy Terms & Conditions Support",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 158.98,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:11:46+0000"
+}

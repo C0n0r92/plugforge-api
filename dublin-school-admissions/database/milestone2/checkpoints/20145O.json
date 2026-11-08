@@ -1,0 +1,477 @@
+{
+  "roll": "20145O",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.swordseducatetogether.ie/enrolment/?googletranslate=true",
+      "final_url": "https://www.swordseducatetogether.ie/enrolment/?googletranslate=true",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "https://www.swordseducatetogether.ie/documentlink/65/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/1012/docletter/20261008072050_48_Admissions_Notice_2027-2028.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Admissions Notice 2027-2028"
+    },
+    {
+      "url": "https://www.swordseducatetogether.ie/enrolment/",
+      "final_url": "https://www.swordseducatetogether.ie/enrolment/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Enrolment Rollú"
+    },
+    {
+      "url": "https://www.swordseducatetogether.ie/admin/?open=/enrolment/?googletranslate=true",
+      "final_url": "https://www.swordseducatetogether.ie/admin/?open=/enrolment/?googletranslate=true",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.swordseducatetogether.ie/admin/?open=/enrolment/",
+      "final_url": "https://www.swordseducatetogether.ie/admin/?open=/enrolment/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.swordseducatetogether.ie/sitemap.xml",
+      "final_url": "https://www.swordseducatetogether.ie/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.swordseducatetogether.ie/parents/school-day/",
+      "final_url": "https://www.swordseducatetogether.ie/parents/school-day/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Day"
+    },
+    {
+      "url": "https://www.swordseducatetogether.ie/parents/school-day/?googletranslate=true",
+      "final_url": "https://www.swordseducatetogether.ie/parents/school-day/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.swordseducatetogether.ie/parents/pta/",
+      "final_url": "https://www.swordseducatetogether.ie/parents/pta/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "PTA"
+    },
+    {
+      "url": "https://www.swordseducatetogether.ie/parents/pta/?googletranslate=true",
+      "final_url": "https://www.swordseducatetogether.ie/parents/pta/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.swordseducatetogether.ie/parents/helping-my-child-with-their-learning/",
+      "final_url": "https://www.swordseducatetogether.ie/parents/helping-my-child-with-their-learning/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Helping my child with their learning"
+    },
+    {
+      "url": "https://www.swordseducatetogether.ie/parents/helping-my-child-with-their-learning/?googletranslate=true",
+      "final_url": "https://www.swordseducatetogether.ie/parents/helping-my-child-with-their-learning/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.swordseducatetogether.ie/parents/calendar/",
+      "final_url": "https://www.swordseducatetogether.ie/parents/calendar/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Calendar"
+    },
+    {
+      "url": "https://www.swordseducatetogether.ie/parents/calendar/?googletranslate=true",
+      "final_url": "https://www.swordseducatetogether.ie/parents/calendar/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.swordseducatetogether.ie/parents/",
+      "final_url": "https://www.swordseducatetogether.ie/parents/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents Tuismitheoirí"
+    },
+    {
+      "url": "https://www.swordseducatetogether.ie/parents/?googletranslate=true",
+      "final_url": "https://www.swordseducatetogether.ie/parents/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.swordseducatetogether.ie/our-school/policies/",
+      "final_url": "https://www.swordseducatetogether.ie/our-school/policies/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.swordseducatetogether.ie/our-school/policies/?googletranslate=true",
+      "final_url": "https://www.swordseducatetogether.ie/our-school/policies/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.swordseducatetogether.ie/documentlink/65/?open=true&download=true",
+      "final_url": "https://swdcache.b-cdn.net/1012/docletter/20261008072050_48_Admissions_Notice_2027-2028.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.swordseducatetogether.ie/documentlink/64/?open=true&download=true",
+      "final_url": "https://www.swordseducatetogether.ie/cmsfiles/items/downloads/9422-AdmissionsPolicy1stOct26.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.swordseducatetogether.ie/documentlink/64/?open=true",
+      "final_url": "https://www.swordseducatetogether.ie/cmsfiles/items/downloads/9422-AdmissionsPolicy1stOct26.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions Policy"
+    },
+    {
+      "url": "https://www.swordseducatetogether.ie/documentlink/63/?open=true&download=true",
+      "final_url": "https://swdcache.b-cdn.net/1012/docletter/20260918103444_97_Calendar_for_website_as_of_18th_Sept.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.swordseducatetogether.ie/documentlink/61/?open=true&download=true",
+      "final_url": "https://swdcache.b-cdn.net/1012/docletter/20260613125117_80_Extra_Curricular_Sports_Policy_Final.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.swordseducatetogether.ie/documentlink/60/?open=true&download=true",
+      "final_url": "https://swdcache.b-cdn.net/1012/docletter/20260613125039_37_Traffic_management_and_Parking_Guidelines.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": ""
+    }
+  ],
+  "documents": [
+    {
+      "roll": "20145O",
+      "url": "https://www.swordseducatetogether.ie/cmsfiles/items/downloads/9422-AdmissionsPolicy1stOct26.pdf",
+      "label": "",
+      "sha256": "0793a268fca7c8e11aa1299d468ec764f777226976eefebd792c2254675959f0",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20145O_0793a268fca7c8e11aa1.txt",
+      "source_file": "database/milestone2/cache/0793a268fca7c8e11aa1299d468ec764f777226976eefebd792c2254675959f0.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 26321
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.swordseducatetogether.ie/documentlink/59/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.swordseducatetogether.ie/documentlink/52/?open=true",
+      "label": "Enrolment Application Form",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.swordseducatetogether.ie/documentlink/49/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.swordseducatetogether.ie/documentlink/48/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.swordseducatetogether.ie/documentlink/47/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.swordseducatetogether.ie/documentlink/45/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.swordseducatetogether.ie/documentlink/44/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.swordseducatetogether.ie/documentlink/43/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.swordseducatetogether.ie/documentlink/41/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.swordseducatetogether.ie/documentlink/38/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.swordseducatetogether.ie/documentlink/37/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.swordseducatetogether.ie/documentlink/36/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.swordseducatetogether.ie/documentlink/35/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.swordseducatetogether.ie/documentlink/34/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.swordseducatetogether.ie/documentlink/33/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.swordseducatetogether.ie/documentlink/32/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.swordseducatetogether.ie/documentlink/31/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.swordseducatetogether.ie/documentlink/31/?open=true",
+      "label": "Admissions Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.swordseducatetogether.ie/documentlink/30/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.swordseducatetogether.ie/documentlink/29/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.swordseducatetogether.ie/documentlink/28/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.swordseducatetogether.ie/documentlink/27/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.swordseducatetogether.ie/documentlink/26/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.swordseducatetogether.ie/documentlink/25/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.swordseducatetogether.ie/admin/?open=/parents/school-day/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.swordseducatetogether.ie/admin/?open=/parents/school-day/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.swordseducatetogether.ie/admin/?open=/parents/pta/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.swordseducatetogether.ie/admin/?open=/parents/pta/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.swordseducatetogether.ie/admin/?open=/parents/helping-my-child-with-their-learning/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.swordseducatetogether.ie/admin/?open=/parents/helping-my-child-with-their-learning/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.swordseducatetogether.ie/admin/?open=/parents/calendar/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.swordseducatetogether.ie/admin/?open=/parents/calendar/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.swordseducatetogether.ie/admin/?open=/parents/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.swordseducatetogether.ie/admin/?open=/parents/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.swordseducatetogether.ie/admin/?open=/our-school/policies/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.swordseducatetogether.ie/admin/?open=/our-school/policies/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.swordseducatetogether.ie",
+      "label": "School homepage",
+      "via": "home"
+    },
+    {
+      "url": "https://www.swordseducatetogether.ie/documentlink/61/?open=true",
+      "label": "Extra Curricular Sports Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.swordseducatetogether.ie/documentlink/59/?open=true",
+      "label": "Critical Incident Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.swordseducatetogether.ie/documentlink/49/?open=true",
+      "label": "Policy on Parental Involvement",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.swordseducatetogether.ie/documentlink/48/?open=true",
+      "label": "RSE Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.swordseducatetogether.ie/documentlink/47/?open=true",
+      "label": "Safety Health and Welfare Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.swordseducatetogether.ie/documentlink/45/?open=true",
+      "label": "School Tour Excursions Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.swordseducatetogether.ie/documentlink/41/?open=true",
+      "label": "Homework Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.swordseducatetogether.ie/documentlink/38/?open=true",
+      "label": "E-Vetting-Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.swordseducatetogether.ie/documentlink/37/?open=true",
+      "label": "Healthy Eating Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.swordseducatetogether.ie/documentlink/36/?open=true",
+      "label": "ICT Acceptable Usage Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.swordseducatetogether.ie/documentlink/35/?open=true",
+      "label": "Learn Together Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.swordseducatetogether.ie/documentlink/34/?open=true",
+      "label": "Mobile Phone Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.swordseducatetogether.ie/documentlink/33/?open=true",
+      "label": "Administration of Medicines Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.swordseducatetogether.ie/documentlink/32/?open=true",
+      "label": "AEN Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.swordseducatetogether.ie/documentlink/30/?open=true",
+      "label": "After School Clubs Policy for Parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.swordseducatetogether.ie/documentlink/29/?open=true",
+      "label": "Bí Cineálta Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.swordseducatetogether.ie/documentlink/28/?open=true",
+      "label": "Assessment Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.swordseducatetogether.ie/documentlink/25/?open=true",
+      "label": "Communication Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.swordseducatetogether.ie/cmsfiles/policies/privacy/",
+      "label": "Website Privacy Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.swordseducatetogether.ie/cmsfiles/policies/cookie/",
+      "label": "Cookie Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 73.31,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:11:15+0000"
+}

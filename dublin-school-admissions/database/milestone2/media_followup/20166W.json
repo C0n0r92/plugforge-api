@@ -1,0 +1,35 @@
+{
+  "roll": "20166W",
+  "attempted_at": "2026-11-08T12:57:11+0000",
+  "method": "documented_public_WordPress_media_notice_and_Irish_title_gap_search",
+  "attempts": [
+    {
+      "url": "https://gvet.ie/wp-json/wp/v2/media?search=notice&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok"
+    },
+    {
+      "url": "https://gvet.ie/wp-json/wp/v2/media?search=f%C3%B3gra&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok"
+    },
+    {
+      "url": "https://gvet.ie/wp-content/uploads/2023/06/Annual-Admissions-Notice-GVETNS-2023-2024-1-1.pdf",
+      "status": "http_404",
+      "label": "Annual Admissions Notice GVETNS 2023 2024 (1) (1)"
+    },
+    {
+      "url": "https://gvet.ie/wp-content/uploads/2023/06/Annual-Admissions-Notice-GVETNS-2023-2024-1-2.pdf",
+      "status": "http_404",
+      "label": "Annual Admissions Notice GVETNS 2023 2024 (1) (2)"
+    },
+    {
+      "url": "https://gvet.ie/wp-content/uploads/2023/06/Annual-Admissions-Notice-GVETNS-2023-2024-1.pdf",
+      "status": "http_404",
+      "label": "Annual Admissions Notice GVETNS 2023 2024 (1)"
+    }
+  ],
+  "documents": [],
+  "pending_links": [],
+  "earliest_year_cutoff": null,
+  "status": "attempted_no_new_notice_payload",
+  "elapsed_seconds": 25.1
+}

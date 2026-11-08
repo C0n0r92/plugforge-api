@@ -1,0 +1,439 @@
+{
+  "roll": "16792C",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.stbrigidsgns.ie/index.php/parents/enrolment/annual-admissions-notice-26?limit=100",
+      "final_url": "https://www.stbrigidsgns.ie/index.php/parents/enrolment/annual-admissions-notice-26?limit=100",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "pdf"
+    },
+    {
+      "url": "https://www.stbrigidsgns.ie/index.php/parents/enrolment/annual-admissions-notice-26",
+      "final_url": "https://www.stbrigidsgns.ie/index.php/parents/enrolment/annual-admissions-notice-26",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Annual Admissions Notice 26"
+    },
+    {
+      "url": "https://stbrigidsgns.ie/index.php/parents/enrolment/annual-admissions-notice-26?limit=100",
+      "final_url": "https://stbrigidsgns.ie/index.php/parents/enrolment/annual-admissions-notice-26?limit=100",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "pdf"
+    },
+    {
+      "url": "https://stbrigidsgns.ie/index.php/parents/enrolment/annual-admissions-notice-26",
+      "final_url": "https://stbrigidsgns.ie/index.php/parents/enrolment/annual-admissions-notice-26",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Annual Admissions Notice 26"
+    },
+    {
+      "url": "https://www.stbrigidsnskillester.ie/enrolment-1",
+      "final_url": "https://www.stbrigidsnskillester.ie/enrolment-1",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Enrolment"
+    },
+    {
+      "url": "https://drive.google.com/file/d/1QFzYbRa-E7R7UFlsEHWOfy2KxU0Z18RT/view?usp=sharing",
+      "final_url": "https://drive.google.com/file/d/1QFzYbRa-E7R7UFlsEHWOfy2KxU0Z18RT/view?usp=sharing",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admission Notice 2026.2027"
+    },
+    {
+      "url": "https://www.stbrigidsnskillester.ie/enrolment",
+      "final_url": "https://www.stbrigidsnskillester.ie/enrolment",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Enrolment"
+    },
+    {
+      "url": "https://www.stbrigidsnskillester.ie/copy-of-policies",
+      "final_url": "https://www.stbrigidsnskillester.ie/copy-of-policies",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Enrolment"
+    },
+    {
+      "url": "https://www.stbrigidsgns.ie/index.php/parents/enrolment",
+      "final_url": "https://www.stbrigidsgns.ie/index.php/parents/enrolment",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Enrolment"
+    },
+    {
+      "url": "https://stbrigidsgns.ie/index.php/parents/enrolment",
+      "final_url": "https://stbrigidsgns.ie/index.php/parents/enrolment",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Enrolment"
+    },
+    {
+      "url": "https://www.stbrigidsnskillester.ie/sitemap.xml",
+      "final_url": "https://www.stbrigidsnskillester.ie/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.stbrigidsgns.ie/sitemap.xml",
+      "final_url": "https://www.stbrigidsgns.ie/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.stbrigidsgns.ie/index.php/parents/school-calendar-26-27",
+      "final_url": "https://www.stbrigidsgns.ie/index.php/parents/school-calendar-26-27",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Calendar 26 27"
+    },
+    {
+      "url": "https://www.stbrigidsgns.ie/index.php/parents/school-calendar-26-27?limit=100",
+      "final_url": "https://www.stbrigidsgns.ie/index.php/parents/school-calendar-26-27?limit=100",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "pdf"
+    },
+    {
+      "url": "https://www.stbrigidsgns.ie/index.php/parents/school-calendar-26-27/file",
+      "final_url": "https://www.stbrigidsgns.ie/index.php/parents/school-calendar-26-27/file",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download ( pdf, 126 KB )"
+    },
+    {
+      "url": "https://www.stbrigidsgns.ie/index.php/parents/parents-association",
+      "final_url": "https://www.stbrigidsgns.ie/index.php/parents/parents-association",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents Association"
+    },
+    {
+      "url": "https://www.stbrigidsgns.ie/index.php/parents/healthy-lunch-ideas",
+      "final_url": "https://www.stbrigidsgns.ie/index.php/parents/healthy-lunch-ideas",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Healthy Lunch Ideas"
+    },
+    {
+      "url": "https://www.stbrigidsgns.ie/index.php/parents/epayments",
+      "final_url": "https://www.stbrigidsgns.ie/index.php/parents/epayments",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Epayments"
+    },
+    {
+      "url": "https://www.stbrigidsgns.ie/index.php/parents/enrolment/application-form-special-class?limit=100",
+      "final_url": "https://www.stbrigidsgns.ie/index.php/parents/enrolment/application-form-special-class?limit=100",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "pdf"
+    },
+    {
+      "url": "https://www.stbrigidsgns.ie/index.php/parents/enrolment/application-form-special-class/file",
+      "final_url": "https://www.stbrigidsgns.ie/index.php/parents/enrolment/application-form-special-class/file",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Download ( pdf, 114 KB )"
+    },
+    {
+      "url": "https://www.stbrigidsgns.ie/index.php/parents/enrolment/application-form-special-class",
+      "final_url": "https://www.stbrigidsgns.ie/index.php/parents/enrolment/application-form-special-class",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Application Form Special Class"
+    },
+    {
+      "url": "https://www.stbrigidsgns.ie/index.php/parents/dental-hygiene",
+      "final_url": "https://www.stbrigidsgns.ie/index.php/parents/dental-hygiene",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parent Services"
+    },
+    {
+      "url": "https://www.stbrigidsgns.ie/index.php/parents/credit-union",
+      "final_url": "https://www.stbrigidsgns.ie/index.php/parents/credit-union",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Credit Union"
+    },
+    {
+      "url": "https://www.stbrigidsgns.ie/index.php/parents/after-school-care",
+      "final_url": "https://www.stbrigidsgns.ie/index.php/parents/after-school-care",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "After School Care"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "16792C",
+      "url": "https://www.stbrigidsgns.ie/index.php/parents/enrolment/annual-admissions-notice-26?limit=100",
+      "label": "pdf",
+      "sha256": "3c9bd4a766d492b7fa3d77995da1559898d086f52d96d43ef75e04fb649db1ae",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/16792C_3c9bd4a766d492b7fa3d.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1545
+    },
+    {
+      "roll": "16792C",
+      "url": "https://www.stbrigidsgns.ie/index.php/parents/enrolment/annual-admissions-notice-26",
+      "label": "Annual Admissions Notice 26",
+      "sha256": "898c1957028ca89806d88e5f771f948cedb103a2d08b1ca6c9b87f982ec742cc",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/16792C_898c1957028ca89806d8.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1545
+    },
+    {
+      "roll": "16792C",
+      "url": "https://stbrigidsgns.ie/index.php/parents/enrolment/annual-admissions-notice-26?limit=100",
+      "label": "pdf",
+      "sha256": "62266a270ba0b831341da92a86b7a0d562e009255f0bdeed4ddcf781b5e9399b",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/16792C_62266a270ba0b831341d.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1545
+    },
+    {
+      "roll": "16792C",
+      "url": "https://stbrigidsgns.ie/index.php/parents/enrolment/annual-admissions-notice-26",
+      "label": "Annual Admissions Notice 26",
+      "sha256": "232523b6741f0d4ef53a8efc7313707cdd29f7d073bc4e478cb6930397f463fe",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/16792C_232523b6741f0d4ef53a.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1545
+    },
+    {
+      "roll": "16792C",
+      "url": "https://www.stbrigidsnskillester.ie/enrolment-1",
+      "label": "Enrolment",
+      "sha256": "3b27fc6e276d72a65f5fa502e12da9f27a5ab0066178fea2b3802e4e1f42344a",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/16792C_3b27fc6e276d72a65f5f.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 559
+    },
+    {
+      "roll": "16792C",
+      "url": "https://www.stbrigidsnskillester.ie/enrolment",
+      "label": "Enrolment",
+      "sha256": "e9319585d84de98e2897d996392562044c954a45c84534976d16d5f39b6367dc",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/16792C_e9319585d84de98e2897.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 559
+    },
+    {
+      "roll": "16792C",
+      "url": "https://www.stbrigidsnskillester.ie/copy-of-policies",
+      "label": "Enrolment",
+      "sha256": "60353774b195570666054363546e37dbec01c62655ff7184fc9b503be8c672b7",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/16792C_60353774b19557066605.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 557
+    },
+    {
+      "roll": "16792C",
+      "url": "https://www.stbrigidsgns.ie/index.php/parents/enrolment",
+      "label": "Enrolment",
+      "sha256": "142cfb4478967e8c5e5ca4adda415be9537a89dcb1d07f2d85d1b9993aaf86e3",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/16792C_142cfb4478967e8c5e5c.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 2359
+    },
+    {
+      "roll": "16792C",
+      "url": "https://stbrigidsgns.ie/index.php/parents/enrolment",
+      "label": "Enrolment",
+      "sha256": "7d164026dccd2c3c477d93db7ed445411e970938146f66ddd84e7fc266a36c8e",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/16792C_7d164026dccd2c3c477d.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 2359
+    },
+    {
+      "roll": "16792C",
+      "url": "https://www.stbrigidsgns.ie/index.php/parents/school-calendar-26-27",
+      "label": "School Calendar 26 27",
+      "sha256": "6de506a161076a2a6fc348245b321d0285f1ff395cca09411a0808352ce87c41",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/16792C_6de506a161076a2a6fc3.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 223
+    },
+    {
+      "roll": "16792C",
+      "url": "https://www.stbrigidsgns.ie/index.php/parents/school-calendar-26-27?limit=100",
+      "label": "pdf",
+      "sha256": "e819377ea39508ee3d9bd36fb0fdb8c969379405b39ab440d9369d8938377bc5",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/16792C_e819377ea39508ee3d9b.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 223
+    },
+    {
+      "roll": "16792C",
+      "url": "https://www.stbrigidsgns.ie/index.php/parents/enrolment/application-form-special-class?limit=100",
+      "label": "pdf",
+      "sha256": "ede5bf81c5cc01e1daf9d351e679ea6938ddb5967f9da5f926e0aa2177744b53",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/16792C_ede5bf81c5cc01e1daf9.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 223
+    },
+    {
+      "roll": "16792C",
+      "url": "https://www.stbrigidsgns.ie/index.php/parents/enrolment/application-form-special-class",
+      "label": "Application Form Special Class",
+      "sha256": "b52f313664255a5b2f630ca7584bd2fb7d575731db165bd0ebad025865479e34",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/16792C_b52f313664255a5b2f63.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 223
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.stbrigidsgns.ie/index.php/parents/after-school-activities",
+      "label": "After School Activities",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stbrigidsgns.ie/index.php/about-us/policies",
+      "label": "Policies",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stbrigidsgns.ie/",
+      "label": "Parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stbrigidsgns.ie",
+      "label": "School homepage",
+      "via": "home"
+    },
+    {
+      "url": "https://stbrigidsgns.ie/sitemap.xml",
+      "label": "Public sitemap",
+      "via": "sitemap_root"
+    },
+    {
+      "url": "https://stbrigidsgns.ie/index.php/parents/school-calendar-26-27",
+      "label": "School Calendar 26 27",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stbrigidsgns.ie/index.php/parents/parents-association",
+      "label": "Parents Association",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stbrigidsgns.ie/index.php/parents/healthy-lunch-ideas",
+      "label": "Healthy Lunch Ideas",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stbrigidsgns.ie/index.php/parents/epayments",
+      "label": "Epayments",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stbrigidsgns.ie/index.php/parents/enrolment/application-form-special-class?limit=100",
+      "label": "pdf",
+      "via": "prior_public_admissions_landing"
+    },
+    {
+      "url": "https://stbrigidsgns.ie/index.php/parents/enrolment/application-form-special-class/file",
+      "label": "Download ( pdf, 114 KB )",
+      "via": "prior_public_admissions_landing"
+    },
+    {
+      "url": "https://stbrigidsgns.ie/index.php/parents/enrolment/application-form-special-class",
+      "label": "Application Form Special Class",
+      "via": "prior_public_admissions_landing"
+    },
+    {
+      "url": "https://stbrigidsgns.ie/index.php/parents/dental-hygiene",
+      "label": "Parent Services",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stbrigidsgns.ie/index.php/parents/credit-union",
+      "label": "Credit Union",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stbrigidsgns.ie/index.php/parents/after-school-care",
+      "label": "After School Care",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stbrigidsgns.ie/index.php/parents/after-school-activities",
+      "label": "After School Activities",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stbrigidsgns.ie/index.php/docman/115-common-admissions-enrolment-policy-26-27?limit=100",
+      "label": "pdf",
+      "via": "prior_public_admissions_landing"
+    },
+    {
+      "url": "https://stbrigidsgns.ie/index.php/docman/115-common-admissions-enrolment-policy-26-27/file",
+      "label": "Download ( pdf, 405 KB )",
+      "via": "prior_public_admissions_landing"
+    },
+    {
+      "url": "https://stbrigidsgns.ie/index.php/docman/115-common-admissions-enrolment-policy-26-27",
+      "label": "Our school’s Admission Policy",
+      "via": "prior_public_admissions_landing"
+    },
+    {
+      "url": "https://stbrigidsgns.ie/index.php/about-us/policies",
+      "label": "Policies",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stbrigidsgns.ie/",
+      "label": "Parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://drive.google.com/sitemap.xml",
+      "label": "Public sitemap",
+      "via": "sitemap_root"
+    },
+    {
+      "url": "https://drive.google.com/file/d/1PeKAAFuSko1ool3kGxx1GasIx3p9bIR9/view?usp=sharing",
+      "label": "Admission Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 78.62,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:45:06+0000"
+}

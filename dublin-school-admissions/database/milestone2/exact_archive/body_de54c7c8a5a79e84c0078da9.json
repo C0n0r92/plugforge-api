@@ -1,0 +1,25 @@
+{
+  "roll": "20043G",
+  "capture": {
+    "timestamp": "20250727030318",
+    "original": "http://gaelscoilchnocliamhna.ie/wp-content/uploads/2025/06/Fogra-Iontrala-Bliantiuil-26-27.pdf",
+    "linked_from_capture": "https://web.archive.org/web/20250719140253/http://gaelscoilchnocliamhna.ie/wp-content/uploads/2025/06/Fogra-Iontrala-Bliantiuil-26-27.pdf"
+  },
+  "original_url": "http://gaelscoilchnocliamhna.ie/wp-content/uploads/2025/06/Fogra-Iontrala-Bliantiuil-26-27.pdf",
+  "archived_url": "https://web.archive.org/web/20250727030318/http://gaelscoilchnocliamhna.ie/wp-content/uploads/2025/06/Fogra-Iontrala-Bliantiuil-26-27.pdf",
+  "attempted_at": "2026-11-08T12:57:17.239122+00:00",
+  "linked_from_capture": "https://web.archive.org/web/20250719140253/http://gaelscoilchnocliamhna.ie/wp-content/uploads/2025/06/Fogra-Iontrala-Bliantiuil-26-27.pdf",
+  "http_status": 200,
+  "headers": {
+    "Content-Type": "application/pdf",
+    "memento-datetime": "Sun, 27 Jul 2025 03:03:18 GMT"
+  },
+  "bytes": 187736,
+  "payload_sha256": "2c016e270ef692b269d17d6786bab9bd4375fa99b0609633a42e3d0471683f93",
+  "format": "pdf",
+  "source_file": "database/milestone2/cache/2c016e270ef692b269d17d6786bab9bd4375fa99b0609633a42e3d0471683f93.pdf",
+  "parse_stderr": "",
+  "status": "archived_body_retrieved_requires_manual_evidence_review",
+  "text_file": "database/milestone2/evidence/exact_20043G_2c016e270ef692b269d1.txt",
+  "linked_document_candidates": []
+}

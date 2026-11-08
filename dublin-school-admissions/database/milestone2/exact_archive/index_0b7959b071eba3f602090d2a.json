@@ -1,0 +1,135 @@
+{
+  "roll": "15569R",
+  "original_url": "https://www.scoilmoibhi.ie/admissions-and-application-information/",
+  "method": "documented_CDX_exact_URL_all_available_dates",
+  "attempted_at": "2026-11-08T12:41:56.829622+00:00",
+  "params": {
+    "url": "https://www.scoilmoibhi.ie/admissions-and-application-information/",
+    "matchType": "exact",
+    "output": "json",
+    "fl": "timestamp,original,mimetype,statuscode,digest",
+    "filter": "statuscode:200",
+    "collapse": "digest",
+    "limit": "200",
+    "showResumeKey": "true"
+  },
+  "earliest_year_cutoff": null,
+  "captures": [
+    {
+      "timestamp": "20210925145326",
+      "original": "https://www.scoilmoibhi.ie/admissions-and-application-information/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "2P6Z3OKKM25X5VEQEIIQGJ3QGJZOJWSF"
+    },
+    {
+      "timestamp": "20220129125843",
+      "original": "https://www.scoilmoibhi.ie/admissions-and-application-information/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "ZPCG5DWMWW3JLXQD6B7UAPYCJPXEPGG4"
+    },
+    {
+      "timestamp": "20220625072933",
+      "original": "https://www.scoilmoibhi.ie/admissions-and-application-information/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "NYWNN5T3QR36KOFXKY2QGB7J7LJN42A4"
+    },
+    {
+      "timestamp": "20221007152145",
+      "original": "https://www.scoilmoibhi.ie/admissions-and-application-information/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "YBJPXYGJ5UITLHBMO5V3RHVWRTNDPXCE"
+    },
+    {
+      "timestamp": "20230208132004",
+      "original": "https://www.scoilmoibhi.ie/admissions-and-application-information/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "75RD3WFBZNOX7MG253GN4YQYX7MRDAVV"
+    },
+    {
+      "timestamp": "20230929130403",
+      "original": "https://www.scoilmoibhi.ie/admissions-and-application-information/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "NH4Y7EMRQHDSVKY5GJSPM7BAV6TD2W5C"
+    },
+    {
+      "timestamp": "20240422152028",
+      "original": "https://www.scoilmoibhi.ie/admissions-and-application-information/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "JWYMVZ5N652I3XNUSA7WPQDESHMHN5OR"
+    },
+    {
+      "timestamp": "20240713183627",
+      "original": "https://www.scoilmoibhi.ie/admissions-and-application-information/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "4RKIU5CUBXTHZH5UXVT5POQHRP2PXRG2"
+    },
+    {
+      "timestamp": "20241111225533",
+      "original": "https://www.scoilmoibhi.ie/admissions-and-application-information/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "HVM54WODGQGAUC7KUO5CTYOVBZIY6FM3"
+    },
+    {
+      "timestamp": "20250421140423",
+      "original": "https://www.scoilmoibhi.ie/admissions-and-application-information/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "3PNPCE7GNVI7G3T5WFRN2JDOKW5C24WO"
+    },
+    {
+      "timestamp": "20250716170846",
+      "original": "https://www.scoilmoibhi.ie/admissions-and-application-information/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "W4BIC5FMYZXQ5MYQ6CAA2VIZRPIGAITA"
+    },
+    {
+      "timestamp": "20251212181514",
+      "original": "https://www.scoilmoibhi.ie/admissions-and-application-information/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "IWSMKZ3A2TRVZECDFGC2SZJREFZFUGMO"
+    },
+    {
+      "timestamp": "20260415154847",
+      "original": "https://www.scoilmoibhi.ie/admissions-and-application-information/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "N5IDCVP456DRT4V7WOU655M6CJRV53PL"
+    },
+    {
+      "timestamp": "20260714123808",
+      "original": "https://www.scoilmoibhi.ie/admissions-and-application-information/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "GLODNRLPZUJDDQGLHTYF6545LXMWVF2R"
+    }
+  ],
+  "pages": [
+    {
+      "at": "2026-11-08T12:42:01.162179+00:00",
+      "http_status": 200,
+      "params": {
+        "url": "https://www.scoilmoibhi.ie/admissions-and-application-information/",
+        "matchType": "exact",
+        "output": "json",
+        "fl": "timestamp,original,mimetype,statuscode,digest",
+        "filter": "statuscode:200",
+        "collapse": "digest",
+        "limit": "200",
+        "showResumeKey": "true"
+      }
+    }
+  ],
+  "status": "index_complete",
+  "capture_count": 14
+}

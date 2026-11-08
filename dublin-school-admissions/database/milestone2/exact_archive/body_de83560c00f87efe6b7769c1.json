@@ -1,0 +1,27 @@
+{
+  "roll": "20043G",
+  "capture": {
+    "timestamp": "20240530094721",
+    "original": "http://gaelscoilchnocliamhna.ie/wp-content/uploads/2023/09/Fogra-Iontrala-Bliantiuil-24-25-Annual-Admissions-Notice.pdf",
+    "mimetype": "application/pdf",
+    "statuscode": "200",
+    "digest": "YUNM2QIAND2OYF2JX7FPHWKN3X4PBSDL"
+  },
+  "original_url": "http://gaelscoilchnocliamhna.ie/wp-content/uploads/2023/09/Fogra-Iontrala-Bliantiuil-24-25-Annual-Admissions-Notice.pdf",
+  "archived_url": "https://web.archive.org/web/20240530094721/http://gaelscoilchnocliamhna.ie/wp-content/uploads/2023/09/Fogra-Iontrala-Bliantiuil-24-25-Annual-Admissions-Notice.pdf",
+  "attempted_at": "2026-11-08T12:55:49.380569+00:00",
+  "linked_from_capture": null,
+  "http_status": 200,
+  "headers": {
+    "Content-Type": "application/pdf",
+    "memento-datetime": "Thu, 30 May 2024 09:47:21 GMT"
+  },
+  "bytes": 263513,
+  "payload_sha256": "b8a297eb0f24445d35d18bdf0300f4eed814fc01f4093b1aca22b5f4abfa61a5",
+  "format": "pdf",
+  "source_file": "database/milestone2/cache/b8a297eb0f24445d35d18bdf0300f4eed814fc01f4093b1aca22b5f4abfa61a5.pdf",
+  "parse_stderr": "",
+  "status": "archived_body_retrieved_requires_manual_evidence_review",
+  "text_file": "database/milestone2/evidence/exact_20043G_b8a297eb0f24445d35d1.txt",
+  "linked_document_candidates": []
+}

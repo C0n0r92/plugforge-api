@@ -1,0 +1,367 @@
+{
+  "roll": "16759E",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.scoilmhuire.org/school-letters/",
+      "final_url": "https://www.scoilmhuire.org/school-letters/",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://www.scoilmhuire.org/letterlink/8/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/531/letter/8/20261008115837_14_7245-AnnualAdmissionsNotice2027-2028.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Annual Admissions Notice 2026-2027 (2nd Class)"
+    },
+    {
+      "url": "https://www.scoilmhuire.org/letterlink/11/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/531/letter/11/20251203030046_48_3021-AnnualAdmissionsNotice2026-2027JuniorInfants.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Annual Admissions Notice 2026-2027 (Junior Infants)"
+    },
+    {
+      "url": "https://www.scoilmhuire.org/letterlink/12/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/531/letter/12/20260708094348_90_7154-ScoilMhuireAdmissionsPolicy2025-2028.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Scoil Mhuire Admissions Policy 2025-2028"
+    },
+    {
+      "url": "https://www.scoilmhuire.org/sitemap.xml",
+      "final_url": "https://www.scoilmhuire.org/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.scoilmhuire.org/parents/useful-information/tips-on-how-to-engage-a-reluctant-reader------------/",
+      "final_url": "https://www.scoilmhuire.org/parents/useful-information/tips-on-how-to-engage-a-reluctant-reader------------/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Tips on how to engage a reluctant reader"
+    },
+    {
+      "url": "https://www.scoilmhuire.org/parents/useful-information/tips-on-how-to-engage-a-reluctant-reader------------/?googletranslate=true",
+      "final_url": "https://www.scoilmhuire.org/parents/useful-information/tips-on-how-to-engage-a-reluctant-reader------------/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.scoilmhuire.org/parents/useful-information/sten-scores-in-standardised-tests/",
+      "final_url": "https://www.scoilmhuire.org/parents/useful-information/sten-scores-in-standardised-tests/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "STen Scores in Standardised Tests"
+    },
+    {
+      "url": "https://www.scoilmhuire.org/parents/useful-information/sten-scores-in-standardised-tests/?googletranslate=true",
+      "final_url": "https://www.scoilmhuire.org/parents/useful-information/sten-scores-in-standardised-tests/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.scoilmhuire.org/parents/useful-information/helping-your-child-at-home-paired-reading-and-independent-reading/",
+      "final_url": "https://www.scoilmhuire.org/parents/useful-information/helping-your-child-at-home-paired-reading-and-independent-reading/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Helping Your Child At Home (Paired Reading & Independent Reading)"
+    },
+    {
+      "url": "https://www.scoilmhuire.org/parents/useful-information/helping-your-child-at-home-paired-reading-and-independent-reading/?googletranslate=true",
+      "final_url": "https://www.scoilmhuire.org/parents/useful-information/helping-your-child-at-home-paired-reading-and-independent-reading/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.scoilmhuire.org/parents/useful-information/",
+      "final_url": "https://www.scoilmhuire.org/parents/useful-information/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Useful Information"
+    },
+    {
+      "url": "https://www.scoilmhuire.org/parents/useful-information/?googletranslate=true",
+      "final_url": "https://www.scoilmhuire.org/parents/useful-information/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.scoilmhuire.org/parents/traffic-safety/",
+      "final_url": "https://www.scoilmhuire.org/parents/traffic-safety/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Traffic Safety"
+    },
+    {
+      "url": "https://www.scoilmhuire.org/parents/traffic-safety/?googletranslate=true",
+      "final_url": "https://www.scoilmhuire.org/parents/traffic-safety/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.scoilmhuire.org/parents/spellings-at-home/",
+      "final_url": "https://www.scoilmhuire.org/parents/spellings-at-home/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Exemptions from the Study of Irish"
+    },
+    {
+      "url": "https://www.scoilmhuire.org/parents/spellings-at-home/?googletranslate=true",
+      "final_url": "https://www.scoilmhuire.org/parents/spellings-at-home/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.scoilmhuire.org/parents/school-uniform/",
+      "final_url": "https://www.scoilmhuire.org/parents/school-uniform/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Uniform"
+    },
+    {
+      "url": "https://www.scoilmhuire.org/parents/school-uniform/?googletranslate=true",
+      "final_url": "https://www.scoilmhuire.org/parents/school-uniform/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.scoilmhuire.org/parents/school-closures/",
+      "final_url": "https://www.scoilmhuire.org/parents/school-closures/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Holidays"
+    },
+    {
+      "url": "https://www.scoilmhuire.org/parents/school-closures/?googletranslate=true",
+      "final_url": "https://www.scoilmhuire.org/parents/school-closures/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.scoilmhuire.org/parents/parents-council/",
+      "final_url": "https://www.scoilmhuire.org/parents/parents-council/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents' Association"
+    },
+    {
+      "url": "https://www.scoilmhuire.org/parents/parents-council/?googletranslate=true",
+      "final_url": "https://www.scoilmhuire.org/parents/parents-council/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.scoilmhuire.org/parents/pa-minutes/",
+      "final_url": "https://www.scoilmhuire.org/parents/pa-minutes/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "PA Activities"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "16759E",
+      "url": "https://www.scoilmhuire.org/school-letters/",
+      "label": "Prior school admissions section",
+      "sha256": "2fe5a6c52a9f28d653afbba56da90adcff549a780d28295cd6bf7e0488bd7ab7",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/16759E_2fe5a6c52a9f28d653af.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 391
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.scoilmhuire.org/parents/pa-minutes/?googletranslate=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmhuire.org/parents/calendar-659/",
+      "label": "Calendar",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmhuire.org/parents/booklist/",
+      "label": "Supports for Parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmhuire.org/parents/book-rental/",
+      "label": "Gaeilge sa Bhaile",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmhuire.org/parents/allergies/",
+      "label": "Stay Safe",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmhuire.org/parents/",
+      "label": "Parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmhuire.org/our-school/policies/",
+      "label": "Policies",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmhuire.org/letterlink/8/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmhuire.org/letterlink/6/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmhuire.org/letterlink/12/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmhuire.org/letterlink/11/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmhuire.org/documentlink/112/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmhuire.org/documentlink/111/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmhuire.org/admin/?open=/parents/useful-information/tips-on-how-to-engage-a-reluctant-reader------------/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmhuire.org/admin/?open=/parents/useful-information/tips-on-how-to-engage-a-reluctant-reader------------/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmhuire.org/admin/?open=/parents/useful-information/sten-scores-in-standardised-tests/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmhuire.org/admin/?open=/parents/useful-information/sten-scores-in-standardised-tests/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmhuire.org/admin/?open=/parents/useful-information/helping-your-child-at-home-paired-reading-and-independent-reading/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmhuire.org/admin/?open=/parents/useful-information/helping-your-child-at-home-paired-reading-and-independent-reading/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmhuire.org/admin/?open=/parents/useful-information/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmhuire.org/admin/?open=/parents/useful-information/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmhuire.org/admin/?open=/parents/traffic-safety/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmhuire.org/admin/?open=/parents/traffic-safety/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmhuire.org/admin/?open=/parents/spellings-at-home/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmhuire.org/admin/?open=/parents/spellings-at-home/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmhuire.org/admin/?open=/parents/school-uniform/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmhuire.org/admin/?open=/parents/school-uniform/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmhuire.org/admin/?open=/parents/school-closures/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmhuire.org/admin/?open=/parents/school-closures/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmhuire.org/admin/?open=/parents/parents-council/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmhuire.org/admin/?open=/parents/parents-council/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmhuire.org/admin/?open=/parents/pa-minutes/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmhuire.org",
+      "label": "School homepage",
+      "via": "home"
+    },
+    {
+      "url": "https://www.scoilmhuire.org/cmsfiles/policies/privacy/",
+      "label": "Website Privacy Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmhuire.org/cmsfiles/policies/cookie/",
+      "label": "Cookie Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 74.64,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:51:25+0000"
+}

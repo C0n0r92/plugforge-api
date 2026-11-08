@@ -1,0 +1,337 @@
+{
+  "roll": "17961E",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://lusksns.ie/admissions-notice-2025/",
+      "final_url": "https://lusksns.ie/admissions-notice-2025/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "https://lusksns.ie/admissions-policy-annual-notice-2023/",
+      "final_url": "https://lusksns.ie/admissions-policy-annual-notice-2023/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "https://lusksns.ie/admissions-policy-annual-notice-2024-25/",
+      "final_url": "https://lusksns.ie/admissions-policy-annual-notice-2024-25/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "https://lusksns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://lusksns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://lusksns.ie/wp-content/uploads/2022/04/Admissions-Policy-Sept-2020-1.pdf",
+      "final_url": "https://lusksns.ie/wp-content/uploads/2022/04/Admissions-Policy-Sept-2020-1.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions-Policy-Sept-2020-1"
+    },
+    {
+      "url": "https://lusksns.ie/policies/",
+      "final_url": "https://lusksns.ie/policies/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://lusksns.ie/wp-content/uploads/2023/03/Admin-Policy-2023.pdf",
+      "final_url": "https://lusksns.ie/wp-content/uploads/2023/03/Admin-Policy-2023.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions Policy"
+    },
+    {
+      "url": "https://lusksns.ie/wp-content/uploads/2022/04/Multicultural-Policy-2018.pdf",
+      "final_url": "https://lusksns.ie/wp-content/uploads/2022/04/Multicultural-Policy-2018.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "MultiCultural"
+    },
+    {
+      "url": "https://lusksns.ie/wp-content/uploads/2023/01/Attendance-Strategy-Policy-2020.pdf",
+      "final_url": "https://lusksns.ie/wp-content/uploads/2023/01/Attendance-Strategy-Policy-2020.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Attendance Policy"
+    },
+    {
+      "url": "https://lusksns.ie/wp-content/uploads/2022/04/Nut-Allergy-Policy-2020.pdf",
+      "final_url": "https://lusksns.ie/wp-content/uploads/2022/04/Nut-Allergy-Policy-2020.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Nut Allergy Policy"
+    },
+    {
+      "url": "https://lusksns.ie/wp-content/uploads/2022/04/Intimate-Care-Policy-202021.pdf",
+      "final_url": "https://lusksns.ie/wp-content/uploads/2022/04/Intimate-Care-Policy-202021.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Intimate Care Policy"
+    },
+    {
+      "url": "https://lusksns.ie/wp-content/uploads/2022/04/Continuous-Professional-Development-2020.pdf",
+      "final_url": "https://lusksns.ie/wp-content/uploads/2022/04/Continuous-Professional-Development-2020.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Continuous Professional Development Policy"
+    },
+    {
+      "url": "https://lusksns.ie/wp-content/uploads/2022/04/AUP-Policy-2020.pdf",
+      "final_url": "https://lusksns.ie/wp-content/uploads/2022/04/AUP-Policy-2020.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Acceptable Use Policy"
+    },
+    {
+      "url": "https://lusksns.ie/parent-information/",
+      "final_url": "https://lusksns.ie/parent-information/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parent Zone"
+    },
+    {
+      "url": "https://lusksns.ie/parent-association/",
+      "final_url": "https://lusksns.ie/parent-association/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://lusksns.ie/page-sitemap.xml",
+      "final_url": "https://lusksns.ie/page-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://lusksns.ie/category/parents/",
+      "final_url": "https://lusksns.ie/category/parents/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents"
+    },
+    {
+      "url": "https://lusksns.ie/category/parents/page/2/",
+      "final_url": "https://lusksns.ie/category/parents/page/2/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "2"
+    },
+    {
+      "url": "https://lusksns.ie/parents-annual-report/",
+      "final_url": "https://lusksns.ie/parents-annual-report/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://lusksns.ie/wp-content/uploads/2022/10/School-Annual-Report-Sept-21-June-22-for-Parents.pdf",
+      "final_url": "https://lusksns.ie/wp-content/uploads/2022/10/School-Annual-Report-Sept-21-June-22-for-Parents.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School-Annual-Report-Sept-21-June-22-for-Parents"
+    },
+    {
+      "url": "https://lusksns.ie/grandparents-day-2019/",
+      "final_url": "https://lusksns.ie/grandparents-day-2019/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://lusksns.ie/category/grandparents-day/",
+      "final_url": "https://lusksns.ie/category/grandparents-day/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Grandparents Day"
+    },
+    {
+      "url": "https://lusksns.ie/a-special-day-for-grandparents-and-our-confirmation-candidates/",
+      "final_url": "https://lusksns.ie/a-special-day-for-grandparents-and-our-confirmation-candidates/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "A Special Day for Grandparents and our Confirmation Candidates"
+    },
+    {
+      "url": "https://lusksns.ie/",
+      "final_url": "https://lusksns.ie/",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "17961E",
+      "url": "https://lusksns.ie/wp-content/uploads/2022/04/Admissions-Policy-Sept-2020-1.pdf",
+      "label": "Admissions-Policy-Sept-2020-1",
+      "sha256": "b0e8f50f1a47aef66b2dbb0ab474087c31f0849051399aa0b4e0e65755a60e9d",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/17961E_b0e8f50f1a47aef66b2d.txt",
+      "source_file": "database/milestone2/cache/b0e8f50f1a47aef66b2dbb0ab474087c31f0849051399aa0b4e0e65755a60e9d.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 21346
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://lusksns.ie/wp-content/uploads/2023/05/Healthy-Eating-Policy-2021.pdf",
+      "label": "Healthy Eating",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://lusksns.ie/wp-content/uploads/2023/01/Continuity-of-Learning-Plan-2021.pdf",
+      "label": "Continuity of Learning Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://lusksns.ie/wp-content/uploads/2022/04/Teacher-Induction-Policy-2021.pdf",
+      "label": "Teacher Induction",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://lusksns.ie/wp-content/uploads/2022/04/Substance-Use-policy-2021.pdf",
+      "label": "Substance Use Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://lusksns.ie/wp-content/uploads/2022/04/Homework-Policy-2021.pdf",
+      "label": "Homework",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://lusksns.ie/wp-content/uploads/2022/04/Emergency-Closures-Policy-2021.pdf",
+      "label": "Emergency Closures",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://lusksns.ie/wp-content/uploads/2022/04/EAL-Policy-2021.pdf",
+      "label": "EAL Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://lusksns.ie/wp-content/uploads/2022/04/Custody-and-Separation-Policy-2021.pdf",
+      "label": "Custody and Separation Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://lusksns.ie/wp-content/uploads/2022/04/Covid-19-Policy-Statement-2021.pdf",
+      "label": "Covid-19 Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://lusksns.ie/wp-content/uploads/2023/01/Working-Together-Policy-2022.pdf",
+      "label": "Working Together Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://lusksns.ie/wp-content/uploads/2023/01/Special-Educational-Needs-Policy-2022.pdf",
+      "label": "Special Education Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://lusksns.ie/wp-content/uploads/2023/01/Data-Protection-and-Record-Retention-Policy-Sept-2022.pdf",
+      "label": "Data Protection",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://lusksns.ie/wp-content/uploads/2023/01/Critical-Incident-Policy-2022.pdf",
+      "label": "Critical Incident",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://lusksns.ie/wp-content/uploads/2022/04/ToursExcursions-Sports-Events-Policy-Draft-2022-2.pdf",
+      "label": "School Tours",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://lusksns.ie/wp-content/uploads/2022/04/Gifted-and-Talented-Policy-2022.pdf",
+      "label": "Gifted and Talented",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://lusksns.ie/wp-content/uploads/2024/03/Health-and-Safety-Policy-SNS-202324.pdf",
+      "label": "Health & Safety",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://lusksns.ie/wp-content/uploads/2024/02/Student-Teacher-Work-Experience-Pol-2023.pdf",
+      "label": "Student Teacher / Work Experience Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://lusksns.ie/wp-content/uploads/2024/02/Behaviour-Policy-2023.pdf",
+      "label": "Behaviour Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://lusksns.ie/wp-content/uploads/2023/05/Parent-staff-communication-policy-2023.pdf",
+      "label": "Parent Staff Communication",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://lusksns.ie/wp-content/uploads/2023/05/Inclusion-Policy-2023.pdf",
+      "label": "Inclusion Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://lusksns.ie/wp-content/uploads/2023/05/Equal-Opportunity-Gender-Equity-Policy-2023.pdf",
+      "label": "Equal Opportunity and Gender Equality Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://lusksns.ie/wp-content/uploads/2023/05/Complaints-Procedure-Parental-policy-2023.pdf",
+      "label": "Complaints Procedure Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://lusksns.ie/wp-content/uploads/2025/09/Leave-of-Absence-Policy-2024.pdf",
+      "label": "Leave of Absence Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://lusksns.ie/wp-content/uploads/2025/09/Job-Sharing-Policy-2024.pdf",
+      "label": "Job Sharing Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://lusksns.ie/wp-content/uploads/2025/09/Handwriting-Policy-20242025.pdf",
+      "label": "Handwriting Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://lusksns.ie/wp-content/uploads/2025/06/Assessment-Policy-2024.pdf",
+      "label": "Assessment Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://lusksns.ie/wp-content/uploads/2025/06/Anti-Bullying-Policy-2024.pdf",
+      "label": "Anti-Bullying Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://lusksns.ie/wp-content/uploads/2025/10/Bi-Cinealta-policy-Sept-2025.pdf",
+      "label": "Bí Cinealta Policy 2025",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://lusksns.ie/wp-content/uploads/2025/09/Traffic-Management-Policy-2025.pdf",
+      "label": "Traffic management Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 109.41,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:41:27+0000"
+}

@@ -1,0 +1,480 @@
+{
+  "roll": "17683C",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.loretojuniorprimarycrumlin.ie/news-191/news/annual-admissions-notice-/",
+      "final_url": "https://www.loretojuniorprimarycrumlin.ie/news-191/news/annual-admissions-notice-/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Annual Admissions Notice 2027/2028"
+    },
+    {
+      "url": "https://www.loretojuniorprimarycrumlin.ie/news-191/news/annual-admissions-notice-/?googletranslate=true",
+      "final_url": "https://www.loretojuniorprimarycrumlin.ie/news-191/news/annual-admissions-notice-/?googletranslate=true",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "https://www.loretojuniorprimarycrumlin.ie/admin/?open=/news-191/news/annual-admissions-notice-/?googletranslate=true",
+      "final_url": "https://www.loretojuniorprimarycrumlin.ie/admin/?open=/news-191/news/annual-admissions-notice-/?googletranslate=true",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.loretojuniorprimarycrumlin.ie/admin/?open=/news-191/news/annual-admissions-notice-/",
+      "final_url": "https://www.loretojuniorprimarycrumlin.ie/admin/?open=/news-191/news/annual-admissions-notice-/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.loretojuniorprimarycrumlin.ie/sitemap.xml",
+      "final_url": "https://www.loretojuniorprimarycrumlin.ie/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.loretojuniorprimarycrumlin.ie/policies-and-documents-/",
+      "final_url": "https://www.loretojuniorprimarycrumlin.ie/policies-and-documents-/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Forms and Documents"
+    },
+    {
+      "url": "https://www.loretojuniorprimarycrumlin.ie/documentlink/39/?open=true",
+      "final_url": "https://view.officeapps.live.com/op/embed.aspx?src=https://swddoc.b-cdn.net/649/downloads/20250130054406_59_1-AnnualAdmissionsNotice2022.docx",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Admissions Notice 2022"
+    },
+    {
+      "url": "https://www.loretojuniorprimarycrumlin.ie/documentlink/49/?open=true",
+      "final_url": "https://view.officeapps.live.com/op/embed.aspx?src=https://swddoc.b-cdn.net/649/docletter/20221109010301_4_Annual_Admissions_Notice_2023.docx",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Annual Admissions Notice 2023"
+    },
+    {
+      "url": "https://www.loretojuniorprimarycrumlin.ie/documentlink/117/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/649/docletter/20260930014304_61_annual_admissions_notice_27-28.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Annual Admissions Notice 2027/28"
+    },
+    {
+      "url": "https://www.loretojuniorprimarycrumlin.ie/documentlink/83/?open=true",
+      "final_url": "https://view.officeapps.live.com/op/embed.aspx?src=https://swddoc.b-cdn.net/649/docletter/20241001121304_35_Annual_Admissions_Notice_2526.docx",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Annual Admissions Notice 2526.docx"
+    },
+    {
+      "url": "https://www.loretojuniorprimarycrumlin.ie/policies-and-documents-/?googletranslate=true",
+      "final_url": "https://www.loretojuniorprimarycrumlin.ie/policies-and-documents-/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.loretojuniorprimarycrumlin.ie/parentguardian-zone/sten-scores-in-standardised-testing/",
+      "final_url": "https://www.loretojuniorprimarycrumlin.ie/parentguardian-zone/sten-scores-in-standardised-testing/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "STen Scores in Standardised Testing"
+    },
+    {
+      "url": "https://www.loretojuniorprimarycrumlin.ie/parentguardian-zone/sten-scores-in-standardised-testing/?googletranslate=true",
+      "final_url": "https://www.loretojuniorprimarycrumlin.ie/parentguardian-zone/sten-scores-in-standardised-testing/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.loretojuniorprimarycrumlin.ie/parentguardian-zone/stay-safe-programme-guide-/",
+      "final_url": "https://www.loretojuniorprimarycrumlin.ie/parentguardian-zone/stay-safe-programme-guide-/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Stay Safe Programme Guide"
+    },
+    {
+      "url": "https://www.loretojuniorprimarycrumlin.ie/parentguardian-zone/stay-safe-programme-guide-/?googletranslate=true",
+      "final_url": "https://www.loretojuniorprimarycrumlin.ie/parentguardian-zone/stay-safe-programme-guide-/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.loretojuniorprimarycrumlin.ie/parentguardian-zone/rainbows/",
+      "final_url": "https://www.loretojuniorprimarycrumlin.ie/parentguardian-zone/rainbows/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Rainbows"
+    },
+    {
+      "url": "https://www.loretojuniorprimarycrumlin.ie/parentguardian-zone/rainbows/?googletranslate=true",
+      "final_url": "https://www.loretojuniorprimarycrumlin.ie/parentguardian-zone/rainbows/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.loretojuniorprimarycrumlin.ie/parentguardian-zone/parents-complaint-procedure/",
+      "final_url": "https://www.loretojuniorprimarycrumlin.ie/parentguardian-zone/parents-complaint-procedure/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents complaint procedure"
+    },
+    {
+      "url": "https://www.loretojuniorprimarycrumlin.ie/parentguardian-zone/parents-complaint-procedure/?googletranslate=true",
+      "final_url": "https://www.loretojuniorprimarycrumlin.ie/parentguardian-zone/parents-complaint-procedure/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.loretojuniorprimarycrumlin.ie/parentguardian-zone/",
+      "final_url": "https://www.loretojuniorprimarycrumlin.ie/parentguardian-zone/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parent/Guardian Zone"
+    },
+    {
+      "url": "https://www.loretojuniorprimarycrumlin.ie/parentguardian-zone/?googletranslate=true",
+      "final_url": "https://www.loretojuniorprimarycrumlin.ie/parentguardian-zone/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.loretojuniorprimarycrumlin.ie/our-school/policies/",
+      "final_url": "https://www.loretojuniorprimarycrumlin.ie/our-school/policies/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.loretojuniorprimarycrumlin.ie/documentlink/102/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/649/downloads/20251002054406_29_Admissionspolicy2025.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Admissions policy 2025"
+    },
+    {
+      "url": "https://www.loretojuniorprimarycrumlin.ie/our-school/policies/?googletranslate=true",
+      "final_url": "https://www.loretojuniorprimarycrumlin.ie/our-school/policies/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    }
+  ],
+  "documents": [
+    {
+      "roll": "17683C",
+      "url": "https://www.loretojuniorprimarycrumlin.ie/news-191/news/annual-admissions-notice-/",
+      "label": "Annual Admissions Notice 2027/2028",
+      "sha256": "04826907b61f82a0bc443bd7abee3ac835c5bd9b6b095a23cb7abdf6c23632eb",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/17683C_04826907b61f82a0bc44.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 964
+    },
+    {
+      "roll": "17683C",
+      "url": "https://www.loretojuniorprimarycrumlin.ie/news-191/news/annual-admissions-notice-/?googletranslate=true",
+      "label": "",
+      "sha256": "604f1654a42a2bcb1af79ca2eef6d465a0d817717a477b12fe7b930e1f62b625",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/17683C_604f1654a42a2bcb1af7.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 964
+    },
+    {
+      "roll": "17683C",
+      "url": "https://www.loretojuniorprimarycrumlin.ie/policies-and-documents-/",
+      "label": "Forms and Documents",
+      "sha256": "ab3bf3c50ee3b384026bcee1a911a70ce4c7b0981cf87ce88a0bfc9f31499a47",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/17683C_ab3bf3c50ee3b384026b.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 558
+    },
+    {
+      "roll": "17683C",
+      "url": "https://www.loretojuniorprimarycrumlin.ie/policies-and-documents-/?googletranslate=true",
+      "label": "",
+      "sha256": "dc235224614f37eb6858fc9e75452b1658f6f0e0becf149bec5d33d840a2cb4a",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/17683C_dc235224614f37eb6858.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 558
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.loretojuniorprimarycrumlin.ie/documentlink/87/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.loretojuniorprimarycrumlin.ie/documentlink/85/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.loretojuniorprimarycrumlin.ie/documentlink/84/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.loretojuniorprimarycrumlin.ie/documentlink/83/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.loretojuniorprimarycrumlin.ie/documentlink/75/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.loretojuniorprimarycrumlin.ie/documentlink/75/?open=true",
+      "label": "Parental Complaints Procedure final 1 .pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.loretojuniorprimarycrumlin.ie/documentlink/70/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.loretojuniorprimarycrumlin.ie/documentlink/70/?open=true",
+      "label": "Stay-Safe-Parents-Guide-Print.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.loretojuniorprimarycrumlin.ie/documentlink/69/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.loretojuniorprimarycrumlin.ie/documentlink/68/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.loretojuniorprimarycrumlin.ie/documentlink/65/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.loretojuniorprimarycrumlin.ie/documentlink/49/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.loretojuniorprimarycrumlin.ie/documentlink/44/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.loretojuniorprimarycrumlin.ie/documentlink/43/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.loretojuniorprimarycrumlin.ie/documentlink/39/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.loretojuniorprimarycrumlin.ie/documentlink/37/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.loretojuniorprimarycrumlin.ie/documentlink/32/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.loretojuniorprimarycrumlin.ie/documentlink/31/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.loretojuniorprimarycrumlin.ie/documentlink/117/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.loretojuniorprimarycrumlin.ie/documentlink/116/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.loretojuniorprimarycrumlin.ie/documentlink/115/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.loretojuniorprimarycrumlin.ie/documentlink/110/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.loretojuniorprimarycrumlin.ie/documentlink/107/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.loretojuniorprimarycrumlin.ie/documentlink/106/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.loretojuniorprimarycrumlin.ie/documentlink/105/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.loretojuniorprimarycrumlin.ie/documentlink/102/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.loretojuniorprimarycrumlin.ie/admin/?open=/policies-and-documents-/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.loretojuniorprimarycrumlin.ie/admin/?open=/policies-and-documents-/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.loretojuniorprimarycrumlin.ie/admin/?open=/parentguardian-zone/sten-scores-in-standardised-testing/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.loretojuniorprimarycrumlin.ie/admin/?open=/parentguardian-zone/sten-scores-in-standardised-testing/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.loretojuniorprimarycrumlin.ie/admin/?open=/parentguardian-zone/stay-safe-programme-guide-/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.loretojuniorprimarycrumlin.ie/admin/?open=/parentguardian-zone/stay-safe-programme-guide-/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.loretojuniorprimarycrumlin.ie/admin/?open=/parentguardian-zone/rainbows/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.loretojuniorprimarycrumlin.ie/admin/?open=/parentguardian-zone/rainbows/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.loretojuniorprimarycrumlin.ie/admin/?open=/parentguardian-zone/parents-complaint-procedure/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.loretojuniorprimarycrumlin.ie/admin/?open=/parentguardian-zone/parents-complaint-procedure/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.loretojuniorprimarycrumlin.ie/admin/?open=/parentguardian-zone/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.loretojuniorprimarycrumlin.ie/admin/?open=/parentguardian-zone/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.loretojuniorprimarycrumlin.ie/admin/?open=/our-school/policies/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.loretojuniorprimarycrumlin.ie/admin/?open=/our-school/policies/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.loretojuniorprimarycrumlin.ie/",
+      "label": "School homepage",
+      "via": "home"
+    },
+    {
+      "url": "https://www.loretojuniorprimarycrumlin.ie/documentlink/37/?open=true",
+      "label": "Anti bullying policy 2021",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.loretojuniorprimarycrumlin.ie/documentlink/110/?open=true",
+      "label": "B Cin alta Policy 2025.docx",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.loretojuniorprimarycrumlin.ie/student-zone/student-friendly-b-cinelta-policy/",
+      "label": "Student-Friendly Bí Cineálta Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.loretojuniorprimarycrumlin.ie/documentlink/85/?open=true",
+      "label": "AntiBullyingPolicyReviewNotification24-25.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.loretojuniorprimarycrumlin.ie/documentlink/31/?open=true",
+      "label": "Arrival and Dismissal Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.loretojuniorprimarycrumlin.ie/documentlink/115/?open=true",
+      "label": "Bi Cinealta Policy Review 26/27",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.loretojuniorprimarycrumlin.ie/documentlink/106/?open=true",
+      "label": "behviour of concern policy 2 august 24.docx",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.loretojuniorprimarycrumlin.ie/documentlink/105/?open=true",
+      "label": "Acceptable Use Policy Loreto JPS.docx",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.loretojuniorprimarycrumlin.ie/cmsfiles/policies/privacy/",
+      "label": "Website Privacy Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.loretojuniorprimarycrumlin.ie/cmsfiles/policies/cookie/",
+      "label": "Cookie Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 68.34,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:03:50+0000"
+}

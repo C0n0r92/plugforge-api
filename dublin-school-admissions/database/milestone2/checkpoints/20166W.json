@@ -1,0 +1,318 @@
+{
+  "roll": "20166W",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://gvet.ie/enrolment/",
+      "final_url": "https://gvet.ie/enrolment/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Enrolment"
+    },
+    {
+      "url": "https://gvet.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://gvet.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://gvet.ie/wp-content/uploads/2023/06/Annual-Admissions-Notice-GVETNS-2023-2024-1.pdf",
+      "final_url": "https://gvet.ie/wp-content/uploads/2023/06/Annual-Admissions-Notice-GVETNS-2023-2024-1.pdf",
+      "status": "http_404",
+      "via": "public_wordpress_media_link",
+      "label": "Annual Admissions Notice GVETNS 2023 2024 (1)"
+    },
+    {
+      "url": "https://gvet.ie/wp-content/uploads/2023/06/Annual-Admissions-Notice-GVETNS-2023-2024-1-2.pdf",
+      "final_url": "https://gvet.ie/wp-content/uploads/2023/06/Annual-Admissions-Notice-GVETNS-2023-2024-1-2.pdf",
+      "status": "http_404",
+      "via": "public_wordpress_media_link",
+      "label": "Annual Admissions Notice GVETNS 2023 2024 (1) (2)"
+    },
+    {
+      "url": "https://gvet.ie/wp-content/uploads/2023/06/Annual-Admissions-Notice-GVETNS-2023-2024-1-1.pdf",
+      "final_url": "https://gvet.ie/wp-content/uploads/2023/06/Annual-Admissions-Notice-GVETNS-2023-2024-1-1.pdf",
+      "status": "http_404",
+      "via": "public_wordpress_media_link",
+      "label": "Annual Admissions Notice GVETNS 2023 2024 (1) (1)"
+    },
+    {
+      "url": "https://gvet.ie/wp-content/uploads/2023/01/20200914-admissions-policy-griffeen-valley-etns-approved.pdf",
+      "final_url": "https://gvet.ie/wp-content/uploads/2023/01/20200914-admissions-policy-griffeen-valley-etns-approved.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Policy"
+    },
+    {
+      "url": "https://gvet.ie/?s=admission",
+      "final_url": "https://gvet.ie/?s=admission",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Public site search form"
+    },
+    {
+      "url": "https://gvet.ie/wp-content/uploads/2023/03/Griffeen-Valley-ETNS-Admission-Policy-final-reviewed-Jan-2023.pdf",
+      "final_url": "https://gvet.ie/wp-content/uploads/2023/03/Griffeen-Valley-ETNS-Admission-Policy-final-reviewed-Jan-2023.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Griffeen Valley ETNS Admission Policy final reviewed Jan 2023"
+    },
+    {
+      "url": "https://gvet.ie/wp-content/uploads/2024/04/Admission-Policy.pdf",
+      "final_url": "https://gvet.ie/wp-content/uploads/2024/04/Admission-Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions Policy"
+    },
+    {
+      "url": "https://gvet.ie/wp-content/uploads/2026/11/Admissions-Policy-2627-Griffeen-Valley-ETNS.pdf",
+      "final_url": "https://gvet.ie/wp-content/uploads/2026/11/Admissions-Policy-2627-Griffeen-Valley-ETNS.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Policy 2627 Griffeen Valley ETNS"
+    },
+    {
+      "url": "https://gvet.ie/wp-content/uploads/2026/11/Admissions-Policy-2627-Griffeen-Valley-ETNS.docx",
+      "final_url": "https://gvet.ie/wp-content/uploads/2026/11/Admissions-Policy-2627-Griffeen-Valley-ETNS.docx",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://gvet.ie/wp-content/uploads/2026/09/Admissions-Policy-2627-Griffeen-Valley-ETNS.docx",
+      "final_url": "https://gvet.ie/wp-content/uploads/2026/09/Admissions-Policy-2627-Griffeen-Valley-ETNS.docx",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://gvet.ie/wp-content/uploads/2026/04/2026-ASD-Class-2026-Pre-enrolment-form.docx",
+      "final_url": "https://gvet.ie/wp-content/uploads/2026/04/2026-ASD-Class-2026-Pre-enrolment-form.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download Application Form for Special Class For Children With Autism Here"
+    },
+    {
+      "url": "https://www.gvet.ie",
+      "final_url": "https://gvet.ie/",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://gvet.ie/wp-sitemap.xml",
+      "final_url": "https://gvet.ie/wp-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://gvet.ie/wp-sitemap-posts-post-1.xml",
+      "final_url": "https://gvet.ie/wp-sitemap-posts-post-1.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://gvet.ie/wp-sitemap-posts-page-1.xml",
+      "final_url": "https://gvet.ie/wp-sitemap-posts-page-1.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://gvet.ie/wp-sitemap-posts-e-landing-page-1.xml",
+      "final_url": "https://gvet.ie/wp-sitemap-posts-e-landing-page-1.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://gvet.ie/school-policies-and-documents/",
+      "final_url": "https://gvet.ie/school-policies-and-documents/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions Policy"
+    },
+    {
+      "url": "https://gvet.ie/parent-teacher-association/",
+      "final_url": "https://gvet.ie/parent-teacher-association/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parent Teacher Association"
+    },
+    {
+      "url": "https://gvet.ie/admissions-policy/",
+      "final_url": "https://gvet.ie/admissions-policy/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Child Safeguarding Statement"
+    },
+    {
+      "url": "https://gvet.ie/wp-content/uploads/2026/11/Child-Safeguarding-Statement-1.pdf",
+      "final_url": "https://gvet.ie/wp-content/uploads/2026/11/Child-Safeguarding-Statement-1.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://gvet.ie/admissions-policy-copy-6/",
+      "final_url": "https://gvet.ie/admissions-policy-copy-6/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Parental Complaints Procedure"
+    },
+    {
+      "url": "https://gvet.ie/wp-content/plugins/embedpress/assets/pdf/web/viewer.html?&file=https%3A%2F%2Fgvet.ie%2Fwp-content%2Fuploads%2F2024%2F01%2FParental-Complaints-Procedure-Nov23.pdf&scrolling=0&selection_tool=0&spreads=-1",
+      "final_url": "https://gvet.ie/wp-content/plugins/embedpress/assets/pdf/web/viewer.html?&file=https%3A%2F%2Fgvet.ie%2Fwp-content%2Fuploads%2F2024%2F01%2FParental-Complaints-Procedure-Nov23.pdf&scrolling=0&selection_tool=0&spreads=-1",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parental-Complaints-Procedure Nov23"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "20166W",
+      "url": "https://gvet.ie/enrolment/",
+      "label": "Enrolment",
+      "sha256": "11e44e3cd424d0d30fc32a19ead8616fd15184def773944c3f8a51b2f3632f95",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20166W_11e44e3cd424d0d30fc3.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 4018
+    },
+    {
+      "roll": "20166W",
+      "url": "https://gvet.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "label": "Oldest public admission media (all dates)",
+      "sha256": "24b41cd4f7ac4d193a277ebcf6a1e0fcb9d6409b49c39528d99a1d4c6904251c",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20166W_24b41cd4f7ac4d193a27.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 3395
+    },
+    {
+      "roll": "20166W",
+      "url": "https://gvet.ie/wp-content/uploads/2023/01/20200914-admissions-policy-griffeen-valley-etns-approved.pdf",
+      "label": "Admissions Policy",
+      "sha256": "3272eda7cc555f6cf91f0bf8ea5bc0ed4cf3efd9a498133e8ea498d3627af428",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20166W_3272eda7cc555f6cf91f.txt",
+      "source_file": "database/milestone2/cache/3272eda7cc555f6cf91f0bf8ea5bc0ed4cf3efd9a498133e8ea498d3627af428.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 21908
+    },
+    {
+      "roll": "20166W",
+      "url": "https://gvet.ie/wp-content/uploads/2023/03/Griffeen-Valley-ETNS-Admission-Policy-final-reviewed-Jan-2023.pdf",
+      "label": "Griffeen Valley ETNS Admission Policy final reviewed Jan 2023",
+      "sha256": "541b7ffd3975925ac4ef699a2f6e18a3e24549b3337480a7963fd78e62597be1",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20166W_541b7ffd3975925ac4ef.txt",
+      "source_file": "database/milestone2/cache/541b7ffd3975925ac4ef699a2f6e18a3e24549b3337480a7963fd78e62597be1.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 27935
+    },
+    {
+      "roll": "20166W",
+      "url": "https://gvet.ie/wp-content/uploads/2024/04/Admission-Policy.pdf",
+      "label": "Admissions Policy",
+      "sha256": "df509be68f93114d731fad289d0693ecd6b9763b1b3b658c3ae49fba782920c7",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20166W_df509be68f93114d731f.txt",
+      "source_file": "database/milestone2/cache/df509be68f93114d731fad289d0693ecd6b9763b1b3b658c3ae49fba782920c7.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 27874
+    },
+    {
+      "roll": "20166W",
+      "url": "https://gvet.ie/wp-content/uploads/2026/11/Admissions-Policy-2627-Griffeen-Valley-ETNS.pdf",
+      "label": "Admissions Policy 2627 Griffeen Valley ETNS",
+      "sha256": "ec31ad3c10f4bfa9d47626fd2219bb6d3682bd75c82110fc7f667d4f45bdfefa",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20166W_ec31ad3c10f4bfa9d476.txt",
+      "source_file": "database/milestone2/cache/ec31ad3c10f4bfa9d47626fd2219bb6d3682bd75c82110fc7f667d4f45bdfefa.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 28645
+    },
+    {
+      "roll": "20166W",
+      "url": "https://gvet.ie/wp-content/uploads/2026/11/Admissions-Policy-2627-Griffeen-Valley-ETNS.docx",
+      "label": "Prior school admissions section",
+      "sha256": "0ab97f8267dbfd043d279106c7db7d3a940f5aa59f4032f0056d29ed658736fb",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/20166W_0ab97f8267dbfd043d27.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 26112
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://gvet.ie/admissions-policy-copy-5/",
+      "label": "Admissions/policy URL from public sitemap",
+      "via": "prior_public_admissions_landing"
+    },
+    {
+      "url": "https://gvet.ie/admissions-policy-copy-4/",
+      "label": "Complaints Procedures and Guidelines",
+      "via": "prior_public_admissions_landing"
+    },
+    {
+      "url": "https://gvet.ie/admissions-policy-copy-3/",
+      "label": "SPHE Policy",
+      "via": "prior_public_admissions_landing"
+    },
+    {
+      "url": "https://gvet.ie/",
+      "label": "Parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://gvet.ie/wp-content/uploads/2026/04/ICT-Acceptable-Use-Policy-2026.docx",
+      "label": "Acceptable Use Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://gvet.ie/wp-content/uploads/2026/02/GVET-Sustainability-Policy.docx",
+      "label": "Sustainability Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://gvet.ie/therapy-dog-policy/",
+      "label": "Therapy Dog Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://gvet.ie/sphe-policy-copy/",
+      "label": "School Tour Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://gvet.ie/privacy-policy-2/",
+      "label": "Privacy Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://gvet.ie/data-protection-policy/",
+      "label": "Data Protection Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://gvet.ie/bi-cinealta/",
+      "label": "Bí Cíneálta Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://gvet.ie/anti-bullying-policy/",
+      "label": "Anti-Bullying Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 95.29,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:39:16+0000"
+}

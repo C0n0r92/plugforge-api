@@ -1,0 +1,102 @@
+{
+  "roll": "17110B",
+  "status": "bounded_search_no_new_notice_found",
+  "attempts": [
+    {
+      "url": "https://www.stlaurenceotoolesns.ie/admissions",
+      "final_url": "https://www.stlaurenceotoolesns.ie/admissions",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Now Enrolling! Click Here"
+    },
+    {
+      "url": "https://drive.google.com/open?id=1-MHQ_VfeOiUs-KRgEQOIx7XXbU_ZIOVUfZ5EZ7RLYkw",
+      "final_url": "https://drive.google.com/open?id=1-MHQ_VfeOiUs-KRgEQOIx7XXbU_ZIOVUfZ5EZ7RLYkw",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Open Document, Admissions Notice September 2025 in new window"
+    },
+    {
+      "url": "https://www.larriers.ie/enrolment",
+      "final_url": "https://www.larriers.ie/enrolment",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "More Info"
+    },
+    {
+      "url": "https://www.stlaurenceotoolesns.ie/sitemap.xml",
+      "final_url": "https://www.stlaurenceotoolesns.ie/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.larriers.ie/sitemap.xml",
+      "final_url": "https://www.larriers.ie/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.larriers.ie",
+      "final_url": "https://www.larriers.ie",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.larriers.ie/resources",
+      "final_url": "https://www.larriers.ie/resources",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Resources Useful information, links, and downloads for parents and families."
+    },
+    {
+      "url": "https://larriers.ie/enrolment",
+      "final_url": "https://larriers.ie/enrolment",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions/policy URL from public sitemap"
+    },
+    {
+      "url": "https://larriers.ie/sitemap.xml",
+      "final_url": "https://larriers.ie/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.larriers.ie/privacy",
+      "final_url": "https://www.larriers.ie/privacy",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Privacy Policy"
+    },
+    {
+      "url": "https://www.larriers.ie/cookies",
+      "final_url": "https://www.larriers.ie/cookies",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Cookie Policy"
+    },
+    {
+      "url": "https://larriers.ie/privacy",
+      "final_url": "https://larriers.ie/privacy",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Privacy Policy"
+    },
+    {
+      "url": "https://larriers.ie/cookies",
+      "final_url": "https://larriers.ie/cookies",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Cookie Policy"
+    }
+  ],
+  "documents": [],
+  "pending_links": [],
+  "elapsed_seconds": 25.8,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:02:31+0000"
+}

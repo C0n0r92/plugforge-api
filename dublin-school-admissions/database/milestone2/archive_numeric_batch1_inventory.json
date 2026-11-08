@@ -1,0 +1,967 @@
+[
+  {
+    "roll": "18362K",
+    "capture": {
+      "timestamp": "20240228184510",
+      "original": "https://scinfantsp.ie/admission-notice/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "4FNRXTFGDL5KAEHCR6LKMJVBVVW5SM77"
+    },
+    "original_url": "https://scinfantsp.ie/admission-notice/",
+    "archived_url": "https://web.archive.org/web/20240228184510/https://scinfantsp.ie/admission-notice/",
+    "attempted_at": "2026-11-08T12:47:50.946691+00:00",
+    "linked_from_capture": null,
+    "http_status": 200,
+    "headers": {
+      "Content-Type": "text/html; charset=UTF-8",
+      "memento-datetime": "Wed, 28 Feb 2024 18:45:10 GMT"
+    },
+    "bytes": 67684,
+    "payload_sha256": "e39045c42370295e11b3212b54b69011f19f50a16adfdc864fed84b9797c94eb",
+    "format": "html",
+    "status": "archived_body_retrieved_requires_manual_evidence_review",
+    "text_file": "database/milestone2/evidence/exact_18362K_e39045c42370295e11b3.txt",
+    "linked_document_candidates": []
+  },
+  {
+    "roll": "17507F",
+    "capture": {
+      "timestamp": "20250114123022",
+      "original": "https://www.glencullenschool.ie/policies/admission-policy/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "2KQJ72QC4RBDIEFK6APZDYSFWCTCIROL"
+    },
+    "original_url": "https://www.glencullenschool.ie/policies/admission-policy/",
+    "archived_url": "https://web.archive.org/web/20250114123022/https://www.glencullenschool.ie/policies/admission-policy/",
+    "attempted_at": "2026-11-08T12:47:45.334009+00:00",
+    "linked_from_capture": null,
+    "http_status": 200,
+    "headers": {
+      "Content-Type": "text/html; charset=UTF-8",
+      "memento-datetime": "Tue, 14 Jan 2025 12:30:22 GMT"
+    },
+    "bytes": 125676,
+    "payload_sha256": "9862f90e86f62be951c846f711392624ba930c5ed79dc3e1e1a14e974bb66058",
+    "format": "html",
+    "status": "archived_body_retrieved_requires_manual_evidence_review",
+    "text_file": "database/milestone2/evidence/exact_17507F_9862f90e86f62be951c8.txt",
+    "linked_document_candidates": []
+  },
+  {
+    "roll": "17507F",
+    "capture": {
+      "timestamp": "20240420130909",
+      "original": "https://www.glencullenschool.ie/policies/admission-policy/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "5CIEN3GNLJNLSVZBJDAH3N3F6SKVS4LS"
+    },
+    "original_url": "https://www.glencullenschool.ie/policies/admission-policy/",
+    "archived_url": "https://web.archive.org/web/20240420130909/https://www.glencullenschool.ie/policies/admission-policy/",
+    "attempted_at": "2026-11-08T12:47:39.600009+00:00",
+    "linked_from_capture": null,
+    "http_status": 200,
+    "headers": {
+      "Content-Type": "text/html; charset=UTF-8",
+      "memento-datetime": "Sat, 20 Apr 2024 13:09:09 GMT"
+    },
+    "bytes": 128093,
+    "payload_sha256": "8295d9f2afbed25cc10d900b2985018bef434cd36d88f8b0656c287952acd862",
+    "format": "html",
+    "status": "archived_body_retrieved_requires_manual_evidence_review",
+    "text_file": "database/milestone2/evidence/exact_17507F_8295d9f2afbed25cc10d.txt",
+    "linked_document_candidates": []
+  },
+  {
+    "roll": "05600C",
+    "capture": {
+      "timestamp": "20250119140408",
+      "original": "https://www.dominicandunlaoghaire.ie/annual-admissions-notice/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "UG5DWGI2QX5DJJXKYKDGFVK3TNMFFO6C"
+    },
+    "original_url": "https://www.dominicandunlaoghaire.ie/annual-admissions-notice/",
+    "archived_url": "https://web.archive.org/web/20250119140408/https://www.dominicandunlaoghaire.ie/annual-admissions-notice/",
+    "attempted_at": "2026-11-08T12:44:16.951966+00:00",
+    "linked_from_capture": null,
+    "http_status": 200,
+    "headers": {
+      "Content-Type": "text/html; charset=UTF-8",
+      "memento-datetime": "Sun, 19 Jan 2025 14:04:08 GMT"
+    },
+    "bytes": 41159,
+    "payload_sha256": "92752a852d9271df5480d6bc48956a83ecfc4d398fe11e9b3e74987b9046f186",
+    "format": "html",
+    "status": "archived_body_retrieved_requires_manual_evidence_review",
+    "text_file": "database/milestone2/evidence/exact_05600C_92752a852d9271df5480.txt",
+    "linked_document_candidates": []
+  },
+  {
+    "roll": "19221U",
+    "capture": {
+      "timestamp": "20231202100316",
+      "original": "https://www.scoilaine.ie/admissions/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "O7ACP6F5PXOYY6DHLCAISUZFU5TCC6LO"
+    },
+    "original_url": "https://www.scoilaine.ie/admissions/",
+    "archived_url": "https://web.archive.org/web/20231202100316/https://www.scoilaine.ie/admissions/",
+    "attempted_at": "2026-11-08T12:48:29.785719+00:00",
+    "linked_from_capture": null,
+    "http_status": 200,
+    "headers": {
+      "Content-Type": "text/html; charset=UTF-8",
+      "memento-datetime": "Sat, 02 Dec 2023 10:03:16 GMT"
+    },
+    "bytes": 28239,
+    "payload_sha256": "198a6afdefb1058cdb3c3a00972acb7fdbbb66e40a47e20c1c70e0471cb29fde",
+    "format": "html",
+    "status": "archived_body_retrieved_requires_manual_evidence_review",
+    "text_file": "database/milestone2/evidence/exact_19221U_198a6afdefb1058cdb3c.txt",
+    "linked_document_candidates": []
+  },
+  {
+    "roll": "05600C",
+    "capture": {
+      "timestamp": "20220124160746",
+      "original": "http://www.dominicandunlaoghaire.ie/annual-admissions-notice/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "CERAGM742BZ5LY7H67HPROFMUKUM62U7"
+    },
+    "original_url": "http://www.dominicandunlaoghaire.ie/annual-admissions-notice/",
+    "archived_url": "https://web.archive.org/web/20220124160746/http://www.dominicandunlaoghaire.ie/annual-admissions-notice/",
+    "attempted_at": "2026-11-08T12:44:00.599120+00:00",
+    "linked_from_capture": null,
+    "http_status": 200,
+    "headers": {
+      "Content-Type": "text/html; charset=UTF-8",
+      "memento-datetime": "Mon, 24 Jan 2022 16:07:46 GMT"
+    },
+    "bytes": 44407,
+    "payload_sha256": "3b2e0a64efc9b90872e7d1970da65ec7f4011c180cb8dc19b495fce8e9f8d0cf",
+    "format": "html",
+    "status": "archived_body_retrieved_requires_manual_evidence_review",
+    "text_file": "database/milestone2/evidence/exact_05600C_3b2e0a64efc9b90872e7.txt",
+    "linked_document_candidates": []
+  },
+  {
+    "roll": "15569R",
+    "capture": {
+      "timestamp": "20240422152028",
+      "original": "https://www.scoilmoibhi.ie/admissions-and-application-information/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "JWYMVZ5N652I3XNUSA7WPQDESHMHN5OR"
+    },
+    "original_url": "https://www.scoilmoibhi.ie/admissions-and-application-information/",
+    "archived_url": "https://web.archive.org/web/20240422152028/https://www.scoilmoibhi.ie/admissions-and-application-information/",
+    "attempted_at": "2026-11-08T12:45:15.453649+00:00",
+    "linked_from_capture": null,
+    "http_status": 200,
+    "headers": {
+      "Content-Type": "text/html; charset=utf-8",
+      "memento-datetime": "Mon, 22 Apr 2024 15:20:28 GMT"
+    },
+    "bytes": 33184,
+    "payload_sha256": "140d4ece2de49cb89cf6d48b565a9e1438cc6f57d68aa5a902ed2b333fa3b35b",
+    "format": "html",
+    "status": "archived_body_retrieved_requires_manual_evidence_review",
+    "text_file": "database/milestone2/evidence/exact_15569R_140d4ece2de49cb89cf6.txt",
+    "linked_document_candidates": []
+  },
+  {
+    "roll": "18362K",
+    "capture": {
+      "timestamp": "20250321000430",
+      "original": "https://scinfantsp.ie/admission-notice/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "QN6YTV5X5EN2KJ4Q6NLRHKEAJELH7I4H"
+    },
+    "original_url": "https://scinfantsp.ie/admission-notice/",
+    "archived_url": "https://web.archive.org/web/20250321000430/https://scinfantsp.ie/admission-notice/",
+    "attempted_at": "2026-11-08T12:47:55.930534+00:00",
+    "linked_from_capture": null,
+    "http_status": 200,
+    "headers": {
+      "Content-Type": "text/html; charset=UTF-8",
+      "memento-datetime": "Fri, 21 Mar 2025 00:04:30 GMT"
+    },
+    "bytes": 69189,
+    "payload_sha256": "3e20d45fd98d992ac3ce6a22565507c4c39b886cdd7f891d9535e4fbd5c20001",
+    "format": "html",
+    "status": "archived_body_retrieved_requires_manual_evidence_review",
+    "text_file": "database/milestone2/evidence/exact_18362K_3e20d45fd98d992ac3ce.txt",
+    "linked_document_candidates": []
+  },
+  {
+    "roll": "16461C",
+    "capture": {
+      "timestamp": "20230204061431",
+      "original": "https://stfiniansprimaryschool.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "7ZRVLZBGP5IIG4IVAEO5UQELSY5IF5GN"
+    },
+    "original_url": "https://stfiniansprimaryschool.ie/",
+    "archived_url": "https://web.archive.org/web/20230204061431/https://stfiniansprimaryschool.ie/",
+    "attempted_at": "2026-11-08T12:46:24.972593+00:00",
+    "linked_from_capture": null,
+    "http_status": 200,
+    "headers": {
+      "Content-Type": "text/html; charset=UTF-8",
+      "memento-datetime": "Sat, 04 Feb 2023 06:14:31 GMT"
+    },
+    "bytes": 132963,
+    "payload_sha256": "e994739a5297d68883f08be4619d1794f70b5bc2da418b50c120f4f2b20e61d3",
+    "format": "html",
+    "status": "archived_body_retrieved_requires_manual_evidence_review",
+    "text_file": "database/milestone2/evidence/exact_16461C_e994739a5297d68883f0.txt",
+    "linked_document_candidates": []
+  },
+  {
+    "roll": "19221U",
+    "capture": {
+      "timestamp": "20260315025752",
+      "original": "https://www.scoilaine.ie/admissions/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "GAPBODZJCRT3W2P42K5JVYBPTO54NIRZ"
+    },
+    "original_url": "https://www.scoilaine.ie/admissions/",
+    "archived_url": "https://web.archive.org/web/20260315025752/https://www.scoilaine.ie/admissions/",
+    "attempted_at": "2026-11-08T12:48:47.136482+00:00",
+    "linked_from_capture": null,
+    "http_status": 200,
+    "headers": {
+      "Content-Type": "text/html; charset=UTF-8",
+      "memento-datetime": "Sun, 15 Mar 2026 02:57:52 GMT"
+    },
+    "bytes": 41159,
+    "payload_sha256": "7508d349263a4a6e75f50b28294aabbd284203bdce45db138a98cc026b51c662",
+    "format": "html",
+    "status": "archived_body_retrieved_requires_manual_evidence_review",
+    "text_file": "database/milestone2/evidence/exact_19221U_7508d349263a4a6e75f5.txt",
+    "linked_document_candidates": []
+  },
+  {
+    "roll": "15132B",
+    "capture": {
+      "timestamp": "20250215105523",
+      "original": "https://www.haroldboysdalkey.ie/copy-of-teachers-2024-2025-1",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "JXAXZBTPVTDOFAZOBEMWEJD5TTSJHHBJ"
+    },
+    "original_url": "https://www.haroldboysdalkey.ie/copy-of-teachers-2024-2025-1",
+    "archived_url": "https://web.archive.org/web/20250215105523/https://www.haroldboysdalkey.ie/copy-of-teachers-2024-2025-1",
+    "attempted_at": "2026-11-08T12:44:26.382481+00:00",
+    "linked_from_capture": null,
+    "http_status": 200,
+    "headers": {
+      "Content-Type": "text/html; charset=UTF-8",
+      "memento-datetime": "Sat, 15 Feb 2025 10:55:23 GMT"
+    },
+    "bytes": 507060,
+    "payload_sha256": "99bdd141cf01b76199b126360e532f7ccdc098832441a5f2618184c6c56e0fd4",
+    "format": "html",
+    "status": "archived_body_retrieved_requires_manual_evidence_review",
+    "text_file": "database/milestone2/evidence/exact_15132B_99bdd141cf01b76199b1.txt",
+    "linked_document_candidates": [
+      {
+        "url": "https://www.haroldboysdalkey.ie/_files/ugd/7ce6f8_c536f50f59b9483cadc1f263a2c399e0.pdf",
+        "label": "Annual Admissions Notice"
+      }
+    ]
+  },
+  {
+    "roll": "19242F",
+    "capture": {
+      "timestamp": "20260123170611",
+      "original": "https://www.olvinfants.com/annual-admissions-notice.html",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "WBVOI6C5XGXAVHIV6W5ZFXGVWGA6UATO"
+    },
+    "original_url": "https://www.olvinfants.com/annual-admissions-notice.html",
+    "archived_url": "https://web.archive.org/web/20260123170611/https://www.olvinfants.com/annual-admissions-notice.html",
+    "attempted_at": "2026-11-08T12:49:32.941430+00:00",
+    "linked_from_capture": null,
+    "http_status": 200,
+    "headers": {
+      "Content-Type": "text/html; charset=UTF-8",
+      "memento-datetime": "Fri, 23 Jan 2026 17:06:11 GMT"
+    },
+    "bytes": 41561,
+    "payload_sha256": "cb5c2fa7e7f71d2fbf3be5c999839a3dbd0bc7d557fb5b03295f7217f626a274",
+    "format": "html",
+    "status": "archived_body_retrieved_requires_manual_evidence_review",
+    "text_file": "database/milestone2/evidence/exact_19242F_cb5c2fa7e7f71d2fbf3b.txt",
+    "linked_document_candidates": []
+  },
+  {
+    "roll": "05600C",
+    "capture": {
+      "timestamp": "20210117023607",
+      "original": "http://www.dominicandunlaoghaire.ie/annual-admissions-notice/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "L4B74MIHDQ4F47KY36PM5WBORALUXV25"
+    },
+    "original_url": "http://www.dominicandunlaoghaire.ie/annual-admissions-notice/",
+    "archived_url": "https://web.archive.org/web/20210117023607/http://www.dominicandunlaoghaire.ie/annual-admissions-notice/",
+    "attempted_at": "2026-11-08T12:43:55.538649+00:00",
+    "linked_from_capture": null,
+    "http_status": 200,
+    "headers": {
+      "Content-Type": "text/html; charset=UTF-8",
+      "memento-datetime": "Sun, 17 Jan 2021 02:36:07 GMT"
+    },
+    "bytes": 41981,
+    "payload_sha256": "398a3c1ddbb812096c1869818165c82b2f029ca28166ab2aa0c00c41d1da6d0c",
+    "format": "html",
+    "status": "archived_body_retrieved_requires_manual_evidence_review",
+    "text_file": "database/milestone2/evidence/exact_05600C_398a3c1ddbb812096c18.txt",
+    "linked_document_candidates": []
+  },
+  {
+    "roll": "19221U",
+    "capture": {
+      "timestamp": "20250327211811",
+      "original": "https://www.scoilaine.ie/admissions/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "4XCMFV5755PYKMPZPLK5HHO6MW3QX6F7"
+    },
+    "original_url": "https://www.scoilaine.ie/admissions/",
+    "archived_url": "https://web.archive.org/web/20250327211811/https://www.scoilaine.ie/admissions/",
+    "attempted_at": "2026-11-08T12:48:40.664026+00:00",
+    "linked_from_capture": null,
+    "http_status": 200,
+    "headers": {
+      "Content-Type": "text/html; charset=UTF-8",
+      "memento-datetime": "Thu, 27 Mar 2025 21:18:11 GMT"
+    },
+    "bytes": 40295,
+    "payload_sha256": "a32379305b2aeb0e732f72742e946f93b79ddffbf026cc8dda7c463614e700cf",
+    "format": "html",
+    "status": "archived_body_retrieved_requires_manual_evidence_review",
+    "text_file": "database/milestone2/evidence/exact_19221U_a32379305b2aeb0e732f.txt",
+    "linked_document_candidates": []
+  },
+  {
+    "roll": "19242F",
+    "capture": {
+      "timestamp": "20230201153256",
+      "original": "http://www.olvinfants.com/annual-admissions-notice.html",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "Q32672V6MKCA7DYMV6PH3F7DSTAF4I5W"
+    },
+    "original_url": "http://www.olvinfants.com/annual-admissions-notice.html",
+    "archived_url": "https://web.archive.org/web/20230201153256/http://www.olvinfants.com/annual-admissions-notice.html",
+    "attempted_at": "2026-11-08T12:49:06.957743+00:00",
+    "linked_from_capture": null,
+    "http_status": 200,
+    "headers": {
+      "Content-Type": "text/html; charset=UTF-8",
+      "memento-datetime": "Wed, 01 Feb 2023 15:32:56 GMT"
+    },
+    "bytes": 40598,
+    "payload_sha256": "8cf9183790bbbe96b73729c254e6907e7fde524a3d0fbfda74a52c1d1a89e996",
+    "format": "html",
+    "status": "archived_body_retrieved_requires_manual_evidence_review",
+    "text_file": "database/milestone2/evidence/exact_19242F_8cf9183790bbbe96b737.txt",
+    "linked_document_candidates": []
+  },
+  {
+    "roll": "17367P",
+    "capture": {
+      "timestamp": "20250623103913",
+      "original": "https://www.maryhelpofchristians.ie/page/Annual-School-Admissions-Notice/39820/Index.html",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "N377UQWNZ3XVQWAOVRD2CRWO65M3BQR4"
+    },
+    "original_url": "https://www.maryhelpofchristians.ie/page/Annual-School-Admissions-Notice/39820/Index.html",
+    "archived_url": "https://web.archive.org/web/20250623103913/https://www.maryhelpofchristians.ie/page/Annual-School-Admissions-Notice/39820/Index.html",
+    "attempted_at": "2026-11-08T12:46:48.068655+00:00",
+    "linked_from_capture": null,
+    "http_status": 200,
+    "headers": {
+      "Content-Type": "text/html; charset=utf-8",
+      "memento-datetime": "Mon, 23 Jun 2025 10:39:13 GMT"
+    },
+    "bytes": 70026,
+    "payload_sha256": "4ddd17c90f9c86eb435d69cd179971efd2b83a04bc6a96d8d11f330522306f72",
+    "format": "html",
+    "status": "archived_body_retrieved_requires_manual_evidence_review",
+    "text_file": "database/milestone2/evidence/exact_17367P_4ddd17c90f9c86eb435d.txt",
+    "linked_document_candidates": []
+  },
+  {
+    "roll": "16461C",
+    "capture": {
+      "timestamp": "20260121011348",
+      "original": "https://stfiniansprimaryschool.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "VLE6QON5Z4UL2L43KNTB3VDN3XK5MTGR"
+    },
+    "original_url": "https://stfiniansprimaryschool.ie/",
+    "archived_url": "https://web.archive.org/web/20260121011348/https://stfiniansprimaryschool.ie/",
+    "attempted_at": "2026-11-08T12:46:43.437866+00:00",
+    "linked_from_capture": null,
+    "http_status": 200,
+    "headers": {
+      "Content-Type": "text/html; charset=UTF-8",
+      "memento-datetime": "Wed, 21 Jan 2026 01:13:48 GMT"
+    },
+    "bytes": 139003,
+    "payload_sha256": "07afb4e23503fe8b9dbc83457e53032d7eb87abd206c5b683e9e65298dc12cac",
+    "format": "html",
+    "status": "archived_body_retrieved_requires_manual_evidence_review",
+    "text_file": "database/milestone2/evidence/exact_16461C_07afb4e23503fe8b9dbc.txt",
+    "linked_document_candidates": []
+  },
+  {
+    "roll": "19242F",
+    "capture": {
+      "timestamp": "20210125034254",
+      "original": "https://www.olvinfants.com/annual-admissions-notice.html",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "BWB6MJI2O3AKALYEONOFK6FFWBCYFPML"
+    },
+    "original_url": "https://www.olvinfants.com/annual-admissions-notice.html",
+    "archived_url": "https://web.archive.org/web/20210125034254/https://www.olvinfants.com/annual-admissions-notice.html",
+    "attempted_at": "2026-11-08T12:48:57.646406+00:00",
+    "linked_from_capture": null,
+    "http_status": 200,
+    "headers": {
+      "Content-Type": "text/html; charset=UTF-8",
+      "memento-datetime": "Mon, 25 Jan 2021 03:42:54 GMT"
+    },
+    "bytes": 52316,
+    "payload_sha256": "745623eaf7f6fa24da43793e8e3696b57d59743b20e2338cca57ee36de00918e",
+    "format": "html",
+    "status": "archived_body_retrieved_requires_manual_evidence_review",
+    "text_file": "database/milestone2/evidence/exact_19242F_745623eaf7f6fa24da43.txt",
+    "linked_document_candidates": []
+  },
+  {
+    "roll": "19242F",
+    "capture": {
+      "timestamp": "20220117070155",
+      "original": "https://www.olvinfants.com/annual-admissions-notice.html",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "IBZLSYN73F343TRMSCIZDUP6PQ56GIEL"
+    },
+    "original_url": "https://www.olvinfants.com/annual-admissions-notice.html",
+    "archived_url": "https://web.archive.org/web/20220117070155/https://www.olvinfants.com/annual-admissions-notice.html",
+    "attempted_at": "2026-11-08T12:49:02.197105+00:00",
+    "linked_from_capture": null,
+    "http_status": 200,
+    "headers": {
+      "Content-Type": "text/html; charset=UTF-8",
+      "memento-datetime": "Mon, 17 Jan 2022 07:01:55 GMT"
+    },
+    "bytes": 45523,
+    "payload_sha256": "4092df7940645d8c0a59c07d2010fcf01593aa7a371614074aa02e504ecc5986",
+    "format": "html",
+    "status": "archived_body_retrieved_requires_manual_evidence_review",
+    "text_file": "database/milestone2/evidence/exact_19242F_4092df7940645d8c0a59.txt",
+    "linked_document_candidates": []
+  },
+  {
+    "roll": "05600C",
+    "capture": {
+      "timestamp": "20240415064716",
+      "original": "https://www.dominicandunlaoghaire.ie/annual-admissions-notice/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "GKFKMVHJT6OXSKWDTX4VZWUKECRNRJJV"
+    },
+    "original_url": "https://www.dominicandunlaoghaire.ie/annual-admissions-notice/",
+    "archived_url": "https://web.archive.org/web/20240415064716/https://www.dominicandunlaoghaire.ie/annual-admissions-notice/",
+    "attempted_at": "2026-11-08T12:44:10.469791+00:00",
+    "linked_from_capture": null,
+    "http_status": 200,
+    "headers": {
+      "Content-Type": "text/html; charset=UTF-8",
+      "memento-datetime": "Mon, 15 Apr 2024 06:47:16 GMT"
+    },
+    "bytes": 41074,
+    "payload_sha256": "9435dede39d3f8f9c313c5966931a20f3bed051427183d0d520d67b75afe7824",
+    "format": "html",
+    "status": "archived_body_retrieved_requires_manual_evidence_review",
+    "text_file": "database/milestone2/evidence/exact_05600C_9435dede39d3f8f9c313.txt",
+    "linked_document_candidates": []
+  },
+  {
+    "roll": "05600C",
+    "capture": {
+      "timestamp": "20230129082854",
+      "original": "http://www.dominicandunlaoghaire.ie/annual-admissions-notice/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "6I3VARZG7WXFHGGZ2GX6AE4PAP7LDQOM"
+    },
+    "original_url": "http://www.dominicandunlaoghaire.ie/annual-admissions-notice/",
+    "archived_url": "https://web.archive.org/web/20230129082854/http://www.dominicandunlaoghaire.ie/annual-admissions-notice/",
+    "attempted_at": "2026-11-08T12:44:05.645643+00:00",
+    "linked_from_capture": null,
+    "http_status": 200,
+    "headers": {
+      "Content-Type": "text/html; charset=UTF-8",
+      "memento-datetime": "Sun, 29 Jan 2023 08:28:54 GMT"
+    },
+    "bytes": 44411,
+    "payload_sha256": "2ee388dc6ed193dc589299e7c7b2c7308aadc867bd82f7a628f0d2603f171415",
+    "format": "html",
+    "status": "archived_body_retrieved_requires_manual_evidence_review",
+    "text_file": "database/milestone2/evidence/exact_05600C_2ee388dc6ed193dc5892.txt",
+    "linked_document_candidates": []
+  },
+  {
+    "roll": "05600C",
+    "capture": {
+      "timestamp": "20201025044051",
+      "original": "http://www.dominicandunlaoghaire.ie/annual-admissions-notice/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "2FYMLBKYPSTZGI23HOACCJJ6YMVYN5KW"
+    },
+    "original_url": "http://www.dominicandunlaoghaire.ie/annual-admissions-notice/",
+    "archived_url": "https://web.archive.org/web/20201025044051/http://www.dominicandunlaoghaire.ie/annual-admissions-notice/",
+    "attempted_at": "2026-11-08T12:43:50.897827+00:00",
+    "linked_from_capture": null,
+    "http_status": 200,
+    "headers": {
+      "Content-Type": "text/html; charset=UTF-8",
+      "memento-datetime": "Sun, 25 Oct 2020 04:40:51 GMT"
+    },
+    "bytes": 44006,
+    "payload_sha256": "bb04d8294125df9123cb3258f43dc51b8436022027cea9a45ad08c48218a5f18",
+    "format": "html",
+    "status": "archived_body_retrieved_requires_manual_evidence_review",
+    "text_file": "database/milestone2/evidence/exact_05600C_bb04d8294125df9123cb.txt",
+    "linked_document_candidates": []
+  },
+  {
+    "roll": "15569R",
+    "capture": {
+      "timestamp": "20250421140423",
+      "original": "https://www.scoilmoibhi.ie/admissions-and-application-information/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "3PNPCE7GNVI7G3T5WFRN2JDOKW5C24WO"
+    },
+    "original_url": "https://www.scoilmoibhi.ie/admissions-and-application-information/",
+    "archived_url": "https://web.archive.org/web/20250421140423/https://www.scoilmoibhi.ie/admissions-and-application-information/",
+    "attempted_at": "2026-11-08T12:45:20.734917+00:00",
+    "linked_from_capture": null,
+    "http_status": 200,
+    "headers": {
+      "Content-Type": "text/html; charset=utf-8",
+      "memento-datetime": "Mon, 21 Apr 2025 14:04:23 GMT"
+    },
+    "bytes": 33509,
+    "payload_sha256": "f048cca2e20e1810020db30616f0afb2505bed52f53a10b528638b0ff8f4ff52",
+    "format": "html",
+    "status": "archived_body_retrieved_requires_manual_evidence_review",
+    "text_file": "database/milestone2/evidence/exact_15569R_f048cca2e20e1810020d.txt",
+    "linked_document_candidates": []
+  },
+  {
+    "roll": "15569R",
+    "capture": {
+      "timestamp": "20230208132004",
+      "original": "https://www.scoilmoibhi.ie/admissions-and-application-information/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "75RD3WFBZNOX7MG253GN4YQYX7MRDAVV"
+    },
+    "original_url": "https://www.scoilmoibhi.ie/admissions-and-application-information/",
+    "archived_url": "https://web.archive.org/web/20230208132004/https://www.scoilmoibhi.ie/admissions-and-application-information/",
+    "attempted_at": "2026-11-08T12:45:09.432921+00:00",
+    "linked_from_capture": null,
+    "http_status": 200,
+    "headers": {
+      "Content-Type": "text/html; charset=utf-8",
+      "memento-datetime": "Wed, 08 Feb 2023 13:20:04 GMT"
+    },
+    "bytes": 32900,
+    "payload_sha256": "22e4f3c344cc8b202db62dd9e94576279397f771e29b9fb1b95e194becdd4815",
+    "format": "html",
+    "status": "archived_body_retrieved_requires_manual_evidence_review",
+    "text_file": "database/milestone2/evidence/exact_15569R_22e4f3c344cc8b202db6.txt",
+    "linked_document_candidates": []
+  },
+  {
+    "roll": "16461C",
+    "capture": {
+      "timestamp": "20250215011104",
+      "original": "https://stfiniansprimaryschool.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "K5HR6U5S4GMNCCL2NMDNUV7CKCIPJBYP"
+    },
+    "original_url": "https://stfiniansprimaryschool.ie/",
+    "archived_url": "https://web.archive.org/web/20250215011104/https://stfiniansprimaryschool.ie/",
+    "attempted_at": "2026-11-08T12:46:36.452979+00:00",
+    "linked_from_capture": null,
+    "http_status": 200,
+    "headers": {
+      "Content-Type": "text/html; charset=UTF-8",
+      "memento-datetime": "Sat, 15 Feb 2025 01:11:04 GMT"
+    },
+    "bytes": 134095,
+    "payload_sha256": "4d0d7d526d3d0a7d8a43d24ab6f7c6988fa99cb5f637348cb11a522e8be281d4",
+    "format": "html",
+    "status": "archived_body_retrieved_requires_manual_evidence_review",
+    "text_file": "database/milestone2/evidence/exact_16461C_4d0d7d526d3d0a7d8a43.txt",
+    "linked_document_candidates": []
+  },
+  {
+    "roll": "15132B",
+    "capture": {
+      "timestamp": "20240908040025",
+      "original": "https://www.haroldboysdalkey.ie/copy-of-teachers-2024-2025-1",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "MEIV5N7SKHBV436TOA6XTXG7KMMXE6CB"
+    },
+    "original_url": "https://www.haroldboysdalkey.ie/copy-of-teachers-2024-2025-1",
+    "archived_url": "https://web.archive.org/web/20240908040025/https://www.haroldboysdalkey.ie/copy-of-teachers-2024-2025-1",
+    "attempted_at": "2026-11-08T12:44:21.664737+00:00",
+    "linked_from_capture": null,
+    "http_status": 200,
+    "headers": {
+      "Content-Type": "text/html; charset=UTF-8",
+      "memento-datetime": "Sun, 08 Sep 2024 04:00:25 GMT"
+    },
+    "bytes": 541058,
+    "payload_sha256": "61dc14dcceb7cf387fc713ef75d14ce77c7e57a665851f41556f720b94b37ae4",
+    "format": "html",
+    "status": "archived_body_retrieved_requires_manual_evidence_review",
+    "text_file": "database/milestone2/evidence/exact_15132B_61dc14dcceb7cf387fc7.txt",
+    "linked_document_candidates": []
+  },
+  {
+    "roll": "19242F",
+    "capture": {
+      "timestamp": "20250322022818",
+      "original": "https://www.olvinfants.com/annual-admissions-notice.html",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "7QOFMWKDE6UF5OR5CQHVMAWEZAC5HQMD"
+    },
+    "original_url": "https://www.olvinfants.com/annual-admissions-notice.html",
+    "archived_url": "https://web.archive.org/web/20250322022818/https://www.olvinfants.com/annual-admissions-notice.html",
+    "attempted_at": "2026-11-08T12:49:27.058989+00:00",
+    "linked_from_capture": null,
+    "http_status": 200,
+    "headers": {
+      "Content-Type": "text/html; charset=UTF-8",
+      "memento-datetime": "Sat, 22 Mar 2025 02:28:18 GMT"
+    },
+    "bytes": 42443,
+    "payload_sha256": "78fad6e427e6bf9604e78321a61e48ad6cd553a5cac4de0241d0d399f648eb22",
+    "format": "html",
+    "status": "archived_body_retrieved_requires_manual_evidence_review",
+    "text_file": "database/milestone2/evidence/exact_19242F_78fad6e427e6bf9604e7.txt",
+    "linked_document_candidates": []
+  },
+  {
+    "roll": "16461C",
+    "capture": {
+      "timestamp": "20220117165302",
+      "original": "https://stfiniansprimaryschool.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "EZNJCJVIRU3IACCXZ4UXNFMBRZ6AMDVP"
+    },
+    "original_url": "https://stfiniansprimaryschool.ie/",
+    "archived_url": "https://web.archive.org/web/20220117165302/https://stfiniansprimaryschool.ie/",
+    "attempted_at": "2026-11-08T12:46:19.776477+00:00",
+    "linked_from_capture": null,
+    "http_status": 200,
+    "headers": {
+      "Content-Type": "text/html; charset=UTF-8",
+      "memento-datetime": "Mon, 17 Jan 2022 16:53:02 GMT"
+    },
+    "bytes": 118064,
+    "payload_sha256": "e555e6d157c9ab0ecf3ff74942990a177bbb9c80a605af3311ad27e1d6d68863",
+    "format": "html",
+    "status": "archived_body_retrieved_requires_manual_evidence_review",
+    "text_file": "database/milestone2/evidence/exact_16461C_e555e6d157c9ab0ecf3f.txt",
+    "linked_document_candidates": []
+  },
+  {
+    "roll": "19242F",
+    "capture": {
+      "timestamp": "20240303090500",
+      "original": "https://www.olvinfants.com/annual-admissions-notice.html",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "3LSTMNOEC5GH3EHDUTXBWDFHPLNP4XUB"
+    },
+    "original_url": "https://www.olvinfants.com/annual-admissions-notice.html",
+    "archived_url": "https://web.archive.org/web/20240303090500/https://www.olvinfants.com/annual-admissions-notice.html",
+    "attempted_at": "2026-11-08T12:49:12.163755+00:00",
+    "linked_from_capture": null,
+    "http_status": 200,
+    "headers": {
+      "Content-Type": "text/html; charset=UTF-8",
+      "memento-datetime": "Sun, 03 Mar 2024 09:05:00 GMT"
+    },
+    "bytes": 43850,
+    "payload_sha256": "9de192be5b8dadc2a6da7d320f4e33fde1b30c3bac511100a13cae213bccc5bb",
+    "format": "html",
+    "status": "archived_body_retrieved_requires_manual_evidence_review",
+    "text_file": "database/milestone2/evidence/exact_19242F_9de192be5b8dadc2a6da.txt",
+    "linked_document_candidates": [
+      {
+        "url": "https://www.olvinfants.com/uploads/1/3/8/4/138468462/__2023_2024_annual-admissions-notice.docx.pdf",
+        "label": "Click here for annual ADMISSIONS Notice"
+      }
+    ]
+  },
+  {
+    "roll": "17367P",
+    "capture": {
+      "timestamp": "20260311044607",
+      "original": "https://www.maryhelpofchristians.ie/page/Annual-School-Admissions-Notice/39820/Index.html",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "NLIXSVAG64MPDQIPC74XIMLGMPTDC5VX"
+    },
+    "original_url": "https://www.maryhelpofchristians.ie/page/Annual-School-Admissions-Notice/39820/Index.html",
+    "archived_url": "https://web.archive.org/web/20260311044607/https://www.maryhelpofchristians.ie/page/Annual-School-Admissions-Notice/39820/Index.html",
+    "attempted_at": "2026-11-08T12:46:52.708395+00:00",
+    "linked_from_capture": null,
+    "http_status": 200,
+    "headers": {
+      "Content-Type": "text/html; charset=utf-8",
+      "memento-datetime": "Wed, 11 Mar 2026 04:46:07 GMT"
+    },
+    "bytes": 67897,
+    "payload_sha256": "d61945db5200ed56dbe1931eb5b670f9f04c41400149234dbafdc9050a230377",
+    "format": "html",
+    "status": "archived_body_retrieved_requires_manual_evidence_review",
+    "text_file": "database/milestone2/evidence/exact_17367P_d61945db5200ed56dbe1.txt",
+    "linked_document_candidates": []
+  },
+  {
+    "roll": "15569R",
+    "capture": {
+      "timestamp": "20260415154847",
+      "original": "https://www.scoilmoibhi.ie/admissions-and-application-information/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "N5IDCVP456DRT4V7WOU655M6CJRV53PL"
+    },
+    "original_url": "https://www.scoilmoibhi.ie/admissions-and-application-information/",
+    "archived_url": "https://web.archive.org/web/20260415154847/https://www.scoilmoibhi.ie/admissions-and-application-information/",
+    "attempted_at": "2026-11-08T12:45:26.523913+00:00",
+    "linked_from_capture": null,
+    "http_status": 200,
+    "headers": {
+      "Content-Type": "text/html; charset=utf-8",
+      "memento-datetime": "Wed, 15 Apr 2026 15:48:47 GMT"
+    },
+    "bytes": 34456,
+    "payload_sha256": "c03cb3804c680619f4703e7fa294dfdab4802e5d23b9f8c7abf53231beb5944e",
+    "format": "html",
+    "status": "archived_body_retrieved_requires_manual_evidence_review",
+    "text_file": "database/milestone2/evidence/exact_15569R_c03cb3804c680619f470.txt",
+    "linked_document_candidates": []
+  },
+  {
+    "roll": "19242F",
+    "capture": {
+      "timestamp": "20201022002127",
+      "original": "https://www.olvinfants.com/annual-admissions-notice.html",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "J2QC2LSJ4X3SATE2ULHDQC3QMNJZD34Y"
+    },
+    "original_url": "https://www.olvinfants.com/annual-admissions-notice.html",
+    "archived_url": "https://web.archive.org/web/20201022002127/https://www.olvinfants.com/annual-admissions-notice.html",
+    "attempted_at": "2026-11-08T12:48:52.212207+00:00",
+    "linked_from_capture": null,
+    "http_status": 200,
+    "headers": {
+      "Content-Type": "text/html; charset=UTF-8",
+      "memento-datetime": "Thu, 22 Oct 2020 00:21:27 GMT"
+    },
+    "bytes": 52314,
+    "payload_sha256": "ad1f24a35f878b9012074efcfe7857eb7cebf89dafbcfb2009923eba9eb653c4",
+    "format": "html",
+    "status": "archived_body_retrieved_requires_manual_evidence_review",
+    "text_file": "database/milestone2/evidence/exact_19242F_ad1f24a35f878b901207.txt",
+    "linked_document_candidates": []
+  },
+  {
+    "roll": "15569R",
+    "capture": {
+      "timestamp": "20220129125843",
+      "original": "https://www.scoilmoibhi.ie/admissions-and-application-information/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "ZPCG5DWMWW3JLXQD6B7UAPYCJPXEPGG4"
+    },
+    "original_url": "https://www.scoilmoibhi.ie/admissions-and-application-information/",
+    "archived_url": "https://web.archive.org/web/20220129125843/https://www.scoilmoibhi.ie/admissions-and-application-information/",
+    "attempted_at": "2026-11-08T12:45:04.716672+00:00",
+    "linked_from_capture": null,
+    "http_status": 200,
+    "headers": {
+      "Content-Type": "text/html; charset=utf-8",
+      "memento-datetime": "Sat, 29 Jan 2022 12:58:43 GMT"
+    },
+    "bytes": 31375,
+    "payload_sha256": "e18fb37c12893de2a2c6978dea5b53a614c83f8e52c620039b2c908c26602c6a",
+    "format": "html",
+    "status": "archived_body_retrieved_requires_manual_evidence_review",
+    "text_file": "database/milestone2/evidence/exact_15569R_e18fb37c12893de2a2c6.txt",
+    "linked_document_candidates": []
+  },
+  {
+    "roll": "19221U",
+    "capture": {
+      "timestamp": "20240229030504",
+      "original": "https://www.scoilaine.ie/admissions/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "2LPWYDMR5MKC65SIUWVVQMEENMXT2O2A"
+    },
+    "original_url": "https://www.scoilaine.ie/admissions/",
+    "archived_url": "https://web.archive.org/web/20240229030504/https://www.scoilaine.ie/admissions/",
+    "attempted_at": "2026-11-08T12:48:35.997905+00:00",
+    "linked_from_capture": null,
+    "http_status": 200,
+    "headers": {
+      "Content-Type": "text/html; charset=UTF-8",
+      "memento-datetime": "Thu, 29 Feb 2024 03:05:04 GMT"
+    },
+    "bytes": 29288,
+    "payload_sha256": "39ce0c388400c7db8a106f658df16dbb3724def8c75f3153bfac1a2e3c92a4f1",
+    "format": "html",
+    "status": "archived_body_retrieved_requires_manual_evidence_review",
+    "text_file": "database/milestone2/evidence/exact_19221U_39ce0c388400c7db8a10.txt",
+    "linked_document_candidates": []
+  },
+  {
+    "roll": "16461C",
+    "capture": {
+      "timestamp": "20240120021855",
+      "original": "https://stfiniansprimaryschool.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "3J3CYMPOPLCWUQXSTLVWDLPFXTDBHVT4"
+    },
+    "original_url": "https://stfiniansprimaryschool.ie/",
+    "archived_url": "https://web.archive.org/web/20240120021855/https://stfiniansprimaryschool.ie/",
+    "attempted_at": "2026-11-08T12:46:30.941961+00:00",
+    "linked_from_capture": null,
+    "http_status": 200,
+    "headers": {
+      "Content-Type": "text/html; charset=UTF-8",
+      "memento-datetime": "Sat, 20 Jan 2024 02:18:55 GMT"
+    },
+    "bytes": 135318,
+    "payload_sha256": "fac67cfe758c70e93764caafe058433b8d65a94934b350ff3ef380dac7e949bc",
+    "format": "html",
+    "status": "archived_body_retrieved_requires_manual_evidence_review",
+    "text_file": "database/milestone2/evidence/exact_16461C_fac67cfe758c70e93764.txt",
+    "linked_document_candidates": []
+  },
+  {
+    "roll": "19242F",
+    "capture": {
+      "timestamp": "20240216135510",
+      "original": "https://www.olvinfants.com/uploads/1/3/8/4/138468462/__2023_2024_annual-admissions-notice.docx.pdf",
+      "linked_from_capture": "https://web.archive.org/web/20240303090500/https://www.olvinfants.com/uploads/1/3/8/4/138468462/__2023_2024_annual-admissions-notice.docx.pdf"
+    },
+    "original_url": "https://www.olvinfants.com/uploads/1/3/8/4/138468462/__2023_2024_annual-admissions-notice.docx.pdf",
+    "archived_url": "https://web.archive.org/web/20240216135510/https://www.olvinfants.com/uploads/1/3/8/4/138468462/__2023_2024_annual-admissions-notice.docx.pdf",
+    "attempted_at": "2026-11-08T12:49:21.791897+00:00",
+    "linked_from_capture": "https://web.archive.org/web/20240303090500/https://www.olvinfants.com/uploads/1/3/8/4/138468462/__2023_2024_annual-admissions-notice.docx.pdf",
+    "http_status": 200,
+    "headers": {
+      "Content-Type": "application/pdf",
+      "memento-datetime": "Fri, 16 Feb 2024 13:55:10 GMT"
+    },
+    "bytes": 71336,
+    "payload_sha256": "17dc900bdc7274c0be37c60a0d5425e5f0def84593fdc0bf4ab7e76d49b9c4f0",
+    "format": "pdf",
+    "source_file": "database/milestone2/cache/17dc900bdc7274c0be37c60a0d5425e5f0def84593fdc0bf4ab7e76d49b9c4f0.pdf",
+    "parse_stderr": "",
+    "status": "archived_body_retrieved_requires_manual_evidence_review",
+    "text_file": "database/milestone2/evidence/exact_19242F_17dc900bdc7274c0be37.txt",
+    "linked_document_candidates": []
+  },
+  {
+    "roll": "15132B",
+    "capture": {
+      "timestamp": "20260315084142",
+      "original": "https://www.haroldboysdalkey.ie/copy-of-teachers-2024-2025-1",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "GXNYFH3R5M74XQCQEOA7HE7QFVE4J3TD"
+    },
+    "original_url": "https://www.haroldboysdalkey.ie/copy-of-teachers-2024-2025-1",
+    "archived_url": "https://web.archive.org/web/20260315084142/https://www.haroldboysdalkey.ie/copy-of-teachers-2024-2025-1",
+    "attempted_at": "2026-11-08T12:44:41.516777+00:00",
+    "linked_from_capture": null,
+    "http_status": 200,
+    "headers": {
+      "Content-Type": "text/html; charset=UTF-8",
+      "memento-datetime": "Sun, 15 Mar 2026 08:41:42 GMT"
+    },
+    "bytes": 533391,
+    "payload_sha256": "1efb8172e2b703143f016d63670a537c450902eca8b3f4e14ec3dbdb3fdcd7ef",
+    "format": "html",
+    "status": "archived_body_retrieved_requires_manual_evidence_review",
+    "text_file": "database/milestone2/evidence/exact_15132B_1efb8172e2b703143f01.txt",
+    "linked_document_candidates": [
+      {
+        "url": "https://www.haroldboysdalkey.ie/_files/ugd/7ce6f8_c536f50f59b9483cadc1f263a2c399e0.pdf",
+        "label": "Annual Admissions Notice"
+      }
+    ]
+  },
+  {
+    "roll": "15132B",
+    "capture": {
+      "timestamp": "20241125134529",
+      "original": "https://www.haroldboysdalkey.ie/_files/ugd/7ce6f8_c536f50f59b9483cadc1f263a2c399e0.pdf",
+      "linked_from_capture": "https://web.archive.org/web/20250215105523/https://www.haroldboysdalkey.ie/_files/ugd/7ce6f8_c536f50f59b9483cadc1f263a2c399e0.pdf"
+    },
+    "original_url": "https://www.haroldboysdalkey.ie/_files/ugd/7ce6f8_c536f50f59b9483cadc1f263a2c399e0.pdf",
+    "archived_url": "https://web.archive.org/web/20241125134529/https://www.haroldboysdalkey.ie/_files/ugd/7ce6f8_c536f50f59b9483cadc1f263a2c399e0.pdf",
+    "attempted_at": "2026-11-08T12:44:36.408882+00:00",
+    "linked_from_capture": "https://web.archive.org/web/20250215105523/https://www.haroldboysdalkey.ie/_files/ugd/7ce6f8_c536f50f59b9483cadc1f263a2c399e0.pdf",
+    "http_status": 200,
+    "headers": {
+      "Content-Type": "application/pdf",
+      "memento-datetime": "Mon, 25 Nov 2024 13:45:29 GMT"
+    },
+    "bytes": 102547,
+    "payload_sha256": "4daedc1937537b9191cee86ece427c907db8f6289bf6ab9cf87a2fb78a745579",
+    "format": "pdf",
+    "source_file": "database/milestone2/cache/4daedc1937537b9191cee86ece427c907db8f6289bf6ab9cf87a2fb78a745579.pdf",
+    "parse_stderr": "",
+    "status": "archived_body_retrieved_requires_manual_evidence_review",
+    "text_file": "database/milestone2/evidence/exact_15132B_4daedc1937537b9191ce.txt",
+    "linked_document_candidates": []
+  }
+]

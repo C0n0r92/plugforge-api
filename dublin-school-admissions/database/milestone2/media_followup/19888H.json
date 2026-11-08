@@ -1,0 +1,152 @@
+{
+  "roll": "19888H",
+  "attempted_at": "2026-11-08T13:14:18+0000",
+  "method": "documented_public_WordPress_media_notice_and_Irish_title_gap_search",
+  "attempts": [
+    {
+      "url": "https://stannesshankill.com/wp-json/wp/v2/media?search=notice&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok"
+    },
+    {
+      "url": "https://stannesshankill.com/wp-json/wp/v2/media?search=f%C3%B3gra&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok"
+    },
+    {
+      "url": "https://stannesshankill.com/wp-content/uploads/2023/08/Annual-Admission-Notice-St-Annes-N.S.-2024.pdf",
+      "status": "ok",
+      "label": "Annual Admission Notice St Anne&#8217;s N.S. 2024"
+    },
+    {
+      "url": "https://stannesshankill.com/wp-content/uploads/2023/12/Annual-Admission-Notice-St-Annes-N.S.-2024-1.pdf",
+      "status": "ok",
+      "label": "Annual Admission Notice St Anne&#8217;s N.S. 2024 (1)"
+    },
+    {
+      "url": "https://stannesshankill.com/wp-content/uploads/2024/04/Annual-Admission-Notice-Autism-Class.pdf",
+      "status": "ok",
+      "label": "Annual Admission Notice (Autism Class)"
+    },
+    {
+      "url": "https://stannesshankill.com/wp-content/uploads/2024/09/Annual-Admission-Notice-St-Annes-N.S.-2025.pdf",
+      "status": "ok",
+      "label": "Annual Admission Notice St Anne&#8217;s N.S. 2025"
+    },
+    {
+      "url": "https://stannesshankill.com/wp-content/uploads/2024/10/Annual-Admission-Notice-St-Annes-N.S.-2025.pdf",
+      "status": "ok",
+      "label": "Annual Admission Notice St Anne&#8217;s N.S. 2025"
+    },
+    {
+      "url": "https://stannesshankill.com/wp-content/uploads/2025/09/Annual-Admission-Notice-St-Annes-N.S.-2026-2027-.docx.pdf",
+      "status": "ok",
+      "label": "Annual Admission Notice St Anne&#8217;s N.S. 2026 &#8211; 2027 .docx"
+    },
+    {
+      "url": "https://stannesshankill.com/wp-content/uploads/2025/10/Annual-Admission-Notice-St-Annes-N.S.-2026-2027-.docx-1.pdf",
+      "status": "ok",
+      "label": "Annual Admission Notice St Anne&#8217;s N.S. 2026 &#8211; 2027 .docx (1)"
+    },
+    {
+      "url": "https://stannesshankill.com/wp-content/uploads/2026/09/Annual-Admission-Notice-St-Annes-N.S.-2026-2027-.docx-1-1.pdf",
+      "status": "ok",
+      "label": "Annual Admission Notice St Anne&#8217;s N.S. 2026 &#8211; 2027 .docx (1) (1)"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19888H",
+      "url": "https://stannesshankill.com/wp-content/uploads/2023/08/Annual-Admission-Notice-St-Annes-N.S.-2024.pdf",
+      "label": "Annual Admission Notice St Anne&#8217;s N.S. 2024",
+      "sha256": "8fa2d53c0025058f472c4ff62860e641de7b63983f9714e3c1c2a5cd1415f4aa",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19888H_8fa2d53c0025058f472c.txt",
+      "source_file": "database/milestone2/cache/8fa2d53c0025058f472c4ff62860e641de7b63983f9714e3c1c2a5cd1415f4aa.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 2526,
+      "discovery_method": "documented_WP_notice_or_Irish_title_media_query",
+      "cms_media_date_as_printed_not_publication": "2023-08-29T22:11:08"
+    },
+    {
+      "roll": "19888H",
+      "url": "https://stannesshankill.com/wp-content/uploads/2023/12/Annual-Admission-Notice-St-Annes-N.S.-2024-1.pdf",
+      "label": "Annual Admission Notice St Anne&#8217;s N.S. 2024 (1)",
+      "sha256": "5054fd52c37d9e9541214c6b29693b481e58e1fa25c93da4e9859fac06b54275",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19888H_5054fd52c37d9e954121.txt",
+      "source_file": "database/milestone2/cache/5054fd52c37d9e9541214c6b29693b481e58e1fa25c93da4e9859fac06b54275.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 2622,
+      "discovery_method": "documented_WP_notice_or_Irish_title_media_query",
+      "cms_media_date_as_printed_not_publication": "2023-12-04T22:48:39"
+    },
+    {
+      "roll": "19888H",
+      "url": "https://stannesshankill.com/wp-content/uploads/2024/04/Annual-Admission-Notice-Autism-Class.pdf",
+      "label": "Annual Admission Notice (Autism Class)",
+      "sha256": "12bf9d92268601c4c129c52054a43d3d6bed3f39b5f001e72fcbd5e91bf7285a",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19888H_12bf9d92268601c4c129.txt",
+      "source_file": "database/milestone2/cache/12bf9d92268601c4c129c52054a43d3d6bed3f39b5f001e72fcbd5e91bf7285a.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 782,
+      "discovery_method": "documented_WP_notice_or_Irish_title_media_query",
+      "cms_media_date_as_printed_not_publication": "2024-04-25T22:08:14"
+    },
+    {
+      "roll": "19888H",
+      "url": "https://stannesshankill.com/wp-content/uploads/2024/09/Annual-Admission-Notice-St-Annes-N.S.-2025.pdf",
+      "label": "Annual Admission Notice St Anne&#8217;s N.S. 2025",
+      "sha256": "8bdfabca68ec02ffef4dc4f8216f485e792f734d6e21f0b1977c9172450f6ccc",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19888H_8bdfabca68ec02ffef4d.txt",
+      "source_file": "database/milestone2/cache/8bdfabca68ec02ffef4dc4f8216f485e792f734d6e21f0b1977c9172450f6ccc.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 4638,
+      "discovery_method": "documented_WP_notice_or_Irish_title_media_query",
+      "cms_media_date_as_printed_not_publication": "2024-09-02T19:07:59"
+    },
+    {
+      "roll": "19888H",
+      "url": "https://stannesshankill.com/wp-content/uploads/2024/10/Annual-Admission-Notice-St-Annes-N.S.-2025.pdf",
+      "label": "Annual Admission Notice St Anne&#8217;s N.S. 2025",
+      "sha256": "861935e5dfe04cb67dcdac3cca27af4b161f04f28a75a845e51bcfd76d13e3a7",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19888H_861935e5dfe04cb67dcd.txt",
+      "source_file": "database/milestone2/cache/861935e5dfe04cb67dcdac3cca27af4b161f04f28a75a845e51bcfd76d13e3a7.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 4638,
+      "discovery_method": "documented_WP_notice_or_Irish_title_media_query",
+      "cms_media_date_as_printed_not_publication": "2024-10-24T09:33:01"
+    },
+    {
+      "roll": "19888H",
+      "url": "https://stannesshankill.com/wp-content/uploads/2025/09/Annual-Admission-Notice-St-Annes-N.S.-2026-2027-.docx.pdf",
+      "label": "Annual Admission Notice St Anne&#8217;s N.S. 2026 &#8211; 2027 .docx",
+      "sha256": "a62067414a99ba680896a90e182e7d9e1d2b1eda89fc0976e322707c2c3feb5d",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19888H_a62067414a99ba680896.txt",
+      "source_file": "database/milestone2/cache/a62067414a99ba680896a90e182e7d9e1d2b1eda89fc0976e322707c2c3feb5d.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 5356,
+      "discovery_method": "documented_WP_notice_or_Irish_title_media_query",
+      "cms_media_date_as_printed_not_publication": "2025-09-30T14:02:47"
+    },
+    {
+      "roll": "19888H",
+      "url": "https://stannesshankill.com/wp-content/uploads/2026/09/Annual-Admission-Notice-St-Annes-N.S.-2026-2027-.docx-1-1.pdf",
+      "label": "Annual Admission Notice St Anne&#8217;s N.S. 2026 &#8211; 2027 .docx (1) (1)",
+      "sha256": "f2980fcd0d925b3e5fdb63836b66a4c676d70caf9c1a398b6ba92b64971829fa",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19888H_f2980fcd0d925b3e5fdb.txt",
+      "source_file": "database/milestone2/cache/f2980fcd0d925b3e5fdb63836b66a4c676d70caf9c1a398b6ba92b64971829fa.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 5621,
+      "discovery_method": "documented_WP_notice_or_Irish_title_media_query",
+      "cms_media_date_as_printed_not_publication": "2026-09-04T19:06:56"
+    }
+  ],
+  "pending_links": [],
+  "earliest_year_cutoff": null,
+  "status": "attempted_new_historical_notice_candidates",
+  "elapsed_seconds": 33.1
+}

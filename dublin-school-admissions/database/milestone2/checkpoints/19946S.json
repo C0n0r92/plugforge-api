@@ -1,0 +1,294 @@
+{
+  "roll": "19946S",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.rutlandns.ie/enrolment/",
+      "final_url": "https://www.rutlandns.ie/enrolment/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Enrolment"
+    },
+    {
+      "url": "https://www.rutlandns.ie/wp-content/uploads/2026/10/Application-for-Enrolment-form-Junior-Infants.docx.pdf",
+      "final_url": "https://www.rutlandns.ie/wp-content/uploads/2026/10/Application-for-Enrolment-form-Junior-Infants.docx.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Application for Enrolment form – Junior Infants.docx"
+    },
+    {
+      "url": "https://www.rutlandns.ie/wp-content/uploads/2017/02/Enrolment-Policy.doc",
+      "final_url": "https://www.rutlandns.ie/wp-content/uploads/2017/02/Enrolment-Policy.doc",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Enrolment Policy"
+    },
+    {
+      "url": "https://www.rutlandns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://www.rutlandns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://www.rutlandns.ie/?s=admission",
+      "final_url": "https://www.rutlandns.ie/?s=admission",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Public site search form"
+    },
+    {
+      "url": "https://www.rutlandns.ie/videos-for-parents/",
+      "final_url": "https://www.rutlandns.ie/videos-for-parents/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Videos for Parents"
+    },
+    {
+      "url": "https://www.rutlandns.ie/tag/parents/",
+      "final_url": "https://www.rutlandns.ie/tag/parents/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents"
+    },
+    {
+      "url": "https://www.rutlandns.ie/policies/complaints-procedure-for-parents/",
+      "final_url": "https://www.rutlandns.ie/policies/complaints-procedure-for-parents/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Complaints procedure for parents"
+    },
+    {
+      "url": "https://www.rutlandns.ie/policies/code-of-behaviour/",
+      "final_url": "https://www.rutlandns.ie/policies/code-of-behaviour/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Code of Behaviour"
+    },
+    {
+      "url": "https://www.rutlandns.ie/policies/child-safeguarding-statement/",
+      "final_url": "https://www.rutlandns.ie/policies/child-safeguarding-statement/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Child Safeguarding Statement"
+    },
+    {
+      "url": "https://www.rutlandns.ie/policies/",
+      "final_url": "https://www.rutlandns.ie/policies/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.rutlandns.ie/parents/whats-on-for-parents/",
+      "final_url": "https://www.rutlandns.ie/parents/whats-on-for-parents/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Sports & Fitness for Parents"
+    },
+    {
+      "url": "https://www.rutlandns.ie/parents/parents-association/",
+      "final_url": "https://www.rutlandns.ie/parents/parents-association/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents’ Association"
+    },
+    {
+      "url": "https://www.rutlandns.ie/parents/lego-with-your-kid-workshops/",
+      "final_url": "https://www.rutlandns.ie/parents/lego-with-your-kid-workshops/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Past events"
+    },
+    {
+      "url": "https://www.rutlandns.ie/parents/10411-2/",
+      "final_url": "https://www.rutlandns.ie/parents/10411-2/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Tuesday Morning Parents Group"
+    },
+    {
+      "url": "https://www.rutlandns.ie/parents/",
+      "final_url": "https://www.rutlandns.ie/parents/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents"
+    },
+    {
+      "url": "https://www.rutlandns.ie/enrolment-ceremony-6th-class/",
+      "final_url": "https://www.rutlandns.ie/enrolment-ceremony-6th-class/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions/policy URL from public sitemap"
+    },
+    {
+      "url": "https://www.rutlandns.ie/confirmation-enrolement-ceremony/",
+      "final_url": "https://www.rutlandns.ie/confirmation-enrolement-ceremony/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions/policy URL from public sitemap"
+    },
+    {
+      "url": "https://www.rutlandns.ie/wp-content/uploads/2013/04/Enrolement-ceremony-0013.jpg",
+      "final_url": "https://www.rutlandns.ie/wp-content/uploads/2013/04/Enrolement-ceremony-0013.jpg",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.rutlandns.ie/confirmation-and-enrolement-ceremony/",
+      "final_url": "https://www.rutlandns.ie/confirmation-and-enrolement-ceremony/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions/policy URL from public sitemap"
+    },
+    {
+      "url": "https://www.rutlandns.ie/category/parents/",
+      "final_url": "https://www.rutlandns.ie/category/parents/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents"
+    },
+    {
+      "url": "https://www.rutlandns.ie/thank-you-parents/si-2011/",
+      "final_url": "https://www.rutlandns.ie/thank-you-parents/si-2011/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.rutlandns.ie/thank-you-parents/si-2011-d/",
+      "final_url": "https://www.rutlandns.ie/thank-you-parents/si-2011-d/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.rutlandns.ie/thank-you-parents/si-2011-c/",
+      "final_url": "https://www.rutlandns.ie/thank-you-parents/si-2011-c/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19946S",
+      "url": "https://www.rutlandns.ie/enrolment/",
+      "label": "Enrolment",
+      "sha256": "b14e6cdae94ba532fdb55e9c49c3d955410d72909b6222d676ec216f6ffaa80c",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19946S_b14e6cdae94ba532fdb5.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 384
+    },
+    {
+      "roll": "19946S",
+      "url": "https://www.rutlandns.ie/wp-content/uploads/2017/02/Enrolment-Policy.doc",
+      "label": "Enrolment Policy",
+      "sha256": "331c77a64561144983c1b38da10c433efef281e7a0367d3b5c1354c3b95daf42",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19946S_331c77a64561144983c1.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 18106
+    },
+    {
+      "roll": "19946S",
+      "url": "https://www.rutlandns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "label": "Oldest public admission media (all dates)",
+      "sha256": "de574e0649a5106bc2bb1cb35c84698cf5c1bb425b46a254bf1fba26923b9bf4",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19946S_de574e0649a5106bc2bb.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1957
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.rutlandns.ie/thank-you-parents/2nd-2011-d/",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.rutlandns.ie/thank-you-parents/2nd-2011-c/",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.rutlandns.ie/thank-you-parents/cimg0014-3/",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.rutlandns.ie/thank-you-parents/cimg0011-2/",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.rutlandns.ie/thank-you-parents/cimg0010/",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.rutlandns.ie/thank-you-parents/cimg0007-2/",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.rutlandns.ie/thank-you-parents/cimg0006-3/",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.rutlandns.ie/thank-you-parents/cimg0003-5/",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.rutlandns.ie/thank-you-parents/cimg0001-5/",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.rutlandns.ie/thank-you-parents/",
+      "label": "Thank You Parents!",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.rutlandns.ie/creative-masks-6th-class-parents/",
+      "label": "Creative masks 6th class & Parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.rutlandns.ie",
+      "label": "School homepage",
+      "via": "home"
+    },
+    {
+      "url": "https://rutlandns.ie/sitemap.xml",
+      "label": "Public sitemap",
+      "via": "sitemap_root"
+    },
+    {
+      "url": "https://www.rutlandns.ie/policies/first-aid-administration-of-medication-policy/",
+      "label": "First Aid (Administration of Medication) Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.rutlandns.ie/policies/care-team-policy/",
+      "label": "Care Team Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.rutlandns.ie/policies/attendance-policy/",
+      "label": "Attendance Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 93.67,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:35:48+0000"
+}

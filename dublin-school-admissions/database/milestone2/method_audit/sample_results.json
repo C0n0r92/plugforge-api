@@ -1,0 +1,573 @@
+{
+  "at": "2026-11-08T13:24:34.854660+00:00",
+  "selection": {
+    "selection_rule": "First 10 ascending-roll schools without a milestone1 retrospective numeric group, not previously exact-index/replay-tested, with accessible attempted own-site checkpoint and payload-verified admission-looking notice URL. Prefer HTML, otherwise lexicographic notice URL. Selection frozen before archive outcomes. Use first successful previously public-linked admissions HTML landing, where available, to recover older outgoing documents; otherwise verified notice URL. No invented paths.",
+    "sample": [
+      {
+        "roll": "00714P",
+        "original_url": "https://storage.googleapis.com/iclasscrm_files/4756/Images/Content/2026/282/xe91-Annual_Admissions_Notice_2027_and_2028.pdf",
+        "media_type": "pdf",
+        "landing_url": "https://www.stmarysbnslucan.com/page/Admissions/355589/Index.html"
+      },
+      {
+        "roll": "01795A",
+        "original_url": "https://www.centralmodelinfantschool.ie/Content/2025/10/yt97-Annual_Admission_Notice_2025__26.docx",
+        "media_type": "docx",
+        "landing_url": null
+      },
+      {
+        "roll": "09492W",
+        "original_url": "https://www.balscadden.com/cmsfiles/items/downloads/9134-AdmissionsNoticeBNSJI2027.docx",
+        "media_type": "docx",
+        "landing_url": "https://www.balscadden.com/news/admissions-notice-bns-ji-2027pdf/"
+      },
+      {
+        "roll": "10494K",
+        "original_url": "https://www.allsaintsnsblackrock.com/admissions",
+        "media_type": "html",
+        "landing_url": "https://www.allsaintsnsblackrock.com/admissions"
+      },
+      {
+        "roll": "13447Q",
+        "original_url": "https://storage.googleapis.com/iclasscrm_files/4769/Images/Content/2026/273/dg12-Annual_Admissions_Notice_Oct._2027.2028.docx.pdf",
+        "media_type": "pdf",
+        "landing_url": "https://www.smgnslucan.com/Page/Admissions/47022/Index.html"
+      },
+      {
+        "roll": "14556D",
+        "original_url": "https://static1.squarespace.com/static/6703eac3e9990d357ee3a58f/t/68d132b00bcc162d4dabcdbb/1758540464142/2.+Admission+Notice+South+City++CNS.pdf",
+        "media_type": "pdf",
+        "landing_url": "https://www.southcitycns.ie/admissions"
+      },
+      {
+        "roll": "15056L",
+        "original_url": "https://stvincentsgns.weebly.com/uploads/2/3/3/3/23339672/annual_admissions_notice_2026-2027.docx",
+        "media_type": "docx",
+        "landing_url": "https://stvincentsgns.weebly.com/enrolment.html"
+      },
+      {
+        "roll": "16675V",
+        "original_url": "https://stlukesns.ie/wp-content/uploads/2026/09/Annual-Admission-Notice-St.-Lukes-NS-2027-2028.pdf",
+        "media_type": "pdf",
+        "landing_url": null
+      },
+      {
+        "roll": "16695E",
+        "original_url": "https://www.brunnerprimary.ie/_files/ugd/2d1e22_f1ffcffc42d647458121bb95a2d83bf2.docx?dn=_Admissions%20notice%202026-2027.docx",
+        "media_type": "docx",
+        "landing_url": "https://www.brunnerprimary.ie/admissions"
+      },
+      {
+        "roll": "16759E",
+        "original_url": "https://storage.googleapis.com/siteassetsswd/531/letter/11/20251127114802_32_9669-AnnualAdmissionsNotice2026-2027JuniorInfants.pdf",
+        "media_type": "pdf",
+        "landing_url": null
+      }
+    ]
+  },
+  "attempted_schools": 3,
+  "results": [
+    {
+      "roll": "00714P",
+      "original_url": "https://storage.googleapis.com/iclasscrm_files/4756/Images/Content/2026/282/xe91-Annual_Admissions_Notice_2027_and_2028.pdf",
+      "media_type": "pdf",
+      "landing_url": "https://www.stmarysbnslucan.com/page/Admissions/355589/Index.html",
+      "target_url": "https://www.stmarysbnslucan.com/page/Admissions/355589/Index.html",
+      "started_at": "2026-11-08T13:23:37.247162+00:00",
+      "captures_replayed": [
+        {
+          "roll": "00714P",
+          "capture": {
+            "original": "https://www.stmarysbnslucan.com/page/Admissions/355589/Index.html",
+            "timestamp": "20251108063120",
+            "availability_url": "http://web.archive.org/web/20251108063120/https://stmarysbnslucan.com/page/Admissions/355589/Index.html"
+          },
+          "original_url": "https://www.stmarysbnslucan.com/page/Admissions/355589/Index.html",
+          "archived_url": "https://web.archive.org/web/20251108063120/https://www.stmarysbnslucan.com/page/Admissions/355589/Index.html",
+          "attempted_at": "2026-11-08T13:23:39.028542+00:00",
+          "linked_from_capture": null,
+          "http_status": 200,
+          "headers": {
+            "Content-Type": "text/html; charset=utf-8",
+            "memento-datetime": "Sat, 08 Nov 2025 06:31:20 GMT"
+          },
+          "bytes": 54289,
+          "payload_sha256": "b92da701cdda836373eceb2ff5bb1fd1c225fe047632ebc31b2b5ba6800b53dd",
+          "source_file": "database/milestone2/cache/b92da701cdda836373eceb2ff5bb1fd1c225fe047632ebc31b2b5ba6800b53dd.html",
+          "format": "html",
+          "status": "archived_body_retrieved_requires_manual_evidence_review",
+          "text_file": "database/milestone2/evidence/exact_00714P_b92da701cdda836373ec.txt",
+          "linked_document_candidates": []
+        },
+        {
+          "roll": "00714P",
+          "capture": {
+            "timestamp": "20251108063120",
+            "original": "https://stmarysbnslucan.com/page/Admissions/355589/Index.html",
+            "mimetype": "text/html",
+            "statuscode": "200",
+            "digest": "6RDB7BTFE42RSP74CDCX5EVUGBEPAU7Z"
+          },
+          "original_url": "https://stmarysbnslucan.com/page/Admissions/355589/Index.html",
+          "archived_url": "https://web.archive.org/web/20251108063120/https://stmarysbnslucan.com/page/Admissions/355589/Index.html",
+          "attempted_at": "2026-11-08T13:23:54.216736+00:00",
+          "linked_from_capture": null,
+          "http_status": 200,
+          "headers": {
+            "Content-Type": "text/html; charset=utf-8",
+            "memento-datetime": "Sat, 08 Nov 2025 06:31:20 GMT"
+          },
+          "bytes": 54160,
+          "payload_sha256": "a59fed8a9895d30bdcf3c94b050c3da171bd975bcb718e72f74396b17ba70245",
+          "source_file": "database/milestone2/cache/a59fed8a9895d30bdcf3c94b050c3da171bd975bcb718e72f74396b17ba70245.html",
+          "format": "html",
+          "status": "archived_body_retrieved_requires_manual_evidence_review",
+          "text_file": "database/milestone2/evidence/exact_00714P_a59fed8a9895d30bdcf3.txt",
+          "linked_document_candidates": []
+        },
+        {
+          "roll": "00714P",
+          "capture": {
+            "timestamp": "20260613181041",
+            "original": "https://www.stmarysbnslucan.com/Page/Admissions/355589/Index.html",
+            "mimetype": "text/html",
+            "statuscode": "200",
+            "digest": "NWVWFFAOATYWAUJDIWKHV6DCW5MK52XU"
+          },
+          "original_url": "https://www.stmarysbnslucan.com/Page/Admissions/355589/Index.html",
+          "archived_url": "https://web.archive.org/web/20260613181041/https://www.stmarysbnslucan.com/Page/Admissions/355589/Index.html",
+          "attempted_at": "2026-11-08T13:23:59.224205+00:00",
+          "linked_from_capture": null,
+          "http_status": 200,
+          "headers": {
+            "Content-Type": "text/html; charset=utf-8",
+            "memento-datetime": "Sat, 13 Jun 2026 18:10:41 GMT"
+          },
+          "bytes": 52241,
+          "payload_sha256": "5ed6b815dc9b38848bef6c2b6b2955eab1b61e89c0e0ebd8f82757c44b1f5960",
+          "source_file": "database/milestone2/cache/5ed6b815dc9b38848bef6c2b6b2955eab1b61e89c0e0ebd8f82757c44b1f5960.html",
+          "format": "html",
+          "status": "archived_body_retrieved_requires_manual_evidence_review",
+          "text_file": "database/milestone2/evidence/exact_00714P_5ed6b815dc9b38848bef.txt",
+          "linked_document_candidates": []
+        }
+      ],
+      "availability": {
+        "url": "https://www.stmarysbnslucan.com/page/Admissions/355589/Index.html",
+        "archived_snapshots": {
+          "closest": {
+            "status": "200",
+            "available": true,
+            "url": "http://web.archive.org/web/20251108063120/https://stmarysbnslucan.com/page/Admissions/355589/Index.html",
+            "timestamp": "20251108063120"
+          }
+        },
+        "timestamp": "20220101"
+      },
+      "index": {
+        "roll": "00714P",
+        "original_url": "https://www.stmarysbnslucan.com/page/Admissions/355589/Index.html",
+        "method": "documented_CDX_exact_URL_all_available_dates",
+        "attempted_at": "2026-11-08T13:23:45.909039+00:00",
+        "params": {
+          "url": "https://www.stmarysbnslucan.com/page/Admissions/355589/Index.html",
+          "matchType": "exact",
+          "output": "json",
+          "fl": "timestamp,original,mimetype,statuscode,digest",
+          "filter": "statuscode:200",
+          "collapse": "digest",
+          "limit": "200",
+          "showResumeKey": "true"
+        },
+        "earliest_year_cutoff": null,
+        "captures": [
+          {
+            "timestamp": "20251108063120",
+            "original": "https://stmarysbnslucan.com/page/Admissions/355589/Index.html",
+            "mimetype": "text/html",
+            "statuscode": "200",
+            "digest": "6RDB7BTFE42RSP74CDCX5EVUGBEPAU7Z"
+          },
+          {
+            "timestamp": "20251110010816",
+            "original": "https://www.stmarysbnslucan.com/page/Admissions/355589/Index.html",
+            "mimetype": "text/html",
+            "statuscode": "200",
+            "digest": "2H4XHGPEQWZ6WBVX3MKMWL4YBVUJXG3I"
+          },
+          {
+            "timestamp": "20251207092203",
+            "original": "https://stmarysbnslucan.com/Page/Admissions/355589/Index.html",
+            "mimetype": "text/html",
+            "statuscode": "200",
+            "digest": "35XCKQZ3GWA3PE4QVV6ML4YNRB24VNAG"
+          },
+          {
+            "timestamp": "20251211031056",
+            "original": "https://www.stmarysbnslucan.com/Page/Admissions/355589/Index.html",
+            "mimetype": "text/html",
+            "statuscode": "200",
+            "digest": "6NIVLOKZOMXZVYWDE2KLJQZE4MYZBEXA"
+          },
+          {
+            "timestamp": "20260124052432",
+            "original": "https://stmarysbnslucan.com/page/Admissions/355589/Index.html",
+            "mimetype": "text/html",
+            "statuscode": "200",
+            "digest": "ML7C4U5SCRXSS4VZX7XRNLTHLS7R4BZX"
+          },
+          {
+            "timestamp": "20260217235502",
+            "original": "https://www.stmarysbnslucan.com/page/Admissions/355589/Index.html",
+            "mimetype": "text/html",
+            "statuscode": "200",
+            "digest": "5FBYBE2U4W5AKI7SYSWNE7Q3GHVORIHT"
+          },
+          {
+            "timestamp": "20260514194512",
+            "original": "https://www.stmarysbnslucan.com/Page/Admissions/355589/Index.html",
+            "mimetype": "text/html",
+            "statuscode": "200",
+            "digest": "Z5U63BQW2VB5Y7UCVKPWXVI6CFY7CLNI"
+          },
+          {
+            "timestamp": "20260613181041",
+            "original": "https://www.stmarysbnslucan.com/Page/Admissions/355589/Index.html",
+            "mimetype": "text/html",
+            "statuscode": "200",
+            "digest": "NWVWFFAOATYWAUJDIWKHV6DCW5MK52XU"
+          }
+        ],
+        "pages": [
+          {
+            "at": "2026-11-08T13:23:54.215706+00:00",
+            "http_status": 200,
+            "params": {
+              "url": "https://www.stmarysbnslucan.com/page/Admissions/355589/Index.html",
+              "matchType": "exact",
+              "output": "json",
+              "fl": "timestamp,original,mimetype,statuscode,digest",
+              "filter": "statuscode:200",
+              "collapse": "digest",
+              "limit": "200",
+              "showResumeKey": "true"
+            }
+          }
+        ],
+        "status": "index_complete",
+        "capture_count": 8
+      },
+      "indexed_captures_unreplayed_by_sample": 5,
+      "elapsed_seconds": 26.715,
+      "finished_at": "2026-11-08T13:24:03.962473+00:00"
+    },
+    {
+      "roll": "01795A",
+      "original_url": "https://www.centralmodelinfantschool.ie/Content/2025/10/yt97-Annual_Admission_Notice_2025__26.docx",
+      "media_type": "docx",
+      "landing_url": null,
+      "target_url": "https://www.centralmodelinfantschool.ie/Content/2025/10/yt97-Annual_Admission_Notice_2025__26.docx",
+      "started_at": "2026-11-08T13:24:03.962719+00:00",
+      "captures_replayed": [],
+      "availability": {
+        "url": "https://www.centralmodelinfantschool.ie/Content/2025/10/yt97-Annual_Admission_Notice_2025__26.docx",
+        "archived_snapshots": {},
+        "timestamp": "20220101"
+      },
+      "index": {
+        "roll": "01795A",
+        "original_url": "https://www.centralmodelinfantschool.ie/Content/2025/10/yt97-Annual_Admission_Notice_2025__26.docx",
+        "method": "documented_CDX_exact_URL_all_available_dates",
+        "attempted_at": "2026-11-08T13:24:09.036085+00:00",
+        "params": {
+          "url": "https://www.centralmodelinfantschool.ie/Content/2025/10/yt97-Annual_Admission_Notice_2025__26.docx",
+          "matchType": "exact",
+          "output": "json",
+          "fl": "timestamp,original,mimetype,statuscode,digest",
+          "filter": "statuscode:200",
+          "collapse": "digest",
+          "limit": "200",
+          "showResumeKey": "true"
+        },
+        "earliest_year_cutoff": null,
+        "captures": [],
+        "pages": [
+          {
+            "at": "2026-11-08T13:24:14.927380+00:00",
+            "http_status": 200,
+            "params": {
+              "url": "https://www.centralmodelinfantschool.ie/Content/2025/10/yt97-Annual_Admission_Notice_2025__26.docx",
+              "matchType": "exact",
+              "output": "json",
+              "fl": "timestamp,original,mimetype,statuscode,digest",
+              "filter": "statuscode:200",
+              "collapse": "digest",
+              "limit": "200",
+              "showResumeKey": "true"
+            }
+          }
+        ],
+        "status": "index_complete",
+        "capture_count": 0
+      },
+      "indexed_captures_unreplayed_by_sample": 0,
+      "elapsed_seconds": 10.966,
+      "finished_at": "2026-11-08T13:24:14.928389+00:00"
+    },
+    {
+      "roll": "09492W",
+      "original_url": "https://www.balscadden.com/cmsfiles/items/downloads/9134-AdmissionsNoticeBNSJI2027.docx",
+      "media_type": "docx",
+      "landing_url": "https://www.balscadden.com/news/admissions-notice-bns-ji-2027pdf/",
+      "target_url": "https://www.balscadden.com/news/admissions-notice-bns-ji-2027pdf/",
+      "started_at": "2026-11-08T13:24:14.928743+00:00",
+      "captures_replayed": [
+        {
+          "roll": "09492W",
+          "capture": {
+            "original": "https://www.balscadden.com/news/admissions-notice-bns-ji-2027pdf/",
+            "timestamp": "20261002174259",
+            "availability_url": "http://web.archive.org/web/20261002174259/https://www.balscadden.com/news/admissions-notice-bns-ji-2027pdf/"
+          },
+          "original_url": "https://www.balscadden.com/news/admissions-notice-bns-ji-2027pdf/",
+          "archived_url": "https://web.archive.org/web/20261002174259/https://www.balscadden.com/news/admissions-notice-bns-ji-2027pdf/",
+          "attempted_at": "2026-11-08T13:24:19.567871+00:00",
+          "linked_from_capture": null,
+          "http_status": 200,
+          "headers": {
+            "Content-Type": "text/html; charset=UTF-8",
+            "memento-datetime": "Fri, 02 Oct 2026 17:42:59 GMT"
+          },
+          "bytes": 25208,
+          "payload_sha256": "8a4eac1388b10fcea574c622cc6cf025d0798fd53600484c601c2bd059aa14f2",
+          "source_file": "database/milestone2/cache/8a4eac1388b10fcea574c622cc6cf025d0798fd53600484c601c2bd059aa14f2.html",
+          "format": "html",
+          "status": "archived_body_retrieved_requires_manual_evidence_review",
+          "text_file": "database/milestone2/evidence/exact_09492W_8a4eac1388b10fcea574.txt",
+          "linked_document_candidates": []
+        }
+      ],
+      "availability": {
+        "url": "https://www.balscadden.com/news/admissions-notice-bns-ji-2027pdf/",
+        "archived_snapshots": {
+          "closest": {
+            "status": "200",
+            "available": true,
+            "url": "http://web.archive.org/web/20261002174259/https://www.balscadden.com/news/admissions-notice-bns-ji-2027pdf/",
+            "timestamp": "20261002174259"
+          }
+        },
+        "timestamp": "20220101"
+      },
+      "index": {
+        "roll": "09492W",
+        "original_url": "https://www.balscadden.com/news/admissions-notice-bns-ji-2027pdf/",
+        "method": "documented_CDX_exact_URL_all_available_dates",
+        "attempted_at": "2026-11-08T13:24:24.645384+00:00",
+        "params": {
+          "url": "https://www.balscadden.com/news/admissions-notice-bns-ji-2027pdf/",
+          "matchType": "exact",
+          "output": "json",
+          "fl": "timestamp,original,mimetype,statuscode,digest",
+          "filter": "statuscode:200",
+          "collapse": "digest",
+          "limit": "200",
+          "showResumeKey": "true"
+        },
+        "earliest_year_cutoff": null,
+        "captures": [
+          {
+            "timestamp": "20261002174259",
+            "original": "https://www.balscadden.com/news/admissions-notice-bns-ji-2027pdf/",
+            "mimetype": "text/html",
+            "statuscode": "200",
+            "digest": "JALUEBUA4LJ2YRQDQ2HXUHSK4AMK2SEN"
+          }
+        ],
+        "pages": [
+          {
+            "at": "2026-11-08T13:24:30.752401+00:00",
+            "http_status": 200,
+            "params": {
+              "url": "https://www.balscadden.com/news/admissions-notice-bns-ji-2027pdf/",
+              "matchType": "exact",
+              "output": "json",
+              "fl": "timestamp,original,mimetype,statuscode,digest",
+              "filter": "statuscode:200",
+              "collapse": "digest",
+              "limit": "200",
+              "showResumeKey": "true"
+            }
+          }
+        ],
+        "status": "index_complete",
+        "capture_count": 1
+      },
+      "indexed_captures_unreplayed_by_sample": 0,
+      "elapsed_seconds": 15.825,
+      "finished_at": "2026-11-08T13:24:30.753296+00:00"
+    }
+  ],
+  "requests": [
+    {
+      "at": "2026-11-08T13:23:39.028203+00:00",
+      "school_roll": "00714P",
+      "stage": "availability_exact_URL",
+      "url": "https://archive.org/wayback/available?url=https%3A%2F%2Fwww.stmarysbnslucan.com%2Fpage%2FAdmissions%2F355589%2FIndex.html&timestamp=20220101",
+      "params": {
+        "url": "https://www.stmarysbnslucan.com/page/Admissions/355589/Index.html",
+        "timestamp": "20220101"
+      },
+      "elapsed_total_seconds": 1.781,
+      "response_elapsed_seconds": 1.779611,
+      "http_status": 200,
+      "error": null
+    },
+    {
+      "at": "2026-11-08T13:23:45.826470+00:00",
+      "school_roll": "00714P",
+      "stage": "actual_archived_body",
+      "url": "https://web.archive.org/web/20251108063120/https://www.stmarysbnslucan.com/page/Admissions/355589/Index.html",
+      "params": null,
+      "elapsed_total_seconds": 6.798,
+      "response_elapsed_seconds": 2.996945,
+      "http_status": 200,
+      "error": null
+    },
+    {
+      "at": "2026-11-08T13:23:54.215575+00:00",
+      "school_roll": "00714P",
+      "stage": "CDX_exact_URL_all_available_dates",
+      "url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.stmarysbnslucan.com%2Fpage%2FAdmissions%2F355589%2FIndex.html&matchType=exact&output=json&fl=timestamp%2Coriginal%2Cmimetype%2Cstatuscode%2Cdigest&filter=statuscode%3A200&collapse=digest&limit=200&showResumeKey=true",
+      "params": {
+        "url": "https://www.stmarysbnslucan.com/page/Admissions/355589/Index.html",
+        "matchType": "exact",
+        "output": "json",
+        "fl": "timestamp,original,mimetype,statuscode,digest",
+        "filter": "statuscode:200",
+        "collapse": "digest",
+        "limit": "200",
+        "showResumeKey": "true"
+      },
+      "elapsed_total_seconds": 8.306,
+      "response_elapsed_seconds": 4.588153,
+      "http_status": 200,
+      "error": null
+    },
+    {
+      "at": "2026-11-08T13:23:59.212439+00:00",
+      "school_roll": "00714P",
+      "stage": "actual_archived_body",
+      "url": "https://web.archive.org/web/20251108063120/https://stmarysbnslucan.com/page/Admissions/355589/Index.html",
+      "params": null,
+      "elapsed_total_seconds": 4.996,
+      "response_elapsed_seconds": 1.195689,
+      "http_status": 200,
+      "error": null
+    },
+    {
+      "at": "2026-11-08T13:24:03.950328+00:00",
+      "school_roll": "00714P",
+      "stage": "actual_archived_body",
+      "url": "https://web.archive.org/web/20260613181041/https://www.stmarysbnslucan.com/Page/Admissions/355589/Index.html",
+      "params": null,
+      "elapsed_total_seconds": 4.726,
+      "response_elapsed_seconds": 0.936681,
+      "http_status": 200,
+      "error": null
+    },
+    {
+      "at": "2026-11-08T13:24:09.035081+00:00",
+      "school_roll": "01795A",
+      "stage": "availability_exact_URL",
+      "url": "https://archive.org/wayback/available?url=https%3A%2F%2Fwww.centralmodelinfantschool.ie%2FContent%2F2025%2F10%2Fyt97-Annual_Admission_Notice_2025__26.docx&timestamp=20220101",
+      "params": {
+        "url": "https://www.centralmodelinfantschool.ie/Content/2025/10/yt97-Annual_Admission_Notice_2025__26.docx",
+        "timestamp": "20220101"
+      },
+      "elapsed_total_seconds": 5.072,
+      "response_elapsed_seconds": 1.283872,
+      "http_status": 200,
+      "error": null
+    },
+    {
+      "at": "2026-11-08T13:24:14.927257+00:00",
+      "school_roll": "01795A",
+      "stage": "CDX_exact_URL_all_available_dates",
+      "url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.centralmodelinfantschool.ie%2FContent%2F2025%2F10%2Fyt97-Annual_Admission_Notice_2025__26.docx&matchType=exact&output=json&fl=timestamp%2Coriginal%2Cmimetype%2Cstatuscode%2Cdigest&filter=statuscode%3A200&collapse=digest&limit=200&showResumeKey=true",
+      "params": {
+        "url": "https://www.centralmodelinfantschool.ie/Content/2025/10/yt97-Annual_Admission_Notice_2025__26.docx",
+        "matchType": "exact",
+        "output": "json",
+        "fl": "timestamp,original,mimetype,statuscode,digest",
+        "filter": "statuscode:200",
+        "collapse": "digest",
+        "limit": "200",
+        "showResumeKey": "true"
+      },
+      "elapsed_total_seconds": 5.891,
+      "response_elapsed_seconds": 2.091132,
+      "http_status": 200,
+      "error": null
+    },
+    {
+      "at": "2026-11-08T13:24:19.566747+00:00",
+      "school_roll": "09492W",
+      "stage": "availability_exact_URL",
+      "url": "https://archive.org/wayback/available?url=https%3A%2F%2Fwww.balscadden.com%2Fnews%2Fadmissions-notice-bns-ji-2027pdf%2F&timestamp=20220101",
+      "params": {
+        "url": "https://www.balscadden.com/news/admissions-notice-bns-ji-2027pdf/",
+        "timestamp": "20220101"
+      },
+      "elapsed_total_seconds": 4.638,
+      "response_elapsed_seconds": 0.838353,
+      "http_status": 200,
+      "error": null
+    },
+    {
+      "at": "2026-11-08T13:24:24.599018+00:00",
+      "school_roll": "09492W",
+      "stage": "actual_archived_body",
+      "url": "https://web.archive.org/web/20261002174259/https://www.balscadden.com/news/admissions-notice-bns-ji-2027pdf/",
+      "params": null,
+      "elapsed_total_seconds": 5.031,
+      "response_elapsed_seconds": 1.227652,
+      "http_status": 200,
+      "error": null
+    },
+    {
+      "at": "2026-11-08T13:24:30.752261+00:00",
+      "school_roll": "09492W",
+      "stage": "CDX_exact_URL_all_available_dates",
+      "url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.balscadden.com%2Fnews%2Fadmissions-notice-bns-ji-2027pdf%2F&matchType=exact&output=json&fl=timestamp%2Coriginal%2Cmimetype%2Cstatuscode%2Cdigest&filter=statuscode%3A200&collapse=digest&limit=200&showResumeKey=true",
+      "params": {
+        "url": "https://www.balscadden.com/news/admissions-notice-bns-ji-2027pdf/",
+        "matchType": "exact",
+        "output": "json",
+        "fl": "timestamp,original,mimetype,statuscode,digest",
+        "filter": "statuscode:200",
+        "collapse": "digest",
+        "limit": "200",
+        "showResumeKey": "true"
+      },
+      "elapsed_total_seconds": 6.106,
+      "response_elapsed_seconds": 2.352494,
+      "http_status": 200,
+      "error": null
+    },
+    {
+      "at": "2026-11-08T13:24:34.853828+00:00",
+      "school_roll": "10494K",
+      "stage": "availability_exact_URL",
+      "url": "https://archive.org/wayback/available",
+      "params": {
+        "url": "https://www.allsaintsnsblackrock.com/admissions",
+        "timestamp": "20220101"
+      },
+      "elapsed_total_seconds": 4.1,
+      "response_elapsed_seconds": null,
+      "http_status": null,
+      "error": null
+    }
+  ]
+}

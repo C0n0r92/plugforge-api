@@ -1,0 +1,195 @@
+{
+  "roll": "19819L",
+  "status": "bounded_search_no_new_notice_found",
+  "attempts": [
+    {
+      "url": "https://www.stlaurenceotooless.ie/",
+      "final_url": "https://www.stlaurenceotooless.ie/",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.stlaurenceotooless.ie/sitemap.xml",
+      "final_url": "https://www.stlaurenceotooless.ie/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.stlaurenceotooless.ie/policies/",
+      "final_url": "https://www.stlaurenceotooless.ie/policies/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.stlaurenceotooless.ie/policies/?googletranslate=true",
+      "final_url": "https://www.stlaurenceotooless.ie/policies/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stlaurenceotooless.ie/documentlink/37/?open=true&download=true",
+      "final_url": "https://swdcache.b-cdn.net/708/docletter/20261015120141_48_Child_Safeguarding_Risk_Assessment.docx",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stlaurenceotooless.ie/documentlink/36/?open=true&download=true",
+      "final_url": "https://swdcache.b-cdn.net/708/docletter/20260325104620_31_20260325105136359.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stlaurenceotooless.ie/documentlink/35/?open=true&download=true",
+      "final_url": "https://swdcache.b-cdn.net/708/docletter/20260325104538_43_20260325105053305.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stlaurenceotooless.ie/documentlink/34/?open=true&download=true",
+      "final_url": "https://swdcache.b-cdn.net/708/docletter/20251106084722_88_Bi_Cinealta_Policy.docx",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stlaurenceotooless.ie/documentlink/33/?open=true&download=true",
+      "final_url": "https://swdcache.b-cdn.net/708/docletter/20250213110728_59_temporary_code_of_behaviour.docx",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stlaurenceotooless.ie/documentlink/31/?open=true&download=true",
+      "final_url": "https://swdcache.b-cdn.net/708/docletter/20220627031315_23_chool_Ethos_.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stlaurenceotooless.ie/documentlink/28/?open=true&download=true",
+      "final_url": "https://swdcache.b-cdn.net/708/docletter/20220627024412_43_Statement_of_Strategy_for_School_Attendance.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stlaurenceotooless.ie/documentlink/27/?open=true&download=true",
+      "final_url": "https://swdcache.b-cdn.net/708/docletter/20220627023749_14_SPHE_Policy.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stlaurenceotooless.ie/documentlink/25/?open=true&download=true",
+      "final_url": "https://swdcache.b-cdn.net/708/docletter/20220627023332_48_Assessment_pol_st.lot.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stlaurenceotooless.ie/documentlink/23/?open=true&download=true",
+      "final_url": "https://swdcache.b-cdn.net/708/docletter/20220627023050_34_Admission_Policy_Stl_Laurence_O-_Toole-s_Special_School_1_.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stlaurenceotooless.ie/documentlink/23/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/708/docletter/20220627023050_34_Admission_Policy_Stl_Laurence_O-_Toole-s_Special_School_1_.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Admission Policy"
+    },
+    {
+      "url": "https://www.stlaurenceotooless.ie/documentlink/22/?open=true&download=true",
+      "final_url": "https://swdcache.b-cdn.net/708/docletter/20220627022941_35_Acceptable_Internet_and_General_Computer_Use_Policy.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stlaurenceotooless.ie/admin/?open=/policies/?googletranslate=true",
+      "final_url": "https://www.stlaurenceotooless.ie/admin/?open=/policies/?googletranslate=true",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.stlaurenceotooless.ie/admin/?open=/policies/",
+      "final_url": "https://www.stlaurenceotooless.ie/admin/?open=/policies/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.stlaurenceotooless.ie/documentlink/37/?open=true",
+      "final_url": "https://view.officeapps.live.com/op/embed.aspx?src=https://swddoc.b-cdn.net/708/docletter/20261015120141_48_Child_Safeguarding_Risk_Assessment.docx",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Child Safeguarding Policy and Risk Assessment"
+    },
+    {
+      "url": "https://www.stlaurenceotooless.ie/documentlink/36/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/708/docletter/20260325104620_31_20260325105136359.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Dignity at Work Policy"
+    },
+    {
+      "url": "https://www.stlaurenceotooless.ie/documentlink/35/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/708/docletter/20260325104538_43_20260325105053305.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Wellbeing Policy"
+    },
+    {
+      "url": "https://www.stlaurenceotooless.ie/documentlink/34/?open=true",
+      "final_url": "https://view.officeapps.live.com/op/embed.aspx?src=https://swddoc.b-cdn.net/708/docletter/20251106084722_88_Bi_Cinealta_Policy.docx",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Bi Cinealta Policy.docx"
+    },
+    {
+      "url": "https://www.stlaurenceotooless.ie/documentlink/27/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/708/docletter/20220627023749_14_SPHE_Policy.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "SPHE Policy"
+    },
+    {
+      "url": "https://www.stlaurenceotooless.ie/documentlink/25/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/708/docletter/20220627023332_48_Assessment_pol_st.lot.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Assessment Policy"
+    }
+  ],
+  "documents": [],
+  "pending_links": [
+    {
+      "url": "https://www.stlaurenceotooless.ie/documentlink/22/?open=true",
+      "label": "Acceptable Internet and General Computer Use Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stlaurenceotooless.ie/cmsfiles/policies/privacy/",
+      "label": "Website Privacy Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stlaurenceotooless.ie/cmsfiles/policies/cookie/",
+      "label": "Cookie Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 69.71,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:09:21+0000"
+}

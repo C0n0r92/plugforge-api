@@ -1,0 +1,227 @@
+{
+  "roll": "19743E",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://stbernadettesjns.com/wp-content/uploads/2021/02/admissions-notice-pg2.png",
+      "final_url": "https://stbernadettesjns.com/wp-content/uploads/2021/02/admissions-notice-pg2.png",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "admissions-notice-pg2"
+    },
+    {
+      "url": "https://stbernadettesjns.com/wp-content/uploads/2021/02/admissions-notice-pg1.png",
+      "final_url": "https://stbernadettesjns.com/wp-content/uploads/2021/02/admissions-notice-pg1.png",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "admissions-notice-pg1"
+    },
+    {
+      "url": "https://stbernadettesjns.com/wp-content/uploads/2021/02/admissions-notice-pg1-1.png",
+      "final_url": "https://stbernadettesjns.com/wp-content/uploads/2021/02/admissions-notice-pg1-1.png",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "admissions-notice-pg1-1"
+    },
+    {
+      "url": "https://stbernadettesjns.com/admissions-2/admissions/",
+      "final_url": "https://stbernadettesjns.com/admissions-2/admissions/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions Notice 2027-2028"
+    },
+    {
+      "url": "https://stbernadettesjns.com/wp-content/uploads/2022/01/school-admissions.jpg",
+      "final_url": "https://stbernadettesjns.com/wp-content/uploads/2022/01/school-admissions.jpg",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "school-admissions"
+    },
+    {
+      "url": "https://stbernadettesjns.com/wp-content/uploads/2026/10/admission-pic-e1604523895759.jpg",
+      "final_url": "https://stbernadettesjns.com/wp-content/uploads/2026/10/admission-pic-e1604523895759.jpg",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "admission-pic-e1604523895759"
+    },
+    {
+      "url": "https://stbernadettesjns.com/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://stbernadettesjns.com/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://stbernadettesjns.com/admissions-2/admissions/?share=twitter",
+      "final_url": "https://x.com/intent/tweet?text=Admissions%20Notice%202027-2028&url=https%3A%2F%2Fstbernadettesjns.com%2Fadmissions-2%2Fadmissions%2F",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Share on X (Opens in new window) X"
+    },
+    {
+      "url": "https://stbernadettesjns.com/admissions-2/admissions/?replytocom=86",
+      "final_url": "https://stbernadettesjns.com/admissions-2/admissions/?replytocom=86",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Reply"
+    },
+    {
+      "url": "https://stbernadettesjns.com/admissions-2/admissions/?replytocom=85",
+      "final_url": "https://stbernadettesjns.com/admissions-2/admissions/?replytocom=85",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Reply"
+    },
+    {
+      "url": "https://stbernadettesjns.com/admissions-2/",
+      "final_url": "https://stbernadettesjns.com/admissions-2/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://stbernadettesjns.com/admissions-2/?share=twitter",
+      "final_url": "https://x.com/intent/tweet?text=Admissions&url=https%3A%2F%2Fstbernadettesjns.com%2Fadmissions-2%2F",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Share on X (Opens in new window) X"
+    },
+    {
+      "url": "https://stbernadettesjns.com/wp-content/uploads/2021/02/stbjns-admissions-policy-feb-2021.pdf",
+      "final_url": "https://stbernadettesjns.com/wp-content/uploads/2021/02/stbjns-admissions-policy-feb-2021.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "stbjns-admissions-policy-feb-2021"
+    },
+    {
+      "url": "https://stbernadettesjns.com/wp-content/uploads/2021/02/stbjns-admissions-policy-feb-2021-1.pdf",
+      "final_url": "https://stbernadettesjns.com/wp-content/uploads/2021/02/stbjns-admissions-policy-feb-2021-1.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "stbjns-admissions-policy-feb-2021-1"
+    },
+    {
+      "url": "https://stbernadettesjns.com/wp-content/uploads/2023/03/stbjns-admissions-policy-december-2022.pdf",
+      "final_url": "https://stbernadettesjns.com/wp-content/uploads/2023/03/stbjns-admissions-policy-december-2022.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "stbjns-admissions-policy-december-2022"
+    },
+    {
+      "url": "https://stbernadettesjns.com/wp-content/uploads/2023/03/stbjns-admissions-policy-december-2022-1.pdf",
+      "final_url": "https://stbernadettesjns.com/wp-content/uploads/2023/03/stbjns-admissions-policy-december-2022-1.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "stbjns-admissions-policy-december-2022-1"
+    },
+    {
+      "url": "https://stbernadettesjns.com/wp-content/uploads/2022/12/stbjns-admissions-policy-december-2022.pdf",
+      "final_url": "https://stbernadettesjns.com/wp-content/uploads/2022/12/stbjns-admissions-policy-december-2022.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "stbjns-admissions-policy-december-2022"
+    },
+    {
+      "url": "https://stbernadettesjns.com/wp-content/uploads/2023/11/stbjns-admissions-policy-june-2023.pdf",
+      "final_url": "https://stbernadettesjns.com/wp-content/uploads/2023/11/stbjns-admissions-policy-june-2023.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "stbjns-admissions-policy-june-2023"
+    },
+    {
+      "url": "https://stbernadettesjns.com/wp-content/uploads/2025/10/stbjns-admissions-policy-october-2025.pdf",
+      "final_url": "https://stbernadettesjns.com/wp-content/uploads/2025/10/stbjns-admissions-policy-october-2025.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "STBJNS Admissions Policy October 2025"
+    },
+    {
+      "url": "https://stbernadettesjns.com/wp-content/uploads/2026/08/stbjns-admissions-policy-july-2026.pdf",
+      "final_url": "https://stbernadettesjns.com/wp-content/uploads/2026/08/stbjns-admissions-policy-july-2026.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "STBJNS Admissions Policy July 2026"
+    },
+    {
+      "url": "https://stbernadettesjns.com/grandparents-day-2024/",
+      "final_url": "https://stbernadettesjns.com/grandparents-day-2024/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Grandparents Day 2024"
+    },
+    {
+      "url": "https://stbernadettesjns.com/grandparents-day-2024/?share=twitter",
+      "final_url": "https://x.com/intent/tweet?text=Grandparents%20Day%202024&url=https%3A%2F%2Fstbernadettesjns.com%2Fgrandparents-day-2024%2F",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Share on X (Opens in new window) X"
+    },
+    {
+      "url": "https://stbernadettesjns.com/grandparents-day-2025-2/",
+      "final_url": "https://stbernadettesjns.com/grandparents-day-2025-2/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Grandparents Day 2025"
+    },
+    {
+      "url": "https://stbernadettesjns.com/grandparents-day-2025-2/?share=twitter",
+      "final_url": "https://x.com/intent/tweet?text=Grandparents%20Day%202025&url=https%3A%2F%2Fstbernadettesjns.com%2Fgrandparents-day-2025-2%2F",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Share on X (Opens in new window) X"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19743E",
+      "url": "https://stbernadettesjns.com/wp-content/uploads/2021/02/stbjns-admissions-policy-feb-2021.pdf",
+      "label": "stbjns-admissions-policy-feb-2021",
+      "sha256": "2847205c406f7f154502dbf35c0220c612b32e90fc81196436de2d6564a119ba",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19743E_2847205c406f7f154502.txt",
+      "source_file": "database/milestone2/cache/2847205c406f7f154502dbf35c0220c612b32e90fc81196436de2d6564a119ba.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 30438
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://stbernadettesjns.com/2025/11/06/september-2026-admissions/",
+      "label": "Admissions/policy URL from public sitemap",
+      "via": "prior_public_admissions_landing"
+    },
+    {
+      "url": "https://stbernadettesjns.com/2026/10/15/september-2027-admissions/",
+      "label": "Admissions/policy URL from public sitemap",
+      "via": "prior_public_admissions_landing"
+    },
+    {
+      "url": "https://stbernadettesjns.com/sitemap.xml",
+      "label": "Public sitemap",
+      "via": "sitemap_root"
+    },
+    {
+      "url": "https://stbernadettesjns.com/policies/",
+      "label": "Policies",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stbernadettesjns.com/news-sitemap.xml",
+      "label": "Public sitemap",
+      "via": "sitemap_root"
+    },
+    {
+      "url": "https://stbernadettesjns.com/admissions-2/application-form/",
+      "label": "Application Form",
+      "via": "prior_public_admissions_landing"
+    },
+    {
+      "url": "https://stbernadettesjns.com/",
+      "label": "School homepage",
+      "via": "home"
+    }
+  ],
+  "elapsed_seconds": 71.4,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:35:13+0000"
+}

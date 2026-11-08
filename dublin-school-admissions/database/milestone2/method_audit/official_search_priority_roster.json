@@ -1,0 +1,402 @@
+[
+  {
+    "roll": "00697S",
+    "name": "St Brigid's NS",
+    "website_url": "https://www.saintbrigids.ie",
+    "years": 2,
+    "metrics": 4,
+    "known_years": "2023/2024,2022/2023"
+  },
+  {
+    "roll": "05933G",
+    "name": "Presentation Primary",
+    "website_url": "https://www.georgeshillschool.ie",
+    "years": 2,
+    "metrics": 4,
+    "known_years": "2025/2026,2026/2027"
+  },
+  {
+    "roll": "09492W",
+    "name": "St Benignus National School ",
+    "website_url": "https://www.balscadden.com",
+    "years": 2,
+    "metrics": 4,
+    "known_years": "2026/2027,2027/2028"
+  },
+  {
+    "roll": "10653E",
+    "name": "St Laurence's National School",
+    "website_url": "https://www.stlaurenceschapelizod.com/",
+    "years": 2,
+    "metrics": 4,
+    "known_years": "2025/2026,2026/2027"
+  },
+  {
+    "roll": "11873A",
+    "name": "Rathmichael N S",
+    "website_url": "https://rathmichaelschool.com/",
+    "years": 2,
+    "metrics": 4,
+    "known_years": "2027/2028,2026/2027"
+  },
+  {
+    "roll": "14647G",
+    "name": "St. Patrick's NS",
+    "website_url": "https://www.stpatricksnsdalkey.ie",
+    "years": 2,
+    "metrics": 4,
+    "known_years": "2026/2027,2027/2028"
+  },
+  {
+    "roll": "14717B",
+    "name": "Rathgar N S",
+    "website_url": "https://rathgarns.ie",
+    "years": 1,
+    "metrics": 4,
+    "known_years": "2026/2027"
+  },
+  {
+    "roll": "15056L",
+    "name": "St Vincents Girls NS",
+    "website_url": "https://stvincentsgns.weebly.com",
+    "years": 1,
+    "metrics": 5,
+    "known_years": "2024/2025"
+  },
+  {
+    "roll": "15284B",
+    "name": "Taney Parish School",
+    "website_url": "https://www.taneyschool.ie/",
+    "years": 2,
+    "metrics": 4,
+    "known_years": "2027/2028,2026/2027"
+  },
+  {
+    "roll": "15618E",
+    "name": "Sandford N S",
+    "website_url": "https://www.sandfordparishns.com",
+    "years": 2,
+    "metrics": 5,
+    "known_years": "2027/2028,2026/2027"
+  },
+  {
+    "roll": "16352U",
+    "name": "St Brigids Boys N S",
+    "website_url": "https://www.stbrigids.ie",
+    "years": 2,
+    "metrics": 4,
+    "known_years": "2026/2027,2027/2028"
+  },
+  {
+    "roll": "16844S",
+    "name": "Scoil N. Breandan / St. Brendan's National School",
+    "website_url": "https://www.loughshinnyns.ie",
+    "years": 2,
+    "metrics": 7,
+    "known_years": "2026/2027,2027/2028"
+  },
+  {
+    "roll": "16893I",
+    "name": "St Laurences Boys NS",
+    "website_url": "https://www.stlaurencesbns.ie/",
+    "years": 2,
+    "metrics": 4,
+    "known_years": "2027/2028,2026/2027"
+  },
+  {
+    "roll": "17954H",
+    "name": "Oatlands Primary school",
+    "website_url": "https://www.oatlandsprimaryschool.ie/",
+    "years": 2,
+    "metrics": 4,
+    "known_years": "2024/2025,2025/2026"
+  },
+  {
+    "roll": "17978V",
+    "name": "Naiscoil Ide",
+    "website_url": "https://www.naiscoilide.ie",
+    "years": 2,
+    "metrics": 4,
+    "known_years": "2026/2027,2027/2028"
+  },
+  {
+    "roll": "18282M",
+    "name": "Sn Paroiste Maitiu Nfa",
+    "website_url": "https://www.stmatts.ie/",
+    "years": 2,
+    "metrics": 4,
+    "known_years": "2026/2027,2027/2028"
+  },
+  {
+    "roll": "18370J",
+    "name": "Enable Ireland Sandymount School",
+    "website_url": "https://www.sandymountschool.ie/",
+    "years": 2,
+    "metrics": 4,
+    "known_years": "2026/2027,2027/2028"
+  },
+  {
+    "roll": "18569J",
+    "name": "St Declans Special Sch",
+    "website_url": "https://stdeclans.ie",
+    "years": 2,
+    "metrics": 4,
+    "known_years": "2026/2027,2025/2026"
+  },
+  {
+    "roll": "18969C",
+    "name": "St Eithnes Senior G N S",
+    "website_url": "https://steithnes.com/",
+    "years": 2,
+    "metrics": 4,
+    "known_years": "2026/2027,2025/2026"
+  },
+  {
+    "roll": "19039I",
+    "name": "St Vincent's Special School",
+    "website_url": "https://stvincentsspecialschool.ie",
+    "years": 2,
+    "metrics": 4,
+    "known_years": "2027/2028,2026/2027"
+  },
+  {
+    "roll": "19066L",
+    "name": "Loreto Primary School",
+    "website_url": "https://www.loretopsdalkey.ie",
+    "years": 2,
+    "metrics": 4,
+    "known_years": "2026/2027,2027/2028"
+  },
+  {
+    "roll": "19303W",
+    "name": "Virgin Mary Girls NS",
+    "website_url": "https://www.virginmarygns.ie/",
+    "years": 1,
+    "metrics": 5,
+    "known_years": "2026/2027"
+  },
+  {
+    "roll": "19316I",
+    "name": "St Pauls Hospital Special School",
+    "website_url": "https://stpaulsspecialschool.ie",
+    "years": 2,
+    "metrics": 5,
+    "known_years": "2027/2028,2026/2027"
+  },
+  {
+    "roll": "19321B",
+    "name": "Our Lady of Good Counsel G N S",
+    "website_url": "https://www.johnstowngns.com",
+    "years": 2,
+    "metrics": 4,
+    "known_years": "2026/2027,2027/2028"
+  },
+  {
+    "roll": "19374W",
+    "name": "Our Lady's Grove Primary School",
+    "website_url": "https://www.ourladysgrove.ie",
+    "years": 2,
+    "metrics": 4,
+    "known_years": "2027/2028,2026/2027"
+  },
+  {
+    "roll": "19454U",
+    "name": "Our Lady Immaculate JNS",
+    "website_url": "https://www.ourladyimmaculatejns.ie",
+    "years": 2,
+    "metrics": 5,
+    "known_years": "2025/2026,2023/2024"
+  },
+  {
+    "roll": "19471U",
+    "name": "St Pauls Junior National School",
+    "website_url": "https://www.stpaulsjns.ie/",
+    "years": 2,
+    "metrics": 5,
+    "known_years": "2027/2028,2026/2027"
+  },
+  {
+    "roll": "19489Q",
+    "name": "St Finian's NS",
+    "website_url": "https://saintfinians.ie/",
+    "years": 2,
+    "metrics": 4,
+    "known_years": "2022/2023,2027/2028"
+  },
+  {
+    "roll": "19505L",
+    "name": "Scoil Oilibheir",
+    "website_url": "https://www.gaelscoiloilibheir.ie",
+    "years": 2,
+    "metrics": 4,
+    "known_years": "2027/2028,2026/2027"
+  },
+  {
+    "roll": "19556F",
+    "name": "St Killians N.S",
+    "website_url": "https://www.stkiliansjns.ie/",
+    "years": 2,
+    "metrics": 5,
+    "known_years": "2026/2027,2027/2028"
+  },
+  {
+    "roll": "19574H",
+    "name": "Divine Word  NS",
+    "website_url": "https://www.divinewordns.ie",
+    "years": 2,
+    "metrics": 4,
+    "known_years": "2026/2027,2027/2028"
+  },
+  {
+    "roll": "19617W",
+    "name": "St Martin De Porres NS",
+    "website_url": "https://www.smdpns.com",
+    "years": 2,
+    "metrics": 4,
+    "known_years": "2025/2026,2026/2027"
+  },
+  {
+    "roll": "19707A",
+    "name": "St Ronans N S",
+    "website_url": "https://www.stronans.ie",
+    "years": 2,
+    "metrics": 4,
+    "known_years": "2026/2027,2027/2028"
+  },
+  {
+    "roll": "19742C",
+    "name": "St Colmcille Senior N S",
+    "website_url": "https://www.stcolmcilles.org",
+    "years": 1,
+    "metrics": 4,
+    "known_years": "2025/2026"
+  },
+  {
+    "roll": "19764M",
+    "name": "Our Lady Of Wayside N S",
+    "website_url": "https://olwie.wordpress.com",
+    "years": 2,
+    "metrics": 4,
+    "known_years": "2026/2027,2025/2026"
+  },
+  {
+    "roll": "19920A",
+    "name": "St John Of God N S",
+    "website_url": "https://www.stjohnofgodartane.com/",
+    "years": 1,
+    "metrics": 4,
+    "known_years": "2026/2027"
+  },
+  {
+    "roll": "20012S",
+    "name": "Griffith Barracks N S",
+    "website_url": "https://www.griffithbarracks.ie",
+    "years": 2,
+    "metrics": 4,
+    "known_years": "2026/2027,2027/2028"
+  },
+  {
+    "roll": "20035H",
+    "name": "St Gabriel's NS   D7",
+    "website_url": "https://stgabrielsns.ie",
+    "years": 2,
+    "metrics": 4,
+    "known_years": "2026/2027,2027/2028"
+  },
+  {
+    "roll": "20098I",
+    "name": "Castleknock Educate Together NS",
+    "website_url": "https://www.cetns.ie/",
+    "years": 2,
+    "metrics": 4,
+    "known_years": "2026/2027,2027/2028"
+  },
+  {
+    "roll": "20130B",
+    "name": "St Patricks NS",
+    "website_url": "https://stpatricksns.ie",
+    "years": 2,
+    "metrics": 5,
+    "known_years": "2026/2027,2027/2028"
+  },
+  {
+    "roll": "20141G",
+    "name": "The Harold School",
+    "website_url": "https://www.theharoldschool.ie",
+    "years": 2,
+    "metrics": 5,
+    "known_years": "2026/2027,2027/2028"
+  },
+  {
+    "roll": "20194E",
+    "name": "St John the Evangelist National School",
+    "website_url": "https://stjohntheevangelistnationalschool.com/",
+    "years": 2,
+    "metrics": 4,
+    "known_years": "2026/2027,2027/2028"
+  },
+  {
+    "roll": "20274C",
+    "name": "Esker Educate Together NS",
+    "website_url": "https://www.eskeretns.ie",
+    "years": 2,
+    "metrics": 4,
+    "known_years": "2027/2028,2026/2027"
+  },
+  {
+    "roll": "20378O",
+    "name": "St Kevin's Special School",
+    "website_url": "https://www.abacasspecialschool.ie",
+    "years": 2,
+    "metrics": 4,
+    "known_years": "2025/2026,2026/2027"
+  },
+  {
+    "roll": "20402I",
+    "name": "Citywest Educate Together NS",
+    "website_url": "https://www.citywestetns.ie",
+    "years": 2,
+    "metrics": 4,
+    "known_years": "2027/2028,2026/2027"
+  },
+  {
+    "roll": "20463F",
+    "name": "Holy Spirit JPS",
+    "website_url": "https://www.holyspiritjps.com",
+    "years": 2,
+    "metrics": 5,
+    "known_years": "2026/2027,2025/2026"
+  },
+  {
+    "roll": "20468P",
+    "name": "St Dominics NS",
+    "website_url": "https://stdominicsnationalschool.wordpress.com",
+    "years": 2,
+    "metrics": 4,
+    "known_years": "2025/2026,2027/2028"
+  },
+  {
+    "roll": "20503O",
+    "name": "Dun Laoghaire Educate Together NS",
+    "website_url": "https://dleducatetogether.ie/",
+    "years": 2,
+    "metrics": 5,
+    "known_years": "2025/2026,2027/2028"
+  },
+  {
+    "roll": "20525B",
+    "name": "Killester Raheny Clontarf ETNS",
+    "website_url": "https://www.educatetogether.ie",
+    "years": 2,
+    "metrics": 4,
+    "known_years": "2021/2022,2020/2021"
+  },
+  {
+    "roll": "20572K",
+    "name": "An Cosan Community Special School",
+    "website_url": "https://www.ancosancss.ie/",
+    "years": 2,
+    "metrics": 4,
+    "known_years": "2026/2027,2025/2026"
+  }
+]

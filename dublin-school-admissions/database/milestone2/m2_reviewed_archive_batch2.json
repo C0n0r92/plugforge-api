@@ -1,0 +1,2326 @@
+[
+  {
+    "roll": "20397S",
+    "url": "https://stlouisesprimaryschool.ie/2022/12/01/annual-admission-notice/",
+    "sha256": "fb2ca9db179c697de40eeadfecda96c3b909bc8c42e718a08098f67c3f775c95",
+    "format": "html",
+    "text_file": "database/milestone2/evidence/exact_20397S_fb2ca9db179c697de40e.txt",
+    "source_file": null,
+    "retrieval_url": "https://web.archive.org/web/20230131230944/https://stlouisesprimaryschool.ie/2022/12/01/annual-admission-notice/",
+    "capture_timestamp": "20230131230944",
+    "retrieved_at": "2026-11-08T12:54:51.868375+00:00",
+    "memento_datetime_header": "Tue, 31 Jan 2023 23:09:44 GMT",
+    "groups": [
+      {
+        "title": "2023/2024",
+        "year": "2023/2024",
+        "cohort": "Junior Infants",
+        "metrics": {
+          "places": 40
+        },
+        "lo": 14,
+        "hi": 43,
+        "notes": "",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2023/2024",
+        "year": "2023/2024",
+        "cohort": "ASD special class",
+        "metrics": {
+          "places": 2
+        },
+        "lo": 14,
+        "hi": 43,
+        "notes": "",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      }
+    ]
+  },
+  {
+    "roll": "20397S",
+    "url": "https://stlouisesprimaryschool.ie/2022/05/24/admission-notice-for-asd-class/",
+    "sha256": "da4e3a854d6dcb6e5021a5596bb7410fc1a8bbab08f1a0b98c3098704db595ec",
+    "format": "html",
+    "text_file": "database/milestone2/evidence/exact_20397S_da4e3a854d6dcb6e5021.txt",
+    "source_file": null,
+    "retrieval_url": "https://web.archive.org/web/20220630214508/https://stlouisesprimaryschool.ie/2022/05/24/admission-notice-for-asd-class/",
+    "capture_timestamp": "20220630214508",
+    "retrieved_at": "2026-11-08T12:54:45.879658+00:00",
+    "memento_datetime_header": "Thu, 30 Jun 2022 21:45:08 GMT",
+    "groups": [
+      {
+        "title": "2022/2023",
+        "year": "2022/2023",
+        "cohort": "ASD special class",
+        "metrics": {
+          "places": 6
+        },
+        "lo": 15,
+        "hi": 40,
+        "notes": "",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      }
+    ]
+  },
+  {
+    "roll": "20397S",
+    "url": "https://stlouisesprimaryschool.ie/2022/05/24/admission-notice-for-asd-class/",
+    "sha256": "22f54b7b1e0ea09fef626503593d0adc7debae17fa87eb2a7c0503cf64ffef9a",
+    "format": "html",
+    "text_file": "database/milestone2/evidence/exact_20397S_22f54b7b1e0ea09fef62.txt",
+    "source_file": null,
+    "retrieval_url": "https://web.archive.org/web/20230325095826/https://stlouisesprimaryschool.ie/2022/05/24/admission-notice-for-asd-class/",
+    "capture_timestamp": "20230325095826",
+    "retrieved_at": "2026-11-08T12:55:01.925945+00:00",
+    "memento_datetime_header": "Sat, 25 Mar 2023 09:58:26 GMT",
+    "groups": [
+      {
+        "title": "2022/2023",
+        "year": "2022/2023",
+        "cohort": "ASD special class",
+        "metrics": {
+          "places": 6
+        },
+        "lo": 15,
+        "hi": 40,
+        "notes": "",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      }
+    ]
+  },
+  {
+    "roll": "19302U",
+    "url": "https://www.virginmarybns.ie/",
+    "sha256": "af0552386f0f211d7a98a10761b89644662b950123e91477dc38dc17aace81eb",
+    "format": "html",
+    "text_file": "database/milestone2/evidence/exact_19302U_af0552386f0f211d7a98.txt",
+    "source_file": null,
+    "retrieval_url": "https://web.archive.org/web/20240304184343/https://www.virginmarybns.ie/",
+    "capture_timestamp": "20240304184343",
+    "retrieved_at": "2026-11-08T12:50:42.687493+00:00",
+    "memento_datetime_header": "Mon, 04 Mar 2024 18:43:43 GMT",
+    "groups": [
+      {
+        "title": "2024/2025",
+        "year": "2024/2025",
+        "cohort": "Junior Infants",
+        "metrics": {
+          "places": 22
+        },
+        "lo": 194,
+        "hi": 225,
+        "notes": "",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2024/2025",
+        "year": "2024/2025",
+        "cohort": "Early Start preschool",
+        "metrics": {
+          "places": 30
+        },
+        "lo": 194,
+        "hi": 225,
+        "notes": "30 is printed aggregate;15 morning/15 afternoon not counted as additional school places.",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2024/2025",
+        "year": null,
+        "cohort": "ASD special class",
+        "metrics": {
+          "places": 0
+        },
+        "lo": 216,
+        "hi": 225,
+        "notes": "ASD capacity header2023/24 conflicts with notice/application2024/25; enrolled6 is not intake capacity.",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "medium"
+      }
+    ]
+  },
+  {
+    "roll": "19302U",
+    "url": "https://www.virginmarybns.ie/",
+    "sha256": "d9852dee6c4bbd895204d822d2d49b1e035bbe3a6fa9e70ad7c62e71e9ba62be",
+    "format": "html",
+    "text_file": "database/milestone2/evidence/exact_19302U_d9852dee6c4bbd895204.txt",
+    "source_file": null,
+    "retrieval_url": "https://web.archive.org/web/20250120162017/https://www.virginmarybns.ie/",
+    "capture_timestamp": "20250120162017",
+    "retrieved_at": "2026-11-08T12:50:52.778206+00:00",
+    "memento_datetime_header": "Mon, 20 Jan 2025 16:20:17 GMT",
+    "groups": [
+      {
+        "title": "2025/2026",
+        "year": "2025/2026",
+        "cohort": "Junior Infants",
+        "metrics": {
+          "places": 22
+        },
+        "lo": 232,
+        "hi": 244,
+        "notes": "",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2025/2026",
+        "year": "2025/2026",
+        "cohort": "Early Start preschool",
+        "metrics": {
+          "places": 30
+        },
+        "lo": 232,
+        "hi": 244,
+        "notes": "30 is printed aggregate;15 morning/15 afternoon not counted as additional school places.",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2025/2026",
+        "year": "2025/2026",
+        "cohort": "ASD special class",
+        "metrics": {
+          "places": 0
+        },
+        "lo": 232,
+        "hi": 244,
+        "notes": "Explicit no current available ASD places, not zero applications or zero current pupils.",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      }
+    ]
+  },
+  {
+    "roll": "19302U",
+    "url": "https://www.virginmarybns.ie/",
+    "sha256": "b3e1a493f751d3c505e652433309b46b7c7296354f13cc594a1ada479ac98e94",
+    "format": "html",
+    "text_file": "database/milestone2/evidence/exact_19302U_b3e1a493f751d3c505e6.txt",
+    "source_file": null,
+    "retrieval_url": "https://web.archive.org/web/20230204030350/https://www.virginmarybns.ie/",
+    "capture_timestamp": "20230204030350",
+    "retrieved_at": "2026-11-08T12:50:37.310615+00:00",
+    "memento_datetime_header": "Sat, 04 Feb 2023 03:03:50 GMT",
+    "groups": [
+      {
+        "title": "2023/2024",
+        "year": "2023/2024",
+        "cohort": "Junior Infants",
+        "metrics": {
+          "places": 20
+        },
+        "lo": 155,
+        "hi": 186,
+        "notes": "",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2023/2024",
+        "year": "2023/2024",
+        "cohort": "Early Start preschool",
+        "metrics": {
+          "places": 30
+        },
+        "lo": 155,
+        "hi": 186,
+        "notes": "30 is printed aggregate;15 morning/15 afternoon not counted as additional school places.",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2023/2024",
+        "year": "2023/2024",
+        "cohort": "ASD special class",
+        "metrics": {
+          "places": 0
+        },
+        "lo": 155,
+        "hi": 186,
+        "notes": "Explicit no current available ASD places, not zero applications or zero current pupils.",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      }
+    ]
+  },
+  {
+    "roll": "19302U",
+    "url": "https://www.virginmarybns.ie/enrolments.html",
+    "sha256": "572a119026b8c353bb16f02944194151cabbd3e6472185aad97e7794afbeaf5b",
+    "format": "html",
+    "text_file": "database/milestone2/evidence/exact_19302U_572a119026b8c353bb16.txt",
+    "source_file": null,
+    "retrieval_url": "https://web.archive.org/web/20240412133910/https://www.virginmarybns.ie/enrolments.html",
+    "capture_timestamp": "20240412133910",
+    "retrieved_at": "2026-11-08T12:50:47.684525+00:00",
+    "memento_datetime_header": "Fri, 12 Apr 2024 13:39:10 GMT",
+    "groups": [
+      {
+        "title": "2023/2024",
+        "year": "2023/2024",
+        "cohort": "Junior Infants",
+        "metrics": {
+          "places": 20
+        },
+        "lo": 175,
+        "hi": 206,
+        "notes": "",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2023/2024",
+        "year": "2023/2024",
+        "cohort": "Early Start preschool",
+        "metrics": {
+          "places": 30
+        },
+        "lo": 175,
+        "hi": 206,
+        "notes": "30 is printed aggregate;15 morning/15 afternoon not counted as additional school places.",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2023/2024",
+        "year": "2023/2024",
+        "cohort": "ASD special class",
+        "metrics": {
+          "places": 0
+        },
+        "lo": 175,
+        "hi": 206,
+        "notes": "Explicit no current available ASD places, not zero applications or zero current pupils.",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      }
+    ]
+  },
+  {
+    "roll": "19302U",
+    "url": "https://www.virginmarybns.ie/enrolments.html",
+    "sha256": "59cd60159acce4496cd3fe84e126feb6653506ca6eb6949d4e7a0a43fa1dcb0a",
+    "format": "html",
+    "text_file": "database/milestone2/evidence/exact_19302U_59cd60159acce4496cd3.txt",
+    "source_file": null,
+    "retrieval_url": "https://web.archive.org/web/20260117091426/https://www.virginmarybns.ie/enrolments.html",
+    "capture_timestamp": "20260117091426",
+    "retrieved_at": "2026-11-08T12:51:02.834348+00:00",
+    "memento_datetime_header": "Sat, 17 Jan 2026 09:14:26 GMT",
+    "groups": [
+      {
+        "title": "2023/2024",
+        "year": "2023/2024",
+        "cohort": "Junior Infants",
+        "metrics": {
+          "places": 20
+        },
+        "lo": 269,
+        "hi": 300,
+        "notes": "",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2023/2024",
+        "year": "2023/2024",
+        "cohort": "Early Start preschool",
+        "metrics": {
+          "places": 30
+        },
+        "lo": 269,
+        "hi": 300,
+        "notes": "30 is printed aggregate;15 morning/15 afternoon not counted as additional school places.",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2023/2024",
+        "year": "2023/2024",
+        "cohort": "ASD special class",
+        "metrics": {
+          "places": 0
+        },
+        "lo": 269,
+        "hi": 300,
+        "notes": "Explicit no current available ASD places, not zero applications or zero current pupils.",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      }
+    ]
+  },
+  {
+    "roll": "19302U",
+    "url": "https://www.virginmarybns.ie/enrolments.html",
+    "sha256": "7f27af8b9e9529fdf6f121769992beff6972b067c0efffd9a015e0ca61fb68c7",
+    "format": "html",
+    "text_file": "database/milestone2/evidence/exact_19302U_7f27af8b9e9529fdf6f1.txt",
+    "source_file": null,
+    "retrieval_url": "https://web.archive.org/web/20230204013642/https://www.virginmarybns.ie/enrolments.html",
+    "capture_timestamp": "20230204013642",
+    "retrieved_at": "2026-11-08T12:50:32.316321+00:00",
+    "memento_datetime_header": "Sat, 04 Feb 2023 01:36:42 GMT",
+    "groups": [
+      {
+        "title": "2023/2024",
+        "year": "2023/2024",
+        "cohort": "Junior Infants",
+        "metrics": {
+          "places": 20
+        },
+        "lo": 145,
+        "hi": 176,
+        "notes": "",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2023/2024",
+        "year": "2023/2024",
+        "cohort": "Early Start preschool",
+        "metrics": {
+          "places": 30
+        },
+        "lo": 145,
+        "hi": 176,
+        "notes": "30 is printed aggregate;15 morning/15 afternoon not counted as additional school places.",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2023/2024",
+        "year": "2023/2024",
+        "cohort": "ASD special class",
+        "metrics": {
+          "places": 0
+        },
+        "lo": 145,
+        "hi": 176,
+        "notes": "Explicit no current available ASD places, not zero applications or zero current pupils.",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      }
+    ]
+  },
+  {
+    "roll": "19302U",
+    "url": "https://www.virginmarybns.ie/enrolments.html",
+    "sha256": "20ce524d044551f631cdd6177799284a728240c188abc67b371caad4dbbb2d64",
+    "format": "html",
+    "text_file": "database/milestone2/evidence/exact_19302U_20ce524d044551f631cd.txt",
+    "source_file": null,
+    "retrieval_url": "https://web.archive.org/web/20250423010443/https://www.virginmarybns.ie/enrolments.html",
+    "capture_timestamp": "20250423010443",
+    "retrieved_at": "2026-11-08T12:50:58.330663+00:00",
+    "memento_datetime_header": "Wed, 23 Apr 2025 01:04:43 GMT",
+    "groups": [
+      {
+        "title": "2023/2024",
+        "year": "2023/2024",
+        "cohort": "Junior Infants",
+        "metrics": {
+          "places": 20
+        },
+        "lo": 231,
+        "hi": 262,
+        "notes": "",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2023/2024",
+        "year": "2023/2024",
+        "cohort": "Early Start preschool",
+        "metrics": {
+          "places": 30
+        },
+        "lo": 231,
+        "hi": 262,
+        "notes": "30 is printed aggregate;15 morning/15 afternoon not counted as additional school places.",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2023/2024",
+        "year": "2023/2024",
+        "cohort": "ASD special class",
+        "metrics": {
+          "places": 0
+        },
+        "lo": 231,
+        "hi": 262,
+        "notes": "Explicit no current available ASD places, not zero applications or zero current pupils.",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      }
+    ]
+  },
+  {
+    "roll": "19302U",
+    "url": "https://www.virginmarybns.ie/",
+    "sha256": "f05ac11cc2a245a0ee4338cbb426663b12a485246d8b1621e37034b22f691048",
+    "format": "html",
+    "text_file": "database/milestone2/evidence/exact_19302U_f05ac11cc2a245a0ee43.txt",
+    "source_file": null,
+    "retrieval_url": "https://web.archive.org/web/20260117103912/https://www.virginmarybns.ie/",
+    "capture_timestamp": "20260117103912",
+    "retrieved_at": "2026-11-08T12:51:09.908336+00:00",
+    "memento_datetime_header": "Sat, 17 Jan 2026 10:39:12 GMT",
+    "groups": [
+      {
+        "title": "2025/2026",
+        "year": "2025/2026",
+        "cohort": "Junior Infants",
+        "metrics": {
+          "places": 19
+        },
+        "lo": 277,
+        "hi": 307,
+        "notes": "Explicit printed school year retained; dates in2026 do not silently change source2025/26 to2026/27.",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2025/2026",
+        "year": "2025/2026",
+        "cohort": "Early Start preschool",
+        "metrics": {
+          "places": 30
+        },
+        "lo": 277,
+        "hi": 307,
+        "notes": "30 is printed aggregate;15 morning/15 afternoon not counted as additional school places.",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2025/2026",
+        "year": "2025/2026",
+        "cohort": "ASD special class",
+        "metrics": {
+          "places": 0
+        },
+        "lo": 277,
+        "hi": 307,
+        "notes": "Explicit no current available ASD places, not zero applications or zero current pupils.",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      }
+    ]
+  },
+  {
+    "roll": "19473B",
+    "url": "https://scoilbhridedonaghmede.ie/annual-admissions-notice/",
+    "sha256": "d94e7b7e052ee940443e77e9d4690e0841c58f622f85f08d987febbff2993c1e",
+    "format": "html",
+    "text_file": "database/milestone2/evidence/exact_19473B_d94e7b7e052ee940443e.txt",
+    "source_file": null,
+    "retrieval_url": "https://web.archive.org/web/20250113054356/https://scoilbhridedonaghmede.ie/annual-admissions-notice/",
+    "capture_timestamp": "20250113054356",
+    "retrieved_at": "2026-11-08T12:53:25.841957+00:00",
+    "memento_datetime_header": "Mon, 13 Jan 2025 05:43:56 GMT",
+    "groups": [
+      {
+        "title": "2025/2026",
+        "year": "2024/2025",
+        "cohort": "ASD special classes",
+        "metrics": {
+          "places": 3,
+          "applications": 43,
+          "offers": 3,
+          "waiting_list_names_placed": 40
+        },
+        "lo": 64,
+        "hi": 79,
+        "notes": "Printed list count retained even when it is not applications minus offers. Aggregate accepted offers not printed; criterion counts are not summed.",
+        "phase": "retrospective",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2025/2026",
+        "year": "2024/2025",
+        "cohort": "ASD special classes",
+        "metrics": {
+          "offers": {
+            "value": 2,
+            "word": "two"
+          },
+          "acceptances": {
+            "value": 2,
+            "word": "two"
+          }
+        },
+        "lo": 74,
+        "hi": 74,
+        "notes": "Only this explicit admissions criterion, not whole intake.",
+        "phase": "retrospective",
+        "scope": "criterion_2_siblings",
+        "quality": "high"
+      },
+      {
+        "title": "2025/2026",
+        "year": "2024/2025",
+        "cohort": "ASD special classes",
+        "metrics": {
+          "offers": {
+            "value": 1,
+            "word": "one"
+          },
+          "acceptances": {
+            "value": 1,
+            "word": "one"
+          }
+        },
+        "lo": 75,
+        "hi": 75,
+        "notes": "Only this explicit admissions criterion, not whole intake.",
+        "phase": "retrospective",
+        "scope": "criterion_3_parish",
+        "quality": "high"
+      },
+      {
+        "title": "2025/2026",
+        "year": null,
+        "cohort": "Junior Infants",
+        "metrics": {
+          "places": 90
+        },
+        "lo": 18,
+        "hi": 63,
+        "notes": "Title/Part1 differs from capacity printed year (2025/26 versus2024/25; or invalid2023/2023). No guessed year.",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "medium"
+      },
+      {
+        "title": "2025/2026",
+        "year": null,
+        "cohort": "ASD special classes",
+        "metrics": {
+          "places": 1
+        },
+        "lo": 40,
+        "hi": 63,
+        "notes": "Capacity academic-year conflict retained.",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "medium"
+      }
+    ]
+  },
+  {
+    "roll": "19473B",
+    "url": "https://scoilbhridedonaghmede.ie/annual-admissions-notice/",
+    "sha256": "009148215851bec8dc525fff6cfd894bcc08f459c43be6d60cc9bc2194cb7456",
+    "format": "html",
+    "text_file": "database/milestone2/evidence/exact_19473B_009148215851bec8dc52.txt",
+    "source_file": null,
+    "retrieval_url": "https://web.archive.org/web/20230322212242/https://scoilbhridedonaghmede.ie/annual-admissions-notice/",
+    "capture_timestamp": "20230322212242",
+    "retrieved_at": "2026-11-08T12:53:12.435610+00:00",
+    "memento_datetime_header": "Wed, 22 Mar 2023 21:22:42 GMT",
+    "groups": [
+      {
+        "title": "2023/2024",
+        "year": "2022/2023",
+        "cohort": "ASD special classes",
+        "metrics": {
+          "places": 4,
+          "applications": 37,
+          "offers": 4,
+          "waiting_list_names_placed": 7
+        },
+        "lo": 49,
+        "hi": 65,
+        "notes": "Printed list count retained even when it is not applications minus offers. Aggregate accepted offers not printed; criterion counts are not summed.",
+        "phase": "retrospective",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2023/2024",
+        "year": "2022/2023",
+        "cohort": "ASD special classes",
+        "metrics": {
+          "offers": {
+            "value": 1,
+            "word": "one"
+          },
+          "acceptances": {
+            "value": 1,
+            "word": "one"
+          }
+        },
+        "lo": 60,
+        "hi": 60,
+        "notes": "Only this explicit admissions criterion, not whole intake.",
+        "phase": "retrospective",
+        "scope": "criterion_1_existing_mainstream",
+        "quality": "high"
+      },
+      {
+        "title": "2023/2024",
+        "year": "2022/2023",
+        "cohort": "ASD special classes",
+        "metrics": {
+          "offers": {
+            "value": 3,
+            "word": "three"
+          },
+          "acceptances": {
+            "value": 3,
+            "word": "three"
+          }
+        },
+        "lo": 61,
+        "hi": 61,
+        "notes": "Only this explicit admissions criterion, not whole intake.",
+        "phase": "retrospective",
+        "scope": "criterion_3",
+        "quality": "high"
+      },
+      {
+        "title": "2023/2024",
+        "year": null,
+        "cohort": "Junior Infants",
+        "metrics": {
+          "places": 100
+        },
+        "lo": 13,
+        "hi": 48,
+        "notes": "Title/Part1 differs from capacity printed year (2025/26 versus2024/25; or invalid2023/2023). No guessed year.",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "medium"
+      },
+      {
+        "title": "2023/2024",
+        "year": null,
+        "cohort": "ASD special classes",
+        "metrics": {
+          "places": 3
+        },
+        "lo": 28,
+        "hi": 48,
+        "notes": "Capacity academic-year conflict retained.",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "medium"
+      }
+    ]
+  },
+  {
+    "roll": "19473B",
+    "url": "https://scoilbhridedonaghmede.ie/annual-admissions-notice/",
+    "sha256": "19015b60ddcdebc5b265cad557d79a9f2f43d3b6e485baf3f377672cd63aa1ee",
+    "format": "html",
+    "text_file": "database/milestone2/evidence/exact_19473B_19015b60ddcdebc5b265.txt",
+    "source_file": null,
+    "retrieval_url": "https://web.archive.org/web/20240228013433/https://scoilbhridedonaghmede.ie/annual-admissions-notice/",
+    "capture_timestamp": "20240228013433",
+    "retrieved_at": "2026-11-08T12:53:18.209074+00:00",
+    "memento_datetime_header": "Wed, 28 Feb 2024 01:34:33 GMT",
+    "groups": [
+      {
+        "title": "2024/2025",
+        "year": "2023/2024",
+        "cohort": "ASD special classes",
+        "metrics": {
+          "places": 4,
+          "applications": 44,
+          "offers": 4,
+          "waiting_list_names_placed": 11
+        },
+        "lo": 48,
+        "hi": 64,
+        "notes": "Printed list count retained even when it is not applications minus offers. Aggregate accepted offers not printed; criterion counts are not summed.",
+        "phase": "retrospective",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2024/2025",
+        "year": "2023/2024",
+        "cohort": "ASD special classes",
+        "metrics": {
+          "offers": {
+            "value": 1,
+            "word": "one"
+          },
+          "acceptances": {
+            "value": 1,
+            "word": "one"
+          }
+        },
+        "lo": 59,
+        "hi": 59,
+        "notes": "Only this explicit admissions criterion, not whole intake.",
+        "phase": "retrospective",
+        "scope": "criterion_1_existing_mainstream",
+        "quality": "high"
+      },
+      {
+        "title": "2024/2025",
+        "year": "2023/2024",
+        "cohort": "ASD special classes",
+        "metrics": {
+          "offers": {
+            "value": 3,
+            "word": "three"
+          },
+          "acceptances": {
+            "value": 3,
+            "word": "three"
+          }
+        },
+        "lo": 60,
+        "hi": 60,
+        "notes": "Only this explicit admissions criterion, not whole intake.",
+        "phase": "retrospective",
+        "scope": "criterion_3",
+        "quality": "high"
+      },
+      {
+        "title": "2024/2025",
+        "year": "2024/2025",
+        "cohort": "Junior Infants",
+        "metrics": {
+          "places": 100
+        },
+        "lo": 13,
+        "hi": 47,
+        "notes": "",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2024/2025",
+        "year": "2024/2025",
+        "cohort": "ASD special classes",
+        "metrics": {
+          "places": 3
+        },
+        "lo": 28,
+        "hi": 47,
+        "notes": "",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      }
+    ]
+  },
+  {
+    "roll": "19473B",
+    "url": "https://scoilbhridedonaghmede.ie/annual-admissions-notice/",
+    "sha256": "33f10dc839e59c8827555699413f0b73366828296e8aa810156f7b769332bf0d",
+    "format": "html",
+    "text_file": "database/milestone2/evidence/exact_19473B_33f10dc839e59c882755.txt",
+    "source_file": null,
+    "retrieval_url": "https://web.archive.org/web/20220127043108/https://scoilbhridedonaghmede.ie/annual-admissions-notice/",
+    "capture_timestamp": "20220127043108",
+    "retrieved_at": "2026-11-08T12:53:04.371228+00:00",
+    "memento_datetime_header": "Thu, 27 Jan 2022 04:31:08 GMT",
+    "groups": [
+      {
+        "title": "2021/2022",
+        "year": "2020/2021",
+        "cohort": "ASD special classes",
+        "metrics": {
+          "places": 3,
+          "applications": 61,
+          "offers": 4,
+          "waiting_list_names_placed": 57
+        },
+        "lo": 54,
+        "hi": 70,
+        "notes": "Printed list count retained even when it is not applications minus offers. Aggregate accepted offers not printed; criterion counts are not summed.",
+        "phase": "retrospective",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2021/2022",
+        "year": "2020/2021",
+        "cohort": "ASD special classes",
+        "metrics": {
+          "applications": 60
+        },
+        "lo": 58,
+        "hi": 58,
+        "notes": "Intro says60 applications; detailed same-year table61. Preserve conflict and suppress applications consensus.",
+        "phase": "retrospective",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2021/2022",
+        "year": "2020/2021",
+        "cohort": "ASD special classes",
+        "metrics": {
+          "offers": {
+            "value": 1,
+            "word": "one"
+          },
+          "acceptances": {
+            "value": 1,
+            "word": "one"
+          }
+        },
+        "lo": 65,
+        "hi": 65,
+        "notes": "Only this explicit admissions criterion, not whole intake.",
+        "phase": "retrospective",
+        "scope": "criterion_1_existing_mainstream",
+        "quality": "high"
+      },
+      {
+        "title": "2021/2022",
+        "year": "2020/2021",
+        "cohort": "ASD special classes",
+        "metrics": {
+          "offers": {
+            "value": 3,
+            "word": "three"
+          },
+          "acceptances": {
+            "value": 2,
+            "word": "two"
+          }
+        },
+        "lo": 66,
+        "hi": 66,
+        "notes": "Only this explicit admissions criterion, not whole intake.",
+        "phase": "retrospective",
+        "scope": "criterion_3_catchment",
+        "quality": "high"
+      },
+      {
+        "title": "2021/2022",
+        "year": "2020/2021",
+        "cohort": "ASD special classes",
+        "metrics": {
+          "offer_rejections": {
+            "value": 1,
+            "word": "one"
+          }
+        },
+        "lo": 66,
+        "hi": 66,
+        "notes": "One offer explicitly rejected in Criterion3; not inferred withdrawal or admission.",
+        "phase": "retrospective",
+        "scope": "criterion_3_catchment",
+        "quality": "high",
+        "metric_definitions": {
+          "offer_rejections": "An offered place explicitly rejected in this source, cohort/year and criterion; not a waiting-list admission."
+        }
+      },
+      {
+        "title": "2021/2022",
+        "year": "2021/2022",
+        "cohort": "Junior Infants",
+        "metrics": {
+          "places": 100
+        },
+        "lo": 13,
+        "hi": 53,
+        "notes": "",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2021/2022",
+        "year": "2021/2022",
+        "cohort": "ASD special classes",
+        "metrics": {
+          "places": 0
+        },
+        "lo": 33,
+        "hi": 53,
+        "notes": "Zero available unless a child transfers; no invented subsequent movement.",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      }
+    ]
+  },
+  {
+    "roll": "19473B",
+    "url": "https://scoilbhridedonaghmede.ie/annual-admissions-notice/",
+    "sha256": "5c991f0f3eda5ec968af4ed0177568a6582d4ff878e390f10d7a3c82d39b8984",
+    "format": "html",
+    "text_file": "database/milestone2/evidence/exact_19473B_5c991f0f3eda5ec968af.txt",
+    "source_file": null,
+    "retrieval_url": "https://web.archive.org/web/20200924230545/https://scoilbhridedonaghmede.ie/annual-admissions-notice/",
+    "capture_timestamp": "20200924230545",
+    "retrieved_at": "2026-11-08T12:52:53.522839+00:00",
+    "memento_datetime_header": "Thu, 24 Sep 2020 23:05:45 GMT",
+    "groups": [
+      {
+        "title": "2021/2022",
+        "year": "2020/2021",
+        "cohort": "ASD special classes",
+        "metrics": {
+          "places": 3,
+          "applications": 61,
+          "offers": 4,
+          "waiting_list_names_placed": 57
+        },
+        "lo": 54,
+        "hi": 70,
+        "notes": "Printed list count retained even when it is not applications minus offers. Aggregate accepted offers not printed; criterion counts are not summed.",
+        "phase": "retrospective",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2021/2022",
+        "year": "2020/2021",
+        "cohort": "ASD special classes",
+        "metrics": {
+          "applications": 60
+        },
+        "lo": 58,
+        "hi": 58,
+        "notes": "Intro says60 applications; detailed same-year table61. Preserve conflict and suppress applications consensus.",
+        "phase": "retrospective",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2021/2022",
+        "year": "2020/2021",
+        "cohort": "ASD special classes",
+        "metrics": {
+          "offers": {
+            "value": 1,
+            "word": "one"
+          },
+          "acceptances": {
+            "value": 1,
+            "word": "one"
+          }
+        },
+        "lo": 65,
+        "hi": 65,
+        "notes": "Only this explicit admissions criterion, not whole intake.",
+        "phase": "retrospective",
+        "scope": "criterion_1_existing_mainstream",
+        "quality": "high"
+      },
+      {
+        "title": "2021/2022",
+        "year": "2020/2021",
+        "cohort": "ASD special classes",
+        "metrics": {
+          "offers": {
+            "value": 3,
+            "word": "three"
+          },
+          "acceptances": {
+            "value": 2,
+            "word": "two"
+          }
+        },
+        "lo": 66,
+        "hi": 66,
+        "notes": "Only this explicit admissions criterion, not whole intake.",
+        "phase": "retrospective",
+        "scope": "criterion_3_catchment",
+        "quality": "high"
+      },
+      {
+        "title": "2021/2022",
+        "year": "2020/2021",
+        "cohort": "ASD special classes",
+        "metrics": {
+          "offer_rejections": {
+            "value": 1,
+            "word": "one"
+          }
+        },
+        "lo": 66,
+        "hi": 66,
+        "notes": "One offer explicitly rejected in Criterion3; not inferred withdrawal or admission.",
+        "phase": "retrospective",
+        "scope": "criterion_3_catchment",
+        "quality": "high",
+        "metric_definitions": {
+          "offer_rejections": "An offered place explicitly rejected in this source, cohort/year and criterion; not a waiting-list admission."
+        }
+      },
+      {
+        "title": "2021/2022",
+        "year": "2021/2022",
+        "cohort": "Junior Infants",
+        "metrics": {
+          "places": 100
+        },
+        "lo": 13,
+        "hi": 53,
+        "notes": "",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2021/2022",
+        "year": "2021/2022",
+        "cohort": "ASD special classes",
+        "metrics": {
+          "places": 0
+        },
+        "lo": 33,
+        "hi": 53,
+        "notes": "Zero available unless a child transfers; no invented subsequent movement.",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      }
+    ]
+  },
+  {
+    "roll": "19473B",
+    "url": "https://scoilbhridedonaghmede.ie/annual-admissions-notice/",
+    "sha256": "b9e946f4b736f534ce07564ca9c11750c4cacdfe7b28c45e92e8f1789fbebb62",
+    "format": "html",
+    "text_file": "database/milestone2/evidence/exact_19473B_b9e946f4b736f534ce07.txt",
+    "source_file": null,
+    "retrieval_url": "https://web.archive.org/web/20210512035944/https://scoilbhridedonaghmede.ie/annual-admissions-notice/",
+    "capture_timestamp": "20210512035944",
+    "retrieved_at": "2026-11-08T12:52:58.460865+00:00",
+    "memento_datetime_header": "Wed, 12 May 2021 03:59:44 GMT",
+    "groups": [
+      {
+        "title": "2021/2022",
+        "year": "2020/2021",
+        "cohort": "ASD special classes",
+        "metrics": {
+          "places": 3,
+          "applications": 61,
+          "offers": 4,
+          "waiting_list_names_placed": 57
+        },
+        "lo": 54,
+        "hi": 70,
+        "notes": "Printed list count retained even when it is not applications minus offers. Aggregate accepted offers not printed; criterion counts are not summed.",
+        "phase": "retrospective",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2021/2022",
+        "year": "2020/2021",
+        "cohort": "ASD special classes",
+        "metrics": {
+          "applications": 60
+        },
+        "lo": 58,
+        "hi": 58,
+        "notes": "Intro says60 applications; detailed same-year table61. Preserve conflict and suppress applications consensus.",
+        "phase": "retrospective",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2021/2022",
+        "year": "2020/2021",
+        "cohort": "ASD special classes",
+        "metrics": {
+          "offers": {
+            "value": 1,
+            "word": "one"
+          },
+          "acceptances": {
+            "value": 1,
+            "word": "one"
+          }
+        },
+        "lo": 65,
+        "hi": 65,
+        "notes": "Only this explicit admissions criterion, not whole intake.",
+        "phase": "retrospective",
+        "scope": "criterion_1_existing_mainstream",
+        "quality": "high"
+      },
+      {
+        "title": "2021/2022",
+        "year": "2020/2021",
+        "cohort": "ASD special classes",
+        "metrics": {
+          "offers": {
+            "value": 3,
+            "word": "three"
+          },
+          "acceptances": {
+            "value": 2,
+            "word": "two"
+          }
+        },
+        "lo": 66,
+        "hi": 66,
+        "notes": "Only this explicit admissions criterion, not whole intake.",
+        "phase": "retrospective",
+        "scope": "criterion_3_catchment",
+        "quality": "high"
+      },
+      {
+        "title": "2021/2022",
+        "year": "2020/2021",
+        "cohort": "ASD special classes",
+        "metrics": {
+          "offer_rejections": {
+            "value": 1,
+            "word": "one"
+          }
+        },
+        "lo": 66,
+        "hi": 66,
+        "notes": "One offer explicitly rejected in Criterion3; not inferred withdrawal or admission.",
+        "phase": "retrospective",
+        "scope": "criterion_3_catchment",
+        "quality": "high",
+        "metric_definitions": {
+          "offer_rejections": "An offered place explicitly rejected in this source, cohort/year and criterion; not a waiting-list admission."
+        }
+      },
+      {
+        "title": "2021/2022",
+        "year": "2021/2022",
+        "cohort": "Junior Infants",
+        "metrics": {
+          "places": 100
+        },
+        "lo": 13,
+        "hi": 53,
+        "notes": "",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2021/2022",
+        "year": "2021/2022",
+        "cohort": "ASD special classes",
+        "metrics": {
+          "places": 0
+        },
+        "lo": 33,
+        "hi": 53,
+        "notes": "Zero available unless a child transfers; no invented subsequent movement.",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      }
+    ]
+  },
+  {
+    "roll": "20043G",
+    "url": "http://gaelscoilchnocliamhna.ie/wp-content/uploads/2022/09/Fogra-Iontrala-Bliantuil-Annual-Admission-Notice-23-24.pdf",
+    "sha256": "3a1a5a85639c81981170b37592db89673a98e2c8034214b2adb037de8b2aa99b",
+    "format": "pdf",
+    "text_file": "database/milestone2/evidence/exact_20043G_3a1a5a85639c81981170.txt",
+    "source_file": "database/milestone2/cache/3a1a5a85639c81981170b37592db89673a98e2c8034214b2adb037de8b2aa99b.pdf",
+    "retrieval_url": "https://web.archive.org/web/20220925234733/http://gaelscoilchnocliamhna.ie/wp-content/uploads/2022/09/Fogra-Iontrala-Bliantuil-Annual-Admission-Notice-23-24.pdf",
+    "capture_timestamp": "20220925234733",
+    "retrieved_at": "2026-11-08T12:55:39.154869+00:00",
+    "memento_datetime_header": "Sun, 25 Sep 2022 23:47:33 GMT",
+    "groups": [
+      {
+        "title": "2023/2024",
+        "year": "2023/2024",
+        "cohort": "Junior Infants",
+        "metrics": {
+          "places": 29
+        },
+        "lo": 62,
+        "hi": 82,
+        "notes": "Bilingual duplicate29 is one cohort quota, not58.",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      }
+    ]
+  },
+  {
+    "roll": "20445D",
+    "url": "https://www.mpetns.ie/enrol",
+    "sha256": "69058df84567f59e5288555402eef1ae30d141cb76335fa7587f4005c8de7a08",
+    "format": "html",
+    "text_file": "database/milestone2/evidence/exact_20445D_69058df84567f59e5288.txt",
+    "source_file": null,
+    "retrieval_url": "https://web.archive.org/web/20230324003214/https://www.mpetns.ie/enrol",
+    "capture_timestamp": "20230324003214",
+    "retrieved_at": "2026-11-08T12:55:10.079679+00:00",
+    "memento_datetime_header": "Fri, 24 Mar 2023 00:32:14 GMT",
+    "groups": [
+      {
+        "title": "2023/2024",
+        "year": "2023/2024",
+        "cohort": "Junior Infants",
+        "metrics": {
+          "places": 52
+        },
+        "lo": 18,
+        "hi": 41,
+        "notes": "",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      }
+    ]
+  },
+  {
+    "roll": "20445D",
+    "url": "https://www.mpetns.ie/enrol",
+    "sha256": "196ae7df03809fc6679625a537cf68fe867e2aa06559ba7ae047b32d8a08042c",
+    "format": "html",
+    "text_file": "database/milestone2/evidence/exact_20445D_196ae7df03809fc66796.txt",
+    "source_file": null,
+    "retrieval_url": "https://web.archive.org/web/20240301120703/https://www.mpetns.ie/enrol",
+    "capture_timestamp": "20240301120703",
+    "retrieved_at": "2026-11-08T12:55:15.141098+00:00",
+    "memento_datetime_header": "Fri, 01 Mar 2024 12:07:03 GMT",
+    "groups": [
+      {
+        "title": "2024/2025",
+        "year": "2024/2025",
+        "cohort": "Junior Infants",
+        "metrics": {
+          "places": 54
+        },
+        "lo": 22,
+        "hi": 45,
+        "notes": "",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      }
+    ]
+  },
+  {
+    "roll": "20445D",
+    "url": "https://www.mpetns.ie/enrol",
+    "sha256": "b6f3a75bebcd7cc5427cdb40bada68a73e9a818605a3396d0b465d7256207db0",
+    "format": "html",
+    "text_file": "database/milestone2/evidence/exact_20445D_b6f3a75bebcd7cc5427c.txt",
+    "source_file": null,
+    "retrieval_url": "https://web.archive.org/web/20260118173025/https://www.mpetns.ie/enrol",
+    "capture_timestamp": "20260118173025",
+    "retrieved_at": "2026-11-08T12:55:29.421798+00:00",
+    "memento_datetime_header": "Sun, 18 Jan 2026 17:30:25 GMT",
+    "groups": [
+      {
+        "title": "2026/2027",
+        "year": "2026/2027",
+        "cohort": "Junior Infants",
+        "metrics": {
+          "places": 54
+        },
+        "lo": 18,
+        "hi": 41,
+        "notes": "",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      }
+    ]
+  },
+  {
+    "roll": "20445D",
+    "url": "https://www.mpetns.ie/enrol",
+    "sha256": "582d5d8a3c6da513ab048770eb6b51c02fff7d93a3753f36535c08b855aac94e",
+    "format": "html",
+    "text_file": "database/milestone2/evidence/exact_20445D_582d5d8a3c6da513ab04.txt",
+    "source_file": null,
+    "retrieval_url": "https://web.archive.org/web/20250417220037/https://www.mpetns.ie/enrol",
+    "capture_timestamp": "20250417220037",
+    "retrieved_at": "2026-11-08T12:55:21.139677+00:00",
+    "memento_datetime_header": "Thu, 17 Apr 2025 22:00:37 GMT",
+    "groups": [
+      {
+        "title": "2025/2026",
+        "year": "2025/2026",
+        "cohort": "Junior Infants",
+        "metrics": {
+          "places": 48
+        },
+        "lo": 19,
+        "hi": 42,
+        "notes": "",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      }
+    ]
+  },
+  {
+    "roll": "19314E",
+    "url": "https://www.olbns.com/",
+    "sha256": "f3e9e1474007911f1cf50474198921fec9a407c08791d3f00ca3efd8990deb23",
+    "format": "html",
+    "text_file": "database/milestone2/evidence/exact_19314E_f3e9e1474007911f1cf5.txt",
+    "source_file": null,
+    "retrieval_url": "https://web.archive.org/web/20251209112420/https://www.olbns.com/",
+    "capture_timestamp": "20251209112420",
+    "retrieved_at": "2026-11-08T12:52:35.981476+00:00",
+    "memento_datetime_header": "Tue, 09 Dec 2025 11:24:20 GMT",
+    "groups": [
+      {
+        "title": "2026/2027",
+        "year": "2026/2027",
+        "cohort": "Junior Infants",
+        "metrics": {
+          "places": null
+        },
+        "lo": 44,
+        "hi": 87,
+        "notes": "Genuine printed annual notice supplies dates only; whole-school enrolment251 and staff counts are not intake quotas.",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      }
+    ]
+  },
+  {
+    "roll": "19314E",
+    "url": "https://www.olbns.com/",
+    "sha256": "7210665314361dab79198016e9ffe8092417e1447c0765419496fe6b7d21ebe1",
+    "format": "html",
+    "text_file": "database/milestone2/evidence/exact_19314E_7210665314361dab7919.txt",
+    "source_file": null,
+    "retrieval_url": "https://web.archive.org/web/20240109095015/https://www.olbns.com/",
+    "capture_timestamp": "20240109095015",
+    "retrieved_at": "2026-11-08T12:52:10.423329+00:00",
+    "memento_datetime_header": "Tue, 09 Jan 2024 09:50:15 GMT",
+    "groups": [
+      {
+        "title": "2023/2024",
+        "year": "2023/2024",
+        "cohort": "Junior Infants",
+        "metrics": {
+          "places": null
+        },
+        "lo": 44,
+        "hi": 82,
+        "notes": "Genuine printed annual notice supplies dates only; whole-school enrolment251 and staff counts are not intake quotas.",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      }
+    ]
+  },
+  {
+    "roll": "19314E",
+    "url": "https://www.olbns.com/",
+    "sha256": "37c0364555442dbea6b7d7b100a83c43ba5d32829e3bc4fc94e13c3e5144604d",
+    "format": "html",
+    "text_file": "database/milestone2/evidence/exact_19314E_37c0364555442dbea6b7.txt",
+    "source_file": null,
+    "retrieval_url": "https://web.archive.org/web/20250107151823/https://www.olbns.com/",
+    "capture_timestamp": "20250107151823",
+    "retrieved_at": "2026-11-08T12:52:14.919049+00:00",
+    "memento_datetime_header": "Tue, 07 Jan 2025 15:18:23 GMT",
+    "groups": [
+      {
+        "title": "2025/2026",
+        "year": "2025/2026",
+        "cohort": "Junior Infants",
+        "metrics": {
+          "places": null
+        },
+        "lo": 44,
+        "hi": 84,
+        "notes": "Genuine printed annual notice supplies dates only; whole-school enrolment251 and staff counts are not intake quotas.",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      }
+    ]
+  },
+  {
+    "roll": "17507F",
+    "url": "https://www.glencullenschool.ie/wp-content/uploads/2020/09/Annual-Admission-Notice-2021.2022.pdf",
+    "sha256": "e3108d4a739e02118e9093fdae9ca34309f8e170dcf3e0642ad35dbf2a181aa0",
+    "format": "pdf",
+    "text_file": "database/milestone2/evidence/exact_17507F_e3108d4a739e02118e90.txt",
+    "source_file": "database/milestone2/cache/e3108d4a739e02118e9093fdae9ca34309f8e170dcf3e0642ad35dbf2a181aa0.pdf",
+    "retrieval_url": "https://web.archive.org/web/20240601081333/https://www.glencullenschool.ie/wp-content/uploads/2020/09/Annual-Admission-Notice-2021.2022.pdf",
+    "capture_timestamp": "20240601081333",
+    "retrieved_at": "2026-11-08T12:47:06.884402+00:00",
+    "memento_datetime_header": "Sat, 01 Jun 2024 08:13:33 GMT",
+    "groups": [
+      {
+        "title": "2021/2022",
+        "year": "2021/2022",
+        "cohort": "Junior Infants",
+        "metrics": {
+          "places": null
+        },
+        "lo": 25,
+        "hi": 44,
+        "notes": "Actual archived PDF body has dates only and no capacity cell; not zero.",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      }
+    ]
+  },
+  {
+    "roll": "19723V",
+    "url": "http://www.qoa.ie/page/Admissions/224556/Index.html",
+    "sha256": "1010a8a038be3a6db438fac14375e8e527d340916446cfd6e8b926c8c5aa1090",
+    "format": "html",
+    "text_file": "database/milestone2/evidence/exact_19723V_1010a8a038be3a6db438.txt",
+    "source_file": null,
+    "retrieval_url": "https://web.archive.org/web/20260311063601/http://www.qoa.ie/page/Admissions/224556/Index.html",
+    "capture_timestamp": "20260311063601",
+    "retrieved_at": "2026-11-08T12:53:57.689714+00:00",
+    "memento_datetime_header": "Wed, 11 Mar 2026 06:36:01 GMT",
+    "groups": [
+      {
+        "title": "2026/2027",
+        "year": "2026/2027",
+        "cohort": "Junior Infants",
+        "metrics": {
+          "places": 52
+        },
+        "lo": 34,
+        "hi": 91,
+        "notes": "",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2026/2027",
+        "year": "2026/2027",
+        "cohort": "Autism special classes",
+        "metrics": {
+          "places": 0
+        },
+        "lo": 34,
+        "hi": 91,
+        "notes": "",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      }
+    ]
+  },
+  {
+    "roll": "19723V",
+    "url": "http://qoa.ie/page/Admissions/224556/Index.html",
+    "sha256": "661ac7a368843bcc32b5d2d7a7d48f840fdd9380dda8793bebe7ede67d38c9bb",
+    "format": "html",
+    "text_file": "database/milestone2/evidence/exact_19723V_661ac7a368843bcc32b5.txt",
+    "source_file": null,
+    "retrieval_url": "https://web.archive.org/web/20251113181217/http://qoa.ie/page/Admissions/224556/Index.html",
+    "capture_timestamp": "20251113181217",
+    "retrieved_at": "2026-11-08T12:53:52.901742+00:00",
+    "memento_datetime_header": "Thu, 13 Nov 2025 18:12:17 GMT",
+    "groups": [
+      {
+        "title": "2026/2027",
+        "year": "2026/2027",
+        "cohort": "Junior Infants",
+        "metrics": {
+          "places": 52
+        },
+        "lo": 33,
+        "hi": 90,
+        "notes": "",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2026/2027",
+        "year": "2026/2027",
+        "cohort": "Autism special classes",
+        "metrics": {
+          "places": 0
+        },
+        "lo": 33,
+        "hi": 90,
+        "notes": "",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      }
+    ]
+  },
+  {
+    "roll": "19454U",
+    "url": "https://www.ourladyimmaculatejns.ie/page/Admissions/74731/Index.html",
+    "sha256": "3a7d92e60f8828a27c44d0faafd5d236b1cd17b42ade5649eacc0de82477a54f",
+    "format": "html",
+    "text_file": "database/milestone2/evidence/exact_19454U_3a7d92e60f8828a27c44.txt",
+    "source_file": null,
+    "retrieval_url": "https://web.archive.org/web/20260310010006/https://www.ourladyimmaculatejns.ie/page/Admissions/74731/Index.html",
+    "capture_timestamp": "20260310010006",
+    "retrieved_at": "2026-11-08T12:52:47.770477+00:00",
+    "memento_datetime_header": "Tue, 10 Mar 2026 01:00:06 GMT",
+    "groups": [
+      {
+        "title": "2025/2026",
+        "year": "2025/2026",
+        "cohort": "Junior Infants",
+        "metrics": {
+          "places": 60
+        },
+        "lo": 30,
+        "hi": 45,
+        "notes": "",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2025/2026",
+        "year": null,
+        "cohort": "Junior Infants",
+        "metrics": {
+          "places": 60,
+          "applications": 33,
+          "offers": 33,
+          "waiting_list_names_placed": 0
+        },
+        "lo": 46,
+        "hi": 56,
+        "notes": "Part2 says2024/25, breakdown says2023/24; intro47 vs detail33 applications. Source conflict retained.",
+        "phase": "retrospective",
+        "scope": "whole_table",
+        "quality": "medium"
+      },
+      {
+        "title": "2025/2026",
+        "year": null,
+        "cohort": "Junior Infants",
+        "metrics": {
+          "applications": 47
+        },
+        "lo": 46,
+        "hi": 49,
+        "notes": "Intro conflicts with detailed same section.",
+        "phase": "retrospective",
+        "scope": "whole_table",
+        "quality": "medium"
+      },
+      {
+        "title": "2025/2026",
+        "year": null,
+        "cohort": "Junior Infants",
+        "metrics": {
+          "offers": 33,
+          "acceptances": 33
+        },
+        "lo": 53,
+        "hi": 54,
+        "notes": "CriterionOne only, not an explicitly printed all-criteria acceptance total.",
+        "phase": "retrospective",
+        "scope": "criterion_one_catchment",
+        "quality": "medium"
+      },
+      {
+        "title": "2025/2026",
+        "year": null,
+        "cohort": "Autism special class",
+        "metrics": {
+          "places": 3,
+          "applications": 6,
+          "offers": 3
+        },
+        "lo": 57,
+        "hi": 59,
+        "notes": "Historical year not separately printed under special table; conflicting enclosing historical headings.",
+        "phase": "retrospective",
+        "scope": "whole_table",
+        "quality": "medium"
+      }
+    ]
+  },
+  {
+    "roll": "19454U",
+    "url": "https://www.ourladyimmaculatejns.ie/page/Admissions/74731/Index.html",
+    "sha256": "2fccba6c387ea8eb1e4d973725a18620ff370395029c7dd5dcbee9f3eea38bd1",
+    "format": "html",
+    "text_file": "database/milestone2/evidence/exact_19454U_2fccba6c387ea8eb1e4d.txt",
+    "source_file": null,
+    "retrieval_url": "https://web.archive.org/web/20250426184526/https://www.ourladyimmaculatejns.ie/page/Admissions/74731/Index.html",
+    "capture_timestamp": "20250426184526",
+    "retrieved_at": "2026-11-08T12:52:40.866862+00:00",
+    "memento_datetime_header": "Sat, 26 Apr 2025 18:45:26 GMT",
+    "groups": [
+      {
+        "title": "2025/2026",
+        "year": "2025/2026",
+        "cohort": "Junior Infants",
+        "metrics": {
+          "places": 60
+        },
+        "lo": 51,
+        "hi": 66,
+        "notes": "",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2025/2026",
+        "year": null,
+        "cohort": "Junior Infants",
+        "metrics": {
+          "places": 60,
+          "applications": 33,
+          "offers": 33,
+          "waiting_list_names_placed": 0
+        },
+        "lo": 67,
+        "hi": 77,
+        "notes": "Part2 says2024/25, breakdown says2023/24; intro47 vs detail33 applications. Source conflict retained.",
+        "phase": "retrospective",
+        "scope": "whole_table",
+        "quality": "medium"
+      },
+      {
+        "title": "2025/2026",
+        "year": null,
+        "cohort": "Junior Infants",
+        "metrics": {
+          "applications": 47
+        },
+        "lo": 67,
+        "hi": 70,
+        "notes": "Intro conflicts with detailed same section.",
+        "phase": "retrospective",
+        "scope": "whole_table",
+        "quality": "medium"
+      },
+      {
+        "title": "2025/2026",
+        "year": null,
+        "cohort": "Junior Infants",
+        "metrics": {
+          "offers": 33,
+          "acceptances": 33
+        },
+        "lo": 74,
+        "hi": 75,
+        "notes": "CriterionOne only, not an explicitly printed all-criteria acceptance total.",
+        "phase": "retrospective",
+        "scope": "criterion_one_catchment",
+        "quality": "medium"
+      },
+      {
+        "title": "2025/2026",
+        "year": null,
+        "cohort": "Autism special class",
+        "metrics": {
+          "places": 3,
+          "applications": 6,
+          "offers": 3
+        },
+        "lo": 78,
+        "hi": 80,
+        "notes": "Historical year not separately printed under special table; conflicting enclosing historical headings.",
+        "phase": "retrospective",
+        "scope": "whole_table",
+        "quality": "medium"
+      }
+    ]
+  },
+  {
+    "roll": "19865S",
+    "url": "https://divinemercyjns.weebly.com/annual-admission-notice.html",
+    "sha256": "a86e10e5ea71a801f7791a14190fcdb40b3571a619efeb41e0c8315d679d6c8e",
+    "format": "html",
+    "text_file": "database/milestone2/evidence/exact_19865S_a86e10e5ea71a801f779.txt",
+    "source_file": null,
+    "retrieval_url": "https://web.archive.org/web/20260930155401/https://divinemercyjns.weebly.com/annual-admission-notice.html",
+    "capture_timestamp": "20260930155401",
+    "retrieved_at": "2026-11-08T12:54:02.964919+00:00",
+    "memento_datetime_header": "Wed, 30 Sep 2026 15:54:01 GMT",
+    "groups": [
+      {
+        "title": "2023/2024",
+        "year": null,
+        "cohort": "Junior Infants",
+        "metrics": {
+          "places": 68
+        },
+        "lo": 19,
+        "hi": 46,
+        "notes": "Title/Part1 say2023/24, capacity says2024/25. Capture2026 does not resolve this.",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "medium"
+      }
+    ]
+  },
+  {
+    "roll": "19574H",
+    "url": "https://www.divinewordns.ie/page/Admissions/16912/Index.html",
+    "sha256": "06498debf8473b7c73a3d841892749f16fe8532c5fa84b05839f1f069dcadbf9",
+    "format": "html",
+    "text_file": "database/milestone2/evidence/exact_19574H_06498debf8473b7c73a3.txt",
+    "source_file": null,
+    "retrieval_url": "https://web.archive.org/web/20260113062044/https://www.divinewordns.ie/page/Admissions/16912/Index.html",
+    "capture_timestamp": "20260113062044",
+    "retrieved_at": "2026-11-08T12:53:48.220679+00:00",
+    "memento_datetime_header": "Tue, 13 Jan 2026 06:20:44 GMT",
+    "groups": [
+      {
+        "title": "2026/2027",
+        "year": "2026/2027",
+        "cohort": "Junior Infants",
+        "metrics": {
+          "places": 56
+        },
+        "lo": 75,
+        "hi": 78,
+        "notes": "",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2026/2027",
+        "year": "2026/2027",
+        "cohort": "Autism special class",
+        "metrics": {
+          "places": null
+        },
+        "lo": 83,
+        "hi": 113,
+        "notes": "Capacity TBC pending sanction; not zero.",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2026/2027",
+        "year": null,
+        "cohort": "Junior Infants",
+        "metrics": {
+          "places": 56,
+          "applications": 138,
+          "offers": 115,
+          "waiting_list_names_placed": 23
+        },
+        "lo": 88,
+        "hi": 111,
+        "notes": "Part2/intro2025/26 vs breakdown2024/25; intro133 vs detailed138. Not mapped to guessed year.",
+        "phase": "retrospective",
+        "scope": "whole_table",
+        "quality": "medium"
+      },
+      {
+        "title": "2026/2027",
+        "year": null,
+        "cohort": "Junior Infants",
+        "metrics": {
+          "applications": 133
+        },
+        "lo": 88,
+        "hi": 90,
+        "notes": "Intro versus detailed source applications conflict.",
+        "phase": "retrospective",
+        "scope": "whole_table",
+        "quality": "medium"
+      },
+      {
+        "title": "2026/2027",
+        "year": null,
+        "cohort": "Junior Infants",
+        "metrics": {
+          "offers": 48,
+          "acceptances": 43
+        },
+        "lo": 96,
+        "hi": 98,
+        "notes": "Only this explicit criterion; no summed aggregate acceptance57.",
+        "phase": "retrospective",
+        "scope": "criterion_one_siblings_or_catchment",
+        "quality": "medium"
+      },
+      {
+        "title": "2026/2027",
+        "year": null,
+        "cohort": "Junior Infants",
+        "metrics": {
+          "offers": 1,
+          "acceptances": 0
+        },
+        "lo": 99,
+        "hi": 101,
+        "notes": "Only this explicit criterion; no summed aggregate acceptance57.",
+        "phase": "retrospective",
+        "scope": "criterion_two_staff",
+        "quality": "medium"
+      },
+      {
+        "title": "2026/2027",
+        "year": null,
+        "cohort": "Junior Infants",
+        "metrics": {
+          "offers": 66,
+          "acceptances": 13
+        },
+        "lo": 102,
+        "hi": 104,
+        "notes": "Only this explicit criterion; no summed aggregate acceptance57.",
+        "phase": "retrospective",
+        "scope": "criterion_three_outside_catchment",
+        "quality": "medium"
+      },
+      {
+        "title": "2026/2027",
+        "year": null,
+        "cohort": "Junior Infants",
+        "metrics": {
+          "offers": 0,
+          "acceptances": 0
+        },
+        "lo": 105,
+        "hi": 107,
+        "notes": "Only this explicit criterion; no summed aggregate acceptance57.",
+        "phase": "retrospective",
+        "scope": "criterion_four_late",
+        "quality": "medium"
+      }
+    ]
+  },
+  {
+    "roll": "20103V",
+    "url": "https://docs.google.com/document/u/1/d/e/2PACX-1vTd9UZQ0C3IvojsGP2ZNSHNcEOefXG2LxXMwRi7Rj-15n3kvLrzucwxiFHiSrD6JilPllJ_WcWfwb1s/pub?urp=gmail_link",
+    "sha256": "fc62258c979026c269a5d3d5edaa8f6b72f9f570f2b9453d3247fbcea0609895",
+    "format": "html",
+    "text_file": "database/milestone2/evidence/exact_20103V_fc62258c979026c269a5.txt",
+    "source_file": null,
+    "retrieval_url": "https://web.archive.org/web/20240731104843/https://docs.google.com/document/u/1/d/e/2PACX-1vTd9UZQ0C3IvojsGP2ZNSHNcEOefXG2LxXMwRi7Rj-15n3kvLrzucwxiFHiSrD6JilPllJ_WcWfwb1s/pub?urp=gmail_link",
+    "capture_timestamp": "20240731104843",
+    "retrieved_at": "2026-11-08T12:54:08.465854+00:00",
+    "memento_datetime_header": "Wed, 31 Jul 2024 10:48:43 GMT",
+    "groups": [
+      {
+        "title": "2024/2025",
+        "year": "2024/2025",
+        "cohort": "Junior Infants",
+        "metrics": {
+          "places": 22
+        },
+        "lo": 16,
+        "hi": 45,
+        "notes": "",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2024/2025",
+        "year": "2023/2024",
+        "cohort": "Junior Infants",
+        "metrics": {
+          "places": 20,
+          "applications": 41,
+          "offers": 41,
+          "waiting_list_names_placed": 0
+        },
+        "lo": 49,
+        "hi": 76,
+        "notes": "Printed aggregate offers41, no aggregate acceptance count; criteria not summed.",
+        "phase": "retrospective",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2024/2025",
+        "year": "2023/2024",
+        "cohort": "Junior Infants",
+        "metrics": {
+          "offers": 12,
+          "acceptances": 11
+        },
+        "lo": 61,
+        "hi": 62,
+        "notes": "Only this printed criterion. Acceptance total20 would be a sum, not a source-printed total.",
+        "phase": "retrospective",
+        "scope": "criterion_A_sibling",
+        "quality": "high"
+      },
+      {
+        "title": "2024/2025",
+        "year": "2023/2024",
+        "cohort": "Junior Infants",
+        "metrics": {
+          "offers": 0,
+          "acceptances": 0
+        },
+        "lo": 63,
+        "hi": 64,
+        "notes": "Only this printed criterion. Acceptance total20 would be a sum, not a source-printed total.",
+        "phase": "retrospective",
+        "scope": "criterion_B_staff",
+        "quality": "high"
+      },
+      {
+        "title": "2024/2025",
+        "year": "2023/2024",
+        "cohort": "Junior Infants",
+        "metrics": {
+          "offers": 1,
+          "acceptances": 1
+        },
+        "lo": 65,
+        "hi": 66,
+        "notes": "Only this printed criterion. Acceptance total20 would be a sum, not a source-printed total.",
+        "phase": "retrospective",
+        "scope": "criterion_C_parent_or_grandparent",
+        "quality": "high"
+      },
+      {
+        "title": "2024/2025",
+        "year": "2023/2024",
+        "cohort": "Junior Infants",
+        "metrics": {
+          "offers": 15,
+          "acceptances": 5
+        },
+        "lo": 67,
+        "hi": 68,
+        "notes": "Only this printed criterion. Acceptance total20 would be a sum, not a source-printed total.",
+        "phase": "retrospective",
+        "scope": "criterion_D_ethos",
+        "quality": "high"
+      },
+      {
+        "title": "2024/2025",
+        "year": "2023/2024",
+        "cohort": "Junior Infants",
+        "metrics": {
+          "offers": 13,
+          "acceptances": 3
+        },
+        "lo": 69,
+        "hi": 70,
+        "notes": "Only this printed criterion. Acceptance total20 would be a sum, not a source-printed total.",
+        "phase": "retrospective",
+        "scope": "criterion_E_proximity",
+        "quality": "high"
+      },
+      {
+        "title": "2024/2025",
+        "year": "2023/2024",
+        "cohort": "Junior Infants",
+        "metrics": {
+          "offers": 0,
+          "acceptances": 0
+        },
+        "lo": 71,
+        "hi": 72,
+        "notes": "Only this printed criterion. Acceptance total20 would be a sum, not a source-printed total.",
+        "phase": "retrospective",
+        "scope": "criterion_F_lottery",
+        "quality": "high"
+      },
+      {
+        "title": "2024/2025",
+        "year": "2022/2023",
+        "cohort": "Junior Infants",
+        "metrics": {
+          "pre_act_places_offered_and_accepted": 0
+        },
+        "lo": 45,
+        "hi": 48,
+        "notes": "Printed pre-commencement grandfathered places only; stale2022/23 is preserved distinctly from current quota22.",
+        "phase": "pre_commencement",
+        "scope": "pre_section_62_commencement",
+        "quality": "high",
+        "metric_definitions": {
+          "pre_act_places_offered_and_accepted": "Source-explicit places both offered and accepted before 1February2020 commencement of Section62; not whole-intake offers or acceptance totals."
+        }
+      }
+    ]
+  },
+  {
+    "roll": "20168D",
+    "url": "https://get.ie/enrolment-information/",
+    "sha256": "085ab2e76b56e95224bcc39ab9483e1ba9249088ead0768057f30517f776c27b",
+    "format": "html",
+    "text_file": "database/milestone2/evidence/exact_20168D_085ab2e76b56e95224bc.txt",
+    "source_file": null,
+    "retrieval_url": "https://web.archive.org/web/20220122084051/https://get.ie/enrolment-information/",
+    "capture_timestamp": "20220122084051",
+    "retrieved_at": "2026-11-08T12:54:24.367763+00:00",
+    "memento_datetime_header": "Sat, 22 Jan 2022 08:40:51 GMT",
+    "groups": [
+      {
+        "title": "2022/2023",
+        "year": "2022/2023",
+        "cohort": "Junior Infants",
+        "metrics": {
+          "places": 50
+        },
+        "lo": 17,
+        "hi": 19,
+        "notes": "Source names intake-entry calendar year only; school-year end is normalized/inferred, not explicitly printed for this quota.",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high",
+        "year_status": "source_entry_year_only_school_year_inferred"
+      }
+    ]
+  },
+  {
+    "roll": "20168D",
+    "url": "https://get.ie/enrolment-information/",
+    "sha256": "5d3a8f73341917db3fae1323a3d335d7d4fadd6fef8a73e03eb7654eba0dd395",
+    "format": "html",
+    "text_file": "database/milestone2/evidence/exact_20168D_5d3a8f73341917db3fae.txt",
+    "source_file": null,
+    "retrieval_url": "https://web.archive.org/web/20240227201830/https://get.ie/enrolment-information/",
+    "capture_timestamp": "20240227201830",
+    "retrieved_at": "2026-11-08T12:54:34.517650+00:00",
+    "memento_datetime_header": "Tue, 27 Feb 2024 20:18:30 GMT",
+    "groups": [
+      {
+        "title": "2024/2025",
+        "year": "2024/2025",
+        "cohort": "Junior Infants",
+        "metrics": {
+          "places": 50
+        },
+        "lo": 7,
+        "hi": 9,
+        "notes": "Source names intake-entry calendar year only; school-year end is normalized/inferred, not explicitly printed for this quota.",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high",
+        "year_status": "source_entry_year_only_school_year_inferred"
+      }
+    ]
+  },
+  {
+    "roll": "20168D",
+    "url": "https://get.ie/enrolment-information/",
+    "sha256": "ac9c67495cb525e6e9540718c778f98f560f9989bbe15ce7184891f8b994c99b",
+    "format": "html",
+    "text_file": "database/milestone2/evidence/exact_20168D_ac9c67495cb525e6e954.txt",
+    "source_file": null,
+    "retrieval_url": "https://web.archive.org/web/20250208192747/https://get.ie/enrolment-information/",
+    "capture_timestamp": "20250208192747",
+    "retrieved_at": "2026-11-08T12:54:39.906300+00:00",
+    "memento_datetime_header": "Sat, 08 Feb 2025 19:27:47 GMT",
+    "groups": [
+      {
+        "title": "2025/2026",
+        "year": "2025/2026",
+        "cohort": "Junior Infants",
+        "metrics": {
+          "places": 50
+        },
+        "lo": 5,
+        "hi": 11,
+        "notes": "Source names intake-entry calendar year only; school-year end is normalized/inferred, not explicitly printed for this quota.",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high",
+        "year_status": "source_entry_year_only_school_year_inferred"
+      }
+    ]
+  },
+  {
+    "roll": "20168D",
+    "url": "https://get.ie/enrolment-information/",
+    "sha256": "30502194e6301e1a24a2f04613be1479d0e1be96913b94ccb1ffb90048949816",
+    "format": "html",
+    "text_file": "database/milestone2/evidence/exact_20168D_30502194e6301e1a24a2.txt",
+    "source_file": null,
+    "retrieval_url": "https://web.archive.org/web/20200928021248/https://get.ie/enrolment-information/",
+    "capture_timestamp": "20200928021248",
+    "retrieved_at": "2026-11-08T12:54:13.344448+00:00",
+    "memento_datetime_header": "Mon, 28 Sep 2020 02:12:48 GMT",
+    "groups": [
+      {
+        "title": "2021/2022",
+        "year": "2021/2022",
+        "cohort": "Junior Infants",
+        "metrics": {
+          "places": 56
+        },
+        "lo": 5,
+        "hi": 26,
+        "notes": "Full academic-year heading explicitly printed, unlike later entry-year-only pages.",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      }
+    ]
+  },
+  {
+    "roll": "20168D",
+    "url": "https://get.ie/enrolment-information/",
+    "sha256": "07ba103f08a43926c3b7b7836ec14b6faf391a23aaa499ee1124c69aa70bfc16",
+    "format": "html",
+    "text_file": "database/milestone2/evidence/exact_20168D_07ba103f08a43926c3b7.txt",
+    "source_file": null,
+    "retrieval_url": "https://web.archive.org/web/20210303114808/https://get.ie/enrolment-information/",
+    "capture_timestamp": "20210303114808",
+    "retrieved_at": "2026-11-08T12:54:17.900041+00:00",
+    "memento_datetime_header": "Wed, 03 Mar 2021 11:48:08 GMT",
+    "groups": [
+      {
+        "title": "2021/2022",
+        "year": "2021/2022",
+        "cohort": "Junior Infants",
+        "metrics": {
+          "places": 56
+        },
+        "lo": 5,
+        "hi": 25,
+        "notes": "Full academic-year heading explicitly printed, unlike later entry-year-only pages.",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      }
+    ]
+  },
+  {
+    "roll": "19302U",
+    "url": "https://www.virginmarybns.ie/",
+    "sha256": "990cd5addccab1e4de97d14db7ea374cc689f93443b20bc73fe0ba9587ec82d7",
+    "format": "html",
+    "text_file": "database/milestone2/evidence/exact_19302U_990cd5addccab1e4de97.txt",
+    "source_file": null,
+    "retrieval_url": "https://web.archive.org/web/20200811040905/https://www.virginmarybns.ie/",
+    "capture_timestamp": "20200811040905",
+    "retrieved_at": "2026-11-08T12:50:15.582898+00:00",
+    "memento_datetime_header": "Tue, 11 Aug 2020 04:09:05 GMT",
+    "groups": [],
+    "exclusion_reason": "Navigation/book-rental prices, not admissions counts or genuine numerical annual notice."
+  },
+  {
+    "roll": "19302U",
+    "url": "https://www.virginmarybns.ie/",
+    "sha256": "7f4918ed210e5eccb68498b0e7c4b479953a624b972519c3a51e930df90627e1",
+    "format": "html",
+    "text_file": "database/milestone2/evidence/exact_19302U_7f4918ed210e5eccb684.txt",
+    "source_file": null,
+    "retrieval_url": "https://web.archive.org/web/20220123062753/https://www.virginmarybns.ie/",
+    "capture_timestamp": "20220123062753",
+    "retrieved_at": "2026-11-08T12:50:26.662174+00:00",
+    "memento_datetime_header": "Sun, 23 Jan 2022 06:27:53 GMT",
+    "groups": [],
+    "exclusion_reason": "Navigation/book-rental prices, not admissions counts or genuine numerical annual notice."
+  },
+  {
+    "roll": "19302U",
+    "url": "https://www.virginmarybns.ie/",
+    "sha256": "e92992f2b4b0697537c69edd673bbfca7e9d101f31fe0fb161d4cd939390f01e",
+    "format": "html",
+    "text_file": "database/milestone2/evidence/exact_19302U_e92992f2b4b0697537c6.txt",
+    "source_file": null,
+    "retrieval_url": "https://web.archive.org/web/20210125105815/https://www.virginmarybns.ie/",
+    "capture_timestamp": "20210125105815",
+    "retrieved_at": "2026-11-08T12:50:20.287258+00:00",
+    "memento_datetime_header": "Mon, 25 Jan 2021 10:58:15 GMT",
+    "groups": [],
+    "exclusion_reason": "Navigation/book-rental prices, not admissions counts or genuine numerical annual notice."
+  },
+  {
+    "roll": "20168D",
+    "url": "https://get.ie/enrolment-information/",
+    "sha256": "254d0dcc5d843499f2d11ca967072f7b53d4ee0a7262cdaec55c60b615229f07",
+    "format": "html",
+    "text_file": "database/milestone2/evidence/exact_20168D_254d0dcc5d843499f2d1.txt",
+    "source_file": null,
+    "retrieval_url": "https://web.archive.org/web/20230201060443/https://get.ie/enrolment-information/",
+    "capture_timestamp": "20230201060443",
+    "retrieved_at": "2026-11-08T12:54:29.445975+00:00",
+    "memento_datetime_header": "Wed, 01 Feb 2023 06:04:43 GMT",
+    "groups": [],
+    "exclusion_reason": "Malformed source capacity wording: will accept between50 children, without a second bound; no exact quota normalized."
+  },
+  {
+    "roll": "19574H",
+    "url": "https://www.divinewordns.ie/page/Admissions/16912/Index.html",
+    "sha256": "0eecfe20405b45203501f37b96310d842a2adc84d0a7e5b9b68f277be98ea73e",
+    "format": "html",
+    "text_file": "database/milestone2/evidence/exact_19574H_0eecfe20405b45203501.txt",
+    "source_file": null,
+    "retrieval_url": "https://web.archive.org/web/20250322155618/https://www.divinewordns.ie/page/Admissions/16912/Index.html",
+    "capture_timestamp": "20250322155618",
+    "retrieved_at": "2026-11-08T12:53:43.608411+00:00",
+    "memento_datetime_header": "Sat, 22 Mar 2025 15:56:18 GMT",
+    "groups": [],
+    "exclusion_reason": "Admissions landing/navigation links and dates, not a numerical notice body; linked historical notice retrieval remains pending."
+  },
+  {
+    "roll": "19574H",
+    "url": "https://www.divinewordns.ie/page/Admissions/16912/Index.html",
+    "sha256": "6ff7e14bd4a14cf923742a26c6bf7417c5fbcfab445b5ab8f334bd503388a15c",
+    "format": "html",
+    "text_file": "database/milestone2/evidence/exact_19574H_6ff7e14bd4a14cf92374.txt",
+    "source_file": null,
+    "retrieval_url": "https://web.archive.org/web/20240226175918/https://www.divinewordns.ie/page/Admissions/16912/Index.html",
+    "capture_timestamp": "20240226175918",
+    "retrieved_at": "2026-11-08T12:53:37.024100+00:00",
+    "memento_datetime_header": "Mon, 26 Feb 2024 17:59:18 GMT",
+    "groups": [],
+    "exclusion_reason": "Admissions landing/navigation links and dates, not a numerical notice body; linked historical notice retrieval remains pending."
+  },
+  {
+    "roll": "19574H",
+    "url": "https://www.divinewordns.ie/page/Admissions/16912/Index.html",
+    "sha256": "d42c044bf5bb768e74bbd4730c7d2fdc85e50cbfc399f944f5cfe40faccf8b3c",
+    "format": "html",
+    "text_file": "database/milestone2/evidence/exact_19574H_d42c044bf5bb768e74bb.txt",
+    "source_file": null,
+    "retrieval_url": "https://web.archive.org/web/20230206130351/https://www.divinewordns.ie/page/Admissions/16912/Index.html",
+    "capture_timestamp": "20230206130351",
+    "retrieved_at": "2026-11-08T12:53:30.576628+00:00",
+    "memento_datetime_header": "Mon, 06 Feb 2023 13:03:51 GMT",
+    "groups": [],
+    "exclusion_reason": "Admissions landing/navigation links and dates, not a numerical notice body; linked historical notice retrieval remains pending."
+  }
+]

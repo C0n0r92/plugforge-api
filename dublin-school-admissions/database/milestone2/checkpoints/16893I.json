@@ -1,0 +1,121 @@
+{
+  "roll": "16893I",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.stlaurencesbns.ie/",
+      "final_url": "https://www.stlaurencesbns.ie/",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.stlaurencesbns.ie/sitemap.xml",
+      "final_url": "https://www.stlaurencesbns.ie/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.stlaurencesbns.ie/policies",
+      "final_url": "https://www.stlaurencesbns.ie/policies",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.stlaurencesbns.ie/_files/ugd/3a4b95_1fc19db7900d4748a24e893633e4365f.pdf",
+      "final_url": "https://www.stlaurencesbns.ie/_files/ugd/3a4b95_1fc19db7900d4748a24e893633e4365f.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "PARENTAL CONSENT FORM"
+    },
+    {
+      "url": "https://www.stlaurencesbns.ie/_files/ugd/3a4b95_150f7bc682614903a5f62b17b475e42f.pdf",
+      "final_url": "https://www.stlaurencesbns.ie/_files/ugd/3a4b95_150f7bc682614903a5f62b17b475e42f.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "ADMISSIONS POLICY"
+    },
+    {
+      "url": "https://www.stlaurencesbns.ie/parents",
+      "final_url": "https://www.stlaurencesbns.ie/parents",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents Association"
+    },
+    {
+      "url": "https://www.stlaurencesbns.ie/member-profiles_p_first-chunk-sitemap.xml",
+      "final_url": "https://www.stlaurencesbns.ie/member-profiles_p_first-chunk-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.stlaurencesbns.ie/blog-posts-sitemap.xml",
+      "final_url": "https://www.stlaurencesbns.ie/blog-posts-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.stlaurencesbns.ie/blog-categories-sitemap.xml",
+      "final_url": "https://www.stlaurencesbns.ie/blog-categories-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.stlaurencesbns.ie/_files/ugd/3a4b95_fefef58af21a401880f145ea268357ee.pdf",
+      "final_url": "https://www.stlaurencesbns.ie/_files/ugd/3a4b95_fefef58af21a401880f145ea268357ee.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "ACCEPTABLE USE POLICY"
+    },
+    {
+      "url": "https://www.stlaurencesbns.ie/_files/ugd/3a4b95_dde6e25ff1674565ba45166d4fe99727.pdf",
+      "final_url": "https://www.stlaurencesbns.ie/_files/ugd/3a4b95_dde6e25ff1674565ba45166d4fe99727.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "HEALTH & SAFETY POLICY"
+    },
+    {
+      "url": "https://www.stlaurencesbns.ie/_files/ugd/3a4b95_c15c9b479dce49e0a6c24736216cc4e3.pdf",
+      "final_url": "https://www.stlaurencesbns.ie/_files/ugd/3a4b95_c15c9b479dce49e0a6c24736216cc4e3.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "ANTI-BULLYING POLICY"
+    },
+    {
+      "url": "https://www.stlaurencesbns.ie/privacy-policy",
+      "final_url": "https://www.stlaurencesbns.ie/privacy-policy",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Privacy Policy"
+    },
+    {
+      "url": "https://www.stlaurencesbns.ie/cookie-policy",
+      "final_url": "https://www.stlaurencesbns.ie/cookie-policy",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Cookie Policy"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "16893I",
+      "url": "https://www.stlaurencesbns.ie/_files/ugd/3a4b95_150f7bc682614903a5f62b17b475e42f.pdf",
+      "label": "ADMISSIONS POLICY",
+      "sha256": "e0c04a45ec6b05d007534036c948ca027f8711f36a1c76df147b789479263fd7",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/16893I_e0c04a45ec6b05d00753.txt",
+      "source_file": "database/milestone2/cache/e0c04a45ec6b05d007534036c948ca027f8711f36a1c76df147b789479263fd7.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 24654
+    }
+  ],
+  "pending_links": [],
+  "elapsed_seconds": 39.08,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:44:37+0000"
+}

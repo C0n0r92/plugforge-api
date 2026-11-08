@@ -1,0 +1,58 @@
+[
+  {
+    "roll": "00697S",
+    "url": "https://saintbrigids.ie/wp/pwa/wp-content/uploads/sites/15/2022/12/annual-admission-notice-23.24.pdf",
+    "sha256": "4312662081a0e5052690a20aae9a2cbded88def3f3d3e7d87db33a2cbbd9853b",
+    "format": "pdf",
+    "source_file": "database/milestone2/cache/4312662081a0e5052690a20aae9a2cbded88def3f3d3e7d87db33a2cbbd9853b.pdf",
+    "text_file": "database/milestone2/evidence/archive_00697S_4312662081a0e5052690.txt",
+    "retrieval_url": "https://web.archive.org/web/20230101080252/https://saintbrigids.ie/wp/pwa/wp-content/uploads/sites/15/2022/12/annual-admission-notice-23.24.pdf",
+    "capture_timestamp": "20230101080252",
+    "retrieved_at": "2026-11-08T12:32:12.795718+00:00",
+    "memento_datetime_header": "Sun, 01 Jan 2023 08:02:52 GMT",
+    "groups": [
+      {
+        "title": "2023/2024",
+        "phase": "upcoming",
+        "year": "2023/2024",
+        "cohort": "Junior Infants",
+        "lo": 11,
+        "hi": 20,
+        "metrics": {
+          "places": 104
+        },
+        "notes": "",
+        "scope": "whole_table"
+      },
+      {
+        "title": "2023/2024",
+        "phase": "upcoming",
+        "year": null,
+        "cohort": "ASD classes",
+        "lo": 24,
+        "hi": 30,
+        "metrics": {
+          "places": 0
+        },
+        "notes": "ASD subsection header2023/24 but capacity row says September2022; conflicting year not guessed.",
+        "scope": "whole_table"
+      },
+      {
+        "title": "2023/2024",
+        "phase": "retrospective",
+        "year": "2022/2023",
+        "cohort": "Junior Infants",
+        "lo": 35,
+        "hi": 43,
+        "metrics": {
+          "places": 104,
+          "applications": 158,
+          "offers": 104,
+          "waiting_list_names_placed": 12
+        },
+        "notes": "Exact archived PDF body parsed; capture2023-01-01 is not admission year2022/23. Criterion104+0 not summed as aggregate acceptances.",
+        "scope": "whole_table"
+      }
+    ]
+  }
+]

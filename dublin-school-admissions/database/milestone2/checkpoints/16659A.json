@@ -1,0 +1,196 @@
+{
+  "roll": "16659A",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.ionaroadschool.ie/items/admissions%2F-----------------enrolment",
+      "final_url": "https://www.ionaroadschool.ie/items/admissions%2F-----------------enrolment",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://www.ionaroadschool.ie/copy-of-admissions",
+      "final_url": "https://www.ionaroadschool.ie/copy-of-admissions",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://www.ionaroadschool.ie/_files/ugd/d43fa1_91aa045c5a68487b854dd798a182579a.pdf",
+      "final_url": "https://6d840e75-62d9-4c7f-89a9-026a28078c63.filesusr.com/ugd/d43fa1_91aa045c5a68487b854dd798a182579a.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.ionaroadschool.ie/_files/ugd/19d242_a92a7637078a44049c4acba151c36551.pdf",
+      "final_url": "https://6d840e75-62d9-4c7f-89a9-026a28078c63.filesusr.com/ugd/19d242_a92a7637078a44049c4acba151c36551.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "Print a Junior Infants Application"
+    },
+    {
+      "url": "https://www.ionaroadschool.ie/_files/ugd/19d242_6486fbc26b224f2cbcf23300b092d653.pdf",
+      "final_url": "https://6d840e75-62d9-4c7f-89a9-026a28078c63.filesusr.com/ugd/19d242_6486fbc26b224f2cbcf23300b092d653.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "Print a Senior Infants to 6th Class Application"
+    },
+    {
+      "url": "https://www.ionaroadschool.ie/sitemap.xml",
+      "final_url": "https://www.ionaroadschool.ie/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.ionaroadschool.ie/store-products-sitemap.xml",
+      "final_url": "https://www.ionaroadschool.ie/store-products-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.ionaroadschool.ie/parents-association",
+      "final_url": "https://www.ionaroadschool.ie/parents-association",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents Association"
+    },
+    {
+      "url": "https://www.ionaroadschool.ie/member-profiles_p_first-chunk-sitemap.xml",
+      "final_url": "https://www.ionaroadschool.ie/member-profiles_p_first-chunk-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.ionaroadschool.ie/items-1",
+      "final_url": "https://www.ionaroadschool.ie/items-1",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Information for Parents"
+    },
+    {
+      "url": "https://www.ionaroadschool.ie/items",
+      "final_url": "https://www.ionaroadschool.ie/items",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Policies"
+    },
+    {
+      "url": "https://www.ionaroadschool.ie/dynamic-items_p_8bf52997_a829_48cf_9934_ba6fd8d8fd3e_0_5000-sitemap.xml",
+      "final_url": "https://www.ionaroadschool.ie/dynamic-items_p_8bf52997_a829_48cf_9934_ba6fd8d8fd3e_0_5000-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.ionaroadschool.ie/copy-of-application-form-for-admission",
+      "final_url": "https://www.ionaroadschool.ie/copy-of-application-form-for-admission",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Senior Infants to 6th Class Online Application"
+    },
+    {
+      "url": "https://www.ionaroadschool.ie/application-form-for-admission",
+      "final_url": "https://www.ionaroadschool.ie/application-form-for-admission",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Junior Infants Online Application"
+    },
+    {
+      "url": "https://www.ionaroadschool.ie/a-z-of-st-columba-s-school",
+      "final_url": "https://www.ionaroadschool.ie/a-z-of-st-columba-s-school",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "A-Z Guide for Parents"
+    },
+    {
+      "url": "https://www.ionaroadschool.ie/",
+      "final_url": "https://www.ionaroadschool.ie/",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.ionaroadschool.ie/items/protected-disclosures-in-the-workplace-policy",
+      "final_url": "https://www.ionaroadschool.ie/items/protected-disclosures-in-the-workplace-policy",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Read More"
+    },
+    {
+      "url": "https://www.ionaroadschool.ie/items/playground-policy",
+      "final_url": "https://www.ionaroadschool.ie/items/playground-policy",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Read More"
+    },
+    {
+      "url": "https://www.ionaroadschool.ie/items/i.c.t.-acceptable-use-policy",
+      "final_url": "https://www.ionaroadschool.ie/items/i.c.t.-acceptable-use-policy",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Read More"
+    },
+    {
+      "url": "https://www.ionaroadschool.ie/items/composite-class-policy",
+      "final_url": "https://www.ionaroadschool.ie/items/composite-class-policy",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Read More"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "16659A",
+      "url": "https://www.ionaroadschool.ie/items/admissions%2F-----------------enrolment",
+      "label": "Prior school admissions section",
+      "sha256": "76d88d0aa250f6cc0cf89d728bef26513a4a2ea05c53461b925a4be324c7984a",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/16659A_76d88d0aa250f6cc0cf8.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 18100
+    },
+    {
+      "roll": "16659A",
+      "url": "https://www.ionaroadschool.ie/copy-of-admissions",
+      "label": "Admissions",
+      "sha256": "9aff1755ad35907b7158274e096bedeb72edec8d5edb34d761bdf44c3d4ab5e4",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/16659A_9aff1755ad35907b7158.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1408
+    },
+    {
+      "roll": "16659A",
+      "url": "https://www.ionaroadschool.ie/application-form-for-admission",
+      "label": "Junior Infants Online Application",
+      "sha256": "6018e3416ab8155529bd27c1553cb445635be18f69f71ccfe47199279e89359f",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/16659A_6018e3416ab8155529bd.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1191
+    },
+    {
+      "roll": "16659A",
+      "url": "https://www.ionaroadschool.ie/",
+      "label": "School homepage",
+      "sha256": "6af399a42c6afaf62af16954cdd1c0634b8945ccb53c97e9794b0a42f83fe8f2",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/16659A_6af399a42c6afaf62af1.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 2542
+    }
+  ],
+  "pending_links": [],
+  "elapsed_seconds": 63.65,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:02:41+0000"
+}

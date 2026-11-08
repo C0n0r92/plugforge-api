@@ -1,0 +1,93 @@
+{
+  "roll": "19764M",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://olwie.wordpress.com/wp-content/uploads/2021/09/admissions-notice-olw-2.png",
+      "final_url": "https://olwie.wordpress.com/wp-content/uploads/2021/09/admissions-notice-olw-2.png",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions/policy URL from public sitemap"
+    },
+    {
+      "url": "https://olwie.wordpress.com/wp-content/uploads/2022/10/admissions-notice.png",
+      "final_url": "https://olwie.wordpress.com/wp-content/uploads/2022/10/admissions-notice.png",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions/policy URL from public sitemap"
+    },
+    {
+      "url": "https://olwie.wordpress.com/sitemap.xml",
+      "final_url": "https://olwie.wordpress.com/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://olwie.wordpress.com/news-sitemap.xml",
+      "final_url": "https://olwie.wordpress.com/news-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://olwie.wordpress.com",
+      "final_url": "https://olwie.wordpress.com",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://olwie.wordpress.com/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://olwie.wordpress.com/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "http_404",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://olwie.wordpress.com/our-lady-of-the-wayside-n-s/policies/",
+      "final_url": "https://olwie.wordpress.com/our-lady-of-the-wayside-n-s/policies/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://olwie.wordpress.com/our-lady-of-the-wayside-n-s/about/parents-association/",
+      "final_url": "https://olwie.wordpress.com/our-lady-of-the-wayside-n-s/about/parents-association/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents’ Association"
+    },
+    {
+      "url": "https://drive.google.com/file/d/1__hc6eWGUAH2U4I_ZnaPDXN9lvYMeqSb/view?usp=share_link",
+      "final_url": "https://drive.google.com/file/d/1__hc6eWGUAH2U4I_ZnaPDXN9lvYMeqSb/view?usp=share_link",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions policy"
+    },
+    {
+      "url": "https://drive.google.com/sitemap.xml",
+      "final_url": "https://drive.google.com/sitemap.xml",
+      "status": "robots_disallow",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19764M",
+      "url": "https://olwie.wordpress.com",
+      "label": "School homepage",
+      "sha256": "7c42902f8f87ab398a648b27c8d12c8dd604ba1ac6765d113db213cd7568ac08",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19764M_7c42902f8f87ab398a64.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1680
+    }
+  ],
+  "pending_links": [],
+  "elapsed_seconds": 21.18,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:57:01+0000"
+}

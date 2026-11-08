@@ -1,0 +1,25 @@
+{
+  "roll": "16461C",
+  "capture": {
+    "timestamp": "20170908193135",
+    "original": "http://stfiniansprimaryschool.ie:80/?",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "digest": "KF35SSGQNOMTN4CRMPI4QYKTUHJC4ARC"
+  },
+  "original_url": "http://stfiniansprimaryschool.ie:80/?",
+  "archived_url": "https://web.archive.org/web/20170908193135/http://stfiniansprimaryschool.ie:80/?",
+  "attempted_at": "2026-11-08T13:01:35.905382+00:00",
+  "linked_from_capture": null,
+  "http_status": 200,
+  "headers": {
+    "Content-Type": "text/html; charset=UTF-8",
+    "memento-datetime": "Fri, 08 Sep 2017 19:31:35 GMT"
+  },
+  "bytes": 52391,
+  "payload_sha256": "3aa42d381a9298591cbf02a523e6f78074a0370eeb026a55af402ad21a279565",
+  "format": "html",
+  "status": "archived_body_retrieved_requires_manual_evidence_review",
+  "text_file": "database/milestone2/evidence/exact_16461C_3aa42d381a9298591cbf.txt",
+  "linked_document_candidates": []
+}

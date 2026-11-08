@@ -1,0 +1,229 @@
+{
+  "roll": "18080A",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://howthprimaryschool.ie/?s=admission",
+      "final_url": "https://howthprimaryschool.ie/?s=admission",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Public site search form"
+    },
+    {
+      "url": "https://howthprimaryschool.ie/?page_id=1907",
+      "final_url": "https://howthprimaryschool.ie/?page_id=1907",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Privacy Policy"
+    },
+    {
+      "url": "https://howthprimaryschool.ie/?p=2359",
+      "final_url": "https://howthprimaryschool.ie/?p=2359",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Draft Admissions Policy & Annual Admissions Notice"
+    },
+    {
+      "url": "https://howthprimaryschool.ie/wp-content/uploads/2020/04/Annual-Admission-Notice-2021.pdf",
+      "final_url": "https://howthprimaryschool.ie/wp-content/uploads/2020/04/Annual-Admission-Notice-2021.pdf",
+      "status": "http_404",
+      "via": "school_public_link",
+      "label": "Annual Admission Notice 2021"
+    },
+    {
+      "url": "https://howthprimaryschool.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://howthprimaryschool.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "http_404",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://howthprimaryschool.ie/wp-content/uploads/2020/04/admissions-policy.pdf",
+      "final_url": "https://howthprimaryschool.ie/wp-content/uploads/2020/04/admissions-policy.pdf",
+      "status": "http_404",
+      "via": "school_public_link",
+      "label": "Draft Admissions Policy"
+    },
+    {
+      "url": "https://howthprimaryschool.ie/?page_id=260",
+      "final_url": "https://howthprimaryschool.ie/?page_id=260",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://howthprimaryschool.ie/wp-content/uploads/2025/09/Admissions-Policy-24.09.25.pdf",
+      "final_url": "https://howthprimaryschool.ie/wp-content/uploads/2025/09/Admissions-Policy-24.09.25.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions Policy"
+    },
+    {
+      "url": "https://howthprimaryschool.ie/wp-content/uploads/2026/10/Admissions-Application-Form-2027-2028.pdf",
+      "final_url": "https://howthprimaryschool.ie/wp-content/uploads/2026/10/Admissions-Application-Form-2027-2028.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions Application Form 2027/2028"
+    },
+    {
+      "url": "https://howthprimaryschool.ie/sitemap.xml",
+      "final_url": "https://howthprimaryschool.ie/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://howthprimaryschool.ie/?page_id=90",
+      "final_url": "https://howthprimaryschool.ie/?page_id=90",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents Association"
+    },
+    {
+      "url": "https://howthprimaryschool.ie/?page_id=72",
+      "final_url": "https://howthprimaryschool.ie/?page_id=72",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://howthprimaryschool.ie/wp-content/uploads/2024/11/Parental_Complaints_Procedure_-2023.pdf",
+      "final_url": "https://howthprimaryschool.ie/wp-content/uploads/2024/11/Parental_Complaints_Procedure_-2023.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parental Complaints Procedure"
+    },
+    {
+      "url": "https://howthprimaryschool.ie/wp-content/uploads/2026/10/Admissions-Policy.pdf",
+      "final_url": "https://howthprimaryschool.ie/wp-content/uploads/2026/10/Admissions-Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions Policy"
+    },
+    {
+      "url": "https://howthprimaryschool.ie/wp-content/uploads/2026/03/CSS3-Notification-to-parents.pdf",
+      "final_url": "https://howthprimaryschool.ie/wp-content/uploads/2026/03/CSS3-Notification-to-parents.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Child Safeguarding Statement Notification to parents"
+    },
+    {
+      "url": "https://howthprimaryschool.ie/wp-content/uploads/2017/05/HomeworkPolicy.Feb2014No2.pdf",
+      "final_url": "https://howthprimaryschool.ie/wp-content/uploads/2017/05/HomeworkPolicy.Feb2014No2.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Homework Policy"
+    },
+    {
+      "url": "https://howthprimaryschool.ie/wp-content/uploads/2019/02/Data-Protection-Policy.pdf",
+      "final_url": "https://howthprimaryschool.ie/wp-content/uploads/2019/02/Data-Protection-Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Data Protection Policy"
+    },
+    {
+      "url": "https://howthprimaryschool.ie/",
+      "final_url": "https://howthprimaryschool.ie/",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://howthprimaryschool.ie/wp-content/uploads/2025/06/Administration-of-Medication-Policy-Jan-2023.pdf",
+      "final_url": "https://howthprimaryschool.ie/wp-content/uploads/2025/06/Administration-of-Medication-Policy-Jan-2023.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Administration of Medication Policy"
+    },
+    {
+      "url": "https://howthprimaryschool.ie/wp-content/uploads/2026/10/Parent-School-Communication-Policy.pdf",
+      "final_url": "https://howthprimaryschool.ie/wp-content/uploads/2026/10/Parent-School-Communication-Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parent School Communication Policy"
+    },
+    {
+      "url": "https://howthprimaryschool.ie/wp-content/uploads/2026/10/Mobile-Phone-Smart-Devices-Policy.pdf",
+      "final_url": "https://howthprimaryschool.ie/wp-content/uploads/2026/10/Mobile-Phone-Smart-Devices-Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Mobile Phone & Smart Devices Policy"
+    },
+    {
+      "url": "https://howthprimaryschool.ie/wp-content/uploads/2026/10/Healthy-Eating-Policy.pdf",
+      "final_url": "https://howthprimaryschool.ie/wp-content/uploads/2026/10/Healthy-Eating-Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Healthy Eating Policy"
+    },
+    {
+      "url": "https://howthprimaryschool.ie/wp-content/uploads/2026/10/Bi-Cinealta-Policy.pdf",
+      "final_url": "https://howthprimaryschool.ie/wp-content/uploads/2026/10/Bi-Cinealta-Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Bi Cinealta Policy"
+    },
+    {
+      "url": "https://howthprimaryschool.ie/wp-content/uploads/2026/06/School-Uniform-Policy-14.05.26.docx.pdf",
+      "final_url": "https://howthprimaryschool.ie/wp-content/uploads/2026/06/School-Uniform-Policy-14.05.26.docx.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Uniform Policy"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "18080A",
+      "url": "https://howthprimaryschool.ie/?s=admission",
+      "label": "Public site search form",
+      "sha256": "d4c7f0da68ad9149f657fc1a56fd2b05e2e73704b0e221fe55a4243b36980d44",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/18080A_d4c7f0da68ad9149f657.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 177
+    },
+    {
+      "roll": "18080A",
+      "url": "https://howthprimaryschool.ie/?p=2359",
+      "label": "Draft Admissions Policy & Annual Admissions Notice",
+      "sha256": "05e0c9d421077415dcbd0db4b794c3f0fa0e9a877e044e6726ec2db3e634359b",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/18080A_05e0c9d421077415dcbd.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 477
+    },
+    {
+      "roll": "18080A",
+      "url": "https://howthprimaryschool.ie/?page_id=260",
+      "label": "Prior school admissions section",
+      "sha256": "301a1172304c5beab034c674afccb580063d7a175fba73ca8bd1f67383546c43",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/18080A_301a1172304c5beab034.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 427
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://howthprimaryschool.ie/wp-content/uploads/2026/06/Final-Intimate-Care-Policy-14.05.26.docx.pdf",
+      "label": "Intimate Care Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://howthprimaryschool.ie/wp-content/uploads/2026/05/School-Tour-Policy-28.05.25.docx.pdf",
+      "label": "School Tour Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://howthprimaryschool.ie/wp-content/uploads/2026/05/Afterschool-Activities-Policy.pdf",
+      "label": "Afterschool Activities Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 86.04,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:52:54+0000"
+}

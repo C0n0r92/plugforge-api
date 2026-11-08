@@ -1,0 +1,30 @@
+{
+  "roll": "19500B",
+  "attempted_at": "2026-11-08T13:13:04+0000",
+  "method": "documented_public_WordPress_media_notice_and_Irish_title_gap_search",
+  "attempts": [
+    {
+      "url": "https://phoenixparkschool.ie/wp-json/wp/v2/media?search=notice&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok"
+    },
+    {
+      "url": "https://phoenixparkschool.ie/wp-json/wp/v2/media?search=f%C3%B3gra&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok"
+    },
+    {
+      "url": "https://phoenixparkschool.ie/wp-content/uploads/2025/10/Admissions-Notice-25_26.pdf",
+      "status": "ok",
+      "label": "Admissions Notice 25_26"
+    },
+    {
+      "url": "https://phoenixparkschool.ie/wp-content/uploads/2026/10/Admissions-Notice-27_28.pdf",
+      "status": "ok",
+      "label": "Admissions Notice 27_28"
+    }
+  ],
+  "documents": [],
+  "pending_links": [],
+  "earliest_year_cutoff": null,
+  "status": "attempted_no_new_notice_payload",
+  "elapsed_seconds": 11.3
+}

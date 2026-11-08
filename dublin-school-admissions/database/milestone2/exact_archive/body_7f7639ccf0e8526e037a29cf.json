@@ -1,0 +1,25 @@
+{
+  "roll": "05600C",
+  "capture": {
+    "timestamp": "20250424074329",
+    "original": "https://www.dominicandunlaoghaire.ie/annual-admissions-notice/",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "digest": "CUUO6WLU2PGAEYZ46CBJDSJQRJ4YL4FU"
+  },
+  "original_url": "https://www.dominicandunlaoghaire.ie/annual-admissions-notice/",
+  "archived_url": "https://web.archive.org/web/20250424074329/https://www.dominicandunlaoghaire.ie/annual-admissions-notice/",
+  "attempted_at": "2026-11-08T12:57:30.412475+00:00",
+  "linked_from_capture": null,
+  "http_status": 200,
+  "headers": {
+    "Content-Type": "text/html; charset=UTF-8",
+    "memento-datetime": "Thu, 24 Apr 2025 07:43:29 GMT"
+  },
+  "bytes": 41902,
+  "payload_sha256": "7c5ec19bb4aa05932c85f904c119026a89424bb4cd814e7da156b4adeb086543",
+  "format": "html",
+  "status": "archived_body_retrieved_requires_manual_evidence_review",
+  "text_file": "database/milestone2/evidence/exact_05600C_7c5ec19bb4aa05932c85.txt",
+  "linked_document_candidates": []
+}

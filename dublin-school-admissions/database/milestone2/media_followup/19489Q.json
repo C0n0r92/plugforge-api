@@ -1,0 +1,129 @@
+{
+  "roll": "19489Q",
+  "attempted_at": "2026-11-08T13:12:33+0000",
+  "method": "documented_public_WordPress_media_notice_and_Irish_title_gap_search",
+  "attempts": [
+    {
+      "url": "https://saintfinians.ie/wp-json/wp/v2/media?search=notice&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok"
+    },
+    {
+      "url": "https://saintfinians.ie/wp-json/wp/v2/media?search=f%C3%B3gra&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok"
+    },
+    {
+      "url": "https://saintfinians.ie/wp-content/uploads/2022/09/Saint-Finians-Admission-Notice-22-23.pdf",
+      "status": "ok",
+      "label": "Saint Finians Admission Notice 22-23"
+    },
+    {
+      "url": "https://saintfinians.ie/wp-content/uploads/2023/09/23_34-Admissions-notice-1.pdf",
+      "status": "ok",
+      "label": "23_34 Admissions-notice (1)"
+    },
+    {
+      "url": "https://saintfinians.ie/wp-content/uploads/2023/10/24_25Admissions-notice-1.pdf",
+      "status": "ok",
+      "label": "24_25Admissions-notice (1)"
+    },
+    {
+      "url": "https://saintfinians.ie/wp-content/uploads/2024/09/25_26-Admissions-notice-1.pdf",
+      "status": "ok",
+      "label": "25_26 Admissions-notice (1)"
+    },
+    {
+      "url": "https://saintfinians.ie/wp-content/uploads/2025/09/Admissions-Notice.pdf",
+      "status": "ok",
+      "label": "Admissions Notice"
+    },
+    {
+      "url": "https://saintfinians.ie/wp-content/uploads/2025/09/26_27-Admissions-notice-1.pdf",
+      "status": "ok",
+      "label": "26_27 Admissions-notice (1)"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19489Q",
+      "url": "https://saintfinians.ie/wp-content/uploads/2022/09/Saint-Finians-Admission-Notice-22-23.pdf",
+      "label": "Saint Finians Admission Notice 22-23",
+      "sha256": "39818ff07b8915f09c20f5ced8fc7369b7d2eb57fe50989275d4da145a5c44ce",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19489Q_39818ff07b8915f09c20.txt",
+      "source_file": "database/milestone2/cache/39818ff07b8915f09c20f5ced8fc7369b7d2eb57fe50989275d4da145a5c44ce.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 2729,
+      "discovery_method": "documented_WP_notice_or_Irish_title_media_query",
+      "cms_media_date_as_printed_not_publication": "2022-09-06T10:58:49"
+    },
+    {
+      "roll": "19489Q",
+      "url": "https://saintfinians.ie/wp-content/uploads/2023/09/23_34-Admissions-notice-1.pdf",
+      "label": "23_34 Admissions-notice (1)",
+      "sha256": "9a343eace5901748a99596b36677e7a75a26f9d3cdb472c62821b3fa27a91746",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19489Q_9a343eace5901748a995.txt",
+      "source_file": "database/milestone2/cache/9a343eace5901748a99596b36677e7a75a26f9d3cdb472c62821b3fa27a91746.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1619,
+      "discovery_method": "documented_WP_notice_or_Irish_title_media_query",
+      "cms_media_date_as_printed_not_publication": "2023-09-06T09:59:06"
+    },
+    {
+      "roll": "19489Q",
+      "url": "https://saintfinians.ie/wp-content/uploads/2023/10/24_25Admissions-notice-1.pdf",
+      "label": "24_25Admissions-notice (1)",
+      "sha256": "359c50e9a008e0afb869feda56466fc10efd6da1ce9fbb8a02191f9a39a48a1f",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19489Q_359c50e9a008e0afb869.txt",
+      "source_file": "database/milestone2/cache/359c50e9a008e0afb869feda56466fc10efd6da1ce9fbb8a02191f9a39a48a1f.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1659,
+      "discovery_method": "documented_WP_notice_or_Irish_title_media_query",
+      "cms_media_date_as_printed_not_publication": "2023-10-03T07:13:19"
+    },
+    {
+      "roll": "19489Q",
+      "url": "https://saintfinians.ie/wp-content/uploads/2024/09/25_26-Admissions-notice-1.pdf",
+      "label": "25_26 Admissions-notice (1)",
+      "sha256": "f2b787948b42415bd46e40e53b25cd2db415a3dc56c4feae958b18f2fda08c88",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19489Q_f2b787948b42415bd46e.txt",
+      "source_file": "database/milestone2/cache/f2b787948b42415bd46e40e53b25cd2db415a3dc56c4feae958b18f2fda08c88.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1834,
+      "discovery_method": "documented_WP_notice_or_Irish_title_media_query",
+      "cms_media_date_as_printed_not_publication": "2024-09-23T11:27:34"
+    },
+    {
+      "roll": "19489Q",
+      "url": "https://saintfinians.ie/wp-content/uploads/2025/09/Admissions-Notice.pdf",
+      "label": "Admissions Notice",
+      "sha256": "bd5263b9e25605fb4fe9658c493cdb86d32819a138e0c0edcaea75a819a54acf",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19489Q_bd5263b9e25605fb4fe9.txt",
+      "source_file": "database/milestone2/cache/bd5263b9e25605fb4fe9658c493cdb86d32819a138e0c0edcaea75a819a54acf.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 2907,
+      "discovery_method": "documented_WP_notice_or_Irish_title_media_query",
+      "cms_media_date_as_printed_not_publication": "2025-09-04T13:56:39"
+    },
+    {
+      "roll": "19489Q",
+      "url": "https://saintfinians.ie/wp-content/uploads/2025/09/26_27-Admissions-notice-1.pdf",
+      "label": "26_27 Admissions-notice (1)",
+      "sha256": "078ef92996f75e058bb7bbe90aca072879e75c381a0cffa55c45ffa196c3bb0c",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19489Q_078ef92996f75e058bb7.txt",
+      "source_file": "database/milestone2/cache/078ef92996f75e058bb7bbe90aca072879e75c381a0cffa55c45ffa196c3bb0c.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 2924,
+      "discovery_method": "documented_WP_notice_or_Irish_title_media_query",
+      "cms_media_date_as_printed_not_publication": "2025-09-29T08:21:58"
+    }
+  ],
+  "pending_links": [],
+  "earliest_year_cutoff": null,
+  "status": "attempted_new_historical_notice_candidates",
+  "elapsed_seconds": 26.0
+}

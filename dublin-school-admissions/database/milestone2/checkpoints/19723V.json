@@ -1,0 +1,219 @@
+{
+  "roll": "19723V",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.qoa.ie/Home-School/Late-Admissions-Junior-Infants-20267/1121089/Index.html",
+      "final_url": "https://www.qoa.ie/Home-School/Late-Admissions-Junior-Infants-20267/1121089/Index.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Late Admissions Junior Infants 2026/7"
+    },
+    {
+      "url": "https://www.qoa.ie/page/Admissions-Junior-Infants-and-all-other-classes/1146866/Index.html",
+      "final_url": "https://www.qoa.ie/page/Admissions-Junior-Infants-and-all-other-classes/1146866/Index.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions all other Classes"
+    },
+    {
+      "url": "https://www.qoa.ie/page/Admissions-Information/1142694/Index.html",
+      "final_url": "https://www.qoa.ie/page/Admissions-Information/1142694/Index.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions Information"
+    },
+    {
+      "url": "https://www.qoa.ie/page/Admissions--Autism-Class/1147164/Index.html",
+      "final_url": "https://www.qoa.ie/page/Admissions--Autism-Class/1147164/Index.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions - Autism Class"
+    },
+    {
+      "url": "https://www.qoa.ie/Page/Admissions-Information/1142694/Index.html",
+      "final_url": "https://www.qoa.ie/Page/Admissions-Information/1142694/Index.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions Information"
+    },
+    {
+      "url": "https://www.qoa.ie/Page/Admissions--Autism-Class/1147164/Index.html",
+      "final_url": "https://www.qoa.ie/Page/Admissions--Autism-Class/1147164/Index.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions - Autism Class"
+    },
+    {
+      "url": "https://www.qoa.ie/Home-School/Admissions-all-other-classes/1121238/Index.html",
+      "final_url": "https://www.qoa.ie/Home-School/Admissions-all-other-classes/1121238/Index.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions all other classes"
+    },
+    {
+      "url": "https://www.qoa.ie/Enrolment/Index.html",
+      "final_url": "https://www.qoa.ie/Enrolment/Index.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Enrolment"
+    },
+    {
+      "url": "https://www.qoa.ie/Content/2020/9/fg22-Dublin_Diocesan_Admission_Policy_QOA14.9.20.docx",
+      "final_url": "https://www.qoa.ie/Content/2020/9/fg22-Dublin_Diocesan_Admission_Policy_QOA14.9.20.docx",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://www.qoa.ie/Admissions/Index.html",
+      "final_url": "https://www.qoa.ie/Admissions/Index.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://www.qoa.ie/sitemap.xml",
+      "final_url": "https://www.qoa.ie/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.qoa.ie/page/Policies/36667/Index.html",
+      "final_url": "https://www.qoa.ie/page/Policies/36667/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.qoa.ie/Policies/Index.html",
+      "final_url": "https://www.qoa.ie/Policies/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.qoa.ie/Page/Policies/36667/Index.html",
+      "final_url": "https://www.qoa.ie/Page/Policies/36667/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.qoa.ie",
+      "final_url": "https://www.qoa.ie",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.qoa.ie/Content/2022/2/wt87-DataProtectionPolicy.doc",
+      "final_url": "https://www.qoa.ie/Content/2022/2/wt87-DataProtectionPolicy.doc",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Data Protection Policy"
+    },
+    {
+      "url": "https://www.qoa.ie/Content/2022/2/oc50-Religious_Education_Policy.docx",
+      "final_url": "https://www.qoa.ie/Content/2022/2/oc50-Religious_Education_Policy.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Religious Education Policy"
+    },
+    {
+      "url": "https://www.qoa.ie/Content/2022/2/gk23-Mobile_Phone_Policy.doc",
+      "final_url": "https://www.qoa.ie/Content/2022/2/gk23-Mobile_Phone_Policy.doc",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Mobile Phone Policy"
+    },
+    {
+      "url": "https://www.qoa.ie/Content/2022/2/cu70-Assessment__Recording_Policy_.docx",
+      "final_url": "https://www.qoa.ie/Content/2022/2/cu70-Assessment__Recording_Policy_.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Assessment & Recording"
+    },
+    {
+      "url": "https://www.qoa.ie/Content/2022/11/dm14-E.A.L._Policy_.pdf",
+      "final_url": "https://www.qoa.ie/Content/2022/11/dm14-E.A.L._Policy_.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "EAL Policy"
+    },
+    {
+      "url": "https://www.qoa.ie/Content/2022/10/sa60-Science_Policy.docx",
+      "final_url": "https://www.qoa.ie/Content/2022/10/sa60-Science_Policy.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Science Policy"
+    },
+    {
+      "url": "https://www.qoa.ie/Content/2025/3/tl74-Child_Safeguarding_Statement_202425.docx",
+      "final_url": "https://www.qoa.ie/Content/2025/3/tl74-Child_Safeguarding_Statement_202425.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Child Protection Policy"
+    },
+    {
+      "url": "https://www.qoa.ie/Content/2025/2/xd91-AEN_Policy_QoA__2024.26.docx",
+      "final_url": "https://www.qoa.ie/Content/2025/2/xd91-AEN_Policy_QoA__2024.26.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Additional Education Support Policy"
+    },
+    {
+      "url": "https://www.qoa.ie/Page/EAL-Policy/395459/Index.html",
+      "final_url": "https://www.qoa.ie/Page/EAL-Policy/395459/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "EAL Policy"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19723V",
+      "url": "https://www.qoa.ie/Enrolment/Index.html",
+      "label": "Enrolment",
+      "sha256": "eb3b1cab3f886d676430576341612d48b179fe3ff2956015e97d3b93f960d8ac",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19723V_eb3b1cab3f886d676430.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 641
+    },
+    {
+      "roll": "19723V",
+      "url": "https://www.qoa.ie/Content/2020/9/fg22-Dublin_Diocesan_Admission_Policy_QOA14.9.20.docx",
+      "label": "Prior school admissions section",
+      "sha256": "91716ca61abb9555f13599f050ce03ebc0ee1c76e9493bdc8ea57437b0197320",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/19723V_91716ca61abb9555f135.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 20355
+    },
+    {
+      "roll": "19723V",
+      "url": "https://www.qoa.ie/Admissions/Index.html",
+      "label": "Admissions",
+      "sha256": "d27ef7bc8f933c8e8a6a71d42fa79c93861de85ceac25f475a22382f5a3b9e49",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19723V_d27ef7bc8f933c8e8a6a.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 641
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.qoa.ie/Page/Bi-Cinealta-Policy/1113192/Index.html",
+      "label": "Bí Cinealta Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 87.55,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:47:12+0000"
+}

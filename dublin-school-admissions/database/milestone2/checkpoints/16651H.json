@@ -1,0 +1,233 @@
+{
+  "roll": "16651H",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.stclares.ie",
+      "final_url": "https://www.stclares.ie",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.stclares.ie/_files/ugd/4d0b36_5e440b9b6cc04da0a90f0ff754d41ce5.pdf",
+      "final_url": "https://www.stclares.ie/_files/ugd/4d0b36_5e440b9b6cc04da0a90f0ff754d41ce5.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parental Complaints Procedure"
+    },
+    {
+      "url": "https://www.stclares.ie/sitemap.xml",
+      "final_url": "https://www.stclares.ie/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.stclares.ie/pages-sitemap.xml",
+      "final_url": "https://www.stclares.ie/pages-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.stclares.ie/blog-posts-sitemap.xml",
+      "final_url": "https://www.stclares.ie/blog-posts-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.stclares.ie/blog-categories-sitemap.xml",
+      "final_url": "https://www.stclares.ie/blog-categories-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.stclares.ie/application-forms",
+      "final_url": "https://www.stclares.ie/application-forms",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "ADMISSIONS"
+    },
+    {
+      "url": "https://www.stclares.ie/_files/ugd/17b632_bf1768d244724fcead616ac980e9c863.docx?dn=St.%20Clare's%20Admission%20Notice%202027-2028.docx",
+      "final_url": "https://5863c916-38e4-42f5-aeba-001d11edd3d7.filesusr.com/ugd/17b632_bf1768d244724fcead616ac980e9c863.docx?dn=St.%20Clare%27s%20Admission%20Notice%202027-2028.docx",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "Admissions Notice"
+    },
+    {
+      "url": "https://www.stclares.ie/_files/ugd/4d0b36_e77e174f57554e45ae02c832f785ad1c.pdf",
+      "final_url": "https://www.stclares.ie/_files/ugd/4d0b36_e77e174f57554e45ae02c832f785ad1c.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions Policy"
+    },
+    {
+      "url": "https://www.stclares.ie/all-policies",
+      "final_url": "https://www.stclares.ie/all-policies",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "All Policies"
+    },
+    {
+      "url": "https://www.stclares.ie/admission-policy",
+      "final_url": "https://www.stclares.ie/admission-policy",
+      "status": "ok",
+      "via": "sitemap_link",
+      "label": "Admission URL from sitemap"
+    },
+    {
+      "url": "https://www.stclares.ie/_files/ugd/17b632_f09cbfca70da45fb9deba048d4b217b2.pdf",
+      "final_url": "https://5863c916-38e4-42f5-aeba-001d11edd3d7.filesusr.com/ugd/17b632_f09cbfca70da45fb9deba048d4b217b2.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "Special Needs Policy"
+    },
+    {
+      "url": "https://www.stclares.ie/_files/ugd/17b632_b811ff1fb21d4c7aa56a891b7867545b.pdf",
+      "final_url": "https://5863c916-38e4-42f5-aeba-001d11edd3d7.filesusr.com/ugd/17b632_b811ff1fb21d4c7aa56a891b7867545b.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "Data Protection Policy"
+    },
+    {
+      "url": "https://www.stclares.ie/_files/ugd/17b632_b690fe4730c046aa98d81aeb64a21256.pdf",
+      "final_url": "https://5863c916-38e4-42f5-aeba-001d11edd3d7.filesusr.com/ugd/17b632_b690fe4730c046aa98d81aeb64a21256.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "Confidentiality Policy"
+    },
+    {
+      "url": "https://www.stclares.ie/_files/ugd/17b632_b4349e7c1f944d869433c4a0d91cfe1b.pdf",
+      "final_url": "https://5863c916-38e4-42f5-aeba-001d11edd3d7.filesusr.com/ugd/17b632_b4349e7c1f944d869433c4a0d91cfe1b.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "SPHE Policy"
+    },
+    {
+      "url": "https://www.stclares.ie/_files/ugd/17b632_b00b37a00ab34ca7926b3e002a04a558.pdf",
+      "final_url": "https://5863c916-38e4-42f5-aeba-001d11edd3d7.filesusr.com/ugd/17b632_b00b37a00ab34ca7926b3e002a04a558.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "Child Safeguarding Policy"
+    },
+    {
+      "url": "https://www.stclares.ie/_files/ugd/17b632_af7b2a46d0bf410995f6128ea29a6fa2.pdf",
+      "final_url": "https://5863c916-38e4-42f5-aeba-001d11edd3d7.filesusr.com/ugd/17b632_af7b2a46d0bf410995f6128ea29a6fa2.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "Anti-Bullying Policy"
+    },
+    {
+      "url": "https://www.stclares.ie/_files/ugd/17b632_ac3cf356335c4ee6b6a835aec86a0d05.pdf",
+      "final_url": "https://5863c916-38e4-42f5-aeba-001d11edd3d7.filesusr.com/ugd/17b632_ac3cf356335c4ee6b6a835aec86a0d05.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "Mobile Phone Policy"
+    },
+    {
+      "url": "https://www.stclares.ie/_files/ugd/17b632_a9bb6fe63526455a9321a7ea34198e8d.pdf",
+      "final_url": "https://5863c916-38e4-42f5-aeba-001d11edd3d7.filesusr.com/ugd/17b632_a9bb6fe63526455a9321a7ea34198e8d.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "Bí Cinneálta Policy"
+    },
+    {
+      "url": "https://www.stclares.ie/_files/ugd/17b632_94c00308670840eb8e670302f6a302ca.pdf",
+      "final_url": "https://5863c916-38e4-42f5-aeba-001d11edd3d7.filesusr.com/ugd/17b632_94c00308670840eb8e670302f6a302ca.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "Internet & Digital Media Policy"
+    },
+    {
+      "url": "https://www.stclares.ie/_files/ugd/17b632_53ccf9b3993845f69d64dbb16e07a4e5.pdf",
+      "final_url": "https://5863c916-38e4-42f5-aeba-001d11edd3d7.filesusr.com/ugd/17b632_53ccf9b3993845f69d64dbb16e07a4e5.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "Protected Disclosures Policy"
+    },
+    {
+      "url": "https://www.stclares.ie/_files/ugd/17b632_4a58a3eb56a34b8db783e1e3774ca54b.pdf",
+      "final_url": "https://5863c916-38e4-42f5-aeba-001d11edd3d7.filesusr.com/ugd/17b632_4a58a3eb56a34b8db783e1e3774ca54b.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "School Uniform Policy"
+    },
+    {
+      "url": "https://www.stclares.ie/_files/ugd/17b632_449b7b59b2964aa8afd07dca422ef887.pdf",
+      "final_url": "https://5863c916-38e4-42f5-aeba-001d11edd3d7.filesusr.com/ugd/17b632_449b7b59b2964aa8afd07dca422ef887.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "Dignity at Workplace Policy"
+    },
+    {
+      "url": "https://www.stclares.ie/_files/ugd/17b632_29108b0f34c94eae8af04ab680419d9a.pdf",
+      "final_url": "https://5863c916-38e4-42f5-aeba-001d11edd3d7.filesusr.com/ugd/17b632_29108b0f34c94eae8af04ab680419d9a.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "RSE Policy"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "16651H",
+      "url": "https://www.stclares.ie/_files/ugd/4d0b36_e77e174f57554e45ae02c832f785ad1c.pdf",
+      "label": "Admissions Policy",
+      "sha256": "6ea5756355a8b29d7d635a5fa7f1d34a584a70800f94dde86caf9a14422948fa",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/16651H_6ea5756355a8b29d7d63.txt",
+      "source_file": "database/milestone2/cache/6ea5756355a8b29d7d635a5fa7f1d34a584a70800f94dde86caf9a14422948fa.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 45443
+    },
+    {
+      "roll": "16651H",
+      "url": "https://www.stclares.ie/admission-policy",
+      "label": "Admission URL from sitemap",
+      "sha256": "842934ade8ddef4bd52974204f34a438814807ef767c694f692e0a80c67b51bd",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/16651H_842934ade8ddef4bd529.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 18100
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.stclares.ie/traffic-management-policy",
+      "label": "Traffic Management Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stclares.ie/learning-platforms",
+      "label": "Learning Platforms & Zoom Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stclares.ie/illness-policy",
+      "label": "Illness Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stclares.ie/critical-incident",
+      "label": "Critical Incident Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stclares.ie/communication-policy",
+      "label": "Communication Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stclares.ie/attendance",
+      "label": "Attendance Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 69.45,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:02:45+0000"
+}

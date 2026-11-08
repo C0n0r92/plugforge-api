@@ -1,0 +1,483 @@
+{
+  "roll": "18977B",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.colmcillesgns.com/parents-area/enrolment/?googletranslate=true",
+      "final_url": "https://www.colmcillesgns.com/parents-area/enrolment/?googletranslate=true",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "https://www.colmcillesgns.com/documentlink/126/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/862/docletter/20260115123459_49_Updated_Admission_Notice_2026_2027.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Updated Admission Notice 2026 2027.pdf"
+    },
+    {
+      "url": "https://www.colmcillesgns.com/documentlink/146/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/862/docletter/20260922031610_79_Annual_Admission_Notice_2027_2028.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Annual Admission Notice 2027 2028.pdf"
+    },
+    {
+      "url": "https://www.colmcillesgns.com/parents-area/enrolment/",
+      "final_url": "https://www.colmcillesgns.com/parents-area/enrolment/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Enrolment"
+    },
+    {
+      "url": "https://www.colmcillesgns.com/documentlink/113/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/862/docletter/20250930100700_10_application-for-enrolment-JI_to_6th-class.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "application-for-enrolment-JI to 6th-class.pdf"
+    },
+    {
+      "url": "https://www.colmcillesgns.com/documentlink/103/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/862/docletter/20250925010327_84_application-for-enrolment-autism-class.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "application-for-enrolment-autism-class.pdf"
+    },
+    {
+      "url": "https://www.colmcillesgns.com/admin/?open=/parents-area/enrolment/?googletranslate=true",
+      "final_url": "https://www.colmcillesgns.com/admin/?open=/parents-area/enrolment/?googletranslate=true",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.colmcillesgns.com/admin/?open=/parents-area/enrolment/",
+      "final_url": "https://www.colmcillesgns.com/admin/?open=/parents-area/enrolment/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.colmcillesgns.com/documentlink/101/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/862/docletter/20250925125340_11_Admissions_Policy_St_Colmcilles_GNS_Sept_2025_FINAL.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Admissions Policy St Colmcilles GNS Sept 2025 FINAL.pdf"
+    },
+    {
+      "url": "https://www.colmcillesgns.com/sitemap.xml",
+      "final_url": "https://www.colmcillesgns.com/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.colmcillesgns.com/parents-area/school-uniform/",
+      "final_url": "https://www.colmcillesgns.com/parents-area/school-uniform/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Uniform"
+    },
+    {
+      "url": "https://www.colmcillesgns.com/parents-area/school-uniform/?googletranslate=true",
+      "final_url": "https://www.colmcillesgns.com/parents-area/school-uniform/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.colmcillesgns.com/parents-area/parents-association/",
+      "final_url": "https://www.colmcillesgns.com/parents-area/parents-association/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents' Association"
+    },
+    {
+      "url": "https://www.colmcillesgns.com/parents-area/parents-association/?googletranslate=true",
+      "final_url": "https://www.colmcillesgns.com/parents-area/parents-association/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.colmcillesgns.com/parents-area/newsletters/",
+      "final_url": "https://www.colmcillesgns.com/parents-area/newsletters/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Newsletters"
+    },
+    {
+      "url": "https://www.colmcillesgns.com/parents-area/newsletters/?googletranslate=true",
+      "final_url": "https://www.colmcillesgns.com/parents-area/newsletters/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.colmcillesgns.com/parents-area/hot-meals/",
+      "final_url": "https://www.colmcillesgns.com/parents-area/hot-meals/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Hot Meals"
+    },
+    {
+      "url": "https://www.colmcillesgns.com/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://www.colmcillesgns.com/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "http_404",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://www.colmcillesgns.com/parents-area/hot-meals/?googletranslate=true",
+      "final_url": "https://www.colmcillesgns.com/parents-area/hot-meals/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.colmcillesgns.com/parents-area/garda-vetting/",
+      "final_url": "https://www.colmcillesgns.com/parents-area/garda-vetting/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Garda Vetting"
+    },
+    {
+      "url": "https://www.colmcillesgns.com/parents-area/garda-vetting/?googletranslate=true",
+      "final_url": "https://www.colmcillesgns.com/parents-area/garda-vetting/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.colmcillesgns.com/parents-area/free-schoolbook-scheme/",
+      "final_url": "https://www.colmcillesgns.com/parents-area/free-schoolbook-scheme/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Free Schoolbook Scheme"
+    },
+    {
+      "url": "https://www.colmcillesgns.com/parents-area/free-schoolbook-scheme/?googletranslate=true",
+      "final_url": "https://www.colmcillesgns.com/parents-area/free-schoolbook-scheme/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.colmcillesgns.com/parents-area/calendar/",
+      "final_url": "https://www.colmcillesgns.com/parents-area/calendar/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Calendar"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "18977B",
+      "url": "https://www.colmcillesgns.com/parents-area/enrolment/?googletranslate=true",
+      "label": "",
+      "sha256": "3ccebff07f3f2269d96880b5f137f79d7ab17f554c5be7fef292e5c4aea70376",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/18977B_3ccebff07f3f2269d968.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 604
+    },
+    {
+      "roll": "18977B",
+      "url": "https://www.colmcillesgns.com/parents-area/enrolment/",
+      "label": "Enrolment",
+      "sha256": "ee4efa307ea105f676bb619c166ad56f4b25ea2f6e2ed530699a6b2bde7f3e9d",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/18977B_ee4efa307ea105f676bb.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 604
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.colmcillesgns.com/parents-area/calendar/?calyear=2026&calmonth=12&",
+      "label": "December 2026",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcillesgns.com/parents-area/calendar/?calyear=2026&calmonth=10&",
+      "label": "October 2026",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcillesgns.com/parents-area/calendar/?googletranslate=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcillesgns.com/parents-area/calendar/?calTable=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcillesgns.com/parents-area/booklists/",
+      "label": "Booklists",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcillesgns.com/parents-area/beforeafter-school/",
+      "label": "The Hive Childcare Afterschool",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcillesgns.com/parents-area/afterschool-activities/",
+      "label": "Afterschool Activities",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcillesgns.com/parents-area/",
+      "label": "Parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcillesgns.com/our-school/policies/child-protection/",
+      "label": "Child Protection",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcillesgns.com/our-school/policies/",
+      "label": "Policies",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcillesgns.com/news/parents-association-agm/",
+      "label": "Parent's Association A.G.M",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcillesgns.com/news/parent-association-meeting/",
+      "label": "Parent Association Meeting",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcillesgns.com/letterlink/3/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcillesgns.com/letterlink/2/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcillesgns.com/documentlink/84/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcillesgns.com/documentlink/83/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcillesgns.com/documentlink/82/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcillesgns.com/documentlink/80/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcillesgns.com/documentlink/80/?open=true",
+      "label": "EV Primary Schoolbooks Guide for Parents.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcillesgns.com/documentlink/42/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcillesgns.com/documentlink/28/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcillesgns.com/documentlink/26/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcillesgns.com/documentlink/149/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcillesgns.com/documentlink/146/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcillesgns.com/documentlink/145/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcillesgns.com/documentlink/142/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcillesgns.com/documentlink/133/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcillesgns.com/documentlink/131/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcillesgns.com/documentlink/126/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcillesgns.com/documentlink/125/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcillesgns.com/documentlink/125/?open=true",
+      "label": "Parent Activiation Letter.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcillesgns.com/documentlink/124/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcillesgns.com/documentlink/113/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcillesgns.com/documentlink/112/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcillesgns.com/documentlink/111/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcillesgns.com/documentlink/108/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcillesgns.com/documentlink/107/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcillesgns.com/documentlink/106/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcillesgns.com/documentlink/103/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcillesgns.com/documentlink/101/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcillesgns.com/admin/?open=/parents-area/school-uniform/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcillesgns.com/admin/?open=/parents-area/school-uniform/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcillesgns.com/admin/?open=/parents-area/parents-association/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcillesgns.com/admin/?open=/parents-area/parents-association/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcillesgns.com/admin/?open=/parents-area/newsletters/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcillesgns.com/admin/?open=/parents-area/newsletters/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcillesgns.com/admin/?open=/parents-area/hot-meals/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcillesgns.com/admin/?open=/parents-area/hot-meals/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcillesgns.com/admin/?open=/parents-area/garda-vetting/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcillesgns.com/admin/?open=/parents-area/garda-vetting/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcillesgns.com/admin/?open=/parents-area/free-schoolbook-scheme/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcillesgns.com/admin/?open=/parents-area/free-schoolbook-scheme/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcillesgns.com/admin/?open=/parents-area/calendar/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcillesgns.com",
+      "label": "School homepage",
+      "via": "home"
+    },
+    {
+      "url": "https://www.colmcillesgns.com/cmsfiles/policies/privacy/",
+      "label": "Website Privacy Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcillesgns.com/cmsfiles/policies/cookie/",
+      "label": "Cookie Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 70.04,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:05:24+0000"
+}

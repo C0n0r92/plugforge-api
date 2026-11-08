@@ -1,0 +1,37 @@
+{
+  "roll": "19960M",
+  "url": "https://www.stjohnsns.ie/wp-content/uploads/2024/12/Admission-p.pdf",
+  "prior_sha256": "e561bf16e1624b84095077f3c6c4b665047c7e1cf7858f19fc5bd3b794ae1a86",
+  "prior_status": "ok",
+  "prior_attempted_at": "2026-11-08T12:40:32+0000",
+  "started_at": "2026-11-08T13:30:41+0000",
+  "method": "recheck_prior_success_unparsed_notice_with_actual_OCR_if_needed",
+  "documents": [
+    {
+      "roll": "19960M",
+      "url": "https://www.stjohnsns.ie/wp-content/uploads/2024/12/Admission-p.pdf",
+      "sha256": "e561bf16e1624b84095077f3c6c4b665047c7e1cf7858f19fc5bd3b794ae1a86",
+      "format": "pdf",
+      "source_file": "database/milestone2/unparsed_notice_followup/cache/e561bf16e1624b84095077f3c6c4b665047c7e1cf7858f19fc5bd3b794ae1a86.pdf",
+      "text_file": "database/milestone2/unparsed_notice_followup/evidence/19960M_e561bf16e1624b840950.txt",
+      "candidate_status": "actual_body_OCR_requires_manual_review",
+      "ocr": true,
+      "retrieved_at": "2026-11-08T13:30:44+0000"
+    }
+  ],
+  "attempts": [
+    {
+      "url": "https://www.stjohnsns.ie/wp-content/uploads/2024/12/Admission-p.pdf",
+      "final_url": "https://www.stjohnsns.ie/wp-content/uploads/2024/12/Admission-p.pdf",
+      "status": "reused_local_verified_payload"
+    }
+  ],
+  "status": "body_retrieved_requires_manual_review",
+  "sha256": "e561bf16e1624b84095077f3c6c4b665047c7e1cf7858f19fc5bd3b794ae1a86",
+  "same_payload_as_prior_success": true,
+  "format": "pdf",
+  "parse_stderr": "",
+  "ocr_pending_reason": "tesseract_unavailable_and_package_repository_HTTP500; rendered_pages_available_for_manual_visual_review",
+  "text_length": 0,
+  "elapsed_seconds": 3.57
+}

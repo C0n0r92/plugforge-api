@@ -1,0 +1,30 @@
+{
+  "roll": "00752A",
+  "original_prefix": "https://www.centralmodelseniorschool.ie/_files/ugd/",
+  "method": "documented_CDX_source_derived_upload_prefix_all_available_dates",
+  "earliest_year_cutoff": null,
+  "attempted_at": "2026-11-08T12:59:58.619083+00:00",
+  "pages": [
+    {
+      "at": "2026-11-08T13:00:24.840932+00:00",
+      "params": {
+        "url": "https://www.centralmodelseniorschool.ie/_files/ugd/",
+        "matchType": "prefix",
+        "output": "json",
+        "fl": "timestamp,original,mimetype,statuscode,digest",
+        "filter": [
+          "statuscode:200",
+          "mimetype:application/pdf",
+          "original:(?i).*(admi|fogra|fógra|iontr|bliant|enrol).*"
+        ],
+        "collapse": "urlkey",
+        "limit": "200",
+        "showResumeKey": "true"
+      },
+      "http_status": 200
+    }
+  ],
+  "captures": [],
+  "status": "index_complete",
+  "capture_count": 0
+}

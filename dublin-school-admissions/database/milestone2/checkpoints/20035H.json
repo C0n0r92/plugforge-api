@@ -1,0 +1,125 @@
+{
+  "roll": "20035H",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://stgabrielsns.ie/?page_id=16603",
+      "final_url": "https://stgabrielsns.ie/?page_id=16603",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://stgabrielsns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://stgabrielsns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "http_404",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://stgabrielsns.ie/wp-content/uploads/2026/02/Admission-Policy-of-St.-Gabriels-N.S.-September-2025-1.docx",
+      "final_url": "https://stgabrielsns.ie/wp-content/uploads/2026/02/Admission-Policy-of-St.-Gabriels-N.S.-September-2025-1.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admission Policy of St. Gabriel’s N.S."
+    },
+    {
+      "url": "https://stgabrielsns.ie/sitemap.xml",
+      "final_url": "https://stgabrielsns.ie/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://stgabrielsns.ie/?page_id=840",
+      "final_url": "https://stgabrielsns.ie/?page_id=840",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://stgabrielsns.ie/wp-content/uploads/2024/06/Parental-Complaints-Procedure-1.pdf",
+      "final_url": "https://stgabrielsns.ie/wp-content/uploads/2024/06/Parental-Complaints-Procedure-1.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Complaints Procedure"
+    },
+    {
+      "url": "https://stgabrielsns.ie",
+      "final_url": "https://stgabrielsns.ie",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://stgabrielsns.ie/?p=17387",
+      "final_url": "https://stgabrielsns.ie/?p=17387",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Safe Guarding and Anti Bullying Policies"
+    },
+    {
+      "url": "https://stgabrielsns.ie/wp-content/uploads/2023/03/Relationship-and-Sexuality-Education-Policy-2023-1.pdf",
+      "final_url": "https://stgabrielsns.ie/wp-content/uploads/2023/03/Relationship-and-Sexuality-Education-Policy-2023-1.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Relationship and Sexuality Education Policy 2023"
+    },
+    {
+      "url": "https://stgabrielsns.ie/wp-content/uploads/2025/09/St-Gabriels-NS-Remote-Teaching-and-Learning-Plan-June-2025.pdf",
+      "final_url": "https://stgabrielsns.ie/wp-content/uploads/2025/09/St-Gabriels-NS-Remote-Teaching-and-Learning-Plan-June-2025.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Remote Learning Policy"
+    },
+    {
+      "url": "https://stgabrielsns.ie/wp-content/uploads/2025/09/St-Gabriels-NS-Mobile-Phone-Policy-June-2025.pdf",
+      "final_url": "https://stgabrielsns.ie/wp-content/uploads/2025/09/St-Gabriels-NS-Mobile-Phone-Policy-June-2025.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Mobile Phone Policy"
+    },
+    {
+      "url": "https://stgabrielsns.ie/wp-content/uploads/2025/09/St-Gabriels-NS-Internet-Acceptable-Use-Policy-June-2025.pdf",
+      "final_url": "https://stgabrielsns.ie/wp-content/uploads/2025/09/St-Gabriels-NS-Internet-Acceptable-Use-Policy-June-2025.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Acceptable Use Policy"
+    },
+    {
+      "url": "https://stgabrielsns.ie/wp-content/uploads/2025/09/Bi-Cinealta-Policy-2025.pdf",
+      "final_url": "https://stgabrielsns.ie/wp-content/uploads/2025/09/Bi-Cinealta-Policy-2025.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Bí Cineálta Anti-Bullying Policy"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "20035H",
+      "url": "https://stgabrielsns.ie/?page_id=16603",
+      "label": "Prior school admissions section",
+      "sha256": "841cc05ba7edcf145a6ac411ee5f40d9ddc0965b01ce109ff10a025adf850684",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20035H_841cc05ba7edcf145a6a.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 134
+    },
+    {
+      "roll": "20035H",
+      "url": "https://stgabrielsns.ie/wp-content/uploads/2026/02/Admission-Policy-of-St.-Gabriels-N.S.-September-2025-1.docx",
+      "label": "Admission Policy of St. Gabriel’s N.S.",
+      "sha256": "d41fa2dc223459b7d99e4db301b4eff1fec289961b554b052ce65721eb936d1b",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/20035H_d41fa2dc223459b7d99e.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 22438
+    }
+  ],
+  "pending_links": [],
+  "elapsed_seconds": 41.08,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:58:08+0000"
+}

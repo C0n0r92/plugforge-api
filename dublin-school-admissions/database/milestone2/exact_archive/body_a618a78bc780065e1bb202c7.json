@@ -1,0 +1,25 @@
+{
+  "roll": "19723V",
+  "capture": {
+    "timestamp": "20260311063601",
+    "original": "http://www.qoa.ie/page/Admissions/224556/Index.html",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "digest": "YIZA6BXD2XEXMVX2KN3WNMAKYKTPUSD6"
+  },
+  "original_url": "http://www.qoa.ie/page/Admissions/224556/Index.html",
+  "archived_url": "https://web.archive.org/web/20260311063601/http://www.qoa.ie/page/Admissions/224556/Index.html",
+  "attempted_at": "2026-11-08T12:53:57.689714+00:00",
+  "linked_from_capture": null,
+  "http_status": 200,
+  "headers": {
+    "Content-Type": "text/html; charset=utf-8",
+    "memento-datetime": "Wed, 11 Mar 2026 06:36:01 GMT"
+  },
+  "bytes": 59192,
+  "payload_sha256": "1010a8a038be3a6db438fac14375e8e527d340916446cfd6e8b926c8c5aa1090",
+  "format": "html",
+  "status": "archived_body_retrieved_requires_manual_evidence_review",
+  "text_file": "database/milestone2/evidence/exact_19723V_1010a8a038be3a6db438.txt",
+  "linked_document_candidates": []
+}

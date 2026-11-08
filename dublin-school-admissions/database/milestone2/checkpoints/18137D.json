@@ -1,0 +1,373 @@
+{
+  "roll": "18137D",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.stfergalsbns.ie/enrolment-/?googletranslate=true",
+      "final_url": "https://www.stfergalsbns.ie/enrolment-/?googletranslate=true",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "https://www.stfergalsbns.ie/documentlink/52/?open=true",
+      "final_url": "https://view.officeapps.live.com/op/embed.aspx?src=https://swddoc.b-cdn.net/760/docletter/20261021105853_43_Annual_Admissions_Notice_2027_-_2028.docx",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Annual Admissions Notice 2027 - 2028.docx"
+    },
+    {
+      "url": "https://www.stfergalsbns.ie/enrolment-/",
+      "final_url": "https://www.stfergalsbns.ie/enrolment-/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Enrolment"
+    },
+    {
+      "url": "https://www.stfergalsbns.ie/admin/?open=/enrolment-/?googletranslate=true",
+      "final_url": "https://www.stfergalsbns.ie/admin/?open=/enrolment-/?googletranslate=true",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.stfergalsbns.ie/admin/?open=/enrolment-/",
+      "final_url": "https://www.stfergalsbns.ie/admin/?open=/enrolment-/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.stfergalsbns.ie/sitemap.xml",
+      "final_url": "https://www.stfergalsbns.ie/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.stfergalsbns.ie/policies/",
+      "final_url": "https://www.stfergalsbns.ie/policies/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.stfergalsbns.ie/policies/?googletranslate=true",
+      "final_url": "https://www.stfergalsbns.ie/policies/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stfergalsbns.ie/parents-area/useful-links/",
+      "final_url": "https://www.stfergalsbns.ie/parents-area/useful-links/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Useful Links"
+    },
+    {
+      "url": "https://www.stfergalsbns.ie/parents-area/useful-links/?googletranslate=true",
+      "final_url": "https://www.stfergalsbns.ie/parents-area/useful-links/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stfergalsbns.ie/parents-area/uniform/",
+      "final_url": "https://www.stfergalsbns.ie/parents-area/uniform/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Uniform"
+    },
+    {
+      "url": "https://www.stfergalsbns.ie/parents-area/uniform/?googletranslate=true",
+      "final_url": "https://www.stfergalsbns.ie/parents-area/uniform/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stfergalsbns.ie/parents-area/newsletters/",
+      "final_url": "https://www.stfergalsbns.ie/parents-area/newsletters/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Newsletters"
+    },
+    {
+      "url": "https://www.stfergalsbns.ie/parents-area/newsletters/?googletranslate=true",
+      "final_url": "https://www.stfergalsbns.ie/parents-area/newsletters/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stfergalsbns.ie/parents-area/hscl/",
+      "final_url": "https://www.stfergalsbns.ie/parents-area/hscl/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "HSCL"
+    },
+    {
+      "url": "https://www.stfergalsbns.ie/parents-area/hscl/?googletranslate=true",
+      "final_url": "https://www.stfergalsbns.ie/parents-area/hscl/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stfergalsbns.ie/parents-area/homework/",
+      "final_url": "https://www.stfergalsbns.ie/parents-area/homework/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Homework"
+    },
+    {
+      "url": "https://www.stfergalsbns.ie/parents-area/homework/?googletranslate=true",
+      "final_url": "https://www.stfergalsbns.ie/parents-area/homework/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stfergalsbns.ie/parents-area/calendar/",
+      "final_url": "https://www.stfergalsbns.ie/parents-area/calendar/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Calendar"
+    },
+    {
+      "url": "https://www.stfergalsbns.ie/parents-area/calendar/?calyear=2026&calmonth=12&",
+      "final_url": "https://www.stfergalsbns.ie/parents-area/calendar/?calyear=2026&calmonth=12&",
+      "status": "prior_exact_URL_access_denial_not_retried",
+      "via": "school_public_link",
+      "label": "December 2026"
+    },
+    {
+      "url": "https://www.stfergalsbns.ie/parents-area/calendar/?calyear=2026&calmonth=10&",
+      "final_url": "https://www.stfergalsbns.ie/parents-area/calendar/?calyear=2026&calmonth=10&",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": "October 2026"
+    },
+    {
+      "url": "https://www.stfergalsbns.ie/parents-area/calendar/?googletranslate=true",
+      "final_url": "https://www.stfergalsbns.ie/parents-area/calendar/?googletranslate=true",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stfergalsbns.ie/parents-area/calendar/?calTable=true",
+      "final_url": "https://www.stfergalsbns.ie/parents-area/calendar/?calTable=true",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stfergalsbns.ie/parents-area/breakfast-club/",
+      "final_url": "https://www.stfergalsbns.ie/parents-area/breakfast-club/",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": "Breakfast Club"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "18137D",
+      "url": "https://www.stfergalsbns.ie/enrolment-/?googletranslate=true",
+      "label": "",
+      "sha256": "00368d10a1289acb6d612ebe910f5b8825fa97e7f79cc1e25b23d53ea3ea5970",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/18137D_00368d10a1289acb6d61.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 458
+    },
+    {
+      "roll": "18137D",
+      "url": "https://www.stfergalsbns.ie/enrolment-/",
+      "label": "Enrolment",
+      "sha256": "e37f3b56fcb147cdf4775c2fa5740d58d866c0a44f2100d12d8eb10de7d821dd",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/18137D_e37f3b56fcb147cdf477.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 458
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.stfergalsbns.ie/parents-area/booklists/",
+      "label": "Booklists",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfergalsbns.ie/parents-area/attendance/",
+      "label": "Attendance",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfergalsbns.ie/parents-area/",
+      "label": "Parents Area",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfergalsbns.ie/letterlink/16/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfergalsbns.ie/letterlink/15/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfergalsbns.ie/letterlink/14/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfergalsbns.ie/letterlink/13/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfergalsbns.ie/letterlink/11/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfergalsbns.ie/letterlink/10/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfergalsbns.ie/documentlink/52/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfergalsbns.ie/documentlink/50/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfergalsbns.ie/documentlink/49/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfergalsbns.ie/documentlink/47/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfergalsbns.ie/documentlink/47/?open=true",
+      "label": "Admissions Policy1.docx",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfergalsbns.ie/documentlink/42/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfergalsbns.ie/documentlink/31/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfergalsbns.ie/admin/?open=/policies/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfergalsbns.ie/admin/?open=/policies/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfergalsbns.ie/admin/?open=/parents-area/useful-links/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfergalsbns.ie/admin/?open=/parents-area/useful-links/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfergalsbns.ie/admin/?open=/parents-area/uniform/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfergalsbns.ie/admin/?open=/parents-area/uniform/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfergalsbns.ie/admin/?open=/parents-area/newsletters/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfergalsbns.ie/admin/?open=/parents-area/newsletters/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfergalsbns.ie/admin/?open=/parents-area/hscl/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfergalsbns.ie/admin/?open=/parents-area/hscl/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfergalsbns.ie/admin/?open=/parents-area/homework/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfergalsbns.ie/admin/?open=/parents-area/homework/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfergalsbns.ie/admin/?open=/parents-area/calendar/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfergalsbns.ie/",
+      "label": "School homepage",
+      "via": "home"
+    },
+    {
+      "url": "https://www.stfergalsbns.ie/documentlink/49/?open=true",
+      "label": "Bi Cin alta Policy.docx",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfergalsbns.ie/documentlink/42/?open=true",
+      "label": "Acceptable Internet Usage Policy.docx",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfergalsbns.ie/cmsfiles/policies/privacy/",
+      "label": "Website Privacy Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfergalsbns.ie/cmsfiles/policies/cookie/",
+      "label": "Cookie Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 55.84,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:04:09+0000"
+}

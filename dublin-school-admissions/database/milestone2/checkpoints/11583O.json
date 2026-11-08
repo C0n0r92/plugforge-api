@@ -1,0 +1,195 @@
+{
+  "roll": "11583O",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.standrewsns.ie/admissions/?googletranslate=true",
+      "final_url": "https://www.standrewsns.ie/admissions/?googletranslate=true",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "https://www.standrewsns.ie/documentlink/119/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/905/docletter/20261020125826_45_Annual_Admission_Notice_2027-2028.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Annual Admission Notice 2027-2028.pdf"
+    },
+    {
+      "url": "https://www.standrewsns.ie/admissions/",
+      "final_url": "https://www.standrewsns.ie/admissions/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://www.standrewsns.ie/admin/?open=/admissions/?googletranslate=true",
+      "final_url": "https://www.standrewsns.ie/admin/?open=/admissions/?googletranslate=true",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.standrewsns.ie/admin/?open=/admissions/",
+      "final_url": "https://www.standrewsns.ie/admin/?open=/admissions/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.standrewsns.ie/documentlink/120/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/905/docletter/20261021013357_25_Admissions_Policy_2027-2028.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Admissions Policy 2027-2028.pdf"
+    },
+    {
+      "url": "https://www.standrewsns.ie/sitemap.xml",
+      "final_url": "https://www.standrewsns.ie/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.standrewsns.ie/parents-/calendar/",
+      "final_url": "https://www.standrewsns.ie/parents-/calendar/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Calendar"
+    },
+    {
+      "url": "https://www.standrewsns.ie/parents-/calendar/?calyear=2026&calmonth=12&",
+      "final_url": "https://www.standrewsns.ie/parents-/calendar/?calyear=2026&calmonth=12&",
+      "status": "prior_exact_URL_access_denial_not_retried",
+      "via": "school_public_link",
+      "label": "December 2026"
+    },
+    {
+      "url": "https://www.standrewsns.ie/parents-/calendar/?calyear=2026&calmonth=10&",
+      "final_url": "https://www.standrewsns.ie/parents-/calendar/?calyear=2026&calmonth=10&",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": "October 2026"
+    },
+    {
+      "url": "https://www.standrewsns.ie/parents-/calendar/?googletranslate=true",
+      "final_url": "https://www.standrewsns.ie/parents-/calendar/?googletranslate=true",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.standrewsns.ie/parents-/calendar/?calTable=true",
+      "final_url": "https://www.standrewsns.ie/parents-/calendar/?calTable=true",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.standrewsns.ie/parents-/booklists/",
+      "final_url": "https://www.standrewsns.ie/parents-/booklists/",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": "Booklists"
+    },
+    {
+      "url": "https://www.standrewsns.ie/parents-/",
+      "final_url": "https://www.standrewsns.ie/parents-/",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": "Parents"
+    },
+    {
+      "url": "https://www.standrewsns.ie/our-school/policies/",
+      "final_url": "https://www.standrewsns.ie/our-school/policies/",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.standrewsns.ie/letterlink/17/?open=true&download=true",
+      "final_url": "https://www.standrewsns.ie/letterlink/17/?open=true&download=true",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.standrewsns.ie/documentlink/121/?open=true&download=true",
+      "final_url": "https://www.standrewsns.ie/documentlink/121/?open=true&download=true",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.standrewsns.ie/documentlink/120/?open=true&download=true",
+      "final_url": "https://www.standrewsns.ie/documentlink/120/?open=true&download=true",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.standrewsns.ie/documentlink/119/?open=true&download=true",
+      "final_url": "https://www.standrewsns.ie/documentlink/119/?open=true&download=true",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.standrewsns.ie/admin/?open=/parents-/calendar/",
+      "final_url": "https://www.standrewsns.ie/admin/?open=/parents-/calendar/",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.standrewsns.ie/",
+      "final_url": "https://www.standrewsns.ie/",
+      "status": "http_access_denied_403",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.standrewsns.ie/cmsfiles/policies/privacy/",
+      "final_url": "https://www.standrewsns.ie/cmsfiles/policies/privacy/",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": "Website Privacy Policy"
+    },
+    {
+      "url": "https://www.standrewsns.ie/cmsfiles/policies/cookie/",
+      "final_url": "https://www.standrewsns.ie/cmsfiles/policies/cookie/",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": "Cookie Policy"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "11583O",
+      "url": "https://www.standrewsns.ie/admissions/?googletranslate=true",
+      "label": "",
+      "sha256": "d0878b3e05c652d70371ff53a37bfae81d6680be16983f345c9dadbb2e7dd68b",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/11583O_d0878b3e05c652d70371.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 374
+    },
+    {
+      "roll": "11583O",
+      "url": "https://www.standrewsns.ie/admissions/",
+      "label": "Admissions",
+      "sha256": "799f3144d204c4240e16a3c9438d7210c851149b4350706903a059ff768e7e3f",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/11583O_799f3144d204c4240e16.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 374
+    }
+  ],
+  "pending_links": [],
+  "elapsed_seconds": 20.87,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:00:42+0000"
+}

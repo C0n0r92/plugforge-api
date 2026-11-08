@@ -1,0 +1,262 @@
+{
+  "roll": "20104A",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://staudoens.ie/school-info/policies/enrolment-policy/",
+      "final_url": "https://staudoens.ie/school-info/policies/enrolment-policy/",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://staudoens.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://staudoens.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "http_access_denied_401",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://staudoens.ie/wp-sitemap.xml",
+      "final_url": "https://staudoens.ie/wp-sitemap.xml",
+      "status": "http_access_denied_401",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://staudoens.ie/sitemap.xml",
+      "final_url": "https://staudoens.ie/sitemap.xml",
+      "status": "http_access_denied_401",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://staudoens.ie/sitemap.html",
+      "final_url": "https://staudoens.ie/sitemap.html",
+      "status": "http_access_denied_401",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://staudoens.ie/school-info/sports-activities/",
+      "final_url": "https://staudoens.ie/school-info/sports-activities/",
+      "status": "http_access_denied_401",
+      "via": "school_public_link",
+      "label": "Sports & Activities"
+    },
+    {
+      "url": "https://staudoens.ie/school-info/school-history/",
+      "final_url": "https://staudoens.ie/school-info/school-history/",
+      "status": "http_access_denied_401",
+      "via": "school_public_link",
+      "label": "School History"
+    },
+    {
+      "url": "https://staudoens.ie/school-info/school-calendar/",
+      "final_url": "https://staudoens.ie/school-info/school-calendar/",
+      "status": "http_access_denied_401",
+      "via": "school_public_link",
+      "label": "Calendar"
+    },
+    {
+      "url": "https://staudoens.ie/school-info/restorative-practices/",
+      "final_url": "https://staudoens.ie/school-info/restorative-practices/",
+      "status": "http_access_denied_401",
+      "via": "school_public_link",
+      "label": "Restorative Practices"
+    },
+    {
+      "url": "https://staudoens.ie/school-info/policies/",
+      "final_url": "https://staudoens.ie/school-info/policies/",
+      "status": "http_access_denied_401",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://staudoens.ie/school-info/photo-gallery/",
+      "final_url": "https://staudoens.ie/school-info/photo-gallery/",
+      "status": "http_access_denied_401",
+      "via": "school_public_link",
+      "label": "Photo Gallery"
+    },
+    {
+      "url": "https://staudoens.ie/school-info/our-staff/",
+      "final_url": "https://staudoens.ie/school-info/our-staff/",
+      "status": "http_access_denied_401",
+      "via": "school_public_link",
+      "label": "Our Staff"
+    },
+    {
+      "url": "https://staudoens.ie/school-info/our-school-uniform/",
+      "final_url": "https://staudoens.ie/school-info/our-school-uniform/",
+      "status": "http_access_denied_401",
+      "via": "school_public_link",
+      "label": "Our School Uniform"
+    },
+    {
+      "url": "https://staudoens.ie/school-info/our-classes/",
+      "final_url": "https://staudoens.ie/school-info/our-classes/",
+      "status": "http_access_denied_401",
+      "via": "school_public_link",
+      "label": "Our Classes"
+    },
+    {
+      "url": "https://staudoens.ie/school-info/our-city-garden/",
+      "final_url": "https://staudoens.ie/school-info/our-city-garden/",
+      "status": "http_access_denied_401",
+      "via": "school_public_link",
+      "label": "Our City Garden"
+    },
+    {
+      "url": "https://staudoens.ie/school-info/openingclosing-times/",
+      "final_url": "https://staudoens.ie/school-info/openingclosing-times/",
+      "status": "http_access_denied_401",
+      "via": "school_public_link",
+      "label": "Opening & Closing Times"
+    },
+    {
+      "url": "https://staudoens.ie/school-info/mission-statement/",
+      "final_url": "https://staudoens.ie/school-info/mission-statement/",
+      "status": "http_access_denied_401",
+      "via": "school_public_link",
+      "label": "Mission Statement"
+    },
+    {
+      "url": "https://staudoens.ie/school-info/interesting-links/",
+      "final_url": "https://staudoens.ie/school-info/interesting-links/",
+      "status": "http_access_denied_401",
+      "via": "school_public_link",
+      "label": "Interesting Links"
+    },
+    {
+      "url": "https://staudoens.ie/school-info/healthy-lunches/",
+      "final_url": "https://staudoens.ie/school-info/healthy-lunches/",
+      "status": "http_access_denied_401",
+      "via": "school_public_link",
+      "label": "Healthy Lunches"
+    },
+    {
+      "url": "https://staudoens.ie/school-info/book-rental-scheme/",
+      "final_url": "https://staudoens.ie/school-info/book-rental-scheme/",
+      "status": "http_access_denied_401",
+      "via": "school_public_link",
+      "label": "School Books"
+    },
+    {
+      "url": "https://staudoens.ie/school-info/academic-matters/school-self-evaluation/",
+      "final_url": "https://staudoens.ie/school-info/academic-matters/school-self-evaluation/",
+      "status": "http_access_denied_401",
+      "via": "school_public_link",
+      "label": "School Self Evaluation"
+    },
+    {
+      "url": "https://staudoens.ie/school-info/academic-matters/school-improvement-plan/",
+      "final_url": "https://staudoens.ie/school-info/academic-matters/school-improvement-plan/",
+      "status": "http_access_denied_401",
+      "via": "school_public_link",
+      "label": "School Improvement Plan"
+    },
+    {
+      "url": "https://staudoens.ie/school-info/academic-matters/philosophy-question-of-the-week/",
+      "final_url": "https://staudoens.ie/school-info/academic-matters/philosophy-question-of-the-week/",
+      "status": "http_access_denied_401",
+      "via": "school_public_link",
+      "label": "Philosophy"
+    },
+    {
+      "url": "https://staudoens.ie/school-info/academic-matters/our-approach/",
+      "final_url": "https://staudoens.ie/school-info/academic-matters/our-approach/",
+      "status": "http_access_denied_401",
+      "via": "school_public_link",
+      "label": "Our Approach"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "20104A",
+      "url": "https://staudoens.ie/school-info/policies/enrolment-policy/",
+      "label": "Prior school admissions section",
+      "sha256": "40108935bb18de7b3b0f08d869c094f0e397f49b4290401e5915a8435543676e",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20104A_40108935bb18de7b3b0f.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 18100
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://staudoens.ie/school-info/academic-matters/digital-learning/",
+      "label": "Digital Learning",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://staudoens.ie/school-info/academic-matters/curriculum/",
+      "label": "Curriculum",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://staudoens.ie/school-info/academic-matters/aistear/",
+      "label": "Aistear",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://staudoens.ie/school-info/academic-matters/active-learning/",
+      "label": "Active Learning",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://staudoens.ie/school-info/academic-matters/",
+      "label": "Academic Matters",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://staudoens.ie/school-info/about-us/",
+      "label": "About Us",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://staudoens.ie/school-info/",
+      "label": "School Info",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://staudoens.ie/",
+      "label": "School homepage",
+      "via": "home"
+    },
+    {
+      "url": "https://staudoens.ie/school-info/policies/internet-acceptable-use-policy-aup/",
+      "label": "Internet Acceptable Use Policy (AUP)",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://staudoens.ie/school-info/policies/distance-learning-policy/",
+      "label": "Distance Learning Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://staudoens.ie/school-info/policies/code-of-behaviour/",
+      "label": "Our Behaviour & AB Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://staudoens.ie/school-info/policies/child-protection-policy/",
+      "label": "Child Protection & Safeguarding Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://staudoens.ie/school-info/policies/attendance-policy/",
+      "label": "Attendance Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://staudoens.ie/regulations-dress-code/",
+      "label": "Uniform & Presentation Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 4.74,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:57:39+0000"
+}

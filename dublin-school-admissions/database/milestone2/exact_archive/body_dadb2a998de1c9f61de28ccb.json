@@ -1,0 +1,25 @@
+{
+  "roll": "19302U",
+  "capture": {
+    "timestamp": "20180419130522",
+    "original": "http://www.virginmarybns.ie/",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "digest": "M5MUXZ75S7P6LJYC23HP6HQUMG3BJWON"
+  },
+  "original_url": "http://www.virginmarybns.ie/",
+  "archived_url": "https://web.archive.org/web/20180419130522/http://www.virginmarybns.ie/",
+  "attempted_at": "2026-11-08T13:13:12.031673+00:00",
+  "linked_from_capture": null,
+  "http_status": 200,
+  "headers": {
+    "Content-Type": "text/html; charset=UTF-8",
+    "memento-datetime": "Thu, 19 Apr 2018 13:05:22 GMT"
+  },
+  "bytes": 47893,
+  "payload_sha256": "2f361371eab416df131b82580352e4cd50fe24efc4823468d616e6b50949d90d",
+  "format": "html",
+  "status": "archived_body_retrieved_requires_manual_evidence_review",
+  "text_file": "database/milestone2/evidence/exact_19302U_2f361371eab416df131b.txt",
+  "linked_document_candidates": []
+}

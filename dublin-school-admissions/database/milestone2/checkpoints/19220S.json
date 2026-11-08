@@ -1,0 +1,640 @@
+{
+  "roll": "19220S",
+  "status": "bounded_search_no_new_notice_found",
+  "attempts": [
+    {
+      "url": "https://www.scoilideclondalkin.com/our-school/enrolment/?googletranslate=true",
+      "final_url": "https://www.scoilideclondalkin.com/our-school/enrolment/?googletranslate=true",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/documentlink/168/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/690/docletter/20251014092737_86_Admission_Notice_2026-2027.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Admission Notice 2026-2027.pdf"
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/documentlink/203/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/690/docletter/20260925015421_60_Admission_Notice_2027-2028.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Admission Notice 2027-2028.pdf"
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/our-school/enrolment/",
+      "final_url": "https://www.scoilideclondalkin.com/our-school/enrolment/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Enrolment"
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/admin/?open=/our-school/enrolment/?googletranslate=true",
+      "final_url": "https://www.scoilideclondalkin.com/admin/?open=/our-school/enrolment/?googletranslate=true",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/admin/?open=/our-school/enrolment/",
+      "final_url": "https://www.scoilideclondalkin.com/admin/?open=/our-school/enrolment/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/documentlink/167/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/690/docletter/20251014092656_40_Admission_Policy_Scoil_de_2026-2027.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Admission Policy Scoil de 2026-2027.pdf"
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/sitemap.xml",
+      "final_url": "https://www.scoilideclondalkin.com/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/parent-area/sherpa-kids-childcare/",
+      "final_url": "https://www.scoilideclondalkin.com/parent-area/sherpa-kids-childcare/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Sherpa Kids Childcare"
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/parent-area/sherpa-kids-childcare/?googletranslate=true",
+      "final_url": "https://www.scoilideclondalkin.com/parent-area/sherpa-kids-childcare/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/parent-area/returning-to-school-after-illness/",
+      "final_url": "https://www.scoilideclondalkin.com/parent-area/returning-to-school-after-illness/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Returning to school after illness"
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/parent-area/returning-to-school-after-illness/?googletranslate=true",
+      "final_url": "https://www.scoilideclondalkin.com/parent-area/returning-to-school-after-illness/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/parent-area/parents-association/",
+      "final_url": "https://www.scoilideclondalkin.com/parent-area/parents-association/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents Association"
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/parent-area/parents-association/?googletranslate=true",
+      "final_url": "https://www.scoilideclondalkin.com/parent-area/parents-association/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/parent-area/newsletters/",
+      "final_url": "https://www.scoilideclondalkin.com/parent-area/newsletters/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Newsletters"
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/parent-area/newsletters/?googletranslate=true",
+      "final_url": "https://www.scoilideclondalkin.com/parent-area/newsletters/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/parent-area/learning-tips-and-tricks/",
+      "final_url": "https://www.scoilideclondalkin.com/parent-area/learning-tips-and-tricks/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Curriculum Information and Tips"
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/parent-area/learning-tips-and-tricks/?googletranslate=true",
+      "final_url": "https://www.scoilideclondalkin.com/parent-area/learning-tips-and-tricks/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/parent-area/digital-learning/",
+      "final_url": "https://www.scoilideclondalkin.com/parent-area/digital-learning/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Digital Learning"
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/parent-area/digital-learning/?googletranslate=true",
+      "final_url": "https://www.scoilideclondalkin.com/parent-area/digital-learning/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/parent-area/calendar/",
+      "final_url": "https://www.scoilideclondalkin.com/parent-area/calendar/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Calendar"
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/parent-area/calendar/?calyear=2026&calmonth=12&",
+      "final_url": "https://www.scoilideclondalkin.com/parent-area/calendar/?calyear=2026&calmonth=12&",
+      "status": "prior_exact_URL_access_denial_not_retried",
+      "via": "school_public_link",
+      "label": "December 2026"
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/parent-area/calendar/?calyear=2026&calmonth=10&",
+      "final_url": "https://www.scoilideclondalkin.com/parent-area/calendar/?calyear=2026&calmonth=10&",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": "October 2026"
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/parent-area/calendar/?googletranslate=true",
+      "final_url": "https://www.scoilideclondalkin.com/parent-area/calendar/?googletranslate=true",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": ""
+    }
+  ],
+  "documents": [],
+  "pending_links": [
+    {
+      "url": "https://www.scoilideclondalkin.com/parent-area/calendar/?calTable=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/parent-area/booklists/",
+      "label": "Booklists",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/parent-area/",
+      "label": "Parent Area",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/our-school/policies/",
+      "label": "Policies",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/letterlink/91/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/letterlink/90/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/letterlink/89/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/letterlink/88/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/letterlink/87/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/letterlink/86/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/letterlink/85/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/letterlink/84/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/letterlink/83/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/letterlink/82/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/letterlink/81/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/documentlink/99/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/documentlink/99/?open=true",
+      "label": "Maths Tips for Parents.docx",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/documentlink/97/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/documentlink/96/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/documentlink/89/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/documentlink/203/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/documentlink/202/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/documentlink/190/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/documentlink/189/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/documentlink/186/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/documentlink/185/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/documentlink/183/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/documentlink/182/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/documentlink/180/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/documentlink/179/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/documentlink/178/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/documentlink/177/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/documentlink/176/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/documentlink/175/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/documentlink/168/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/documentlink/167/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/documentlink/164/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/documentlink/163/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/documentlink/161/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/documentlink/160/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/documentlink/159/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/documentlink/159/?open=true",
+      "label": "NCSE-Parents-Notify-Poster.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/documentlink/158/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/documentlink/158/?open=true",
+      "label": "07960-NCSE-Parents-Notify-Project-A4-Poster-EN-Proof10-1.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/documentlink/157/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/documentlink/156/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/documentlink/155/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/documentlink/154/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/documentlink/153/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/documentlink/138/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/documentlink/137/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/documentlink/134/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/documentlink/133/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/documentlink/133/?open=true",
+      "label": "Primary RSE Tips for Parents.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/documentlink/131/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/documentlink/130/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/documentlink/129/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/documentlink/128/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/documentlink/126/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/documentlink/125/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/documentlink/125/?open=true",
+      "label": "Primary SPHE Tips for Parents.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/documentlink/124/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/documentlink/123/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/documentlink/122/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/documentlink/120/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/documentlink/113/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/documentlink/112/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/documentlink/111/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/documentlink/110/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/documentlink/109/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/documentlink/108/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/documentlink/107/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/documentlink/104/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/documentlink/102/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/documentlink/101/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/admin/?open=/parent-area/sherpa-kids-childcare/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/admin/?open=/parent-area/sherpa-kids-childcare/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/admin/?open=/parent-area/returning-to-school-after-illness/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/admin/?open=/parent-area/returning-to-school-after-illness/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/admin/?open=/parent-area/parents-association/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/admin/?open=/parent-area/parents-association/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/admin/?open=/parent-area/newsletters/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/admin/?open=/parent-area/newsletters/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/admin/?open=/parent-area/learning-tips-and-tricks/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/admin/?open=/parent-area/learning-tips-and-tricks/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/admin/?open=/parent-area/digital-learning/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/admin/?open=/parent-area/digital-learning/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/admin/?open=/parent-area/calendar/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com",
+      "label": "School homepage",
+      "via": "home"
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/parent-area/healthy-eating-policy/",
+      "label": "Healthy Eating Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/cmsfiles/policies/privacy/",
+      "label": "Website Privacy Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilideclondalkin.com/cmsfiles/policies/cookie/",
+      "label": "Cookie Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 61.68,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:05:28+0000"
+}

@@ -1,0 +1,191 @@
+{
+  "roll": "20535E",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.cherrywoodetns.ie/post/junior-infants-2024-2025-pre-enrolment-now-open",
+      "final_url": "https://www.cherrywoodetns.ie/post/junior-infants-2024-2025-pre-enrolment-now-open",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Junior Infants 2024/2025 - Pre-Enrolment Now Open!"
+    },
+    {
+      "url": "https://www.cherrywoodetns.ie/post/pre-enrolment-for-junior-infants-now-open",
+      "final_url": "https://www.cherrywoodetns.ie/post/pre-enrolment-for-junior-infants-now-open",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Pre-Enrolment for Junior Infants Now Open!"
+    },
+    {
+      "url": "https://www.cherrywoodetns.ie/post/copy-of-pre-enrolment-now-open",
+      "final_url": "https://www.cherrywoodetns.ie/post/copy-of-pre-enrolment-now-open",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Pre-Enrolment for Junior Infants Now Open!"
+    },
+    {
+      "url": "https://www.cherrywoodetns.ie/enrolment-information",
+      "final_url": "https://www.cherrywoodetns.ie/enrolment-information",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "ENROLMENT"
+    },
+    {
+      "url": "https://www.cherrywoodetns.ie/_files/ugd/faab38_ff592ae0a5ac474f9b9c1916ba0a7086.pdf",
+      "final_url": "https://23ce6682-9ec6-4387-a108-d591ca788574.filesusr.com/ugd/faab38_ff592ae0a5ac474f9b9c1916ba0a7086.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "Admissions Policy"
+    },
+    {
+      "url": "https://www.cherrywoodetns.ie/copy-of-enrolment",
+      "final_url": "https://www.cherrywoodetns.ie/copy-of-enrolment",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Pre-Enrolment Form"
+    },
+    {
+      "url": "https://www.cherrywoodetns.ie/sitemap.xml",
+      "final_url": "https://www.cherrywoodetns.ie/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.cherrywoodetns.ie/pl_pl-sitemap.xml",
+      "final_url": "https://www.cherrywoodetns.ie/pl_pl-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.cherrywoodetns.ie/parents",
+      "final_url": "https://www.cherrywoodetns.ie/parents",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parental Involvement"
+    },
+    {
+      "url": "https://www.cherrywoodetns.ie/event-pages-sitemap.xml",
+      "final_url": "https://www.cherrywoodetns.ie/event-pages-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.cherrywoodetns.ie/copy-of-policies",
+      "final_url": "https://www.cherrywoodetns.ie/copy-of-policies",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Policies"
+    },
+    {
+      "url": "https://www.cherrywoodetns.ie/_files/ugd/faab38_bd5136d10b1b4a45a57c51902b98e90c.pdf",
+      "final_url": "https://23ce6682-9ec6-4387-a108-d591ca788574.filesusr.com/ugd/faab38_bd5136d10b1b4a45a57c51902b98e90c.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "Home - School Learning Policy"
+    },
+    {
+      "url": "https://www.cherrywoodetns.ie/_files/ugd/faab38_18f0c11ddb1849dc919941b04f503139.pdf",
+      "final_url": "https://23ce6682-9ec6-4387-a108-d591ca788574.filesusr.com/ugd/faab38_18f0c11ddb1849dc919941b04f503139.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "Mobile Device Policy"
+    },
+    {
+      "url": "https://www.cherrywoodetns.ie/blog-posts-sitemap.xml",
+      "final_url": "https://www.cherrywoodetns.ie/blog-posts-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.cherrywoodetns.ie/blog-categories-sitemap.xml",
+      "final_url": "https://www.cherrywoodetns.ie/blog-categories-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.cherrywoodetns.ie/a-b-c-s-of-cherrywood-etns",
+      "final_url": "https://www.cherrywoodetns.ie/a-b-c-s-of-cherrywood-etns",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "PARENTS INFORMATION"
+    },
+    {
+      "url": "https://www.cherrywoodetns.ie/parents-info",
+      "final_url": "https://www.cherrywoodetns.ie/parents-info",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "ABC Notes for Parents"
+    },
+    {
+      "url": "https://www.cherrywoodetns.ie",
+      "final_url": "https://www.cherrywoodetns.ie",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.cherrywoodetns.ie/_files/ugd/faab38_f12f4c01557f425ca3e1aec68405430d.pdf",
+      "final_url": "https://23ce6682-9ec6-4387-a108-d591ca788574.filesusr.com/ugd/faab38_f12f4c01557f425ca3e1aec68405430d.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "Dignity at Work Policy"
+    },
+    {
+      "url": "https://www.cherrywoodetns.ie/_files/ugd/faab38_e1ff86ed4323470181b2f6ac747bda46.pdf",
+      "final_url": "https://23ce6682-9ec6-4387-a108-d591ca788574.filesusr.com/ugd/faab38_e1ff86ed4323470181b2f6ac747bda46.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "Bí Cineálta - Anti Bullying Policy"
+    },
+    {
+      "url": "https://www.cherrywoodetns.ie/_files/ugd/faab38_c30445411f62467eacfc3830523ee30f.pdf",
+      "final_url": "https://23ce6682-9ec6-4387-a108-d591ca788574.filesusr.com/ugd/faab38_c30445411f62467eacfc3830523ee30f.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "Protected Disclosure Policy"
+    },
+    {
+      "url": "https://www.cherrywoodetns.ie/_files/ugd/faab38_834a2f8f9e2844a3997cb75a43c61d5a.pdf",
+      "final_url": "https://23ce6682-9ec6-4387-a108-d591ca788574.filesusr.com/ugd/faab38_834a2f8f9e2844a3997cb75a43c61d5a.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "Antibullying Policy"
+    },
+    {
+      "url": "https://www.cherrywoodetns.ie/_files/ugd/faab38_2c4d8324cfba4fb98ef32b3f232f840c.pdf",
+      "final_url": "https://23ce6682-9ec6-4387-a108-d591ca788574.filesusr.com/ugd/faab38_2c4d8324cfba4fb98ef32b3f232f840c.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "Acceptable Use Policy"
+    },
+    {
+      "url": "https://www.cherrywoodetns.ie/_files/ugd/faab38_1fecd8c5626e4487a07b1fb3d34aaa71.pdf",
+      "final_url": "https://23ce6682-9ec6-4387-a108-d591ca788574.filesusr.com/ugd/faab38_1fecd8c5626e4487a07b1fb3d34aaa71.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "Data Protection Policy"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "20535E",
+      "url": "https://www.cherrywoodetns.ie/enrolment-information",
+      "label": "ENROLMENT",
+      "sha256": "fdc8aba8846a295aac31dddb015b9e01eefc3c4d73e57192e1999fdd94f5b5cc",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20535E_fdc8aba8846a295aac31.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 752
+    }
+  ],
+  "pending_links": [],
+  "elapsed_seconds": 70.47,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:00:17+0000"
+}

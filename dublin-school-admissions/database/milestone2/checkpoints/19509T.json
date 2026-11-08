@@ -1,0 +1,238 @@
+{
+  "roll": "19509T",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://nanonaglejuniorschool.com/enrolment/",
+      "final_url": "https://nanonaglejuniorschool.com/enrolment/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Enrolment"
+    },
+    {
+      "url": "https://nanonaglejuniorschool.com/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://nanonaglejuniorschool.com/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://nanonaglejuniorschool.com/wp-content/uploads/2025/09/Admission-Policy-Sept-2025.pdf",
+      "final_url": "https://nanonaglejuniorschool.com/wp-content/uploads/2025/09/Admission-Policy-Sept-2025.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admission Policy &#8211; Sept 2025"
+    },
+    {
+      "url": "https://nanonaglejuniorschool.com/wp-content/uploads/2025/09/Admission-Policy-Sept-2025-Signed.pdf",
+      "final_url": "https://nanonaglejuniorschool.com/wp-content/uploads/2025/09/Admission-Policy-Sept-2025-Signed.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://nanonaglejuniorschool.com/wp-content/uploads/2025/09/Admission-Policy-Sept-2025-1.pdf",
+      "final_url": "https://nanonaglejuniorschool.com/wp-content/uploads/2025/09/Admission-Policy-Sept-2025-1.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admission Policy &#8211; Sept 2025"
+    },
+    {
+      "url": "https://nanonaglejuniorschool.com/sitemap.xml",
+      "final_url": "https://nanonaglejuniorschool.com/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://nanonaglejuniorschool.com/sitemap-1.xml",
+      "final_url": "https://nanonaglejuniorschool.com/sitemap-1.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://nanonaglejuniorschool.com/policies/",
+      "final_url": "https://nanonaglejuniorschool.com/policies/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://nanonaglejuniorschool.com/wp-content/uploads/2026/06/19509T_NPS_en__2_.pdf",
+      "final_url": "https://nanonaglejuniorschool.com/wp-content/uploads/2026/06/19509T_NPS_en__2_.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download"
+    },
+    {
+      "url": "https://nanonaglejuniorschool.com/wp-content/uploads/2025/08/Code-of-Behaviour-2024.pdf",
+      "final_url": "https://nanonaglejuniorschool.com/wp-content/uploads/2025/08/Code-of-Behaviour-2024.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download"
+    },
+    {
+      "url": "https://nanonaglejuniorschool.com/wp-content/uploads/2026/09/Student-Friendly-Safeguarding-Statement.pdf",
+      "final_url": "https://nanonaglejuniorschool.com/wp-content/uploads/2026/09/Student-Friendly-Safeguarding-Statement.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download"
+    },
+    {
+      "url": "https://nanonaglejuniorschool.com/wp-content/uploads/2026/09/Notification-of-BOM-Review-of-Child-Safeguarding-Risk-Assessment-2026.pdf",
+      "final_url": "https://nanonaglejuniorschool.com/wp-content/uploads/2026/09/Notification-of-BOM-Review-of-Child-Safeguarding-Risk-Assessment-2026.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download"
+    },
+    {
+      "url": "https://nanonaglejuniorschool.com/wp-content/uploads/2026/09/Child-Safeguarding-Statement-Risk-Assessment-Sept-2026.pdf",
+      "final_url": "https://nanonaglejuniorschool.com/wp-content/uploads/2026/09/Child-Safeguarding-Statement-Risk-Assessment-Sept-2026.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download"
+    },
+    {
+      "url": "https://nanonaglejuniorschool.com/wp-content/uploads/2026/06/Bi-Cinealta-review-signed-2026.pdf",
+      "final_url": "https://nanonaglejuniorschool.com/wp-content/uploads/2026/06/Bi-Cinealta-review-signed-2026.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download"
+    },
+    {
+      "url": "https://nanonaglejuniorschool.com/wp-content/uploads/2026/05/Bi-Cinealta-Student-Friendly.pdf",
+      "final_url": "https://nanonaglejuniorschool.com/wp-content/uploads/2026/05/Bi-Cinealta-Student-Friendly.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download"
+    },
+    {
+      "url": "https://nanonaglejuniorschool.com/news-sitemap.xml",
+      "final_url": "https://nanonaglejuniorschool.com/news-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://nanonaglejuniorschool.com/",
+      "final_url": "https://nanonaglejuniorschool.com/",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "http://www.nanonaglejuniorschool.com/enrolment",
+      "final_url": "http://www.nanonaglejuniorschool.com/enrolment",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "Learn More"
+    },
+    {
+      "url": "http://www.nanonaglejuniorschool.com/policies",
+      "final_url": "http://www.nanonaglejuniorschool.com/policies",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "Learn More"
+    },
+    {
+      "url": "https://nanonaglejuniorschool.com/wp-content/uploads/2025/08/School-Tours-Policy-Nano-2023-24.pdf",
+      "final_url": "https://nanonaglejuniorschool.com/wp-content/uploads/2025/08/School-Tours-Policy-Nano-2023-24.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Tours Policy"
+    },
+    {
+      "url": "https://nanonaglejuniorschool.com/wp-content/uploads/2025/08/Assessment-and-Screening-Policy-2023.pdf",
+      "final_url": "https://nanonaglejuniorschool.com/wp-content/uploads/2025/08/Assessment-and-Screening-Policy-2023.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Assessment and Screening Policy"
+    },
+    {
+      "url": "https://nanonaglejuniorschool.com/wp-content/uploads/2025/08/Dignity-at-Work-Policy-2024.pdf",
+      "final_url": "https://nanonaglejuniorschool.com/wp-content/uploads/2025/08/Dignity-at-Work-Policy-2024.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Dignity at Work Policy"
+    },
+    {
+      "url": "https://nanonaglejuniorschool.com/wp-content/uploads/2025/11/Support-Dog-Policy-Signed.pdf",
+      "final_url": "https://nanonaglejuniorschool.com/wp-content/uploads/2025/11/Support-Dog-Policy-Signed.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Support Dog Policy"
+    },
+    {
+      "url": "https://nanonaglejuniorschool.com/wp-content/uploads/2025/11/Critical-Incident-Policy-NOV-2025-Signed.pdf",
+      "final_url": "https://nanonaglejuniorschool.com/wp-content/uploads/2025/11/Critical-Incident-Policy-NOV-2025-Signed.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Critical Incident Policy NOV 2025"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19509T",
+      "url": "https://nanonaglejuniorschool.com/enrolment/",
+      "label": "Enrolment",
+      "sha256": "66217641eb1f8de95954f02ab1afa8fa507a651d994a8b15bbb109f0cdea301d",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19509T_66217641eb1f8de95954.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 205
+    },
+    {
+      "roll": "19509T",
+      "url": "https://nanonaglejuniorschool.com/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "label": "Oldest public admission media (all dates)",
+      "sha256": "654000e9f5572f057c7e000bc16fb83036f019f1d0c539422f9652d4278bcdef",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19509T_654000e9f5572f057c7e.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 535
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://nanonaglejuniorschool.com/wp-content/uploads/2025/08/Swimming-Policy-Scoil-Nano-Nagle-2025.pdf",
+      "label": "Swimming Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://nanonaglejuniorschool.com/wp-content/uploads/2025/08/PE-Policy-2025.pdf",
+      "label": "PE Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://nanonaglejuniorschool.com/wp-content/uploads/2025/08/Data-Protection-Policy-2025-Signed.pdf",
+      "label": "Data Protection Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://nanonaglejuniorschool.com/wp-content/uploads/2025/08/Bi-Cinealta-Policy-2025.pdf",
+      "label": "Bí Cineálta Policy Anti-Bullying 2025",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://nanonaglejuniorschool.com/wp-content/uploads/2026/09/Child-Safeguarding-Policy-Sept-2026.pdf",
+      "label": "Child Safeguarding Policy Sept 2026",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://nanonaglejuniorschool.com/wp-content/uploads/2026/05/Supervision-Policy-signed-2026.pdf",
+      "label": "Supervision Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://nanonaglejuniorschool.com/wp-content/uploads/2026/05/Autism-Class-Policy-Signed-2026.pdf",
+      "label": "Autism Class Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 64.79,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:41:01+0000"
+}

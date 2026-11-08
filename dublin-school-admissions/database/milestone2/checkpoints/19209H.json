@@ -1,0 +1,298 @@
+{
+  "roll": "19209H",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.holyspiritgns.ie/news/admissions-notice-in-respect-of-the-school-year-20272028/?googletranslate=true",
+      "final_url": "https://www.holyspiritgns.ie/news/admissions-notice-in-respect-of-the-school-year-20272028/?googletranslate=true",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "https://swdcache.b-cdn.net/505/downloads/20261006053306_70_7917-AdmissionsNoticeHSGNS20262027.pdf",
+      "final_url": "https://swdcache.b-cdn.net/505/downloads/20261006053306_70_7917-AdmissionsNoticeHSGNS20262027.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.holyspiritgns.ie/documentlink/182/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/505/downloads/20261006053306_70_7917-AdmissionsNoticeHSGNS20262027.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Annual Admissions Notice 2026 for the  2027/2028 School Year"
+    },
+    {
+      "url": "https://www.holyspiritgns.ie/news/admissions-notice-in-respect-of-the-school-year-20272028/",
+      "final_url": "https://www.holyspiritgns.ie/news/admissions-notice-in-respect-of-the-school-year-20272028/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions Notice in Respect of the School Year 2027/2028"
+    },
+    {
+      "url": "https://www.holyspiritgns.ie/admin/?open=/news/admissions-notice-in-respect-of-the-school-year-20272028/?googletranslate=true",
+      "final_url": "https://www.holyspiritgns.ie/admin/?open=/news/admissions-notice-in-respect-of-the-school-year-20272028/?googletranslate=true",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.holyspiritgns.ie/admin/?open=/news/admissions-notice-in-respect-of-the-school-year-20272028/",
+      "final_url": "https://www.holyspiritgns.ie/admin/?open=/news/admissions-notice-in-respect-of-the-school-year-20272028/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.holyspiritgns.ie/our-school/enrolment-form/?googletranslate=true",
+      "final_url": "https://www.holyspiritgns.ie/our-school/enrolment-form/?googletranslate=true",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "https://www.holyspiritgns.ie/our-school/enrolment-form/",
+      "final_url": "https://www.holyspiritgns.ie/our-school/enrolment-form/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Enrolment Form"
+    },
+    {
+      "url": "https://www.holyspiritgns.ie/documentlink/143/?open=true",
+      "final_url": "https://view.officeapps.live.com/op/embed.aspx?src=https://swddoc.b-cdn.net/505/docletter/20241010065955_71_Enrollment_Form_2024_1_.docx",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Enrollment Form"
+    },
+    {
+      "url": "https://www.holyspiritgns.ie/admin/?open=/our-school/enrolment-form/?googletranslate=true",
+      "final_url": "https://www.holyspiritgns.ie/admin/?open=/our-school/enrolment-form/?googletranslate=true",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.holyspiritgns.ie/admin/?open=/our-school/enrolment-form/",
+      "final_url": "https://www.holyspiritgns.ie/admin/?open=/our-school/enrolment-form/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.holyspiritgns.ie/sitemap.xml",
+      "final_url": "https://www.holyspiritgns.ie/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.holyspiritgns.ie/parents/uniform/",
+      "final_url": "https://www.holyspiritgns.ie/parents/uniform/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Uniform"
+    },
+    {
+      "url": "https://www.holyspiritgns.ie/parents/uniform/?googletranslate=true",
+      "final_url": "https://www.holyspiritgns.ie/parents/uniform/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.holyspiritgns.ie/parents/talking-to-the-teacher/",
+      "final_url": "https://www.holyspiritgns.ie/parents/talking-to-the-teacher/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Talking to the teacher"
+    },
+    {
+      "url": "https://www.holyspiritgns.ie/parents/talking-to-the-teacher/?googletranslate=true",
+      "final_url": "https://www.holyspiritgns.ie/parents/talking-to-the-teacher/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.holyspiritgns.ie/parents/school-lunches/",
+      "final_url": "https://www.holyspiritgns.ie/parents/school-lunches/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Lunches"
+    },
+    {
+      "url": "https://www.holyspiritgns.ie/parents/school-lunches/?googletranslate=true",
+      "final_url": "https://www.holyspiritgns.ie/parents/school-lunches/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.holyspiritgns.ie/parents/our-school-day/",
+      "final_url": "https://www.holyspiritgns.ie/parents/our-school-day/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Our School Day"
+    },
+    {
+      "url": "https://www.holyspiritgns.ie/parents/our-school-day/?googletranslate=true",
+      "final_url": "https://www.holyspiritgns.ie/parents/our-school-day/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.holyspiritgns.ie/parents/homework/",
+      "final_url": "https://www.holyspiritgns.ie/parents/homework/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Homework"
+    },
+    {
+      "url": "https://www.holyspiritgns.ie/parents/homework/?googletranslate=true",
+      "final_url": "https://www.holyspiritgns.ie/parents/homework/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.holyspiritgns.ie/parents/book-rental/",
+      "final_url": "https://www.holyspiritgns.ie/parents/book-rental/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Fees"
+    },
+    {
+      "url": "https://www.holyspiritgns.ie/parents/book-rental/?googletranslate=true",
+      "final_url": "https://www.holyspiritgns.ie/parents/book-rental/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19209H",
+      "url": "https://www.holyspiritgns.ie/news/admissions-notice-in-respect-of-the-school-year-20272028/?googletranslate=true",
+      "label": "",
+      "sha256": "07c818cfd2638bf306cf847e4d850f077505ad1408314272419eeab9625764f9",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19209H_07c818cfd2638bf306cf.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 820
+    },
+    {
+      "roll": "19209H",
+      "url": "https://www.holyspiritgns.ie/news/admissions-notice-in-respect-of-the-school-year-20272028/",
+      "label": "Admissions Notice in Respect of the School Year 2027/2028",
+      "sha256": "8403a8ed9f4bef95bab44ce932902da115edc68e91763485f438c342a7d505f7",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19209H_8403a8ed9f4bef95bab4.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 820
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.holyspiritgns.ie/parents/",
+      "label": "Parents Info",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holyspiritgns.ie/our-school/policies/",
+      "label": "Policies",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holyspiritgns.ie/documentlink/182/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holyspiritgns.ie/documentlink/143/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holyspiritgns.ie/admin/?open=/parents/uniform/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holyspiritgns.ie/admin/?open=/parents/uniform/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holyspiritgns.ie/admin/?open=/parents/talking-to-the-teacher/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holyspiritgns.ie/admin/?open=/parents/talking-to-the-teacher/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holyspiritgns.ie/admin/?open=/parents/school-lunches/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holyspiritgns.ie/admin/?open=/parents/school-lunches/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holyspiritgns.ie/admin/?open=/parents/our-school-day/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holyspiritgns.ie/admin/?open=/parents/our-school-day/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holyspiritgns.ie/admin/?open=/parents/homework/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holyspiritgns.ie/admin/?open=/parents/homework/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holyspiritgns.ie/admin/?open=/parents/book-rental/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holyspiritgns.ie/admin/?open=/parents/book-rental/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holyspiritgns.ie",
+      "label": "School homepage",
+      "via": "home"
+    },
+    {
+      "url": "https://www.holyspiritgns.ie/cmsfiles/policies/privacy/",
+      "label": "Website Privacy Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holyspiritgns.ie/cmsfiles/policies/cookie/",
+      "label": "Cookie Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 59.38,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:05:24+0000"
+}

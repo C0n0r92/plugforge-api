@@ -1,0 +1,22 @@
+{
+  "roll": "09642P",
+  "capture": {
+    "timestamp": "20240715191632",
+    "original": "https://burrowschool.ie/wp-content/uploads/2023/09/Annual-Admission-Statement-2024-2025.pdf",
+    "mimetype": "application/pdf",
+    "statuscode": "200",
+    "digest": "5Y5UAHBKKH7K72E56XAU5JICPTNS4ZDV"
+  },
+  "original_url": "https://burrowschool.ie/wp-content/uploads/2023/09/Annual-Admission-Statement-2024-2025.pdf",
+  "archived_url": "https://web.archive.org/web/20240715191632/https://burrowschool.ie/wp-content/uploads/2023/09/Annual-Admission-Statement-2024-2025.pdf",
+  "attempted_at": "2026-11-08T13:02:53.500695+00:00",
+  "linked_from_capture": null,
+  "http_status": 302,
+  "headers": {
+    "Content-Type": "text/plain; charset=utf-8",
+    "location": "https://web.archive.org/web/20240807110402/http://burrowschool.ie/wp-content/uploads/2023/09/Annual-Admission-Statement-2024-2025.pdf"
+  },
+  "bytes": 0,
+  "status": "archive_redirect_pending",
+  "redirect_url": "https://web.archive.org/web/20240807110402/http://burrowschool.ie/wp-content/uploads/2023/09/Annual-Admission-Statement-2024-2025.pdf"
+}

@@ -1,0 +1,207 @@
+{
+  "roll": "19390U",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.saintmarks.ie/Page/Enrolment/60823/Index.html",
+      "final_url": "https://www.saintmarks.ie/Page/Enrolment/60823/Index.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://storage.googleapis.com/iclasscrm_files/47/Images/Content/2025/332/vs86-ye91Admission_Policy_19390U__St._Marks_Senior_NS_Ratified_27_11_2025_compressed.pdf",
+      "final_url": "https://storage.googleapis.com/iclasscrm_files/47/Images/Content/2025/332/vs86-ye91Admission_Policy_19390U__St._Marks_Senior_NS_Ratified_27_11_2025_compressed.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admission Policy"
+    },
+    {
+      "url": "https://www.saintmarks.ie/Page/Admissions/60823/Index.html",
+      "final_url": "https://www.saintmarks.ie/Page/Admissions/60823/Index.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://www.saintmarks.ie/Enrolment/Index.html",
+      "final_url": "https://www.saintmarks.ie/Enrolment/Index.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Enrolment"
+    },
+    {
+      "url": "https://www.saintmarks.ie/Admissions/Index.html",
+      "final_url": "https://www.saintmarks.ie/Admissions/Index.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://storage.googleapis.com/iclasscrm_files/47/Content/2026/8/mx48-School_Calendar_2026_27_website_1.pdf?3597",
+      "final_url": "https://storage.googleapis.com/iclasscrm_files/47/Content/2026/8/mx48-School_Calendar_2026_27_website_1.pdf?3597",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Calendar"
+    },
+    {
+      "url": "https://www.saintmarks.ie/sitemap.xml",
+      "final_url": "https://www.saintmarks.ie/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.saintmarks.ie/Page/Policies/621/Index.html",
+      "final_url": "https://www.saintmarks.ie/Page/Policies/621/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.saintmarks.ie/Content/2025/11/ye91-Admission_Policy_19390U__St._Marks_Senior_NS_Ratified_27_11_2025_compressed.pdf?246",
+      "final_url": "https://www.saintmarks.ie/Content/2025/11/ye91-Admission_Policy_19390U__St._Marks_Senior_NS_Ratified_27_11_2025_compressed.pdf?246",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions Policy"
+    },
+    {
+      "url": "https://www.saintmarks.ie/Content/2024/6/es16-Notification_of_Annual_Review_of_AntiBullying_Policy_May_2024.pdf?42613",
+      "final_url": "https://www.saintmarks.ie/Content/2024/6/es16-Notification_of_Annual_Review_of_AntiBullying_Policy_May_2024.pdf?42613",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Notification regarding the Board of Management's Annual Review of the Anti-Bullying Policy"
+    },
+    {
+      "url": "https://www.saintmarks.ie/Content/2024/2/wv88-Parl_Com_Proc_Jan_2024_compressed.pdf?10460",
+      "final_url": "https://www.saintmarks.ie/Content/2024/2/wv88-Parl_Com_Proc_Jan_2024_compressed.pdf?10460",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parental Complaints Procedure"
+    },
+    {
+      "url": "https://www.saintmarks.ie/Content/2017/9/Special_Educational_Needs_Policy.pdf",
+      "final_url": "https://www.saintmarks.ie/Content/2017/9/Special_Educational_Needs_Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Special Educational Needs Policy"
+    },
+    {
+      "url": "https://www.saintmarks.ie/Content/2017/9/School_Uniform_Policy.pdf",
+      "final_url": "https://www.saintmarks.ie/Content/2017/9/School_Uniform_Policy.pdf",
+      "status": "http_404",
+      "via": "school_public_link",
+      "label": "School Uniform Policy.pdf"
+    },
+    {
+      "url": "https://www.saintmarks.ie/Content/2019/3/_RSE_Policy_2018_.pdf",
+      "final_url": "https://www.saintmarks.ie/Content/2019/3/_RSE_Policy_2018_.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Relationships & Sexuality Policy"
+    },
+    {
+      "url": "https://www.saintmarks.ie/Content/2019/3/Stay_Safe_Policy.pdf",
+      "final_url": "https://www.saintmarks.ie/Content/2019/3/Stay_Safe_Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Stay Safe Policy"
+    },
+    {
+      "url": "https://www.saintmarks.ie/Content/2019/3/School_Uniform_Policy.pdf",
+      "final_url": "https://www.saintmarks.ie/Content/2019/3/School_Uniform_Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Uniform Policy"
+    },
+    {
+      "url": "https://www.saintmarks.ie",
+      "final_url": "https://www.saintmarks.ie",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.saintmarks.ie/News/Parents--Primary-School-Survey-Results-June-2026/53255/Index.html",
+      "final_url": "https://www.saintmarks.ie/News/Parents--Primary-School-Survey-Results-June-2026/53255/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents - Primary School Survey Results June 2026"
+    },
+    {
+      "url": "https://www.saintmarks.ie/News/End-of-Year-Reports-Parent-Information/52309/Index.html",
+      "final_url": "https://www.saintmarks.ie/News/End-of-Year-Reports-Parent-Information/52309/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "End of Year Reports Parent Information"
+    },
+    {
+      "url": "https://www.saintmarks.ie/News/End-of-Year-Reports-Explanation-for-Parents-Multilingual/52782/Index.html",
+      "final_url": "https://www.saintmarks.ie/News/End-of-Year-Reports-Explanation-for-Parents-Multilingual/52782/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "End of Year Reports Explanation for Parents Multilingual"
+    },
+    {
+      "url": "https://www.saintmarks.ie/Content/2022/5/df12-School_Attendance_Policy_2021_22.pdf?5675",
+      "final_url": "https://www.saintmarks.ie/Content/2022/5/df12-School_Attendance_Policy_2021_22.pdf?5675",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Attendance Policy"
+    },
+    {
+      "url": "https://www.saintmarks.ie/Content/2024/4/zt97-Data_Protection_CCTV_Policy_March_2024_1_compressed.pdf?15651",
+      "final_url": "https://www.saintmarks.ie/Content/2024/4/zt97-Data_Protection_CCTV_Policy_March_2024_1_compressed.pdf?15651",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Data Protection CCTV Policy"
+    },
+    {
+      "url": "https://www.saintmarks.ie/Content/2024/4/zs97-Healthy_Eating_Policy_Ratified_12_3_24_1_compressed.pdf?54948",
+      "final_url": "https://www.saintmarks.ie/Content/2024/4/zs97-Healthy_Eating_Policy_Ratified_12_3_24_1_compressed.pdf?54948",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Healthy Eating Policy"
+    },
+    {
+      "url": "https://www.saintmarks.ie/Content/2024/4/sp75-AUP_Policy_Ratified_12_3_24__compressed.pdf?3248",
+      "final_url": "https://www.saintmarks.ie/Content/2024/4/sp75-AUP_Policy_Ratified_12_3_24__compressed.pdf?3248",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Acceptable Use Policy"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19390U",
+      "url": "https://storage.googleapis.com/iclasscrm_files/47/Images/Content/2025/332/vs86-ye91Admission_Policy_19390U__St._Marks_Senior_NS_Ratified_27_11_2025_compressed.pdf",
+      "label": "Admission Policy",
+      "sha256": "3d8827e985e068a65421cff0f30b8e3e9229b4a65d8e3dc81b9cf1d6f2afe9bc",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19390U_3d8827e985e068a65421.txt",
+      "source_file": "database/milestone2/cache/3d8827e985e068a65421cff0f30b8e3e9229b4a65d8e3dc81b9cf1d6f2afe9bc.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 24652
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.saintmarks.ie/Content/2024/4/et17-Data_Protection_Policy_Ratified_12_3_24_2_compressed.pdf?2920",
+      "label": "Date Protection Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.saintmarks.ie/Content/2025/9/ro65-Bi_Cinealta_Policy_St._Marks_Senior_NS_Ratified_17_6_25.pdf?25662",
+      "label": "Bí Cineálta Anti Bullying Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.saintmarks.ie/Page/Terms-and-Privacy/648/Index.html",
+      "label": "Terms and Privacy Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 76.32,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:45:44+0000"
+}

@@ -1,0 +1,227 @@
+{
+  "roll": "18911R",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.olvgns.ie/enrolment-202627.html",
+      "final_url": "https://www.olvgns.ie/enrolment-202627.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Enrolment 2026/27"
+    },
+    {
+      "url": "https://www.olvgns.ie/uploads/1/3/2/6/13264917/enrolment_form_3rd-6th__2026_7.docx",
+      "final_url": "https://www.olvgns.ie/uploads/1/3/2/6/13264917/enrolment_form_3rd-6th__2026_7.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: enrolment_form_3rd-6th__2026_7.docx"
+    },
+    {
+      "url": "https://www.olvgns.ie/uploads/1/3/2/6/13264917/enrolment_form_2026_27.docx",
+      "final_url": "https://www.olvgns.ie/uploads/1/3/2/6/13264917/enrolment_form_2026_27.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: enrolment_form_2026_27.docx"
+    },
+    {
+      "url": "https://www.olvgns.ie/uploads/1/3/2/6/13264917/admission_policy_december_2022.docx",
+      "final_url": "https://www.olvgns.ie/uploads/1/3/2/6/13264917/admission_policy_december_2022.docx",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://www.olvgns.ie/sitemap.xml",
+      "final_url": "https://www.olvgns.ie/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.olvgns.ie/policies.html",
+      "final_url": "https://www.olvgns.ie/policies.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.olvgns.ie/uploads/1/3/2/6/13264917/data_audit_2019_update.docx",
+      "final_url": "https://www.olvgns.ie/uploads/1/3/2/6/13264917/data_audit_2019_update.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: data_audit_2019_update.docx"
+    },
+    {
+      "url": "https://www.olvgns.ie/uploads/1/3/2/6/13264917/updated_risk_analysis_feb_2021.docx",
+      "final_url": "https://www.olvgns.ie/uploads/1/3/2/6/13264917/updated_risk_analysis_feb_2021.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: updated_risk_analysis_feb_2021.docx"
+    },
+    {
+      "url": "https://www.olvgns.ie/uploads/1/3/2/6/13264917/deis_plan_2022-2025_final_draft.docx",
+      "final_url": "https://www.olvgns.ie/uploads/1/3/2/6/13264917/deis_plan_2022-2025_final_draft.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: deis_plan_2022-2025_final_draft.docx"
+    },
+    {
+      "url": "https://www.olvgns.ie/uploads/1/3/2/6/13264917/special_educational_needs_2023.docx",
+      "final_url": "https://www.olvgns.ie/uploads/1/3/2/6/13264917/special_educational_needs_2023.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: special_educational_needs_2023.docx"
+    },
+    {
+      "url": "https://www.olvgns.ie/uploads/1/3/2/6/13264917/school_uniform_2024.docx",
+      "final_url": "https://www.olvgns.ie/uploads/1/3/2/6/13264917/school_uniform_2024.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: school_uniform_2024.docx"
+    },
+    {
+      "url": "https://www.olvgns.ie/uploads/1/3/2/6/13264917/health_and_safety_statement_olv_gns_2024_25.docx",
+      "final_url": "https://www.olvgns.ie/uploads/1/3/2/6/13264917/health_and_safety_statement_olv_gns_2024_25.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: health_and_safety_statement_olv_gns_2024_25.docx"
+    },
+    {
+      "url": "https://www.olvgns.ie/uploads/1/3/2/6/13264917/bi_cinealta_2025.docx",
+      "final_url": "https://www.olvgns.ie/uploads/1/3/2/6/13264917/bi_cinealta_2025.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: bi_cinealta_2025.docx"
+    },
+    {
+      "url": "https://www.olvgns.ie/uploads/1/3/2/6/13264917/september_2026_child_safeguarding_statement_and_risk_assessment.docx",
+      "final_url": "https://www.olvgns.ie/uploads/1/3/2/6/13264917/september_2026_child_safeguarding_statement_and_risk_assessment.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: september_2026_child_safeguarding_statement_and_risk_assessment.docx"
+    },
+    {
+      "url": "https://www.olvgns.ie/uploads/1/3/2/6/13264917/wellbeing_response_plan.docx",
+      "final_url": "https://www.olvgns.ie/uploads/1/3/2/6/13264917/wellbeing_response_plan.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: wellbeing_response_plan.docx"
+    },
+    {
+      "url": "https://www.olvgns.ie/uploads/1/3/2/6/13264917/sphe_1.docx",
+      "final_url": "https://www.olvgns.ie/uploads/1/3/2/6/13264917/sphe_1.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: sphe_1.docx"
+    },
+    {
+      "url": "https://www.olvgns.ie/uploads/1/3/2/6/13264917/healthyeatingpolicy_2018.doc",
+      "final_url": "https://www.olvgns.ie/uploads/1/3/2/6/13264917/healthyeatingpolicy_2018.doc",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: healthyeatingpolicy_2018.doc"
+    },
+    {
+      "url": "https://www.olvgns.ie/uploads/1/3/2/6/13264917/confidentiality_policy_2018.docx",
+      "final_url": "https://www.olvgns.ie/uploads/1/3/2/6/13264917/confidentiality_policy_2018.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: confidentiality_policy_2018.docx"
+    },
+    {
+      "url": "https://www.olvgns.ie/uploads/1/3/2/6/13264917/data_protection_policy_2019_update.docx",
+      "final_url": "https://www.olvgns.ie/uploads/1/3/2/6/13264917/data_protection_policy_2019_update.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: data_protection_policy_2019_update.docx"
+    },
+    {
+      "url": "https://www.olvgns.ie/uploads/1/3/2/6/13264917/internet_acceptable_use_policy_2020.docx",
+      "final_url": "https://www.olvgns.ie/uploads/1/3/2/6/13264917/internet_acceptable_use_policy_2020.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: internet_acceptable_use_policy_2020.docx"
+    },
+    {
+      "url": "https://www.olvgns.ie",
+      "final_url": "https://www.olvgns.ie",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.olvgns.ie/uploads/1/3/2/6/13264917/critical_incident_policy_2023.docx",
+      "final_url": "https://www.olvgns.ie/uploads/1/3/2/6/13264917/critical_incident_policy_2023.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: critical_incident_policy_2023.docx"
+    },
+    {
+      "url": "https://www.olvgns.ie/uploads/1/3/2/6/13264917/code_of_behaviour_policy_2023.docx",
+      "final_url": "https://www.olvgns.ie/uploads/1/3/2/6/13264917/code_of_behaviour_policy_2023.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: code_of_behaviour_policy_2023.docx"
+    },
+    {
+      "url": "https://www.olvgns.ie/uploads/1/3/2/6/13264917/substance_use_policy.doc",
+      "final_url": "https://www.olvgns.ie/uploads/1/3/2/6/13264917/substance_use_policy.doc",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: substance_use_policy.doc"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "18911R",
+      "url": "https://www.olvgns.ie/uploads/1/3/2/6/13264917/admission_policy_december_2022.docx",
+      "label": "Prior school admissions section",
+      "sha256": "af3f707fa0cf6c7e968f6ce07c18eaf5da4d5b0774d73fe9431af195ed70d8f8",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/18911R_af3f707fa0cf6c7e968f.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 20608
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.olvgns.ie/uploads/1/3/2/6/13264917/separation_and_custody_policy_for_parents__3_.docx",
+      "label": "Download file: separation_and_custody_policy_for_parents__3_.docx",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.olvgns.ie/uploads/1/3/2/6/13264917/policy_on_birthday_celebrations.docx",
+      "label": "Download file: policy_on_birthday_celebrations.docx",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.olvgns.ie/uploads/1/3/2/6/13264917/policy_on_birthday_cakes.docx",
+      "label": "Download file: Policy On Birthday Cakes.docx",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.olvgns.ie/uploads/1/3/2/6/13264917/parents_complaints_policy.doc",
+      "label": "Download file: parents_complaints_policy.doc",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.olvgns.ie/uploads/1/3/2/6/13264917/handwriting_policy.doc",
+      "label": "Download file: Handwriting Policy.doc",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.olvgns.ie/uploads/1/3/2/6/13264917/class_allocation_and_split_policy.docx",
+      "label": "Download file: class_allocation_and_split_policy.docx",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.olvgns.ie/uploads/1/3/2/6/13264917/administration_of_medication_policy.docx",
+      "label": "Download file: administration_of_medication_policy.docx",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 72.39,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:54:41+0000"
+}

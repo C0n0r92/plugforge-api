@@ -1,0 +1,18 @@
+{
+  "roll": "16989V",
+  "status": "access_or_infrastructure_deferred",
+  "attempts": [
+    {
+      "url": "https://christthekingsenior.com",
+      "final_url": "https://christthekingsenior.com",
+      "status": "robots_transient_SSLError",
+      "via": "home",
+      "label": "School homepage"
+    }
+  ],
+  "documents": [],
+  "pending_links": [],
+  "elapsed_seconds": 0.12,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:02:05+0000"
+}

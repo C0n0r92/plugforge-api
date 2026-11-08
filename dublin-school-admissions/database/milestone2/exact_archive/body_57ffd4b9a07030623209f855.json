@@ -1,0 +1,25 @@
+{
+  "roll": "20397S",
+  "capture": {
+    "timestamp": "20230325095826",
+    "original": "https://stlouisesprimaryschool.ie/2022/05/24/admission-notice-for-asd-class/",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "digest": "PUQ3QFC6OL23FZ4JBV2QTSAWZMHMXEZY"
+  },
+  "original_url": "https://stlouisesprimaryschool.ie/2022/05/24/admission-notice-for-asd-class/",
+  "archived_url": "https://web.archive.org/web/20230325095826/https://stlouisesprimaryschool.ie/2022/05/24/admission-notice-for-asd-class/",
+  "attempted_at": "2026-11-08T12:55:01.925945+00:00",
+  "linked_from_capture": null,
+  "http_status": 200,
+  "headers": {
+    "Content-Type": "text/html; charset=UTF-8",
+    "memento-datetime": "Sat, 25 Mar 2023 09:58:26 GMT"
+  },
+  "bytes": 92960,
+  "payload_sha256": "22f54b7b1e0ea09fef626503593d0adc7debae17fa87eb2a7c0503cf64ffef9a",
+  "format": "html",
+  "status": "archived_body_retrieved_requires_manual_evidence_review",
+  "text_file": "database/milestone2/evidence/exact_20397S_22f54b7b1e0ea09fef62.txt",
+  "linked_document_candidates": []
+}

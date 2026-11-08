@@ -1,0 +1,367 @@
+{
+  "roll": "20274C",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.eskeretns.ie/enrolment.html",
+      "final_url": "https://www.eskeretns.ie/enrolment.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Enrolment"
+    },
+    {
+      "url": "https://www.eskeretns.ie/uploads/1/2/7/1/127165924/2026_-_27_pre_enrolment_for_special_class.docx",
+      "final_url": "https://www.eskeretns.ie/uploads/1/2/7/1/127165924/2026_-_27_pre_enrolment_for_special_class.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: 2026_-_27_pre_enrolment_for_special_class.docx"
+    },
+    {
+      "url": "https://www.eskeretns.ie/uploads/1/2/7/1/127165924/2026_admission_policy_-_esker_etns.docx.pdf",
+      "final_url": "https://www.eskeretns.ie/uploads/1/2/7/1/127165924/2026_admission_policy_-_esker_etns.docx.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: 2026_admission_policy_-_esker_etns.docx.pdf"
+    },
+    {
+      "url": "https://www.eskeretns.ie/uploads/1/2/7/1/127165924/early-childhood-a5-flyer-going-to-primary_lr11-1.pdf",
+      "final_url": "https://www.eskeretns.ie/uploads/1/2/7/1/127165924/early-childhood-a5-flyer-going-to-primary_lr11-1.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: early-childhood-a5-flyer-going-to-primary_lr11-1.pdf"
+    },
+    {
+      "url": "https://www.eskeretns.ie/esker-newsletter/enrolments-2020",
+      "final_url": "https://www.eskeretns.ie/esker-newsletter/enrolments-2020",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions/policy URL from public sitemap"
+    },
+    {
+      "url": "https://www.eskeretns.ie/esker-newsletter/applications-for-enrolment-for-school-year-20202021",
+      "final_url": "https://www.eskeretns.ie/esker-newsletter/applications-for-enrolment-for-school-year-20202021",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions/policy URL from public sitemap"
+    },
+    {
+      "url": "https://www.eskeretns.ie/sitemap.xml",
+      "final_url": "https://www.eskeretns.ie/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.eskeretns.ie/policies.html",
+      "final_url": "https://www.eskeretns.ie/policies.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.eskeretns.ie/uploads/1/2/7/1/127165924/2026_-_data_protection_-_privacy_notice_for_pupils_parents_and_guardians.pdf",
+      "final_url": "https://www.eskeretns.ie/uploads/1/2/7/1/127165924/2026_-_data_protection_-_privacy_notice_for_pupils_parents_and_guardians.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: 2026_-_data_protection_-_privacy_notice_for_pupils_parents_and_guardians.pdf"
+    },
+    {
+      "url": "https://www.eskeretns.ie/uploads/1/2/7/1/127165924/final_code_of_behaviour_2020.pdf",
+      "final_url": "https://www.eskeretns.ie/uploads/1/2/7/1/127165924/final_code_of_behaviour_2020.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: final_code_of_behaviour_2020.pdf"
+    },
+    {
+      "url": "https://www.eskeretns.ie/uploads/1/2/7/1/127165924/scan_gemma_2022-03-30-10-54-11.pdf",
+      "final_url": "https://www.eskeretns.ie/uploads/1/2/7/1/127165924/scan_gemma_2022-03-30-10-54-11.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: scan_gemma_2022-03-30-10-54-11.pdf"
+    },
+    {
+      "url": "https://www.eskeretns.ie/uploads/1/2/7/1/127165924/risk_assessment_nov_2022.pdf",
+      "final_url": "https://www.eskeretns.ie/uploads/1/2/7/1/127165924/risk_assessment_nov_2022.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: risk_assessment_nov_2022.pdf"
+    },
+    {
+      "url": "https://www.eskeretns.ie/uploads/1/2/7/1/127165924/scan_gemma_2023-01-17-10-40-39.pdf",
+      "final_url": "https://www.eskeretns.ie/uploads/1/2/7/1/127165924/scan_gemma_2023-01-17-10-40-39.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: scan_gemma_2023-01-17-10-40-39.pdf"
+    },
+    {
+      "url": "https://www.eskeretns.ie/uploads/1/2/7/1/127165924/statement_of_strategy_for_school_attendance_jan_2024.docx.pdf",
+      "final_url": "https://www.eskeretns.ie/uploads/1/2/7/1/127165924/statement_of_strategy_for_school_attendance_jan_2024.docx.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: statement_of_strategy_for_school_attendance_jan_2024.docx.pdf"
+    },
+    {
+      "url": "https://www.eskeretns.ie/uploads/1/2/7/1/127165924/wellbeing_statement_of_practice_2025.docx.pdf",
+      "final_url": "https://www.eskeretns.ie/uploads/1/2/7/1/127165924/wellbeing_statement_of_practice_2025.docx.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: wellbeing_statement_of_practice_2025.docx.pdf"
+    },
+    {
+      "url": "https://www.eskeretns.ie/uploads/1/2/7/1/127165924/esker_educate_together_national_school_statement_2025.docx.pdf",
+      "final_url": "https://www.eskeretns.ie/uploads/1/2/7/1/127165924/esker_educate_together_national_school_statement_2025.docx.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: esker_educate_together_national_school_statement_2025.docx.pdf"
+    },
+    {
+      "url": "https://www.eskeretns.ie/uploads/1/2/7/1/127165924/2025_cp_notification.pdf",
+      "final_url": "https://www.eskeretns.ie/uploads/1/2/7/1/127165924/2025_cp_notification.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: 2025_cp_notification.pdf"
+    },
+    {
+      "url": "https://www.eskeretns.ie/uploads/1/2/7/1/127165924/2026_f_notification_of_bi_cinealta_review.pdf",
+      "final_url": "https://www.eskeretns.ie/uploads/1/2/7/1/127165924/2026_f_notification_of_bi_cinealta_review.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: 2026_f_notification_of_bi_cinealta_review.pdf"
+    },
+    {
+      "url": "https://www.eskeretns.ie/uploads/1/2/7/1/127165924/2026_e_bi_cinealta_review.pdf",
+      "final_url": "https://www.eskeretns.ie/uploads/1/2/7/1/127165924/2026_e_bi_cinealta_review.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: 2026_e_bi_cinealta_review.pdf"
+    },
+    {
+      "url": "https://www.eskeretns.ie/uploads/1/2/7/1/127165924/2026_a_bi_cinealta.pdf",
+      "final_url": "https://www.eskeretns.ie/uploads/1/2/7/1/127165924/2026_a_bi_cinealta.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: 2026_a_bi_cinealta.pdf"
+    },
+    {
+      "url": "https://www.eskeretns.ie/uploads/1/2/7/1/127165924/student_friendly_bí_cinneálta_plan__2_.pdf",
+      "final_url": "https://www.eskeretns.ie/uploads/1/2/7/1/127165924/student_friendly_bí_cinneálta_plan__2_.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: student_friendly_bí_cinneálta_plan__2_.pdf"
+    },
+    {
+      "url": "https://www.eskeretns.ie/uploads/1/2/7/1/127165924/sphe.pdf",
+      "final_url": "https://www.eskeretns.ie/uploads/1/2/7/1/127165924/sphe.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: sphe.pdf"
+    },
+    {
+      "url": "https://www.eskeretns.ie/uploads/1/2/7/1/127165924/rse_presentation__teachers__script.pdf",
+      "final_url": "https://www.eskeretns.ie/uploads/1/2/7/1/127165924/rse_presentation__teachers__script.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: rse_presentation__teachers__script.pdf"
+    },
+    {
+      "url": "https://www.eskeretns.ie/uploads/1/2/7/1/127165924/rse_6th_class_presentation-protected.pdf",
+      "final_url": "https://www.eskeretns.ie/uploads/1/2/7/1/127165924/rse_6th_class_presentation-protected.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: rse_6th_class_presentation-protected.pdf"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "20274C",
+      "url": "https://www.eskeretns.ie/uploads/1/2/7/1/127165924/2026_admission_policy_-_esker_etns.docx.pdf",
+      "label": "Download file: 2026_admission_policy_-_esker_etns.docx.pdf",
+      "sha256": "0b69885a3610a8cb5f4a982d10615d3919a5c73b8d76e6c323251c32fc01a148",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20274C_0b69885a3610a8cb5f4a.txt",
+      "source_file": "database/milestone2/cache/0b69885a3610a8cb5f4a982d10615d3919a5c73b8d76e6c323251c32fc01a148.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 27710
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.eskeretns.ie/uploads/1/2/7/1/127165924/rse_5th_class_presentation-protected.pdf",
+      "label": "Download file: rse_5th_class_presentation-protected.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.eskeretns.ie/uploads/1/2/7/1/127165924/parental-complaints-procedure_v4-final-nov23__2_.pdf",
+      "label": "Download file: parental-complaints-procedure_v4-final-nov23__2_.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.eskeretns.ie/uploads/1/2/7/1/127165924/more_resoures_for_parents_-protected.pdf",
+      "label": "Parents Library of Further Resources",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.eskeretns.ie/uploads/1/2/7/1/127165924/lces_information_sheet.pdf",
+      "label": "Download file: lces_information_sheet.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.eskeretns.ie/uploads/1/2/7/1/127165924/garda_vetting.docx",
+      "label": "Download file: garda_vetting.docx",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.eskeretns.ie/uploads/1/2/7/1/127165924/esker_etns_25_26_admission_policy_.docx.pdf",
+      "label": "Download file: esker_etns_25_26_admission_policy_.docx.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.eskeretns.ie/uploads/1/2/7/1/127165924/css2_-_review.pdf",
+      "label": "Download file: css2_-_review.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.eskeretns.ie/uploads/1/2/7/1/127165924/css1.pdf",
+      "label": "Download file: css1.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.eskeretns.ie/uploads/1/2/7/1/127165924/complaints_procedures.docx",
+      "label": "Download file: complaints_procedures.docx",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.eskeretns.ie/uploads/1/2/7/1/127165924/complaints_procedure_guidelines_for_parents.doc",
+      "label": "Download file: Complaint guidelines for parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.eskeretns.ie/uploads/1/2/7/1/127165924/child_friendly_poster_cp__1_.pdf",
+      "label": "Download file: child_friendly_poster_cp__1_.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.eskeretns.ie/uploads/1/2/7/1/127165924/busy_bodies_parents_of_8-12_-protected.pdf",
+      "label": "Busy Bodies Resource for Parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.eskeretns.ie/uploads/1/2/7/1/127165924/anti_racism.docx",
+      "label": "Download file: anti_racism.docx",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.eskeretns.ie/parents.html",
+      "label": "Parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.eskeretns.ie/parents-room.html",
+      "label": "Parents Room",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.eskeretns.ie/parent-teacher-association.html",
+      "label": "Parent Teacher Association",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.eskeretns.ie",
+      "label": "School homepage",
+      "via": "home"
+    },
+    {
+      "url": "https://www.eskeretns.ie/uploads/1/2/7/1/127165924/distance_learning_policy_-_jan_2021.pdf",
+      "label": "Download file: distance_learning_policy_-_jan_2021.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.eskeretns.ie/uploads/1/2/7/1/127165924/homework_policy_2025.docx.pdf",
+      "label": "Download file: homework_policy_2025.docx.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.eskeretns.ie/uploads/1/2/7/1/127165924/2026_critical_incident_policy.pdf",
+      "label": "Download file: 2026_critical_incident_policy.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.eskeretns.ie/uploads/1/2/7/1/127165924/2026_-_data_protection_-_gdpr_policy.pdf",
+      "label": "Download file: 2026_-_data_protection_-_gdpr_policy.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.eskeretns.ie/uploads/1/2/7/1/127165924/2026_-_acceptable_use_policy.pdf",
+      "label": "Download file: 2026_-_acceptable_use_policy.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.eskeretns.ie/uploads/1/2/7/1/127165924/toileting_intimate_care_policy.docx__2_.pdf",
+      "label": "Download file: toileting_intimate_care_policy.docx__2_.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.eskeretns.ie/uploads/1/2/7/1/127165924/toileting_intimate_care_policy.docx__1_.pdf",
+      "label": "Download file: toileting_intimate_care_policy.docx__1_.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.eskeretns.ie/uploads/1/2/7/1/127165924/sen_policy_.docx.pdf",
+      "label": "Download file: sen_policy_.docx.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.eskeretns.ie/uploads/1/2/7/1/127165924/reallocating_classes_policy.pdf",
+      "label": "Download file: reallocating_classes_policy.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.eskeretns.ie/uploads/1/2/7/1/127165924/healthy_eating_policy.pdf",
+      "label": "Download file: healthy_eating_policy.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.eskeretns.ie/uploads/1/2/7/1/127165924/dress_code_policy_24.09.pdf",
+      "label": "Download file: dress_code_policy_24.09.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.eskeretns.ie/uploads/1/2/7/1/127165924/dignity_at_work_policy.docx",
+      "label": "Download file: dignity_at_work_policy.docx",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.eskeretns.ie/uploads/1/2/7/1/127165924/birthday_celebrations_policy.docx.pdf",
+      "label": "Download file: birthday_celebrations_policy.docx.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.eskeretns.ie/uploads/1/2/7/1/127165924/attendance_policy_jan_24.docx.pdf",
+      "label": "Download file: attendance_policy_jan_24.docx.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.eskeretns.ie/uploads/1/2/7/1/127165924/assistive_technology_policy.pdf",
+      "label": "Download file: assistive_technology_policy.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.eskeretns.ie/uploads/1/2/7/1/127165924/arrival_and_dismissal_policy__h_and_s_.docx",
+      "label": "Download file: arrival_and_dismissal_policy__h_and_s_.docx",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.eskeretns.ie/uploads/1/2/7/1/127165924/appendix_7_supervision_policy.doc",
+      "label": "Download file: appendix_7_supervision_policy.doc",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.eskeretns.ie/uploads/1/2/7/1/127165924/_sustainability_policy_statement.docx__1_.pdf",
+      "label": "Download file: _sustainability_policy_statement.docx__1_.pdf",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 71.48,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:59:13+0000"
+}

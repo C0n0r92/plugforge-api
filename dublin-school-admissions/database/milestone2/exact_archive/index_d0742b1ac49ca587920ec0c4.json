@@ -1,0 +1,86 @@
+{
+  "roll": "15132B",
+  "original_url": "https://www.haroldboysdalkey.ie/copy-of-teachers-2024-2025-1",
+  "method": "documented_CDX_exact_URL_all_available_dates",
+  "attempted_at": "2026-11-08T12:41:56.105862+00:00",
+  "params": {
+    "url": "https://www.haroldboysdalkey.ie/copy-of-teachers-2024-2025-1",
+    "matchType": "exact",
+    "output": "json",
+    "fl": "timestamp,original,mimetype,statuscode,digest",
+    "filter": "statuscode:200",
+    "collapse": "digest",
+    "limit": "200",
+    "showResumeKey": "true"
+  },
+  "earliest_year_cutoff": null,
+  "captures": [
+    {
+      "timestamp": "20240908040025",
+      "original": "https://www.haroldboysdalkey.ie/copy-of-teachers-2024-2025-1",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "MEIV5N7SKHBV436TOA6XTXG7KMMXE6CB"
+    },
+    {
+      "timestamp": "20241103231239",
+      "original": "https://www.haroldboysdalkey.ie/copy-of-teachers-2024-2025-1",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "VJDT77EWQTSHD4WWRGERZCQYZAYPPXV5"
+    },
+    {
+      "timestamp": "20250215105523",
+      "original": "https://www.haroldboysdalkey.ie/copy-of-teachers-2024-2025-1",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "JXAXZBTPVTDOFAZOBEMWEJD5TTSJHHBJ"
+    },
+    {
+      "timestamp": "20250614144854",
+      "original": "https://www.haroldboysdalkey.ie/copy-of-teachers-2024-2025-1",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "FYAQ7PCJU4DU3IC2LJBOAVBAWHI7HTPH"
+    },
+    {
+      "timestamp": "20251017175803",
+      "original": "https://www.haroldboysdalkey.ie/copy-of-teachers-2024-2025-1",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "3L35HPI4U2YZRRHHY2QCIG5WBY4R6B5G"
+    },
+    {
+      "timestamp": "20260315084142",
+      "original": "https://www.haroldboysdalkey.ie/copy-of-teachers-2024-2025-1",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "GXNYFH3R5M74XQCQEOA7HE7QFVE4J3TD"
+    },
+    {
+      "timestamp": "20260608175745",
+      "original": "https://www.haroldboysdalkey.ie/copy-of-teachers-2024-2025-1",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "J5563VQYJTGNFLBC7JA2KVXYTZ4I5G24"
+    }
+  ],
+  "pages": [
+    {
+      "at": "2026-11-08T12:41:56.828685+00:00",
+      "http_status": 200,
+      "params": {
+        "url": "https://www.haroldboysdalkey.ie/copy-of-teachers-2024-2025-1",
+        "matchType": "exact",
+        "output": "json",
+        "fl": "timestamp,original,mimetype,statuscode,digest",
+        "filter": "statuscode:200",
+        "collapse": "digest",
+        "limit": "200",
+        "showResumeKey": "true"
+      }
+    }
+  ],
+  "status": "index_complete",
+  "capture_count": 7
+}

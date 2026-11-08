@@ -1,0 +1,280 @@
+{
+  "roll": "19542R",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.stthomasjns.com/Page/Admissions-Notice-202627/1696290/Index.html",
+      "final_url": "https://www.stthomasjns.com/Page/Admissions-Notice-202627/1696290/Index.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions Notice 2026/27"
+    },
+    {
+      "url": "https://www.stthomasjns.com/page/School-Admission/3622/Index.html",
+      "final_url": "https://www.stthomasjns.com/page/School-Admission/3622/Index.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "School Admissions"
+    },
+    {
+      "url": "https://www.stthomasjns.com/School-Admission/Index.html",
+      "final_url": "https://www.stthomasjns.com/School-Admission/Index.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "School Admission"
+    },
+    {
+      "url": "https://www.stthomasjns.com/Page/School-Admission/3622/Index.html",
+      "final_url": "https://www.stthomasjns.com/Page/School-Admission/3622/Index.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "School Admissions"
+    },
+    {
+      "url": "https://www.stthomasjns.com/Enrolment/Index.html",
+      "final_url": "https://www.stthomasjns.com/Enrolment/Index.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Enrolment"
+    },
+    {
+      "url": "https://www.stthomasjns.com/Admissions/Index.html",
+      "final_url": "https://www.stthomasjns.com/Admissions/Index.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://www.stthomasjns.com/Admission/Index.html",
+      "final_url": "https://www.stthomasjns.com/Admission/Index.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admission"
+    },
+    {
+      "url": "https://www.StThomasJNS.com/Content/2024/9/fj23-Catchment_Area.pdf?4830",
+      "final_url": "https://www.StThomasJNS.com/Content/2024/9/fj23-Catchment_Area.pdf?4830",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parish Catchment Area"
+    },
+    {
+      "url": "https://storage.googleapis.com/iclasscrm_files/55/Images/Content/2025/321/xn94-Admission_Policy_2026.docx",
+      "final_url": "https://storage.googleapis.com/iclasscrm_files/55/Images/Content/2025/321/xn94-Admission_Policy_2026.docx",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://storage.googleapis.com/iclasscrm_files/55/Images/Content/2026/250/pb50-Admission_Policy_2026.docx",
+      "final_url": "https://storage.googleapis.com/iclasscrm_files/55/Images/Content/2026/250/pb50-Admission_Policy_2026.docx",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://www.stthomasjns.com/sitemap.xml",
+      "final_url": "https://www.stthomasjns.com/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.stthomasjns.com/page/School-Policies/3620/Index.html",
+      "final_url": "https://www.stthomasjns.com/page/School-Policies/3620/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Policies"
+    },
+    {
+      "url": "https://www.stthomasjns.com/page/School-Policies/3620/:https:/www.stthomasjns.com/Content/2021/12/hh33-Covid19_Response_Plan_Updated_Dec_2021_WEBSITE.pdf",
+      "final_url": "https://www.stthomasjns.com/page/School-Policies/3620/:https:/www.stthomasjns.com/Content/2021/12/hh33-Covid19_Response_Plan_Updated_Dec_2021_WEBSITE.pdf",
+      "status": "http_404",
+      "via": "school_public_link",
+      "label": "Covid 19 Response Plan"
+    },
+    {
+      "url": "https://www.StThomasJNS.com/Content/2025/1/hq26-gq26Draft_New_Dignity_at_Work.pdf?22001",
+      "final_url": "https://www.StThomasJNS.com/Content/2025/1/hq26-gq26Draft_New_Dignity_at_Work.pdf?22001",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Dignity at Work Policy"
+    },
+    {
+      "url": "https://www.StThomasJNS.com/Content/2017/12/ICT_Policy.pdf",
+      "final_url": "https://www.StThomasJNS.com/Content/2017/12/ICT_Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "ICT Policy"
+    },
+    {
+      "url": "https://www.StThomasJNS.com/Content/2024/3/pz59-Substance_Use_Policy_2018.pdf",
+      "final_url": "https://www.StThomasJNS.com/Content/2024/3/pz59-Substance_Use_Policy_2018.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Substance Abuse Policy"
+    },
+    {
+      "url": "https://www.stthomasjns.com/page/Parents-Guide/3661/Index.html",
+      "final_url": "https://www.stthomasjns.com/page/Parents-Guide/3661/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parent's Guide"
+    },
+    {
+      "url": "https://www.stthomasjns.com/page/Parents-Association/3625/Index.html",
+      "final_url": "https://www.stthomasjns.com/page/Parents-Association/3625/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents Association"
+    },
+    {
+      "url": "https://www.stthomasjns.com/Parents/Index.html",
+      "final_url": "https://www.stthomasjns.com/Parents/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents"
+    },
+    {
+      "url": "https://www.stthomasjns.com/Page/Parents-Guide/3661/Index.html",
+      "final_url": "https://www.stthomasjns.com/Page/Parents-Guide/3661/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parent's Guide"
+    },
+    {
+      "url": "https://www.stthomasjns.com",
+      "final_url": "https://www.stthomasjns.com",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.StThomasJNS.com/Content/2024/4/vk46-Data_Protection_Policy_Feb_2021.pdf",
+      "final_url": "https://www.StThomasJNS.com/Content/2024/4/vk46-Data_Protection_Policy_Feb_2021.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Data Protection Policy"
+    },
+    {
+      "url": "https://www.StThomasJNS.com/Content/2022/1/uc71-Internet_Acceptable_Use_Policy_2021.pdf",
+      "final_url": "https://www.StThomasJNS.com/Content/2022/1/uc71-Internet_Acceptable_Use_Policy_2021.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Internet Acceptable Use Policy"
+    },
+    {
+      "url": "https://www.StThomasJNS.com/Content/2021/3/qz69-Policy_Statement_and_Risk_Assessment._St._Thomas_JNS_M.pdf",
+      "final_url": "https://www.StThomasJNS.com/Content/2021/3/qz69-Policy_Statement_and_Risk_Assessment._St._Thomas_JNS_M.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Covid 19 Policy Statement and Risk Assessment"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19542R",
+      "url": "https://www.stthomasjns.com/Admissions/Index.html",
+      "label": "Admissions",
+      "sha256": "b2f091d0e32365f46e094250150416e18e8af29a62cd9568d5b75a73579e20b8",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19542R_b2f091d0e32365f46e09.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 609
+    },
+    {
+      "roll": "19542R",
+      "url": "https://www.stthomasjns.com/Admission/Index.html",
+      "label": "Admission",
+      "sha256": "e8bd319a72124d92ae6d24a43b8da161ab7fffff79cb52c13011462ef9e3d811",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19542R_e8bd319a72124d92ae6d.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 422
+    },
+    {
+      "roll": "19542R",
+      "url": "https://storage.googleapis.com/iclasscrm_files/55/Images/Content/2025/321/xn94-Admission_Policy_2026.docx",
+      "label": "Prior school admissions section",
+      "sha256": "405e72b31fe26da1c2d11bd70192e3747bf743a6a41f94c9bd172ef3f2038059",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/19542R_405e72b31fe26da1c2d1.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 56003
+    },
+    {
+      "roll": "19542R",
+      "url": "https://storage.googleapis.com/iclasscrm_files/55/Images/Content/2026/250/pb50-Admission_Policy_2026.docx",
+      "label": "Prior school admissions section",
+      "sha256": "e695699d58b296557dc33c78d4eee6bb32426845178267939b5a9237c0d2ef96",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/19542R_e695699d58b296557dc3.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 55994
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.StThomasJNS.com/Content/2021/2/ms46-Remote_Learning_Policy_2021.pdf",
+      "label": "Remote Learning Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.StThomasJNS.com/Content/2021/11/ab00-Religion_policy.pdf",
+      "label": "Religion Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.StThomasJNS.com/Content/2022/10/mk43-Guidelines_for_Parents_for_email_use.pdf",
+      "label": "Guidelines for Parents for Email Use Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.StThomasJNS.com/Content/2025/1/mn45-vl84Special_Ed_and_Inclusion_Policy_2023.pdf?17880",
+      "label": "Special Education and Inclusion Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.StThomasJNS.com/Content/2024/6/sk63-COB_June_24_Draft_1.pdf",
+      "label": "Code of Behaviour Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.StThomasJNS.com/Content/2024/3/ww88-Safety_Statement_St_Thomas_JNS.pdf",
+      "label": "Health and Safety Statement Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.StThomasJNS.com/Content/2024/1/ub70-up75AntiBullying_Policy_2024_DRAFT_1.pdf",
+      "label": "AntiBullying Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.StThomasJNS.com/Content/2025/10/sg72-Critical_Incident_Policy.pdf",
+      "label": "Critical Incident Policy.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.StThomasJNS.com/Content/2025/10/ok53-Inclusive_and_Special_Education_Policy.pdf",
+      "label": "Inclusive and Special Education Policy.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.StThomasJNS.com/Content/2025/1/zy99-Job_Share_and_Career_Break_Policy_St_Thomas_JNS.pdf?23905",
+      "label": "Job Share and Career Break Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.StThomasJNS.com/Content/2025/1/wu87-vd81Attendance_Strategy.pdf?1650",
+      "label": "School Attendance Strategy Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 80.51,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:46:36+0000"
+}

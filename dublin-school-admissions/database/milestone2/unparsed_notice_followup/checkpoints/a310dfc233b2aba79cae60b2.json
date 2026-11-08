@@ -1,0 +1,37 @@
+{
+  "roll": "20309S",
+  "url": "https://hopejns.ie/wp-content/uploads/2026/10/Signed-and-Approved-Admissions-2027.pdf",
+  "prior_sha256": "9844299598aafe07ffe9c709ddf546dde288a27e3d577eca2ea70b9b0d2b0923",
+  "prior_status": "ok",
+  "prior_attempted_at": "2026-11-08T12:31:55+0000",
+  "started_at": "2026-11-08T13:30:41+0000",
+  "method": "recheck_prior_success_unparsed_notice_with_actual_OCR_if_needed",
+  "documents": [
+    {
+      "roll": "20309S",
+      "url": "https://hopejns.ie/wp-content/uploads/2026/10/Signed-and-Approved-Admissions-2027.pdf",
+      "sha256": "9844299598aafe07ffe9c709ddf546dde288a27e3d577eca2ea70b9b0d2b0923",
+      "format": "pdf",
+      "source_file": "database/milestone2/unparsed_notice_followup/cache/9844299598aafe07ffe9c709ddf546dde288a27e3d577eca2ea70b9b0d2b0923.pdf",
+      "text_file": "database/milestone2/unparsed_notice_followup/evidence/20309S_9844299598aafe07ffe9.txt",
+      "candidate_status": "actual_body_OCR_requires_manual_review",
+      "ocr": true,
+      "retrieved_at": "2026-11-08T13:30:46+0000"
+    }
+  ],
+  "attempts": [
+    {
+      "url": "https://hopejns.ie/wp-content/uploads/2026/10/Signed-and-Approved-Admissions-2027.pdf",
+      "final_url": "https://hopejns.ie/wp-content/uploads/2026/10/Signed-and-Approved-Admissions-2027.pdf",
+      "status": "reused_local_verified_payload"
+    }
+  ],
+  "status": "body_retrieved_requires_manual_review",
+  "sha256": "9844299598aafe07ffe9c709ddf546dde288a27e3d577eca2ea70b9b0d2b0923",
+  "same_payload_as_prior_success": true,
+  "format": "pdf",
+  "parse_stderr": "",
+  "ocr_pending_reason": "tesseract_unavailable_and_package_repository_HTTP500; rendered_pages_available_for_manual_visual_review",
+  "text_length": 0,
+  "elapsed_seconds": 5.06
+}

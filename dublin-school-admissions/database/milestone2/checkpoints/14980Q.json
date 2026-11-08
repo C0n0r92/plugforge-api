@@ -1,0 +1,83 @@
+{
+  "roll": "14980Q",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.glasnevinns.ie/admissions.html",
+      "final_url": "https://www.glasnevinns.ie/admissions.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://www.glasnevinns.ie/uploads/1/5/5/5/155526712/application-form-for-admission-gns-.pdf",
+      "final_url": "https://www.glasnevinns.ie/uploads/1/5/5/5/155526712/application-form-for-admission-gns-.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "application-form-for-admission-gns-.pdf"
+    },
+    {
+      "url": "https://www.glasnevinns.ie/uploads/1/5/5/5/155526712/admissions_policy_gns.docx",
+      "final_url": "https://www.glasnevinns.ie/uploads/1/5/5/5/155526712/admissions_policy_gns.docx",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://www.glasnevinns.ie/sitemap.xml",
+      "final_url": "https://www.glasnevinns.ie/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.glasnevinns.ie/school-policies.html",
+      "final_url": "https://www.glasnevinns.ie/school-policies.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Policies"
+    },
+    {
+      "url": "https://www.glasnevinns.ie/parents-association.html",
+      "final_url": "https://www.glasnevinns.ie/parents-association.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents Association"
+    },
+    {
+      "url": "https://www.glasnevinns.ie",
+      "final_url": "https://www.glasnevinns.ie",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "14980Q",
+      "url": "https://www.glasnevinns.ie/admissions.html",
+      "label": "Admissions",
+      "sha256": "50a3607cacc44eeee38e02495ee3764be491a5137db9a62544a7c94df9817a25",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/14980Q_50a3607cacc44eeee38e.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 380
+    },
+    {
+      "roll": "14980Q",
+      "url": "https://www.glasnevinns.ie/uploads/1/5/5/5/155526712/admissions_policy_gns.docx",
+      "label": "Prior school admissions section",
+      "sha256": "145ed22cf54d2c5891d02ff83968aec687a07a5651e7c9a8dad7402b4c9c4cb1",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/14980Q_145ed22cf54d2c5891d0.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 23891
+    }
+  ],
+  "pending_links": [],
+  "elapsed_seconds": 20.47,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:49:13+0000"
+}

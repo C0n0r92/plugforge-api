@@ -1,0 +1,499 @@
+{
+  "roll": "18886V",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.kogrange.com/enrolment/?googletranslate=true",
+      "final_url": "https://www.kogrange.com/enrolment/?googletranslate=true",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "https://www.kogrange.com/cmsfiles/items/downloads/ApplicationforenrolmentformNEW.pdf",
+      "final_url": "https://www.kogrange.com/cmsfiles/items/downloads/ApplicationforenrolmentformNEW.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.kogrange.com/enrolment/",
+      "final_url": "https://www.kogrange.com/enrolment/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Enrolment"
+    },
+    {
+      "url": "https://www.kogrange.com/admin/?open=/enrolment/?googletranslate=true",
+      "final_url": "https://www.kogrange.com/admin/?open=/enrolment/?googletranslate=true",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.kogrange.com/admin/?open=/enrolment/",
+      "final_url": "https://www.kogrange.com/admin/?open=/enrolment/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.kogrange.com/cmsfiles/items/downloads/8113-AdmissionsPolicy2026.pdf",
+      "final_url": "https://www.kogrange.com/cmsfiles/items/downloads/8113-AdmissionsPolicy2026.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.kogrange.com/sitemap.xml",
+      "final_url": "https://www.kogrange.com/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.kogrange.com/parents-area/resources/science-resources/",
+      "final_url": "https://www.kogrange.com/parents-area/resources/science-resources/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Science Resources"
+    },
+    {
+      "url": "https://www.kogrange.com/cmsfiles/items/downloads/YeastExperiment.pdf",
+      "final_url": "https://www.kogrange.com/cmsfiles/items/downloads/YeastExperiment.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.kogrange.com/cmsfiles/items/downloads/WindowsandBillGates.pdf",
+      "final_url": "https://www.kogrange.com/cmsfiles/items/downloads/WindowsandBillGates.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.kogrange.com/cmsfiles/items/downloads/WhatisDiffusion.pdf",
+      "final_url": "https://www.kogrange.com/cmsfiles/items/downloads/WhatisDiffusion.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.kogrange.com/cmsfiles/items/downloads/WeBuiltaComputerpdf.pdf",
+      "final_url": "https://www.kogrange.com/cmsfiles/items/downloads/WeBuiltaComputerpdf.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.kogrange.com/cmsfiles/items/downloads/WaterSurfaceTension3.pdf",
+      "final_url": "https://www.kogrange.com/cmsfiles/items/downloads/WaterSurfaceTension3.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.kogrange.com/cmsfiles/items/downloads/WaterSurfaceTension2.pdf",
+      "final_url": "https://www.kogrange.com/cmsfiles/items/downloads/WaterSurfaceTension2.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.kogrange.com/cmsfiles/items/downloads/WaterSurfaceTension1.pdf",
+      "final_url": "https://www.kogrange.com/cmsfiles/items/downloads/WaterSurfaceTension1.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.kogrange.com/cmsfiles/items/downloads/WaterPower.pdf",
+      "final_url": "https://www.kogrange.com/cmsfiles/items/downloads/WaterPower.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.kogrange.com/cmsfiles/items/downloads/WaterMovementinTrees.pdf",
+      "final_url": "https://www.kogrange.com/cmsfiles/items/downloads/WaterMovementinTrees.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.kogrange.com/cmsfiles/items/downloads/UndergroundPlantRoots.pdf",
+      "final_url": "https://www.kogrange.com/cmsfiles/items/downloads/UndergroundPlantRoots.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.kogrange.com/cmsfiles/items/downloads/TwirlingSnake.pdf",
+      "final_url": "https://www.kogrange.com/cmsfiles/items/downloads/TwirlingSnake.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.kogrange.com/cmsfiles/items/downloads/ToTestforVitaminCinFoods.pdf",
+      "final_url": "https://www.kogrange.com/cmsfiles/items/downloads/ToTestforVitaminCinFoods.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.kogrange.com/cmsfiles/items/downloads/ToTestforFatinFood.pdf",
+      "final_url": "https://www.kogrange.com/cmsfiles/items/downloads/ToTestforFatinFood.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.kogrange.com/cmsfiles/items/downloads/TheSoundBarrier.pdf",
+      "final_url": "https://www.kogrange.com/cmsfiles/items/downloads/TheSoundBarrier.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.kogrange.com/cmsfiles/items/downloads/TheHeart.pdf",
+      "final_url": "https://www.kogrange.com/cmsfiles/items/downloads/TheHeart.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.kogrange.com/cmsfiles/items/downloads/TheBrainNervousSystem.pdf",
+      "final_url": "https://www.kogrange.com/cmsfiles/items/downloads/TheBrainNervousSystem.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    }
+  ],
+  "documents": [
+    {
+      "roll": "18886V",
+      "url": "https://www.kogrange.com/enrolment/?googletranslate=true",
+      "label": "",
+      "sha256": "e3f2a15ddf8deb99937d2350b47c6009b5d313072cb2ae02d62936055200f9f2",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/18886V_e3f2a15ddf8deb99937d.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 2547
+    },
+    {
+      "roll": "18886V",
+      "url": "https://www.kogrange.com/enrolment/",
+      "label": "Enrolment",
+      "sha256": "029abc587aeb95f6843058fbf8c083f918350498d366ceee0b5eeb7c71d7445c",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/18886V_029abc587aeb95f68430.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 2547
+    },
+    {
+      "roll": "18886V",
+      "url": "https://www.kogrange.com/cmsfiles/items/downloads/8113-AdmissionsPolicy2026.pdf",
+      "label": "",
+      "sha256": "fa5ef0088951a86a81a7d11f832484e17d1fb7b8ddc2237440274e0b79ee3291",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/18886V_fa5ef0088951a86a81a7.txt",
+      "source_file": "database/milestone2/cache/fa5ef0088951a86a81a7d11f832484e17d1fb7b8ddc2237440274e0b79ee3291.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 33951
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.kogrange.com/cmsfiles/items/downloads/TheAtom.pdf",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.kogrange.com/cmsfiles/items/downloads/TestforStarchinFood.pdf",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.kogrange.com/cmsfiles/items/downloads/TestforProteininFood.pdf",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.kogrange.com/cmsfiles/items/downloads/Static.pdf",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.kogrange.com/cmsfiles/items/downloads/SoundExps.pdf.pdf",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.kogrange.com/cmsfiles/items/downloads/Slime.pdf",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.kogrange.com/cmsfiles/items/downloads/SelectiveBarrierinaCell.pdf",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.kogrange.com/cmsfiles/items/downloads/PlantGrowth.pdf",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.kogrange.com/cmsfiles/items/downloads/OpticalIllusions.pdf",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.kogrange.com/cmsfiles/items/downloads/OilyDivers.pdf",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.kogrange.com/cmsfiles/items/downloads/MoreBalancing.pdf",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.kogrange.com/cmsfiles/items/downloads/LinuxSoftware.pdf",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.kogrange.com/cmsfiles/items/downloads/Lightning.pdf",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.kogrange.com/cmsfiles/items/downloads/LightinNature.pdf",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.kogrange.com/cmsfiles/items/downloads/LightSpeed.pdf",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.kogrange.com/cmsfiles/items/downloads/LightExps.pdf",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.kogrange.com/cmsfiles/items/downloads/LearnabouttheEar.pdf",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.kogrange.com/cmsfiles/items/downloads/InventorsandInventions.pdf",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.kogrange.com/cmsfiles/items/downloads/InventorsInventionsLight.pdf",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.kogrange.com/cmsfiles/items/downloads/InventorsInventionsAviators.pdf",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.kogrange.com/cmsfiles/items/downloads/InventorsInventions.pdf",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.kogrange.com/cmsfiles/items/downloads/Howdothelungswork.pdf",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.kogrange.com/cmsfiles/items/downloads/HowdotheAlveoliwork.pdf",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.kogrange.com/cmsfiles/items/downloads/Howcanyouseeyourpulse.pdf",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.kogrange.com/cmsfiles/items/downloads/HowcanIcatchspores.pdf",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.kogrange.com/cmsfiles/items/downloads/Growyourownmould.pdf",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.kogrange.com/cmsfiles/items/downloads/FlightExps.pdf",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.kogrange.com/cmsfiles/items/downloads/FamousVisuallyImpairedPeople.pdf",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.kogrange.com/cmsfiles/items/downloads/FactsAboutSound.pdf",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.kogrange.com/cmsfiles/items/downloads/EggFloat.pdf",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.kogrange.com/cmsfiles/items/downloads/Echolocation.pdf",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.kogrange.com/cmsfiles/items/downloads/DissolveanEgg.pdf",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.kogrange.com/cmsfiles/items/downloads/DamagedCells.pdf",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.kogrange.com/cmsfiles/items/downloads/Computer.pdf",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.kogrange.com/cmsfiles/items/downloads/ColorBlindnessTests.pdf",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.kogrange.com/cmsfiles/items/downloads/Chromatography.pdf",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.kogrange.com/cmsfiles/items/downloads/Canwatermoveupaflower.pdf",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.kogrange.com/cmsfiles/items/downloads/Bubbles.pdf",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.kogrange.com/cmsfiles/items/downloads/Breathlessness.pdf",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.kogrange.com/cmsfiles/items/downloads/Battery.pdf",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.kogrange.com/cmsfiles/items/downloads/BalloonRocket.pdf",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.kogrange.com/cmsfiles/items/downloads/BalancingClown.pdf",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.kogrange.com/parents-area/resources/science-resources/?googletranslate=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.kogrange.com/parents-area/resources/maths-resources/",
+      "label": "Maths Resources",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.kogrange.com/parents-area/resources/",
+      "label": "Resources",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.kogrange.com/parents-area/link-to-school-lunches-company-/",
+      "label": "Link to school lunches company",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.kogrange.com/parents-area/",
+      "label": "Parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.kogrange.com/our-school/school-policies/policies/",
+      "label": "Anti-Bullying",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.kogrange.com/our-school/school-policies/health-and-safety/",
+      "label": "Health & Safety",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.kogrange.com/our-school/school-policies/code-of-behaviour/",
+      "label": "Code of Behaviour",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.kogrange.com/our-school/school-policies/child-safeguarding/",
+      "label": "Child Safeguarding",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.kogrange.com/our-school/school-policies/b-cinealta/",
+      "label": "Bí Cinealta",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.kogrange.com/our-school/school-policies/",
+      "label": "School Policies",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.kogrange.com/admin/?open=/parents-area/resources/science-resources/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.kogrange.com/",
+      "label": "School homepage",
+      "via": "home"
+    },
+    {
+      "url": "https://www.kogrange.com/cmsfiles/policies/privacy/",
+      "label": "Website Privacy Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.kogrange.com/cmsfiles/policies/cookie/",
+      "label": "Cookie Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 68.15,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:54:06+0000"
+}

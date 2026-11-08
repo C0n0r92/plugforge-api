@@ -1,0 +1,307 @@
+{
+  "roll": "19258U",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://hollyparkbns.ie/admissions/virtual-tour",
+      "final_url": "https://hollyparkbns.ie/admissions/virtual-tour",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Virtual Tour"
+    },
+    {
+      "url": "https://hollyparkbns.ie/system/files/file-uploads/2026-08/Holly%20Park%20School%20Calendar%202026-2027.pdf",
+      "final_url": "https://hollyparkbns.ie/system/files/file-uploads/2026-08/Holly%20Park%20School%20Calendar%202026-2027.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Calendar"
+    },
+    {
+      "url": "https://hollyparkbns.ie/admissions",
+      "final_url": "https://hollyparkbns.ie/admissions",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://hollyparkbns.ie/sites/default/files/image-uploads/Foxrock.pdf",
+      "final_url": "https://hollyparkbns.ie/sites/default/files/image-uploads/Foxrock.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parish Map.pdf"
+    },
+    {
+      "url": "https://hollyparkbns.ie/our-school/policies/child-safeguarding-notification-regarding-board-managements-review-child",
+      "final_url": "https://hollyparkbns.ie/our-school/policies/child-safeguarding-notification-regarding-board-managements-review-child",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "NOTIFICATION REGARDING THE BOARD OF MANAGEMENT’S REVIEW OF THE CHILD SAFEGUARDING STATEMENT 2023-24"
+    },
+    {
+      "url": "https://hollyparkbns.ie/our-school/policies/checklist-review-child-safeguarding-statement-2025-26",
+      "final_url": "https://hollyparkbns.ie/our-school/policies/checklist-review-child-safeguarding-statement-2025-26",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "CHECKLIST FOR REVIEW OF THE CHILD SAFEGUARDING STATEMENT 2023-24"
+    },
+    {
+      "url": "https://hollyparkbns.ie/our-school/policies/child-safeguarding-statement-and-risk-assessment-2025-2026",
+      "final_url": "https://hollyparkbns.ie/our-school/policies/child-safeguarding-statement-and-risk-assessment-2025-2026",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Child safeguarding Statement and Risk Assessment 2024-2025"
+    },
+    {
+      "url": "https://hollyparkbns.ie/sitemap.xml",
+      "final_url": "https://hollyparkbns.ie/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "http://hollyparkbns.ie/admissions/virtual-tour",
+      "final_url": "http://hollyparkbns.ie/admissions/virtual-tour",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "sitemap_link",
+      "label": "Admission URL from sitemap"
+    },
+    {
+      "url": "http://hollyparkbns.ie/admissions",
+      "final_url": "http://hollyparkbns.ie/admissions",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "sitemap_link",
+      "label": "Admission URL from sitemap"
+    },
+    {
+      "url": "https://hollyparkbns.ie/our-school/policies/social-personal-and-health-education-sphe",
+      "final_url": "https://hollyparkbns.ie/our-school/policies/social-personal-and-health-education-sphe",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Social Personal Health Education (SPHE)"
+    },
+    {
+      "url": "https://hollyparkbns.ie/our-school/policies/relationship-and-sexuality-education-rse",
+      "final_url": "https://hollyparkbns.ie/our-school/policies/relationship-and-sexuality-education-rse",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Relationship and Sexuality Education (RSE)"
+    },
+    {
+      "url": "https://hollyparkbns.ie/our-school/policies/admissions-policy",
+      "final_url": "https://hollyparkbns.ie/our-school/policies/admissions-policy",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions Policy"
+    },
+    {
+      "url": "https://hollyparkbns.ie/our-school/policies-and-procedures",
+      "final_url": "https://hollyparkbns.ie/our-school/policies-and-procedures",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://hollyparkbns.ie/our-school/parents/parents-association",
+      "final_url": "https://hollyparkbns.ie/our-school/parents/parents-association",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents Association"
+    },
+    {
+      "url": "https://hollyparkbns.ie/parents-assoc-news/what-happened-last-year",
+      "final_url": "https://hollyparkbns.ie/parents-assoc-news/what-happened-last-year",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "WHAT HAPPENED LAST YEAR… 1st September 2015 The Parents’ Committee is actively involved in many aspects of school life and raises funds for the school. Last year (2016/17) year the Committee organised a number of fund raising activities such… Read More"
+    },
+    {
+      "url": "https://hollyparkbns.ie/parents-assoc-news/parents-association-committee-20182019",
+      "final_url": "https://hollyparkbns.ie/parents-assoc-news/parents-association-committee-20182019",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "PARENTS’ ASSOCIATION COMMITTEE 2018/2019 4th September 2018 Calendar of events. September. Junior Infant parents coffee morning. Junior infants parents evening. Swimming registration. October. Sports Blitz – main PA fundraiser. November. AGM (Tuesday 13th of… Read More"
+    },
+    {
+      "url": "https://hollyparkbns.ie/parents-assoc-news/news-updated-14112018",
+      "final_url": "https://hollyparkbns.ie/parents-assoc-news/news-updated-14112018",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "NEWS- UPDATED ON 14.11.2018 14th November 2018 Chairperson’s Report on past year for AGM. I firstly and most importantly acknowledge the support and help of the PA and the wider volunteer group. Also, is recognised the support of Mrs. Kelly and… Read More"
+    },
+    {
+      "url": "https://hollyparkbns.ie/parents-assoc-news/helpers-needed-holy-communion",
+      "final_url": "https://hollyparkbns.ie/parents-assoc-news/helpers-needed-holy-communion",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Helpers needed for Holy Communion 26th April 2018 Hollypark Boys Parents Assoc. Dear Parents/Guardians, The Parents Assoc. of Hollypark Boys School are looking for offers of help to make food for the Holy Communion on Saturday 28th April. We are… Read More"
+    },
+    {
+      "url": "https://hollyparkbns.ie/our-school/parents/faq",
+      "final_url": "https://hollyparkbns.ie/our-school/parents/faq",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "FAQ"
+    },
+    {
+      "url": "https://hollyparkbns.ie/our-school/parents/children-internet-safety-information",
+      "final_url": "https://hollyparkbns.ie/our-school/parents/children-internet-safety-information",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Internet Safety"
+    },
+    {
+      "url": "https://hollyparkbns.ie/our-school/parents/cbc-monkstown-open-day",
+      "final_url": "https://hollyparkbns.ie/our-school/parents/cbc-monkstown-open-day",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "CBC Open Day"
+    },
+    {
+      "url": "https://hollyparkbns.ie/our-school/parents",
+      "final_url": "https://hollyparkbns.ie/our-school/parents",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents"
+    },
+    {
+      "url": "https://hollyparkbns.ie/admissions/application-form-junior-infants",
+      "final_url": "https://hollyparkbns.ie/admissions/application-form-junior-infants",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Application Form – Junior Infants"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19258U",
+      "url": "https://hollyparkbns.ie/our-school/policies/admissions-policy",
+      "label": "Admissions Policy",
+      "sha256": "70120922497137c724b612a31707a03331e35c97f9a08af7671730decc6416a9",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19258U_70120922497137c724b6.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 18102
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://hollyparkbns.ie/",
+      "label": "School homepage",
+      "via": "home"
+    },
+    {
+      "url": "http://hollyparkbns.ie/our-school/policies/admissions-policy",
+      "label": "Admission URL from sitemap",
+      "via": "sitemap_link"
+    },
+    {
+      "url": "http://hollyparkbns.ie/admissions/application-form-junior-infants",
+      "label": "Admission URL from sitemap",
+      "via": "sitemap_link"
+    },
+    {
+      "url": "https://hollyparkbns.ie/privacy-policy",
+      "label": "Privacy Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://hollyparkbns.ie/our-school/policies/whistle-blower-policy",
+      "label": "Whistle Blower Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://hollyparkbns.ie/our-school/policies/wellbeing-policy-framework",
+      "label": "Wellbeing Policy Framework",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://hollyparkbns.ie/our-school/policies/sustainability-policy",
+      "label": "Sustainability Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://hollyparkbns.ie/our-school/policies/support-policy-special-needs-pupils",
+      "label": "Support Policy for  Special Needs Pupils",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://hollyparkbns.ie/our-school/policies/supervision-policy",
+      "label": "Supervision Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://hollyparkbns.ie/our-school/policies/substance-use-policy",
+      "label": "Substance Use Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://hollyparkbns.ie/our-school/policies/special-needs-assistants-snas-policy-and-guidelines",
+      "label": "Special Needs Assistants (SNAs) Policy and Guidelines",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://hollyparkbns.ie/our-school/policies/safety-health-and-welfare-policy",
+      "label": "Safety, Health and Welfare Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://hollyparkbns.ie/our-school/policies/homework-policy",
+      "label": "Homework Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://hollyparkbns.ie/our-school/policies/healthy-eating-policy",
+      "label": "HEALTHY EATING POLICY",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://hollyparkbns.ie/our-school/policies/gdpr-general-data-protection-regulation-policy",
+      "label": "GDPR (General Data Protection Regulation) Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://hollyparkbns.ie/our-school/policies/dignity-workplace-policy",
+      "label": "Dignity in the Workplace Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://hollyparkbns.ie/our-school/policies/critical-incident-policy",
+      "label": "Critical Incident Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://hollyparkbns.ie/our-school/policies/complaints-policy-procedures",
+      "label": "Complaints Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://hollyparkbns.ie/our-school/policies/code-behaviour-policy",
+      "label": "Code of Behaviour Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://hollyparkbns.ie/our-school/policies/bi-cinealta-policy",
+      "label": "Bí Cineálta Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://hollyparkbns.ie/our-school/policies/anaphylaxis-policy",
+      "label": "Anaphylaxis Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://hollyparkbns.ie/our-school/policies/administration-medicines-policy-0",
+      "label": "Administration of Medicines Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://hollyparkbns.ie/our-school/policies/acceptable-usage-policy-aup",
+      "label": "Acceptable Usage Policy (AUP)",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 70.5,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:05:44+0000"
+}

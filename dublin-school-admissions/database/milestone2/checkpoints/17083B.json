@@ -1,0 +1,269 @@
+{
+  "roll": "17083B",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://smgs.ie/?s=admission",
+      "final_url": "https://smgs.ie/?s=admission",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Public site search form"
+    },
+    {
+      "url": "https://smgs.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://smgs.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://smgs.ie/wp-content/uploads/2023/03/Application-for-Admission.pdf",
+      "final_url": "https://smgs.ie/wp-content/uploads/2023/03/Application-for-Admission.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Application-for-Admission"
+    },
+    {
+      "url": "https://smgs.ie/wp-content/uploads/2023/03/Admission-Policy-Nov-2020.pdf",
+      "final_url": "https://smgs.ie/wp-content/uploads/2023/03/Admission-Policy-Nov-2020.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admission-Policy-Nov-2020"
+    },
+    {
+      "url": "https://smgs.ie/wp-content/uploads/2023/05/Admission-Policy-Jan-2023-approved.pdf",
+      "final_url": "https://smgs.ie/wp-content/uploads/2023/05/Admission-Policy-Jan-2023-approved.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admission-Policy-Jan-2023 approved"
+    },
+    {
+      "url": "https://smgs.ie/wp-content/uploads/2025/05/Admission-Policy-May-2025.pdf",
+      "final_url": "https://smgs.ie/wp-content/uploads/2025/05/Admission-Policy-May-2025.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admission-Policy-May-2025"
+    },
+    {
+      "url": "https://smgs.ie/sitemap_index.xml",
+      "final_url": "https://smgs.ie/sitemap_index.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://smgs.ie/post-sitemap.xml",
+      "final_url": "https://smgs.ie/post-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://smgs.ie/parents/school-rules/",
+      "final_url": "https://smgs.ie/parents/school-rules/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Rules"
+    },
+    {
+      "url": "https://smgs.ie/parents/parents-council/",
+      "final_url": "https://smgs.ie/parents/parents-council/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents’ Council"
+    },
+    {
+      "url": "https://smgs.ie/parents/hscl/",
+      "final_url": "https://smgs.ie/parents/hscl/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "HSCL"
+    },
+    {
+      "url": "https://smgs.ie/parents/daily-routine/",
+      "final_url": "https://smgs.ie/parents/daily-routine/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Daily Routine"
+    },
+    {
+      "url": "https://smgs.ie/parents/covid-19/",
+      "final_url": "https://smgs.ie/parents/covid-19/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Covid-19"
+    },
+    {
+      "url": "https://smgs.ie/parents/calendar/",
+      "final_url": "https://smgs.ie/parents/calendar/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Closures"
+    },
+    {
+      "url": "https://smgs.ie/wp-content/uploads/2025/06/school-calendar-2025-2026.pdf",
+      "final_url": "https://smgs.ie/wp-content/uploads/2025/06/school-calendar-2025-2026.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download 2025/2026 School Calendar"
+    },
+    {
+      "url": "https://smgs.ie/wp-content/uploads/2026/05/school-calendar-2026-2027.pdf",
+      "final_url": "https://smgs.ie/wp-content/uploads/2026/05/school-calendar-2026-2027.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download 2026/2027 School Calendar"
+    },
+    {
+      "url": "https://smgs.ie/parents/application/",
+      "final_url": "https://smgs.ie/parents/application/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Application"
+    },
+    {
+      "url": "https://smgs.ie/parents/",
+      "final_url": "https://smgs.ie/parents/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents"
+    },
+    {
+      "url": "https://smgs.ie/wp-content/uploads/2024/12/Parental-Complaints-Procedure_V4-final.pdf",
+      "final_url": "https://smgs.ie/wp-content/uploads/2024/12/Parental-Complaints-Procedure_V4-final.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parental Complaints Procedure"
+    },
+    {
+      "url": "https://smgs.ie/parents/cyber-safety/",
+      "final_url": "https://smgs.ie/parents/cyber-safety/",
+      "status": "http_404",
+      "via": "school_public_link",
+      "label": "Cyber Safety"
+    },
+    {
+      "url": "https://smgs.ie/page-sitemap.xml",
+      "final_url": "https://smgs.ie/page-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://smgs.ie/our-school/policies/",
+      "final_url": "https://smgs.ie/our-school/policies/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://smgs.ie/wp-content/uploads/2026/06/CSS3-Parents-Association-17083B-2026.pdf",
+      "final_url": "https://smgs.ie/wp-content/uploads/2026/06/CSS3-Parents-Association-17083B-2026.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents Notification regarding the BOM's Review of the Child Safeguarding Statement"
+    },
+    {
+      "url": "https://smgs.ie/",
+      "final_url": "https://smgs.ie/",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "17083B",
+      "url": "https://smgs.ie/wp-content/uploads/2023/03/Admission-Policy-Nov-2020.pdf",
+      "label": "Admission-Policy-Nov-2020",
+      "sha256": "dadb0d70ae6342112eeea2411a0c99e26f82ad91177b7a8966ddf99dacf87332",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/17083B_dadb0d70ae6342112eee.txt",
+      "source_file": "database/milestone2/cache/dadb0d70ae6342112eeea2411a0c99e26f82ad91177b7a8966ddf99dacf87332.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 21055
+    },
+    {
+      "roll": "17083B",
+      "url": "https://smgs.ie/wp-content/uploads/2023/05/Admission-Policy-Jan-2023-approved.pdf",
+      "label": "Admission-Policy-Jan-2023 approved",
+      "sha256": "7949b45b1b2cde7de9f11db48530925a9ecc917f76b7c5f42aae897eb88e2a16",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/17083B_7949b45b1b2cde7de9f1.txt",
+      "source_file": "database/milestone2/cache/7949b45b1b2cde7de9f11db48530925a9ecc917f76b7c5f42aae897eb88e2a16.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 21774
+    },
+    {
+      "roll": "17083B",
+      "url": "https://smgs.ie/wp-content/uploads/2025/05/Admission-Policy-May-2025.pdf",
+      "label": "Admission-Policy-May-2025",
+      "sha256": "a49dcbca054e98181f517321700464e7c1aee7c425eea3af82b98da9cd2cd93a",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/17083B_a49dcbca054e98181f51.txt",
+      "source_file": "database/milestone2/cache/a49dcbca054e98181f517321700464e7c1aee7c425eea3af82b98da9cd2cd93a.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 21850
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://smgs.ie/policies/",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://smgs.ie/wp-content/uploads/2023/03/Covid-19-Policy-Statement-Aug-2021.docx.pdf",
+      "label": "Scoil Mhuire Gan Smál COVID-19 School Response Plan",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://smgs.ie/wp-content/uploads/2025/12/Stay-Safe-Policy-Nov-2022.pdf",
+      "label": "SMGS Stay Safe Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://smgs.ie/wp-content/uploads/2024/10/RSE-Policy-Reviewed-2023.pdf",
+      "label": "SMGS RSE Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://smgs.ie/wp-content/uploads/2024/10/SPHE-Policy.pdf",
+      "label": "SMGS SPHE Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://smgs.ie/wp-content/uploads/2025/10/Scoil_Mhuire_Gan_Smal_Sustainability-2025.pdf",
+      "label": "Sustainability Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://smgs.ie/wp-content/uploads/2025/09/Scoil-Mhuire-gan-Smal-Bi-Cinealta-Policy-to-Prevent-and-Address-Bullying-Behaviour.pdf",
+      "label": "Bí Cineálta Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://smgs.ie/wp-content/uploads/2025/09/Healthy-Eating-Policy-SMGS.pdf",
+      "label": "Healthy Eating Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://smgs.ie/wp-content/uploads/2026/06/SMGSInternetAcceptableUsePolicy-1.pdf",
+      "label": "SMGS Internet Acceptable Use Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://smgs.ie/wp-content/uploads/2026/06/Reviewed-GDPR-Policy-2026.pdf",
+      "label": "GDPR Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://smgs.ie/wp-content/uploads/2026/04/SMGS-Special-Educational-Needs-Policy-2026.pdf",
+      "label": "SEN Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 85.15,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:34:02+0000"
+}

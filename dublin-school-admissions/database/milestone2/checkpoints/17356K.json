@@ -1,0 +1,179 @@
+{
+  "roll": "17356K",
+  "status": "bounded_search_no_new_notice_found",
+  "attempts": [
+    {
+      "url": "https://infantschoolmourneroad.ie/parents/enrolment/?googletranslate=true",
+      "final_url": "https://infantschoolmourneroad.ie/parents/enrolment/?googletranslate=true",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "https://infantschoolmourneroad.ie/parents/enrolment/",
+      "final_url": "https://infantschoolmourneroad.ie/parents/enrolment/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Enrolment"
+    },
+    {
+      "url": "https://infantschoolmourneroad.ie/admin/?open=/parents/enrolment/?googletranslate=true",
+      "final_url": "https://infantschoolmourneroad.ie/admin/?open=/parents/enrolment/?googletranslate=true",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://infantschoolmourneroad.ie/admin/?open=/parents/enrolment/",
+      "final_url": "https://infantschoolmourneroad.ie/admin/?open=/parents/enrolment/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://infantschoolmourneroad.ie/sitemap.xml",
+      "final_url": "https://infantschoolmourneroad.ie/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://infantschoolmourneroad.ie/policies/",
+      "final_url": "https://infantschoolmourneroad.ie/policies/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://infantschoolmourneroad.ie/policies/?googletranslate=true",
+      "final_url": "https://infantschoolmourneroad.ie/policies/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://infantschoolmourneroad.ie/parents/calendar/",
+      "final_url": "https://infantschoolmourneroad.ie/parents/calendar/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Calendar"
+    },
+    {
+      "url": "https://infantschoolmourneroad.ie/parents/calendar/?calyear=2026&calmonth=12&",
+      "final_url": "https://infantschoolmourneroad.ie/parents/calendar/?calyear=2026&calmonth=12&",
+      "status": "prior_exact_URL_access_denial_not_retried",
+      "via": "school_public_link",
+      "label": "December 2026"
+    },
+    {
+      "url": "https://infantschoolmourneroad.ie/parents/calendar/?calyear=2026&calmonth=10&",
+      "final_url": "https://infantschoolmourneroad.ie/parents/calendar/?calyear=2026&calmonth=10&",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": "October 2026"
+    },
+    {
+      "url": "https://infantschoolmourneroad.ie/parents/calendar/?googletranslate=true",
+      "final_url": "https://infantschoolmourneroad.ie/parents/calendar/?googletranslate=true",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://infantschoolmourneroad.ie/parents/calendar/?calTable=true",
+      "final_url": "https://infantschoolmourneroad.ie/parents/calendar/?calTable=true",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://infantschoolmourneroad.ie/parents/",
+      "final_url": "https://infantschoolmourneroad.ie/parents/",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": "Parents"
+    },
+    {
+      "url": "https://infantschoolmourneroad.ie/documentlink/4/?open=true&download=true",
+      "final_url": "https://infantschoolmourneroad.ie/documentlink/4/?open=true&download=true",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://infantschoolmourneroad.ie/documentlink/2/?open=true&download=true",
+      "final_url": "https://infantschoolmourneroad.ie/documentlink/2/?open=true&download=true",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://infantschoolmourneroad.ie/documentlink/1/?open=true&download=true",
+      "final_url": "https://infantschoolmourneroad.ie/documentlink/1/?open=true&download=true",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://infantschoolmourneroad.ie/admin/?open=/policies/?googletranslate=true",
+      "final_url": "https://infantschoolmourneroad.ie/admin/?open=/policies/?googletranslate=true",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://infantschoolmourneroad.ie/admin/?open=/policies/",
+      "final_url": "https://infantschoolmourneroad.ie/admin/?open=/policies/",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://infantschoolmourneroad.ie/admin/?open=/parents/calendar/",
+      "final_url": "https://infantschoolmourneroad.ie/admin/?open=/parents/calendar/",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://infantschoolmourneroad.ie/about-us/parent-association/",
+      "final_url": "https://infantschoolmourneroad.ie/about-us/parent-association/",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": "Parent Association"
+    },
+    {
+      "url": "https://infantschoolmourneroad.ie",
+      "final_url": "https://infantschoolmourneroad.ie",
+      "status": "http_access_denied_403",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://infantschoolmourneroad.ie/documentlink/4/?open=true",
+      "final_url": "https://infantschoolmourneroad.ie/documentlink/4/?open=true",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": "Bi Cinealta Policy 2025.docx"
+    },
+    {
+      "url": "https://infantschoolmourneroad.ie/cmsfiles/policies/privacy/",
+      "final_url": "https://infantschoolmourneroad.ie/cmsfiles/policies/privacy/",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": "Website Privacy Policy"
+    },
+    {
+      "url": "https://infantschoolmourneroad.ie/cmsfiles/policies/cookie/",
+      "final_url": "https://infantschoolmourneroad.ie/cmsfiles/policies/cookie/",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": "Cookie Policy"
+    }
+  ],
+  "documents": [],
+  "pending_links": [],
+  "elapsed_seconds": 19.86,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:02:39+0000"
+}

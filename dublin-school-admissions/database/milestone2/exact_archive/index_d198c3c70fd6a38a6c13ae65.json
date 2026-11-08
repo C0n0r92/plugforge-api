@@ -1,0 +1,681 @@
+{
+  "roll": "16461C",
+  "original_url": "https://stfiniansprimaryschool.ie/",
+  "method": "documented_CDX_exact_URL_all_available_dates",
+  "attempted_at": "2026-11-08T12:42:01.163264+00:00",
+  "params": {
+    "url": "https://stfiniansprimaryschool.ie/",
+    "matchType": "exact",
+    "output": "json",
+    "fl": "timestamp,original,mimetype,statuscode,digest",
+    "filter": "statuscode:200",
+    "collapse": "digest",
+    "limit": "200",
+    "showResumeKey": "true"
+  },
+  "earliest_year_cutoff": null,
+  "captures": [
+    {
+      "timestamp": "20141127165128",
+      "original": "http://stfiniansprimaryschool.ie:80/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "2YK5HW6RNVIAOPQOSCF6AD4PTZLGEIMB"
+    },
+    {
+      "timestamp": "20141226015310",
+      "original": "http://stfiniansprimaryschool.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "5EV23CDO36V5PAIKTYKN4OX26LHQOIHT"
+    },
+    {
+      "timestamp": "20150101175733",
+      "original": "http://stfiniansprimaryschool.ie:80/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "RR6LCEUXTM45L4PJHHYRRM2IJZCR5D6Y"
+    },
+    {
+      "timestamp": "20150314205154",
+      "original": "http://stfiniansprimaryschool.ie:80/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "S46UTG3EPDV2X47CAW2JAIDZPRBM2C23"
+    },
+    {
+      "timestamp": "20150502203443",
+      "original": "http://stfiniansprimaryschool.ie:80/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "RIMPYBTD27XSJWW2UW35IYYZ3JBUYB75"
+    },
+    {
+      "timestamp": "20160109231445",
+      "original": "http://stfiniansprimaryschool.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "5K2LPWZMAFHKO57GX5NTUF7EJIA2D4SR"
+    },
+    {
+      "timestamp": "20160305083519",
+      "original": "http://stfiniansprimaryschool.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "QSCZ7Y5MTZVUU73XWKQ7M4GFV7JWBZT5"
+    },
+    {
+      "timestamp": "20160605063720",
+      "original": "http://stfiniansprimaryschool.ie:80/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "SUJCUCJDWXWYWKBRSQO4WGRTDAVVQ7PU"
+    },
+    {
+      "timestamp": "20160708102055",
+      "original": "http://stfiniansprimaryschool.ie:80/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "IMXXQNI7KGNDHXROKRQN2GHPOFTQVZ4V"
+    },
+    {
+      "timestamp": "20160808112032",
+      "original": "http://stfiniansprimaryschool.ie:80/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "GZOP7RDMRBFKCXATB5ONNF2IAYCG7H2O"
+    },
+    {
+      "timestamp": "20160914013024",
+      "original": "http://stfiniansprimaryschool.ie:80/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "TZUKYTW3G7KZ73YL7TB4PPFC2AZD2FSS"
+    },
+    {
+      "timestamp": "20161007233239",
+      "original": "http://stfiniansprimaryschool.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "MGTJHRLOIITENUK4ZRMKVNLAAQGMT2RO"
+    },
+    {
+      "timestamp": "20161016190810",
+      "original": "http://stfiniansprimaryschool.ie:80/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "PWGYFX7QCBSDLO3HB5HT5Y2GQSGPH3DH"
+    },
+    {
+      "timestamp": "20161202094546",
+      "original": "http://stfiniansprimaryschool.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "E5Y2NCINOSKODHU5M435IYSBYSWX3UZU"
+    },
+    {
+      "timestamp": "20161221201949",
+      "original": "http://stfiniansprimaryschool.ie:80/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "4SZWUFFJFKHIMXXYMSETGP5EMHWALQYD"
+    },
+    {
+      "timestamp": "20170502083251",
+      "original": "http://stfiniansprimaryschool.ie:80/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "NXZITC6GD3COAXSEH3HWZYW3UNHAMUM7"
+    },
+    {
+      "timestamp": "20170601221908",
+      "original": "http://stfiniansprimaryschool.ie:80/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "GXXSKXF55XDGVQEVXNC4VCIRAP26BWW2"
+    },
+    {
+      "timestamp": "20170622222630",
+      "original": "http://stfiniansprimaryschool.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "5ODXPUB5DOGUHOORJBSPXI5UJIMII6SF"
+    },
+    {
+      "timestamp": "20170704131548",
+      "original": "http://stfiniansprimaryschool.ie:80/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "KTZUGNELAQSJH2PNWUWHR3EZSPZNYQUL"
+    },
+    {
+      "timestamp": "20170809004624",
+      "original": "http://stfiniansprimaryschool.ie:80/?",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "4XMYYFTT64FNEL3Q27WK2QWMAU3SZI4P"
+    },
+    {
+      "timestamp": "20170809075502",
+      "original": "http://stfiniansprimaryschool.ie:80/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "GJTIOKR6FM5N2AYMJNSVZRT2BFIFWHAL"
+    },
+    {
+      "timestamp": "20170908190935",
+      "original": "http://stfiniansprimaryschool.ie:80/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "PKXK4RFNOVF2VKME62RLXN4X4ERM2CWK"
+    },
+    {
+      "timestamp": "20170908193135",
+      "original": "http://stfiniansprimaryschool.ie:80/?",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "KF35SSGQNOMTN4CRMPI4QYKTUHJC4ARC"
+    },
+    {
+      "timestamp": "20170924104218",
+      "original": "http://stfiniansprimaryschool.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "6J6RSX2VJE2CUED7TDPJIW564SNFYCRQ"
+    },
+    {
+      "timestamp": "20171009113125",
+      "original": "http://stfiniansprimaryschool.ie:80/?",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "6MUYYJWEA7FQMB3PK3EBDLRURHOJ5ZUY"
+    },
+    {
+      "timestamp": "20171009115323",
+      "original": "http://stfiniansprimaryschool.ie:80/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "BERRAJWWQNMRKREE6BHBZJEDLN4H75FQ"
+    },
+    {
+      "timestamp": "20171024053222",
+      "original": "http://stfiniansprimaryschool.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "BZI7B2T6ACGKOZ75YSDEISB4ENWSLX6O"
+    },
+    {
+      "timestamp": "20171028132438",
+      "original": "http://stfiniansprimaryschool.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "VRF42JPAKBXBZUGSMDFKTVXB5OFKKXMD"
+    },
+    {
+      "timestamp": "20171104112637",
+      "original": "http://stfiniansprimaryschool.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "NWMMPB5D6H535MSUXFL3FOZRX5BRKSPB"
+    },
+    {
+      "timestamp": "20171114143313",
+      "original": "http://stfiniansprimaryschool.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "ZRCONHBAHORPRCYK5BUXJ7SHKHGFNBFR"
+    },
+    {
+      "timestamp": "20171211153333",
+      "original": "http://stfiniansprimaryschool.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "STL52ZIAMKXVR5SYMJMLKG5H5WZQAVTU"
+    },
+    {
+      "timestamp": "20171211165210",
+      "original": "http://stfiniansprimaryschool.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "N4MWUKHLSHPIQHCAFU6UIDDAVNWCEMWO"
+    },
+    {
+      "timestamp": "20171216132852",
+      "original": "http://stfiniansprimaryschool.ie:80/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "QIH7GKQLQK52JLJL3LWKPYKV5O25FHLT"
+    },
+    {
+      "timestamp": "20171218142351",
+      "original": "http://stfiniansprimaryschool.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "CTGIWGEGWIXMMIC65A2462HDARZLYLCQ"
+    },
+    {
+      "timestamp": "20180119005058",
+      "original": "http://stfiniansprimaryschool.ie:80/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "XWAUYXMIRKKLKWFXE7HDMRBRC5NBIT2A"
+    },
+    {
+      "timestamp": "20180330133325",
+      "original": "http://stfiniansprimaryschool.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "UJNRCHKSSWFZKD43FDWCWHBA77EDZ3YE"
+    },
+    {
+      "timestamp": "20190111023223",
+      "original": "http://stfiniansprimaryschool.ie:80/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "DWR2QPT3ZIMZAQSGQQWVFWRJQ4QAZOQB"
+    },
+    {
+      "timestamp": "20190220232326",
+      "original": "http://stfiniansprimaryschool.ie:80/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "UQ67LQ6WKDNGT73RRA37HC6VDVFZT272"
+    },
+    {
+      "timestamp": "20190222072359",
+      "original": "http://stfiniansprimaryschool.ie:80/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "AWWZKGPGWNFFZ3PWIGOCB5EYXKD4RRSG"
+    },
+    {
+      "timestamp": "20190326220139",
+      "original": "http://stfiniansprimaryschool.ie:80/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "BRRF7TQBGOWZYENETUOFAS6JN3TJIITA"
+    },
+    {
+      "timestamp": "20190504183129",
+      "original": "http://stfiniansprimaryschool.ie:80/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "OWIJPW3TG2AMB6F3X4FJ3NHAGE47XRL4"
+    },
+    {
+      "timestamp": "20190505232849",
+      "original": "http://stfiniansprimaryschool.ie:80/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "E6YEOXXW75AQDXPOSZHIECTG547E3W4Z"
+    },
+    {
+      "timestamp": "20190717190503",
+      "original": "https://stfiniansprimaryschool.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "6IIXDNEKVWUYRIHUC7NBDY364Y57MA6T"
+    },
+    {
+      "timestamp": "20190821081752",
+      "original": "https://stfiniansprimaryschool.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "RCGUGA4FETLJGNT3LIQDYUPUJ3BC52M4"
+    },
+    {
+      "timestamp": "20190916065116",
+      "original": "https://stfiniansprimaryschool.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "2P42US7YAIOOT4SUYI2BKQA2IHFHSFA5"
+    },
+    {
+      "timestamp": "20191014063356",
+      "original": "https://stfiniansprimaryschool.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "ZRIJLGJXTLJYCLAQBPLZ6NBVDUWOGH7F"
+    },
+    {
+      "timestamp": "20191117131844",
+      "original": "https://stfiniansprimaryschool.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "NXKLEWCSFURRD6ID62B73A2CGP7RJS2Q"
+    },
+    {
+      "timestamp": "20191209030130",
+      "original": "https://stfiniansprimaryschool.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "NINNH36UWPWNBCW2QKLUM73YXZDLKUN5"
+    },
+    {
+      "timestamp": "20200806074307",
+      "original": "https://stfiniansprimaryschool.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "J6CKATELS7ASTAMZJZ7GVVZAZJEOBFV3"
+    },
+    {
+      "timestamp": "20200930000533",
+      "original": "https://stfiniansprimaryschool.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "JALTCHMI7ZPSYWSO6UENFTN5QVF7MVOW"
+    },
+    {
+      "timestamp": "20201024151641",
+      "original": "https://stfiniansprimaryschool.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "UFV72MP54YLFCD2FXJB6VTQAUK4RYHV6"
+    },
+    {
+      "timestamp": "20201124011641",
+      "original": "https://stfiniansprimaryschool.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "W7T776TWLI5O6MRBDPW2RZGS5KE53VFZ"
+    },
+    {
+      "timestamp": "20210128055254",
+      "original": "https://stfiniansprimaryschool.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "RFUVIMNGZRZBBBHYMNB7UMZLOPQ5KRNF"
+    },
+    {
+      "timestamp": "20210305043324",
+      "original": "https://stfiniansprimaryschool.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "A7DAVUNQTBJI5LUH466CE2ZW2PUD3VOI"
+    },
+    {
+      "timestamp": "20210419003812",
+      "original": "https://stfiniansprimaryschool.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "RVUJYDELHA6H3QJYC5NA2VMO5Z4P6A54"
+    },
+    {
+      "timestamp": "20210508135418",
+      "original": "https://stfiniansprimaryschool.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "N2OHHZEWAYUJPDGXC3U3AA6PEUCRHJR4"
+    },
+    {
+      "timestamp": "20210618061955",
+      "original": "https://stfiniansprimaryschool.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "4WVNCTOWW5TQMT6PALDHSLRS7JRHWWUT"
+    },
+    {
+      "timestamp": "20210725002033",
+      "original": "https://stfiniansprimaryschool.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "RBJJRQN7YQKFSTTAXA3NTMZXVL2XYMHP"
+    },
+    {
+      "timestamp": "20210927135113",
+      "original": "https://stfiniansprimaryschool.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "LMMAIP6RPGV3LLU2QOKLJ3ZLTPKERFXT"
+    },
+    {
+      "timestamp": "20220117165302",
+      "original": "https://stfiniansprimaryschool.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "EZNJCJVIRU3IACCXZ4UXNFMBRZ6AMDVP"
+    },
+    {
+      "timestamp": "20220526150640",
+      "original": "https://stfiniansprimaryschool.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "EDJH4BFVG5PNVBLR4POKDO3SI7555OOU"
+    },
+    {
+      "timestamp": "20220626053953",
+      "original": "https://stfiniansprimaryschool.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "H2YG3PKUSNRIA542YMWRXC2BRZAZYAW2"
+    },
+    {
+      "timestamp": "20220816101551",
+      "original": "https://stfiniansprimaryschool.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "SQ5TDXACGIKB2YQTREPINMCVVX4UK4DA"
+    },
+    {
+      "timestamp": "20221203094931",
+      "original": "https://stfiniansprimaryschool.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "WILV6AZ4P4Y2KJROYMNADIVTS5VIDZ5D"
+    },
+    {
+      "timestamp": "20230204061431",
+      "original": "https://stfiniansprimaryschool.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "7ZRVLZBGP5IIG4IVAEO5UQELSY5IF5GN"
+    },
+    {
+      "timestamp": "20231207141008",
+      "original": "https://stfiniansprimaryschool.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "XUTJNU4CBIQEGC4ED6GTVBA4HI3IOVSD"
+    },
+    {
+      "timestamp": "20240120021855",
+      "original": "https://stfiniansprimaryschool.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "3J3CYMPOPLCWUQXSTLVWDLPFXTDBHVT4"
+    },
+    {
+      "timestamp": "20240123225025",
+      "original": "https://stfiniansprimaryschool.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "EJ2O7V2R7CLXTHXNI3DZ2CKTFBBZPXSY"
+    },
+    {
+      "timestamp": "20240414083119",
+      "original": "https://stfiniansprimaryschool.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "73JWMEXYFXMLLTA7RFDUO2GKHI7UNWQT"
+    },
+    {
+      "timestamp": "20240626115315",
+      "original": "https://stfiniansprimaryschool.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "HCYUP6CGBEMVBDB7BQDFVAJIWH7RPZD3"
+    },
+    {
+      "timestamp": "20240702131403",
+      "original": "https://stfiniansprimaryschool.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "JMHYGSTJMWS7HZ77B5D2KJWFISY4J2L5"
+    },
+    {
+      "timestamp": "20240702200454",
+      "original": "https://stfiniansprimaryschool.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "KSIAF65J5RU2RH2YVYZQKQPWTO7TCLKU"
+    },
+    {
+      "timestamp": "20240717202623",
+      "original": "https://stfiniansprimaryschool.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "RBFHQUI2EUOHTFII3P4YRFV67ETMA42Q"
+    },
+    {
+      "timestamp": "20240807161517",
+      "original": "https://stfiniansprimaryschool.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "PPLLIPWOMUXJXQIE7B2LVQCIBYHE3PTM"
+    },
+    {
+      "timestamp": "20250215011104",
+      "original": "https://stfiniansprimaryschool.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "K5HR6U5S4GMNCCL2NMDNUV7CKCIPJBYP"
+    },
+    {
+      "timestamp": "20250317120130",
+      "original": "https://stfiniansprimaryschool.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "DLLK5K3QI7GRHBYDITCZD634OSHWIYGI"
+    },
+    {
+      "timestamp": "20250324050209",
+      "original": "https://stfiniansprimaryschool.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "NEWIUK3AT2VVNOFDT2QDWYQ5I3PCOM5D"
+    },
+    {
+      "timestamp": "20250419055406",
+      "original": "https://stfiniansprimaryschool.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "RDYQYENNISV6JUO6C4TKBH5USVXYBN43"
+    },
+    {
+      "timestamp": "20250513195828",
+      "original": "https://stfiniansprimaryschool.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "CJKR2ASBU4DUZ3VC6AGLDBSGZMMMH6XT"
+    },
+    {
+      "timestamp": "20250622151406",
+      "original": "https://stfiniansprimaryschool.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "HZWTOIHKAMH44QX7AQ7K63C3VKUXLTOK"
+    },
+    {
+      "timestamp": "20250915131436",
+      "original": "https://stfiniansprimaryschool.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "WZXNR57T3ECGMFUFJRNFBUOJWCTZLET5"
+    },
+    {
+      "timestamp": "20251015183659",
+      "original": "https://stfiniansprimaryschool.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "ZS7H3QCASD2L3XSO7LLAVAEBRHISDW6B"
+    },
+    {
+      "timestamp": "20251111083128",
+      "original": "https://stfiniansprimaryschool.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "MFEZDRROPU23BMZZT26LTXISZ6NAQMM4"
+    },
+    {
+      "timestamp": "20251212162600",
+      "original": "https://stfiniansprimaryschool.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "FHHFQYOTB7AACNVDZOWPC3FO6JRAX74U"
+    },
+    {
+      "timestamp": "20260121011348",
+      "original": "https://stfiniansprimaryschool.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "VLE6QON5Z4UL2L43KNTB3VDN3XK5MTGR"
+    },
+    {
+      "timestamp": "20260121052850",
+      "original": "https://stfiniansprimaryschool.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "2M7GLNVWODDFGLRONF4P6YB3N2DFI6CP"
+    },
+    {
+      "timestamp": "20260217233044",
+      "original": "https://stfiniansprimaryschool.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "MNSDURQ6745LUAM773PY7HEGRDIMQ626"
+    },
+    {
+      "timestamp": "20260305114427",
+      "original": "https://stfiniansprimaryschool.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "ODJWLG74SN77CWL5NCFEU4QLVQX4ORNM"
+    },
+    {
+      "timestamp": "20260310212143",
+      "original": "https://stfiniansprimaryschool.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "2UODMTDE6IQC5UO7ZYFLCMVZL7SKKSXU"
+    },
+    {
+      "timestamp": "20260411151851",
+      "original": "https://stfiniansprimaryschool.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "KJ2LYQOOVVCKGIQ6HMQNZLYUF5X6ZOBY"
+    },
+    {
+      "timestamp": "20260511062552",
+      "original": "https://stfiniansprimaryschool.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "JXGPZ6FRCL2YBVOUDVP6AJX2YRRFDA5D"
+    },
+    {
+      "timestamp": "20260714042058",
+      "original": "https://stfiniansprimaryschool.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "5QOADB3SOVI5VPCEVCBV62SY22WM4FR6"
+    }
+  ],
+  "pages": [
+    {
+      "at": "2026-11-08T12:42:05.587623+00:00",
+      "http_status": 200,
+      "params": {
+        "url": "https://stfiniansprimaryschool.ie/",
+        "matchType": "exact",
+        "output": "json",
+        "fl": "timestamp,original,mimetype,statuscode,digest",
+        "filter": "statuscode:200",
+        "collapse": "digest",
+        "limit": "200",
+        "showResumeKey": "true"
+      }
+    }
+  ],
+  "status": "index_complete",
+  "capture_count": 92
+}

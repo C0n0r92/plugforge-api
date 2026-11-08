@@ -1,0 +1,174 @@
+{
+  "roll": "20463F",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.holyspiritjps.com/enrolment.html",
+      "final_url": "https://www.holyspiritjps.com/enrolment.html",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://www.holyspiritjps.com/uploads/1/4/4/6/144645693/admissions_policy_hsjps_25_26.pdf",
+      "final_url": "https://www.holyspiritjps.com/uploads/1/4/4/6/144645693/admissions_policy_hsjps_25_26.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions Policy"
+    },
+    {
+      "url": "https://www.holyspiritjps.com/sitemap.xml",
+      "final_url": "https://www.holyspiritjps.com/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.holyspiritjps.com/policies.html",
+      "final_url": "https://www.holyspiritjps.com/policies.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.holyspiritjps.com/uploads/1/4/4/6/144645693/notification_regarding_the_board_of_managements_annual_review_of_the_bí_cineálta_policy.pdf",
+      "final_url": "https://www.holyspiritjps.com/uploads/1/4/4/6/144645693/notification_regarding_the_board_of_managements_annual_review_of_the_bí_cineálta_policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Bí Cinéalta Policy - Board of Managements Annual Review Notification"
+    },
+    {
+      "url": "https://www.holyspiritjps.com/uploads/1/4/4/6/144645693/revised_parental_complaints_procedure.pdf",
+      "final_url": "https://www.holyspiritjps.com/uploads/1/4/4/6/144645693/revised_parental_complaints_procedure.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Revised Parental Complaints Procedure"
+    },
+    {
+      "url": "https://www.holyspiritjps.com/uploads/1/4/4/6/144645693/parents_notification_of_boms_review_of_child_safeguarding.pdf",
+      "final_url": "https://www.holyspiritjps.com/uploads/1/4/4/6/144645693/parents_notification_of_boms_review_of_child_safeguarding.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Child Safeguarding Statement Parents Notification"
+    },
+    {
+      "url": "https://www.holyspiritjps.com/parents.html",
+      "final_url": "https://www.holyspiritjps.com/parents.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents"
+    },
+    {
+      "url": "https://www.holyspiritjps.com/parents-association.html",
+      "final_url": "https://www.holyspiritjps.com/parents-association.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents Association"
+    },
+    {
+      "url": "https://www.holyspiritjps.com",
+      "final_url": "https://www.holyspiritjps.com",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.holyspiritjps.com/uploads/1/4/4/6/144645693/transfer_application_form_2026-2027.docx.pdf",
+      "final_url": "https://www.holyspiritjps.com/uploads/1/4/4/6/144645693/transfer_application_form_2026-2027.docx.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Application Form- Transfer 2026-2027"
+    },
+    {
+      "url": "https://www.holyspiritjps.com/uploads/1/4/4/6/144645693/application_form_autism_class_2026_2027.docx.pdf",
+      "final_url": "https://www.holyspiritjps.com/uploads/1/4/4/6/144645693/application_form_autism_class_2026_2027.docx.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Applictation Form- Autism Class 2026- 2027 ​"
+    },
+    {
+      "url": "https://www.holyspiritjps.com/uploads/1/4/4/6/144645693/application_form__junior_infants_class_2026_2027.docx.pdf",
+      "final_url": "https://www.holyspiritjps.com/uploads/1/4/4/6/144645693/application_form__junior_infants_class_2026_2027.docx.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Application Form- Junior Infants 2026-2027"
+    },
+    {
+      "url": "https://www.holyspiritjps.com/uploads/1/4/4/6/144645693/s_p_h_e.pdf",
+      "final_url": "https://www.holyspiritjps.com/uploads/1/4/4/6/144645693/s_p_h_e.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "SPHE Policy"
+    },
+    {
+      "url": "https://www.holyspiritjps.com/uploads/1/4/4/6/144645693/r.s.e._policy__hsjps.pdf",
+      "final_url": "https://www.holyspiritjps.com/uploads/1/4/4/6/144645693/r.s.e._policy__hsjps.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "RSE Policy ​"
+    },
+    {
+      "url": "https://www.holyspiritjps.com/uploads/1/4/4/6/144645693/medication_administration_hsjps.pdf",
+      "final_url": "https://www.holyspiritjps.com/uploads/1/4/4/6/144645693/medication_administration_hsjps.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Administration of Medication Policy"
+    },
+    {
+      "url": "https://www.holyspiritjps.com/uploads/1/4/4/6/144645693/hsjps_bí_cineálta_child_friendly_policy.pdf",
+      "final_url": "https://www.holyspiritjps.com/uploads/1/4/4/6/144645693/hsjps_bí_cineálta_child_friendly_policy.pdf",
+      "status": "public_document_size_bound",
+      "via": "school_public_link",
+      "label": "Bí Cinéalta Policy- Child Friendly ​"
+    },
+    {
+      "url": "https://www.holyspiritjps.com/uploads/1/4/4/6/144645693/healthy_eating_policy.pdf",
+      "final_url": "https://www.holyspiritjps.com/uploads/1/4/4/6/144645693/healthy_eating_policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "ealthy Eating Policy"
+    },
+    {
+      "url": "https://www.holyspiritjps.com/uploads/1/4/4/6/144645693/bí_cineálta.pdf",
+      "final_url": "https://www.holyspiritjps.com/uploads/1/4/4/6/144645693/bí_cineálta.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Bí Cineálta Policy and Procedures"
+    },
+    {
+      "url": "https://www.holyspiritjps.com/uploads/1/4/4/6/144645693/acceptable_usage_policy.pdf",
+      "final_url": "https://www.holyspiritjps.com/uploads/1/4/4/6/144645693/acceptable_usage_policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Acceptable Usage Policy"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "20463F",
+      "url": "https://www.holyspiritjps.com/enrolment.html",
+      "label": "Prior school admissions section",
+      "sha256": "30446adfa0f9e784a15bd474de4ff52f256c2120e10b4b9997607f03e022b629",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20463F_30446adfa0f9e784a15b.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 914
+    },
+    {
+      "roll": "20463F",
+      "url": "https://www.holyspiritjps.com/uploads/1/4/4/6/144645693/admissions_policy_hsjps_25_26.pdf",
+      "label": "Admissions Policy",
+      "sha256": "f735d936f60edf7de5ecc0dfe8abca954d95008adb78469e013df06ff8c250fc",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20463F_f735d936f60edf7de5ec.txt",
+      "source_file": "database/milestone2/cache/f735d936f60edf7de5ecc0dfe8abca954d95008adb78469e013df06ff8c250fc.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 31934
+    }
+  ],
+  "pending_links": [],
+  "elapsed_seconds": 58.19,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:59:46+0000"
+}

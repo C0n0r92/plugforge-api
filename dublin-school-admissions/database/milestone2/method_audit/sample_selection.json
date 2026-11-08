@@ -1,0 +1,65 @@
+{
+  "selection_rule": "First 10 ascending-roll schools without a milestone1 retrospective numeric group, not previously exact-index/replay-tested, with accessible attempted own-site checkpoint and payload-verified admission-looking notice URL. Prefer HTML, otherwise lexicographic notice URL. Selection frozen before archive outcomes. Use first successful previously public-linked admissions HTML landing, where available, to recover older outgoing documents; otherwise verified notice URL. No invented paths.",
+  "sample": [
+    {
+      "roll": "00714P",
+      "original_url": "https://storage.googleapis.com/iclasscrm_files/4756/Images/Content/2026/282/xe91-Annual_Admissions_Notice_2027_and_2028.pdf",
+      "media_type": "pdf",
+      "landing_url": "https://www.stmarysbnslucan.com/page/Admissions/355589/Index.html"
+    },
+    {
+      "roll": "01795A",
+      "original_url": "https://www.centralmodelinfantschool.ie/Content/2025/10/yt97-Annual_Admission_Notice_2025__26.docx",
+      "media_type": "docx",
+      "landing_url": null
+    },
+    {
+      "roll": "09492W",
+      "original_url": "https://www.balscadden.com/cmsfiles/items/downloads/9134-AdmissionsNoticeBNSJI2027.docx",
+      "media_type": "docx",
+      "landing_url": "https://www.balscadden.com/news/admissions-notice-bns-ji-2027pdf/"
+    },
+    {
+      "roll": "10494K",
+      "original_url": "https://www.allsaintsnsblackrock.com/admissions",
+      "media_type": "html",
+      "landing_url": "https://www.allsaintsnsblackrock.com/admissions"
+    },
+    {
+      "roll": "13447Q",
+      "original_url": "https://storage.googleapis.com/iclasscrm_files/4769/Images/Content/2026/273/dg12-Annual_Admissions_Notice_Oct._2027.2028.docx.pdf",
+      "media_type": "pdf",
+      "landing_url": "https://www.smgnslucan.com/Page/Admissions/47022/Index.html"
+    },
+    {
+      "roll": "14556D",
+      "original_url": "https://static1.squarespace.com/static/6703eac3e9990d357ee3a58f/t/68d132b00bcc162d4dabcdbb/1758540464142/2.+Admission+Notice+South+City++CNS.pdf",
+      "media_type": "pdf",
+      "landing_url": "https://www.southcitycns.ie/admissions"
+    },
+    {
+      "roll": "15056L",
+      "original_url": "https://stvincentsgns.weebly.com/uploads/2/3/3/3/23339672/annual_admissions_notice_2026-2027.docx",
+      "media_type": "docx",
+      "landing_url": "https://stvincentsgns.weebly.com/enrolment.html"
+    },
+    {
+      "roll": "16675V",
+      "original_url": "https://stlukesns.ie/wp-content/uploads/2026/09/Annual-Admission-Notice-St.-Lukes-NS-2027-2028.pdf",
+      "media_type": "pdf",
+      "landing_url": null
+    },
+    {
+      "roll": "16695E",
+      "original_url": "https://www.brunnerprimary.ie/_files/ugd/2d1e22_f1ffcffc42d647458121bb95a2d83bf2.docx?dn=_Admissions%20notice%202026-2027.docx",
+      "media_type": "docx",
+      "landing_url": "https://www.brunnerprimary.ie/admissions"
+    },
+    {
+      "roll": "16759E",
+      "original_url": "https://storage.googleapis.com/siteassetsswd/531/letter/11/20251127114802_32_9669-AnnualAdmissionsNotice2026-2027JuniorInfants.pdf",
+      "media_type": "pdf",
+      "landing_url": null
+    }
+  ]
+}

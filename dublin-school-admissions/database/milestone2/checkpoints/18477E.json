@@ -1,0 +1,163 @@
+{
+  "roll": "18477E",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.francisstcbs.ie/admissions",
+      "final_url": "https://www.francisstcbs.ie/admissions",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "https://www.francisstcbs.ie/sitemap.xml",
+      "final_url": "https://www.francisstcbs.ie/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.francisstcbs.ie/parents",
+      "final_url": "https://www.francisstcbs.ie/parents",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents"
+    },
+    {
+      "url": "https://www.francisstcbs.ie/policies-and-procedures",
+      "final_url": "https://www.francisstcbs.ie/policies-and-procedures",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.francisstcbs.ie/_files/ugd/9676c8_b408723ca563474689a7c25cd61404af.pdf",
+      "final_url": "https://20ea2340-5c97-4a76-a374-82160a490f8b.filesusr.com/ugd/9676c8_b408723ca563474689a7c25cd61404af.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "Parental Grievance Procedure"
+    },
+    {
+      "url": "https://www.francisstcbs.ie/_files/ugd/9676c8_87adfb61dce9425aba11dd64735166f8.pdf",
+      "final_url": "https://20ea2340-5c97-4a76-a374-82160a490f8b.filesusr.com/ugd/9676c8_87adfb61dce9425aba11dd64735166f8.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "Admissions Policy"
+    },
+    {
+      "url": "https://www.francisstcbs.ie/parents-association",
+      "final_url": "https://www.francisstcbs.ie/parents-association",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.francisstcbs.ie/pages-sitemap.xml",
+      "final_url": "https://www.francisstcbs.ie/pages-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.francisstcbs.ie/blog-posts-sitemap.xml",
+      "final_url": "https://www.francisstcbs.ie/blog-posts-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.francisstcbs.ie/blog-categories-sitemap.xml",
+      "final_url": "https://www.francisstcbs.ie/blog-categories-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.francisstcbs.ie",
+      "final_url": "https://www.francisstcbs.ie",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.francisstcbs.ie/_files/ugd/9676c8_f2cda9d6cd4d4922985f924ef3bd68c9.pdf",
+      "final_url": "https://20ea2340-5c97-4a76-a374-82160a490f8b.filesusr.com/ugd/9676c8_f2cda9d6cd4d4922985f924ef3bd68c9.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "Crisis Response Policy"
+    },
+    {
+      "url": "https://www.francisstcbs.ie/_files/ugd/9676c8_c848744c7abc4c2a997d0a7a28894003.pdf",
+      "final_url": "https://20ea2340-5c97-4a76-a374-82160a490f8b.filesusr.com/ugd/9676c8_c848744c7abc4c2a997d0a7a28894003.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "Attendance Policy"
+    },
+    {
+      "url": "https://www.francisstcbs.ie/_files/ugd/9676c8_bbfd7f85e68b4e77a11bbde69b01dff6.pdf",
+      "final_url": "https://20ea2340-5c97-4a76-a374-82160a490f8b.filesusr.com/ugd/9676c8_bbfd7f85e68b4e77a11bbde69b01dff6.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "Healthy Eating Policy"
+    },
+    {
+      "url": "https://www.francisstcbs.ie/_files/ugd/9676c8_9ec01540703b4e68b6c0b451c7fe1716.pdf",
+      "final_url": "https://20ea2340-5c97-4a76-a374-82160a490f8b.filesusr.com/ugd/9676c8_9ec01540703b4e68b6c0b451c7fe1716.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "Homework Policy"
+    },
+    {
+      "url": "https://www.francisstcbs.ie/_files/ugd/9676c8_8ab3c7a650cd47909343712ae573e1f3.pdf",
+      "final_url": "https://20ea2340-5c97-4a76-a374-82160a490f8b.filesusr.com/ugd/9676c8_8ab3c7a650cd47909343712ae573e1f3.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "Health & Safety Policy"
+    },
+    {
+      "url": "https://www.francisstcbs.ie/_files/ugd/9676c8_26a78ed9a5234c5ebeb40cbfead391ea.pdf",
+      "final_url": "https://20ea2340-5c97-4a76-a374-82160a490f8b.filesusr.com/ugd/9676c8_26a78ed9a5234c5ebeb40cbfead391ea.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "Bi Cinealta Prevention of Bullying Policy"
+    },
+    {
+      "url": "https://www.francisstcbs.ie/_files/ugd/73d335_9c130b7633b6450f9832b5de72d6f58b.pdf",
+      "final_url": "https://www.francisstcbs.ie/_files/ugd/73d335_9c130b7633b6450f9832b5de72d6f58b.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents as Partners Policy"
+    },
+    {
+      "url": "https://www.francisstcbs.ie/_files/ugd/73d335_60229b9d47c848fa8a83d961c6d703fe.pdf",
+      "final_url": "https://www.francisstcbs.ie/_files/ugd/73d335_60229b9d47c848fa8a83d961c6d703fe.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Internet Acceptable Use Policy"
+    },
+    {
+      "url": "https://www.francisstcbs.ie/_files/ugd/73d335_044dfcf7825744c48cd857d23b9d9980.pdf",
+      "final_url": "https://www.francisstcbs.ie/_files/ugd/73d335_044dfcf7825744c48cd857d23b9d9980.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Data Protection Policy"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "18477E",
+      "url": "https://www.francisstcbs.ie/admissions",
+      "label": "",
+      "sha256": "39777d088921bd5b0a1896755af631c354fe2407da230af954c5dd790b85137f",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/18477E_39777d088921bd5b0a18.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 330
+    }
+  ],
+  "pending_links": [],
+  "elapsed_seconds": 60.77,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:04:36+0000"
+}

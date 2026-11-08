@@ -1,0 +1,27 @@
+{
+  "roll": "04992R",
+  "capture": {
+    "timestamp": "20250525020958",
+    "original": "https://www.sacredheartballygall.ie/wp-content/uploads/2025/05/Admissions-Notice.pdf",
+    "mimetype": "application/pdf",
+    "statuscode": "200",
+    "digest": "NP4HYAKNB57LXDGFQR5RPAFUZ4AR7IXA"
+  },
+  "original_url": "https://www.sacredheartballygall.ie/wp-content/uploads/2025/05/Admissions-Notice.pdf",
+  "archived_url": "https://web.archive.org/web/20250525020958/https://www.sacredheartballygall.ie/wp-content/uploads/2025/05/Admissions-Notice.pdf",
+  "attempted_at": "2026-11-08T13:01:52.231506+00:00",
+  "linked_from_capture": null,
+  "http_status": 200,
+  "headers": {
+    "Content-Type": "application/pdf",
+    "memento-datetime": "Sun, 25 May 2025 02:09:58 GMT"
+  },
+  "bytes": 169778,
+  "payload_sha256": "b5e4185cdead16b18b567ca37f5527520b5f79da68b9f6975804f1157083387c",
+  "format": "pdf",
+  "source_file": "database/milestone2/cache/b5e4185cdead16b18b567ca37f5527520b5f79da68b9f6975804f1157083387c.pdf",
+  "parse_stderr": "",
+  "status": "archived_body_retrieved_requires_manual_evidence_review",
+  "text_file": "database/milestone2/evidence/exact_04992R_b5e4185cdead16b18b56.txt",
+  "linked_document_candidates": []
+}

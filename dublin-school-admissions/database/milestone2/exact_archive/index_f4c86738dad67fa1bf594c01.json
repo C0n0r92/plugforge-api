@@ -1,0 +1,142 @@
+{
+  "roll": "20445D",
+  "original_url": "https://www.mpetns.ie/enrol",
+  "method": "documented_CDX_exact_URL_all_available_dates",
+  "attempted_at": "2026-11-08T12:43:45.873540+00:00",
+  "params": {
+    "url": "https://www.mpetns.ie/enrol",
+    "matchType": "exact",
+    "output": "json",
+    "fl": "timestamp,original,mimetype,statuscode,digest",
+    "filter": "statuscode:200",
+    "collapse": "digest",
+    "limit": "200",
+    "showResumeKey": "true"
+  },
+  "earliest_year_cutoff": null,
+  "captures": [
+    {
+      "timestamp": "20230324003214",
+      "original": "https://www.mpetns.ie/enrol",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "SOCPQ4ZUTPWORZC5VBFADL72F4PKPEQR"
+    },
+    {
+      "timestamp": "20230602022419",
+      "original": "https://www.mpetns.ie/enrol",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "XMPMDXCJLCHQY6FI3M3VNBXI5IO3GOCU"
+    },
+    {
+      "timestamp": "20230930043210",
+      "original": "https://www.mpetns.ie/enrol",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "Z4SDE4II23PEQFET3ZU52JWQR7ZEZV6D"
+    },
+    {
+      "timestamp": "20240301120703",
+      "original": "https://www.mpetns.ie/enrol",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "3ICUBQ5CRZPLSD6WIBZ7WZNMGQKDDXI7"
+    },
+    {
+      "timestamp": "20240303184953",
+      "original": "https://www.mpetns.ie/enrol",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "IQGFDTXFC4QJO75TFKRTHQ62KDBU2KPF"
+    },
+    {
+      "timestamp": "20240613210521",
+      "original": "https://www.mpetns.ie/enrol",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "L4TDQX6PAHM6FNGBCSKDLYVNQ3TBQZVG"
+    },
+    {
+      "timestamp": "20240806180303",
+      "original": "https://www.mpetns.ie/enrol",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "QGOJLOVBYIQDQMOOCA2B54L4LVN6CODL"
+    },
+    {
+      "timestamp": "20241106120908",
+      "original": "https://www.mpetns.ie/enrol",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "HBUXR7T7SGRLMYGMJQ4HXLJIUUW2KSUP"
+    },
+    {
+      "timestamp": "20241208125738",
+      "original": "https://www.mpetns.ie/enrol",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "THQZZGI5TQHVCUM2TVENAVSJVBFSM7MH"
+    },
+    {
+      "timestamp": "20250417220037",
+      "original": "https://www.mpetns.ie/enrol",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "4BKQ53E4BI2F7J7EHYPN2W3TVNUGVGB4"
+    },
+    {
+      "timestamp": "20250616104400",
+      "original": "https://www.mpetns.ie/enrol",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "W5VLN575KZQCOY5Y4QGHST3IMYDBWXF6"
+    },
+    {
+      "timestamp": "20251012210258",
+      "original": "https://www.mpetns.ie/enrol",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "ZXOCBD22VQIUQKZQBJQQMOHZ6UB4JYFP"
+    },
+    {
+      "timestamp": "20260118173025",
+      "original": "https://www.mpetns.ie/enrol",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "U4627CJ32Q2J4BCQ6HCL3PCTTGABR55Y"
+    },
+    {
+      "timestamp": "20260606021414",
+      "original": "https://www.mpetns.ie/enrol",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "QKYMVQJAM7IT77DHA7UGUWEDIGO4WSDJ"
+    },
+    {
+      "timestamp": "20260713130636",
+      "original": "https://www.mpetns.ie/enrol",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "WSKPX6MEWMBFR7OIBEQDNJC2HYQF5PDP"
+    }
+  ],
+  "pages": [
+    {
+      "at": "2026-11-08T12:43:50.894640+00:00",
+      "http_status": 200,
+      "params": {
+        "url": "https://www.mpetns.ie/enrol",
+        "matchType": "exact",
+        "output": "json",
+        "fl": "timestamp,original,mimetype,statuscode,digest",
+        "filter": "statuscode:200",
+        "collapse": "digest",
+        "limit": "200",
+        "showResumeKey": "true"
+      }
+    }
+  ],
+  "status": "index_complete",
+  "capture_count": 15
+}

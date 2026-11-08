@@ -1,0 +1,298 @@
+{
+  "roll": "17971H",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.stmichaelsholyangels.com",
+      "final_url": "https://www.stmichaelsholyangels.com",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.stmichaelsholyangels.com/principal-s-post",
+      "final_url": "https://www.stmichaelsholyangels.com/principal-s-post",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Enrollment"
+    },
+    {
+      "url": "https://www.stmichaelsholyangels.com/sitemap.xml",
+      "final_url": "https://www.stmichaelsholyangels.com/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.stmichaelsholyangels.com/policies",
+      "final_url": "https://www.stmichaelsholyangels.com/policies",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.stmichaelsholyangels.com/_files/ugd/8410e5_59a6d1d6498d4a199218e43f196df285.pdf",
+      "final_url": "https://www.stmichaelsholyangels.com/_files/ugd/8410e5_59a6d1d6498d4a199218e43f196df285.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Four Stage Approach to Wellbeing Infographic"
+    },
+    {
+      "url": "https://www.stmichaelsholyangels.com/_files/ugd/8410e5_4566a44b039a4a0badae35768b08da32.pdf",
+      "final_url": "https://www.stmichaelsholyangels.com/_files/ugd/8410e5_4566a44b039a4a0badae35768b08da32.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "NCSE Relate Infographic"
+    },
+    {
+      "url": "https://www.stmichaelsholyangels.com/_files/ugd/8410e5_39f5710efb924778a2d6e18a6834a85e.pdf",
+      "final_url": "https://www.stmichaelsholyangels.com/_files/ugd/8410e5_39f5710efb924778a2d6e18a6834a85e.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Connect RP Journey Infographic"
+    },
+    {
+      "url": "https://www.stmichaelsholyangels.com/_files/ugd/8410e5_6ebafaea02814b9aa3fd9ff27bd698b2.pdf",
+      "final_url": "https://www.stmichaelsholyangels.com/_files/ugd/8410e5_6ebafaea02814b9aa3fd9ff27bd698b2.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Application for Admission Form"
+    },
+    {
+      "url": "https://www.stmichaelsholyangels.com/_files/ugd/ac2146_10cf8429fd1b45648b719ebe3ad005cc.doc?dn=St.%20Michael's%20School%20Data%20Protection%20Pri",
+      "final_url": "https://1329b51f-884a-f43c-a8ac-335ec7ac6109.filesusr.com/ugd/ac2146_10cf8429fd1b45648b719ebe3ad005cc.doc?dn=St.%20Michael%27s%20School%20Data%20Protection%20Pri",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "St. Michael's School Data Protection Privacy Statement for Pupil's & Parents/Guardians"
+    },
+    {
+      "url": "https://www.stmichaelsholyangels.com/_files/ugd/8410e5_5373812f934e4fe6a94ec7edd8139425.pdf",
+      "final_url": "https://www.stmichaelsholyangels.com/_files/ugd/8410e5_5373812f934e4fe6a94ec7edd8139425.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admission Policy"
+    },
+    {
+      "url": "https://www.stmichaelsholyangels.com/parents-committee",
+      "final_url": "https://www.stmichaelsholyangels.com/parents-committee",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents' Committee"
+    },
+    {
+      "url": "https://www.stmichaelsholyangels.com/parents",
+      "final_url": "https://www.stmichaelsholyangels.com/parents",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents"
+    },
+    {
+      "url": "https://www.stmichaelsholyangels.com/blog-posts-sitemap.xml",
+      "final_url": "https://www.stmichaelsholyangels.com/blog-posts-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.stmichaelsholyangels.com/blog-categories-sitemap.xml",
+      "final_url": "https://www.stmichaelsholyangels.com/blog-categories-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.stmichaelsholyangels.com/_files/ugd/8410e5_fe0432bb1be34691bd79bde774f23cab.pdf",
+      "final_url": "https://www.stmichaelsholyangels.com/_files/ugd/8410e5_fe0432bb1be34691bd79bde774f23cab.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Attendance Policy"
+    },
+    {
+      "url": "https://www.stmichaelsholyangels.com/_files/ugd/8410e5_f6c347e10ee447b49911412b3a181b20.pdf",
+      "final_url": "https://www.stmichaelsholyangels.com/_files/ugd/8410e5_f6c347e10ee447b49911412b3a181b20.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Critical Incident Management Policy"
+    },
+    {
+      "url": "https://www.stmichaelsholyangels.com/_files/ugd/8410e5_f55a0f16f7204ef3a7880a8bcb7e556a.pdf",
+      "final_url": "https://www.stmichaelsholyangels.com/_files/ugd/8410e5_f55a0f16f7204ef3a7880a8bcb7e556a.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Pupils with a Diagnosis of Autistic Spectrum Disorder Policy"
+    },
+    {
+      "url": "https://www.stmichaelsholyangels.com/_files/ugd/8410e5_e35fbd7471a44df0b9f29c91b9611e55.pdf",
+      "final_url": "https://www.stmichaelsholyangels.com/_files/ugd/8410e5_e35fbd7471a44df0b9f29c91b9611e55.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "History Policy"
+    },
+    {
+      "url": "https://www.stmichaelsholyangels.com/_files/ugd/8410e5_db347f2349c8429fa753e7f1e0c3d2eb.pdf",
+      "final_url": "https://www.stmichaelsholyangels.com/_files/ugd/8410e5_db347f2349c8429fa753e7f1e0c3d2eb.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Equal Opportunities Policy"
+    },
+    {
+      "url": "https://www.stmichaelsholyangels.com/_files/ugd/8410e5_aed2ff5bc4384e36b790093ccc38d4dd.pdf",
+      "final_url": "https://www.stmichaelsholyangels.com/_files/ugd/8410e5_aed2ff5bc4384e36b790093ccc38d4dd.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Anti-bullying Policy"
+    },
+    {
+      "url": "https://www.stmichaelsholyangels.com/_files/ugd/8410e5_aba2ad2d11de4244b37348f1a1d1a673.pdf",
+      "final_url": "https://www.stmichaelsholyangels.com/_files/ugd/8410e5_aba2ad2d11de4244b37348f1a1d1a673.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Confidentiality Policy"
+    },
+    {
+      "url": "https://www.stmichaelsholyangels.com/_files/ugd/8410e5_a6e90d7b9f52492c9b979f42af033604.pdf",
+      "final_url": "https://www.stmichaelsholyangels.com/_files/ugd/8410e5_a6e90d7b9f52492c9b979f42af033604.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Pupils Who Abscond Policy"
+    },
+    {
+      "url": "https://www.stmichaelsholyangels.com/_files/ugd/8410e5_9d90d5c33edd4e5db0337c1158f8c624.pdf",
+      "final_url": "https://www.stmichaelsholyangels.com/_files/ugd/8410e5_9d90d5c33edd4e5db0337c1158f8c624.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Assessment Policy"
+    },
+    {
+      "url": "https://www.stmichaelsholyangels.com/_files/ugd/8410e5_9b285cea8bbd4add99a8c2f44048dbe2.pdf",
+      "final_url": "https://www.stmichaelsholyangels.com/_files/ugd/8410e5_9b285cea8bbd4add99a8c2f44048dbe2.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Mobile Phone Policy"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "17971H",
+      "url": "https://www.stmichaelsholyangels.com/policies",
+      "label": "Policies",
+      "sha256": "6a6bef255c27f8ef89381985a5f3861a7ce0ac364c4dd104ef0185e4d4c4a43f",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/17971H_6a6bef255c27f8ef8938.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1526
+    },
+    {
+      "roll": "17971H",
+      "url": "https://www.stmichaelsholyangels.com/_files/ugd/8410e5_5373812f934e4fe6a94ec7edd8139425.pdf",
+      "label": "Admission Policy",
+      "sha256": "d050d176e8ad1581c7dd5ba755091c4be9d4c0c789aab5688d43deb078258f5f",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/17971H_d050d176e8ad1581c7dd.txt",
+      "source_file": "database/milestone2/cache/d050d176e8ad1581c7dd5ba755091c4be9d4c0c789aab5688d43deb078258f5f.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 32141
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.stmichaelsholyangels.com/_files/ugd/8410e5_940f3d70fd354f2e94835d68601adff9.pdf",
+      "label": "Emergency Closure Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmichaelsholyangels.com/_files/ugd/8410e5_90406ccdbc6d40f780a282c088a1885f.pdf",
+      "label": "Religious Education Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmichaelsholyangels.com/_files/ugd/8410e5_89be161cd04e488d99c0cca3f08e732e.pdf",
+      "label": "Healthy Eating Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmichaelsholyangels.com/_files/ugd/8410e5_8029f7c00149489589d1cc41db3a3340.pdf",
+      "label": "Assistive Technology Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmichaelsholyangels.com/_files/ugd/8410e5_7519a16273044e02bf97e716ec831c6f.pdf",
+      "label": "RSE Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmichaelsholyangels.com/_files/ugd/8410e5_5f51ae49c1e34f9bbc93dee21bf745c6.pdf",
+      "label": "Substance Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmichaelsholyangels.com/_files/ugd/8410e5_5e7895f418f043fc8530e5ddc5a0e063.pdf",
+      "label": "Acceptable Use Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmichaelsholyangels.com/_files/ugd/8410e5_53a40b70b0474e7bb71a85287082b656.pdf",
+      "label": "SESE Integration Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmichaelsholyangels.com/_files/ugd/8410e5_50cff161243b47568c7e0050c15aea07.pdf",
+      "label": "Minibus School Transport Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmichaelsholyangels.com/_files/ugd/8410e5_4e006d37fa714f8094ec9eb0e03dd6cf.pdf",
+      "label": "Parental Complaints Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmichaelsholyangels.com/_files/ugd/8410e5_3f26612cf8fd4c18904c3c636bbd5bc7.pdf",
+      "label": "Geography Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmichaelsholyangels.com/_files/ugd/8410e5_3ef30647daf44bb7907628a40feb1375.pdf",
+      "label": "Bi Cinealta Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmichaelsholyangels.com/_files/ugd/8410e5_3223df486cc44f35b009e84e6f63c5b1.pdf",
+      "label": "Health, Safety & Welfare Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmichaelsholyangels.com/_files/ugd/8410e5_320caca6ed054aa181a379c46d79b45b.pdf",
+      "label": "Data Protection Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmichaelsholyangels.com/_files/ugd/8410e5_1f2b979c88bd46eea8f7152b9be6a960.pdf",
+      "label": "Whistleblowing  (Protected Disclosures) Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmichaelsholyangels.com/_files/ugd/8410e5_19e52f8a0b2740e6b66ac47fa864f04d.pdf",
+      "label": "Digital Learning Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmichaelsholyangels.com/_files/ugd/8410e5_12c3a3b3b7214f6db101b19d79c6c274.pdf",
+      "label": "Custody and Seperation Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmichaelsholyangels.com/_files/ugd/8410e5_1243bfa8131c4a52816bdabb1ee390b5.pdf",
+      "label": "SPHE Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmichaelsholyangels.com/_files/ugd/2dce42_2c5b6051742e41d8ac753e06a195c966.pdf",
+      "label": "Intimate Care Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 68.98,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:52:12+0000"
+}

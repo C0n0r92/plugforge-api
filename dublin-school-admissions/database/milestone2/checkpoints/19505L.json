@@ -1,0 +1,274 @@
+{
+  "roll": "19505L",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.gaelscoiloilibheir.ie/iontraacuteil--admissions.html",
+      "final_url": "https://www.gaelscoiloilibheir.ie/iontraacuteil--admissions.html",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://www.gaelscoiloilibheir.ie/uploads/1/9/5/3/19531207/fógra_príobháideachais.gaeilge.english_privacy_notice__1_.pdf",
+      "final_url": "https://www.gaelscoiloilibheir.ie/uploads/1/9/5/3/19531207/fógra_príobháideachais.gaeilge.english_privacy_notice__1_.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: Fógra Príobháideachais.Gaeilge.English Privacy Notice"
+    },
+    {
+      "url": "https://www.gaelscoiloilibheir.ie/uploads/1/9/5/3/19531207/sept_2026_acat-terms_of_reference_2027.pdf",
+      "final_url": "https://www.gaelscoiloilibheir.ie/uploads/1/9/5/3/19531207/sept_2026_acat-terms_of_reference_2027.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: SEPT 2026 ACAT.Terms of Reference 2027"
+    },
+    {
+      "url": "https://www.gaelscoiloilibheir.ie/uploads/1/9/5/3/19531207/mf.2016.tiru_bÁc_15_téarmaí_tagartha.2027.pdf",
+      "final_url": "https://www.gaelscoiloilibheir.ie/uploads/1/9/5/3/19531207/mf.2016.tiru_bÁc_15_téarmaí_tagartha.2027.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: MF.2016.TIRÚ BÁC15.Téarmaí.Tagartha.2027"
+    },
+    {
+      "url": "https://www.gaelscoiloilibheir.ie/uploads/1/9/5/3/19531207/ceisteanna_coitianta_26.27.pdf",
+      "final_url": "https://www.gaelscoiloilibheir.ie/uploads/1/9/5/3/19531207/ceisteanna_coitianta_26.27.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: Ceisteanna Coitianta | Frequently Asked Question 26.27.pdf"
+    },
+    {
+      "url": "https://www.gaelscoiloilibheir.ie/foacutegra-priacuteobhaacuteideachais--privacy-notice.html",
+      "final_url": "https://www.gaelscoiloilibheir.ie/foacutegra-priacuteobhaacuteideachais--privacy-notice.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "FÓGRA PRÍOBHÁIDEACHAIS | Privacy Notice"
+    },
+    {
+      "url": "https://www.gaelscoiloilibheir.ie/iontraacuteil--enrolment.html",
+      "final_url": "https://www.gaelscoiloilibheir.ie/iontraacuteil--enrolment.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "IONTRÁIL | Enrolment"
+    },
+    {
+      "url": "https://www.gaelscoiloilibheir.ie/sitemap.xml",
+      "final_url": "https://www.gaelscoiloilibheir.ie/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.gaelscoiloilibheir.ie/polasaithe--policies.html",
+      "final_url": "https://www.gaelscoiloilibheir.ie/polasaithe--policies.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "POLASAITHE | Policies"
+    },
+    {
+      "url": "https://www.gaelscoiloilibheir.ie/uploads/1/9/5/3/19531207/polasaí_teanga.odt",
+      "final_url": "https://www.gaelscoiloilibheir.ie/uploads/1/9/5/3/19531207/polasaí_teanga.odt",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: polasaí_teanga.odt"
+    },
+    {
+      "url": "https://www.gaelscoiloilibheir.ie/laacutemhleabhar-eolais-do-thuismitheoiriacutechaomhnoacuteiriacute-parentsguardians-handbook.html",
+      "final_url": "https://www.gaelscoiloilibheir.ie/laacutemhleabhar-eolais-do-thuismitheoiriacutechaomhnoacuteiriacute-parentsguardians-handbook.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "LÁMHLEABHAR EOLAIS DO THUISMITHEOIRÍ/CHAOMHNÓIRÍ   Parents'/Guardians' Handbook"
+    },
+    {
+      "url": "https://www.gaelscoiloilibheir.ie/uploads/1/9/5/3/19531207/parents.information.handbook.english.25.26.pdf",
+      "final_url": "https://www.gaelscoiloilibheir.ie/uploads/1/9/5/3/19531207/parents.information.handbook.english.25.26.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: Parents/Guardians.Information.Handbook.25.26"
+    },
+    {
+      "url": "https://www.gaelscoiloilibheir.ie/uploads/1/9/5/3/19531207/lámhleabhar.eolais.tuismitheoirí.gaeilge.25.26.pdf",
+      "final_url": "https://www.gaelscoiloilibheir.ie/uploads/1/9/5/3/19531207/lámhleabhar.eolais.tuismitheoirí.gaeilge.25.26.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: Lámhleabhar.Eolais.Tuismitheoirí.Caomhnóirí 25.26"
+    },
+    {
+      "url": "https://www.gaelscoiloilibheir.ie/cumann-na-dtuismitheoiriacute--parents-association.html",
+      "final_url": "https://www.gaelscoiloilibheir.ie/cumann-na-dtuismitheoiriacute--parents-association.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "CUMANN NA dTUISMITHEOIRÍ | Parents' Association"
+    },
+    {
+      "url": "https://www.gaelscoiloilibheir.ie/an-noacutes-imeachta-athbhreithnithe-maidir-le-gearaacutein-oacute-thuismitheoiriacute--revised-parental-complaints-procedure.html",
+      "final_url": "https://www.gaelscoiloilibheir.ie/an-noacutes-imeachta-athbhreithnithe-maidir-le-gearaacutein-oacute-thuismitheoiriacute--revised-parental-complaints-procedure.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "AN NÓS IMEACHTA ATHBHREITHNITHE MAIDIR LE GEARÁIN Ó THUISMITHEOIRÍ | Revised Parental Complaints Procedure"
+    },
+    {
+      "url": "https://www.gaelscoiloilibheir.ie/uploads/1/9/5/3/19531207/parental-complaints-procedure_v4-final.pdf",
+      "final_url": "https://www.gaelscoiloilibheir.ie/uploads/1/9/5/3/19531207/parental-complaints-procedure_v4-final.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: Revised Parental Complaints Procedure"
+    },
+    {
+      "url": "https://www.gaelscoiloilibheir.ie/uploads/1/9/5/3/19531207/an-nos-imeachta-athbhreithnithe-maidir-le-gearain-o-thuismitheoiri.pdf",
+      "final_url": "https://www.gaelscoiloilibheir.ie/uploads/1/9/5/3/19531207/an-nos-imeachta-athbhreithnithe-maidir-le-gearain-o-thuismitheoiri.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: An Nós Imeachta Athbhreithnithe maidir le Gearáin ó Thuismitheoirí"
+    },
+    {
+      "url": "https://www.gaelscoiloilibheir.ie",
+      "final_url": "https://www.gaelscoiloilibheir.ie",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.gaelscoiloilibheir.ie/uploads/1/9/5/3/19531207/standardised_scores_explained.pdf",
+      "final_url": "https://www.gaelscoiloilibheir.ie/uploads/1/9/5/3/19531207/standardised_scores_explained.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: Standardised Scores Explained"
+    },
+    {
+      "url": "https://www.gaelscoiloilibheir.ie/uploads/1/9/5/3/19531207/scÓir_chaighdeÁnacha_mÍnithe.pdf",
+      "final_url": "https://www.gaelscoiloilibheir.ie/uploads/1/9/5/3/19531207/scÓir_chaighdeÁnacha_mÍnithe.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: Scóir Chaighdeánacha Mínithe"
+    },
+    {
+      "url": "https://www.gaelscoiloilibheir.ie/uploads/1/9/5/3/19531207/scoil_oilibhéir_stakeholder_consultation-exec_summary.pdf",
+      "final_url": "https://www.gaelscoiloilibheir.ie/uploads/1/9/5/3/19531207/scoil_oilibhéir_stakeholder_consultation-exec_summary.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: Stakeholder Consultation Executive Summary.pdf"
+    },
+    {
+      "url": "https://www.gaelscoiloilibheir.ie/uploads/1/9/5/3/19531207/nós_imeachta_maidir_le_gearáin-converted.pdf",
+      "final_url": "https://www.gaelscoiloilibheir.ie/uploads/1/9/5/3/19531207/nós_imeachta_maidir_le_gearáin-converted.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: Nós.Imeachta.Um.Ghearáin"
+    },
+    {
+      "url": "https://www.gaelscoiloilibheir.ie/uploads/1/9/5/3/19531207/lcc_and_ccc_report_public_consultation_and_small_area_data_revfinal.pdf",
+      "final_url": "https://www.gaelscoiloilibheir.ie/uploads/1/9/5/3/19531207/lcc_and_ccc_report_public_consultation_and_small_area_data_revfinal.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: LCC and CCC Report Public Consultation And Small Area Data Review"
+    },
+    {
+      "url": "https://www.gaelscoiloilibheir.ie/uploads/1/9/5/3/19531207/internetsafetyforprimaryschoolchildren-overviewandchargingstructure.docx__1___1_.pdf",
+      "final_url": "https://www.gaelscoiloilibheir.ie/uploads/1/9/5/3/19531207/internetsafetyforprimaryschoolchildren-overviewandchargingstructure.docx__1___1_.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Internet Safety For Kids - Social Netiquette - Parent Talk"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19505L",
+      "url": "https://www.gaelscoiloilibheir.ie/iontraacuteil--admissions.html",
+      "label": "Prior school admissions section",
+      "sha256": "c6340ff4cb4783da9094cd158422ed7e5b62bf659285427027db04675e7b1c99",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19505L_c6340ff4cb4783da9094.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1299
+    },
+    {
+      "roll": "19505L",
+      "url": "https://www.gaelscoiloilibheir.ie/uploads/1/9/5/3/19531207/mf.2016.tiru_bÁc_15_téarmaí_tagartha.2027.pdf",
+      "label": "Download file: MF.2016.TIRÚ BÁC15.Téarmaí.Tagartha.2027",
+      "sha256": "95ef5bc99dc6536b5be2605ca5a88417e953fa3f06a97c26f9b7aa8aa34b9b53",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19505L_95ef5bc99dc6536b5be2.txt",
+      "source_file": "database/milestone2/cache/95ef5bc99dc6536b5be2605ca5a88417e953fa3f06a97c26f9b7aa8aa34b9b53.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 41283
+    },
+    {
+      "roll": "19505L",
+      "url": "https://www.gaelscoiloilibheir.ie",
+      "label": "School homepage",
+      "sha256": "ec7dbd2db468a6fce8814f9af3f53e827d76414f60bf8f1245d8e01350ee1621",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19505L_ec7dbd2db468a6fce881.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 14432
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.gaelscoiloilibheir.ie/uploads/1/9/5/3/19531207/eolas_do_phobal_na_scoile_12.2.2018.docx",
+      "label": "Download file: Eolas do Phobal na Scoile 12.2.2018.docx",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.gaelscoiloilibheir.ie/uploads/1/9/5/3/19531207/cruinniú_le_tuismitheoirí.pdf",
+      "label": "Download file: cruinniú_le_tuismitheoirí.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.gaelscoiloilibheir.ie/uploads/1/9/5/3/19531207/bí_cineálta_scoil_oilibhéir_26.27.pdf",
+      "label": "Download file: Bí Cineálta Scoil Oilibhéir 26.27",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.gaelscoiloilibheir.ie/uploads/1/9/5/3/19531207/achoimre_fheidhmeach15.2.18.pdf",
+      "label": "Download file: Achoimre Fheidhmeach ar Chomhairliúchán na nGeallshealbhóirí",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.gaelscoiloilibheir.ie/uploads/1/9/5/3/19531207/polasaí_frithbhulaíochta_2022.2023.docx",
+      "label": "Polasaí Frithbulaíochta - Anti-bullying Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.gaelscoiloilibheir.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "label": "Oldest public admission media (all dates)",
+      "via": "wordpress_media"
+    },
+    {
+      "url": "https://www.gaelscoiloilibheir.ie/polasaiacute-um-ghuthaacutein-agus-um-ghleacuteasanna-leictreonacha--policy-around-phones-and-electronic-devices-2023.html",
+      "label": "POLASAÍ UM GHUTHÁIN AGUS UM GHLÉASANNA LEICTREONACHA | Policy around Phones and Electronic Devices 2023",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.gaelscoiloilibheir.ie/uacutesaacuteid-inghlactha-don-teicneolaiacuteocht--acceptable-use-policy-for-technology.html",
+      "label": "ÚSÁID INGHLACTHA DON TEICNEOLAÍOCHT | Acceptable Use Policy for Technology",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.gaelscoiloilibheir.ie/polasaiacute-um-chumarsaacuteid--policy-around-communication.html",
+      "label": "POLASAÍ UM CHUMARSÁID | Policy around Communication",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.gaelscoiloilibheir.ie/polasaiacute-twitter--twitter-policy.html",
+      "label": "POLASAÍ TWITTER | TWITTER Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.gaelscoiloilibheir.ie/polasaiacute-teanga--language-policy.html",
+      "label": "POLASAÍ TEANGA | Language Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.gaelscoiloilibheir.ie/polasaiacute-frithbhulaiacuteochta--anti-bullying-policy.html",
+      "label": "POLASAÍ FRITHBHULAÍOCHTA | Anti-Bullying Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 70.49,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:43:07+0000"
+}

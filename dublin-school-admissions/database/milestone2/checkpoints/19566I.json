@@ -1,0 +1,250 @@
+{
+  "roll": "19566I",
+  "status": "bounded_search_no_new_notice_found",
+  "attempts": [
+    {
+      "url": "https://www.clonburrisns.ie",
+      "final_url": "https://www.clonburrisns.ie",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "http://www.clonburrisns.ie/uploads/1/6/6/1/16617588/setup-app-parents-v4.pdf",
+      "final_url": "http://www.clonburrisns.ie/uploads/1/6/6/1/16617588/setup-app-parents-v4.pdf",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "click here"
+    },
+    {
+      "url": "http://www.clonburrisns.ie/uploads/1/6/6/1/16617588/parent_signup_for_connect.pdf",
+      "final_url": "http://www.clonburrisns.ie/uploads/1/6/6/1/16617588/parent_signup_for_connect.pdf",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "click here"
+    },
+    {
+      "url": "https://www.clonburrisns.ie/sitemap.xml",
+      "final_url": "https://www.clonburrisns.ie/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.clonburrisns.ie/policies.html",
+      "final_url": "https://www.clonburrisns.ie/policies.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.clonburrisns.ie/uploads/1/6/6/1/16617588/sept_2026_admissions_notice.pdf",
+      "final_url": "https://www.clonburrisns.ie/uploads/1/6/6/1/16617588/sept_2026_admissions_notice.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "​Admissions Notice (Sept 2026)"
+    },
+    {
+      "url": "https://www.clonburrisns.ie/uploads/1/6/6/1/16617588/sept_2026_admissions_policy.pdf",
+      "final_url": "https://www.clonburrisns.ie/uploads/1/6/6/1/16617588/sept_2026_admissions_policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions Policy (2027/28)"
+    },
+    {
+      "url": "https://www.clonburrisns.ie/uploads/1/6/6/1/16617588/parental_complaints_procedure_v2.pdf",
+      "final_url": "https://www.clonburrisns.ie/uploads/1/6/6/1/16617588/parental_complaints_procedure_v2.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parental Complaints Procedure"
+    },
+    {
+      "url": "https://www.clonburrisns.ie/uploads/1/6/6/1/16617588/olqa_data_protection_policy_2015.pdf",
+      "final_url": "https://www.clonburrisns.ie/uploads/1/6/6/1/16617588/olqa_data_protection_policy_2015.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "OLQA Data Protection Policy"
+    },
+    {
+      "url": "https://www.clonburrisns.ie/uploads/1/6/6/1/16617588/updated_school_attendance_policy_2018.pdf",
+      "final_url": "https://www.clonburrisns.ie/uploads/1/6/6/1/16617588/updated_school_attendance_policy_2018.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Attendance Policy"
+    },
+    {
+      "url": "https://www.clonburrisns.ie/uploads/1/6/6/1/16617588/2018_intercultural_policy.pdf",
+      "final_url": "https://www.clonburrisns.ie/uploads/1/6/6/1/16617588/2018_intercultural_policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Intercultural Policy"
+    },
+    {
+      "url": "https://www.clonburrisns.ie/parents.html",
+      "final_url": "https://www.clonburrisns.ie/parents.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents"
+    },
+    {
+      "url": "https://www.clonburrisns.ie/parents-association.html",
+      "final_url": "https://www.clonburrisns.ie/parents-association.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents' Association"
+    },
+    {
+      "url": "https://www.clonburrisns.ie/uploads/1/6/6/1/16617588/parking_safety_notice_to_parents.pdf",
+      "final_url": "https://www.clonburrisns.ie/uploads/1/6/6/1/16617588/parking_safety_notice_to_parents.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parking Safety Notice"
+    },
+    {
+      "url": "https://www.clonburrisns.ie/parent-courses.html",
+      "final_url": "https://www.clonburrisns.ie/parent-courses.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parent Courses"
+    },
+    {
+      "url": "https://www.clonburrisns.ie/uploads/1/6/6/1/16617588/talking_to_children_and_young_people_about_covid-19__coronavirus__-_advice_for_parents_and_schools.pdf",
+      "final_url": "https://www.clonburrisns.ie/uploads/1/6/6/1/16617588/talking_to_children_and_young_people_about_covid-19__coronavirus__-_advice_for_parents_and_schools.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: talking_to_children_and_young_people_about_covid-19__coronavirus__-_advice_for_parents_and_schools.pdf"
+    },
+    {
+      "url": "https://www.clonburrisns.ie/uploads/1/6/6/1/16617588/sr6_tips_for_parents.pdf",
+      "final_url": "https://www.clonburrisns.ie/uploads/1/6/6/1/16617588/sr6_tips_for_parents.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "CLICK HERE FOR PARENT TIPS"
+    },
+    {
+      "url": "https://www.clonburrisns.ie/uploads/1/6/6/1/16617588/little_library_parent_and_child_invite.pdf",
+      "final_url": "https://www.clonburrisns.ie/uploads/1/6/6/1/16617588/little_library_parent_and_child_invite.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Click here for the invitation."
+    },
+    {
+      "url": "https://www.clonburrisns.ie/uploads/1/6/6/1/16617588/hello_i_am_a_virus.pdf",
+      "final_url": "https://www.clonburrisns.ie/uploads/1/6/6/1/16617588/hello_i_am_a_virus.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: hello_i_am_a_virus.pdf"
+    },
+    {
+      "url": "https://www.clonburrisns.ie/uploads/1/6/6/1/16617588/gross-motor-skills-parent-booklet-primary.pdf",
+      "final_url": "https://www.clonburrisns.ie/uploads/1/6/6/1/16617588/gross-motor-skills-parent-booklet-primary.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Developing Gross Motor Skills - activity ideas for home pack"
+    },
+    {
+      "url": "https://www.clonburrisns.ie/uploads/1/6/6/1/16617588/descriptor_national_parent_support_line.docx",
+      "final_url": "https://www.clonburrisns.ie/uploads/1/6/6/1/16617588/descriptor_national_parent_support_line.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Barnardos Parent supportline - response to Covid-19 pandemic"
+    },
+    {
+      "url": "https://www.clonburrisns.ie/grandparents-day.html",
+      "final_url": "https://www.clonburrisns.ie/grandparents-day.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Grandparents' Day"
+    },
+    {
+      "url": "http://www.clonburrisns.ie/parents-association.html",
+      "final_url": "http://www.clonburrisns.ie/parents-association.html",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "http://www.clonburrisns.ie/parents"
+    },
+    {
+      "url": "https://www.clonburrisns.ie/uploads/1/6/6/1/16617588/rse_policy_signed_2021.pdf",
+      "final_url": "https://www.clonburrisns.ie/uploads/1/6/6/1/16617588/rse_policy_signed_2021.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "RSE Policy"
+    }
+  ],
+  "documents": [],
+  "pending_links": [
+    {
+      "url": "https://www.clonburrisns.ie/uploads/1/6/6/1/16617588/sustainability_policy.docx.pdf",
+      "label": "Sustainability Policy Statement",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.clonburrisns.ie/uploads/1/6/6/1/16617588/sna_policy.pdf",
+      "label": "SNA Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.clonburrisns.ie/uploads/1/6/6/1/16617588/sept_24_admin_of_medication.pdf",
+      "label": "Administration of Medication Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.clonburrisns.ie/uploads/1/6/6/1/16617588/school_tour_policy.pdf",
+      "label": "School Tour Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.clonburrisns.ie/uploads/1/6/6/1/16617588/religious_education_policy.pdf",
+      "label": "Religious Education Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.clonburrisns.ie/uploads/1/6/6/1/16617588/mobile_phone_and_personal_electronic_device_policy.pdf",
+      "label": "Mobile Phone & Electronic Device Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.clonburrisns.ie/uploads/1/6/6/1/16617588/intimate_care___toileting_policy.pdf",
+      "label": "Intimate Care & Toileting Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.clonburrisns.ie/uploads/1/6/6/1/16617588/e-learning_policy.pdf",
+      "label": "E-Learning Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.clonburrisns.ie/uploads/1/6/6/1/16617588/dignity_and_respect_in_the_workplace_policy.pdf",
+      "label": "Dignity and Respect in the Workplace Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.clonburrisns.ie/uploads/1/6/6/1/16617588/communication_policy.pdf",
+      "label": "Communications Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.clonburrisns.ie/uploads/1/6/6/1/16617588/bí_cineálta_policy_to_prevent___address_bullying_behaviour.pdf",
+      "label": "Bi Cineálta Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.clonburrisns.ie/uploads/1/6/6/1/16617588/behaviours_of_concern_policy_clonburris_ns.pdf",
+      "label": "Behaviours of Concern Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.clonburrisns.ie/uploads/1/6/6/1/16617588/additional_support_policy.pdf",
+      "label": "Additional Support Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.clonburrisns.ie/uploads/1/6/6/1/16617588/acceptable_use_policy.pdf",
+      "label": "Acceptable Use Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 61.46,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:07:28+0000"
+}

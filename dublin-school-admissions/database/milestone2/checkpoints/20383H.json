@@ -1,0 +1,191 @@
+{
+  "roll": "20383H",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.hansfieldetns.com",
+      "final_url": "https://www.hansfieldetns.com",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.hansfieldetns.com/enrol-202627.html",
+      "final_url": "https://www.hansfieldetns.com/enrol-202627.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Enrol 2026/27"
+    },
+    {
+      "url": "https://www.hansfieldetns.com/enrol-other-classes-senior-infants-to-6th-class-202728.html",
+      "final_url": "https://www.hansfieldetns.com/enrol-other-classes-senior-infants-to-6th-class-202728.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Enrol Other Classes (Senior Infants to 6th Class) 2027/28"
+    },
+    {
+      "url": "https://www.hansfieldetns.com/uploads/1/3/2/2/132220631/admissions_notice_2024-25.pdf",
+      "final_url": "https://www.hansfieldetns.com/uploads/1/3/2/2/132220631/admissions_notice_2024-25.pdf",
+      "status": "http_404",
+      "via": "school_public_link",
+      "label": "."
+    },
+    {
+      "url": "https://www.hansfieldetns.com/enrol-ji-202728.html",
+      "final_url": "https://www.hansfieldetns.com/enrol-ji-202728.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Enrol JI 2027/28"
+    },
+    {
+      "url": "https://www.hansfieldetns.com/enrol.html",
+      "final_url": "https://www.hansfieldetns.com/enrol.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Enrol"
+    },
+    {
+      "url": "https://www.hansfieldetns.com/uploads/1/3/2/2/132220631/admissions_policy_approved_sept_2022.pdf",
+      "final_url": "https://www.hansfieldetns.com/uploads/1/3/2/2/132220631/admissions_policy_approved_sept_2022.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions Policy"
+    },
+    {
+      "url": "https://www.hansfieldetns.com/sitemap.xml",
+      "final_url": "https://www.hansfieldetns.com/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.hansfieldetns.com/enrolment-form-2021221.html",
+      "final_url": "https://www.hansfieldetns.com/enrolment-form-2021221.html",
+      "status": "ok",
+      "via": "sitemap_link",
+      "label": "Admission URL from sitemap"
+    },
+    {
+      "url": "https://www.hansfieldetns.com/enrolment-form-202122.html",
+      "final_url": "https://www.hansfieldetns.com/enrolment-form-202122.html",
+      "status": "ok",
+      "via": "sitemap_link",
+      "label": "Admission URL from sitemap"
+    },
+    {
+      "url": "https://www.hansfieldetns.com/enrol-202122.html",
+      "final_url": "https://www.hansfieldetns.com/enrol-202122.html",
+      "status": "ok",
+      "via": "sitemap_link",
+      "label": "Admission URL from sitemap"
+    },
+    {
+      "url": "https://www.hansfieldetns.com/school-policies.html",
+      "final_url": "https://www.hansfieldetns.com/school-policies.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Policies"
+    },
+    {
+      "url": "https://www.hansfieldetns.com/uploads/1/3/2/2/132220631/admissions_notice_2026-27.pdf",
+      "final_url": "https://www.hansfieldetns.com/uploads/1/3/2/2/132220631/admissions_notice_2026-27.pdf",
+      "status": "http_404",
+      "via": "school_public_link",
+      "label": "Admissions Notice 2026/27"
+    },
+    {
+      "url": "https://www.hansfieldetns.com/uploads/1/3/2/2/132220631/rse_policy_hetns_2019.docx.pdf",
+      "final_url": "https://www.hansfieldetns.com/uploads/1/3/2/2/132220631/rse_policy_hetns_2019.docx.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "​ Relationship & Sexuality Policy ​"
+    },
+    {
+      "url": "https://www.hansfieldetns.com/parental-complaints-procedure.html",
+      "final_url": "https://www.hansfieldetns.com/parental-complaints-procedure.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parental Complaints Procedure"
+    },
+    {
+      "url": "https://www.hansfieldetns.com/uploads/1/3/2/2/132220631/parental_complaints_procedure.pdf",
+      "final_url": "https://www.hansfieldetns.com/uploads/1/3/2/2/132220631/parental_complaints_procedure.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parental Complaints Procedure"
+    },
+    {
+      "url": "https://www.hansfieldetns.com/parent-support.html",
+      "final_url": "https://www.hansfieldetns.com/parent-support.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parent Support"
+    },
+    {
+      "url": "https://www.hansfieldetns.com/uploads/1/3/2/2/132220631/swimming_policy_2023-24.pdf",
+      "final_url": "https://www.hansfieldetns.com/uploads/1/3/2/2/132220631/swimming_policy_2023-24.pdf",
+      "status": "http_404",
+      "via": "school_public_link",
+      "label": "Swimming Policy"
+    },
+    {
+      "url": "https://www.hansfieldetns.com/uploads/1/3/2/2/132220631/anti-bullying_policy_sept_2023.pdf",
+      "final_url": "https://www.hansfieldetns.com/uploads/1/3/2/2/132220631/anti-bullying_policy_sept_2023.pdf",
+      "status": "http_404",
+      "via": "school_public_link",
+      "label": "Anti-bullying Policy ​"
+    },
+    {
+      "url": "https://www.hansfieldetns.com/uploads/1/3/2/2/132220631/acceptable_use_policy_hetns_2023.pdf",
+      "final_url": "https://www.hansfieldetns.com/uploads/1/3/2/2/132220631/acceptable_use_policy_hetns_2023.pdf",
+      "status": "http_404",
+      "via": "school_public_link",
+      "label": "Internet Acceptable Use Policy"
+    },
+    {
+      "url": "https://www.hansfieldetns.com/uploads/1/3/2/2/132220631/irish_exemption_policy_hetns_oct_2024.docx.pdf",
+      "final_url": "https://www.hansfieldetns.com/uploads/1/3/2/2/132220631/irish_exemption_policy_hetns_oct_2024.docx.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Irish Exemption Policy"
+    },
+    {
+      "url": "https://www.hansfieldetns.com/uploads/1/3/2/2/132220631/positive_behaviour_policy_hetns_2025.pdf",
+      "final_url": "https://www.hansfieldetns.com/uploads/1/3/2/2/132220631/positive_behaviour_policy_hetns_2025.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Code of Positive Behaviour​"
+    },
+    {
+      "url": "https://www.hansfieldetns.com/uploads/1/3/2/2/132220631/24-06-2025_bi_cinealta_policy.pdf",
+      "final_url": "https://www.hansfieldetns.com/uploads/1/3/2/2/132220631/24-06-2025_bi_cinealta_policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Bí Cinéalta Policy (Preventing and addressing bullying behaviour) ​"
+    },
+    {
+      "url": "https://www.hansfieldetns.com/uploads/1/3/2/2/132220631/08-10-2025_child_protection_policy.pdf",
+      "final_url": "https://www.hansfieldetns.com/uploads/1/3/2/2/132220631/08-10-2025_child_protection_policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Child Protection Policy"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "20383H",
+      "url": "https://www.hansfieldetns.com/uploads/1/3/2/2/132220631/admissions_policy_approved_sept_2022.pdf",
+      "label": "Admissions Policy",
+      "sha256": "12a7e457ce06c26de85e2dc7101bd91e6dff999ada782969490e6dc5299db093",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20383H_12a7e457ce06c26de85e.txt",
+      "source_file": "database/milestone2/cache/12a7e457ce06c26de85e2dc7101bd91e6dff999ada782969490e6dc5299db093.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 26734
+    }
+  ],
+  "pending_links": [],
+  "elapsed_seconds": 75.52,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:48:09+0000"
+}

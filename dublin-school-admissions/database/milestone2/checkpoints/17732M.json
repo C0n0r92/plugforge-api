@@ -1,0 +1,109 @@
+{
+  "roll": "17732M",
+  "status": "bounded_search_no_new_notice_found",
+  "attempts": [
+    {
+      "url": "https://www.scoilchiarain.org/post/admissions-notice-2024-2025",
+      "final_url": "https://www.scoilchiarain.org/post/admissions-notice-2024-2025",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions/policy URL from public sitemap"
+    },
+    {
+      "url": "https://www.scoilchiarain.org/post/enrolments-for-2026-2027-now-open",
+      "final_url": "https://www.scoilchiarain.org/post/enrolments-for-2026-2027-now-open",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions/policy URL from public sitemap"
+    },
+    {
+      "url": "https://www.scoilchiarain.org/post/junior-infants-2027-enrolment-meeting",
+      "final_url": "https://www.scoilchiarain.org/post/junior-infants-2027-enrolment-meeting",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions/policy URL from public sitemap"
+    },
+    {
+      "url": "https://www.scoilchiarain.org/post/enrolment-now-open-for-september-2027",
+      "final_url": "https://www.scoilchiarain.org/post/enrolment-now-open-for-september-2027",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions/policy URL from public sitemap"
+    },
+    {
+      "url": "https://www.scoilchiarain.org/sitemap.xml",
+      "final_url": "https://www.scoilchiarain.org/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.scoilchiarain.org/policies",
+      "final_url": "https://www.scoilchiarain.org/policies",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "POLICIES"
+    },
+    {
+      "url": "https://www.scoilchiarain.org/parents-council",
+      "final_url": "https://www.scoilchiarain.org/parents-council",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "PARENTS COUNCIL"
+    },
+    {
+      "url": "https://www.scoilchiarain.org/parents",
+      "final_url": "https://www.scoilchiarain.org/parents",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "PARENTS"
+    },
+    {
+      "url": "https://www.scoilchiarain.org/pages-sitemap.xml",
+      "final_url": "https://www.scoilchiarain.org/pages-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.scoilchiarain.org/copy-of-parents-council",
+      "final_url": "https://www.scoilchiarain.org/copy-of-parents-council",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "UNIFORM"
+    },
+    {
+      "url": "https://www.scoilchiarain.org/blog-posts-sitemap.xml",
+      "final_url": "https://www.scoilchiarain.org/blog-posts-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.scoilchiarain.org/blog-categories-sitemap.xml",
+      "final_url": "https://www.scoilchiarain.org/blog-categories-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.scoilchiarain.org",
+      "final_url": "https://www.scoilchiarain.org",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.scoilchiarain.org/_files/ugd/3bd5dd_587e512ff1424b55b45c1f9badfb26c1.pdf",
+      "final_url": "https://www.scoilchiarain.org/_files/ugd/3bd5dd_587e512ff1424b55b45c1f9badfb26c1.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Updated Bí Cineálta Policy 2026 (1).pdf"
+    }
+  ],
+  "documents": [],
+  "pending_links": [],
+  "elapsed_seconds": 40.04,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:51:29+0000"
+}

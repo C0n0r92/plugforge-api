@@ -1,0 +1,74 @@
+{
+  "roll": "12448N",
+  "status": "bounded_search_no_new_notice_found",
+  "attempts": [
+    {
+      "url": "https://www.gardinerstreetschool.ie/enrolment",
+      "final_url": "https://www.gardinerstreetschool.ie/enrolment",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Enrolment"
+    },
+    {
+      "url": "https://irp.cdn-website.com/52705308/files/uploaded/Annual+Admissions+Notice+27+_+28.pdf",
+      "final_url": "https://irp.cdn-website.com/52705308/files/uploaded/Annual+Admissions+Notice+27+_+28.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "Admissions Notice"
+    },
+    {
+      "url": "https://irp.cdn-website.com/52705308/files/uploaded/2020 Admission Policy Gardiner Street Primary School (1).pdf",
+      "final_url": "https://irp.cdn-website.com/52705308/files/uploaded/2020 Admission Policy Gardiner Street Primary School (1).pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "Admissions Policy"
+    },
+    {
+      "url": "https://www.gardinerstreetschool.ie/sitemap.xml",
+      "final_url": "https://www.gardinerstreetschool.ie/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.gardinerstreetschool.ie/policies",
+      "final_url": "https://www.gardinerstreetschool.ie/policies",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.gardinerstreetschool.ie/zh/policies",
+      "final_url": "https://www.gardinerstreetschool.ie/zh/policies",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "简体中文 zh"
+    },
+    {
+      "url": "https://www.gardinerstreetschool.ie/ro/policies",
+      "final_url": "https://www.gardinerstreetschool.ie/ro/policies",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "română ro"
+    },
+    {
+      "url": "https://www.gardinerstreetschool.ie/pl/policies",
+      "final_url": "https://www.gardinerstreetschool.ie/pl/policies",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "polski pl"
+    },
+    {
+      "url": "https://www.gardinerstreetschool.ie",
+      "final_url": "https://www.gardinerstreetschool.ie",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    }
+  ],
+  "documents": [],
+  "pending_links": [],
+  "elapsed_seconds": 19.25,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:00:46+0000"
+}

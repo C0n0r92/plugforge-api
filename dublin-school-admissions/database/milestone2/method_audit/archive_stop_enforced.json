@@ -1,0 +1,6 @@
+{
+  "at": "2026-11-08T13:27:13.428992+00:00",
+  "reason": "HTTP429TooManyRequests from archive.org Availability API. All archive.org/web.archive.org automated requests stopped. No alternative network/browser/CDX route attempted after denial.",
+  "duplicate_worker_previously_stopped": 77241,
+  "remaining_worker_stopped": 69891
+}

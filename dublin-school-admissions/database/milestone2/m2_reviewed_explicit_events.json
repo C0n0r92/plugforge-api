@@ -1,0 +1,52 @@
+[
+  {
+    "roll": "19785U",
+    "url": "https://bernadettes.ie/wp-content/uploads/2024/11/Annual-Admissions-Notice-St.-Bernadettes-SNS-.2025-2026.pdf",
+    "sha256": "5e9a661c1869d0f64afd58fef562a26bee3946f9232271564155cfa0df9119fd",
+    "text_file": "evidence/19785U_5e9a661c1869d0f64afd.txt",
+    "source_file": "cache/5e9a661c1869d0f64afd.pdf",
+    "format": "pdf",
+    "document_id": "27fccf20ec1ef170a0957c9d4a5840da",
+    "text_excerpt": "                                     St. Bernadette\u2019s Senior N.S.\n                                              Quarryvale,\n                                              Clondalkin,\n                                               Dublin 22,\n                                               D22PW58\n\n\n                       St. Bernadette\u2019s Senior National School\n                               ANNUAL ADMISSION NOTICE\n                in respect of admis",
+    "groups": [
+      {
+        "title": "2025/2026",
+        "phase": "waiting_event",
+        "year": "2024/2025",
+        "cohort": "ASD special classes",
+        "lo": 95,
+        "hi": 96,
+        "metrics": {
+          "waiting_list_removed_other_school_place": {
+            "value": 1,
+            "word": "One"
+          }
+        },
+        "notes": "One applicant received a special-class place nearer home and was removed from list. Source does not say whether replacement offer was made.",
+        "scope": "explicit_removed_after_other_school_place",
+        "metric_definitions": {
+          "waiting_list_removed_other_school_place": "Explicit removal because a place was received in another school; does not assert offer-acceptance dates or replacement admission."
+        }
+      },
+      {
+        "title": "2025/2026",
+        "phase": "vacancy_event",
+        "year": "2024/2025",
+        "cohort": "ASD special classes",
+        "lo": 97,
+        "hi": 97,
+        "metrics": {
+          "vacancy_created_by_transfer": {
+            "value": 1,
+            "word": "One"
+          }
+        },
+        "notes": "One pupil transferred out freeing a place. No explicit reoffer/acceptance/admission to a waiting applicant.",
+        "scope": "explicit_outward_transfer_vacancy",
+        "metric_definitions": {
+          "vacancy_created_by_transfer": "Explicit vacancy created by pupil transferring out; not evidence it was reoffered or filled."
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,170 @@
+{
+  "roll": "20168D",
+  "original_url": "https://www.get.ie/enrolment-information",
+  "method": "documented_CDX_exact_URL_all_available_dates",
+  "attempted_at": "2026-11-08T12:43:32.434511+00:00",
+  "params": {
+    "url": "https://www.get.ie/enrolment-information",
+    "matchType": "exact",
+    "output": "json",
+    "fl": "timestamp,original,mimetype,statuscode,digest",
+    "filter": "statuscode:200",
+    "collapse": "digest",
+    "limit": "200",
+    "showResumeKey": "true"
+  },
+  "earliest_year_cutoff": null,
+  "captures": [
+    {
+      "timestamp": "20200928021248",
+      "original": "https://get.ie/enrolment-information/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "5ZXMWRDFYNTGX2AUPMCVKGNQBOUBTGOH"
+    },
+    {
+      "timestamp": "20201129043154",
+      "original": "https://get.ie/enrolment-information/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "F5Z45YCPHXXY5WYO7GXW3ZABWO2CZREU"
+    },
+    {
+      "timestamp": "20210303114808",
+      "original": "https://get.ie/enrolment-information/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "AL4GHZY2QWSF7BPY4GVHP7FKOXD7EULO"
+    },
+    {
+      "timestamp": "20210512111818",
+      "original": "https://get.ie/enrolment-information/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "DBWLIO76AK2G77MVVYVIHQASAKZDUXD6"
+    },
+    {
+      "timestamp": "20210725092418",
+      "original": "https://get.ie/enrolment-information/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "XLZSYAYZ5O5OJJ7XVQNRFG3KQC5JEOYG"
+    },
+    {
+      "timestamp": "20210922210347",
+      "original": "https://get.ie/enrolment-information/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "KFCISJH5S7CRDCE5PS24YUDP7IKIKS75"
+    },
+    {
+      "timestamp": "20211015234112",
+      "original": "https://get.ie/enrolment-information/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "JTFLIUQXNN3YDH5C5DAJJ2ME7TOHMH3F"
+    },
+    {
+      "timestamp": "20220122084051",
+      "original": "https://get.ie/enrolment-information/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "7DBQGSHYOC65H543626OQU4EGUGLGC7M"
+    },
+    {
+      "timestamp": "20220626082201",
+      "original": "https://get.ie/enrolment-information/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "SK2HQJNBXYN5NSM4MR45BKXROHYRK7OI"
+    },
+    {
+      "timestamp": "20221004070121",
+      "original": "https://get.ie/enrolment-information/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "YSA5JZIT7NQVOVOWM5E5XWP25A4SR234"
+    },
+    {
+      "timestamp": "20230201060443",
+      "original": "https://get.ie/enrolment-information/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "JKYAGRE7IMZUID33WC7TWI37TGH5U4MJ"
+    },
+    {
+      "timestamp": "20230529221047",
+      "original": "https://get.ie/enrolment-information/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "EEETA56QDN3XC6CXXXO65C3DJ5ZRV62X"
+    },
+    {
+      "timestamp": "20230924072312",
+      "original": "https://get.ie/enrolment-information/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "G4GYYNWTCJTDXHA5K5JBRNHCYRFYQQZ5"
+    },
+    {
+      "timestamp": "20240227201830",
+      "original": "https://get.ie/enrolment-information/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "N6PY3GFFJFHCAOBAELZIFJPDV5J6YKZS"
+    },
+    {
+      "timestamp": "20240725004040",
+      "original": "https://get.ie/enrolment-information/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "BI5PTENEGOX5PG6LKCAVBJWSLRNOMOPZ"
+    },
+    {
+      "timestamp": "20241107064318",
+      "original": "https://get.ie/enrolment-information/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "5AZQ5VHW2NF6LRHDIRBXQDNHL6KZAABT"
+    },
+    {
+      "timestamp": "20250208192747",
+      "original": "https://get.ie/enrolment-information/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "FOHLEMUXPQIUH7ACX4CS32R3SUEJMOFE"
+    },
+    {
+      "timestamp": "20250620225218",
+      "original": "https://get.ie/enrolment-information/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "Y5RCSFR6AEBNMAA2EL7J4NYBOSBCANI4"
+    },
+    {
+      "timestamp": "20250908091511",
+      "original": "https://get.ie/enrolment-information/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "PVHW2YOOAMCCYE6QYCWNBVMWVC7CEYLL"
+    }
+  ],
+  "pages": [
+    {
+      "at": "2026-11-08T12:43:36.715196+00:00",
+      "http_status": 200,
+      "params": {
+        "url": "https://www.get.ie/enrolment-information",
+        "matchType": "exact",
+        "output": "json",
+        "fl": "timestamp,original,mimetype,statuscode,digest",
+        "filter": "statuscode:200",
+        "collapse": "digest",
+        "limit": "200",
+        "showResumeKey": "true"
+      }
+    }
+  ],
+  "status": "index_complete",
+  "capture_count": 19
+}

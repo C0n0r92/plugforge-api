@@ -1,0 +1,54 @@
+{
+  "task_id": "1d5705f97e72a51f9e883d27311de4e9",
+  "roll": "00697S",
+  "capture": {
+    "digest": "V3ZRBOWVYGV2XMD4NMOQJHENZNDDYTFW",
+    "mimetype": "text/html",
+    "original": "http://www.saintbrigids.ie/Page/Admissions-20252026/19674/Index.html",
+    "statuscode": "200",
+    "timestamp": "20241103225413"
+  },
+  "original_url": "http://www.saintbrigids.ie/Page/Admissions-20252026/19674/Index.html",
+  "archived_url": "https://web.archive.org/web/20241103225413/http://www.saintbrigids.ie/Page/Admissions-20252026/19674/Index.html",
+  "attempted_at": "2026-11-08T12:33:51.676739+00:00",
+  "http_status": 200,
+  "headers": {
+    "Content-Type": "text/html; charset=utf-8",
+    "memento-datetime": "Sun, 03 Nov 2024 22:54:13 GMT"
+  },
+  "payload_sha256": "43a6ff55663d3bb28894a9f4a57a7b8bcce4503b37e75712652f48ca08c84984",
+  "bytes": 73525,
+  "format": "html",
+  "archive_link_candidates": [
+    {
+      "url": "https://web.archive.org/web/20241103225413/http://www.saintbrigids.ie/page/Admissions-20252026/19674/Index.html",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://web.archive.org/web/20241103225413/https://drive.google.com/file/d/1FkRGQVcHD_ceDW0vcwuHf9IK2KZgdagp/view?usp=sharing",
+      "label": "Admission Notice"
+    },
+    {
+      "url": "https://web.archive.org/web/20241103225413/https://drive.google.com/file/d/1_9y7LSJv2e4b0OxG_gQqGPErs35qEKj5/view?usp=sharing",
+      "label": "Admission Policy"
+    },
+    {
+      "url": "https://web.archive.org/web/20241103225413/https://drive.google.com/file/d/1fOuabw5R8M8ncNT2Vd-acu_fG2AkYA1I/view?usp=sharing",
+      "label": "Admission Notice for Autism Classes"
+    },
+    {
+      "url": "https://web.archive.org/web/20241103225413/http://www.saintbrigids.ie/News/Admissions-20252026/21459/Index.html",
+      "label": ""
+    },
+    {
+      "url": "https://web.archive.org/web/20241103225413/http://www.saintbrigids.ie/News/Admissions-20252026/21459/Index.html",
+      "label": "Admissions 2025/2026"
+    },
+    {
+      "url": "https://web.archive.org/web/20241103225413/http://www.saintbrigids.ie/News/Admissions-20252026/21459/Index.html",
+      "label": "Read more..."
+    }
+  ],
+  "status": "archived_body_retrieved_requires_notice_evidence_review",
+  "text_file": "database/milestone2/evidence/archive_00697S_43a6ff55663d3bb28894.txt"
+}

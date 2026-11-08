@@ -1,0 +1,172 @@
+{
+  "roll": "19582G",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://tallaghtcns.ie/enrol/",
+      "final_url": "https://tallaghtcns.ie/enrol/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Enrolment"
+    },
+    {
+      "url": "https://tallaghtcns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://tallaghtcns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://tallaghtcns.ie/wp-content/uploads/2021/03/POLICY-FOR-ADMISSION-TO-SCHOOL-TALLAGHT-CNS-YEAR-2021.pdf",
+      "final_url": "https://tallaghtcns.ie/wp-content/uploads/2021/03/POLICY-FOR-ADMISSION-TO-SCHOOL-TALLAGHT-CNS-YEAR-2021.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "POLICY FOR ADMISSION TO SCHOOL TALLAGHT CNS YEAR 2021"
+    },
+    {
+      "url": "https://tallaghtcns.ie/wp-content/uploads/2021/03/Admission-Policy-2021.pdf",
+      "final_url": "https://tallaghtcns.ie/wp-content/uploads/2021/03/Admission-Policy-2021.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admission Policy 2021"
+    },
+    {
+      "url": "https://tallaghtcns.ie/wp-content/uploads/2022/11/Draft-Admission-Policy-for-2022.2023-Updated.pdf",
+      "final_url": "https://tallaghtcns.ie/wp-content/uploads/2022/11/Draft-Admission-Policy-for-2022.2023-Updated.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admission Policy"
+    },
+    {
+      "url": "https://tallaghtcns.ie/wp-content/uploads/2024/09/Admission-Policy-for-2024.2025-Final.pdf",
+      "final_url": "https://tallaghtcns.ie/wp-content/uploads/2024/09/Admission-Policy-for-2024.2025-Final.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admission Policy for 2024.2025 Final"
+    },
+    {
+      "url": "https://tallaghtcns.ie/wp-content/uploads/2025/09/Tallaght-CNS-Admission-Policy-for-2025.2026.pdf",
+      "final_url": "https://tallaghtcns.ie/wp-content/uploads/2025/09/Tallaght-CNS-Admission-Policy-for-2025.2026.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Tallaght CNS Admission Policy for 2025.2026"
+    },
+    {
+      "url": "https://tallaghtcns.ie/wp-content/uploads/2025/09/Tallaght-CNS-Admission-Policy-for-2025.2026-1.pdf",
+      "final_url": "https://tallaghtcns.ie/wp-content/uploads/2025/09/Tallaght-CNS-Admission-Policy-for-2025.2026-1.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Tallaght CNS Admission Policy for 2025.2026"
+    },
+    {
+      "url": "https://tallaghtcns.ie/tallaght-cns-enrolement-form-2023-2024/",
+      "final_url": "https://tallaghtcns.ie/wp-content/uploads/2023/08/Tallaght-CNS-Enrolement-Form-2023.2024.docx",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Application Form"
+    },
+    {
+      "url": "https://tallaghtcns.ie/tallaght-cns-enrolement-form-2023-2024-2/",
+      "final_url": "https://tallaghtcns.ie/wp-content/uploads/2023/08/Tallaght-CNS-Enrolement-Form-2023.2024.pdf",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Application Form Word Document"
+    },
+    {
+      "url": "https://tallaghtcns.ie/sitemap.xml",
+      "final_url": "https://tallaghtcns.ie/sitemap_index.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://tallaghtcns.ie/post-sitemap.xml",
+      "final_url": "https://tallaghtcns.ie/post-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19582G",
+      "url": "https://tallaghtcns.ie/wp-content/uploads/2021/03/POLICY-FOR-ADMISSION-TO-SCHOOL-TALLAGHT-CNS-YEAR-2021.pdf",
+      "label": "POLICY FOR ADMISSION TO SCHOOL TALLAGHT CNS YEAR 2021",
+      "sha256": "200ba4a8a1ef00328334125b276a7a7bd30b6f665ac3c2251252fe39882a5228",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19582G_200ba4a8a1ef00328334.txt",
+      "source_file": "database/milestone2/cache/200ba4a8a1ef00328334125b276a7a7bd30b6f665ac3c2251252fe39882a5228.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 46956
+    },
+    {
+      "roll": "19582G",
+      "url": "https://tallaghtcns.ie/wp-content/uploads/2021/03/Admission-Policy-2021.pdf",
+      "label": "Admission Policy 2021",
+      "sha256": "59f8159a9777e1568618f9971de7afc5fee745875c3be436d3702bdd2db14de3",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19582G_59f8159a9777e1568618.txt",
+      "source_file": "database/milestone2/cache/59f8159a9777e1568618f9971de7afc5fee745875c3be436d3702bdd2db14de3.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 41040
+    },
+    {
+      "roll": "19582G",
+      "url": "https://tallaghtcns.ie/wp-content/uploads/2022/11/Draft-Admission-Policy-for-2022.2023-Updated.pdf",
+      "label": "Admission Policy",
+      "sha256": "44099a4c7b68111656a0a8337b5cc0dba5e664ff9baf4f428b75b93769c26650",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19582G_44099a4c7b68111656a0.txt",
+      "source_file": "database/milestone2/cache/44099a4c7b68111656a0a8337b5cc0dba5e664ff9baf4f428b75b93769c26650.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 64944
+    },
+    {
+      "roll": "19582G",
+      "url": "https://tallaghtcns.ie/wp-content/uploads/2024/09/Admission-Policy-for-2024.2025-Final.pdf",
+      "label": "Admission Policy for 2024.2025 Final",
+      "sha256": "1396564548e0006f56dc1cf6b0e7dd58047c461e4a3e8fd488315a005711f70e",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19582G_1396564548e0006f56dc.txt",
+      "source_file": "database/milestone2/cache/1396564548e0006f56dc1cf6b0e7dd58047c461e4a3e8fd488315a005711f70e.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 66470
+    },
+    {
+      "roll": "19582G",
+      "url": "https://tallaghtcns.ie/wp-content/uploads/2025/09/Tallaght-CNS-Admission-Policy-for-2025.2026.pdf",
+      "label": "Tallaght CNS Admission Policy for 2025.2026",
+      "sha256": "5a86869d8a3b6973d818074d6f93afaf677c6281a073f3019b8b24ef1b6110cb",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19582G_5a86869d8a3b6973d818.txt",
+      "source_file": "database/milestone2/cache/5a86869d8a3b6973d818074d6f93afaf677c6281a073f3019b8b24ef1b6110cb.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 69959
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://tallaghtcns.ie/policies/",
+      "label": "Policies",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://tallaghtcns.ie/parents/",
+      "label": "Parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://tallaghtcns.ie/page-sitemap.xml",
+      "label": "Public sitemap index child",
+      "via": "sitemap_child"
+    },
+    {
+      "url": "https://tallaghtcns.ie/",
+      "label": "School homepage",
+      "via": "home"
+    }
+  ],
+  "elapsed_seconds": 153.02,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:09:07+0000"
+}

@@ -1,0 +1,42 @@
+{
+  "task_id": "85d7e0e8c876f7a54ead560722071ce8",
+  "roll": "00697S",
+  "capture": {
+    "digest": "KNC7KCDS6X4YADJQT6E6ZITZJRIZEOWI",
+    "mimetype": "text/html",
+    "original": "http://www.saintbrigids.ie/Article/Junior-Infant-Admissions-20252026/21459/Index.html",
+    "statuscode": "200",
+    "timestamp": "20241030032843"
+  },
+  "original_url": "http://www.saintbrigids.ie/Article/Junior-Infant-Admissions-20252026/21459/Index.html",
+  "archived_url": "https://web.archive.org/web/20241030032843/http://www.saintbrigids.ie/Article/Junior-Infant-Admissions-20252026/21459/Index.html",
+  "attempted_at": "2026-11-08T12:33:31.777719+00:00",
+  "http_status": 200,
+  "headers": {
+    "Content-Type": "text/html; charset=utf-8",
+    "memento-datetime": "Wed, 30 Oct 2024 03:28:43 GMT"
+  },
+  "payload_sha256": "8681c58732307bc0eed255c70aa948e64fa2bcb004f1a5c8365ee50db530f106",
+  "bytes": 70552,
+  "format": "html",
+  "archive_link_candidates": [
+    {
+      "url": "https://web.archive.org/web/20241030032843/http://www.saintbrigids.ie/page/Junior-Infant-Admissions-20252026/19674/Index.html",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://web.archive.org/web/20241030032843/https://drive.google.com/file/d/1FkRGQVcHD_ceDW0vcwuHf9IK2KZgdagp/view?usp=sharing",
+      "label": "Admission Notice"
+    },
+    {
+      "url": "https://web.archive.org/web/20241030032843/https://drive.google.com/file/d/1fOuabw5R8M8ncNT2Vd-acu_fG2AkYA1I/view?usp=sharing",
+      "label": "Admission Notice for Autism Classes"
+    },
+    {
+      "url": "https://web.archive.org/web/20241030032843/https://drive.google.com/file/d/1_9y7LSJv2e4b0OxG_gQqGPErs35qEKj5/view?usp=sharing",
+      "label": "Admission Policy"
+    }
+  ],
+  "status": "archived_body_retrieved_requires_notice_evidence_review",
+  "text_file": "database/milestone2/evidence/archive_00697S_8681c58732307bc0eed2.txt"
+}

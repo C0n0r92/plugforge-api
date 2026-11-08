@@ -1,0 +1,25 @@
+{
+  "roll": "19302U",
+  "capture": {
+    "timestamp": "20260117091426",
+    "original": "https://www.virginmarybns.ie/enrolments.html",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "digest": "UHZOWRXAFHU4EHK5NNNGOHIKA2DV7HGP"
+  },
+  "original_url": "https://www.virginmarybns.ie/enrolments.html",
+  "archived_url": "https://web.archive.org/web/20260117091426/https://www.virginmarybns.ie/enrolments.html",
+  "attempted_at": "2026-11-08T12:51:02.834348+00:00",
+  "linked_from_capture": null,
+  "http_status": 200,
+  "headers": {
+    "Content-Type": "text/html; charset=UTF-8",
+    "memento-datetime": "Sat, 17 Jan 2026 09:14:26 GMT"
+  },
+  "bytes": 107402,
+  "payload_sha256": "59cd60159acce4496cd3fe84e126feb6653506ca6eb6949d4e7a0a43fa1dcb0a",
+  "format": "html",
+  "status": "archived_body_retrieved_requires_manual_evidence_review",
+  "text_file": "database/milestone2/evidence/exact_19302U_59cd60159acce4496cd3.txt",
+  "linked_document_candidates": []
+}

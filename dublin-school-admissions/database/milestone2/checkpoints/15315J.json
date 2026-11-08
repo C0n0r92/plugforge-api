@@ -1,0 +1,470 @@
+{
+  "roll": "15315J",
+  "status": "bounded_search_no_new_notice_found",
+  "attempts": [
+    {
+      "url": "https://www.stgeorgesns.com",
+      "final_url": "https://www.stgeorgesns.com",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.stgeorgesns.com/documentlink/262/?open=true",
+      "final_url": "https://view.officeapps.live.com/op/embed.aspx?src=https://swddoc.b-cdn.net/494/docletter/20251117075641_13_Admissions_notice_26-27.docx",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Admissions notice 26-27.docx"
+    },
+    {
+      "url": "https://www.stgeorgesns.com/documentlink/268/?open=true",
+      "final_url": "https://www.aladdin.ie/i/A13811803",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Special Class Enrolment"
+    },
+    {
+      "url": "https://view.officeapps.live.com/op/embed.aspx?src=https://storage.googleapis.com/siteassetsswd/494/docletter/20250926071928_51_Newest_Enrolment_and_Registration_25.docx",
+      "final_url": "https://view.officeapps.live.com/op/embed.aspx?src=https://storage.googleapis.com/siteassetsswd/494/docletter/20250926071928_51_Newest_Enrolment_and_Registration_25.docx",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "school enrolment policy"
+    },
+    {
+      "url": "https://www.stgeorgesns.com/documentlink/267/?open=true",
+      "final_url": "https://www.aladdin.ie/i/13811803",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Mainstream Class Enrolment"
+    },
+    {
+      "url": "https://www.stgeorgesns.com/sitemap.xml",
+      "final_url": "https://www.stgeorgesns.com/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.stgeorgesns.com/securedoclink/28/?open=true",
+      "final_url": "https://www.stgeorgesns.com/cmsfiles/items/securedocs/doc000073202509161149001.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download"
+    },
+    {
+      "url": "https://www.stgeorgesns.com/parents/policies-925/",
+      "final_url": "https://www.stgeorgesns.com/parents/policies-925/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.stgeorgesns.com/documentlink/258/?open=true",
+      "final_url": "https://view.officeapps.live.com/op/embed.aspx?src=https://swddoc.b-cdn.net/494/docletter/20250926071928_51_Newest_Enrolment_and_Registration_25.docx",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Newest Enrolment and Registration 25.docx"
+    },
+    {
+      "url": "https://www.stgeorgesns.com/documentlink/257/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/494/docletter/20250926071729_7_Newest_Enrolment_and_Registration_25.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Newest Enrolment and Registration 25.pdf"
+    },
+    {
+      "url": "https://www.stgeorgesns.com/documentlink/136/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/494/docletter/20210325083159_33_Enrolment_Form.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Enrolment Form"
+    },
+    {
+      "url": "https://www.stgeorgesns.com/parents/policies-925/?googletranslate=true",
+      "final_url": "https://www.stgeorgesns.com/parents/policies-925/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stgeorgesns.com/parents/parents-association/",
+      "final_url": "https://www.stgeorgesns.com/parents/parents-association/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents' Association"
+    },
+    {
+      "url": "https://www.stgeorgesns.com/parents/parents-association/?googletranslate=true",
+      "final_url": "https://www.stgeorgesns.com/parents/parents-association/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stgeorgesns.com/parents/parents-association-contact/",
+      "final_url": "https://www.stgeorgesns.com/parents/parents-association-contact/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents' Association contact"
+    },
+    {
+      "url": "https://www.stgeorgesns.com/parents/parents-association-contact/?googletranslate=true",
+      "final_url": "https://www.stgeorgesns.com/parents/parents-association-contact/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stgeorgesns.com/parents/notification-of-pupil-absence/",
+      "final_url": "https://www.stgeorgesns.com/parents/notification-of-pupil-absence/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Notification of Pupil Absence"
+    },
+    {
+      "url": "https://www.stgeorgesns.com/parents/notification-of-pupil-absence/?googletranslate=true",
+      "final_url": "https://www.stgeorgesns.com/parents/notification-of-pupil-absence/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stgeorgesns.com/parents/calendar/?caltags=",
+      "final_url": "https://www.stgeorgesns.com/parents/calendar/?caltags=",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "View Calendar"
+    },
+    {
+      "url": "https://www.stgeorgesns.com/parents/calendar/?calyear=2026&calmonth=12&",
+      "final_url": "https://www.stgeorgesns.com/parents/calendar/?calyear=2026&calmonth=12&",
+      "status": "prior_exact_URL_access_denial_not_retried",
+      "via": "school_public_link",
+      "label": "December 2026"
+    },
+    {
+      "url": "https://www.stgeorgesns.com/parents/calendar/?calyear=2026&calmonth=10&",
+      "final_url": "https://www.stgeorgesns.com/parents/calendar/?calyear=2026&calmonth=10&",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": "October 2026"
+    },
+    {
+      "url": "https://www.stgeorgesns.com/parents/calendar/?caltags=&googletranslate=true",
+      "final_url": "https://www.stgeorgesns.com/parents/calendar/?caltags=&googletranslate=true",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stgeorgesns.com/parents/calendar/?calTable=true",
+      "final_url": "https://www.stgeorgesns.com/parents/calendar/?calTable=true",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stgeorgesns.com/parents/calendar/",
+      "final_url": "https://www.stgeorgesns.com/parents/calendar/",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": "Calendar"
+    }
+  ],
+  "documents": [],
+  "pending_links": [
+    {
+      "url": "https://www.stgeorgesns.com/parents/",
+      "label": "Parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stgeorgesns.com/documentlink/28/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stgeorgesns.com/documentlink/266/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stgeorgesns.com/documentlink/263/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stgeorgesns.com/documentlink/262/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stgeorgesns.com/documentlink/261/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stgeorgesns.com/documentlink/260/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stgeorgesns.com/documentlink/259/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stgeorgesns.com/documentlink/258/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stgeorgesns.com/documentlink/257/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stgeorgesns.com/documentlink/256/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stgeorgesns.com/documentlink/255/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stgeorgesns.com/documentlink/254/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stgeorgesns.com/documentlink/251/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stgeorgesns.com/documentlink/22/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stgeorgesns.com/documentlink/217/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stgeorgesns.com/documentlink/216/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stgeorgesns.com/documentlink/215/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stgeorgesns.com/documentlink/215/?open=true",
+      "label": "Administration Of Medication Request Form Parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stgeorgesns.com/documentlink/214/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stgeorgesns.com/documentlink/213/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stgeorgesns.com/documentlink/211/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stgeorgesns.com/documentlink/210/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stgeorgesns.com/documentlink/208/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stgeorgesns.com/documentlink/207/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stgeorgesns.com/documentlink/196/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stgeorgesns.com/documentlink/149/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stgeorgesns.com/documentlink/136/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stgeorgesns.com/documentlink/126/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stgeorgesns.com/documentlink/123/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stgeorgesns.com/admin/?open=/parents/policies-925/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stgeorgesns.com/admin/?open=/parents/policies-925/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stgeorgesns.com/admin/?open=/parents/parents-association/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stgeorgesns.com/admin/?open=/parents/parents-association/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stgeorgesns.com/admin/?open=/parents/parents-association-contact/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stgeorgesns.com/admin/?open=/parents/parents-association-contact/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stgeorgesns.com/admin/?open=/parents/notification-of-pupil-absence/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stgeorgesns.com/admin/?open=/parents/notification-of-pupil-absence/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stgeorgesns.com/admin/?open=/parents/calendar/?caltags=",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stgeorgesns.com/documentlink/149/?open=true",
+      "label": "Distance learning policy 2021",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stgeorgesns.com/documentlink/251/?open=true",
+      "label": "Intercultural Anti-Racism Policy 2024",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stgeorgesns.com/documentlink/28/?open=true",
+      "label": "Cyber Bullying Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stgeorgesns.com/documentlink/263/?open=true",
+      "label": "Parental Complaints Policy.docx.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stgeorgesns.com/documentlink/260/?open=true",
+      "label": "Whistleblowing Protected Disclosures Policy.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stgeorgesns.com/documentlink/256/?open=true",
+      "label": "Critical Incident Management Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stgeorgesns.com/documentlink/22/?open=true",
+      "label": "Attendance Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stgeorgesns.com/documentlink/217/?open=true",
+      "label": "SPHE Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stgeorgesns.com/documentlink/214/?open=true",
+      "label": "Administration of Medicines Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stgeorgesns.com/documentlink/213/?open=true",
+      "label": "Code of Conduct for Parents Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stgeorgesns.com/documentlink/211/?open=true",
+      "label": "Homework Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stgeorgesns.com/documentlink/210/?open=true",
+      "label": "Healthy Eating Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stgeorgesns.com/documentlink/208/?open=true",
+      "label": "Persistent Complaints and Harassment Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stgeorgesns.com/documentlink/207/?open=true",
+      "label": "School Uniform Policy.doc.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stgeorgesns.com/documentlink/196/?open=true",
+      "label": "RSE Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stgeorgesns.com/documentlink/126/?open=true",
+      "label": "COVID 19 Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stgeorgesns.com/documentlink/123/?open=true",
+      "label": "Acceptable Use Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stgeorgesns.com/cmsfiles/policies/privacy/",
+      "label": "Website Privacy Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stgeorgesns.com/cmsfiles/policies/cookie/",
+      "label": "Cookie Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 63.57,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:02:05+0000"
+}

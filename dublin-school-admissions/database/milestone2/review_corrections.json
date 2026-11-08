@@ -1,0 +1,35 @@
+{
+  "at": "2026-11-08T12:59:08.118011+00:00",
+  "timezone": "Europe/Dublin",
+  "internal_review_corrections_not_source_revisions": [
+    {
+      "cached_index": 7,
+      "roll": "15132B",
+      "payload_sha256": "4daedc1937537b9191cee86ece427c907db8f6289bf6ab9cf87a2fb78a745579",
+      "before": "Unspecified intake",
+      "after": "Second Class",
+      "proof": "Explicit source line22 says admission to2nd class2025; same actual archived PDF independently retrieved. Removed only two erroneous derived interpretation groups; all raw source/capture records retained. Correct groups and lineage regenerated from reviewed source."
+    },
+    {
+      "cached_index": 105,
+      "roll": "20535E",
+      "before": "actual_enrolments",
+      "after": "actual_admissions",
+      "proof": "Canonical metric retains the original explicitly enrolled count47, not acceptances; unsupported binary hash still makes it ineligible for payload-verified comparisons."
+    },
+    {
+      "cached_index": 108,
+      "roll": "18417J",
+      "before": "OCR pending",
+      "after": "direct visual review, no numerical capacity/table published",
+      "proof": "One-page visually reviewed scanned PDF; printed academic year2025/26 differs from filename2026/27."
+    },
+    {
+      "cached_index": 89,
+      "roll": "20223I",
+      "before": "OCR pending",
+      "after": "prior source payload unavailable, not OCR issue",
+      "proof": "No payload hash/text/file in source inventory; retain screenshot evidence separately."
+    }
+  ]
+}

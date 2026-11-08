@@ -1,0 +1,337 @@
+{
+  "roll": "17953F",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.edmondstownns.ie/applications-for-enrolment.html",
+      "final_url": "https://www.edmondstownns.ie/applications-for-enrolment.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Applications for Enrolment"
+    },
+    {
+      "url": "https://www.edmondstownns.ie/uploads/1/1/3/3/113387553/admissions_form_2025.pdf",
+      "final_url": "https://www.edmondstownns.ie/uploads/1/1/3/3/113387553/admissions_form_2025.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: Admissions Form For Junior Infants September 2026"
+    },
+    {
+      "url": "https://www.edmondstownns.ie/admissions.html",
+      "final_url": "https://www.edmondstownns.ie/admissions.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://www.edmondstownns.ie/uploads/1/1/3/3/113387553/admissions_form_junior_infants_2027.pdf",
+      "final_url": "https://www.edmondstownns.ie/uploads/1/1/3/3/113387553/admissions_form_junior_infants_2027.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: Admissions Form Junior Infants 2027"
+    },
+    {
+      "url": "https://www.edmondstownns.ie/grandparents-day-2017.html",
+      "final_url": "https://www.edmondstownns.ie/grandparents-day-2017.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Grandparents' Day 2017"
+    },
+    {
+      "url": "https://www.edmondstownns.ie/grandparents-day-2018.html",
+      "final_url": "https://www.edmondstownns.ie/grandparents-day-2018.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Grandparents Day 2018"
+    },
+    {
+      "url": "https://www.edmondstownns.ie/uploads/1/1/3/3/113387553/application_form_senior_infants_-_sixth_class.pdf",
+      "final_url": "https://www.edmondstownns.ie/uploads/1/1/3/3/113387553/application_form_senior_infants_-_sixth_class.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: Admissions form for Senior Infants - 6th Class "
+    },
+    {
+      "url": "https://www.edmondstownns.ie/grandparents-day-2020.html",
+      "final_url": "https://www.edmondstownns.ie/grandparents-day-2020.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "GRANDPARENTS' DAY 2020"
+    },
+    {
+      "url": "https://www.edmondstownns.ie/sitemap.xml",
+      "final_url": "https://www.edmondstownns.ie/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.edmondstownns.ie/parents-association.html",
+      "final_url": "https://www.edmondstownns.ie/parents-association.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents' Association"
+    },
+    {
+      "url": "https://www.edmondstownns.ie/edmondstown-national-school-policies.html",
+      "final_url": "https://www.edmondstownns.ie/edmondstown-national-school-policies.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Edmondstown National School Policies"
+    },
+    {
+      "url": "https://www.edmondstownns.ie/uploads/1/1/3/3/113387553/safety_statement_2016.pdf",
+      "final_url": "https://www.edmondstownns.ie/uploads/1/1/3/3/113387553/safety_statement_2016.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: Safety Statement "
+    },
+    {
+      "url": "https://www.edmondstownns.ie/uploads/1/1/3/3/113387553/code_of_behaviour_2019.pdf",
+      "final_url": "https://www.edmondstownns.ie/uploads/1/1/3/3/113387553/code_of_behaviour_2019.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: Code of Behaviour 2019"
+    },
+    {
+      "url": "https://www.edmondstownns.ie/uploads/1/1/3/3/113387553/website_privacy_statement_2020.pdf",
+      "final_url": "https://www.edmondstownns.ie/uploads/1/1/3/3/113387553/website_privacy_statement_2020.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: Website Privacy Statement 2020"
+    },
+    {
+      "url": "https://www.edmondstownns.ie/uploads/1/1/3/3/113387553/admissions_policy_edmondstown_n.s._august_2020.pdf",
+      "final_url": "https://www.edmondstownns.ie/uploads/1/1/3/3/113387553/admissions_policy_edmondstown_n.s._august_2020.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: Admissions Policy August 2020"
+    },
+    {
+      "url": "https://www.edmondstownns.ie/uploads/1/1/3/3/113387553/updated_risk_assessment_for_covid_19_march_2021.pdf",
+      "final_url": "https://www.edmondstownns.ie/uploads/1/1/3/3/113387553/updated_risk_assessment_for_covid_19_march_2021.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: Updated Risk Assessment for Covid 19: March 2021"
+    },
+    {
+      "url": "https://www.edmondstownns.ie/uploads/1/1/3/3/113387553/logistics_plan_march_2021_edmondstown_living_document.pdf",
+      "final_url": "https://www.edmondstownns.ie/uploads/1/1/3/3/113387553/logistics_plan_march_2021_edmondstown_living_document.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: Updated Covid 19 Logistics Plan: March 2021"
+    },
+    {
+      "url": "https://www.edmondstownns.ie/uploads/1/1/3/3/113387553/logistics_plan_december_2021.pdf",
+      "final_url": "https://www.edmondstownns.ie/uploads/1/1/3/3/113387553/logistics_plan_december_2021.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: Covid 19 Logistics Plan January 2022"
+    },
+    {
+      "url": "https://www.edmondstownns.ie/uploads/1/1/3/3/113387553/logistics_plan_august_2021_edmondstown_living_document.pdf",
+      "final_url": "https://www.edmondstownns.ie/uploads/1/1/3/3/113387553/logistics_plan_august_2021_edmondstown_living_document.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: Logistics Plan August 2021 - Living Document"
+    },
+    {
+      "url": "https://www.edmondstownns.ie/uploads/1/1/3/3/113387553/covid_19_risk_assessment_december_2021.pdf",
+      "final_url": "https://www.edmondstownns.ie/uploads/1/1/3/3/113387553/covid_19_risk_assessment_december_2021.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: Covid 19 Risk Assessment December 2021"
+    },
+    {
+      "url": "https://www.edmondstownns.ie/uploads/1/1/3/3/113387553/covid_19_response_plan_version_2_march_2021.pdf",
+      "final_url": "https://www.edmondstownns.ie/uploads/1/1/3/3/113387553/covid_19_response_plan_version_2_march_2021.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: Updated Covid 19 Response Plan: March 2021"
+    },
+    {
+      "url": "https://www.edmondstownns.ie/uploads/1/1/3/3/113387553/covid_19_response_plan_december_2021.pdf",
+      "final_url": "https://www.edmondstownns.ie/uploads/1/1/3/3/113387553/covid_19_response_plan_december_2021.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: Covid 19 Response Plan December 2021"
+    },
+    {
+      "url": "https://www.edmondstownns.ie/uploads/1/1/3/3/113387553/new_child_safeguarding_statement_and_risk_assessment_march_2023.pdf",
+      "final_url": "https://www.edmondstownns.ie/uploads/1/1/3/3/113387553/new_child_safeguarding_statement_and_risk_assessment_march_2023.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: Child Safeguarding Statement & Risk Assessment March 2023"
+    },
+    {
+      "url": "https://www.edmondstownns.ie/uploads/1/1/3/3/113387553/new_child_safeguarding_statement___risk_assessment_september_2023.pdf",
+      "final_url": "https://www.edmondstownns.ie/uploads/1/1/3/3/113387553/new_child_safeguarding_statement___risk_assessment_september_2023.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: New Child Safeguarding Statement & Risk Assessment September 2023"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "17953F",
+      "url": "https://www.edmondstownns.ie/uploads/1/1/3/3/113387553/admissions_policy_edmondstown_n.s._august_2020.pdf",
+      "label": "Download file: Admissions Policy August 2020",
+      "sha256": "5d3ee1a8dc46dd233f639ae8c5d3312ba880db072a5cddf74e30d1103fd1fe57",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/17953F_5d3ee1a8dc46dd233f63.txt",
+      "source_file": "database/milestone2/cache/5d3ee1a8dc46dd233f639ae8c5d3312ba880db072a5cddf74e30d1103fd1fe57.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 27960
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.edmondstownns.ie/uploads/1/1/3/3/113387553/admissions_policy_edmondstown_n.s_january_2023.pdf",
+      "label": "Download file: Admissions Policy 2023",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.edmondstownns.ie/uploads/1/1/3/3/113387553/new_child_safeguarding_statement___risk_assessment_september_2024.pdf",
+      "label": "Download file: New Child Safeguarding Statement & Risk Assessment October 2024",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.edmondstownns.ie/uploads/1/1/3/3/113387553/national_parental_complaints_procedure.pdf",
+      "label": "Download file: National Parental Complaints Procedure Jan 2024",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.edmondstownns.ie/uploads/1/1/3/3/113387553/code_of_behaviour_2024.pdf",
+      "label": "Download file: Code of Behaviour 2024",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.edmondstownns.ie/uploads/1/1/3/3/113387553/new_child_safeguarding_statement___risk_assessment_september_2025.pdf",
+      "label": "Download file: Reviewed Child Safeguarding Statement & Risk Assessment March 2026",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.edmondstownns.ie/uploads/1/1/3/3/113387553/school_response_plan_living_document_bom.pdf",
+      "label": "Download file: Covid 19 School Response Plan - Living Document",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.edmondstownns.ie/uploads/1/1/3/3/113387553/risk_assessment_for_covid_19_-_living_document.pdf",
+      "label": "Download file: Covid 19 Risk Assessment - Living Document",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.edmondstownns.ie/uploads/1/1/3/3/113387553/policy_-_ethos_sept_2010.pdf",
+      "label": "Download file: Ethos Policy ",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.edmondstownns.ie/uploads/1/1/3/3/113387553/logistics_plan_edmondstown_living_document.pdf",
+      "label": "Download file: Covid 19 Logistics Plan - Living Document",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.edmondstownns.ie/uploads/1/1/3/3/113387553/religious_education_policy_2018.pdf",
+      "label": "Download file: Religious Education Policy 2018",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.edmondstownns.ie/uploads/1/1/3/3/113387553/data_protection_policy_may_2018.pdf",
+      "label": "Download file: Data Protection Policy May 2018",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.edmondstownns.ie/uploads/1/1/3/3/113387553/acceptable_use_policy_june_2020.pdf",
+      "label": "Download file: Acceptable Use Policy June 2020",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.edmondstownns.ie/downloads.html",
+      "label": "Downloads",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.edmondstownns.ie",
+      "label": "School homepage",
+      "via": "home"
+    },
+    {
+      "url": "https://www.edmondstownns.ie/uploads/1/1/3/3/113387553/covid_19_policy_statement_december_2021.pdf",
+      "label": "Download file: Covid 19 Policy Statement December 2021",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.edmondstownns.ie/uploads/1/1/3/3/113387553/acceptable_use_policy_2021.pdf",
+      "label": "Download file: Acceptable Use Policy 2021",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.edmondstownns.ie/uploads/1/1/3/3/113387553/supervision_policy_2022.pdf",
+      "label": "Download file: Supervision Policy 2022",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.edmondstownns.ie/uploads/1/1/3/3/113387553/administrationofmedicinespolicy_2022.pdf",
+      "label": "Download file: Administration of Medicines Policy 2022",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.edmondstownns.ie/uploads/1/1/3/3/113387553/homework_policy_sept_2023.pdf",
+      "label": "Download file: Homework Policy September 2023",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.edmondstownns.ie/uploads/1/1/3/3/113387553/healthy_eating_policy_2023.pdf",
+      "label": "Download file: Healthy Eating Policy September 2023",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.edmondstownns.ie/uploads/1/1/3/3/113387553/anti_bullying_policy_2023.pdf",
+      "label": "Download file: Anti Bullying Policy 2023",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.edmondstownns.ie/uploads/1/1/3/3/113387553/sen_policy_january_2024.pdf",
+      "label": "Download file: SEN Policy 2024",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.edmondstownns.ie/uploads/1/1/3/3/113387553/assessment___recording_policy_edmondstown_n.s._2024.pdf",
+      "label": "Download file: Assessment Policy 2024",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.edmondstownns.ie/uploads/1/1/3/3/113387553/anti_bullying_policy_2024.pdf",
+      "label": "Download file: Anti Bullying Policy 2024",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.edmondstownns.ie/uploads/1/1/3/3/113387553/child_friendly_bi_cinealta_policy.pdf",
+      "label": "Download file: Child Friendly Bí Cineálta Policy August 2025",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.edmondstownns.ie/uploads/1/1/3/3/113387553/bí_cineálta_policy_august_2025.pdf",
+      "label": "Download file: Bí Cineálta Policy August 2025",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.edmondstownns.ie/uploads/1/1/3/3/113387553/child_friendly_bi_cinealta_policy_2026.pdf",
+      "label": "Download file: Child Friendly Bí Cineálta Policy 2026",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.edmondstownns.ie/uploads/1/1/3/3/113387553/bí_cineálta_policy_september_2026.pdf",
+      "label": "Download file: Bí Cineálta Policy September 2026",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.edmondstownns.ie/uploads/1/1/3/3/113387553/covid_19_policy_statement.pdf",
+      "label": "Download file: Covid 19 Policy Statement",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 69.85,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:40:45+0000"
+}

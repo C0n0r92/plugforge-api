@@ -1,0 +1,292 @@
+{
+  "roll": "19510E",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://talbotsns.com/2025/10/21/annual-admissions-notice/",
+      "final_url": "https://talbotsns.com/2025/10/21/annual-admissions-notice/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Annual Admissions Notice"
+    },
+    {
+      "url": "https://talbotsns.com/2026/10/20/annual-admissions-notice-2/",
+      "final_url": "https://talbotsns.com/2026/10/20/annual-admissions-notice-2/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "https://talbotsns.com/registration/",
+      "final_url": "https://talbotsns.com/registration/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Annual Admission Notice"
+    },
+    {
+      "url": "https://talbotsns.com/2020/11/20/talbot-senior-school-application-for-admission-to-3rd-class-2021-now-open/",
+      "final_url": "https://talbotsns.com/2020/11/20/talbot-senior-school-application-for-admission-to-3rd-class-2021-now-open/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Talbot Senior School Application for Admission to 3rd Class 2021 Now Open!!"
+    },
+    {
+      "url": "https://talbotsns.com/2023/11/07/enrolment-open-now/",
+      "final_url": "https://talbotsns.com/2023/11/07/enrolment-open-now/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Enrolment open now!"
+    },
+    {
+      "url": "https://talbotsns.com/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://talbotsns.com/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://talbotsns.com/wp-content/uploads/2010/05/school-admission-participation-policy-20101.pdf",
+      "final_url": "https://talbotsns.com/wp-content/uploads/2010/05/school-admission-participation-policy-20101.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admission &amp; Participation Policy 2010"
+    },
+    {
+      "url": "https://talbotsns.com/wp-content/uploads/2010/05/Admission-and-participation-policy-2015.pdf",
+      "final_url": "https://talbotsns.com/wp-content/uploads/2010/05/Admission-and-participation-policy-2015.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admission and participation policy 2015"
+    },
+    {
+      "url": "https://talbotsns.com/wp-content/uploads/2020/11/Registartion-Form-2020.pdf",
+      "final_url": "https://talbotsns.com/wp-content/uploads/2020/11/Registartion-Form-2020.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Registartion Form 2020"
+    },
+    {
+      "url": "https://talbotsns.com/wp-content/uploads/2020/10/Admission-Policy-2020-2021-signed-and-dated.pdf",
+      "final_url": "https://talbotsns.com/wp-content/uploads/2020/10/Admission-Policy-2020-2021-signed-and-dated.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admission Policy 2020 2021 signed and dated"
+    },
+    {
+      "url": "https://talbotsns.com/wp-content/uploads/2020/04/Admissions-Policy-2020-Draft.pdf",
+      "final_url": "https://talbotsns.com/wp-content/uploads/2020/04/Admissions-Policy-2020-Draft.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Policy 2020 Draft"
+    },
+    {
+      "url": "https://talbotsns.com/?s=admission",
+      "final_url": "https://talbotsns.com/?s=admission",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Public site search form"
+    },
+    {
+      "url": "https://talbotsns.com/booklists/",
+      "final_url": "https://talbotsns.com/booklists/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Enrol Here!"
+    },
+    {
+      "url": "https://talbotsns.com/wp-content/uploads/2023/11/admissions-policy-2024-2025-3.pdf",
+      "final_url": "https://talbotsns.com/wp-content/uploads/2023/11/admissions-policy-2024-2025-3.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "admissions policy 2024 2025"
+    },
+    {
+      "url": "https://talbotsns.com/wp-content/uploads/2023/10/Admission-Policy-final-signed-and-dated-2.pdf",
+      "final_url": "https://talbotsns.com/wp-content/uploads/2023/10/Admission-Policy-final-signed-and-dated-2.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admission Policy final signed and dated"
+    },
+    {
+      "url": "https://talbotsns.com/wp-content/uploads/2023/05/Signed-ASD-admissions-policy-2.pdf",
+      "final_url": "https://talbotsns.com/wp-content/uploads/2023/05/Signed-ASD-admissions-policy-2.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Signed ASD admissions policy"
+    },
+    {
+      "url": "https://talbotsns.com/wp-content/uploads/2023/01/Talbot-SNS-Admission-Policy-approved-and-signed-1.pdf",
+      "final_url": "https://talbotsns.com/wp-content/uploads/2023/01/Talbot-SNS-Admission-Policy-approved-and-signed-1.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Talbot SNS Admission Policy approved and signed"
+    },
+    {
+      "url": "https://168.iworks.ie/wp-content/uploads/2023/11/admissions-policy-2024-2025-3.pdf",
+      "final_url": "https://168.iworks.ie/wp-content/uploads/2023/11/admissions-policy-2024-2025-3.pdf",
+      "status": "http_404",
+      "via": "school_public_link",
+      "label": "Admissions Policy"
+    },
+    {
+      "url": "https://168.iworks.ie/wp-content/uploads/2023/05/Signed-ASD-admissions-policy-2.pdf",
+      "final_url": "https://168.iworks.ie/wp-content/uploads/2023/05/Signed-ASD-admissions-policy-2.pdf",
+      "status": "http_404",
+      "via": "school_public_link",
+      "label": "ASD Class Admissions Policy"
+    },
+    {
+      "url": "https://talbotsns.com/wp-content/uploads/2025/09/Admissions-Policy-2025.pdf",
+      "final_url": "https://talbotsns.com/wp-content/uploads/2025/09/Admissions-Policy-2025.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Policy 2025"
+    },
+    {
+      "url": "https://talbotsns.com/2020/12/18/open-letter-from-cmo-tony-holohan-to-parents/",
+      "final_url": "https://talbotsns.com/2020/12/18/open-letter-from-cmo-tony-holohan-to-parents/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Open Letter from CMO Tony Holohan to Parents Next"
+    },
+    {
+      "url": "https://talbotsns.com/wp-content/uploads/2020/12/Open-Letter-to-Parents-DEC-17-Tony-H.pdf",
+      "final_url": "https://talbotsns.com/wp-content/uploads/2020/12/Open-Letter-to-Parents-DEC-17-Tony-H.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Open Letter to Parents DEC 17 Tony H"
+    },
+    {
+      "url": "https://talbotsns.com/2020/04/24/admissions-policy/",
+      "final_url": "https://talbotsns.com/2020/04/24/admissions-policy/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions Policy"
+    },
+    {
+      "url": "https://talbotsns.com/2023/10/27/for-parents-dates-and-events-re-confirmation-2024/",
+      "final_url": "https://talbotsns.com/2023/10/27/for-parents-dates-and-events-re-confirmation-2024/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "For Parents: Dates and Events re Confirmation 2024 Previous"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19510E",
+      "url": "https://talbotsns.com/2025/10/21/annual-admissions-notice/",
+      "label": "Annual Admissions Notice",
+      "sha256": "bb14db3671c501198054ff620a62043335fc866645167c3c7e661e7299d7efb8",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19510E_bb14db3671c501198054.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 208
+    },
+    {
+      "roll": "19510E",
+      "url": "https://talbotsns.com/2026/10/20/annual-admissions-notice-2/",
+      "label": "",
+      "sha256": "30299433391ab14dc176f6d9c5f784b74dafbbabf11eb6419104f71fdef79337",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19510E_30299433391ab14dc176.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 207
+    },
+    {
+      "roll": "19510E",
+      "url": "https://talbotsns.com/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "label": "Oldest public admission media (all dates)",
+      "sha256": "44fc2ea6c1ed5fc45d5025e6a57ae13ffa941f550f0e9d96baef1fdac8047761",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19510E_44fc2ea6c1ed5fc45d50.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 2465
+    },
+    {
+      "roll": "19510E",
+      "url": "https://talbotsns.com/wp-content/uploads/2020/04/Admissions-Policy-2020-Draft.pdf",
+      "label": "Admissions Policy 2020 Draft",
+      "sha256": "ca7f6e40ab2bb4af90aa5f23837573204a96f7b52644652fca58928e7d66fe47",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19510E_ca7f6e40ab2bb4af90aa.txt",
+      "source_file": "database/milestone2/cache/ca7f6e40ab2bb4af90aa5f23837573204a96f7b52644652fca58928e7d66fe47.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 25175
+    },
+    {
+      "roll": "19510E",
+      "url": "https://talbotsns.com/wp-content/uploads/2023/11/admissions-policy-2024-2025-3.pdf",
+      "label": "admissions policy 2024 2025",
+      "sha256": "cff6cf64a950a20235549ca459e50a1793949b032195ad1dda78bfeea99de729",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19510E_cff6cf64a950a2023554.txt",
+      "source_file": "database/milestone2/cache/cff6cf64a950a20235549ca459e50a1793949b032195ad1dda78bfeea99de729.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 24945
+    },
+    {
+      "roll": "19510E",
+      "url": "https://talbotsns.com/wp-content/uploads/2025/09/Admissions-Policy-2025.pdf",
+      "label": "Admissions Policy 2025",
+      "sha256": "ca41cb4b9654e529cc5a12afe763a991dee1a894a0df60ed37201a8b8d80a5b7",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19510E_ca41cb4b9654e529cc5a.txt",
+      "source_file": "database/milestone2/cache/ca41cb4b9654e529cc5a12afe763a991dee1a894a0df60ed37201a8b8d80a5b7.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 33460
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://talbotsns.com/2026/06/17/parents-please-read-findings-from-the-voice-of-talbots-parents-2026/",
+      "label": "Parents, Please Read: Findings from ‘The Voice of Talbot’s Parents, 2026’",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://talbotsns.com/2026/05/25/the-voice-of-talbots-parents-may-2026/",
+      "label": "The Voice of Talbot’s Parents, May 2026",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://talbotsns.com/2026/05/21/grandparents-day-2026/",
+      "label": "Grandparents Day 2026",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://talbotsns.com/tag/parents/",
+      "label": "parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://talbotsns.com/sitemap.xml",
+      "label": "Public sitemap",
+      "via": "sitemap_root"
+    },
+    {
+      "url": "https://talbotsns.com/school-plan/",
+      "label": "Policies",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://talbotsns.com/enrolment-policy/",
+      "label": "Enrolment Policy",
+      "via": "prior_public_admissions_landing"
+    },
+    {
+      "url": "https://talbotsns.com/category/parents/",
+      "label": "Parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://talbotsns.com/",
+      "label": "School homepage",
+      "via": "home"
+    }
+  ],
+  "elapsed_seconds": 80.28,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:38:39+0000"
+}

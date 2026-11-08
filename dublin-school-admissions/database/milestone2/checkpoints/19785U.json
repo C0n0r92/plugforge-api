@@ -1,0 +1,496 @@
+{
+  "roll": "19785U",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://bernadettes.ie/wp-content/uploads/2020/12/wellnessinfographic.png",
+      "final_url": "https://bernadettes.ie/wp-content/uploads/2020/12/wellnessinfographic.png",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "wellnessinfographic"
+    },
+    {
+      "url": "https://bernadettes.ie/2021/03/19/early-start-now-enrolling/",
+      "final_url": "https://bernadettes.ie/2021/03/19/early-start-now-enrolling/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "EARLY START – now enrolling"
+    },
+    {
+      "url": "https://bernadettes.ie/2021/03/19/early-start-now-enrolling/?share=jetpack-whatsapp",
+      "final_url": "https://api.whatsapp.com/send?text=EARLY%20START%20-%20now%20enrolling%20https%3A%2F%2Fbernadettes.ie%2F2021%2F03%2F19%2Fearly-start-now-enrolling%2F",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Share on WhatsApp (Opens in new window) WhatsApp"
+    },
+    {
+      "url": "https://bernadettes.ie/2022/04/10/admissions-for-2022-2023-school-year/",
+      "final_url": "https://bernadettes.ie/2022/04/10/admissions-for-2022-2023-school-year/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "ADMISSIONS for 2022 – 2023  SCHOOL YEAR"
+    },
+    {
+      "url": "https://bernadettes.ie/2022/04/10/admissions-for-2022-2023-school-year/?share=jetpack-whatsapp",
+      "final_url": "https://api.whatsapp.com/send?text=ADMISSIONS%20for%202022%20-%202023%20%20SCHOOL%20YEAR%20https%3A%2F%2Fbernadettes.ie%2F2022%2F04%2F10%2Fadmissions-for-2022-2023-school-year%2F",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Share on WhatsApp (Opens in new window) WhatsApp"
+    },
+    {
+      "url": "https://bernadettes.ie/wp-content/uploads/2023/05/admission.png",
+      "final_url": "https://bernadettes.ie/wp-content/uploads/2023/05/admission.png",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "admission"
+    },
+    {
+      "url": "https://bernadettes.ie/wp-content/uploads/2024/11/admission-2.jpg",
+      "final_url": "https://bernadettes.ie/wp-content/uploads/2024/11/admission-2.jpg",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "admission 2"
+    },
+    {
+      "url": "https://bernadettes.ie/wp-content/uploads/2024/11/admission-1.jpg",
+      "final_url": "https://bernadettes.ie/wp-content/uploads/2024/11/admission-1.jpg",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "admission 1"
+    },
+    {
+      "url": "https://bernadettes.ie/2025/11/10/admissions/",
+      "final_url": "https://bernadettes.ie/2025/11/10/admissions/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "ADMISSIONS"
+    },
+    {
+      "url": "https://bernadettes.ie/2025/11/10/admissions/?share=jetpack-whatsapp",
+      "final_url": "https://api.whatsapp.com/send?text=ADMISSIONS%20https%3A%2F%2Fbernadettes.ie%2F2025%2F11%2F10%2Fadmissions%2F",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Share on WhatsApp (Opens in new window) WhatsApp"
+    },
+    {
+      "url": "https://bernadettes.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://bernadettes.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://bernadettes.ie/wp-content/uploads/2025/11/ADMISSIONS-POLICY-St.-Bernadettes-SNS-19785U-updated-ASD-classes-criteria-approved-19th-NOVEMBER-2025-SIGNED-COPY.pdf",
+      "final_url": "https://bernadettes.ie/wp-content/uploads/2025/11/ADMISSIONS-POLICY-St.-Bernadettes-SNS-19785U-updated-ASD-classes-criteria-approved-19th-NOVEMBER-2025-SIGNED-COPY.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "ADMISSIONS POLICY-St. Bernadettes SNS 19785U-updated ASD classes criteria -approved 19th NOVEMBER 2025 -SIGNED COPY"
+    },
+    {
+      "url": "https://bernadettes.ie/wp-content/uploads/2025/11/ADMISSIONS-POLICY-St.-Bernadettes-SNS-19785U-updated-ASD-classes-criteria-7-NOVEMBER-2025-SIGNED-COPY.pdf",
+      "final_url": "https://bernadettes.ie/wp-content/uploads/2025/11/ADMISSIONS-POLICY-St.-Bernadettes-SNS-19785U-updated-ASD-classes-criteria-7-NOVEMBER-2025-SIGNED-COPY.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "ADMISSIONS POLICY &#8211; St. Bernadettes SNS 19785U &#8211; updated ASD classes criteria 7 NOVEMBER 2025 &#8211; SIGNED COPY"
+    },
+    {
+      "url": "https://bernadettes.ie/wp-content/uploads/2025/08/ADMISSIONS-POLICY-St.-Bernadettes-SNS-19785U-updated-ASD-classes-criteria-Sept.-2025.pdf",
+      "final_url": "https://bernadettes.ie/wp-content/uploads/2025/08/ADMISSIONS-POLICY-St.-Bernadettes-SNS-19785U-updated-ASD-classes-criteria-Sept.-2025.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "ADMISSIONS POLICY &#8211; St. Bernadettes SNS 19785U &#8211; updated ASD classes criteria Sept. 2025"
+    },
+    {
+      "url": "https://bernadettes.ie/enrolment/",
+      "final_url": "https://bernadettes.ie/enrolment/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Enrolment"
+    },
+    {
+      "url": "https://bernadettes.ie/wp-content/uploads/2026/10/6.-PRIVACY-NOTICE-Enrolment-Form-2027-2028.pdf",
+      "final_url": "https://bernadettes.ie/wp-content/uploads/2026/10/6.-PRIVACY-NOTICE-Enrolment-Form-2027-2028.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "6. PRIVACY NOTICE  to Parents/guardians  2027 – 2028"
+    },
+    {
+      "url": "https://bernadettes.ie/wp-content/uploads/2025/11/6.-Privacy-Notice-to-Parents-2026-2027.pdf",
+      "final_url": "https://bernadettes.ie/wp-content/uploads/2025/11/6.-Privacy-Notice-to-Parents-2026-2027.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "6. Privacy Notice to Parents 2026-2027"
+    },
+    {
+      "url": "https://bernadettes.ie/wp-content/uploads/2024/11/3.-SCHOOL-RULES-Enrolment-Form-2025-2026.pdf",
+      "final_url": "https://bernadettes.ie/wp-content/uploads/2024/11/3.-SCHOOL-RULES-Enrolment-Form-2025-2026.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "3. SCHOOL RULES - Enrolment Form 2025 - 2026"
+    },
+    {
+      "url": "https://bernadettes.ie/wp-content/uploads/2024/11/2.-REGISTRATION-Enrolment-Form-2025-2026-1.pdf",
+      "final_url": "https://bernadettes.ie/wp-content/uploads/2024/11/2.-REGISTRATION-Enrolment-Form-2025-2026-1.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "2. REGISTRATION - Enrolment Form 2025 - 2026"
+    },
+    {
+      "url": "https://bernadettes.ie/wp-content/uploads/2024/11/1.-APPLICATION-Enrolment-Form-2025-2026.pdf",
+      "final_url": "https://bernadettes.ie/wp-content/uploads/2024/11/1.-APPLICATION-Enrolment-Form-2025-2026.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "1. APPLICATION - Enrolment Form 2025 - 2026"
+    },
+    {
+      "url": "https://bernadettes.ie/wp-content/uploads/2024/01/5.-CONSENT-Enrolment-Form-2024-2025.pdf",
+      "final_url": "https://bernadettes.ie/wp-content/uploads/2024/01/5.-CONSENT-Enrolment-Form-2024-2025.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "5. CONSENT - Enrolment Form 2024 - 2025"
+    },
+    {
+      "url": "https://bernadettes.ie/wp-content/uploads/2024/01/4.-POD-Enrolment-Form-2024-2025.pdf",
+      "final_url": "https://bernadettes.ie/wp-content/uploads/2024/01/4.-POD-Enrolment-Form-2024-2025.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "4. POD - Enrolment Form 2024 - 2025"
+    },
+    {
+      "url": "https://bernadettes.ie/wp-content/uploads/2024/01/3.-SCHOOL-RULES-Enrolment-Form-2024-2025.pdf",
+      "final_url": "https://bernadettes.ie/wp-content/uploads/2024/01/3.-SCHOOL-RULES-Enrolment-Form-2024-2025.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "3. SCHOOL RULES - Enrolment Form 2024 - 2025"
+    },
+    {
+      "url": "https://bernadettes.ie/wp-content/uploads/2024/01/2.-REGISTRATION-Enrolment-Form-2024-2025.pdf",
+      "final_url": "https://bernadettes.ie/wp-content/uploads/2024/01/2.-REGISTRATION-Enrolment-Form-2024-2025.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "2. REGISTRATION - Enrolment Form 2024 - 2025"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19785U",
+      "url": "https://bernadettes.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "label": "Oldest public admission media (all dates)",
+      "sha256": "c7e15d422f04cec02116b09ef250fe1b531c9764d8f90aba4282b1d55153e8bb",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19785U_c7e15d422f04cec02116.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 2897
+    },
+    {
+      "roll": "19785U",
+      "url": "https://bernadettes.ie/wp-content/uploads/2025/11/ADMISSIONS-POLICY-St.-Bernadettes-SNS-19785U-updated-ASD-classes-criteria-approved-19th-NOVEMBER-2025-SIGNED-COPY.pdf",
+      "label": "ADMISSIONS POLICY-St. Bernadettes SNS 19785U-updated ASD classes criteria -approved 19th NOVEMBER 2025 -SIGNED COPY",
+      "sha256": "e0049632165ff7abcc7c7ce5db2c0bc83fb7cce899ea736273e927600dd6b1dd",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19785U_e0049632165ff7abcc7c.txt",
+      "source_file": "database/milestone2/cache/e0049632165ff7abcc7c7ce5db2c0bc83fb7cce899ea736273e927600dd6b1dd.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 32736
+    },
+    {
+      "roll": "19785U",
+      "url": "https://bernadettes.ie/wp-content/uploads/2025/11/ADMISSIONS-POLICY-St.-Bernadettes-SNS-19785U-updated-ASD-classes-criteria-7-NOVEMBER-2025-SIGNED-COPY.pdf",
+      "label": "ADMISSIONS POLICY &#8211; St. Bernadettes SNS 19785U &#8211; updated ASD classes criteria 7 NOVEMBER 2025 &#8211; SIGNED COPY",
+      "sha256": "5940f1636dd8a726cd2ff98c94f09cdca69733a3d472534ca2c33f33ec79d46b",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19785U_5940f1636dd8a726cd2f.txt",
+      "source_file": "database/milestone2/cache/5940f1636dd8a726cd2ff98c94f09cdca69733a3d472534ca2c33f33ec79d46b.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 32733
+    },
+    {
+      "roll": "19785U",
+      "url": "https://bernadettes.ie/wp-content/uploads/2025/08/ADMISSIONS-POLICY-St.-Bernadettes-SNS-19785U-updated-ASD-classes-criteria-Sept.-2025.pdf",
+      "label": "ADMISSIONS POLICY &#8211; St. Bernadettes SNS 19785U &#8211; updated ASD classes criteria Sept. 2025",
+      "sha256": "845132b211711284a20df6f8a0a9944c43dc5248677fdd3bee7196137a0d55f2",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19785U_845132b211711284a20d.txt",
+      "source_file": "database/milestone2/cache/845132b211711284a20df6f8a0a9944c43dc5248677fdd3bee7196137a0d55f2.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 32986
+    },
+    {
+      "roll": "19785U",
+      "url": "https://bernadettes.ie/enrolment/",
+      "label": "Enrolment",
+      "sha256": "22641249dc64731480da029a1d9ec531c1737f8bcad662ed928e77b889672b89",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19785U_22641249dc64731480da.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 4050
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://bernadettes.ie/wp-content/uploads/2024/01/1.-APPLICATION-Enrolment-Form-2024-2025.pdf",
+      "label": "1. APPLICATION - Enrolment Form 2024 - 2025",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://bernadettes.ie/wp-content/uploads/2025/11/5.-CONSENT-Enrolment-Form-2026-2027.pdf",
+      "label": "5. CONSENT - Enrolment Form 2026 - 2027",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://bernadettes.ie/wp-content/uploads/2025/11/4.-POD-Enrolment-Form-2026-2027.pdf",
+      "label": "4. POD - Enrolment Form 2026 - 2027",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://bernadettes.ie/wp-content/uploads/2025/11/3.-SCHOOL-RULES-Enrolment-Form-2026-2027.pdf",
+      "label": "3. SCHOOL RULES - Enrolment Form 2026 - 2027",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://bernadettes.ie/wp-content/uploads/2025/11/2.-REGISTRATION-Enrolment-Form-2026-2027.pdf",
+      "label": "2. REGISTRATION - Enrolment Form 2026 - 2027",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://bernadettes.ie/wp-content/uploads/2025/11/1.-APPLICATION-Enrolment-Form-2026-2027.pdf",
+      "label": "1. APPLICATION - Enrolment Form 2026 - 2027",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://bernadettes.ie/wp-content/uploads/2025/08/5.-CONSENT-Enrolment-Form-2025-2026.pdf",
+      "label": "5. CONSENT - Enrolment Form 2025 - 2026",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://bernadettes.ie/wp-content/uploads/2025/08/4.-POD-Enrolment-Form-2025-2026.pdf",
+      "label": "4. POD - Enrolment Form 2025 - 2026",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://bernadettes.ie/wp-content/uploads/2026/10/5.-CONSENT-Enrolment-Form-2027-2028.pdf",
+      "label": "5. CONSENT – Enrolment Form 2027 – 2028",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://bernadettes.ie/wp-content/uploads/2026/10/4.-POD-Enrolment-Form-2027-2028.pdf",
+      "label": "4. POD – Enrolment Form 2027 – 2028",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://bernadettes.ie/wp-content/uploads/2026/10/3.-SCHOOL-RULES-Enrolment-Form-2027-2028.pdf",
+      "label": "3. SCHOOL RULES – Enrolment Form 2027 – 2028",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://bernadettes.ie/wp-content/uploads/2026/10/2.-REGISTRATION-Enrolment-Form-2027-2028.pdf",
+      "label": "2. REGISTRATION – Enrolment Form 2027 – 2028",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://bernadettes.ie/wp-content/uploads/2026/10/1.-APPLICATION-Enrolment-Form-2027-2028.pdf",
+      "label": "APPLICATION – Enrolment Form 2027 – 2028",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://bernadettes.ie/enrolment/?share=jetpack-whatsapp",
+      "label": "Share on WhatsApp (Opens in new window) WhatsApp",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://bernadettes.ie/?s=admission",
+      "label": "Public site search form",
+      "via": "prior_public_admissions_landing"
+    },
+    {
+      "url": "https://bernadettes.ie/wp-content/uploads/2020/06/admissions-policy-photo.jpg",
+      "label": "admissions-policy-photo",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://bernadettes.ie/wellbeing-videos-for-parents/",
+      "label": "Well-being Videos for Parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://bernadettes.ie/tips-for-parents/",
+      "label": "Tips for Parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://bernadettes.ie/sitemap.xml",
+      "label": "Public sitemap",
+      "via": "sitemap_root"
+    },
+    {
+      "url": "https://bernadettes.ie/return-to-education-facility-parental-declaration-form/",
+      "label": "Parental Declaration Form",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://bernadettes.ie/parents/",
+      "label": "Parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://bernadettes.ie/parents-room/",
+      "label": "Parents Room",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://bernadettes.ie/parents-plus-course/",
+      "label": "Parents Plus Course",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://bernadettes.ie/parents-association/",
+      "label": "Parent’s Association",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://bernadettes.ie/news-sitemap.xml",
+      "label": "Public sitemap",
+      "via": "sitemap_root"
+    },
+    {
+      "url": "https://bernadettes.ie/links-for-parents/",
+      "label": "Links For Parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://bernadettes.ie/downloads/",
+      "label": "Policies",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://bernadettes.ie/covid-19-policies/",
+      "label": "Covid-19 Policies",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://bernadettes.ie/courses-for-parents/",
+      "label": "Courses for Parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://bernadettes.ie/child-protection-documents/",
+      "label": "Child Protection Documents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://bernadettes.ie/advice-for-parents-about-childs-health/",
+      "label": "Advice for parents about child’s health",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://bernadettes.ie/admissions-policy/",
+      "label": "Admissions  Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://bernadettes.ie",
+      "label": "School homepage",
+      "via": "home"
+    },
+    {
+      "url": "https://bernadettes.ie/whistleblowing-policy/",
+      "label": "Whistleblowing Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://bernadettes.ie/team-teaching-policy/",
+      "label": "Team Teaching Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://bernadettes.ie/substance-use-policy/",
+      "label": "Substance Use Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://bernadettes.ie/special-education-policy/",
+      "label": "Special Education Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://bernadettes.ie/records-retention-policy/",
+      "label": "Records Retention Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://bernadettes.ie/rainy-day-policy/",
+      "label": "Rainy Day Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://bernadettes.ie/mobile-phone-policy/",
+      "label": "Mobile Phone Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://bernadettes.ie/jewellery-policy/",
+      "label": "Jewellery/accessories Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://bernadettes.ie/internet-acceptable-use-policy-aup-2/",
+      "label": "Internet Acceptable Use Policy  (AUP)",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://bernadettes.ie/information-security-policy-on-line-payments/",
+      "label": "Information Security Policy – on-line payments",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://bernadettes.ie/homework-policy/",
+      "label": "Homework Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://bernadettes.ie/healthy-lunches-policy/",
+      "label": "Healthy Lunches Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://bernadettes.ie/health-safety-policy/",
+      "label": "Health & Safety Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://bernadettes.ie/data-protection-policy/",
+      "label": "Data Protection Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://bernadettes.ie/critical-incident-policy/",
+      "label": "Critical Incident Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://bernadettes.ie/complaints-procedure-policy/",
+      "label": "Complaints Procedure Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://bernadettes.ie/code-of-behaviour-policy/",
+      "label": "Code of Behaviour Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://bernadettes.ie/attendance-2/",
+      "label": "Attendance Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://bernadettes.ie/anti-bullying-policy-3/",
+      "label": "Anti-Bullying Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 70.08,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:39:49+0000"
+}

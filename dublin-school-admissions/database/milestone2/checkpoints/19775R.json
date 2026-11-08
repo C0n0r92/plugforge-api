@@ -1,0 +1,387 @@
+{
+  "roll": "19775R",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.knockmorejns.ie/wp-content/uploads/2026/10/Admissions-for-Autism-Class-Statement-2027_28-.docx",
+      "final_url": "https://www.knockmorejns.ie/wp-content/uploads/2026/10/Admissions-for-Autism-Class-Statement-2027_28-.docx",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://www.knockmorejns.ie/pre-enrollment/",
+      "final_url": "https://www.knockmorejns.ie/pre-enrollment/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Pre-Enrollment"
+    },
+    {
+      "url": "https://www.knockmorejns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://www.knockmorejns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://www.knockmorejns.ie/wp-content/uploads/2020/10/Admissions-for-ASD-Statement-2021_22.pdf",
+      "final_url": "https://www.knockmorejns.ie/wp-content/uploads/2020/10/Admissions-for-ASD-Statement-2021_22.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions-for-ASD-Statement-2021_22"
+    },
+    {
+      "url": "https://www.knockmorejns.ie/wp-content/uploads/2020/10/Admissions-for-ASD-Statement-2021_22-2.pdf",
+      "final_url": "https://www.knockmorejns.ie/wp-content/uploads/2020/10/Admissions-for-ASD-Statement-2021_22-2.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions-for-ASD-Statement-2021_22-2"
+    },
+    {
+      "url": "https://www.knockmorejns.ie/wp-content/uploads/2021/10/Admissions-for-ASD-Statement-2022_23-Google-Docs.pdf",
+      "final_url": "https://www.knockmorejns.ie/wp-content/uploads/2021/10/Admissions-for-ASD-Statement-2022_23-Google-Docs.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions-for-ASD-Statement-2022_23-Google-Docs"
+    },
+    {
+      "url": "https://www.knockmorejns.ie/wp-content/uploads/2021/10/Admissions-for-ASD-Statement-2022_23-Google-Docs-1.pdf",
+      "final_url": "https://www.knockmorejns.ie/wp-content/uploads/2021/10/Admissions-for-ASD-Statement-2022_23-Google-Docs-1.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions-for-ASD-Statement-2022_23-Google-Docs-1"
+    },
+    {
+      "url": "https://www.knockmorejns.ie/wp-content/uploads/2022/09/Admissions-for-ASD-Statement-2023_24.pdf",
+      "final_url": "https://www.knockmorejns.ie/wp-content/uploads/2022/09/Admissions-for-ASD-Statement-2023_24.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions-for-ASD-Statement-2023_24"
+    },
+    {
+      "url": "https://www.knockmorejns.ie/wp-content/uploads/2023/09/Admissions-for-ASD-Statement-2024_25.pdf",
+      "final_url": "https://www.knockmorejns.ie/wp-content/uploads/2023/09/Admissions-for-ASD-Statement-2024_25.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions-for-ASD-Statement-2024_25"
+    },
+    {
+      "url": "https://www.knockmorejns.ie/wp-content/uploads/2023/09/Admissions-for-ASD-Statement-2024_25-1.pdf",
+      "final_url": "https://www.knockmorejns.ie/wp-content/uploads/2023/09/Admissions-for-ASD-Statement-2024_25-1.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions-for-ASD-Statement-2024_25-1"
+    },
+    {
+      "url": "https://www.knockmorejns.ie/wp-content/uploads/2024/11/Admissions-for-ASD-Statement-2025_26-1.pdf",
+      "final_url": "https://www.knockmorejns.ie/wp-content/uploads/2024/11/Admissions-for-ASD-Statement-2025_26-1.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions  for ASD Statement 2025_26 (1)"
+    },
+    {
+      "url": "https://www.knockmorejns.ie/wp-content/uploads/2024/10/Admissions-for-ASD-Statement-2025_26-2.pdf",
+      "final_url": "https://www.knockmorejns.ie/wp-content/uploads/2024/10/Admissions-for-ASD-Statement-2025_26-2.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions  for ASD Statement 2025_26 (2)"
+    },
+    {
+      "url": "https://www.knockmorejns.ie/wp-content/uploads/2024/06/Admissions-for-ASD-Statement-2025_26.pdf",
+      "final_url": "https://www.knockmorejns.ie/wp-content/uploads/2024/06/Admissions-for-ASD-Statement-2025_26.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions-for-ASD-Statement-2025_26"
+    },
+    {
+      "url": "https://www.knockmorejns.ie/wp-content/uploads/2025/09/Admissions-for-ASD-Statement-2026_27-Most-recent.pdf",
+      "final_url": "https://www.knockmorejns.ie/wp-content/uploads/2025/09/Admissions-for-ASD-Statement-2026_27-Most-recent.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions  for ASD Statement 2026_27 Most recent"
+    },
+    {
+      "url": "https://www.knockmorejns.ie/wp-content/uploads/2025/09/Admissions-for-ASD-Statement-2026_27-Most-recent-1.pdf",
+      "final_url": "https://www.knockmorejns.ie/wp-content/uploads/2025/09/Admissions-for-ASD-Statement-2026_27-Most-recent-1.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions  for ASD Statement 2026_27 Most recent"
+    },
+    {
+      "url": "https://www.knockmorejns.ie/wp-content/uploads/2026/06/Admissions-for-Autism-Class-Statement-2027_28-1.pdf",
+      "final_url": "https://www.knockmorejns.ie/wp-content/uploads/2026/06/Admissions-for-Autism-Class-Statement-2027_28-1.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions  for Autism Class Statement 2027_28  (1)"
+    },
+    {
+      "url": "https://www.knockmorejns.ie/wp-content/uploads/2020/10/Dublin-Diocesan-Admission-Policy-Sept-2020-1.pdf",
+      "final_url": "https://www.knockmorejns.ie/wp-content/uploads/2020/10/Dublin-Diocesan-Admission-Policy-Sept-2020-1.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Dublin-Diocesan-Admission-Policy-Sept-2020-1"
+    },
+    {
+      "url": "https://www.knockmorejns.ie/admissions/",
+      "final_url": "https://www.knockmorejns.ie/admissions/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://www.knockmorejns.ie/wp-content/uploads/2026/10/ASD-Application-to-Enrol-Form.docx",
+      "final_url": "https://www.knockmorejns.ie/wp-content/uploads/2026/10/ASD-Application-to-Enrol-Form.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "ASD Application to Enrol Form"
+    },
+    {
+      "url": "https://www.knockmorejns.ie/wp-content/uploads/2021/10/Dublin-Diocesan-Admission-Policy-Sept-2021-Google-Docs.pdf",
+      "final_url": "https://www.knockmorejns.ie/wp-content/uploads/2021/10/Dublin-Diocesan-Admission-Policy-Sept-2021-Google-Docs.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Dublin-Diocesan-Admission-Policy-Sept-2021-Google-Docs"
+    },
+    {
+      "url": "https://www.knockmorejns.ie/wp-content/uploads/2021/10/Dublin-Diocesan-Admission-Policy-Sept-2021-Google-Docs-1.pdf",
+      "final_url": "https://www.knockmorejns.ie/wp-content/uploads/2021/10/Dublin-Diocesan-Admission-Policy-Sept-2021-Google-Docs-1.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Dublin-Diocesan-Admission-Policy-Sept-2021-Google-Docs-1"
+    },
+    {
+      "url": "https://www.knockmorejns.ie/wp-content/uploads/2023/09/Dublin-Diocesan-Admission-Policy-Sept-2024_25.pdf",
+      "final_url": "https://www.knockmorejns.ie/wp-content/uploads/2023/09/Dublin-Diocesan-Admission-Policy-Sept-2024_25.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Dublin-Diocesan-Admission-Policy-Sept-2024_25"
+    },
+    {
+      "url": "https://www.knockmorejns.ie/wp-content/uploads/2024/10/Dublin-Diocesan-Admission-Policy-Sept-2025_26.pdf",
+      "final_url": "https://www.knockmorejns.ie/wp-content/uploads/2024/10/Dublin-Diocesan-Admission-Policy-Sept-2025_26.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "_ Dublin Diocesan Admission Policy Sept 2025_26"
+    },
+    {
+      "url": "https://www.knockmorejns.ie/wp-content/uploads/2024/06/Copy-of-Dublin-Diocesan-Admission-Policy-Sept-2025_26.pdf",
+      "final_url": "https://www.knockmorejns.ie/wp-content/uploads/2024/06/Copy-of-Dublin-Diocesan-Admission-Policy-Sept-2025_26.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Copy-of-Dublin-Diocesan-Admission-Policy-Sept-2025_26"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19775R",
+      "url": "https://www.knockmorejns.ie/wp-content/uploads/2026/10/Admissions-for-Autism-Class-Statement-2027_28-.docx",
+      "label": "Prior school admissions section",
+      "sha256": "c139de60f82054f19038107291add28e07e090ebcc0d6f1cc454a52d8e4d0c5b",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/19775R_c139de60f82054f19038.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 21505
+    },
+    {
+      "roll": "19775R",
+      "url": "https://www.knockmorejns.ie/wp-content/uploads/2020/10/Admissions-for-ASD-Statement-2021_22.pdf",
+      "label": "Admissions-for-ASD-Statement-2021_22",
+      "sha256": "7ca97cf7fe017257f097d3d6ee8a8fbb6510c51aa08b02c9879a153272c3da44",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19775R_7ca97cf7fe017257f097.txt",
+      "source_file": "database/milestone2/cache/7ca97cf7fe017257f097d3d6ee8a8fbb6510c51aa08b02c9879a153272c3da44.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 24353
+    },
+    {
+      "roll": "19775R",
+      "url": "https://www.knockmorejns.ie/wp-content/uploads/2020/10/Admissions-for-ASD-Statement-2021_22-2.pdf",
+      "label": "Admissions-for-ASD-Statement-2021_22-2",
+      "sha256": "d71eb5abc5beeb497a2184fefdb5452053ea4b4c7516f1bbb710301851d4a0a5",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19775R_d71eb5abc5beeb497a21.txt",
+      "source_file": "database/milestone2/cache/d71eb5abc5beeb497a2184fefdb5452053ea4b4c7516f1bbb710301851d4a0a5.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 24456
+    },
+    {
+      "roll": "19775R",
+      "url": "https://www.knockmorejns.ie/wp-content/uploads/2021/10/Admissions-for-ASD-Statement-2022_23-Google-Docs.pdf",
+      "label": "Admissions-for-ASD-Statement-2022_23-Google-Docs",
+      "sha256": "b0465d0f2d0fd334f5a5659f4b4570bc492c8778a8eae279d0ebe98eabc217e1",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19775R_b0465d0f2d0fd334f5a5.txt",
+      "source_file": "database/milestone2/cache/b0465d0f2d0fd334f5a5659f4b4570bc492c8778a8eae279d0ebe98eabc217e1.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 24428
+    },
+    {
+      "roll": "19775R",
+      "url": "https://www.knockmorejns.ie/wp-content/uploads/2022/09/Admissions-for-ASD-Statement-2023_24.pdf",
+      "label": "Admissions-for-ASD-Statement-2023_24",
+      "sha256": "3c224aedf88afe1db5b8ce77ff8d5c42afd5ef2dfe740a3d2d27a9cb1f889b6d",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19775R_3c224aedf88afe1db5b8.txt",
+      "source_file": "database/milestone2/cache/3c224aedf88afe1db5b8ce77ff8d5c42afd5ef2dfe740a3d2d27a9cb1f889b6d.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 24432
+    },
+    {
+      "roll": "19775R",
+      "url": "https://www.knockmorejns.ie/wp-content/uploads/2023/09/Admissions-for-ASD-Statement-2024_25.pdf",
+      "label": "Admissions-for-ASD-Statement-2024_25",
+      "sha256": "011697cc59f2811a703db40f91a7f07fd61ef210d9892ac33992bc9438d5e342",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19775R_011697cc59f2811a703d.txt",
+      "source_file": "database/milestone2/cache/011697cc59f2811a703db40f91a7f07fd61ef210d9892ac33992bc9438d5e342.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 24432
+    },
+    {
+      "roll": "19775R",
+      "url": "https://www.knockmorejns.ie/wp-content/uploads/2024/11/Admissions-for-ASD-Statement-2025_26-1.pdf",
+      "label": "Admissions  for ASD Statement 2025_26 (1)",
+      "sha256": "3e8867555386881eea4d23651a96b8f63482936bf04ba4aa2e0608474e27f0ce",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19775R_3e8867555386881eea4d.txt",
+      "source_file": "database/milestone2/cache/3e8867555386881eea4d23651a96b8f63482936bf04ba4aa2e0608474e27f0ce.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 23595
+    },
+    {
+      "roll": "19775R",
+      "url": "https://www.knockmorejns.ie/wp-content/uploads/2024/10/Admissions-for-ASD-Statement-2025_26-2.pdf",
+      "label": "Admissions  for ASD Statement 2025_26 (2)",
+      "sha256": "f2e9a5ab692611b1f675307eae5be2f85a0e3f15eb4f51c214c9c6cc0ef21179",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19775R_f2e9a5ab692611b1f675.txt",
+      "source_file": "database/milestone2/cache/f2e9a5ab692611b1f675307eae5be2f85a0e3f15eb4f51c214c9c6cc0ef21179.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 23595
+    },
+    {
+      "roll": "19775R",
+      "url": "https://www.knockmorejns.ie/wp-content/uploads/2024/06/Admissions-for-ASD-Statement-2025_26.pdf",
+      "label": "Admissions-for-ASD-Statement-2025_26",
+      "sha256": "1fc3b815033772c1df8a278335839ab67bd1944821c2dc8ff0db491ae3e075e8",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19775R_1fc3b815033772c1df8a.txt",
+      "source_file": "database/milestone2/cache/1fc3b815033772c1df8a278335839ab67bd1944821c2dc8ff0db491ae3e075e8.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 24018
+    },
+    {
+      "roll": "19775R",
+      "url": "https://www.knockmorejns.ie/wp-content/uploads/2025/09/Admissions-for-ASD-Statement-2026_27-Most-recent.pdf",
+      "label": "Admissions  for ASD Statement 2026_27 Most recent",
+      "sha256": "6a33e56793e4a3c5a635f9c4431e1777c0ac1a644150099b62cc608e7e6e3b69",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19775R_6a33e56793e4a3c5a635.txt",
+      "source_file": "database/milestone2/cache/6a33e56793e4a3c5a635f9c4431e1777c0ac1a644150099b62cc608e7e6e3b69.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 23941
+    },
+    {
+      "roll": "19775R",
+      "url": "https://www.knockmorejns.ie/wp-content/uploads/2026/06/Admissions-for-Autism-Class-Statement-2027_28-1.pdf",
+      "label": "Admissions  for Autism Class Statement 2027_28  (1)",
+      "sha256": "083f62bbfaa0b6da34619c5a5b133cf0efef0dd4a9e01f1f7df0949e07b783a5",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19775R_083f62bbfaa0b6da3461.txt",
+      "source_file": "database/milestone2/cache/083f62bbfaa0b6da34619c5a5b133cf0efef0dd4a9e01f1f7df0949e07b783a5.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 23776
+    },
+    {
+      "roll": "19775R",
+      "url": "https://www.knockmorejns.ie/wp-content/uploads/2020/10/Dublin-Diocesan-Admission-Policy-Sept-2020-1.pdf",
+      "label": "Dublin-Diocesan-Admission-Policy-Sept-2020-1",
+      "sha256": "104d0b4c39748d79d288df831a1d73d1b9a638d26c8f69e2a7a732c3723ea499",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19775R_104d0b4c39748d79d288.txt",
+      "source_file": "database/milestone2/cache/104d0b4c39748d79d288df831a1d73d1b9a638d26c8f69e2a7a732c3723ea499.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 24236
+    },
+    {
+      "roll": "19775R",
+      "url": "https://www.knockmorejns.ie/wp-content/uploads/2021/10/Dublin-Diocesan-Admission-Policy-Sept-2021-Google-Docs.pdf",
+      "label": "Dublin-Diocesan-Admission-Policy-Sept-2021-Google-Docs",
+      "sha256": "ad1a0d8d773f96fbd4480f883835eebe550dd9399f7cd2bc5f0fe6670aa2ffd5",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19775R_ad1a0d8d773f96fbd448.txt",
+      "source_file": "database/milestone2/cache/ad1a0d8d773f96fbd4480f883835eebe550dd9399f7cd2bc5f0fe6670aa2ffd5.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 24176
+    },
+    {
+      "roll": "19775R",
+      "url": "https://www.knockmorejns.ie/wp-content/uploads/2023/09/Dublin-Diocesan-Admission-Policy-Sept-2024_25.pdf",
+      "label": "Dublin-Diocesan-Admission-Policy-Sept-2024_25",
+      "sha256": "ae5341fc399d9c00c2201a05e6d977b6d00906097de581ecb696d011ac478a7e",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19775R_ae5341fc399d9c00c220.txt",
+      "source_file": "database/milestone2/cache/ae5341fc399d9c00c2201a05e6d977b6d00906097de581ecb696d011ac478a7e.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 24387
+    },
+    {
+      "roll": "19775R",
+      "url": "https://www.knockmorejns.ie/wp-content/uploads/2024/10/Dublin-Diocesan-Admission-Policy-Sept-2025_26.pdf",
+      "label": "_ Dublin Diocesan Admission Policy Sept 2025_26",
+      "sha256": "6ff33841946d00d0bafe5e91c721ea3d07240a438f71c603f6a7f6eb2f51c543",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19775R_6ff33841946d00d0bafe.txt",
+      "source_file": "database/milestone2/cache/6ff33841946d00d0bafe5e91c721ea3d07240a438f71c603f6a7f6eb2f51c543.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 24711
+    },
+    {
+      "roll": "19775R",
+      "url": "https://www.knockmorejns.ie/wp-content/uploads/2024/06/Copy-of-Dublin-Diocesan-Admission-Policy-Sept-2025_26.pdf",
+      "label": "Copy-of-Dublin-Diocesan-Admission-Policy-Sept-2025_26",
+      "sha256": "997b459999617e77562f59e9feedf8bcf08430c720f0f882f06258028a221166",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19775R_997b459999617e77562f.txt",
+      "source_file": "database/milestone2/cache/997b459999617e77562f59e9feedf8bcf08430c720f0f882f06258028a221166.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 24711
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.knockmorejns.ie/wp-content/uploads/2025/09/Dublin-Diocesan-Admission-Policy-Sept-2025_26-1.pdf",
+      "label": "_ Dublin Diocesan Admission Policy Sept 2025_26 (1)",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://www.knockmorejns.ie/wp-content/uploads/2025/09/Dublin-Diocesan-Admission-Policy-Sept-2025_26-1-1.pdf",
+      "label": "_ Dublin Diocesan Admission Policy Sept 2025_26 (1)",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://www.knockmorejns.ie/wp-content/uploads/2026/06/Dublin-Diocesan-Admission-Policy-Sept-2027_28-1.pdf",
+      "label": "_ Dublin Diocesan Admission Policy Sept 2027_28 (1)",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://www.knockmorejns.ie/policies/",
+      "label": "Policies",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.knockmorejns.ie/?feed=xmlsitemap42",
+      "label": "Public sitemap",
+      "via": "sitemap_root"
+    },
+    {
+      "url": "https://www.knockmorejns.ie",
+      "label": "School homepage",
+      "via": "home"
+    }
+  ],
+  "elapsed_seconds": 85.61,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:34:14+0000"
+}

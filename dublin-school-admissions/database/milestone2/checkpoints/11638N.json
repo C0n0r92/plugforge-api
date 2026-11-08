@@ -1,0 +1,228 @@
+{
+  "roll": "11638N",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.whitechurchns.biz/enrollment",
+      "final_url": "https://www.whitechurchns.biz/enrollment",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Enrolment"
+    },
+    {
+      "url": "https://www.whitechurchns.biz/_files/ugd/70c9cb_41a91bfb17f1476e835e45601a3dfd66.pdf",
+      "final_url": "https://12c36b9b-ffdf-2c3c-fed8-434a369ff44d.filesusr.com/ugd/70c9cb_41a91bfb17f1476e835e45601a3dfd66.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "5. Annual Admission Notice"
+    },
+    {
+      "url": "https://www.whitechurchns.biz/_files/ugd/70c9cb_caadb282624c42a68d6e5fac354c39fe.pdf",
+      "final_url": "https://12c36b9b-ffdf-2c3c-fed8-434a369ff44d.filesusr.com/ugd/70c9cb_caadb282624c42a68d6e5fac354c39fe.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "1. Notification of Intent to Enrol Form- Whitechurch National School"
+    },
+    {
+      "url": "https://www.whitechurchns.biz/_files/ugd/75f961_06c4f0b00dd5450fa6124e08d3f93280.pdf",
+      "final_url": "https://www.whitechurchns.biz/_files/ugd/75f961_06c4f0b00dd5450fa6124e08d3f93280.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "4. Enrolment/Admissions Policy June 2025"
+    },
+    {
+      "url": "https://www.whitechurchns.biz/_files/ugd/75f961_ec22a2a276c84befb58dc4b31fa384f9.pdf",
+      "final_url": "https://www.whitechurchns.biz/_files/ugd/75f961_ec22a2a276c84befb58dc4b31fa384f9.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "("
+    },
+    {
+      "url": "https://www.whitechurchns.biz/_files/ugd/75f961_44e7fc99d61e4b248957f1c288ae9ca8.pdf",
+      "final_url": "https://www.whitechurchns.biz/_files/ugd/75f961_44e7fc99d61e4b248957f1c288ae9ca8.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "(Complete this form well in advance of expected school start date)"
+    },
+    {
+      "url": "https://www.whitechurchns.biz/_files/ugd/75f961_2d86a021337a416a9a10c9457aec0581.pdf",
+      "final_url": "https://www.whitechurchns.biz/_files/ugd/75f961_2d86a021337a416a9a10c9457aec0581.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "3. Parish Boundary Map"
+    },
+    {
+      "url": "https://www.whitechurchns.biz/_files/ugd/75f961_15b8caead7be402e881fe064184942eb.pdf",
+      "final_url": "https://www.whitechurchns.biz/_files/ugd/75f961_15b8caead7be402e881fe064184942eb.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Your Child in the Primary School- A very useful information booklet for parents with children who will be starting in primary school."
+    },
+    {
+      "url": "https://www.whitechurchns.biz/_files/ugd/70c9cb_e1efdf66d23c4272bd8bdca072289108.pdf",
+      "final_url": "https://12c36b9b-ffdf-2c3c-fed8-434a369ff44d.filesusr.com/ugd/70c9cb_e1efdf66d23c4272bd8bdca072289108.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "2. Enrolment Application Form- Whitechurch National School"
+    },
+    {
+      "url": "https://www.whitechurchns.biz/_files/ugd/70c9cb_7c03eb45d62344b88b6c9b7006e32810.pdf",
+      "final_url": "https://12c36b9b-ffdf-2c3c-fed8-434a369ff44d.filesusr.com/ugd/70c9cb_7c03eb45d62344b88b6c9b7006e32810.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "Parent Leaflet on Church of Ireland Schools"
+    },
+    {
+      "url": "https://www.whitechurchns.biz/sitemap.xml",
+      "final_url": "https://www.whitechurchns.biz/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.whitechurchns.biz/policies",
+      "final_url": "https://www.whitechurchns.biz/policies",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.whitechurchns.biz/_files/ugd/75f961_8e2f1d87981c4bdf863473981984e372.pdf",
+      "final_url": "https://www.whitechurchns.biz/_files/ugd/75f961_8e2f1d87981c4bdf863473981984e372.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Presentation of Work Policy"
+    },
+    {
+      "url": "https://www.whitechurchns.biz/_files/ugd/70c9cb_4525b1dcb5674f3bb35874c32cc8e74e.pdf",
+      "final_url": "https://12c36b9b-ffdf-2c3c-fed8-434a369ff44d.filesusr.com/ugd/70c9cb_4525b1dcb5674f3bb35874c32cc8e74e.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "Parental Complaints Procedure"
+    },
+    {
+      "url": "https://www.whitechurchns.biz/plants",
+      "final_url": "https://www.whitechurchns.biz/plants",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents"
+    },
+    {
+      "url": "https://www.whitechurchns.biz/pages-sitemap.xml",
+      "final_url": "https://www.whitechurchns.biz/pages-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.whitechurchns.biz/links-for-parents",
+      "final_url": "https://www.whitechurchns.biz/links-for-parents",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Links for Parents"
+    },
+    {
+      "url": "https://www.whitechurchns.biz/",
+      "final_url": "https://www.whitechurchns.biz/",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.whitechurchns.biz/_files/ugd/75f961_ac337576479d4ce9b534f41a8505e507.pdf",
+      "final_url": "https://www.whitechurchns.biz/_files/ugd/75f961_ac337576479d4ce9b534f41a8505e507.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Anti Bullying Policy (Child Friendly Version)"
+    },
+    {
+      "url": "https://www.whitechurchns.biz/_files/ugd/75f961_5c314bafa9654b32af06c97ff836b003.pdf",
+      "final_url": "https://www.whitechurchns.biz/_files/ugd/75f961_5c314bafa9654b32af06c97ff836b003.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Homework Policy"
+    },
+    {
+      "url": "https://www.whitechurchns.biz/_files/ugd/75f961_4194ddb2ee4d4b87ac94b4e548b57b4d.pdf",
+      "final_url": "https://www.whitechurchns.biz/_files/ugd/75f961_4194ddb2ee4d4b87ac94b4e548b57b4d.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Code of Behaviour Policy"
+    },
+    {
+      "url": "https://www.whitechurchns.biz/_files/ugd/70c9cb_843fbffd8ce54da5a176abb55c9584b8.pdf",
+      "final_url": "https://12c36b9b-ffdf-2c3c-fed8-434a369ff44d.filesusr.com/ugd/70c9cb_843fbffd8ce54da5a176abb55c9584b8.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "Garda Vetting Policy"
+    },
+    {
+      "url": "https://www.whitechurchns.biz/_files/ugd/70c9cb_7e9cf616959e4807be78bd4c86bcc336.pdf",
+      "final_url": "https://12c36b9b-ffdf-2c3c-fed8-434a369ff44d.filesusr.com/ugd/70c9cb_7e9cf616959e4807be78bd4c86bcc336.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "Advertising and Commercialism Policy"
+    },
+    {
+      "url": "https://www.whitechurchns.biz/_files/ugd/70c9cb_7e4c90b116f545579ed8d791f524fb87.pdf",
+      "final_url": "https://12c36b9b-ffdf-2c3c-fed8-434a369ff44d.filesusr.com/ugd/70c9cb_7e4c90b116f545579ed8d791f524fb87.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "Mobile Phone Policy"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "11638N",
+      "url": "https://www.whitechurchns.biz/enrollment",
+      "label": "Enrolment",
+      "sha256": "81864e16356df4e469f08c33a58cca6920cde07de15a864b3bd19f98e0ade32c",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/11638N_81864e16356df4e469f0.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 305
+    },
+    {
+      "roll": "11638N",
+      "url": "https://www.whitechurchns.biz/_files/ugd/75f961_06c4f0b00dd5450fa6124e08d3f93280.pdf",
+      "label": "4. Enrolment/Admissions Policy June 2025",
+      "sha256": "5986f2fdef05e8b59fab47549397d2071c170c01ca72d7c54d86064df7762ec5",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/11638N_5986f2fdef05e8b59fab.txt",
+      "source_file": "database/milestone2/cache/5986f2fdef05e8b59fab47549397d2071c170c01ca72d7c54d86064df7762ec5.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 30617
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.whitechurchns.biz/_files/ugd/70c9cb_735cc48c487b47de901632490cd15951.pdf",
+      "label": "Health and Safety General Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.whitechurchns.biz/_files/ugd/70c9cb_6456f83ad4a24187be339e8ae6b1354b.pdf",
+      "label": "Healthy Eating Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.whitechurchns.biz/_files/ugd/70c9cb_42bd87cb55e5459db2f55764bd11e344.pdf",
+      "label": "Anti Bullying Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.whitechurchns.biz/_files/ugd/70c9cb_3638355e58c648a0a682191afae4cbed.pdf",
+      "label": "Acceptable Usage Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.whitechurchns.biz/_files/ugd/70c9cb_256728b558f1445d95a2f31c26d57d36.pdf",
+      "label": "Data Protection Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 71.36,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:49:15+0000"
+}

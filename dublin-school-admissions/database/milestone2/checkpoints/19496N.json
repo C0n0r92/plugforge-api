@@ -1,0 +1,345 @@
+{
+  "roll": "19496N",
+  "status": "bounded_search_no_new_notice_found",
+  "attempts": [
+    {
+      "url": "https://www.stfiachrasjns.com/admissions/admission-notice-2025-2026/?googletranslate=true",
+      "final_url": "https://www.stfiachrasjns.com/admissions/admission-notice-2025-2026/?googletranslate=true",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "https://www.stfiachrasjns.com/admissions/admission-notice-2025-2026/",
+      "final_url": "https://www.stfiachrasjns.com/admissions/admission-notice-2025-2026/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admission Notice 2026-2027"
+    },
+    {
+      "url": "https://www.stfiachrasjns.com/admin/?open=/admissions/admission-notice-2025-2026/?googletranslate=true",
+      "final_url": "https://www.stfiachrasjns.com/admin/?open=/admissions/admission-notice-2025-2026/?googletranslate=true",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.stfiachrasjns.com/admin/?open=/admissions/admission-notice-2025-2026/",
+      "final_url": "https://www.stfiachrasjns.com/admin/?open=/admissions/admission-notice-2025-2026/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.stfiachrasjns.com/documentlink/89/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/982/docletter/20251201015028_24_Admissions_Notice_2026-2027.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Admissions Notice 2026-2027.pdf"
+    },
+    {
+      "url": "https://www.stfiachrasjns.com/admissions/?googletranslate=true",
+      "final_url": "https://www.stfiachrasjns.com/admissions/?googletranslate=true",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "https://www.stfiachrasjns.com/admissions/",
+      "final_url": "https://www.stfiachrasjns.com/admissions/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions Iontrála"
+    },
+    {
+      "url": "https://www.stfiachrasjns.com/admin/?open=/admissions/?googletranslate=true",
+      "final_url": "https://www.stfiachrasjns.com/admin/?open=/admissions/?googletranslate=true",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.stfiachrasjns.com/admin/?open=/admissions/",
+      "final_url": "https://www.stfiachrasjns.com/admin/?open=/admissions/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.stfiachrasjns.com/parents-area/financial-report-2024-2025/",
+      "final_url": "https://www.stfiachrasjns.com/parents-area/financial-report-2024-2025/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Financial Report 2024/25"
+    },
+    {
+      "url": "https://www.stfiachrasjns.com/parents-area/financial-report-2024-2025/?googletranslate=true",
+      "final_url": "https://www.stfiachrasjns.com/parents-area/financial-report-2024-2025/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stfiachrasjns.com/admin/?open=/parents-area/financial-report-2024-2025/?googletranslate=true",
+      "final_url": "https://www.stfiachrasjns.com/admin/?open=/parents-area/financial-report-2024-2025/?googletranslate=true",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.stfiachrasjns.com/admin/?open=/parents-area/financial-report-2024-2025/",
+      "final_url": "https://www.stfiachrasjns.com/admin/?open=/parents-area/financial-report-2024-2025/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.stfiachrasjns.com/parents-area/a-guide/",
+      "final_url": "https://www.stfiachrasjns.com/parents-area/a-guide/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Primary Schoolbooks Scheme 2026/27"
+    },
+    {
+      "url": "https://www.stfiachrasjns.com/documentlink/102/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/982/docletter/20260915083710_37_Information_for_Parents_Primary_Schoolbooks_Scheme_2026_2027.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Information for Parents Primary Schoolbooks Scheme 2026 2027.pdf"
+    },
+    {
+      "url": "https://www.stfiachrasjns.com/admissions/application-form-2026-2027/?googletranslate=true",
+      "final_url": "https://www.stfiachrasjns.com/admissions/application-form-2026-2027/?googletranslate=true",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "https://www.stfiachrasjns.com/admissions/application-form-2026-2027/",
+      "final_url": "https://www.stfiachrasjns.com/admissions/application-form-2026-2027/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Application Form 2026-2027"
+    },
+    {
+      "url": "https://www.stfiachrasjns.com/admin/?open=/admissions/application-form-2026-2027/?googletranslate=true",
+      "final_url": "https://www.stfiachrasjns.com/admin/?open=/admissions/application-form-2026-2027/?googletranslate=true",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.stfiachrasjns.com/admin/?open=/admissions/application-form-2026-2027/",
+      "final_url": "https://www.stfiachrasjns.com/admin/?open=/admissions/application-form-2026-2027/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.stfiachrasjns.com/sitemap.xml",
+      "final_url": "https://www.stfiachrasjns.com/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.stfiachrasjns.com/parents-area/webwise--parents-guide-to-a-better-internet/",
+      "final_url": "https://www.stfiachrasjns.com/parents-area/webwise--parents-guide-to-a-better-internet/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents Guide to a Better Internet"
+    },
+    {
+      "url": "https://www.stfiachrasjns.com/parents-area/webwise--parents-guide-to-a-better-internet/?googletranslate=true",
+      "final_url": "https://www.stfiachrasjns.com/parents-area/webwise--parents-guide-to-a-better-internet/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stfiachrasjns.com/parents-area/useful-links-/",
+      "final_url": "https://www.stfiachrasjns.com/parents-area/useful-links-/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Useful Links"
+    },
+    {
+      "url": "https://www.stfiachrasjns.com/parents-area/useful-links-/?googletranslate=true",
+      "final_url": "https://www.stfiachrasjns.com/parents-area/useful-links-/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    }
+  ],
+  "documents": [],
+  "pending_links": [
+    {
+      "url": "https://www.stfiachrasjns.com/parents-area/preparing-young-children-for-primary-school/",
+      "label": "Preparing Children for Primary School",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfiachrasjns.com/parents-area/parents-association/",
+      "label": "Parents Council",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfiachrasjns.com/parents-area/newsletters/",
+      "label": "Newsletters",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfiachrasjns.com/parents-area/maths-week/",
+      "label": "Maths Week @ Home",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfiachrasjns.com/parents-area/child-protection-explainer-for-parents-137/",
+      "label": "Child Protection Explainer for Parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfiachrasjns.com/parents-area/attendance/",
+      "label": "Attendance",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfiachrasjns.com/parents-area/after-school-activities-538/",
+      "label": "After School Activities",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfiachrasjns.com/parents-area/a-guide/?googletranslate=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfiachrasjns.com/parents-area/",
+      "label": "Parents Tuismitheoirí",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfiachrasjns.com/our-school/policies/sphe/",
+      "label": "S.P.H.E.",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfiachrasjns.com/our-school/policies/rse/",
+      "label": "R.S.E.",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfiachrasjns.com/our-school/policies/parental-complaints-procedure/",
+      "label": "Parental Complaints Procedure",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfiachrasjns.com/our-school/policies/code-of-behaviour/",
+      "label": "Code of Behaviour",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfiachrasjns.com/our-school/policies/child-protection/",
+      "label": "Child Protection",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfiachrasjns.com/our-school/policies/b-cinelta/",
+      "label": "Bí Cineálta",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfiachrasjns.com/our-school/policies/",
+      "label": "Policies and Procedures",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfiachrasjns.com/documentlink/92/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfiachrasjns.com/documentlink/92/?open=true",
+      "label": "Financial Report to Parents.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfiachrasjns.com/documentlink/89/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfiachrasjns.com/documentlink/108/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfiachrasjns.com/documentlink/108/?open=true",
+      "label": "Webwise-Parents-Guide.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfiachrasjns.com/documentlink/102/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfiachrasjns.com/admissions/admission-policy-198/?googletranslate=true",
+      "label": "",
+      "via": "prior_public_admissions_landing"
+    },
+    {
+      "url": "https://www.stfiachrasjns.com/admissions/admission-policy-198/",
+      "label": "Admission Policy",
+      "via": "prior_public_admissions_landing"
+    },
+    {
+      "url": "https://www.stfiachrasjns.com/admin/?open=/parents-area/webwise--parents-guide-to-a-better-internet/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfiachrasjns.com/admin/?open=/parents-area/webwise--parents-guide-to-a-better-internet/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfiachrasjns.com/admin/?open=/parents-area/useful-links-/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfiachrasjns.com/admin/?open=/parents-area/useful-links-/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfiachrasjns.com/admin/?open=/parents-area/a-guide/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfiachrasjns.com",
+      "label": "School homepage",
+      "via": "home"
+    },
+    {
+      "url": "https://www.stfiachrasjns.com/our-school/policies/acceptable-use-policy/",
+      "label": "Acceptable Use Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfiachrasjns.com/cmsfiles/policies/privacy/",
+      "label": "Website Privacy Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfiachrasjns.com/cmsfiles/policies/cookie/",
+      "label": "Cookie Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 49.75,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:06:33+0000"
+}

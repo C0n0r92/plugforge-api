@@ -1,0 +1,271 @@
+{
+  "roll": "19627C",
+  "status": "bounded_search_no_new_notice_found",
+  "attempts": [
+    {
+      "url": "https://www.pjp.ie/admissions-1/",
+      "final_url": "https://www.pjp.ie/admissions-1/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://primarysite-prod-sorted.s3.amazonaws.com/pope-john-paul-ii-national-school/UploadedDocument/f21b631d-d84e-425a-a230-d407d66c3779/all-year-levels-admissions-letter.pdf",
+      "final_url": "https://primarysite-prod-sorted.s3.amazonaws.com/pope-john-paul-ii-national-school/UploadedDocument/f21b631d-d84e-425a-a230-d407d66c3779/all-year-levels-admissions-letter.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "All Year Levels Admissions Letter.pdf"
+    },
+    {
+      "url": "https://primarysite-prod-sorted.s3.amazonaws.com/pope-john-paul-ii-national-school/UploadedDocument/8bb7c5ac-c022-4e5a-bfb2-4d30de7dbdca/second-class-admissions-letter.pdf",
+      "final_url": "https://primarysite-prod-sorted.s3.amazonaws.com/pope-john-paul-ii-national-school/UploadedDocument/8bb7c5ac-c022-4e5a-bfb2-4d30de7dbdca/second-class-admissions-letter.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Second Class Admissions Letter.pdf"
+    },
+    {
+      "url": "https://pope-john-paul-ii-national-school.secure-primarysite.net/accounts/login/primarysite/?next=/admissions-1/",
+      "final_url": "https://pope-john-paul-ii-national-school.secure-primarysite.net/accounts/login/primarysite/?next=/admissions-1/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Log in"
+    },
+    {
+      "url": "https://www.pjp.ie/zeeko-internet-safety-talk-to-pupils-parents/",
+      "final_url": "https://www.pjp.ie/zeeko-internet-safety-talk-to-pupils-parents/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Zeeko Internet Safety Talk to Pupils & Parents"
+    },
+    {
+      "url": "https://www.pjp.ie/topic/parents",
+      "final_url": "https://www.pjp.ie/topic/parents",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents"
+    },
+    {
+      "url": "https://www.pjp.ie/tips-and-useful-links-for-parents/",
+      "final_url": "https://www.pjp.ie/tips-and-useful-links-for-parents/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Tips and Useful Links for Parents"
+    },
+    {
+      "url": "https://www.gov.ie/en/publication/8248c-appeals-in-relation-to-refusal-to-admit-a-student-due-to-a-school-being-oversubscribed/",
+      "final_url": "https://www.gov.ie/en/publication/8248c-appeals-in-relation-to-refusal-to-admit-a-student-due-to-a-school-being-oversubscribed/",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "Admission appeals relating to school over subscription"
+    },
+    {
+      "url": "https://www.pjp.ie/tips-and-useful-links-for-parents/Click the NEPs link below   https:/www.education.ie/en/Schools-Colleges/Services/National-Educational-Psychological-Service-NEPS-/NEPS-Guides/Reading-and-Dyslexia/Reading-and-Dyslexia-Shared-Paired-Reading-At-Home.pdf",
+      "final_url": "https://www.pjp.ie/tips-and-useful-links-for-parents/Click the NEPs link below   https:/www.education.ie/en/Schools-Colleges/Services/National-Educational-Psychological-Service-NEPS-/NEPS-Guides/Reading-and-Dyslexia/Reading-and-Dyslexia-Shared-Paired-Reading-At-Home.pdf",
+      "status": "http_404",
+      "via": "school_public_link",
+      "label": "Shared Paired Reading at Home Tips"
+    },
+    {
+      "url": "https://www.pjp.ie/sitemap.xml",
+      "final_url": "https://www.pjp.ie/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.pjp.ie/road-safety-tips-for-parents-and-pupils/",
+      "final_url": "https://www.pjp.ie/road-safety-tips-for-parents-and-pupils/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Road Safety Tips for Parents and Pupils"
+    },
+    {
+      "url": "https://www.pjp.ie/policies/",
+      "final_url": "https://www.pjp.ie/policies/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://primarysite-prod-sorted.s3.amazonaws.com/pope-john-paul-ii-national-school/UploadedDocument/8bcbfa1f-3e06-4fad-8331-16d241b6f750/pjp-admission-notice-2026-2027.pdf",
+      "final_url": "https://primarysite-prod-sorted.s3.amazonaws.com/pope-john-paul-ii-national-school/UploadedDocument/8bcbfa1f-3e06-4fad-8331-16d241b6f750/pjp-admission-notice-2026-2027.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "PJP Admission Notice 2026-2027.pdf"
+    },
+    {
+      "url": "https://primarysite-prod-sorted.s3.amazonaws.com/pope-john-paul-ii-national-school/UploadedDocument/06d4379f-e156-449e-8147-83640c238d5d/admissions-policy-2026-2027.pdf",
+      "final_url": "https://primarysite-prod-sorted.s3.amazonaws.com/pope-john-paul-ii-national-school/UploadedDocument/06d4379f-e156-449e-8147-83640c238d5d/admissions-policy-2026-2027.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Admissions Policy 2026 2027.pdf"
+    },
+    {
+      "url": "https://www.pjp.ie/parents-association/",
+      "final_url": "https://www.pjp.ie/parents-association/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents Association"
+    },
+    {
+      "url": "https://www.pjp.ie/parent-teacher-meetings/",
+      "final_url": "https://www.pjp.ie/parent-teacher-meetings/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parent Teacher Meetings"
+    },
+    {
+      "url": "https://www.pjp.ie/parent-teacher-meetings-1/",
+      "final_url": "https://www.pjp.ie/parent-teacher-meetings-1/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parent Teacher Meetings"
+    },
+    {
+      "url": "https://www.pjp.ie/news/detail/admission-policy-and-application-form/",
+      "final_url": "https://www.pjp.ie/news/detail/admission-policy-and-application-form/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions/policy URL from public sitemap"
+    },
+    {
+      "url": "https://primarysite-prod-sorted.s3.amazonaws.com/pope-john-paul-ii-national-school/UploadedDocument/770bdc6312d645289ea68fbeb483feba/admissions-20212022-17.11.2020.pdf",
+      "final_url": "https://primarysite-prod-sorted.s3.amazonaws.com/pope-john-paul-ii-national-school/UploadedDocument/770bdc6312d645289ea68fbeb483feba/admissions-20212022-17.11.2020.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Admissions Policy"
+    },
+    {
+      "url": "https://www.pjp.ie/national-parents-council/",
+      "final_url": "https://www.pjp.ie/national-parents-council/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "National Parents Council"
+    },
+    {
+      "url": "https://www.pjp.ie/internet-safety-info-for-parents/",
+      "final_url": "https://www.pjp.ie/internet-safety-info-for-parents/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Internet Safety Info for Parents"
+    },
+    {
+      "url": "https://www.pjp.ie/information-for-parents/",
+      "final_url": "https://www.pjp.ie/information-for-parents/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Information for Parents"
+    }
+  ],
+  "documents": [],
+  "pending_links": [
+    {
+      "url": "https://www.pjp.ie/information-for-parents-9/",
+      "label": "Information for Parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.pjp.ie/information-for-parents-8/",
+      "label": "Information for Parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.pjp.ie/information-for-parents-7/",
+      "label": "Information for parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.pjp.ie/information-for-parents-6/",
+      "label": "Information for Parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.pjp.ie/information-for-parents-5/",
+      "label": "Information for Parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.pjp.ie/information-for-parents-3/",
+      "label": "Information for Parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.pjp.ie/information-for-parents-2/",
+      "label": "Information for Parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.pjp.ie/information-for-parents-18/",
+      "label": "Information for Parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.pjp.ie/information-for-parents-17/",
+      "label": "Information for Parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.pjp.ie/information-for-parents-16/",
+      "label": "Information for Parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.pjp.ie/information-for-parents-14/",
+      "label": "Information for Parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.pjp.ie/information-for-parents-13/",
+      "label": "Information for parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.pjp.ie/information-for-parents-11/",
+      "label": "Information for Parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.pjp.ie/information-for-parents-1/",
+      "label": "Information for Parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.pjp.ie",
+      "label": "School homepage",
+      "via": "home"
+    },
+    {
+      "url": "https://pope-john-paul-ii-national-school.secure-primarysite.net/accounts/login/primarysite/?next=/news/detail/admission-policy-and-application-form/",
+      "label": "Log in",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://primarysite-prod-sorted.s3.amazonaws.com/pope-john-paul-ii-national-school/UploadedDocument/406d376a5e684a2d94aa40ef23a49024/application-form-final.pdf",
+      "label": "Application Form",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.pjp.ie/special/policy/",
+      "label": "Website Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.pjp.ie/school-homework-policy-guidelines-for-each-year-le/",
+      "label": "School Homework Policy - Guidelines for each year level",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.pjp.ie/school-homework-policy-guidelines-for-each-year--1/",
+      "label": "School Homework Policy - Guidelines for each year level",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.pjp.ie/school-homework-policy-guidelines-for-each-class-l/",
+      "label": "School Homework Policy  - Guidelines for each class level",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 151.17,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:09:44+0000"
+}

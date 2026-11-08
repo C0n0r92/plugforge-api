@@ -1,0 +1,14 @@
+[
+  {
+    "dataset": "m2_reviewed_site_batch3a",
+    "prior_compressed_sha256": "84b4bc8fdb4fae3754b0c1ba3b69f6e9243b9ad2ec52321632938cd8503bb28e",
+    "corrected_spec_sha256": "34a8af3b2ae97bac6bf4f2948cccfc1ccbadcb10f89ea60713e5b162670fa6a2",
+    "reason": "Corrected unpublished review flags/evidence spans; immutable milestone1, v4 and pilot archives unchanged."
+  },
+  {
+    "dataset": "m2_reviewed_site_batch4",
+    "prior_compressed_sha256": "c6305b29e6e8d046699dbc978d8183a6cc142dd4fda613c9a9290606d40cad26",
+    "corrected_spec_sha256": "0cccce0829721f2994e0e61b8b98d5f7fb77f65d98459841e408fe05bf2cef77",
+    "reason": "Corrected unpublished review flags/evidence spans; immutable milestone1, v4 and pilot archives unchanged."
+  }
+]

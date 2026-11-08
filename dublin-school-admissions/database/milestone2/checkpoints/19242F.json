@@ -1,0 +1,207 @@
+{
+  "roll": "19242F",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.olvinfants.com/admissions-policy.html",
+      "final_url": "https://www.olvinfants.com/admissions-policy.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions/policy URL from public sitemap"
+    },
+    {
+      "url": "https://www.olvinfants.com/uploads/1/3/8/4/138468462/26_27_admission_policy_of_our_lady_of_victories_infant_school_.pdf",
+      "final_url": "https://www.olvinfants.com/uploads/1/3/8/4/138468462/26_27_admission_policy_of_our_lady_of_victories_infant_school_.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Click here to download Admissions policy ​Revised September 2026/2027"
+    },
+    {
+      "url": "https://www.olvinfants.com/sitemap.xml",
+      "final_url": "https://www.olvinfants.com/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.olvinfants.com/senior-infants-parents-page.html",
+      "final_url": "https://www.olvinfants.com/senior-infants-parents-page.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Senior Infants Parents' Page"
+    },
+    {
+      "url": "https://www.olvinfants.com/policies.html",
+      "final_url": "https://www.olvinfants.com/policies.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies >"
+    },
+    {
+      "url": "https://www.olvinfants.com/parents.html",
+      "final_url": "https://www.olvinfants.com/parents.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents"
+    },
+    {
+      "url": "https://www.olvinfants.com/parental-complaints-procedure.html",
+      "final_url": "https://www.olvinfants.com/parental-complaints-procedure.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parental Complaints Procedure"
+    },
+    {
+      "url": "https://www.olvinfants.com/uploads/1/3/8/4/138468462/parental-complaints-procedure_v4-final-nov23__2_.pdf",
+      "final_url": "https://www.olvinfants.com/uploads/1/3/8/4/138468462/parental-complaints-procedure_v4-final-nov23__2_.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "here"
+    },
+    {
+      "url": "https://www.olvinfants.com/junior-infants-parents-page.html",
+      "final_url": "https://www.olvinfants.com/junior-infants-parents-page.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Junior Infants Parents' Page"
+    },
+    {
+      "url": "https://www.olvinfants.com/first-class-parents-page.html",
+      "final_url": "https://www.olvinfants.com/first-class-parents-page.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "First Class Parents' Page"
+    },
+    {
+      "url": "https://www.olvinfants.com/uploads/7/5/1/1/75116535/download_orig.jpg",
+      "final_url": "https://www.olvinfants.com/uploads/7/5/1/1/75116535/download_orig.jpg",
+      "status": "http_404",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.olvinfants.com/",
+      "final_url": "https://www.olvinfants.com/",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.olvinfants.com/uploads/1/3/8/4/138468462/ism_health_and_safety_audit.pdf",
+      "final_url": "https://www.olvinfants.com/uploads/1/3/8/4/138468462/ism_health_and_safety_audit.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Health & Safety Policy"
+    },
+    {
+      "url": "https://www.olvinfants.com/uploads/1/3/8/4/138468462/copy_of_24_25_critical_incident_management_plann__no_numbers__.pdf",
+      "final_url": "https://www.olvinfants.com/uploads/1/3/8/4/138468462/copy_of_24_25_critical_incident_management_plann__no_numbers__.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Critical Incident Policy"
+    },
+    {
+      "url": "https://www.olvinfants.com/uploads/1/3/8/4/138468462/24_25_stay_safe_policy_and_timeline.pdf",
+      "final_url": "https://www.olvinfants.com/uploads/1/3/8/4/138468462/24_25_stay_safe_policy_and_timeline.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Stay Safe Policy"
+    },
+    {
+      "url": "https://www.olvinfants.com/uploads/1/3/8/4/138468462/24_25_school_trips_and_excursions_policy.pdf",
+      "final_url": "https://www.olvinfants.com/uploads/1/3/8/4/138468462/24_25_school_trips_and_excursions_policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Trips & Excursions Policy"
+    },
+    {
+      "url": "https://www.olvinfants.com/uploads/1/3/8/4/138468462/24_25_rse_policy.pdf",
+      "final_url": "https://www.olvinfants.com/uploads/1/3/8/4/138468462/24_25_rse_policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "RSE Policy"
+    },
+    {
+      "url": "https://www.olvinfants.com/uploads/1/3/8/4/138468462/24_25_pupils’_voice-_child_safeguarding.pdf",
+      "final_url": "https://www.olvinfants.com/uploads/1/3/8/4/138468462/24_25_pupils’_voice-_child_safeguarding.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Child’s Voice in Child Safeguarding Policy"
+    },
+    {
+      "url": "https://www.olvinfants.com/uploads/1/3/8/4/138468462/24_25_phone_and_digital_device_policy_staff___pupils.pdf",
+      "final_url": "https://www.olvinfants.com/uploads/1/3/8/4/138468462/24_25_phone_and_digital_device_policy_staff___pupils.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Phone & Digital Device Policy"
+    },
+    {
+      "url": "https://www.olvinfants.com/uploads/1/3/8/4/138468462/24_25_intimate_care_and_toileting_policy.pdf",
+      "final_url": "https://www.olvinfants.com/uploads/1/3/8/4/138468462/24_25_intimate_care_and_toileting_policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Intimate Care & Toileting Policy"
+    },
+    {
+      "url": "https://www.olvinfants.com/uploads/1/3/8/4/138468462/24_25_healthy_eating_policy our_lady_of_victories_infant_school.pdf",
+      "final_url": "https://www.olvinfants.com/uploads/1/3/8/4/138468462/24_25_healthy_eating_policy our_lady_of_victories_infant_school.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Healthy Eating Policy"
+    },
+    {
+      "url": "https://www.olvinfants.com/uploads/1/3/8/4/138468462/24_25_gdpr_policy.pdf",
+      "final_url": "https://www.olvinfants.com/uploads/1/3/8/4/138468462/24_25_gdpr_policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "GDPR Policy"
+    },
+    {
+      "url": "https://www.olvinfants.com/uploads/1/3/8/4/138468462/24_25_dignity_in_the_workplace_our_lady_of_victories_infant_school.pdf",
+      "final_url": "https://www.olvinfants.com/uploads/1/3/8/4/138468462/24_25_dignity_in_the_workplace_our_lady_of_victories_infant_school.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Dignity in the Workplace Policy"
+    },
+    {
+      "url": "https://www.olvinfants.com/uploads/1/3/8/4/138468462/24_25_confidentiality___conduct_policy_for_students_on_teaching_placement.pdf",
+      "final_url": "https://www.olvinfants.com/uploads/1/3/8/4/138468462/24_25_confidentiality___conduct_policy_for_students_on_teaching_placement.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Confidentiality Policy"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19242F",
+      "url": "https://www.olvinfants.com/uploads/1/3/8/4/138468462/26_27_admission_policy_of_our_lady_of_victories_infant_school_.pdf",
+      "label": "Click here to download Admissions policy ​Revised September 2026/2027",
+      "sha256": "0f966301eb4c93fb52130b81d1fa4b8d2971cc3cb962471edb1e5e4378002106",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19242F_0f966301eb4c93fb5213.txt",
+      "source_file": "database/milestone2/cache/0f966301eb4c93fb52130b81d1fa4b8d2971cc3cb962471edb1e5e4378002106.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 22783
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.olvinfants.com/uploads/1/3/8/4/138468462/24_25_aup__acceptable_use_policy_____digital_remote_learning_policy.pdf",
+      "label": "AUP & Distance Learning Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.olvinfants.com/uploads/1/3/8/4/138468462/24_25_anti-bullying_policy.pdf",
+      "label": "Anti-Bullying Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.olvinfants.com/uploads/1/3/8/4/138468462/24_25_administration_of_medicines_policy_.pdf",
+      "label": "Admin. Of  Medicines Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 70.78,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:55:14+0000"
+}

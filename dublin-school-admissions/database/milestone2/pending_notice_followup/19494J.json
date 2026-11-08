@@ -1,0 +1,47 @@
+{
+  "roll": "19494J",
+  "started_at": "2026-11-08T13:20:22+0000",
+  "method": "previously_linked_explicit_annual_notice_gap_followup",
+  "attempts": [
+    {
+      "url": "https://bishopgalvin.ie/wp-content/uploads/2025/01/Admissions-Notice-2025-2026.pdf",
+      "final_url": "https://bishopgalvin.ie/wp-content/uploads/2025/01/Admissions-Notice-2025-2026.pdf",
+      "status": "ok",
+      "label": "Admissions Notice 2025-2026"
+    },
+    {
+      "url": "https://bishopgalvin.ie/wp-content/uploads/2025/12/Admissions-Notice-2026-2027.docx.pdf",
+      "final_url": "https://bishopgalvin.ie/wp-content/uploads/2025/12/Admissions-Notice-2026-2027.docx.pdf",
+      "status": "ok",
+      "label": "Admissions Notice 2026-2027.docx"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19494J",
+      "url": "https://bishopgalvin.ie/wp-content/uploads/2025/01/Admissions-Notice-2025-2026.pdf",
+      "label": "Admissions Notice 2025-2026",
+      "sha256": "98291c8f907f24a1e67248ef3fdcb50ae95b3c10d5840f3017e661a152bb64aa",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19494J_98291c8f907f24a1e672.txt",
+      "source_file": "database/milestone2/cache/98291c8f907f24a1e67248ef3fdcb50ae95b3c10d5840f3017e661a152bb64aa.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 6099
+    },
+    {
+      "roll": "19494J",
+      "url": "https://bishopgalvin.ie/wp-content/uploads/2025/12/Admissions-Notice-2026-2027.docx.pdf",
+      "label": "Admissions Notice 2026-2027.docx",
+      "sha256": "8acc6ac281b62619c7c9fa144bd39fa76975072d9d88d825978f5403d2fb6b70",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19494J_8acc6ac281b62619c7c9.txt",
+      "source_file": "database/milestone2/cache/8acc6ac281b62619c7c9fa144bd39fa76975072d9d88d825978f5403d2fb6b70.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 6165
+    }
+  ],
+  "pending_links": [],
+  "earliest_year_cutoff": null,
+  "status": "attempted_notice_candidates_found",
+  "elapsed_seconds": 61.65
+}

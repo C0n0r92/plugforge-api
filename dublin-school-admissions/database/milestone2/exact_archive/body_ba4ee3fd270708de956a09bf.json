@@ -1,0 +1,25 @@
+{
+  "roll": "17507F",
+  "capture": {
+    "timestamp": "20240601081333",
+    "original": "https://www.glencullenschool.ie/wp-content/uploads/2020/09/Annual-Admission-Notice-2021.2022.pdf",
+    "linked_from_capture": "https://web.archive.org/web/20210121201225/https://www.glencullenschool.ie/wp-content/uploads/2020/09/Annual-Admission-Notice-2021.2022.pdf"
+  },
+  "original_url": "https://www.glencullenschool.ie/wp-content/uploads/2020/09/Annual-Admission-Notice-2021.2022.pdf",
+  "archived_url": "https://web.archive.org/web/20240601081333/https://www.glencullenschool.ie/wp-content/uploads/2020/09/Annual-Admission-Notice-2021.2022.pdf",
+  "attempted_at": "2026-11-08T12:47:06.884402+00:00",
+  "linked_from_capture": "https://web.archive.org/web/20210121201225/https://www.glencullenschool.ie/wp-content/uploads/2020/09/Annual-Admission-Notice-2021.2022.pdf",
+  "http_status": 200,
+  "headers": {
+    "Content-Type": "application/pdf",
+    "memento-datetime": "Sat, 01 Jun 2024 08:13:33 GMT"
+  },
+  "bytes": 276094,
+  "payload_sha256": "e3108d4a739e02118e9093fdae9ca34309f8e170dcf3e0642ad35dbf2a181aa0",
+  "format": "pdf",
+  "source_file": "database/milestone2/cache/e3108d4a739e02118e9093fdae9ca34309f8e170dcf3e0642ad35dbf2a181aa0.pdf",
+  "parse_stderr": "",
+  "status": "archived_body_retrieved_requires_manual_evidence_review",
+  "text_file": "database/milestone2/evidence/exact_17507F_e3108d4a739e02118e90.txt",
+  "linked_document_candidates": []
+}

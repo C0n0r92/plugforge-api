@@ -1,0 +1,48 @@
+{
+  "roll": "19406J",
+  "started_at": "2026-11-08T13:20:22+0000",
+  "method": "previously_linked_explicit_annual_notice_gap_followup",
+  "attempts": [
+    {
+      "url": "https://www.holytrinitysns.ie/our-school/policies/annual-admissions-notice-2/",
+      "final_url": "https://www.holytrinitysns.ie/our-school/policies/annual-admissions-notice-2/",
+      "status": "robots_disallow",
+      "label": "Admission URL from sitemap"
+    },
+    {
+      "url": "https://www.holytrinitysns.ie/our-school/policies/annual-admissions-notice-3/",
+      "final_url": "https://www.holytrinitysns.ie/our-school/policies/annual-admissions-notice-3/",
+      "status": "robots_disallow",
+      "label": "Admission URL from sitemap"
+    },
+    {
+      "url": "https://www.holytrinitysns.ie/our-school/policies/annual-admissions-notice-school-year-23-24-1/",
+      "final_url": "https://www.holytrinitysns.ie/our-school/policies/annual-admissions-notice-school-year-23-24-1/",
+      "status": "robots_disallow",
+      "label": "Admission URL from sitemap"
+    },
+    {
+      "url": "https://www.holytrinitysns.ie/our-school/policies/annual-admissions-notice-school-year-24-25/",
+      "final_url": "https://www.holytrinitysns.ie/our-school/policies/annual-admissions-notice-school-year-24-25/",
+      "status": "robots_disallow",
+      "label": "Admission URL from sitemap"
+    },
+    {
+      "url": "https://www.holytrinitysns.ie/our-school/policies/annual-admissions-notice-school-year-25-26-2/",
+      "final_url": "https://www.holytrinitysns.ie/our-school/policies/annual-admissions-notice-school-year-25-26-2/",
+      "status": "robots_disallow",
+      "label": "Admission URL from sitemap"
+    },
+    {
+      "url": "https://www.holytrinitysns.ie/our-school/policies/annual-admissions-notice-school-year-25-26/",
+      "final_url": "https://www.holytrinitysns.ie/our-school/policies/annual-admissions-notice-school-year-25-26/",
+      "status": "robots_disallow",
+      "label": "Admission URL from sitemap"
+    }
+  ],
+  "documents": [],
+  "pending_links": [],
+  "earliest_year_cutoff": null,
+  "status": "attempted_no_new_numeric_notice_established",
+  "elapsed_seconds": 0.0
+}

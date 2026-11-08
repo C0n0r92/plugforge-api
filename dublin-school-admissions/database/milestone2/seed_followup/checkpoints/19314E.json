@@ -1,0 +1,242 @@
+{
+  "roll": "19314E",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.olbns.com/",
+      "final_url": "https://www.olbns.com/",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.olbns.com/media/download_gallery/Admissions_Policy_2027.pdf",
+      "final_url": "https://www.olbns.com/media/download_gallery/Admissions_Policy_2027.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "https://www.olbns.com/media/download_gallery/Admissions_Policy_2027.pdf"
+    },
+    {
+      "url": "http://www.olbns.com/media/download_gallery/Privacy%20Statement_ContactForm.pdf",
+      "final_url": "http://www.olbns.com/media/download_gallery/Privacy%20Statement_ContactForm.pdf",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "Privacy Statement"
+    },
+    {
+      "url": "https://www.olbns.com/sitemap.xml",
+      "final_url": "https://www.olbns.com/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.olbns.com/pages/parents/resources.php",
+      "final_url": "https://www.olbns.com/pages/parents/resources.php",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Resources"
+    },
+    {
+      "url": "https://www.olbns.com/pages/parents/resources.php?cookiereset",
+      "final_url": "https://www.olbns.com/pages/parents/resources.php",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Reset Cookie Permissions"
+    },
+    {
+      "url": "https://www.olbns.com/pages/parents/policies.php",
+      "final_url": "https://www.olbns.com/pages/parents/policies.php",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.olbns.com/modules/download_gallery/dlc.php?file=182&id=1774272982&sid=135",
+      "final_url": "https://www.olbns.com/media/download_gallery/Child_Safeguarding_Statement_2026.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Child Safeguarding Statement 2026"
+    },
+    {
+      "url": "https://www.olbns.com/modules/download_gallery/dlc.php?file=181&id=1774272982&sid=135",
+      "final_url": "https://www.olbns.com/media/download_gallery/Child_Safeguarding_Statement_and_Risk_Assessment_2026.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Child Safeguarding Statement and Risk Assessment 2026"
+    },
+    {
+      "url": "https://www.olbns.com/modules/download_gallery/dlc.php?file=195&id=1793800241&sid=135",
+      "final_url": "https://www.olbns.com/media/download_gallery/Admissions_Policy_2027.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions Policy 2027"
+    },
+    {
+      "url": "https://www.olbns.com/pages/parents/policies.php?cookiereset",
+      "final_url": "https://www.olbns.com/pages/parents/policies.php",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Reset Cookie Permissions"
+    },
+    {
+      "url": "https://www.olbns.com/pages/parents/parents-association.php",
+      "final_url": "https://www.olbns.com/pages/parents/parents-association.php",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents Association"
+    },
+    {
+      "url": "https://www.olbns.com/pages/parents/parents-association.php?cookiereset",
+      "final_url": "https://www.olbns.com/pages/parents/parents-association.php",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Reset Cookie Permissions"
+    },
+    {
+      "url": "https://www.olbns.com/pages/parents/calendar.php",
+      "final_url": "https://www.olbns.com/pages/parents/calendar.php",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Calendar"
+    },
+    {
+      "url": "https://www.olbns.com/media/download_gallery/School_Calendar_2026_2027_.docx",
+      "final_url": "https://www.olbns.com/media/download_gallery/School_Calendar_2026_2027_.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Calendar for 2026 - 2027"
+    },
+    {
+      "url": "https://www.olbns.com/pages/parents/calendar.php?month=11&year=2026",
+      "final_url": "https://www.olbns.com/pages/parents/calendar.php?month=11&year=2026",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "TODAY"
+    },
+    {
+      "url": "https://www.olbns.com/pages/parents/calendar.php?cookiereset",
+      "final_url": "https://www.olbns.com/pages/parents/calendar.php",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Reset Cookie Permissions"
+    },
+    {
+      "url": "https://www.olbns.com/pages/parents.php",
+      "final_url": "https://www.olbns.com/pages/parents.php",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents"
+    },
+    {
+      "url": "https://www.olbns.com/pages/parents.php?cookiereset",
+      "final_url": "https://www.olbns.com/pages/parents.php",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Reset Cookie Permissions"
+    },
+    {
+      "url": "https://www.olbns.com/modules/download_gallery/dlc.php?file=154&id=1708523707&sid=135",
+      "final_url": "https://www.olbns.com/media/download_gallery/Code_of_Behaviour.doc.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Code of Behaviour"
+    },
+    {
+      "url": "https://www.olbns.com/modules/download_gallery/dlc.php?file=135&id=1680785797&sid=135",
+      "final_url": "http://sitebuild.olbns.com/media/download_gallery/OLBNS-ASD-Class-Enrolment-Policy-1 (1).docx.pdf",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "ASD Enrolment Policy"
+    },
+    {
+      "url": "https://www.olbns.com/modules/download_gallery/dlc.php?file=187&id=1774274154&sid=135",
+      "final_url": "https://www.olbns.com/media/download_gallery/Review_of_Bi_Cinealta_Policy_2026.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Review of Bí Cineálta Policy 2026"
+    },
+    {
+      "url": "https://www.olbns.com/modules/download_gallery/dlc.php?file=186&id=1774274154&sid=135",
+      "final_url": "https://www.olbns.com/media/download_gallery/Bi_Cinealta_Policy_2026.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Bí Cineálta Policy 2026"
+    },
+    {
+      "url": "https://www.olbns.com/modules/download_gallery/dlc.php?file=185&id=1774273342&sid=135",
+      "final_url": "https://www.olbns.com/media/Child_Protection_Policy_2026.pdf.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Child Protection Policy 2026"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19314E",
+      "url": "https://www.olbns.com/",
+      "label": "School homepage",
+      "sha256": "6cba03ad06dec317c2defa28e060c29facc108953c806afa66117556790a08f3",
+      "format": "html",
+      "text_file": "database/milestone2/seed_followup/evidence/19314E_6cba03ad06dec317c2de.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 4686
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.olbns.com/pages/cookiepolicy.php",
+      "label": "please click here.",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.olbns.com/modules/download_gallery/dlc.php?file=177&id=1739540905&sid=135",
+      "label": "Special Class Application Form",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.olbns.com/modules/download_gallery/dlc.php?file=176&id=1737978741&sid=135",
+      "label": "Smart Devices Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.olbns.com/modules/download_gallery/dlc.php?file=145&id=1680785806&sid=135",
+      "label": "Emergency Closures Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.olbns.com/modules/download_gallery/dlc.php?file=144&id=1680785805&sid=135",
+      "label": "Data Protection & Record Keeping Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.olbns.com/modules/download_gallery/dlc.php?file=143&id=1680785805&sid=135",
+      "label": "Administration of Medication Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.olbns.com/modules/download_gallery/dlc.php?file=142&id=1680785804&sid=135",
+      "label": "Healthy Eating Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.olbns.com/modules/download_gallery/dlc.php?file=141&id=1680785804&sid=135",
+      "label": "RSE Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.olbns.com/modules/download_gallery/dlc.php?file=140&id=1680785804&sid=135",
+      "label": "Child Protection Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.olbns.com/modules/download_gallery/dlc.php?file=136&id=1680785797&sid=135",
+      "label": "Application Form",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 95.9,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:22:28+0000"
+}

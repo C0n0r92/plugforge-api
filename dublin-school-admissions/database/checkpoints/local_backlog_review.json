@@ -1,0 +1,594 @@
+[
+  {
+    "index": 0,
+    "roll": "18817C",
+    "url": "https://www.scoilbhride1917.ie/Content/2024/9/pd51-ANNUAL_ADMISSION_NOTICE_2025_gaeilge.pdf",
+    "status": "reviewed_numeric",
+    "reason": null,
+    "groups_extracted": 2
+  },
+  {
+    "index": 1,
+    "roll": "20052H",
+    "url": "https://gaelscoilcholmcille.ie/wp-content/uploads/2021/10/fogra-iontrala-2022.pdf",
+    "status": "reviewed_with_source_ambiguity",
+    "reason": null,
+    "groups_extracted": 3
+  },
+  {
+    "index": 2,
+    "roll": "20053J",
+    "url": "https://www.cheeverstownschool.ie/_files/ugd/ed3463_b92955678b92472383a1327462f265b4.pdf",
+    "status": "reviewed_numeric",
+    "reason": null,
+    "groups_extracted": 2
+  },
+  {
+    "index": 3,
+    "roll": "20131D",
+    "url": "https://d7educatetogether.com/wp-content/uploads/2025/10/Admission-Notice-2026_2027.docx",
+    "status": "reviewed_numeric",
+    "reason": null,
+    "groups_extracted": 2
+  },
+  {
+    "index": 4,
+    "roll": "20131D",
+    "url": "https://d7educatetogether.com/wp-content/uploads/2024/09/D7ET-Annual-Admissions-Notice-2025-26.pdf",
+    "status": "reviewed_with_source_ambiguity",
+    "reason": null,
+    "groups_extracted": 8
+  },
+  {
+    "index": 5,
+    "roll": "20131D",
+    "url": "https://d7educatetogether.com/wp-content/uploads/2023/10/D7ET-Annual-Admission-Notice-2024-25.pdf",
+    "status": "reviewed_with_source_ambiguity",
+    "reason": null,
+    "groups_extracted": 8
+  },
+  {
+    "index": 6,
+    "roll": "20131D",
+    "url": "https://d7educatetogether.com/wp-content/uploads/2022/10/D7ETNS-Annual-Admissions-Notice-2023-24.pdf",
+    "status": "reviewed_with_source_ambiguity",
+    "reason": null,
+    "groups_extracted": 8
+  },
+  {
+    "index": 7,
+    "roll": "20131D",
+    "url": "https://d7educatetogether.com/wp-content/uploads/2022/03/D7ETNS-Annual-Admissions-Notice-March-2022.pdf",
+    "status": "reviewed_with_source_ambiguity",
+    "reason": null,
+    "groups_extracted": 8
+  },
+  {
+    "index": 8,
+    "roll": "20131D",
+    "url": "https://d7educatetogether.com/wp-content/uploads/2020/09/18_Annual_Admissions_Notice-September-2020.pdf",
+    "status": "reviewed_with_source_ambiguity",
+    "reason": null,
+    "groups_extracted": 8
+  },
+  {
+    "index": 9,
+    "roll": "20220C",
+    "url": "https://www.gsue.ie/uploads/5/5/0/0/5500604/f%C3%B3gra_iontr%C3%A1la_gsue_2026_admissions_notice_gsue_2026.pdf",
+    "status": "reviewed_numeric",
+    "reason": null,
+    "groups_extracted": 2
+  },
+  {
+    "index": 10,
+    "roll": "20241K",
+    "url": "https://www.scoilchoilmcns.ie/wp-content/uploads/2025/09/Scoil-Choilm-Admission-Notice-26-27-3.pdf",
+    "status": "reviewed_numeric",
+    "reason": null,
+    "groups_extracted": 4
+  },
+  {
+    "index": 11,
+    "roll": "20241K",
+    "url": "https://www.scoilchoilmcns.ie/wp-content/uploads/2025/10/Scoil-Choilm-Autism-Class-Admissions-Notice-26-27.pdf",
+    "status": "reviewed_with_source_ambiguity",
+    "reason": null,
+    "groups_extracted": 2
+  },
+  {
+    "index": 12,
+    "roll": "20241K",
+    "url": "https://www.scoilchoilmcns.ie/wp-content/uploads/2025/09/Scoil-Choilm-Autism-Class-Admissions-Notice-26-27.pdf",
+    "status": "reviewed_with_source_ambiguity",
+    "reason": null,
+    "groups_extracted": 2
+  },
+  {
+    "index": 13,
+    "roll": "20241K",
+    "url": "https://www.scoilchoilmcns.ie/wp-content/uploads/2025/10/Scoil-Choilm-Autism-Class-Admissions-Notice-26-27-Edited-Catchment.pdf",
+    "status": "reviewed_with_source_ambiguity",
+    "reason": null,
+    "groups_extracted": 2
+  },
+  {
+    "index": 14,
+    "roll": "20241K",
+    "url": "https://www.scoilchoilmcns.ie/wp-content/uploads/2025/06/Scoil-Choilm-CNS-Annual-Admission-Statement.pdf",
+    "status": "reviewed_numeric",
+    "reason": null,
+    "groups_extracted": 3
+  },
+  {
+    "index": 15,
+    "roll": "20241K",
+    "url": "https://www.scoilchoilmcns.ie/wp-content/uploads/2025/09/Scoil-Choilm-Admission-Notice-26-27-1.pdf",
+    "status": "reviewed_numeric",
+    "reason": null,
+    "groups_extracted": 4
+  },
+  {
+    "index": 16,
+    "roll": "20241K",
+    "url": "https://www.scoilchoilmcns.ie/wp-content/uploads/2025/09/Scoil-Choilm-Admission-Notice-26-27.pdf",
+    "status": "reviewed_numeric",
+    "reason": null,
+    "groups_extracted": 4
+  },
+  {
+    "index": 17,
+    "roll": "20241K",
+    "url": "https://www.scoilchoilmcns.ie/wp-content/uploads/2025/09/Scoil-Choilm-Admission-Notice-26-27-2.pdf",
+    "status": "reviewed_numeric",
+    "reason": null,
+    "groups_extracted": 4
+  },
+  {
+    "index": 18,
+    "roll": "20241K",
+    "url": "https://www.scoilchoilmcns.ie/wp-content/uploads/2025/09/Scoil-Choilm-Admission-Notice-26-27-1-1.pdf",
+    "status": "reviewed_numeric",
+    "reason": null,
+    "groups_extracted": 4
+  },
+  {
+    "index": 19,
+    "roll": "20241K",
+    "url": "https://www.scoilchoilmcns.ie/wp-content/uploads/2025/10/Scoil-Choilm-Autism-Class-Admissions-Notice-26-27-Edited-Catchment-1.pdf",
+    "status": "reviewed_with_source_ambiguity",
+    "reason": null,
+    "groups_extracted": 2
+  },
+  {
+    "index": 20,
+    "roll": "20241K",
+    "url": "https://www.scoilchoilmcns.ie/wp-content/uploads/2024/12/Scoil-Choilm-Annual-Admissions-Statement-for-25-26.pdf",
+    "status": "reviewed_numeric",
+    "reason": null,
+    "groups_extracted": 3
+  },
+  {
+    "index": 21,
+    "roll": "20268H",
+    "url": "https://acetns.ie/wp-content/uploads/2025/04/Admissions-Notice-24_25.docx.pdf",
+    "status": "reviewed_with_source_ambiguity",
+    "reason": null,
+    "groups_extracted": 3
+  },
+  {
+    "index": 22,
+    "roll": "20268H",
+    "url": "https://acetns.ie/wp-content/uploads/2024/10/Admissions-Notice-24_25.pdf",
+    "status": "reviewed_with_source_ambiguity",
+    "reason": null,
+    "groups_extracted": 3
+  },
+  {
+    "index": 23,
+    "roll": "20268H",
+    "url": "https://acetns.ie/wp-content/uploads/2023/09/24-25-Admission-Notice.docx.pdf",
+    "status": "reviewed_numeric",
+    "reason": null,
+    "groups_extracted": 3
+  },
+  {
+    "index": 24,
+    "roll": "20269J",
+    "url": "https://scoilchormaiccns.ie/wp-content/uploads/2023/11/Scoil-Chormaic-CNS-Admissions-Notice-CNS-2024.25.pdf",
+    "status": "reviewed_numeric",
+    "reason": null,
+    "groups_extracted": 4
+  },
+  {
+    "index": 25,
+    "roll": "20269J",
+    "url": "https://scoilchormaiccns.ie/wp-content/uploads/2022/10/2.-Scoil-Chormic-CNS-Admissions-Notice-23-to-24-FINAL.pdf",
+    "status": "reviewed_numeric",
+    "reason": null,
+    "groups_extracted": 4
+  },
+  {
+    "index": 26,
+    "roll": "20269J",
+    "url": "https://scoilchormaiccns.ie/wp-content/uploads/2020/12/2.-Scoil-Chormaic-CNS-Admissions-Notice-2021-FINAL.1-1.pdf",
+    "status": "reviewed_numeric",
+    "reason": null,
+    "groups_extracted": 4
+  },
+  {
+    "index": 27,
+    "roll": "20269J",
+    "url": "https://scoilchormaiccns.ie/wp-content/uploads/2020/10/2.-Scoil-Chormaic-CNS-Admissions-Notice-2021-FINAL.1-1.pdf",
+    "status": "reviewed_numeric",
+    "reason": null,
+    "groups_extracted": 4
+  },
+  {
+    "index": 28,
+    "roll": "20269J",
+    "url": "https://scoilchormaiccns.ie/wp-content/uploads/2021/02/Admission-Policy-2021.pdf",
+    "status": "rejected_not_notice",
+    "reason": "admission_policy_not_annual_notice",
+    "groups_extracted": 0
+  },
+  {
+    "index": 29,
+    "roll": "20302E",
+    "url": "https://www.thornleighet.com",
+    "status": "rejected_not_notice",
+    "reason": "navigation_excerpt_not_genuine_notice",
+    "groups_extracted": 0
+  },
+  {
+    "index": 30,
+    "roll": "20309S",
+    "url": "https://hopejns.ie/wp-content/uploads/2026/10/MMH-JNS-D15ACAT_Admission_Notice_template_2027-2028.pdf",
+    "status": "reviewed_with_source_ambiguity",
+    "reason": null,
+    "groups_extracted": 1
+  },
+  {
+    "index": 31,
+    "roll": "20309S",
+    "url": "https://hopejns.ie/wp-content/uploads/2025/09/MMH-JNS-D15ACAT_Admission_Notice_template_2026_27.pdf",
+    "status": "reviewed_numeric",
+    "reason": null,
+    "groups_extracted": 1
+  },
+  {
+    "index": 32,
+    "roll": "20309S",
+    "url": "https://hopejns.ie/wp-content/uploads/2025/10/MMH-JNS-D15ACAT_Admission_Notice_template_2026_27.pdf",
+    "status": "reviewed_numeric",
+    "reason": null,
+    "groups_extracted": 1
+  },
+  {
+    "index": 33,
+    "roll": "20309S",
+    "url": "https://hopejns.ie/wp-content/uploads/2025/09/MMH-JNS-D15ACAT_Admission_Notice_template_2026_27-1.pdf",
+    "status": "reviewed_numeric",
+    "reason": null,
+    "groups_extracted": 1
+  },
+  {
+    "index": 34,
+    "roll": "20309S",
+    "url": "https://hopejns.ie/wp-content/uploads/2025/09/2026-2027-Annual-Admissions-Notice-Junior-Infants-MMH-JNS.pdf",
+    "status": "reviewed_numeric",
+    "reason": null,
+    "groups_extracted": 2
+  },
+  {
+    "index": 35,
+    "roll": "20309S",
+    "url": "https://hopejns.ie/wp-content/uploads/2024/10/MMH-JNS-2025-2026-Annual-Admissions-Notice-Junior-Infants-1.pdf",
+    "status": "reviewed_numeric",
+    "reason": null,
+    "groups_extracted": 2
+  },
+  {
+    "index": 36,
+    "roll": "20309S",
+    "url": "https://hopejns.ie/wp-content/uploads/2024/10/2025-2026-Annual-Admissions-Notice-Junior-Infants-MMH-JNS.pdf",
+    "status": "reviewed_numeric",
+    "reason": null,
+    "groups_extracted": 2
+  },
+  {
+    "index": 37,
+    "roll": "20309S",
+    "url": "https://hopejns.ie/wp-content/uploads/2024/10/MMH-JNS-2025-2026-Annual-Admissions-Notice-Junior-Infants.pdf",
+    "status": "reviewed_numeric",
+    "reason": null,
+    "groups_extracted": 2
+  },
+  {
+    "index": 38,
+    "roll": "20397S",
+    "url": "https://stlouisesprimaryschool.ie/?s=admission",
+    "status": "rejected_not_notice",
+    "reason": "search_results_page_multiple_notice_excerpts",
+    "groups_extracted": 0
+  },
+  {
+    "index": 39,
+    "roll": "20397S",
+    "url": "https://stlouisesprimaryschool.ie/2022/05/24/admission-notice-for-asd-class/",
+    "status": "reviewed_numeric",
+    "reason": null,
+    "groups_extracted": 1
+  },
+  {
+    "index": 40,
+    "roll": "20398U",
+    "url": "https://cscns.ie/wp-content/uploads/2024/11/Admissions-Policy-v2022.2023.pdf",
+    "status": "rejected_not_notice",
+    "reason": "admission_policy_not_annual_notice",
+    "groups_extracted": 0
+  },
+  {
+    "index": 41,
+    "roll": "20398U",
+    "url": "https://cscns.ie/wp-content/uploads/2024/11/Admissions-Notice-2025.2026.pdf",
+    "status": "reviewed_numeric",
+    "reason": null,
+    "groups_extracted": 3
+  },
+  {
+    "index": 42,
+    "roll": "20398U",
+    "url": "https://cscns.ie/wp-content/uploads/2025/09/Admissions-Notice-2026.2027.pdf",
+    "status": "reviewed_with_source_ambiguity",
+    "reason": null,
+    "groups_extracted": 3
+  },
+  {
+    "index": 43,
+    "roll": "20400E",
+    "url": "https://ballinteeretns.ie/wp-content/uploads/BETNS-Annual-Admissions-Notice-September-2026_2027-Publication-To-Website.pdf",
+    "status": "reviewed_numeric",
+    "reason": null,
+    "groups_extracted": 2
+  },
+  {
+    "index": 44,
+    "roll": "20400E",
+    "url": "https://ballinteeretns.ie/wp-content/uploads/Annual-Admissions-Notice-2025-2026-Ballinteer-Educate-Together-NS-3.pdf",
+    "status": "reviewed_numeric",
+    "reason": null,
+    "groups_extracted": 2
+  },
+  {
+    "index": 45,
+    "roll": "20422O",
+    "url": "https://www.scoilaoifecns.ie/wp-content/uploads/2026/09/SCOIL-AOIFE-COMMUNITY-NATIONAL-SCHOOL-ADMISSIONS-NOTICE-2027-2028.docx",
+    "status": "reviewed_numeric",
+    "reason": null,
+    "groups_extracted": 1
+  },
+  {
+    "index": 46,
+    "roll": "20422O",
+    "url": "https://www.scoilaoifecns.ie/wp-content/uploads/2025/09/SCOIL-AOIFE-COMMUNITY-NATIONAL-SCHOOL-ADMISSIONS-NOTICE-2026-2027.pdf",
+    "status": "reviewed_numeric",
+    "reason": null,
+    "groups_extracted": 1
+  },
+  {
+    "index": 47,
+    "roll": "20422O",
+    "url": "https://www.scoilaoifecns.ie/wp-content/uploads/2024/10/SCOIL-AOIFE-COMMUNITY-NATIONAL-SCHOOL-ADMISSIONS-NOTICE-2025-2026.pdf",
+    "status": "reviewed_numeric",
+    "reason": null,
+    "groups_extracted": 1
+  },
+  {
+    "index": 48,
+    "roll": "20422O",
+    "url": "https://www.scoilaoifecns.ie/wp-content/uploads/2023/09/SCOIL-AOIFE-COMMUNITY-NATIONAL-SCHOOL-ADMISSIONS-NOTICE-2024-25.pdf",
+    "status": "reviewed_no_numeric",
+    "reason": null,
+    "groups_extracted": 0
+  },
+  {
+    "index": 49,
+    "roll": "20426W",
+    "url": "https://lucancns.ie/wp-content/uploads/2024/10/Lucan-CNS_Admissions-Notice-2025_26.pdf",
+    "status": "reviewed_numeric",
+    "reason": null,
+    "groups_extracted": 4
+  },
+  {
+    "index": 50,
+    "roll": "20430N",
+    "url": "https://canalwayetns.org/wp-content/uploads/2026/09/Admissions-statements-2027-2028.docx.pdf",
+    "status": "reviewed_with_source_ambiguity",
+    "reason": null,
+    "groups_extracted": 4
+  },
+  {
+    "index": 51,
+    "roll": "20430N",
+    "url": "https://canalwayetns.org/wp-content/uploads/2025/09/Admissions-statements-2026-2027.docx.pdf",
+    "status": "reviewed_with_source_ambiguity",
+    "reason": null,
+    "groups_extracted": 4
+  },
+  {
+    "index": 52,
+    "roll": "20430N",
+    "url": "https://canalwayetns.org/wp-content/uploads/2025/09/Admissions-statements-2026-2027.docx",
+    "status": "reviewed_with_source_ambiguity",
+    "reason": null,
+    "groups_extracted": 4
+  },
+  {
+    "index": 53,
+    "roll": "20430N",
+    "url": "https://canalwayetns.org/wp-content/uploads/2024/09/Admissions-statements-2025-2026-.docx.pdf",
+    "status": "reviewed_with_source_ambiguity",
+    "reason": null,
+    "groups_extracted": 4
+  },
+  {
+    "index": 54,
+    "roll": "20430N",
+    "url": "https://canalwayetns.org/wp-content/uploads/2022/09/admissions-statements-2023-2024.pdf",
+    "status": "reviewed_with_source_ambiguity",
+    "reason": null,
+    "groups_extracted": 2
+  },
+  {
+    "index": 55,
+    "roll": "20430N",
+    "url": "https://canalwayetns.org/wp-content/uploads/2020/09/Canal-Way-ETNS-annual-admissions-notice-2021-2022.pdf",
+    "status": "reviewed_with_source_ambiguity",
+    "reason": null,
+    "groups_extracted": 2
+  },
+  {
+    "index": 56,
+    "roll": "20528H",
+    "url": "https://rivervalleycns.ie/wp-content/uploads/2024/10/RVCNS-Admission-Notice-20252026.pdf",
+    "status": "reviewed_with_source_ambiguity",
+    "reason": null,
+    "groups_extracted": 1
+  },
+  {
+    "index": 57,
+    "roll": "20528H",
+    "url": "https://rivervalleycns.ie/wp-content/uploads/2023/10/RVCNS-Revised-Admission-Notice-20242025.docx",
+    "status": "reviewed_numeric",
+    "reason": null,
+    "groups_extracted": 1
+  },
+  {
+    "index": 58,
+    "roll": "20528H",
+    "url": "https://rivervalleycns.ie/wp-content/uploads/2022/10/Admissions-Notice-2023_24.pdf",
+    "status": "reviewed_numeric",
+    "reason": null,
+    "groups_extracted": 1
+  },
+  {
+    "index": 59,
+    "roll": "20528H",
+    "url": "https://rivervalleycns.ie/wp-content/uploads/2021/10/Admissions-Notice-2022_23.pdf",
+    "status": "reviewed_numeric",
+    "reason": null,
+    "groups_extracted": 1
+  },
+  {
+    "index": 60,
+    "roll": "20528H",
+    "url": "https://rivervalleycns.ie/wp-content/uploads/2020/10/RVCNS-Revised-Admission-Notice-in-line-with-New-Admissions-Act-2021_22-1.pdf",
+    "status": "reviewed_numeric",
+    "reason": null,
+    "groups_extracted": 1
+  },
+  {
+    "index": 61,
+    "roll": "20528H",
+    "url": "https://rivervalleycns.ie/wp-content/uploads/2020/10/RVCNS-Revised-Admission-Notice-in-line-with-New-Admissions-Act-2021_22.docx",
+    "status": "reviewed_numeric",
+    "reason": null,
+    "groups_extracted": 1
+  },
+  {
+    "index": 62,
+    "roll": "20529J",
+    "url": "https://broadmeadowcns.ie/wp-content/uploads/2025/10/Admission-Statement-2026_2027.pdf",
+    "status": "reviewed_numeric",
+    "reason": null,
+    "groups_extracted": 2
+  },
+  {
+    "index": 63,
+    "roll": "20529J",
+    "url": "https://broadmeadowcns.ie/wp-content/uploads/2025/09/Admission-Statement-2026_2027.pdf",
+    "status": "reviewed_numeric",
+    "reason": null,
+    "groups_extracted": 2
+  },
+  {
+    "index": 64,
+    "roll": "20529J",
+    "url": "https://broadmeadowcns.ie/wp-content/uploads/2024/10/Admission-Statement-2025_2026.pdf",
+    "status": "reviewed_with_source_ambiguity",
+    "reason": null,
+    "groups_extracted": 2
+  },
+  {
+    "index": 65,
+    "roll": "20529J",
+    "url": "https://broadmeadowcns.ie/wp-content/uploads/2023/04/Admission-Statement-2023_2024.pdf",
+    "status": "reviewed_with_source_ambiguity",
+    "reason": null,
+    "groups_extracted": 2
+  },
+  {
+    "index": 66,
+    "roll": "20529J",
+    "url": "https://broadmeadowcns.ie/wp-content/uploads/2022/11/Admission-Statement-2023_2024.pdf",
+    "status": "reviewed_with_source_ambiguity",
+    "reason": null,
+    "groups_extracted": 2
+  },
+  {
+    "index": 67,
+    "roll": "20529J",
+    "url": "https://broadmeadowcns.ie/wp-content/uploads/2022/10/Admission-Statement-20222023.pdf",
+    "status": "reviewed_with_source_ambiguity",
+    "reason": null,
+    "groups_extracted": 1
+  },
+  {
+    "index": 68,
+    "roll": "20529J",
+    "url": "https://broadmeadowcns.ie/wp-content/uploads/2025/09/DRAFTAdmission-Policy-2025_2026.pdf",
+    "status": "rejected_not_notice",
+    "reason": "draft_policy_not_annual_notice",
+    "groups_extracted": 0
+  },
+  {
+    "index": 69,
+    "roll": "20529J",
+    "url": "https://broadmeadowcns.ie/wp-content/uploads/2026/02/Admission-Policy-2025-2026.pdf",
+    "status": "rejected_not_notice",
+    "reason": "policy_not_annual_notice",
+    "groups_extracted": 0
+  },
+  {
+    "index": 70,
+    "roll": "20529J",
+    "url": "https://broadmeadowcns.ie/wp-content/uploads/2026/10/Broadmeadow-CNS-Annual-Admission-Notice-2027-2028-2.pdf",
+    "status": "reviewed_numeric",
+    "reason": "Scanned PDF has no parsed text; OCR/visual evidence review required.",
+    "groups_extracted": 2
+  },
+  {
+    "index": 71,
+    "roll": "20530R",
+    "url": "https://storage.googleapis.com/iclasscrm_files/6615/Images/Content/2026/265/vy89-Fogra_Maidir_le_Ligean_Isteach___Admissions_Notice_202728.pdf",
+    "status": "reviewed_with_source_ambiguity",
+    "reason": null,
+    "groups_extracted": 11
+  },
+  {
+    "index": 72,
+    "roll": "20596B",
+    "url": "https://www.ddletb.ie/wp-content/uploads/2025/05/Admissions-Notice-Belmayne-CSS-1.docx",
+    "status": "reviewed_numeric",
+    "reason": null,
+    "groups_extracted": 4
+  },
+  {
+    "index": 73,
+    "roll": "20596B",
+    "url": "https://www.ddletb.ie/wp-content/uploads/2025/05/Admissions-Notice-Belmayne-CSS.docx",
+    "status": "reviewed_numeric",
+    "reason": null,
+    "groups_extracted": 4
+  }
+]

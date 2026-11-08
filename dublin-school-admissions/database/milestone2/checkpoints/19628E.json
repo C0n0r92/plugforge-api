@@ -1,0 +1,388 @@
+{
+  "roll": "19628E",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.fiachras.ie/admissions/?googletranslate=true",
+      "final_url": "https://www.fiachras.ie/admissions/?googletranslate=true",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "https://www.fiachras.ie/documentlink/50/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/941/docletter/20260112100635_50_ANNUAL_ADMISSION_NOTICE_2026_2027.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "ANNUAL ADMISSION NOTICE 2026 2027.pdf"
+    },
+    {
+      "url": "https://www.fiachras.ie/admissions/",
+      "final_url": "https://www.fiachras.ie/admissions/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions Iontrála"
+    },
+    {
+      "url": "https://www.fiachras.ie/admin/?open=/admissions/?googletranslate=true",
+      "final_url": "https://www.fiachras.ie/admin/?open=/admissions/?googletranslate=true",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.fiachras.ie/admin/?open=/admissions/",
+      "final_url": "https://www.fiachras.ie/admin/?open=/admissions/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.fiachras.ie/documentlink/47/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/941/docletter/20260112093748_57_St._Fiachra_s_Senior_National_School_-_Admissions_Policy_2026_27.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "St. Fiachra s Senior National School - Admissions Policy 2026 27.pdf"
+    },
+    {
+      "url": "https://www.fiachras.ie/sitemap.xml",
+      "final_url": "https://www.fiachras.ie/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.fiachras.ie/parents-area/useful-links-/",
+      "final_url": "https://www.fiachras.ie/parents-area/useful-links-/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Useful links"
+    },
+    {
+      "url": "https://www.fiachras.ie/parents-area/useful-links-/?googletranslate=true",
+      "final_url": "https://www.fiachras.ie/parents-area/useful-links-/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.fiachras.ie/parents-area/school-uniform-/",
+      "final_url": "https://www.fiachras.ie/parents-area/school-uniform-/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Uniform"
+    },
+    {
+      "url": "https://www.fiachras.ie/parents-area/school-uniform-/?googletranslate=true",
+      "final_url": "https://www.fiachras.ie/parents-area/school-uniform-/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.fiachras.ie/parents-area/referral-forms/",
+      "final_url": "https://www.fiachras.ie/parents-area/referral-forms/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Referral Forms"
+    },
+    {
+      "url": "https://www.fiachras.ie/parents-area/referral-forms/?googletranslate=true",
+      "final_url": "https://www.fiachras.ie/parents-area/referral-forms/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.fiachras.ie/parents-area/parents-council/",
+      "final_url": "https://www.fiachras.ie/parents-area/parents-council/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents' Council"
+    },
+    {
+      "url": "https://www.fiachras.ie/parents-area/parents-council/?googletranslate=true",
+      "final_url": "https://www.fiachras.ie/parents-area/parents-council/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.fiachras.ie/parents-area/",
+      "final_url": "https://www.fiachras.ie/parents-area/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents' Area Tuismitheoirí"
+    },
+    {
+      "url": "https://www.fiachras.ie/parents-area/?googletranslate=true",
+      "final_url": "https://www.fiachras.ie/parents-area/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.fiachras.ie/our-school/policies-and-documents/",
+      "final_url": "https://www.fiachras.ie/our-school/policies-and-documents/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies & Documents"
+    },
+    {
+      "url": "https://www.fiachras.ie/our-school/policies-and-documents/?googletranslate=true",
+      "final_url": "https://www.fiachras.ie/our-school/policies-and-documents/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.fiachras.ie/documentlink/52/?open=true&download=true",
+      "final_url": "https://swdcache.b-cdn.net/941/docletter/20260612054113_55_B_Cine_lta_Student_Poster.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.fiachras.ie/documentlink/50/?open=true&download=true",
+      "final_url": "https://swdcache.b-cdn.net/941/docletter/20260112100635_50_ANNUAL_ADMISSION_NOTICE_2026_2027.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.fiachras.ie/documentlink/49/?open=true&download=true",
+      "final_url": "https://swdcache.b-cdn.net/941/docletter/20260112100338_6_St._Fiachra_s_SNS_-_Acceptable_Use_Agreement.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.fiachras.ie/documentlink/48/?open=true&download=true",
+      "final_url": "https://swdcache.b-cdn.net/941/docletter/20260112095717_29_ACCEPTABLE_USE_POLICY.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.fiachras.ie/documentlink/47/?open=true&download=true",
+      "final_url": "https://swdcache.b-cdn.net/941/docletter/20260112093748_57_St._Fiachra_s_Senior_National_School_-_Admissions_Policy_2026_27.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": ""
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19628E",
+      "url": "https://www.fiachras.ie/admissions/?googletranslate=true",
+      "label": "",
+      "sha256": "3a7683fb2e63b1f8f766a0d8db59d049462d8970915fe4515ac2b0b7fe722824",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19628E_3a7683fb2e63b1f8f766.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 520
+    },
+    {
+      "roll": "19628E",
+      "url": "https://www.fiachras.ie/admissions/",
+      "label": "Admissions Iontrála",
+      "sha256": "f2cd7b3de914c2b7fcce52df2d7381ad8741792a9c34afa02094204188cb0f3a",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19628E_f2cd7b3de914c2b7fcce.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 520
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.fiachras.ie/documentlink/44/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.fiachras.ie/documentlink/42/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.fiachras.ie/documentlink/41/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.fiachras.ie/documentlink/40/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.fiachras.ie/documentlink/37/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.fiachras.ie/documentlink/33/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.fiachras.ie/documentlink/32/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.fiachras.ie/documentlink/31/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.fiachras.ie/documentlink/31/?open=true",
+      "label": "Admissions Policy.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.fiachras.ie/documentlink/30/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.fiachras.ie/documentlink/29/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.fiachras.ie/documentlink/28/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.fiachras.ie/documentlink/27/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.fiachras.ie/documentlink/26/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.fiachras.ie/documentlink/25/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.fiachras.ie/admin/?open=/parents-area/useful-links-/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.fiachras.ie/admin/?open=/parents-area/useful-links-/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.fiachras.ie/admin/?open=/parents-area/school-uniform-/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.fiachras.ie/admin/?open=/parents-area/school-uniform-/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.fiachras.ie/admin/?open=/parents-area/referral-forms/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.fiachras.ie/admin/?open=/parents-area/referral-forms/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.fiachras.ie/admin/?open=/parents-area/parents-council/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.fiachras.ie/admin/?open=/parents-area/parents-council/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.fiachras.ie/admin/?open=/parents-area/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.fiachras.ie/admin/?open=/parents-area/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.fiachras.ie/admin/?open=/our-school/policies-and-documents/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.fiachras.ie/admin/?open=/our-school/policies-and-documents/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.fiachras.ie/",
+      "label": "School homepage",
+      "via": "home"
+    },
+    {
+      "url": "https://www.fiachras.ie/documentlink/41/?open=true",
+      "label": "Bí Cineálta Policy September 2025.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.fiachras.ie/documentlink/48/?open=true",
+      "label": "ACCEPTABLE USE POLICY.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.fiachras.ie/documentlink/32/?open=true",
+      "label": "Child Protection Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.fiachras.ie/documentlink/30/?open=true",
+      "label": "Transition Year Work Experience Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.fiachras.ie/documentlink/29/?open=true",
+      "label": "Data Protection Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.fiachras.ie/documentlink/28/?open=true",
+      "label": "Protected Disclosures Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.fiachras.ie/documentlink/27/?open=true",
+      "label": "Critical Incident Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.fiachras.ie/cmsfiles/policies/privacy/",
+      "label": "Website Privacy Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.fiachras.ie/cmsfiles/policies/cookie/",
+      "label": "Cookie Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 70.71,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:08:36+0000"
+}

@@ -1,0 +1,25 @@
+{
+  "roll": "20397S",
+  "capture": {
+    "timestamp": "20230131230944",
+    "original": "https://stlouisesprimaryschool.ie/2022/12/01/annual-admission-notice/",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "digest": "F7ZLZDOJOLVAGU54K2N6GEOPEO6P5HCO"
+  },
+  "original_url": "https://stlouisesprimaryschool.ie/2022/12/01/annual-admission-notice/",
+  "archived_url": "https://web.archive.org/web/20230131230944/https://stlouisesprimaryschool.ie/2022/12/01/annual-admission-notice/",
+  "attempted_at": "2026-11-08T12:54:51.868375+00:00",
+  "linked_from_capture": null,
+  "http_status": 200,
+  "headers": {
+    "Content-Type": "text/html; charset=UTF-8",
+    "memento-datetime": "Tue, 31 Jan 2023 23:09:44 GMT"
+  },
+  "bytes": 89638,
+  "payload_sha256": "fb2ca9db179c697de40eeadfecda96c3b909bc8c42e718a08098f67c3f775c95",
+  "format": "html",
+  "status": "archived_body_retrieved_requires_manual_evidence_review",
+  "text_file": "database/milestone2/evidence/exact_20397S_fb2ca9db179c697de40e.txt",
+  "linked_document_candidates": []
+}

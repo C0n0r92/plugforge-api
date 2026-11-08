@@ -1,0 +1,225 @@
+{
+  "roll": "20269J",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://scoilchormaiccns.ie/annual-admission-notice-2026-27/",
+      "final_url": "https://scoilchormaiccns.ie/wp-content/uploads/2025/10/Annual-Admission-Notice-2026.27.pdf",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions Notice"
+    },
+    {
+      "url": "https://scoilchormaiccns.ie/enrol/",
+      "final_url": "https://scoilchormaiccns.ie/enrol/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Enrol"
+    },
+    {
+      "url": "https://scoilchormaiccns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://scoilchormaiccns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://scoilchormaiccns.ie/wp-content/uploads/2014/07/Application-for-Admission-Enrolment-Form.doc",
+      "final_url": "https://scoilchormaiccns.ie/wp-content/uploads/2014/07/Application-for-Admission-Enrolment-Form.doc",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Application for Admission Enrolment Form"
+    },
+    {
+      "url": "https://scoilchormaiccns.ie/wp-content/uploads/2020/12/Application-for-Admission-Enrolment-Form.doc",
+      "final_url": "https://scoilchormaiccns.ie/wp-content/uploads/2020/12/Application-for-Admission-Enrolment-Form.doc",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Application-for-Admission-Enrolment-Form"
+    },
+    {
+      "url": "https://scoilchormaiccns.ie/wp-content/uploads/2014/07/201141021-Admission-policy-2015-to-2016-final.pdf",
+      "final_url": "https://scoilchormaiccns.ie/wp-content/uploads/2014/07/201141021-Admission-policy-2015-to-2016-final.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admission Policy"
+    },
+    {
+      "url": "https://scoilchormaiccns.ie/wp-content/uploads/2014/07/Admission-Policy-2020-to-2021-FINAL.pdf",
+      "final_url": "https://scoilchormaiccns.ie/wp-content/uploads/2014/07/Admission-Policy-2020-to-2021-FINAL.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admission Policy 2020 to 2021 FINAL"
+    },
+    {
+      "url": "https://scoilchormaiccns.ie/wp-content/uploads/2018/12/Admissions-policy-for-January-2019-4.pdf",
+      "final_url": "https://scoilchormaiccns.ie/wp-content/uploads/2018/12/Admissions-policy-for-January-2019-4.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions policy for January 2019 4"
+    },
+    {
+      "url": "https://scoilchormaiccns.ie/wp-content/uploads/2020/12/Admissions-policy-for-January-2019-4.pdf",
+      "final_url": "https://scoilchormaiccns.ie/wp-content/uploads/2020/12/Admissions-policy-for-January-2019-4.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions-policy-for-January-2019-4"
+    },
+    {
+      "url": "https://scoilchormaiccns.ie/wp-content/uploads/2020/12/Admission-Policy-2020-to-2021-FINAL.pdf",
+      "final_url": "https://scoilchormaiccns.ie/wp-content/uploads/2020/12/Admission-Policy-2020-to-2021-FINAL.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admission-Policy-2020-to-2021-FINAL"
+    },
+    {
+      "url": "https://scoilchormaiccns.ie/wp-content/uploads/2020/12/1.-Scoil-Chormaic-CNS-Admission-Policy-final-4.pdf",
+      "final_url": "https://scoilchormaiccns.ie/wp-content/uploads/2020/12/1.-Scoil-Chormaic-CNS-Admission-Policy-final-4.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "1.-Scoil-Chormaic-CNS-Admission-Policy-final-4"
+    },
+    {
+      "url": "https://scoilchormaiccns.ie/wp-content/uploads/2020/10/1.-Scoil-Chormaic-CNS-Admission-Policy-final-4.pdf",
+      "final_url": "https://scoilchormaiccns.ie/wp-content/uploads/2020/10/1.-Scoil-Chormaic-CNS-Admission-Policy-final-4.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "1.-Scoil-Chormaic-CNS-Admission-Policy-final-4"
+    },
+    {
+      "url": "https://scoilchormaiccns.ie/wp-content/uploads/2022/10/1.-Scoil-Chormaic-CNS-Admissions-Policy-2023-FINAL.pdf",
+      "final_url": "https://scoilchormaiccns.ie/wp-content/uploads/2022/10/1.-Scoil-Chormaic-CNS-Admissions-Policy-2023-FINAL.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Scoil Chormaic CNS Admissions Policy 2023 FINAL"
+    },
+    {
+      "url": "https://scoilchormaiccns.ie/wp-content/uploads/2023/11/Scoil-Chormaic-CNS-Admission-Policy-2024-to-2025-CNS.pdf",
+      "final_url": "https://scoilchormaiccns.ie/wp-content/uploads/2023/11/Scoil-Chormaic-CNS-Admission-Policy-2024-to-2025-CNS.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Scoil-Chormaic-CNS-Admission-Policy-2024-to-2025-CNS"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "20269J",
+      "url": "https://scoilchormaiccns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "label": "Oldest public admission media (all dates)",
+      "sha256": "36cbaa0063bd9e5f2881e25aa9cf6b4f650a19557726b9794dd706329212bad6",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20269J_36cbaa0063bd9e5f2881.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 773
+    },
+    {
+      "roll": "20269J",
+      "url": "https://scoilchormaiccns.ie/wp-content/uploads/2020/12/1.-Scoil-Chormaic-CNS-Admission-Policy-final-4.pdf",
+      "label": "1.-Scoil-Chormaic-CNS-Admission-Policy-final-4",
+      "sha256": "e5bc8d61d60e63a86a0b86d2986a95ab35d3a5e94028f2527269aaa1ba57f101",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20269J_e5bc8d61d60e63a86a0b.txt",
+      "source_file": "database/milestone2/cache/e5bc8d61d60e63a86a0b86d2986a95ab35d3a5e94028f2527269aaa1ba57f101.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 54837
+    },
+    {
+      "roll": "20269J",
+      "url": "https://scoilchormaiccns.ie/wp-content/uploads/2022/10/1.-Scoil-Chormaic-CNS-Admissions-Policy-2023-FINAL.pdf",
+      "label": "Scoil Chormaic CNS Admissions Policy 2023 FINAL",
+      "sha256": "6baed300495e217edc89cce9b711844f5ce6d64adc8ec840362e752795649e1b",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20269J_6baed300495e217edc89.txt",
+      "source_file": "database/milestone2/cache/6baed300495e217edc89cce9b711844f5ce6d64adc8ec840362e752795649e1b.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 65988
+    },
+    {
+      "roll": "20269J",
+      "url": "https://scoilchormaiccns.ie/wp-content/uploads/2023/11/Scoil-Chormaic-CNS-Admission-Policy-2024-to-2025-CNS.pdf",
+      "label": "Scoil-Chormaic-CNS-Admission-Policy-2024-to-2025-CNS",
+      "sha256": "11472a781e43c0e27f6b39c53a606419bed192dacfaeb6df1664054ef0f5847c",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20269J_11472a781e43c0e27f6b.txt",
+      "source_file": "database/milestone2/cache/11472a781e43c0e27f6b39c53a606419bed192dacfaeb6df1664054ef0f5847c.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 68646
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://scoilchormaiccns.ie/wp-content/uploads/2023/11/Scoil-Chormaic-CNS-Admission-Policy-2024-to-2025-CNS-1.pdf",
+      "label": "Scoil-Chormaic-CNS-Admission-Policy-2024-to-2025-CNS-1",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://scoilchormaiccns.ie/wp-content/uploads/2024/12/Policy-for-Admission-25.26.pdf",
+      "label": "Admissions Policy 2025-2026",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://scoilchormaiccns.ie/wp-content/uploads/2025/10/Scoil-Chormaic-CNS-Admission-Policy-2026-to-2027.pdf",
+      "label": "Scoil Chormaic CNS Admission Policy 2026 to 2027",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://scoilchormaiccns.ie/admpol2627/",
+      "label": "Admissions Policy 2026-2027",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://scoilchormaiccns.ie/sitemap.xml",
+      "label": "Public sitemap",
+      "via": "sitemap_root"
+    },
+    {
+      "url": "https://scoilchormaiccns.ie/parents/positive-behaviour/",
+      "label": "Positive Behaviour",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://scoilchormaiccns.ie/parents/",
+      "label": "Parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://scoilchormaiccns.ie/parent-handbook/",
+      "label": "Parent Handbook",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://scoilchormaiccns.ie/parent-guardian-teacher-association/",
+      "label": "Parent Guardian Teacher Association",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://scoilchormaiccns.ie/parent-association/",
+      "label": "Parent Association",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://scoilchormaiccns.ie/maths-language-guide-for-parents/",
+      "label": "Maths Language Guide for Parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://scoilchormaiccns.ie/about/school-policies/",
+      "label": "School Policies",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://scoilchormaiccns.ie/",
+      "label": "School homepage",
+      "via": "home"
+    },
+    {
+      "url": "https://scoilchormaiccns.ie/wp-content/uploads/2024/12/Application-Form-2025.26.pdf",
+      "label": "Application Form 2025-2026",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 152.08,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:39:01+0000"
+}

@@ -1,0 +1,114 @@
+{
+  "roll": "20523U",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://goatstownetns.ie/pre-enrolment/",
+      "final_url": "https://goatstownetns.ie/pre-enrolment/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Pre-Enrolment/Waiting Lists"
+    },
+    {
+      "url": "https://goatstownetns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://goatstownetns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "robots_disallow",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://goatstownetns.ie/pre-enrolment-for-autism-class/",
+      "final_url": "https://goatstownetns.ie/pre-enrolment-for-autism-class/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Pre-Enrolment for Autism Class"
+    },
+    {
+      "url": "https://goatstownetns.ie/admissions/",
+      "final_url": "https://goatstownetns.ie/admissions/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://goatstownetns.ie/wp-content/uploads/2026/09/2027-28-Annual-Admissions-Notice.pdf",
+      "final_url": "https://goatstownetns.ie/wp-content/uploads/2026/09/2027-28-Annual-Admissions-Notice.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "2027-2028 Annual Admissions Notice"
+    },
+    {
+      "url": "https://goatstownetns.ie/wp-content/uploads/2025/10/Admissions-Policy-Updated-October-2025.pdf",
+      "final_url": "https://goatstownetns.ie/wp-content/uploads/2025/10/Admissions-Policy-Updated-October-2025.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Admission Policy"
+    },
+    {
+      "url": "https://goatstownetns.ie/20th-october-2026-27-pre-enrolment-opens/",
+      "final_url": "https://goatstownetns.ie/20th-october-2026-27-pre-enrolment-opens/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions/policy URL from public sitemap"
+    },
+    {
+      "url": "https://www.goatstownstillorganetns.com",
+      "final_url": "https://goatstownetns.ie/",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://goatstownetns.ie/sitemap_index.xml",
+      "final_url": "https://goatstownetns.ie/sitemap_index.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://goatstownetns.ie/post-sitemap.xml",
+      "final_url": "https://goatstownetns.ie/post-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://goatstownetns.ie/page-sitemap.xml",
+      "final_url": "https://goatstownetns.ie/page-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://goatstownetns.ie/wp-content/uploads/2023/01/pre-enrollment-2022-1024x1024.png",
+      "final_url": "https://goatstownetns.ie/wp-content/uploads/2023/01/pre-enrollment-2022-1024x1024.png",
+      "status": "robots_disallow",
+      "via": "sitemap_link",
+      "label": "Admission URL from sitemap"
+    },
+    {
+      "url": "https://goatstownetns.ie/elementskit_template-sitemap.xml",
+      "final_url": "https://goatstownetns.ie/elementskit_template-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "20523U",
+      "url": "https://goatstownetns.ie/admissions/",
+      "label": "Admissions",
+      "sha256": "7c3e9e9f9faf0444e25ebe5695582d2733822ebe7be867612e1964d9344984ff",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20523U_7c3e9e9f9faf0444e25e.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1465
+    }
+  ],
+  "pending_links": [],
+  "elapsed_seconds": 44.4,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:12:30+0000"
+}

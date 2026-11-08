@@ -1,0 +1,273 @@
+{
+  "roll": "20220C",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.gsue.ie/uploads/5/5/0/0/5500604/polasaí_iontrála_ghaelscoil_uí_earcáin_gaeilge_2025.pages",
+      "final_url": "https://www.gsue.ie/uploads/5/5/0/0/5500604/polasaí_iontrála_ghaelscoil_uí_earcáin_gaeilge_2025.pages",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "https://www.gsue.ie/26-claacuteraigh-admission--register.html",
+      "final_url": "https://www.gsue.ie/26-claacuteraigh-admission--register.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "26 Cláraigh /Admission / Register"
+    },
+    {
+      "url": "https://www.gsue.ie/uploads/5/5/0/0/5500604/polasai%CC%81_iontra%CC%81la_ghaelscoil_ui%CC%81_earca%CC%81in_gaeilge_2025.pdf",
+      "final_url": "https://www.gsue.ie/uploads/5/5/0/0/5500604/polasai%CC%81_iontra%CC%81la_ghaelscoil_ui%CC%81_earca%CC%81in_gaeilge_2025.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Léigh an Polasaí"
+    },
+    {
+      "url": "https://www.gsue.ie/uploads/5/5/0/0/5500604/polasai%CC%81_iontra%CC%81la_ghaelscoil_ui%CC%81_earca%CC%81in_be%CC%81arla_2025.pdf",
+      "final_url": "https://www.gsue.ie/uploads/5/5/0/0/5500604/polasai%CC%81_iontra%CC%81la_ghaelscoil_ui%CC%81_earca%CC%81in_be%CC%81arla_2025.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Read Admission Policy"
+    },
+    {
+      "url": "https://www.gsue.ie/tuismitheoiriacutecaomhnoacuteiriacute-na-naiacuteonaacutein-nua-new-ji-parentsguardians.html",
+      "final_url": "https://www.gsue.ie/tuismitheoiriacutecaomhnoacuteiriacute-na-naiacuteonaacutein-nua-new-ji-parentsguardians.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Tuismitheoirí/Caomhnóirí na Naíonáin Nua/ New JI Parents/Guardians"
+    },
+    {
+      "url": "https://www.gsue.ie/tuismitheoiriacute---parents.html",
+      "final_url": "https://www.gsue.ie/tuismitheoiriacute---parents.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Tuismitheoirí - Parents"
+    },
+    {
+      "url": "https://www.gsue.ie/sitemap.xml",
+      "final_url": "https://www.gsue.ie/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.gsue.ie/nuacht/paist-ag-tosn-men-fmhair-2014-children-enrolling-in-september-2014",
+      "final_url": "https://www.gsue.ie/nuacht/paist-ag-tosn-men-fmhair-2014-children-enrolling-in-september-2014",
+      "status": "ok",
+      "via": "sitemap_link",
+      "label": "Admission URL from sitemap"
+    },
+    {
+      "url": "https://www.gsue.ie/ceacuteimithe-2017/na-fiontraithe-oga",
+      "final_url": "https://www.gsue.ie/ceacuteimithe-2017/na-fiontraithe-oga",
+      "status": "ok",
+      "via": "sitemap_link",
+      "label": "Admission URL from sitemap"
+    },
+    {
+      "url": "https://www.gsue.ie/ceacuteimithe-2018/an-fiontrai-og",
+      "final_url": "https://www.gsue.ie/ceacuteimithe-2018/an-fiontrai-og",
+      "status": "ok",
+      "via": "sitemap_link",
+      "label": "Admission URL from sitemap"
+    },
+    {
+      "url": "https://www.gsue.ie/ceacuteimithe-2018/a-fiontrai-og",
+      "final_url": "https://www.gsue.ie/ceacuteimithe-2018/a-fiontrai-og",
+      "status": "ok",
+      "via": "sitemap_link",
+      "label": "Admission URL from sitemap"
+    },
+    {
+      "url": "https://www.gsue.ie/nuacht/r5-fiontrai-og-junior-entrepreneur",
+      "final_url": "https://www.gsue.ie/nuacht/r5-fiontrai-og-junior-entrepreneur",
+      "status": "ok",
+      "via": "sitemap_link",
+      "label": "Admission URL from sitemap"
+    },
+    {
+      "url": "https://www.gsue.ie/polasaithe--policies.html",
+      "final_url": "https://www.gsue.ie/polasaithe--policies.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Polasaithe / Policies"
+    },
+    {
+      "url": "https://www.gsue.ie/uploads/5/5/0/0/5500604/fógra_iontrála_gsue_2021.pdf",
+      "final_url": "https://www.gsue.ie/uploads/5/5/0/0/5500604/fógra_iontrála_gsue_2021.pdf",
+      "status": "http_404",
+      "via": "school_public_link",
+      "label": "Fógra Iontrála / Admission Notice"
+    },
+    {
+      "url": "https://www.gsue.ie/uploads/5/5/0/0/5500604/fógra_iontrála_gsue_2022.pdf",
+      "final_url": "https://www.gsue.ie/uploads/5/5/0/0/5500604/fógra_iontrála_gsue_2022.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.gsue.ie/uploads/5/5/0/0/5500604/polasaí_iontrála_ghaelscoil_uí_earcáin_gaeilge_2022_2023.pdf",
+      "final_url": "https://www.gsue.ie/uploads/5/5/0/0/5500604/polasaí_iontrála_ghaelscoil_uí_earcáin_gaeilge_2022_2023.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.gsue.ie/uploads/5/5/0/0/5500604/polasaí_iontrála_ghaelscoil_uí_earcáin_béarla_2022_2023.pdf",
+      "final_url": "https://www.gsue.ie/uploads/5/5/0/0/5500604/polasaí_iontrála_ghaelscoil_uí_earcáin_béarla_2022_2023.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.gsue.ie/uploads/5/5/0/0/5500604/bí_cineálta_leagan_béarla.pdf",
+      "final_url": "https://www.gsue.ie/uploads/5/5/0/0/5500604/bí_cineálta_leagan_béarla.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: bí_cineálta_leagan_béarla.pdf"
+    },
+    {
+      "url": "https://www.gsue.ie/uploads/5/5/0/0/5500604/bí_cineálta_gsue.pdf",
+      "final_url": "https://www.gsue.ie/uploads/5/5/0/0/5500604/bí_cineálta_gsue.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: bí_cineálta_gsue.pdf"
+    },
+    {
+      "url": "https://www.gsue.ie/uploads/5/5/0/0/5500604/polasaí_fóin_pócaí_gsue_07102015.pdf",
+      "final_url": "https://www.gsue.ie/uploads/5/5/0/0/5500604/polasaí_fóin_pócaí_gsue_07102015.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "​ Polasaí Fóin Pócaí / Mobile Phone Policy"
+    },
+    {
+      "url": "https://www.gsue.ie/nascanna-do-thuismitheoiriacute--links-for-parents.html",
+      "final_url": "https://www.gsue.ie/nascanna-do-thuismitheoiriacute--links-for-parents.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Nascanna do Thuismitheoirí / Links for parents"
+    },
+    {
+      "url": "https://www.gsue.ie/foirm-iarratais-um-ligean-isteach--application-form-for-admission.html",
+      "final_url": "https://www.gsue.ie/foirm-iarratais-um-ligean-isteach--application-form-for-admission.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Foirm Iarratais um Ligean Isteach / Application Form  for Admission"
+    },
+    {
+      "url": "https://www.gsue.ie/uploads/5/5/0/0/5500604/polasaí_iontrála_ghaelscoil_uí_earcáin_gaeilge_2025.pdf",
+      "final_url": "https://www.gsue.ie/uploads/5/5/0/0/5500604/polasaí_iontrála_ghaelscoil_uí_earcáin_gaeilge_2025.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Polasaí Iontrála (Gaeilge)"
+    },
+    {
+      "url": "https://www.gsue.ie/uploads/5/5/0/0/5500604/polasaí_iontrála_ghaelscoil_uí_earcáin_béarla_2025.pdf",
+      "final_url": "https://www.gsue.ie/uploads/5/5/0/0/5500604/polasaí_iontrála_ghaelscoil_uí_earcáin_béarla_2025.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    }
+  ],
+  "documents": [
+    {
+      "roll": "20220C",
+      "url": "https://www.gsue.ie/26-claacuteraigh-admission--register.html",
+      "label": "26 Cláraigh /Admission / Register",
+      "sha256": "011a3ad0761438fe12bef2858aaca8c528acb2b8a78c4c508562e265d6b84fbc",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20220C_011a3ad0761438fe12be.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 4586
+    },
+    {
+      "roll": "20220C",
+      "url": "https://www.gsue.ie/uploads/5/5/0/0/5500604/polasai%CC%81_iontra%CC%81la_ghaelscoil_ui%CC%81_earca%CC%81in_gaeilge_2025.pdf",
+      "label": "Léigh an Polasaí",
+      "sha256": "b8132374733c6d71a1a7b2cd4c02a2c5878f67844d6c62e7be3fe8d11824555f",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20220C_b8132374733c6d71a1a7.txt",
+      "source_file": "database/milestone2/cache/b8132374733c6d71a1a7b2cd4c02a2c5878f67844d6c62e7be3fe8d11824555f.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 35860
+    },
+    {
+      "roll": "20220C",
+      "url": "https://www.gsue.ie/uploads/5/5/0/0/5500604/polasai%CC%81_iontra%CC%81la_ghaelscoil_ui%CC%81_earca%CC%81in_be%CC%81arla_2025.pdf",
+      "label": "Read Admission Policy",
+      "sha256": "631e6d1edf26e6d2ee48a7a1592c806befcd5fe43d25af4adc95e618edb4ee80",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20220C_631e6d1edf26e6d2ee48.txt",
+      "source_file": "database/milestone2/cache/631e6d1edf26e6d2ee48a7a1592c806befcd5fe43d25af4adc95e618edb4ee80.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 28339
+    },
+    {
+      "roll": "20220C",
+      "url": "https://www.gsue.ie/polasaithe--policies.html",
+      "label": "Polasaithe / Policies",
+      "sha256": "78a59e00774e6e1c2104d38e5a92c701dfeac6c1b9d96ad2e12a1a47919f299b",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20220C_78a59e00774e6e1c2104.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1625
+    },
+    {
+      "roll": "20220C",
+      "url": "https://www.gsue.ie/uploads/5/5/0/0/5500604/fógra_iontrála_gsue_2022.pdf",
+      "label": "",
+      "sha256": "b975342b2d88e97c64f774bc6ad5f87694a7a0b95c37953c77d30283f5e14828",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20220C_b975342b2d88e97c64f7.txt",
+      "source_file": "database/milestone2/cache/b975342b2d88e97c64f774bc6ad5f87694a7a0b95c37953c77d30283f5e14828.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 4684
+    },
+    {
+      "roll": "20220C",
+      "url": "https://www.gsue.ie/uploads/5/5/0/0/5500604/polasaí_iontrála_ghaelscoil_uí_earcáin_gaeilge_2022_2023.pdf",
+      "label": "",
+      "sha256": "12011389e0643cfcd23756b54f1603403badea687b2a9153ecda34e02ad7608d",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20220C_12011389e0643cfcd237.txt",
+      "source_file": "database/milestone2/cache/12011389e0643cfcd23756b54f1603403badea687b2a9153ecda34e02ad7608d.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 27151
+    },
+    {
+      "roll": "20220C",
+      "url": "https://www.gsue.ie/uploads/5/5/0/0/5500604/polasaí_iontrála_ghaelscoil_uí_earcáin_béarla_2022_2023.pdf",
+      "label": "",
+      "sha256": "e20703037cba772e106dc41bfc06eb1bca2464ee99dd6345c3ac2853cfe2c3de",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20220C_e20703037cba772e106d.txt",
+      "source_file": "database/milestone2/cache/e20703037cba772e106dc41bfc06eb1bca2464ee99dd6345c3ac2853cfe2c3de.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 25946
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.gsue.ie/cuacutersaiacute-do-thusmitheoiriacuteparent-courses.html",
+      "label": "Cúrsaí do Thusmitheoirí/Parent Courses",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.gsue.ie/coiste-na-dtusitiacute--parentsrsquo-association.html",
+      "label": "Coiste na dTusití / Parents’ Association",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.gsue.ie/",
+      "label": "School homepage",
+      "via": "home"
+    }
+  ],
+  "elapsed_seconds": 71.85,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:48:04+0000"
+}

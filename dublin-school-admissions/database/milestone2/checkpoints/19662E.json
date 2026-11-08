@@ -1,0 +1,95 @@
+{
+  "roll": "19662E",
+  "status": "bounded_search_no_new_notice_found",
+  "attempts": [
+    {
+      "url": "https://stmichaelsns.blogspot.com/p/admissions.html",
+      "final_url": "https://stmichaelsns.blogspot.com/p/admissions.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "New Enrolments 2027/2028"
+    },
+    {
+      "url": "https://drive.google.com/file/d/1V8W4vxxbqDY7D9gFPjGie-QaL9Fph9u6/view?usp=drive_link",
+      "final_url": "https://drive.google.com/file/d/1V8W4vxxbqDY7D9gFPjGie-QaL9Fph9u6/view?usp=drive_link",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions Notice 2027/2028"
+    },
+    {
+      "url": "https://drive.google.com/file/d/1d4IgA9GsDiEV_Bmuy0tqWAcdGwd7fo2z/view?usp=drive_link",
+      "final_url": "https://drive.google.com/file/d/1d4IgA9GsDiEV_Bmuy0tqWAcdGwd7fo2z/view?usp=drive_link",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Application for Enrolment Form"
+    },
+    {
+      "url": "https://stmichaelsns.blogspot.com/2020/07/would-you-like-to-enrol-your-child-for.html",
+      "final_url": "https://stmichaelsns.blogspot.com/2020/07/would-you-like-to-enrol-your-child-for.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions/policy URL from public sitemap"
+    },
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRcEvr2DClYUq45kg7Yl4gNvfGrscmYPytUAlgJMY2Czi87a_VmCstXI2iBDzvtjnuDmTH3csm-xbHlD_vSAlacO1LCtsliYPV3ebqnDPsUrgE2ijQDnUnc84mf-beHDXmZqPwz3ZxmfLz/s1600/Enrolment.PNG",
+      "final_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRcEvr2DClYUq45kg7Yl4gNvfGrscmYPytUAlgJMY2Czi87a_VmCstXI2iBDzvtjnuDmTH3csm-xbHlD_vSAlacO1LCtsliYPV3ebqnDPsUrgE2ijQDnUnc84mf-beHDXmZqPwz3ZxmfLz/s1600/Enrolment.PNG",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://stmichaelsns.blogspot.com/sitemap.xml",
+      "final_url": "https://stmichaelsns.blogspot.com/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://stmichaelsns.blogspot.com/p/policies.html",
+      "final_url": "https://stmichaelsns.blogspot.com/p/policies.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://stmichaelsns.blogspot.com",
+      "final_url": "https://stmichaelsns.blogspot.com",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://drive.google.com/sitemap.xml",
+      "final_url": "https://drive.google.com/sitemap.xml",
+      "status": "robots_disallow",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://drive.google.com/file/d/1WXj7rfBvLzf1nOpOGv5CKZOqKHZb6Wn1/view?usp=sharing",
+      "final_url": "https://drive.google.com/file/d/1WXj7rfBvLzf1nOpOGv5CKZOqKHZb6Wn1/view?usp=sharing",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions Policy"
+    },
+    {
+      "url": "https://drive.google.com/file/d/16VFK0GhlAuDjMcW2UwzVIcX4ZrBVpDnE/view?usp=sharing",
+      "final_url": "https://drive.google.com/file/d/16VFK0GhlAuDjMcW2UwzVIcX4ZrBVpDnE/view?usp=sharing",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Enrolment Policy for Autism Classroom"
+    },
+    {
+      "url": "https://blogger.googleusercontent.com/sitemap.xml",
+      "final_url": "https://blogger.googleusercontent.com/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    }
+  ],
+  "documents": [],
+  "pending_links": [],
+  "elapsed_seconds": 19.4,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:07:54+0000"
+}

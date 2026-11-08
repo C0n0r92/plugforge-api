@@ -1,0 +1,185 @@
+{
+  "roll": "19541P",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.solaschriost.ie/admissions.html",
+      "final_url": "https://www.solaschriost.ie/admissions.html",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://www.solaschriost.ie/files/SCNS-Application-for-Admission-Form-Mainstream-Master_0mpwbxr3.pdf",
+      "final_url": "https://www.solaschriost.ie/files/SCNS-Application-for-Admission-Form-Mainstream-Master_0mpwbxr3.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Click Here"
+    },
+    {
+      "url": "https://www.solaschriost.ie/files/SCNS-Admission-Policy-for-Sept-2027-Master.pdf",
+      "final_url": "https://www.solaschriost.ie/files/SCNS-Admission-Policy-for-Sept-2027-Master.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "SCNS Admission Policy"
+    },
+    {
+      "url": "https://www.solaschriost.ie/sitemap.xml",
+      "final_url": "https://www.solaschriost.ie/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.solaschriost.ie/school-policies.html",
+      "final_url": "https://www.solaschriost.ie/school-policies.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Policies"
+    },
+    {
+      "url": "https://www.solaschriost.ie/files/SCNS-BOM-Report-to-Parents-2024-25.pdf",
+      "final_url": "https://www.solaschriost.ie/files/SCNS-BOM-Report-to-Parents-2024-25.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "SCNS Board of Management Annual Report 2024/25"
+    },
+    {
+      "url": "https://www.solaschriost.ie/files/Parental-Complaints-Procedure_V4-final.pdf",
+      "final_url": "https://www.solaschriost.ie/files/Parental-Complaints-Procedure_V4-final.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parentals Complaints Procedure"
+    },
+    {
+      "url": "https://www.solaschriost.ie/files/SCNS-Healthy-Eating-Policy-Oct-2014.PDF",
+      "final_url": "https://www.solaschriost.ie/files/SCNS-Healthy-Eating-Policy-Oct-2014.PDF",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Healthy Eating Policy"
+    },
+    {
+      "url": "https://www.solaschriost.ie/parents-association.html",
+      "final_url": "https://www.solaschriost.ie/parents-association.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents Association"
+    },
+    {
+      "url": "https://www.solaschriost.ie/parent-news.html",
+      "final_url": "https://www.solaschriost.ie/parent-news.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parent News"
+    },
+    {
+      "url": "https://www.solaschriost.ie/parent-links.html",
+      "final_url": "https://www.solaschriost.ie/parent-links.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parent Links"
+    },
+    {
+      "url": "https://www.solaschriost.ie",
+      "final_url": "https://www.solaschriost.ie",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.solaschriost.ie/files/Working-Together_2024-SRBHG.pdf",
+      "final_url": "https://www.solaschriost.ie/files/Working-Together_2024-SRBHG.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Staff Working Together Policy"
+    },
+    {
+      "url": "https://www.solaschriost.ie/files/Substance-Use-Policy-4th-November-2024.pdf",
+      "final_url": "https://www.solaschriost.ie/files/Substance-Use-Policy-4th-November-2024.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Substance Use Policy"
+    },
+    {
+      "url": "https://www.solaschriost.ie/files/SCNS-Safety-Health-and-Welfare-Policy-Sep-2024.pdf",
+      "final_url": "https://www.solaschriost.ie/files/SCNS-Safety-Health-and-Welfare-Policy-Sep-2024.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Safety, Health and Welfare Policy"
+    },
+    {
+      "url": "https://www.solaschriost.ie/files/Wellbeing-Policy-2025.pdf",
+      "final_url": "https://www.solaschriost.ie/files/Wellbeing-Policy-2025.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Wellbeing Policy"
+    },
+    {
+      "url": "https://www.solaschriost.ie/files/SCNS-Bi-Cinealta-Policy-June-2025-Master.pdf",
+      "final_url": "https://www.solaschriost.ie/files/SCNS-Bi-Cinealta-Policy-June-2025-Master.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Bi Cinealta Anti-Bullying Policy"
+    },
+    {
+      "url": "https://www.solaschriost.ie/files/SCNS-Internet_Acceptable_Use_Policy_Master-Jan-2026.pdf",
+      "final_url": "https://www.solaschriost.ie/files/SCNS-Internet_Acceptable_Use_Policy_Master-Jan-2026.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Attendance Policy & Strategy"
+    },
+    {
+      "url": "https://www.solaschriost.ie/files/SCNS-Internet_Acceptable_Use_Policy_Jan-2026.pdf",
+      "final_url": "https://www.solaschriost.ie/files/SCNS-Internet_Acceptable_Use_Policy_Jan-2026.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "ICT Acceptable Use Policy"
+    },
+    {
+      "url": "https://www.solaschriost.ie/files/SCNS-Bi-Cinealta-Child-Friendly-Policy-A3.pdf",
+      "final_url": "https://www.solaschriost.ie/files/SCNS-Bi-Cinealta-Child-Friendly-Policy-A3.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Bi Cinealta Child Friendly Policy"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19541P",
+      "url": "https://www.solaschriost.ie/admissions.html",
+      "label": "Prior school admissions section",
+      "sha256": "56b9945660e9528428c1504473af026d9563697b7f21b2ac2581130b491075e2",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19541P_56b9945660e9528428c1.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 472
+    },
+    {
+      "roll": "19541P",
+      "url": "https://www.solaschriost.ie/files/SCNS-Application-for-Admission-Form-Mainstream-Master_0mpwbxr3.pdf",
+      "label": "Click Here",
+      "sha256": "1f9031a3f9563a360f36e5604f84abc73a99af3d13a7f8be713ce6dff980269b",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19541P_1f9031a3f9563a360f36.txt",
+      "source_file": "database/milestone2/cache/1f9031a3f9563a360f36e5604f84abc73a99af3d13a7f8be713ce6dff980269b.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 4996
+    },
+    {
+      "roll": "19541P",
+      "url": "https://www.solaschriost.ie/files/SCNS-Admission-Policy-for-Sept-2027-Master.pdf",
+      "label": "SCNS Admission Policy",
+      "sha256": "29826d405029c1ddd4d7a59ae11d21d0658d6f2ebccab1e1fa2aefe754dfce87",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19541P_29826d405029c1ddd4d7.txt",
+      "source_file": "database/milestone2/cache/29826d405029c1ddd4d7a59ae11d21d0658d6f2ebccab1e1fa2aefe754dfce87.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 61131
+    }
+  ],
+  "pending_links": [],
+  "elapsed_seconds": 64.58,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:56:18+0000"
+}

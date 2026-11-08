@@ -1,0 +1,174 @@
+{
+  "roll": "20103V",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://johnscottusns.ie/",
+      "final_url": "https://johnscottusns.ie/",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://johnscottusns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://johnscottusns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://johnscottusns.ie/wp-content/uploads/2019/12/Admissions-page.jpg",
+      "final_url": "https://johnscottusns.ie/wp-content/uploads/2019/12/Admissions-page.jpg",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions page"
+    },
+    {
+      "url": "https://johnscottusns.ie/wp-content/uploads/2020/02/MrClancy_Gate_Admissions_alt1.jpg",
+      "final_url": "https://johnscottusns.ie/wp-content/uploads/2020/02/MrClancy_Gate_Admissions_alt1.jpg",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "MrClancy_Gate_Admissions_alt1"
+    },
+    {
+      "url": "https://johnscottusns.ie/wp-content/uploads/2019/12/JSNS-Admissions-Policy-Jan-2019.pdf",
+      "final_url": "https://johnscottusns.ie/wp-content/uploads/2019/12/JSNS-Admissions-Policy-Jan-2019.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "JSNS-Admissions-Policy-Jan-2019"
+    },
+    {
+      "url": "https://johnscottusns.ie/wp-content/uploads/2019/11/JSNS-Admissions-Policy-Jan-2019.pdf",
+      "final_url": "https://johnscottusns.ie/wp-content/uploads/2019/11/JSNS-Admissions-Policy-Jan-2019.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "JSNS-Admissions-Policy-Jan-2019"
+    },
+    {
+      "url": "https://johnscottusns.ie/wp-content/uploads/2020/04/Draft-Admission-Policy-April-2020.pdf",
+      "final_url": "https://johnscottusns.ie/wp-content/uploads/2020/04/Draft-Admission-Policy-April-2020.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Draft Admission Policy (April 2020)"
+    },
+    {
+      "url": "https://johnscottusns.ie/admissions/",
+      "final_url": "https://johnscottusns.ie/admissions/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions"
+    },
+    {
+      "url": "http://johnscottusns.ie/wp-content/uploads/2019/12/Junior-Infant-Induction-Booklet.pdf",
+      "final_url": "http://johnscottusns.ie/wp-content/uploads/2019/12/Junior-Infant-Induction-Booklet.pdf",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "Junior Infant Induction Booklet PDF"
+    },
+    {
+      "url": "https://johnscottusns.ie/admissions/?s=",
+      "final_url": "https://johnscottusns.ie/admissions/?s=",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Click to open the search input field Click to open the search input field Search"
+    },
+    {
+      "url": "https://johnscottusns.ie/sitemap_index.xml",
+      "final_url": "https://johnscottusns.ie/sitemap_index.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://johnscottusns.ie/wpt_product_table-sitemap.xml",
+      "final_url": "https://johnscottusns.ie/wpt_product_table-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://johnscottusns.ie/post-sitemap.xml",
+      "final_url": "https://johnscottusns.ie/post-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://johnscottusns.ie/parent-resources/",
+      "final_url": "https://johnscottusns.ie/parent-resources/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parent Resources"
+    },
+    {
+      "url": "https://johnscottusns.ie/parent-resources/?s=",
+      "final_url": "https://johnscottusns.ie/parent-resources/?s=",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Click to open the search input field Click to open the search input field Search"
+    },
+    {
+      "url": "https://johnscottusns.ie/page-sitemap.xml",
+      "final_url": "https://johnscottusns.ie/page-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://docs.google.com/document/d/e/2PACX-1vRc_8D83_mC4WAjB7L-dUdAmOND-tjYvJ6lmI-eKSBWZCIf4R53QQy5Z4O9dYZ3APMlg4qdljoJAOka/pub",
+      "final_url": "https://docs.google.com/document/d/e/2PACX-1vRc_8D83_mC4WAjB7L-dUdAmOND-tjYvJ6lmI-eKSBWZCIf4R53QQy5Z4O9dYZ3APMlg4qdljoJAOka/pub",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admission Policy"
+    },
+    {
+      "url": "https://docs.google.com/sitemap.xml",
+      "final_url": "https://docs.google.com/sitemap.xml",
+      "status": "robots_disallow",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://johnscottusns.ie/policy-documents/",
+      "final_url": "https://johnscottusns.ie/policy-documents/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policy Documents"
+    },
+    {
+      "url": "https://johnscottusns.ie/policy-documents/?s=",
+      "final_url": "https://johnscottusns.ie/policy-documents/?s=",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Click to open the search input field Click to open the search input field Search"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "20103V",
+      "url": "https://johnscottusns.ie/wp-content/uploads/2020/04/Draft-Admission-Policy-April-2020.pdf",
+      "label": "Draft Admission Policy (April 2020)",
+      "sha256": "7782e453bc8c8a4a718323302c36c01b17b9b605f5073079d766f2c23ef4d85e",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20103V_7782e453bc8c8a4a7183.txt",
+      "source_file": "database/milestone2/cache/7782e453bc8c8a4a718323302c36c01b17b9b605f5073079d766f2c23ef4d85e.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 18899
+    },
+    {
+      "roll": "20103V",
+      "url": "https://docs.google.com/document/d/e/2PACX-1vRc_8D83_mC4WAjB7L-dUdAmOND-tjYvJ6lmI-eKSBWZCIf4R53QQy5Z4O9dYZ3APMlg4qdljoJAOka/pub",
+      "label": "Admission Policy",
+      "sha256": "0d19ea678a6c536decdeb6d5c5ea39dc01c25a654898a06d37d2aaf155a1a39a",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20103V_0d19ea678a6c536decde.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 18100
+    }
+  ],
+  "pending_links": [],
+  "elapsed_seconds": 73.48,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:58:47+0000"
+}

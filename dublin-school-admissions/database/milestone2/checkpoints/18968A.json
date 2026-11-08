@@ -1,0 +1,432 @@
+{
+  "roll": "18968A",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.stmalachysbns.ie/wp-content/uploads/2024/04/Admissions-Notice.jpg",
+      "final_url": "https://www.stmalachysbns.ie/wp-content/uploads/2024/04/Admissions-Notice.jpg",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions Notice"
+    },
+    {
+      "url": "https://www.stmalachysbns.ie/wp-content/uploads/2025/03/Admissions-Notice.jpg",
+      "final_url": "https://www.stmalachysbns.ie/wp-content/uploads/2025/03/Admissions-Notice.jpg",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions Notice"
+    },
+    {
+      "url": "https://www.stmalachysbns.ie/wp-content/uploads/2026/03/Admissions-Notice-26-27.jpg",
+      "final_url": "https://www.stmalachysbns.ie/wp-content/uploads/2026/03/Admissions-Notice-26-27.jpg",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions Notice 26-27"
+    },
+    {
+      "url": "https://www.stmalachysbns.ie/index.php/admission-notice/",
+      "final_url": "https://www.stmalachysbns.ie/index.php/admission-notice/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admission Notice"
+    },
+    {
+      "url": "https://www.stmalachysbns.ie/wp-content/uploads/2026/03/Annual-Admission-Notice-26-27.pdf",
+      "final_url": "https://www.stmalachysbns.ie/wp-content/uploads/2026/03/Annual-Admission-Notice-26-27.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Annual-Admission-Notice-26-27"
+    },
+    {
+      "url": "https://www.stmalachysbns.ie/wp-content/uploads/2021/05/2.-Admission-Form.docx",
+      "final_url": "https://www.stmalachysbns.ie/wp-content/uploads/2021/05/2.-Admission-Form.docx",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://www.stmalachysbns.ie/wp-content/uploads/2023/05/1.-Admissions-Applic.-Form-OUTSIDE-PUPILS3-page.docx",
+      "final_url": "https://www.stmalachysbns.ie/wp-content/uploads/2023/05/1.-Admissions-Applic.-Form-OUTSIDE-PUPILS3-page.docx",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://www.stmalachysbns.ie/wp-content/uploads/2023/05/1.-Admissions-Applic.-Form-OUTSIDE-PUPILS3-page-1.docx",
+      "final_url": "https://www.stmalachysbns.ie/wp-content/uploads/2023/05/1.-Admissions-Applic.-Form-OUTSIDE-PUPILS3-page-1.docx",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://www.stmalachysbns.ie/wp-content/uploads/2025/05/Admissions-Form.docx",
+      "final_url": "https://www.stmalachysbns.ie/wp-content/uploads/2025/05/Admissions-Form.docx",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://www.stmalachysbns.ie/wp-content/uploads/2025/05/Admissions-Form-1.docx",
+      "final_url": "https://www.stmalachysbns.ie/wp-content/uploads/2025/05/Admissions-Form-1.docx",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://www.stmalachysbns.ie/wp-content/uploads/2022/04/Admissions-Form.jpg",
+      "final_url": "https://www.stmalachysbns.ie/wp-content/uploads/2022/04/Admissions-Form.jpg",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions Form"
+    },
+    {
+      "url": "https://www.stmalachysbns.ie/wp-content/uploads/2023/05/Admissions-Form.jpg",
+      "final_url": "https://www.stmalachysbns.ie/wp-content/uploads/2023/05/Admissions-Form.jpg",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions-Form"
+    },
+    {
+      "url": "https://www.stmalachysbns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://www.stmalachysbns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://www.stmalachysbns.ie/wp-content/uploads/2022/05/2.-Annual-Admission-Notice-21-22.pdf",
+      "final_url": "https://www.stmalachysbns.ie/wp-content/uploads/2022/05/2.-Annual-Admission-Notice-21-22.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "2. Annual Admission Notice 21-22"
+    },
+    {
+      "url": "https://www.stmalachysbns.ie/wp-content/uploads/2022/05/2.-Annual-Admission-Notice-21-22-1.pdf",
+      "final_url": "https://www.stmalachysbns.ie/wp-content/uploads/2022/05/2.-Annual-Admission-Notice-21-22-1.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "2. Annual Admission Notice 21-22"
+    },
+    {
+      "url": "https://www.stmalachysbns.ie/wp-content/uploads/2023/05/2.-Annual-Admission-Notice-22-23.pdf",
+      "final_url": "https://www.stmalachysbns.ie/wp-content/uploads/2023/05/2.-Annual-Admission-Notice-22-23.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "2. Annual Admission Notice 22-23"
+    },
+    {
+      "url": "https://www.stmalachysbns.ie/wp-content/uploads/2023/04/Annual-Admission-Notice.pdf",
+      "final_url": "https://www.stmalachysbns.ie/wp-content/uploads/2023/04/Annual-Admission-Notice.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Annual Admission Notice"
+    },
+    {
+      "url": "https://www.stmalachysbns.ie/wp-content/uploads/2024/04/Annual-Admission-Notice-24-25.pdf",
+      "final_url": "https://www.stmalachysbns.ie/wp-content/uploads/2024/04/Annual-Admission-Notice-24-25.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Annual Admission Notice 24-25"
+    },
+    {
+      "url": "https://www.stmalachysbns.ie/wp-content/uploads/2025/03/Annual-Admission-Notice-2025-26-1.pdf",
+      "final_url": "https://www.stmalachysbns.ie/wp-content/uploads/2025/03/Annual-Admission-Notice-2025-26-1.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Annual Admission Notice 2025-26 (1)"
+    },
+    {
+      "url": "https://www.stmalachysbns.ie/wp-content/uploads/2026/03/Annual-Admission-Notice-26-27-1.pdf",
+      "final_url": "https://www.stmalachysbns.ie/wp-content/uploads/2026/03/Annual-Admission-Notice-26-27-1.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Annual Admission Notice 26-27 (1)"
+    },
+    {
+      "url": "https://www.stmalachysbns.ie/wp-content/uploads/2020/11/Admission-Form-2020.docx",
+      "final_url": "https://www.stmalachysbns.ie/wp-content/uploads/2020/11/Admission-Form-2020.docx",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admission Form 2020"
+    },
+    {
+      "url": "https://www.stmalachysbns.ie/wp-content/uploads/2020/11/ADMISSIONS-FORM-2020.pdf",
+      "final_url": "https://www.stmalachysbns.ie/wp-content/uploads/2020/11/ADMISSIONS-FORM-2020.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "ADMISSIONS FORM 2020"
+    },
+    {
+      "url": "https://www.stmalachysbns.ie/wp-content/uploads/2020/11/ADMISSIONS-FORM-2020.docx",
+      "final_url": "https://www.stmalachysbns.ie/wp-content/uploads/2020/11/ADMISSIONS-FORM-2020.docx",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "ADMISSIONS FORM 2020"
+    },
+    {
+      "url": "https://www.stmalachysbns.ie/wp-content/uploads/2020/11/ADMISSIONS-FORM-2020-4.pdf",
+      "final_url": "https://www.stmalachysbns.ie/wp-content/uploads/2020/11/ADMISSIONS-FORM-2020-4.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "ADMISSIONS FORM 2020"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "18968A",
+      "url": "https://www.stmalachysbns.ie/wp-content/uploads/2026/03/Annual-Admission-Notice-26-27.pdf",
+      "label": "Annual-Admission-Notice-26-27",
+      "sha256": "817427015006a8695f682aa3c710431d44594bd2cb5bc330a9adedcf19677750",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/18968A_817427015006a8695f68.txt",
+      "source_file": "database/milestone2/cache/817427015006a8695f682aa3c710431d44594bd2cb5bc330a9adedcf19677750.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1617
+    },
+    {
+      "roll": "18968A",
+      "url": "https://www.stmalachysbns.ie/wp-content/uploads/2021/05/2.-Admission-Form.docx",
+      "label": "Prior school admissions section",
+      "sha256": "491bf00646bac89afa40d83483e00404b136d9be60f4a458af953a44c9ddeec3",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/18968A_491bf00646bac89afa40.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 9827
+    },
+    {
+      "roll": "18968A",
+      "url": "https://www.stmalachysbns.ie/wp-content/uploads/2023/05/1.-Admissions-Applic.-Form-OUTSIDE-PUPILS3-page.docx",
+      "label": "Prior school admissions section",
+      "sha256": "c17d6a65510d88c3ae93cf6222f5ee5de1179c9bf4f81ea97bf166619f5f409c",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/18968A_c17d6a65510d88c3ae93.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 9556
+    },
+    {
+      "roll": "18968A",
+      "url": "https://www.stmalachysbns.ie/wp-content/uploads/2025/05/Admissions-Form.docx",
+      "label": "Prior school admissions section",
+      "sha256": "9cca0a7455814526b6a2f1bb2e46e9c1947e6b85616853ceadb5c0cd5a56dbfa",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/18968A_9cca0a7455814526b6a2.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 8507
+    },
+    {
+      "roll": "18968A",
+      "url": "https://www.stmalachysbns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "label": "Oldest public admission media (all dates)",
+      "sha256": "62e6f982296119e97e98393adeabea84b66841e0657a2460b55b8ae72e6cb9bf",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/18968A_62e6f982296119e97e98.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 5590
+    },
+    {
+      "roll": "18968A",
+      "url": "https://www.stmalachysbns.ie/wp-content/uploads/2022/05/2.-Annual-Admission-Notice-21-22.pdf",
+      "label": "2. Annual Admission Notice 21-22",
+      "sha256": "1684087a817cb4d8210980f863c6436f40ff2f78110e09b34d238a18a8238e9f",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/18968A_1684087a817cb4d82109.txt",
+      "source_file": "database/milestone2/cache/1684087a817cb4d8210980f863c6436f40ff2f78110e09b34d238a18a8238e9f.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1614
+    },
+    {
+      "roll": "18968A",
+      "url": "https://www.stmalachysbns.ie/wp-content/uploads/2023/05/2.-Annual-Admission-Notice-22-23.pdf",
+      "label": "2. Annual Admission Notice 22-23",
+      "sha256": "9790fe98188c861a57a19554362a33367698962774952b5c563aa5252289af2d",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/18968A_9790fe98188c861a57a1.txt",
+      "source_file": "database/milestone2/cache/9790fe98188c861a57a19554362a33367698962774952b5c563aa5252289af2d.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1613
+    },
+    {
+      "roll": "18968A",
+      "url": "https://www.stmalachysbns.ie/wp-content/uploads/2023/04/Annual-Admission-Notice.pdf",
+      "label": "Annual Admission Notice",
+      "sha256": "708383ae5a767d9bb7f4611a2a4e9b693759f10eeeb43383ea7bc35dc9f52c96",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/18968A_708383ae5a767d9bb7f4.txt",
+      "source_file": "database/milestone2/cache/708383ae5a767d9bb7f4611a2a4e9b693759f10eeeb43383ea7bc35dc9f52c96.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1616
+    },
+    {
+      "roll": "18968A",
+      "url": "https://www.stmalachysbns.ie/wp-content/uploads/2024/04/Annual-Admission-Notice-24-25.pdf",
+      "label": "Annual Admission Notice 24-25",
+      "sha256": "1de3facb35eaf30da2eb02d1e3fd9bd4c5b6e31b41598a090bb9f6063168bb31",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/18968A_1de3facb35eaf30da2eb.txt",
+      "source_file": "database/milestone2/cache/1de3facb35eaf30da2eb02d1e3fd9bd4c5b6e31b41598a090bb9f6063168bb31.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1611
+    },
+    {
+      "roll": "18968A",
+      "url": "https://www.stmalachysbns.ie/wp-content/uploads/2025/03/Annual-Admission-Notice-2025-26-1.pdf",
+      "label": "Annual Admission Notice 2025-26 (1)",
+      "sha256": "444ec6a7eed6409b4060ed71da2ebb7fba594f6cc8ac87ae25871c575bd45ed6",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/18968A_444ec6a7eed6409b4060.txt",
+      "source_file": "database/milestone2/cache/444ec6a7eed6409b4060ed71da2ebb7fba594f6cc8ac87ae25871c575bd45ed6.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1617
+    },
+    {
+      "roll": "18968A",
+      "url": "https://www.stmalachysbns.ie/wp-content/uploads/2026/03/Annual-Admission-Notice-26-27-1.pdf",
+      "label": "Annual Admission Notice 26-27 (1)",
+      "sha256": "3ba00af612474176f7569c45973abc32b82a9ac5edea57bcfc2ff77800b6ce93",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/18968A_3ba00af612474176f756.txt",
+      "source_file": "database/milestone2/cache/3ba00af612474176f7569c45973abc32b82a9ac5edea57bcfc2ff77800b6ce93.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1617
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.stmalachysbns.ie/wp-content/uploads/2020/11/ADMISSIONS-FORM-2020-3.pdf",
+      "label": "ADMISSIONS FORM 2020",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://www.stmalachysbns.ie/wp-content/uploads/2020/11/ADMISSIONS-FORM-2020-2.pdf",
+      "label": "ADMISSIONS FORM 2020",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://www.stmalachysbns.ie/wp-content/uploads/2020/11/ADMISSIONS-FORM-2020-1.pdf",
+      "label": "ADMISSIONS-FORM-2020",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://www.stmalachysbns.ie/wp-content/uploads/2020/11/ADMISSIONS-FORM-2020-1.docx",
+      "label": "ADMISSIONS FORM 2020",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://www.stmalachysbns.ie/wp-content/uploads/2020/11/ADMISSIONS-FORM-1-2020.pdf",
+      "label": "ADMISSIONS FORM 1 2020",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://www.stmalachysbns.ie/wp-content/uploads/2020/11/ADMISSIONS-FORM-1-2020.docx",
+      "label": "ADMISSIONS FORM 1 2020",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://www.stmalachysbns.ie/wp-content/uploads/2020/11/ADMISSIONS-FORM-1-2020-SAMPLE.pdf",
+      "label": "ADMISSIONS FORM 1 2020 SAMPLE",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://www.stmalachysbns.ie/wp-content/uploads/2023/05/1.-Admissions-Applic.-Form-OUTSIDE-PUPILS3-page.pdf",
+      "label": "1. Admissions Applic. Form OUTSIDE PUPILS(3 page).",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://www.stmalachysbns.ie/wp-content/uploads/2023/05/1.-Admissions-Applic.-Form-OUTSIDE-PUPILS3-page-2.pdf",
+      "label": "1.-Admissions-Applic.-Form-OUTSIDE-PUPILS3-page-2",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://www.stmalachysbns.ie/wp-content/uploads/2023/05/1.-Admissions-Applic.-Form-OUTSIDE-PUPILS3-page-1.pdf",
+      "label": "1.-Admissions-Applic.-Form-OUTSIDE-PUPILS3-page-1",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://www.stmalachysbns.ie/wp-content/uploads/2025/11/Admission-Form-17.11.25.pdf",
+      "label": "Admission Form 17.11.25",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://www.stmalachysbns.ie/wp-content/uploads/2020/11/Admission-Policy.pdf",
+      "label": "Admission Policy",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://www.stmalachysbns.ie/index.php/admissions/",
+      "label": "Admissions",
+      "via": "prior_public_admissions_landing"
+    },
+    {
+      "url": "https://www.stmalachysbns.ie/index.php/admission-form/",
+      "label": "Admission Form",
+      "via": "prior_public_admissions_landing"
+    },
+    {
+      "url": "https://www.stmalachysbns.ie/wp-content/uploads/2022/12/Admission-Policy-WEBSITE.pdf",
+      "label": "Admission Policy WEBSITE",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://www.stmalachysbns.ie/wp-content/uploads/2022/04/Admission-Policy-1.pdf",
+      "label": "Admission-Policy (1)",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://www.stmalachysbns.ie/wp-content/uploads/2022/04/Admission-Application-Form.docx",
+      "label": "Admission Application Form",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://www.stmalachysbns.ie/wp-content/uploads/2023/05/Admission-Policy-WEBSITE.docx",
+      "label": "Prior school admissions section",
+      "via": "prior_link"
+    },
+    {
+      "url": "https://www.stmalachysbns.ie/wp-content/uploads/2024/10/Admission-Enrolment-Policy-WEBSITE.pdf",
+      "label": "Admission (Enrolment) Policy WEBSITE",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://www.stmalachysbns.ie/index.php/sitemap_index.xml",
+      "label": "Public sitemap",
+      "via": "sitemap_root"
+    },
+    {
+      "url": "https://www.stmalachysbns.ie/index.php/school-policies-2/",
+      "label": "School Policies",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmalachysbns.ie/index.php/school-information/",
+      "label": "About Our School",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmalachysbns.ie/index.php/school-information-3/",
+      "label": "School Information",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmalachysbns.ie/index.php/parents-association/",
+      "label": "Parents Association",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmalachysbns.ie/index.php/admission-policy-2/",
+      "label": "Admission Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmalachysbns.ie",
+      "label": "School homepage",
+      "via": "home"
+    }
+  ],
+  "elapsed_seconds": 81.21,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:05:15+0000"
+}

@@ -1,0 +1,22 @@
+{
+  "roll": "20043G",
+  "capture": {
+    "timestamp": "20250719140253",
+    "original": "http://gaelscoilchnocliamhna.ie/wp-content/uploads/2025/06/Fogra-Iontrala-Bliantiuil-26-27.pdf",
+    "mimetype": "application/pdf",
+    "statuscode": "200",
+    "digest": "BTDVBYREOD5WBE7UZICJHMUUU4F5XPE5"
+  },
+  "original_url": "http://gaelscoilchnocliamhna.ie/wp-content/uploads/2025/06/Fogra-Iontrala-Bliantiuil-26-27.pdf",
+  "archived_url": "https://web.archive.org/web/20250719140253/http://gaelscoilchnocliamhna.ie/wp-content/uploads/2025/06/Fogra-Iontrala-Bliantiuil-26-27.pdf",
+  "attempted_at": "2026-11-08T12:56:55.850867+00:00",
+  "linked_from_capture": null,
+  "http_status": 302,
+  "headers": {
+    "Content-Type": "text/plain; charset=utf-8",
+    "location": "https://web.archive.org/web/20250727030318/http://gaelscoilchnocliamhna.ie/wp-content/uploads/2025/06/Fogra-Iontrala-Bliantiuil-26-27.pdf"
+  },
+  "bytes": 0,
+  "status": "archive_redirect_pending",
+  "redirect_url": "https://web.archive.org/web/20250727030318/http://gaelscoilchnocliamhna.ie/wp-content/uploads/2025/06/Fogra-Iontrala-Bliantiuil-26-27.pdf"
+}

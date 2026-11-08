@@ -1,0 +1,218 @@
+{
+  "roll": "16675V",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://stlukesns.ie/policies-and-admissions/policies/",
+      "final_url": "https://stlukesns.ie/policies-and-admissions/policies/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Policies"
+    },
+    {
+      "url": "https://stlukesns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://stlukesns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "robots_disallow",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://stlukesns.ie/policies-and-admissions/enrolment/",
+      "final_url": "https://stlukesns.ie/policies-and-admissions/enrolment/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Enrolment"
+    },
+    {
+      "url": "https://stlukesns.ie/wp-content/uploads/2025/10/code_of_behaviour_2025.pdf",
+      "final_url": "https://stlukesns.ie/wp-content/uploads/2025/10/code_of_behaviour_2025.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Code of Behaviour Download"
+    },
+    {
+      "url": "https://stlukesns.ie/wp-content/uploads/2025/09/Parental_Complaints_Procedure.pdf",
+      "final_url": "https://stlukesns.ie/wp-content/uploads/2025/09/Parental_Complaints_Procedure.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Complaints Procedure Download"
+    },
+    {
+      "url": "https://stlukesns.ie/wp-content/uploads/2025/09/ChecklistChildSafeguardingFinal2025.pdf",
+      "final_url": "https://stlukesns.ie/wp-content/uploads/2025/09/ChecklistChildSafeguardingFinal2025.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Review of Child Safeguarding Statement Download"
+    },
+    {
+      "url": "https://stlukesns.ie/wp-content/uploads/2025/01/admissions_policy.pdf",
+      "final_url": "https://stlukesns.ie/wp-content/uploads/2025/01/admissions_policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Enrolment / Admissions Policy Download"
+    },
+    {
+      "url": "https://stlukesns.ie/sitemap_index.xml",
+      "final_url": "https://stlukesns.ie/sitemap_index.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://stlukesns.ie/post-sitemap.xml",
+      "final_url": "https://stlukesns.ie/post-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://stlukesns.ie/policies-and-admissions/",
+      "final_url": "https://stlukesns.ie/policies-and-admissions/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions/policy URL from public sitemap"
+    },
+    {
+      "url": "https://stlukesns.ie/page-sitemap.xml",
+      "final_url": "https://stlukesns.ie/page-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://stlukesns.ie/for-parents/useful-links/",
+      "final_url": "https://stlukesns.ie/for-parents/useful-links/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Useful Links"
+    },
+    {
+      "url": "https://stlukesns.ie/for-parents/sen/",
+      "final_url": "https://stlukesns.ie/for-parents/sen/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "SEN"
+    },
+    {
+      "url": "https://stlukesns.ie/for-parents/school-uniform/",
+      "final_url": "https://stlukesns.ie/for-parents/school-uniform/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Uniform"
+    },
+    {
+      "url": "https://stlukesns.ie/for-parents/school-calendar/",
+      "final_url": "https://stlukesns.ie/for-parents/school-calendar/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Calendar"
+    },
+    {
+      "url": "https://stlukesns.ie/for-parents/rainbows/",
+      "final_url": "https://stlukesns.ie/for-parents/rainbows/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Rainbows"
+    },
+    {
+      "url": "https://stlukesns.ie/for-parents/primary-language-curriculum/",
+      "final_url": "https://stlukesns.ie/for-parents/primary-language-curriculum/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Primary Language Curriculum"
+    },
+    {
+      "url": "https://stlukesns.ie/for-parents/parents-committee/",
+      "final_url": "https://stlukesns.ie/for-parents/parents-committee/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents' Committee"
+    },
+    {
+      "url": "https://stlukesns.ie/for-parents/junior-infants/",
+      "final_url": "https://stlukesns.ie/for-parents/junior-infants/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Junior Infants"
+    },
+    {
+      "url": "https://stlukesns.ie/for-parents/handwriting/",
+      "final_url": "https://stlukesns.ie/for-parents/handwriting/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Handwriting"
+    },
+    {
+      "url": "https://stlukesns.ie/for-parents/carambola-food/",
+      "final_url": "https://stlukesns.ie/for-parents/carambola-food/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Carambola Food"
+    },
+    {
+      "url": "https://stlukesns.ie/",
+      "final_url": "https://stlukesns.ie/",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://stlukesns.ie/wp-content/uploads/2025/11/Bi-Cinealta-Policy-Final-100925.pdf",
+      "final_url": "https://stlukesns.ie/wp-content/uploads/2025/11/Bi-Cinealta-Policy-Final-100925.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Bí Cineálta Policy Download"
+    },
+    {
+      "url": "https://stlukesns.ie/wp-content/uploads/2025/10/Healthy-Eating-Policy-2025.pdf",
+      "final_url": "https://stlukesns.ie/wp-content/uploads/2025/10/Healthy-Eating-Policy-2025.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Healthy Eating Policy Download"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "16675V",
+      "url": "https://stlukesns.ie/policies-and-admissions/enrolment/",
+      "label": "Enrolment",
+      "sha256": "0346b255a418ca38646970e2519780e1951a0a4f276349beefbd6affa225192a",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/16675V_0346b255a418ca386469.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 157
+    },
+    {
+      "roll": "16675V",
+      "url": "https://stlukesns.ie/wp-content/uploads/2025/01/admissions_policy.pdf",
+      "label": "Enrolment / Admissions Policy Download",
+      "sha256": "90b23c973528fc9e4a041f0c9e9659cf3c6b8b8aa1f08fa8f5e80a7cf5a5a9d9",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/16675V_90b23c973528fc9e4a04.txt",
+      "source_file": "database/milestone2/cache/90b23c973528fc9e4a041f0c9e9659cf3c6b8b8aa1f08fa8f5e80a7cf5a5a9d9.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 20645
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://stlukesns.ie/wp-content/uploads/2025/09/Child-Safeguarding-Statement-Final2025.pdf",
+      "label": "Child Protection Policy Download",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stlukesns.ie/wp-content/uploads/2025/01/anti-bullying_policy.pdf",
+      "label": "Anti-Bullying",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stlukesns.ie/wp-content/uploads/2026/09/StLukesNewApplicationForm-Sep-26.pdf",
+      "label": "Full Application Form Download",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 107.29,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:51:29+0000"
+}

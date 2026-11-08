@@ -1,0 +1,36 @@
+{
+  "roll": "17318C",
+  "url": "https://www.holychildbns.ie/uploads/8/0/0/9/80093794/annual_admissions_notice_2026-2027.pdf",
+  "prior_sha256": "8c26eb7a00ca8087f4858cb3300395c7cf10c09536a5b6d9b8cafc9d33db3156",
+  "prior_status": "ok",
+  "prior_attempted_at": "2026-11-08T13:02:13+0000",
+  "started_at": "2026-11-08T13:29:49+0000",
+  "method": "recheck_prior_success_unparsed_notice_with_actual_OCR_if_needed",
+  "documents": [
+    {
+      "roll": "17318C",
+      "url": "https://www.holychildbns.ie/uploads/8/0/0/9/80093794/annual_admissions_notice_2026-2027.pdf",
+      "sha256": "8c26eb7a00ca8087f4858cb3300395c7cf10c09536a5b6d9b8cafc9d33db3156",
+      "format": "pdf",
+      "source_file": "database/milestone2/unparsed_notice_followup/cache/8c26eb7a00ca8087f4858cb3300395c7cf10c09536a5b6d9b8cafc9d33db3156.pdf",
+      "text_file": "database/milestone2/unparsed_notice_followup/evidence/17318C_8c26eb7a00ca8087f485.txt",
+      "candidate_status": "actual_body_requires_manual_review",
+      "ocr": false,
+      "retrieved_at": "2026-11-08T13:29:49+0000"
+    }
+  ],
+  "attempts": [
+    {
+      "url": "https://www.holychildbns.ie/uploads/8/0/0/9/80093794/annual_admissions_notice_2026-2027.pdf",
+      "final_url": "https://www.holychildbns.ie/uploads/8/0/0/9/80093794/annual_admissions_notice_2026-2027.pdf",
+      "status": "ok"
+    }
+  ],
+  "status": "body_retrieved_requires_manual_review",
+  "sha256": "8c26eb7a00ca8087f4858cb3300395c7cf10c09536a5b6d9b8cafc9d33db3156",
+  "same_payload_as_prior_success": true,
+  "format": "pdf",
+  "parse_stderr": "",
+  "text_length": 3440,
+  "elapsed_seconds": 0.14
+}

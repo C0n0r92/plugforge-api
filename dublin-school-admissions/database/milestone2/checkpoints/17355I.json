@@ -1,0 +1,482 @@
+{
+  "roll": "17355I",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.olgcgns.ie/admissions/annual-admissions-notice/?googletranslate=true",
+      "final_url": "https://www.olgcgns.ie/admissions/annual-admissions-notice/?googletranslate=true",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "https://www.olgcgns.ie/documentlink/23/?open=true",
+      "final_url": "https://view.officeapps.live.com/op/embed.aspx?src=https://swddoc.b-cdn.net/794/docletter/20251013092831_10_Annual_Admissions_Notice_25_26_OLGC_GNS.docx",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Annual Admissions Notice 25 26 OLGC GNS.docx"
+    },
+    {
+      "url": "https://www.olgcgns.ie/admissions/annual-admissions-notice/",
+      "final_url": "https://www.olgcgns.ie/admissions/annual-admissions-notice/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Annual Admissions Notice"
+    },
+    {
+      "url": "https://www.olgcgns.ie/admin/?open=/admissions/annual-admissions-notice/?googletranslate=true",
+      "final_url": "https://www.olgcgns.ie/admin/?open=/admissions/annual-admissions-notice/?googletranslate=true",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.olgcgns.ie/admin/?open=/admissions/annual-admissions-notice/",
+      "final_url": "https://www.olgcgns.ie/admin/?open=/admissions/annual-admissions-notice/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.olgcgns.ie/admissions/parental-consent-form/?googletranslate=true",
+      "final_url": "https://www.olgcgns.ie/admissions/parental-consent-form/?googletranslate=true",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "https://www.olgcgns.ie/admissions/parental-consent-form/",
+      "final_url": "https://www.olgcgns.ie/admissions/parental-consent-form/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Parental Consent Form"
+    },
+    {
+      "url": "https://www.olgcgns.ie/admissions/expression-of-interest-/?googletranslate=true",
+      "final_url": "https://www.olgcgns.ie/admissions/expression-of-interest-/?googletranslate=true",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "https://www.olgcgns.ie/admissions/expression-of-interest-/",
+      "final_url": "https://www.olgcgns.ie/admissions/expression-of-interest-/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Expression of Interest"
+    },
+    {
+      "url": "https://www.olgcgns.ie/admissions/enrolment-form/?googletranslate=true",
+      "final_url": "https://www.olgcgns.ie/admissions/enrolment-form/?googletranslate=true",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "https://www.olgcgns.ie/documentlink/7/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/794/docletter/20230707021832_59_Girls_Enrolment.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Enrolment Form"
+    },
+    {
+      "url": "https://www.olgcgns.ie/admissions/enrolment-form/",
+      "final_url": "https://www.olgcgns.ie/admissions/enrolment-form/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Enrolment Form"
+    },
+    {
+      "url": "https://www.olgcgns.ie/admissions/?googletranslate=true",
+      "final_url": "https://www.olgcgns.ie/admissions/?googletranslate=true",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "https://www.olgcgns.ie/admissions/",
+      "final_url": "https://www.olgcgns.ie/admissions/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://www.olgcgns.ie/admin/?open=/admissions/parental-consent-form/?googletranslate=true",
+      "final_url": "https://www.olgcgns.ie/admin/?open=/admissions/parental-consent-form/?googletranslate=true",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.olgcgns.ie/admin/?open=/admissions/parental-consent-form/",
+      "final_url": "https://www.olgcgns.ie/admin/?open=/admissions/parental-consent-form/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.olgcgns.ie/admin/?open=/admissions/expression-of-interest-/?googletranslate=true",
+      "final_url": "https://www.olgcgns.ie/admin/?open=/admissions/expression-of-interest-/?googletranslate=true",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.olgcgns.ie/admin/?open=/admissions/expression-of-interest-/",
+      "final_url": "https://www.olgcgns.ie/admin/?open=/admissions/expression-of-interest-/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.olgcgns.ie/admin/?open=/admissions/enrolment-form/?googletranslate=true",
+      "final_url": "https://www.olgcgns.ie/admin/?open=/admissions/enrolment-form/?googletranslate=true",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.olgcgns.ie/admin/?open=/admissions/enrolment-form/",
+      "final_url": "https://www.olgcgns.ie/admin/?open=/admissions/enrolment-form/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.olgcgns.ie/admin/?open=/admissions/?googletranslate=true",
+      "final_url": "https://www.olgcgns.ie/admin/?open=/admissions/?googletranslate=true",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.olgcgns.ie/admin/?open=/admissions/",
+      "final_url": "https://www.olgcgns.ie/admin/?open=/admissions/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.olgcgns.ie/sitemap.xml",
+      "final_url": "https://www.olgcgns.ie/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.olgcgns.ie/parents-area/policies/",
+      "final_url": "https://www.olgcgns.ie/parents-area/policies/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "17355I",
+      "url": "https://www.olgcgns.ie/admissions/annual-admissions-notice/?googletranslate=true",
+      "label": "",
+      "sha256": "122c0ea97fe68a4c5ebbdd23a602295c9c096de3d2e26742c4951ff6a032f3c1",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/17355I_122c0ea97fe68a4c5ebb.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 757
+    },
+    {
+      "roll": "17355I",
+      "url": "https://www.olgcgns.ie/admissions/annual-admissions-notice/",
+      "label": "Annual Admissions Notice",
+      "sha256": "9b16eb5e660c4817028db46f1292706e179c6a1c3f66b02f296c5c449ad4fb30",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/17355I_9b16eb5e660c4817028d.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 757
+    },
+    {
+      "roll": "17355I",
+      "url": "https://www.olgcgns.ie/admissions/parental-consent-form/?googletranslate=true",
+      "label": "",
+      "sha256": "1dbfb9bd4f2de04dd73af3b9a0beeb61150dfcbaa9e14a7b915f038861ad0248",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/17355I_1dbfb9bd4f2de04dd73a.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 510
+    },
+    {
+      "roll": "17355I",
+      "url": "https://www.olgcgns.ie/admissions/parental-consent-form/",
+      "label": "Parental Consent Form",
+      "sha256": "0af2254f1311dcd2999983d445e24079f0bb65cd17d6cf912cb007043a76194a",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/17355I_0af2254f1311dcd29999.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 510
+    },
+    {
+      "roll": "17355I",
+      "url": "https://www.olgcgns.ie/admissions/expression-of-interest-/?googletranslate=true",
+      "label": "",
+      "sha256": "bf07b8a24233dd0c63326544246e5de8411e837c2719656b83f86e50e6b05796",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/17355I_bf07b8a24233dd0c6332.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 517
+    },
+    {
+      "roll": "17355I",
+      "url": "https://www.olgcgns.ie/admissions/expression-of-interest-/",
+      "label": "Expression of Interest",
+      "sha256": "173675ad576061b24c8ff6229f168a765dd9991c69f5739901a2e1b398dad83f",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/17355I_173675ad576061b24c8f.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 517
+    },
+    {
+      "roll": "17355I",
+      "url": "https://www.olgcgns.ie/admissions/enrolment-form/?googletranslate=true",
+      "label": "",
+      "sha256": "888a3c1b0a8f61ca2f254fc90d7aea4c135b0d78ac699f85471902ffee5a9159",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/17355I_888a3c1b0a8f61ca2f25.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 496
+    },
+    {
+      "roll": "17355I",
+      "url": "https://www.olgcgns.ie/admissions/enrolment-form/",
+      "label": "Enrolment Form",
+      "sha256": "6a980fa6fe0c2c6245e7ca5f6438622965ba70839e1560f80ef32c1de6fcee81",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/17355I_6a980fa6fe0c2c6245e7.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 496
+    },
+    {
+      "roll": "17355I",
+      "url": "https://www.olgcgns.ie/admissions/?googletranslate=true",
+      "label": "",
+      "sha256": "65b30484de4ad96e811d68d19096be92a216b057b9f18de11b41169912f5a7e5",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/17355I_65b30484de4ad96e811d.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 563
+    },
+    {
+      "roll": "17355I",
+      "url": "https://www.olgcgns.ie/admissions/",
+      "label": "Admissions",
+      "sha256": "c1a7fe86170e89d4d29da29ec93ab831be74feed0f9770c22d6f9d8db9135f35",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/17355I_c1a7fe86170e89d4d29d.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 563
+    },
+    {
+      "roll": "17355I",
+      "url": "https://www.olgcgns.ie/parents-area/policies/",
+      "label": "Policies",
+      "sha256": "455fd9ff2367f203e74f755413937b5a50dc62a686c0d1f750d011a531918841",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/17355I_455fd9ff2367f203e74f.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 924
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.olgcgns.ie/parents-area/policies/?googletranslate=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.olgcgns.ie/parents-area/hscl/",
+      "label": "HSCL",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.olgcgns.ie/parents-area/calendar/",
+      "label": "Calendar",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.olgcgns.ie/parents-area/booklists/",
+      "label": "Parental Complaints Procedure",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.olgcgns.ie/parents-area/booklet/",
+      "label": "Booklet",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.olgcgns.ie/parents-area/",
+      "label": "Parents Area",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.olgcgns.ie/documentlink/8/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.olgcgns.ie/documentlink/7/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.olgcgns.ie/documentlink/6/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.olgcgns.ie/documentlink/6/?open=true",
+      "label": "Parental Consent Form",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.olgcgns.ie/documentlink/26/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.olgcgns.ie/documentlink/23/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.olgcgns.ie/documentlink/20/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.olgcgns.ie/documentlink/19/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.olgcgns.ie/documentlink/18/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.olgcgns.ie/documentlink/17/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.olgcgns.ie/documentlink/16/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.olgcgns.ie/documentlink/15/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.olgcgns.ie/documentlink/14/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.olgcgns.ie/documentlink/12/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.olgcgns.ie/documentlink/11/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.olgcgns.ie/documentlink/10/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.olgcgns.ie/admissions/admission-policy/?googletranslate=true",
+      "label": "",
+      "via": "prior_public_admissions_landing"
+    },
+    {
+      "url": "https://www.olgcgns.ie/admissions/admission-policy/",
+      "label": "Admission Policy",
+      "via": "prior_public_admissions_landing"
+    },
+    {
+      "url": "https://www.olgcgns.ie/admin/?open=/parents-area/policies/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.olgcgns.ie",
+      "label": "School homepage",
+      "via": "home"
+    },
+    {
+      "url": "https://www.olgcgns.ie/documentlink/8/?open=true",
+      "label": "Administration of Medication Policy-1.docx",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.olgcgns.ie/documentlink/19/?open=true",
+      "label": "School Uniform Policy OLGC GNS.docx",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.olgcgns.ie/documentlink/18/?open=true",
+      "label": "Whistleblowing Protected Disclosures Policy OLGC GNS.docx",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.olgcgns.ie/documentlink/17/?open=true",
+      "label": "Substance Use Policy OLGC GNS.docx",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.olgcgns.ie/documentlink/15/?open=true",
+      "label": "Critical Incident Policy OLGC GNS.docx",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.olgcgns.ie/documentlink/12/?open=true",
+      "label": "Attendance Policy OLGC GNS.docx",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.olgcgns.ie/documentlink/11/?open=true",
+      "label": "Assessment Policy.docx",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.olgcgns.ie/documentlink/10/?open=true",
+      "label": "Bí Cineálta policy GNS.docx",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.olgcgns.ie/cmsfiles/policies/privacy/",
+      "label": "Website Privacy Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.olgcgns.ie/cmsfiles/policies/cookie/",
+      "label": "Cookie Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 43.46,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:03:01+0000"
+}

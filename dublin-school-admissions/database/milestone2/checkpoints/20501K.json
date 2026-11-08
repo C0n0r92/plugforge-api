@@ -1,0 +1,322 @@
+{
+  "roll": "20501K",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://htetns.ie/wp-content/uploads/2023/09/Annual-Admissions-Notice-2024-2024.png",
+      "final_url": "https://htetns.ie/wp-content/uploads/2023/09/Annual-Admissions-Notice-2024-2024.png",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Annual Admissions Notice 2024 2024"
+    },
+    {
+      "url": "https://htetns.ie/annual-admissions-notice-admissions-policy-open-morning/",
+      "final_url": "https://htetns.ie/annual-admissions-notice-admissions-policy-open-morning/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Annual Admissions Notice, Admissions Policy & Open Morning"
+    },
+    {
+      "url": "https://htetns.ie/wp-content/uploads/2025/09/HTETNS-Admissions-Poster-2025-2026.jpg",
+      "final_url": "https://htetns.ie/wp-content/uploads/2025/09/HTETNS-Admissions-Poster-2025-2026.jpg",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "HTETNS Admissions Poster 2025-2026"
+    },
+    {
+      "url": "https://htetns.ie/admissions-for-2025-2026/",
+      "final_url": "https://htetns.ie/admissions-for-2025-2026/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions for 2025-2026"
+    },
+    {
+      "url": "https://htetns.ie/enrolments-for-the-2027-2028-opening-november-1st-2026/",
+      "final_url": "https://htetns.ie/enrolments-for-the-2027-2028-opening-november-1st-2026/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Enrolments for the 2027/2028 Opening November 1st 2026"
+    },
+    {
+      "url": "https://htetns.ie/2026-2027-admissions-open-from-november-1st-30th/",
+      "final_url": "https://htetns.ie/2026-2027-admissions-open-from-november-1st-30th/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "2026/2027 Admissions Open From November 1st-30th!"
+    },
+    {
+      "url": "https://htetns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://htetns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://htetns.ie/wp-content/uploads/2020/09/Admissions-Notice-2021-2022.pdf",
+      "final_url": "https://htetns.ie/wp-content/uploads/2020/09/Admissions-Notice-2021-2022.pdf",
+      "status": "http_404",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Notice 2021-2022"
+    },
+    {
+      "url": "https://htetns.ie/wp-content/uploads/2020/09/Admissions-Notice-2021-2022.docx",
+      "final_url": "https://htetns.ie/wp-content/uploads/2020/09/Admissions-Notice-2021-2022.docx",
+      "status": "http_404",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Notice 2021-2022"
+    },
+    {
+      "url": "https://htetns.ie/wp-content/uploads/2021/09/Admissions-Notice-2022-2023.pdf",
+      "final_url": "https://htetns.ie/wp-content/uploads/2021/09/Admissions-Notice-2022-2023.pdf",
+      "status": "http_404",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Notice 2022-2023"
+    },
+    {
+      "url": "https://htetns.ie/wp-content/uploads/2021/09/Admissions-Notice-2022-2023.docx",
+      "final_url": "https://htetns.ie/wp-content/uploads/2021/09/Admissions-Notice-2022-2023.docx",
+      "status": "http_404",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Notice 2022-2023"
+    },
+    {
+      "url": "https://htetns.ie/wp-content/uploads/2021/09/Admissions-Notice-2022-2023-1.pdf",
+      "final_url": "https://htetns.ie/wp-content/uploads/2021/09/Admissions-Notice-2022-2023-1.pdf",
+      "status": "http_404",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Notice 2022-2023"
+    },
+    {
+      "url": "https://htetns.ie/wp-content/uploads/2019/10/Admissions-Policy-Harcourt-Terrace-ETNS-2019-final.pdf",
+      "final_url": "https://htetns.ie/wp-content/uploads/2019/10/Admissions-Policy-Harcourt-Terrace-ETNS-2019-final.pdf",
+      "status": "http_404",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Policy Harcourt Terrace ETNS 2019 final"
+    },
+    {
+      "url": "https://htetns.ie/wp-content/uploads/2019/09/Admission_Policy.pdf",
+      "final_url": "https://htetns.ie/wp-content/uploads/2019/09/Admission_Policy.pdf",
+      "status": "http_404",
+      "via": "public_wordpress_media_link",
+      "label": "Admission_Policy"
+    },
+    {
+      "url": "https://htetns.ie/wp-content/uploads/2020/09/Admissions-Policy-APPROVED.pdf",
+      "final_url": "https://htetns.ie/wp-content/uploads/2020/09/Admissions-Policy-APPROVED.pdf",
+      "status": "http_404",
+      "via": "school_public_link",
+      "label": "Admissions Policy 2021-2022"
+    },
+    {
+      "url": "https://htetns.ie/wp-content/uploads/2020/09/Admissions-Policy-APPROVED.docx",
+      "final_url": "https://htetns.ie/wp-content/uploads/2020/09/Admissions-Policy-APPROVED.docx",
+      "status": "http_404",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Policy APPROVED"
+    },
+    {
+      "url": "https://htetns.ie/enrol-now/",
+      "final_url": "https://htetns.ie/enrol-now/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Enrol Now"
+    },
+    {
+      "url": "https://htetns.ie/wp-content/uploads/2025/11/1000014680.jpg",
+      "final_url": "https://htetns.ie/wp-content/uploads/2025/11/1000014680.jpg",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Click This Link To Access Enrolment Information Poster For Special School & Special Classes."
+    },
+    {
+      "url": "https://htetns.ie/enrol-form/",
+      "final_url": "https://htetns.ie/enrol-form/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Enrollment Form"
+    },
+    {
+      "url": "https://htetns.ie/?s=admission",
+      "final_url": "https://htetns.ie/?s=admission",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Public site search form"
+    },
+    {
+      "url": "https://htetns.ie/wp-content/uploads/2021/09/Harcourt-Terrace-Admissions-Policy-2022-2023.pdf",
+      "final_url": "https://htetns.ie/wp-content/uploads/2021/09/Harcourt-Terrace-Admissions-Policy-2022-2023.pdf",
+      "status": "http_404",
+      "via": "public_wordpress_media_link",
+      "label": "Harcourt Terrace Admissions Policy 2022 2023"
+    },
+    {
+      "url": "https://htetns.ie/wp-content/uploads/2023/05/HTETNS-Admissions-Policy-2022-2023.pdf",
+      "final_url": "https://htetns.ie/wp-content/uploads/2023/05/HTETNS-Admissions-Policy-2022-2023.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "HTETNS Admissions Policy 2022 2023"
+    },
+    {
+      "url": "https://htetns.ie/wp-content/uploads/2022/09/Admissions-Policy-HTETNS-Final.pdf",
+      "final_url": "https://htetns.ie/wp-content/uploads/2022/09/Admissions-Policy-HTETNS-Final.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Policy HTETNS Final"
+    },
+    {
+      "url": "https://htetns.ie/wp-content/uploads/2022/09/Admissions-Policy-HTETNS-Final.docx",
+      "final_url": "https://htetns.ie/wp-content/uploads/2022/09/Admissions-Policy-HTETNS-Final.docx",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "20501K",
+      "url": "https://htetns.ie/annual-admissions-notice-admissions-policy-open-morning/",
+      "label": "Annual Admissions Notice, Admissions Policy & Open Morning",
+      "sha256": "59b7d99929318b341a262485e1e420d146a6dda5178be492c37b8802ebb8eb0c",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20501K_59b7d99929318b341a26.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 897
+    },
+    {
+      "roll": "20501K",
+      "url": "https://htetns.ie/enrolments-for-the-2027-2028-opening-november-1st-2026/",
+      "label": "Enrolments for the 2027/2028 Opening November 1st 2026",
+      "sha256": "c2b721e2375f2b27d559eee00505d9f82316dd9d6860cfff8e0bf59f183392ce",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20501K_c2b721e2375f2b27d559.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 583
+    },
+    {
+      "roll": "20501K",
+      "url": "https://htetns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "label": "Oldest public admission media (all dates)",
+      "sha256": "a19182e829744d733821e03fa3fba0eaf39426bebc3542bd9e3e2f86cf6090da",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20501K_a19182e829744d733821.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 2325
+    },
+    {
+      "roll": "20501K",
+      "url": "https://htetns.ie/enrol-now/",
+      "label": "Enrol Now",
+      "sha256": "611d4796d6da13b18c57043c64dd39ccca592ecf710d85d6fabb0cb86ca9b72f",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20501K_611d4796d6da13b18c57.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1420
+    },
+    {
+      "roll": "20501K",
+      "url": "https://htetns.ie/wp-content/uploads/2022/09/Admissions-Policy-HTETNS-Final.pdf",
+      "label": "Admissions Policy HTETNS Final",
+      "sha256": "6038e5788c782cdc515f3821ea373bb88ab18a8f82fa0a6a6b0b7c53cc791c93",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20501K_6038e5788c782cdc515f.txt",
+      "source_file": "database/milestone2/cache/6038e5788c782cdc515f3821ea373bb88ab18a8f82fa0a6a6b0b7c53cc791c93.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 27631
+    },
+    {
+      "roll": "20501K",
+      "url": "https://htetns.ie/wp-content/uploads/2022/09/Admissions-Policy-HTETNS-Final.docx",
+      "label": "Prior school admissions section",
+      "sha256": "5f01a4fd77b0ab00fcda051fa12eb3c42c25f21d755660c977f2a0de88dd2466",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/20501K_5f01a4fd77b0ab00fcda.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 23529
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://htetns.ie/wp-content/uploads/2022/06/Admissions-Policy.pdf",
+      "label": "Admissions Policy",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://htetns.ie/wp-content/uploads/2022/06/Admissions-Policy-2022.pdf",
+      "label": "Admissions Policy 2022",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://htetns.ie/wp-content/uploads/2023/09/Admissions-Policy-HTETNS.pdf",
+      "label": "Admissions Policy HTETNS",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://htetns.ie/wp-content/uploads/2024/09/Harcourt-Terrace-ETNS-Admissions-Policy.pdf",
+      "label": "Harcourt Terrace ETNS Admissions Policy",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://htetns.ie/wp-content/uploads/2025/10/Harcourt-Terrace-ETNS-Admissions-Policy.pdf",
+      "label": "Harcourt Terrace ETNS Admissions Policy",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://htetns.ie/wp-content/uploads/2019/09/Child-Safeguarding-Statement-2019.pdf",
+      "label": "Child Safeguarding Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.htetns.ie",
+      "label": "School homepage",
+      "via": "home"
+    },
+    {
+      "url": "https://htetns.ie/sitemap_index.xml",
+      "label": "Public sitemap",
+      "via": "sitemap_root"
+    },
+    {
+      "url": "https://htetns.ie/school-policies-2/",
+      "label": "School Policies",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://htetns.ie/parents-2/smartphones-mobile-phones-smart-devices-voluntary-collective-agreement/agreement-results/",
+      "label": "Voluntary Agreement Responses",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://htetns.ie/parents-2/smartphones-mobile-phones-smart-devices-voluntary-collective-agreement/",
+      "label": "Smartphones Voluntary Collective Agreement",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://htetns.ie/parents-2/pgta-2/",
+      "label": "PGTA",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://htetns.ie/parents-2/",
+      "label": "Parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://htetns.ie/parents",
+      "label": "Parent Info",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://htetns.ie/PGTA",
+      "label": "Parent/Guardian Teachers Association",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 88.95,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:38:18+0000"
+}

@@ -1,0 +1,53 @@
+{
+  "roll": "19641T",
+  "status": "bounded_search_no_new_notice_found",
+  "attempts": [
+    {
+      "url": "https://www.colmcillejunior.com",
+      "final_url": "https://www.colmcillejunior.com",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.colmcillejunior.com/admissions-notice.html",
+      "final_url": "https://www.colmcillejunior.com/admissions-notice.html",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "here"
+    },
+    {
+      "url": "https://www.colmcillejunior.com/sitemap.xml",
+      "final_url": "https://www.colmcillejunior.com/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.colmcillejunior.com/policies.html",
+      "final_url": "https://www.colmcillejunior.com/policies.html",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.colmcillejunior.com/parents.html",
+      "final_url": "https://www.colmcillejunior.com/parents.html",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Parents"
+    },
+    {
+      "url": "https://www.colmcillejunior.com/parents-association.html",
+      "final_url": "https://www.colmcillejunior.com/parents-association.html",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Parents Association"
+    }
+  ],
+  "documents": [],
+  "pending_links": [],
+  "elapsed_seconds": 3.34,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:07:35+0000"
+}

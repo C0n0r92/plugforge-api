@@ -1,0 +1,213 @@
+{
+  "roll": "20098I",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.cetns.ie/Page/Enrolment/751/Index.html",
+      "final_url": "https://www.cetns.ie/Page/Enrolment/751/Index.html",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://storage.googleapis.com/iclasscrm_files/33/Images/Content/2026/273/bc10-CastleknockETNS_FINAL_AdmissionPolicy_Approved_20272028_1.pdf",
+      "final_url": "https://storage.googleapis.com/iclasscrm_files/33/Images/Content/2026/273/bc10-CastleknockETNS_FINAL_AdmissionPolicy_Approved_20272028_1.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Castleknock ETNS Admission Policy"
+    },
+    {
+      "url": "https://www.cetns.ie/sitemap.xml",
+      "final_url": "https://www.cetns.ie/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.cetns.ie/Page/Policies/687/Index.html",
+      "final_url": "https://www.cetns.ie/Page/Policies/687/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "http://www.cetns.ie/Content/2024/2/uz79-CETNS_ParentalComplaintsProcedure_01012024.pdf",
+      "final_url": "http://www.cetns.ie/Content/2024/2/uz79-CETNS_ParentalComplaintsProcedure_01012024.pdf",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "Parental Complaints Procedure"
+    },
+    {
+      "url": "http://www.cetns.ie/Content/2024/2/yl94-CETNS_Healthy_Eating_Policy_2010.pdf",
+      "final_url": "http://www.cetns.ie/Content/2024/2/yl94-CETNS_Healthy_Eating_Policy_2010.pdf",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "Healthy Eating Policy"
+    },
+    {
+      "url": "http://www.cetns.ie/Content/2024/2/ha20-CETNS_Substance_Use_2013.pdf",
+      "final_url": "http://www.cetns.ie/Content/2024/2/ha20-CETNS_Substance_Use_2013.pdf",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "Substance Use Policy"
+    },
+    {
+      "url": "http://www.cetns.ie/Content/2024/2/ql64-CETNS_CustodySeparationPolicy_2014.pdf",
+      "final_url": "http://www.cetns.ie/Content/2024/2/ql64-CETNS_CustodySeparationPolicy_2014.pdf",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "Custody/Separation Policy"
+    },
+    {
+      "url": "http://www.cetns.ie/Content/2024/2/re61-CETNS_DigitalLearningPolicy_2016.pdf",
+      "final_url": "http://www.cetns.ie/Content/2024/2/re61-CETNS_DigitalLearningPolicy_2016.pdf",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "Digital Learning Policy"
+    },
+    {
+      "url": "http://www.cetns.ie/Content/2024/2/ok53-CETNS_GardaVettingPolicyRevised_2017.pdf",
+      "final_url": "http://www.cetns.ie/Content/2024/2/ok53-CETNS_GardaVettingPolicyRevised_2017.pdf",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "Garda Vetting Policy"
+    },
+    {
+      "url": "https://www.cetns.ie/Page/Parents-Association/706/Index.html",
+      "final_url": "https://www.cetns.ie/Page/Parents-Association/706/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents Association"
+    },
+    {
+      "url": "https://www.cetns.ie/Page/Help-with-Irish-For-Parents/740/Index.html",
+      "final_url": "https://www.cetns.ie/Page/Help-with-Irish-For-Parents/740/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Help with Irish for Parents"
+    },
+    {
+      "url": "https://www.cetns.ie/",
+      "final_url": "https://www.cetns.ie/",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "http://www.cetns.ie/Content/2024/2/jm34-CETNS_Blended_Learning_Policy_2020.pdf",
+      "final_url": "http://www.cetns.ie/Content/2024/2/jm34-CETNS_Blended_Learning_Policy_2020.pdf",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "Blended Learning Policy"
+    },
+    {
+      "url": "http://www.cetns.ie/Content/2020/10/gx28-Positive_Behaviour_Policy_CETNS.pdf",
+      "final_url": "http://www.cetns.ie/Content/2020/10/gx28-Positive_Behaviour_Policy_CETNS.pdf",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "Positive Behaviour Policy"
+    },
+    {
+      "url": "http://www.cetns.ie/Content/2024/2/zx98-CETNS_HomeworkPolicy_2022.pdf",
+      "final_url": "http://www.cetns.ie/Content/2024/2/zx98-CETNS_HomeworkPolicy_2022.pdf",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "Homework Policy"
+    },
+    {
+      "url": "http://www.cetns.ie/Content/2024/2/po55-CETNS_InclusionPolicySEN_2022.pdf",
+      "final_url": "http://www.cetns.ie/Content/2024/2/po55-CETNS_InclusionPolicySEN_2022.pdf",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "Inclusion Policy"
+    },
+    {
+      "url": "http://www.cetns.ie/Content/2024/2/yt97-CETNS_RSE_Policy__Revised_2023_FINAL.pdf",
+      "final_url": "http://www.cetns.ie/Content/2024/2/yt97-CETNS_RSE_Policy__Revised_2023_FINAL.pdf",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "RSE(Relationships and Sexuality in Education) Policy"
+    },
+    {
+      "url": "http://www.cetns.ie/Content/2024/2/xq96-CETNS_SocialMediaPolicy_FINAL_June2023.pdf",
+      "final_url": "http://www.cetns.ie/Content/2024/2/xq96-CETNS_SocialMediaPolicy_FINAL_June2023.pdf",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "Social Media Policy"
+    },
+    {
+      "url": "http://www.cetns.ie/Content/2024/2/xd81-CETNS__AttendancePolicy_2023_FINAL.pdf",
+      "final_url": "http://www.cetns.ie/Content/2024/2/xd81-CETNS__AttendancePolicy_2023_FINAL.pdf",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "Attendance Policy"
+    },
+    {
+      "url": "http://www.cetns.ie/Content/2024/2/sz69-CETNS_HealthSafetyPolicy_June_2023_FINAL.pdf",
+      "final_url": "http://www.cetns.ie/Content/2024/2/sz69-CETNS_HealthSafetyPolicy_June_2023_FINAL.pdf",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "Health & Safety Policy"
+    },
+    {
+      "url": "http://www.cetns.ie/Content/2024/2/pk53-CETNS_ProtectedDisclosuresPolicy_2023.pdf",
+      "final_url": "http://www.cetns.ie/Content/2024/2/pk53-CETNS_ProtectedDisclosuresPolicy_2023.pdf",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "Protected Disclosures Policy"
+    },
+    {
+      "url": "http://www.cetns.ie/Content/2024/2/nz59-CETNS_AdministrationOfMedicinesPolicy_June2023_FINAL.pdf",
+      "final_url": "http://www.cetns.ie/Content/2024/2/nz59-CETNS_AdministrationOfMedicinesPolicy_June2023_FINAL.pdf",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "Administration Of Medications Policy"
+    },
+    {
+      "url": "http://www.cetns.ie/Content/2024/2/cd11-CETNS_AntiBullying_Policy_2023_FINAL.pdf",
+      "final_url": "http://www.cetns.ie/Content/2024/2/cd11-CETNS_AntiBullying_Policy_2023_FINAL.pdf",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "Anti-Bullying Policy"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "20098I",
+      "url": "https://www.cetns.ie/Page/Enrolment/751/Index.html",
+      "label": "Prior school admissions section",
+      "sha256": "d05ae67e191b0f7ccbd3117816a3c85b6565b5b848f0d2d9407f07f24f362adc",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20098I_d05ae67e191b0f7ccbd3.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 881
+    },
+    {
+      "roll": "20098I",
+      "url": "https://storage.googleapis.com/iclasscrm_files/33/Images/Content/2026/273/bc10-CastleknockETNS_FINAL_AdmissionPolicy_Approved_20272028_1.pdf",
+      "label": "Castleknock ETNS Admission Policy",
+      "sha256": "f793c96cc29e12e05e9e6b7a8a2eb3a5ff2234e30478274cd0c7ecc62defdd61",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20098I_f793c96cc29e12e05e9e.txt",
+      "source_file": "database/milestone2/cache/f793c96cc29e12e05e9e6b7a8a2eb3a5ff2234e30478274cd0c7ecc62defdd61.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 28176
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "http://www.cetns.ie/Content/2024/2/kb30-CETNS_Communications_Policy_FINAL090719.pdf",
+      "label": "Communications Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "http://www.cetns.ie/Content/2025/2/sj73-CETNS_DataProtectionPolicy_2025.pdf",
+      "label": "Data Protection Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 21.14,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:57:51+0000"
+}

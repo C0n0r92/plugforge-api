@@ -1,0 +1,381 @@
+{
+  "roll": "18778S",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://stmochtas.ie/wp-content/uploads/2026/10/Dublin-15-ACAT-2027-Admissions-Announcement.png",
+      "final_url": "https://stmochtas.ie/wp-content/uploads/2026/10/Dublin-15-ACAT-2027-Admissions-Announcement.png",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Dublin 15 ACAT 2027 Admissions Announcement"
+    },
+    {
+      "url": "https://stmochtas.ie/admissions/",
+      "final_url": "https://stmochtas.ie/admissions/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://stmochtas.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://stmochtas.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://stmochtas.ie/wp-content/uploads/2021/10/Admission-Policy.pdf",
+      "final_url": "https://stmochtas.ie/wp-content/uploads/2021/10/Admission-Policy.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admission Policy"
+    },
+    {
+      "url": "https://stmochtas.ie/wp-content/uploads/2022/09/Admission-Policy.pdf",
+      "final_url": "https://stmochtas.ie/wp-content/uploads/2022/09/Admission-Policy.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admission Policy"
+    },
+    {
+      "url": "https://stmochtas.ie/wp-content/uploads/2023/09/Admission-Policy.pdf",
+      "final_url": "https://stmochtas.ie/wp-content/uploads/2023/09/Admission-Policy.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admission Policy"
+    },
+    {
+      "url": "https://stmochtas.ie/wp-content/uploads/2023/01/Admission-Policy-1.pdf",
+      "final_url": "https://stmochtas.ie/wp-content/uploads/2023/01/Admission-Policy-1.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admission Policy (1)"
+    },
+    {
+      "url": "https://stmochtas.ie/wp-content/uploads/2024/09/Admission-Policy.pdf",
+      "final_url": "https://stmochtas.ie/wp-content/uploads/2024/09/Admission-Policy.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admission Policy"
+    },
+    {
+      "url": "https://stmochtas.ie/wp-content/uploads/2024/06/Admission-Policy-1.pdf",
+      "final_url": "https://stmochtas.ie/wp-content/uploads/2024/06/Admission-Policy-1.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admission Policy"
+    },
+    {
+      "url": "https://stmochtas.ie/wp-content/uploads/2024/05/Admission-Policy.pdf",
+      "final_url": "https://stmochtas.ie/wp-content/uploads/2024/05/Admission-Policy.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admission Policy"
+    },
+    {
+      "url": "https://stmochtas.ie/wp-content/uploads/2025/09/St.-Mochtas-National-School-Admission-Policy.pdf",
+      "final_url": "https://stmochtas.ie/wp-content/uploads/2025/09/St.-Mochtas-National-School-Admission-Policy.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "St. Mochta&#8217;s National School Admission Policy"
+    },
+    {
+      "url": "https://stmochtas.ie/wp-content/uploads/2025/06/Admission-Policy-for-ASD-Classes.pdf",
+      "final_url": "https://stmochtas.ie/wp-content/uploads/2025/06/Admission-Policy-for-ASD-Classes.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admission Policy for ASD Classes"
+    },
+    {
+      "url": "https://stmochtas.ie/wp-content/uploads/2026/10/SEPT_2026_ACAT-Terms_of_reference_2027.pdf",
+      "final_url": "https://stmochtas.ie/wp-content/uploads/2026/10/SEPT_2026_ACAT-Terms_of_reference_2027.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "D15 ACAT Terms of Reference"
+    },
+    {
+      "url": "https://stmochtas.ie/wp-content/uploads/2026/09/Updated-School-Calendar-2026-2027.pdf",
+      "final_url": "https://stmochtas.ie/wp-content/uploads/2026/09/Updated-School-Calendar-2026-2027.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Calendar"
+    },
+    {
+      "url": "https://stmochtas.ie/wp-content/uploads/2026/09/St.-Mochtas-National-School-Admission-Policy.pdf",
+      "final_url": "https://stmochtas.ie/wp-content/uploads/2026/09/St.-Mochtas-National-School-Admission-Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admission Policy"
+    },
+    {
+      "url": "https://stmochtas.ie/wp-content/uploads/2026/06/St.-Mochtas-National-School-Admission-Policy-June-2026.pdf",
+      "final_url": "https://stmochtas.ie/wp-content/uploads/2026/06/St.-Mochtas-National-School-Admission-Policy-June-2026.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "St. Mochta&#8217;s National School Admission Policy June 2026"
+    },
+    {
+      "url": "https://stmochtas.ie/sitemap_index.xml",
+      "final_url": "https://stmochtas.ie/sitemap_index.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://stmochtas.ie/policies-and-forms/",
+      "final_url": "https://stmochtas.ie/policies-and-forms/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies and Forms"
+    },
+    {
+      "url": "https://stmochtas.ie/wp-content/themes/stmochtas/documents/policies-and-covid/Privacy-Notice-St-Mochtas-National-School.pdf",
+      "final_url": "https://stmochtas.ie/wp-content/themes/stmochtas/documents/policies-and-covid/Privacy-Notice-St-Mochtas-National-School.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Privacy Notice – St. Mochta’s National School"
+    },
+    {
+      "url": "https://stmochtas.ie/wp-content/themes/stmochtas/documents/policies-and-covid/Covid-19-Response-Plan-St-Mochtas-NS.pdf",
+      "final_url": "https://stmochtas.ie/wp-content/themes/stmochtas/documents/policies-and-covid/Covid-19-Response-Plan-St-Mochtas-NS.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Covid-19 Response Plan (Under Review)"
+    },
+    {
+      "url": "https://stmochtas.ie/parents-association/",
+      "final_url": "https://stmochtas.ie/parents-association/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents’ Association"
+    },
+    {
+      "url": "https://stmochtas.ie/wp-content/themes/stmochtas/documents/policies-and-covid/PA-Constitution.pdf",
+      "final_url": "https://stmochtas.ie/wp-content/themes/stmochtas/documents/policies-and-covid/PA-Constitution.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents’ Association Constitution"
+    },
+    {
+      "url": "https://stmochtas.ie/parents-association-sponsors/",
+      "final_url": "https://stmochtas.ie/parents-association-sponsors/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents’ Association Sponsors"
+    },
+    {
+      "url": "https://stmochtas.ie/parents-association-events/",
+      "final_url": "https://stmochtas.ie/parents-association-events/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents’ Association Events"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "18778S",
+      "url": "https://stmochtas.ie/wp-content/uploads/2021/10/Admission-Policy.pdf",
+      "label": "Admission Policy",
+      "sha256": "0fbb1a40d90d485c6bdb25ed0a29391dbef464f1e48c4890202b7be508145f5f",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/18778S_0fbb1a40d90d485c6bdb.txt",
+      "source_file": "database/milestone2/cache/0fbb1a40d90d485c6bdb25ed0a29391dbef464f1e48c4890202b7be508145f5f.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 29072
+    },
+    {
+      "roll": "18778S",
+      "url": "https://stmochtas.ie/wp-content/uploads/2022/09/Admission-Policy.pdf",
+      "label": "Admission Policy",
+      "sha256": "2d2fc415739512d519efbe6c9adb12ccb28cfc8866721354310e3c2ddf3786e4",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/18778S_2d2fc415739512d519ef.txt",
+      "source_file": "database/milestone2/cache/2d2fc415739512d519efbe6c9adb12ccb28cfc8866721354310e3c2ddf3786e4.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 29082
+    },
+    {
+      "roll": "18778S",
+      "url": "https://stmochtas.ie/wp-content/uploads/2023/09/Admission-Policy.pdf",
+      "label": "Admission Policy",
+      "sha256": "3c6e67082f620ea3132908311c064a6237f17712d818af79de1ebb43e6eb10c9",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/18778S_3c6e67082f620ea31329.txt",
+      "source_file": "database/milestone2/cache/3c6e67082f620ea3132908311c064a6237f17712d818af79de1ebb43e6eb10c9.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 29582
+    },
+    {
+      "roll": "18778S",
+      "url": "https://stmochtas.ie/wp-content/uploads/2024/09/Admission-Policy.pdf",
+      "label": "Admission Policy",
+      "sha256": "c08f613e462f58ca621148ddd5856eaa032599d52fc0867d32adbcb931eb242d",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/18778S_c08f613e462f58ca6211.txt",
+      "source_file": "database/milestone2/cache/c08f613e462f58ca621148ddd5856eaa032599d52fc0867d32adbcb931eb242d.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 29636
+    },
+    {
+      "roll": "18778S",
+      "url": "https://stmochtas.ie/wp-content/uploads/2024/06/Admission-Policy-1.pdf",
+      "label": "Admission Policy",
+      "sha256": "bd0a4466b05ec23bde6649d6ab0e0642621207c28f070a69409482047102f1fd",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/18778S_bd0a4466b05ec23bde66.txt",
+      "source_file": "database/milestone2/cache/bd0a4466b05ec23bde6649d6ab0e0642621207c28f070a69409482047102f1fd.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 29584
+    },
+    {
+      "roll": "18778S",
+      "url": "https://stmochtas.ie/wp-content/uploads/2024/05/Admission-Policy.pdf",
+      "label": "Admission Policy",
+      "sha256": "c61f7e2a01883f5ce277d9bdc604596c24d605a6a0cb3eccf510656807dcdc01",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/18778S_c61f7e2a01883f5ce277.txt",
+      "source_file": "database/milestone2/cache/c61f7e2a01883f5ce277d9bdc604596c24d605a6a0cb3eccf510656807dcdc01.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 29583
+    },
+    {
+      "roll": "18778S",
+      "url": "https://stmochtas.ie/wp-content/uploads/2025/09/St.-Mochtas-National-School-Admission-Policy.pdf",
+      "label": "St. Mochta&#8217;s National School Admission Policy",
+      "sha256": "57fd9e4bfb372d53206708b2574e200be0483aaa2c2f5c882ffc266995a4a2bf",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/18778S_57fd9e4bfb372d532067.txt",
+      "source_file": "database/milestone2/cache/57fd9e4bfb372d53206708b2574e200be0483aaa2c2f5c882ffc266995a4a2bf.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 41660
+    },
+    {
+      "roll": "18778S",
+      "url": "https://stmochtas.ie/wp-content/uploads/2025/06/Admission-Policy-for-ASD-Classes.pdf",
+      "label": "Admission Policy for ASD Classes",
+      "sha256": "af01d0f02306d4720b6b219a41f733a75a62a572996a8d556f6120854be5b46e",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/18778S_af01d0f02306d4720b6b.txt",
+      "source_file": "database/milestone2/cache/af01d0f02306d4720b6b219a41f733a75a62a572996a8d556f6120854be5b46e.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 33791
+    },
+    {
+      "roll": "18778S",
+      "url": "https://stmochtas.ie/wp-content/uploads/2026/09/St.-Mochtas-National-School-Admission-Policy.pdf",
+      "label": "Admission Policy",
+      "sha256": "ff43bfd5a832167688419f0d914e70015dbb8bf28a57c5a760f0e93f1de7d559",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/18778S_ff43bfd5a83216768841.txt",
+      "source_file": "database/milestone2/cache/ff43bfd5a832167688419f0d914e70015dbb8bf28a57c5a760f0e93f1de7d559.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 41574
+    },
+    {
+      "roll": "18778S",
+      "url": "https://stmochtas.ie/wp-content/uploads/2026/06/St.-Mochtas-National-School-Admission-Policy-June-2026.pdf",
+      "label": "St. Mochta&#8217;s National School Admission Policy June 2026",
+      "sha256": "dcc6ff414f05c7758719770db70f678590adcadfdfab7301bca8df4975926b34",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/18778S_dcc6ff414f05c7758719.txt",
+      "source_file": "database/milestone2/cache/dcc6ff414f05c7758719770db70f678590adcadfdfab7301bca8df4975926b34.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 41571
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://stmochtas.ie/page-sitemap.xml",
+      "label": "Public sitemap index child",
+      "via": "sitemap_child"
+    },
+    {
+      "url": "https://stmochtas.ie/",
+      "label": "School homepage",
+      "via": "home"
+    },
+    {
+      "url": "https://stmochtas.ie/wp-content/uploads/2021/10/Assessment-Policy.pdf",
+      "label": "Assessment Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stmochtas.ie/wp-content/uploads/2021/06/Relationships-and-Sexual-Education-Policy.pdf",
+      "label": "Relationships and Sexual Education Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stmochtas.ie/wp-content/uploads/2024/01/Parental-Complaints-Procedure.pdf",
+      "label": "Parental Complaints Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stmochtas.ie/wp-content/uploads/2025/04/Anti-Bullying-Policy-for-the-website.pdf",
+      "label": "Anti Bullying Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stmochtas.ie/wp-content/uploads/2026/06/Bi-Cinealta-Policy-St-Mochtas-NS-June-2026-1.pdf",
+      "label": "Bí Cineálta Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stmochtas.ie/wp-content/uploads/2026/03/Critical-Incident-Policy-March-2026.pdf",
+      "label": "Critical Incident Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stmochtas.ie/wp-content/themes/stmochtas/documents/policies-and-covid/Religious-Education-Policy.pdf",
+      "label": "Religious Education Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stmochtas.ie/wp-content/themes/stmochtas/documents/policies-and-covid/Intimate-Care-and-Toileting-Policy.pdf",
+      "label": "Intimate Care and Toileting Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stmochtas.ie/wp-content/themes/stmochtas/documents/policies-and-covid/ICT-Acceptable-Use-Policy.pdf",
+      "label": "ICT Acceptable Use Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stmochtas.ie/wp-content/themes/stmochtas/documents/policies-and-covid/Homework-Policy.pdf",
+      "label": "Homework Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stmochtas.ie/wp-content/themes/stmochtas/documents/policies-and-covid/Healthy-Lunches-Policy.pdf",
+      "label": "Healthy Lunches Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stmochtas.ie/wp-content/themes/stmochtas/documents/policies-and-covid/Data-Protection-Policy-St-Mochtas-National-School.pdf",
+      "label": "Data Protection Policy – St. Mochta’s National School",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stmochtas.ie/wp-content/themes/stmochtas/documents/policies-and-covid/Covid-19-Policy-Statement.pdf",
+      "label": "Covid-19 Policy Statement",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stmochtas.ie/wp-content/themes/stmochtas/documents/policies-and-covid/Code-of-Behaviour-Policy.pdf",
+      "label": "Code of Behaviour Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stmochtas.ie/wp-content/themes/stmochtas/documents/policies-and-covid/Attendance-Policy.pdf",
+      "label": "Attendance Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stmochtas.ie/wp-content/themes/stmochtas/documents/policies-and-covid/Administration-of-Medicines-Policy.pdf",
+      "label": "Administration of Medicines Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 134.1,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:34:56+0000"
+}

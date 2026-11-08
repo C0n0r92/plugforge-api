@@ -1,0 +1,50 @@
+{
+  "roll": "20043G",
+  "attempted_at": "2026-11-08T12:55:55+0000",
+  "method": "documented_public_WordPress_media_notice_and_Irish_title_gap_search",
+  "attempts": [
+    {
+      "url": "https://gaelscoilchnocliamhna.ie/wp-json/wp/v2/media?search=notice&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok"
+    },
+    {
+      "url": "https://gaelscoilchnocliamhna.ie/wp-json/wp/v2/media?search=f%C3%B3gra&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok"
+    },
+    {
+      "url": "https://gaelscoilchnocliamhna.ie/wp-content/uploads/2020/09/Fógra-Príobháideachta.docx",
+      "status": "ok",
+      "label": "Fógra Príobháideachta"
+    },
+    {
+      "url": "https://gaelscoilchnocliamhna.ie/wp-content/uploads/2022/09/Raiteas-maidir-le-Cumhdach-Leanai-fogra.pdf",
+      "status": "ok",
+      "label": "Raiteas maidir le Cumhdach Leanai &#8211; fógra"
+    },
+    {
+      "url": "https://gaelscoilchnocliamhna.ie/wp-content/uploads/2024/11/Fogra-maidir-le-hathbhreithniu-an-Udarais-Bainistiochta-ar-an-Raiteas-um-Chumhdach-Leanai-24-25.pdf",
+      "status": "ok",
+      "label": "Fógra maidir le hathbhreithniú an Údaráis Bainistíochta ar an Ráiteas um Chumhdach Leanaí 24-25"
+    },
+    {
+      "url": "https://gaelscoilchnocliamhna.ie/wp-content/uploads/2024/11/Fogra-maidir-le-hathbhreithniu-bliantuil-an-Bhoird-Bhainistiochta-ar-an-mbeartas-frithbhulaiochta-24-25.pdf",
+      "status": "ok",
+      "label": "Fógra maidir le hathbhreithniú bliantúil an Bhoird Bhainistíochta ar an mbeartas frithbhulaíochta 24-25"
+    },
+    {
+      "url": "https://gaelscoilchnocliamhna.ie/wp-content/uploads/2025/06/Fogra-maidir-le-hathbhreithniu-an-Udarais-Bainistiochta-ar-an-Raiteas-um-Chumhdach-Leanai-25-26.pdf",
+      "status": "ok",
+      "label": "Fógra maidir le hathbhreithniú an Údaráis Bainistíochta ar an Ráiteas um Chumhdach Leanaí 25-26"
+    },
+    {
+      "url": "https://gaelscoilchnocliamhna.ie/wp-content/uploads/2026/06/Fogra-Athbhreithnithe-26-CSS.pdf",
+      "status": "ok",
+      "label": "Fógra Athbhreithnithe 26 CSS"
+    }
+  ],
+  "documents": [],
+  "pending_links": [],
+  "earliest_year_cutoff": null,
+  "status": "attempted_no_new_notice_payload",
+  "elapsed_seconds": 25.4
+}

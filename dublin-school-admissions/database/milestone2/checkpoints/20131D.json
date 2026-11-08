@@ -1,0 +1,217 @@
+{
+  "roll": "20131D",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://d7educatetogether.com/page/2/?s=admission",
+      "final_url": "https://d7educatetogether.com/page/2/?s=admission",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Older Posts"
+    },
+    {
+      "url": "https://d7educatetogether.com/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://d7educatetogether.com/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://d7educatetogether.com/enrolment-2/?page_id=984",
+      "final_url": "https://d7educatetogether.com/our-school/website-privacy-statement/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Website Privacy Statement"
+    },
+    {
+      "url": "https://d7educatetogether.com/enrolment-2/",
+      "final_url": "https://d7educatetogether.com/enrolment-2/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Enrolment"
+    },
+    {
+      "url": "https://d7educatetogether.com/?s=admission",
+      "final_url": "https://d7educatetogether.com/?s=admission",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Public site search form"
+    },
+    {
+      "url": "https://d7educatetogether.com/wp-content/uploads/2023/01/Admissions-Policy-V05-January-2023_Final.pdf",
+      "final_url": "https://d7educatetogether.com/wp-content/uploads/2023/01/Admissions-Policy-V05-January-2023_Final.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Policy V05 January 2023_Final"
+    },
+    {
+      "url": "https://d7educatetogether.com/wp-content/uploads/2024/05/Admission-Policy.pdf",
+      "final_url": "https://d7educatetogether.com/wp-content/uploads/2024/05/Admission-Policy.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admission Policy"
+    },
+    {
+      "url": "https://d7educatetogether.com/wp-content/uploads/2025/10/101_93_13_Admission_Policy_2025_-September.pdf",
+      "final_url": "https://d7educatetogether.com/wp-content/uploads/2025/10/101_93_13_Admission_Policy_2025_-September.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "101_93_13_Admission_Policy_2025_ September"
+    },
+    {
+      "url": "https://d7educatetogether.com/wp-content/uploads/2026/09/AdmissionsPolicyD7ETNS2026.pdf",
+      "final_url": "https://d7educatetogether.com/wp-content/uploads/2026/09/AdmissionsPolicyD7ETNS2026.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "AdmissionsPolicyD7ETNS2026"
+    },
+    {
+      "url": "https://d7educatetogether.com/wp-content/uploads/2026/09/20260904-Dublin-7-ETNS-Admissions-Policy-September-2026-Approved.docx",
+      "final_url": "https://d7educatetogether.com/wp-content/uploads/2026/09/20260904-Dublin-7-ETNS-Admissions-Policy-September-2026-Approved.docx",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://d7educatetogether.com/wp-content/uploads/2019/03/data-protection.pdf",
+      "final_url": "https://d7educatetogether.com/wp-content/uploads/2019/03/data-protection.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "separate policy"
+    },
+    {
+      "url": "https://d7educatetogether.com/special-needs-parent-group/",
+      "final_url": "https://d7educatetogether.com/special-needs-parent-group/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Special Needs Parent Group"
+    },
+    {
+      "url": "https://d7educatetogether.com/special-needs-parent-group/?page_id=984",
+      "final_url": "https://d7educatetogether.com/our-school/website-privacy-statement/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Website Privacy Statement"
+    },
+    {
+      "url": "https://d7educatetogether.com/sitemap.xml",
+      "final_url": "https://d7educatetogether.com/wp-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "20131D",
+      "url": "https://d7educatetogether.com/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "label": "Oldest public admission media (all dates)",
+      "sha256": "f73fa4077c0c4df5eda53e5513d76c3f6a8004a0cef45aaffc7b40ca9220f88f",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20131D_f73fa4077c0c4df5eda5.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 2550
+    },
+    {
+      "roll": "20131D",
+      "url": "https://d7educatetogether.com/enrolment-2/",
+      "label": "Enrolment",
+      "sha256": "c2de10a8f61bbe681d3d10493381891901d785b68faf2635e3cda2e3e511362c",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20131D_c2de10a8f61bbe681d3d.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 276
+    },
+    {
+      "roll": "20131D",
+      "url": "https://d7educatetogether.com/wp-content/uploads/2023/01/Admissions-Policy-V05-January-2023_Final.pdf",
+      "label": "Admissions Policy V05 January 2023_Final",
+      "sha256": "61e354afd010be4a2b0bf3257f267029a0e594bbaafc2637deac7191e0bad881",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20131D_61e354afd010be4a2b0b.txt",
+      "source_file": "database/milestone2/cache/61e354afd010be4a2b0bf3257f267029a0e594bbaafc2637deac7191e0bad881.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 24113
+    },
+    {
+      "roll": "20131D",
+      "url": "https://d7educatetogether.com/wp-content/uploads/2025/10/101_93_13_Admission_Policy_2025_-September.pdf",
+      "label": "101_93_13_Admission_Policy_2025_ September",
+      "sha256": "7d02fa413ecc11a9a66d7f987784314116d1bb94f1ca3920c60f191086ae0dfb",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20131D_7d02fa413ecc11a9a66d.txt",
+      "source_file": "database/milestone2/cache/7d02fa413ecc11a9a66d7f987784314116d1bb94f1ca3920c60f191086ae0dfb.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 24887
+    },
+    {
+      "roll": "20131D",
+      "url": "https://d7educatetogether.com/wp-content/uploads/2026/09/AdmissionsPolicyD7ETNS2026.pdf",
+      "label": "AdmissionsPolicyD7ETNS2026",
+      "sha256": "bf6807ad4e4b654789d2b2017e475e1a5c590a25a0147c6e8989d286d2416f4d",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20131D_bf6807ad4e4b654789d2.txt",
+      "source_file": "database/milestone2/cache/bf6807ad4e4b654789d2b2017e475e1a5c590a25a0147c6e8989d286d2416f4d.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 24293
+    },
+    {
+      "roll": "20131D",
+      "url": "https://d7educatetogether.com/wp-content/uploads/2026/09/20260904-Dublin-7-ETNS-Admissions-Policy-September-2026-Approved.docx",
+      "label": "Prior school admissions section",
+      "sha256": "871c402131758827078ccb875ba5d340bd9cc7903663665ca7bd639f4b754c7f",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/20131D_871c402131758827078c.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 22421
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://d7educatetogether.com/wp-sitemap-posts-post-1.xml",
+      "label": "Public sitemap index child",
+      "via": "sitemap_child"
+    },
+    {
+      "url": "https://d7educatetogether.com/wp-sitemap-posts-page-1.xml",
+      "label": "Public sitemap index child",
+      "via": "sitemap_child"
+    },
+    {
+      "url": "https://d7educatetogether.com/wp-sitemap-posts-activity-1.xml",
+      "label": "Public sitemap index child",
+      "via": "sitemap_child"
+    },
+    {
+      "url": "https://d7educatetogether.com/policies/",
+      "label": "Policies",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://d7educatetogether.com/parent-teacher-association/",
+      "label": "Parent/Guardian-Staff Association",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://d7educatetogether.com/our-school/website-privacy-statement/",
+      "label": "Parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://d7educatetogether.com/after-school/activities/information/",
+      "label": "After School Information",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://d7educatetogether.com",
+      "label": "School homepage",
+      "via": "home"
+    }
+  ],
+  "elapsed_seconds": 164.34,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:38:46+0000"
+}

@@ -1,0 +1,359 @@
+{
+  "roll": "19940G",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.gsnp.ie/nuacht/news/fgra-bliantil-rang-speisialta-27-28pdf/?googletranslate=true",
+      "final_url": "https://www.gsnp.ie/nuacht/news/fgra-bliantil-rang-speisialta-27-28pdf/?googletranslate=true",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "https://swdcache.b-cdn.net/353/docletter/20260915113251_80_Fo_gra_Bliantu_il_Rang_Speisialta_27_28.pdf",
+      "final_url": "https://swdcache.b-cdn.net/353/docletter/20260915113251_80_Fo_gra_Bliantu_il_Rang_Speisialta_27_28.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.gsnp.ie/nuacht/news/fgra-bliantil-rang-speisialta-27-28pdf/",
+      "final_url": "https://www.gsnp.ie/nuacht/news/fgra-bliantil-rang-speisialta-27-28pdf/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Fógra Bliantúil Rang Speisialta 27 28.pdf"
+    },
+    {
+      "url": "https://www.gsnp.ie/nuacht/news/fgra-bliantil-gsnp-2728pdf-a/?googletranslate=true",
+      "final_url": "https://www.gsnp.ie/nuacht/news/fgra-bliantil-gsnp-2728pdf-a/?googletranslate=true",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "https://swdcache.b-cdn.net/353/docletter/20260908031419_13_Fo_gra_Bliantu_il_GSNP_27_28.pdf",
+      "final_url": "https://swdcache.b-cdn.net/353/docletter/20260908031419_13_Fo_gra_Bliantu_il_GSNP_27_28.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.gsnp.ie/nuacht/news/fgra-bliantil-gsnp-2728pdf-a/",
+      "final_url": "https://www.gsnp.ie/nuacht/news/fgra-bliantil-gsnp-2728pdf-a/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Fógra Bliantúil GSNP 27/28.pdf"
+    },
+    {
+      "url": "https://www.gsnp.ie/nuacht/news/annual-admission-notice-gsnp-27-28pdf/?googletranslate=true",
+      "final_url": "https://www.gsnp.ie/nuacht/news/annual-admission-notice-gsnp-27-28pdf/?googletranslate=true",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "https://swdcache.b-cdn.net/353/docletter/20260915113053_89_Annual_Admission_Notice_GSNP_27_28.pdf",
+      "final_url": "https://swdcache.b-cdn.net/353/docletter/20260915113053_89_Annual_Admission_Notice_GSNP_27_28.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.gsnp.ie/nuacht/news/annual-admission-notice-gsnp-27-28pdf/",
+      "final_url": "https://www.gsnp.ie/nuacht/news/annual-admission-notice-gsnp-27-28pdf/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Annual Admission Notice GSNP 27 28.pdf"
+    },
+    {
+      "url": "https://www.gsnp.ie/nuacht/news/annual-admission-notice-autism-class-27-28pdf/?googletranslate=true",
+      "final_url": "https://www.gsnp.ie/nuacht/news/annual-admission-notice-autism-class-27-28pdf/?googletranslate=true",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "https://swdcache.b-cdn.net/353/docletter/20260915113412_96_Annual_Admission_Notice_Autism_Class_27_28.pdf",
+      "final_url": "https://swdcache.b-cdn.net/353/docletter/20260915113412_96_Annual_Admission_Notice_Autism_Class_27_28.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.gsnp.ie/nuacht/news/annual-admission-notice-autism-class-27-28pdf/",
+      "final_url": "https://www.gsnp.ie/nuacht/news/annual-admission-notice-autism-class-27-28pdf/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Annual Admission Notice Autism Class 27 28.pdf"
+    },
+    {
+      "url": "https://www.gsnp.ie/letterlink/226/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/353/docletter/20260915113412_96_Annual_Admission_Notice_Autism_Class_27_28.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Annual Admission Notice Autism Class 27 28.pdf"
+    },
+    {
+      "url": "https://www.gsnp.ie/letterlink/225/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/353/docletter/20260915113251_80_Fo_gra_Bliantu_il_Rang_Speisialta_27_28.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Fógra Bliantúil Rang Speisialta 27 28.pdf"
+    },
+    {
+      "url": "https://www.gsnp.ie/letterlink/223/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/353/docletter/20260915113053_89_Annual_Admission_Notice_GSNP_27_28.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Annual Admission Notice GSNP 27 28.pdf"
+    },
+    {
+      "url": "https://www.gsnp.ie/documentlink/572/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/353/docletter/20260915113412_96_Annual_Admission_Notice_Autism_Class_27_28.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Annual Admission Notice Autism Class 27 28.pdf"
+    },
+    {
+      "url": "https://www.gsnp.ie/documentlink/571/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/353/docletter/20260915113251_80_Fo_gra_Bliantu_il_Rang_Speisialta_27_28.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Fógra Bliantúil Rang Speisialta 27 28.pdf"
+    },
+    {
+      "url": "https://www.gsnp.ie/documentlink/569/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/353/docletter/20260915113053_89_Annual_Admission_Notice_GSNP_27_28.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Annual Admission Notice GSNP 27 28.pdf"
+    },
+    {
+      "url": "https://www.gsnp.ie/documentlink/564/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/353/docletter/20260908031419_13_Fo_gra_Bliantu_il_GSNP_27_28.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Fógra Bliantúil GSNP 27/28.pdf"
+    },
+    {
+      "url": "https://www.gsnp.ie/admin/?open=/nuacht/news/fgra-bliantil-rang-speisialta-27-28pdf/?googletranslate=true",
+      "final_url": "https://www.gsnp.ie/admin/?open=/nuacht/news/fgra-bliantil-rang-speisialta-27-28pdf/?googletranslate=true",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.gsnp.ie/admin/?open=/nuacht/news/fgra-bliantil-rang-speisialta-27-28pdf/",
+      "final_url": "https://www.gsnp.ie/admin/?open=/nuacht/news/fgra-bliantil-rang-speisialta-27-28pdf/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.gsnp.ie/admin/?open=/nuacht/news/fgra-bliantil-gsnp-2728pdf-a/?googletranslate=true",
+      "final_url": "https://www.gsnp.ie/admin/?open=/nuacht/news/fgra-bliantil-gsnp-2728pdf-a/?googletranslate=true",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.gsnp.ie/admin/?open=/nuacht/news/fgra-bliantil-gsnp-2728pdf-a/",
+      "final_url": "https://www.gsnp.ie/admin/?open=/nuacht/news/fgra-bliantil-gsnp-2728pdf-a/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.gsnp.ie/admin/?open=/nuacht/news/annual-admission-notice-gsnp-27-28pdf/?googletranslate=true",
+      "final_url": "https://www.gsnp.ie/admin/?open=/nuacht/news/annual-admission-notice-gsnp-27-28pdf/?googletranslate=true",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19940G",
+      "url": "https://www.gsnp.ie/nuacht/news/fgra-bliantil-rang-speisialta-27-28pdf/?googletranslate=true",
+      "label": "",
+      "sha256": "0c2180f8b1f15fb1c314254e5e5f9e87000b905328dc0bd7616fde2783a0c977",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19940G_0c2180f8b1f15fb1c314.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 219
+    },
+    {
+      "roll": "19940G",
+      "url": "https://www.gsnp.ie/nuacht/news/fgra-bliantil-rang-speisialta-27-28pdf/",
+      "label": "Fógra Bliantúil Rang Speisialta 27 28.pdf",
+      "sha256": "02bc0bb108cdff30689dd41f5c0d48e7dd7cebb051901844ac47e38c03eaecf6",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19940G_02bc0bb108cdff30689d.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 219
+    },
+    {
+      "roll": "19940G",
+      "url": "https://www.gsnp.ie/nuacht/news/fgra-bliantil-gsnp-2728pdf-a/?googletranslate=true",
+      "label": "",
+      "sha256": "505df75d46e2a4c6e989c95b02a47c5dd22f7299ebe5bbd4c9960bb1b045a192",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19940G_505df75d46e2a4c6e989.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 126
+    },
+    {
+      "roll": "19940G",
+      "url": "https://www.gsnp.ie/nuacht/news/fgra-bliantil-gsnp-2728pdf-a/",
+      "label": "Fógra Bliantúil GSNP 27/28.pdf",
+      "sha256": "ad90285764be9b8e12118ad29732ce363ce4620ebbb0c921c90859ed57bdbe6d",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19940G_ad90285764be9b8e1211.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 126
+    },
+    {
+      "roll": "19940G",
+      "url": "https://www.gsnp.ie/nuacht/news/annual-admission-notice-gsnp-27-28pdf/?googletranslate=true",
+      "label": "",
+      "sha256": "2aaeffc36b488bb97500a2b76ec5db5669c719530ed7ca124c824e2be917330a",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19940G_2aaeffc36b488bb97500.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 210
+    },
+    {
+      "roll": "19940G",
+      "url": "https://www.gsnp.ie/nuacht/news/annual-admission-notice-gsnp-27-28pdf/",
+      "label": "Annual Admission Notice GSNP 27 28.pdf",
+      "sha256": "c3e9ae1eb73770470616565970fad926b8634c1dd79463debdf3a4c9e63a5f01",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19940G_c3e9ae1eb73770470616.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 210
+    },
+    {
+      "roll": "19940G",
+      "url": "https://www.gsnp.ie/nuacht/news/annual-admission-notice-autism-class-27-28pdf/?googletranslate=true",
+      "label": "",
+      "sha256": "0a5d73f69fb2e5ba890e0fc8edd093ff5fc449edcc2d66f9b77601c119addc5c",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19940G_0a5d73f69fb2e5ba890e.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 234
+    },
+    {
+      "roll": "19940G",
+      "url": "https://www.gsnp.ie/nuacht/news/annual-admission-notice-autism-class-27-28pdf/",
+      "label": "Annual Admission Notice Autism Class 27 28.pdf",
+      "sha256": "371b45b474d929c5f081c4988cd070399250f0f403b1386e6ef93d4143807bf5",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19940G_371b45b474d929c5f081.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 234
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.gsnp.ie/admin/?open=/nuacht/news/annual-admission-notice-gsnp-27-28pdf/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.gsnp.ie/admin/?open=/nuacht/news/annual-admission-notice-autism-class-27-28pdf/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.gsnp.ie/admin/?open=/nuacht/news/annual-admission-notice-autism-class-27-28pdf/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.gsnp.ie/nuacht/news/polasa-iontrla-gsnp-pdf-a-a/?googletranslate=true",
+      "label": "",
+      "via": "prior_public_admissions_landing"
+    },
+    {
+      "url": "https://www.gsnp.ie/nuacht/news/polasa-iontrla-gsnp-pdf-a-a/",
+      "label": "Polasaí Iontrála GSNP .pdf",
+      "via": "prior_public_admissions_landing"
+    },
+    {
+      "url": "https://www.gsnp.ie/sitemap.xml",
+      "label": "Public sitemap",
+      "via": "sitemap_root"
+    },
+    {
+      "url": "https://www.gsnp.ie/nuacht/news/school-admission-policy---gsnppdf-a/?googletranslate=true",
+      "label": "",
+      "via": "prior_public_admissions_landing"
+    },
+    {
+      "url": "https://www.gsnp.ie/nuacht/news/school-admission-policy---gsnppdf-a/",
+      "label": "School Admission Policy - GSNP.pdf",
+      "via": "prior_public_admissions_landing"
+    },
+    {
+      "url": "https://www.gsnp.ie/letterlink/226/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.gsnp.ie/letterlink/225/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.gsnp.ie/letterlink/223/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.gsnp.ie/documentlink/572/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.gsnp.ie/documentlink/571/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.gsnp.ie/documentlink/569/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.gsnp.ie/documentlink/564/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.gsnp.ie",
+      "label": "School homepage",
+      "via": "home"
+    },
+    {
+      "url": "https://www.gsnp.ie/cmsfiles/policies/privacy/",
+      "label": "Website Privacy Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.gsnp.ie/cmsfiles/policies/cookie/",
+      "label": "Cookie Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 45.85,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:10:03+0000"
+}

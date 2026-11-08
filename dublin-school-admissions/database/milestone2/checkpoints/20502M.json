@@ -1,0 +1,72 @@
+{
+  "roll": "20502M",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://scoilsineadfinglas.ie/enrolment/",
+      "final_url": "https://scoilsineadfinglas.ie/enrolment/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Enrolment"
+    },
+    {
+      "url": "https://scoilsineadfinglas.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://scoilsineadfinglas.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://scoilsineadfinglas.ie/wp-sitemap.xml",
+      "final_url": "https://scoilsineadfinglas.ie/wp-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://scoilsineadfinglas.ie/wp-sitemap-users-1.xml",
+      "final_url": "https://scoilsineadfinglas.ie/wp-sitemap-users-1.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://scoilsineadfinglas.ie/wp-sitemap-posts-page-1.xml",
+      "final_url": "https://scoilsineadfinglas.ie/wp-sitemap-posts-page-1.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://scoilsineadfinglas.ie/parents-hub/",
+      "final_url": "https://scoilsineadfinglas.ie/parents-hub/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents Hub"
+    },
+    {
+      "url": "https://scoilsineadfinglas.ie",
+      "final_url": "https://scoilsineadfinglas.ie",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "20502M",
+      "url": "https://scoilsineadfinglas.ie/enrolment/",
+      "label": "Enrolment",
+      "sha256": "f0f5595105a165e2845ddda8bd19e995266cc5b1d85f54795a377374922de3e5",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20502M_f0f5595105a165e2845d.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 811
+    }
+  ],
+  "pending_links": [],
+  "elapsed_seconds": 23.06,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:12:05+0000"
+}

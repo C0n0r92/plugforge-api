@@ -1,0 +1,349 @@
+{
+  "roll": "19922E",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://ourladysclonskeagh.ie/admission-notice-2027-2028/",
+      "final_url": "https://ourladysclonskeagh.ie/wp-content/uploads/2026/09/Admission-Notice-2027-2028.pdf",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admission Notice"
+    },
+    {
+      "url": "https://ourladysclonskeagh.ie/wp-content/uploads/2026/10/school-admissions.jpg",
+      "final_url": "https://ourladysclonskeagh.ie/wp-content/uploads/2026/10/school-admissions.jpg",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "school-admissions"
+    },
+    {
+      "url": "https://ourladysclonskeagh.ie/enrolment-form/",
+      "final_url": "https://ourladysclonskeagh.ie/enrolment-form/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Enrolment Form"
+    },
+    {
+      "url": "https://ourladysclonskeagh.ie/wp-content/uploads/2020/10/OLNS-Enrolment-Form-Oct-2020.pdf",
+      "final_url": "https://ourladysclonskeagh.ie/wp-content/uploads/2020/10/OLNS-Enrolment-Form-Oct-2020.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Enrolment Form Download"
+    },
+    {
+      "url": "https://ourladysclonskeagh.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://ourladysclonskeagh.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://ourladysclonskeagh.ie/wp-content/uploads/2020/09/200930-Admissions-Policy.pdf",
+      "final_url": "https://ourladysclonskeagh.ie/wp-content/uploads/2020/09/200930-Admissions-Policy.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "200930- Admissions Policy"
+    },
+    {
+      "url": "https://ourladysclonskeagh.ie/wp-content/uploads/2020/10/Admission-Policy-1-2020-10-02.pdf",
+      "final_url": "https://ourladysclonskeagh.ie/wp-content/uploads/2020/10/Admission-Policy-1-2020-10-02.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admission Policy-1 2020-10-02"
+    },
+    {
+      "url": "https://ourladysclonskeagh.ie/admissions/page/9/?et_blog",
+      "final_url": "https://ourladysclonskeagh.ie/admissions/page/9/?et_blog",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "« Older Entries"
+    },
+    {
+      "url": "https://ourladysclonskeagh.ie/admissions/page/8/?et_blog",
+      "final_url": "https://ourladysclonskeagh.ie/admissions/page/8/?et_blog",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "« Older Entries"
+    },
+    {
+      "url": "https://ourladysclonskeagh.ie/admissions/page/7/?et_blog",
+      "final_url": "https://ourladysclonskeagh.ie/admissions/page/7/?et_blog",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "« Older Entries"
+    },
+    {
+      "url": "https://ourladysclonskeagh.ie/admissions/page/6/?et_blog",
+      "final_url": "https://ourladysclonskeagh.ie/admissions/page/6/?et_blog",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "« Older Entries"
+    },
+    {
+      "url": "https://ourladysclonskeagh.ie/admissions/page/5/?et_blog",
+      "final_url": "https://ourladysclonskeagh.ie/admissions/page/5/?et_blog",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "« Older Entries"
+    },
+    {
+      "url": "https://ourladysclonskeagh.ie/admissions/page/4/?et_blog",
+      "final_url": "https://ourladysclonskeagh.ie/admissions/page/4/?et_blog",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "« Older Entries"
+    },
+    {
+      "url": "https://ourladysclonskeagh.ie/admissions/page/3/?et_blog",
+      "final_url": "https://ourladysclonskeagh.ie/admissions/page/3/?et_blog",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "« Older Entries"
+    },
+    {
+      "url": "https://ourladysclonskeagh.ie/admissions/page/24/?et_blog",
+      "final_url": "https://ourladysclonskeagh.ie/admissions/page/24/?et_blog",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "« Older Entries"
+    },
+    {
+      "url": "https://ourladysclonskeagh.ie/admissions/page/25/?et_blog",
+      "final_url": "https://ourladysclonskeagh.ie/admissions/page/25/?et_blog",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "« Older Entries"
+    },
+    {
+      "url": "https://ourladysclonskeagh.ie/admissions/page/26/?et_blog",
+      "final_url": "https://ourladysclonskeagh.ie/admissions/page/26/?et_blog",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "« Older Entries"
+    },
+    {
+      "url": "https://ourladysclonskeagh.ie/admissions/page/27/?et_blog",
+      "final_url": "https://ourladysclonskeagh.ie/admissions/page/27/?et_blog",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "« Older Entries"
+    },
+    {
+      "url": "https://ourladysclonskeagh.ie/admissions/page/28/?et_blog",
+      "final_url": "https://ourladysclonskeagh.ie/admissions/page/28/?et_blog",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "« Older Entries"
+    },
+    {
+      "url": "https://ourladysclonskeagh.ie/admissions/page/29/?et_blog",
+      "final_url": "https://ourladysclonskeagh.ie/admissions/page/29/?et_blog",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "« Older Entries"
+    },
+    {
+      "url": "https://ourladysclonskeagh.ie/admissions/page/30/?et_blog",
+      "final_url": "https://ourladysclonskeagh.ie/admissions/page/30/?et_blog",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "« Older Entries"
+    },
+    {
+      "url": "https://ourladysclonskeagh.ie/admissions/page/31/?et_blog",
+      "final_url": "https://ourladysclonskeagh.ie/admissions/page/31/?et_blog",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "« Older Entries"
+    },
+    {
+      "url": "https://ourladysclonskeagh.ie/admissions/page/32/?et_blog",
+      "final_url": "https://ourladysclonskeagh.ie/admissions/page/32/?et_blog",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "« Older Entries"
+    },
+    {
+      "url": "https://ourladysclonskeagh.ie/admissions/page/33/?et_blog",
+      "final_url": "https://ourladysclonskeagh.ie/admissions/page/33/?et_blog",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "« Older Entries"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19922E",
+      "url": "https://ourladysclonskeagh.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "label": "Oldest public admission media (all dates)",
+      "sha256": "f462f54f1c50a72daccce0639621eebdebeecc8043da6acfcd650f931a416ac0",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19922E_f462f54f1c50a72daccc.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 2132
+    },
+    {
+      "roll": "19922E",
+      "url": "https://ourladysclonskeagh.ie/wp-content/uploads/2020/09/200930-Admissions-Policy.pdf",
+      "label": "200930- Admissions Policy",
+      "sha256": "76605f8e0b66993bd315a4c191b51883ddb7ee979c8416730e04030d40344a3a",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19922E_76605f8e0b66993bd315.txt",
+      "source_file": "database/milestone2/cache/76605f8e0b66993bd315a4c191b51883ddb7ee979c8416730e04030d40344a3a.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 19876
+    },
+    {
+      "roll": "19922E",
+      "url": "https://ourladysclonskeagh.ie/wp-content/uploads/2020/10/Admission-Policy-1-2020-10-02.pdf",
+      "label": "Admission Policy-1 2020-10-02",
+      "sha256": "16c773d4a5c2f18e849e639b9e67b16599ea47c1509e61da0f8f9b1f8e478941",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19922E_16c773d4a5c2f18e849e.txt",
+      "source_file": "database/milestone2/cache/16c773d4a5c2f18e849e639b9e67b16599ea47c1509e61da0f8f9b1f8e478941.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 19784
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://ourladysclonskeagh.ie/admissions/page/34/?et_blog",
+      "label": "« Older Entries",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://ourladysclonskeagh.ie/admissions/page/23/?et_blog",
+      "label": "« Older Entries",
+      "via": "prior_public_admissions_landing"
+    },
+    {
+      "url": "https://ourladysclonskeagh.ie/admissions/page/22/?et_blog",
+      "label": "« Older Entries",
+      "via": "prior_public_admissions_landing"
+    },
+    {
+      "url": "https://ourladysclonskeagh.ie/admissions/page/21/?et_blog",
+      "label": "« Older Entries",
+      "via": "prior_public_admissions_landing"
+    },
+    {
+      "url": "https://ourladysclonskeagh.ie/admissions/page/20/?et_blog",
+      "label": "« Older Entries",
+      "via": "prior_public_admissions_landing"
+    },
+    {
+      "url": "https://ourladysclonskeagh.ie/admissions/page/2/?et_blog",
+      "label": "« Older Entries",
+      "via": "prior_public_admissions_landing"
+    },
+    {
+      "url": "https://ourladysclonskeagh.ie/admissions/page/19/?et_blog",
+      "label": "« Older Entries",
+      "via": "prior_public_admissions_landing"
+    },
+    {
+      "url": "https://ourladysclonskeagh.ie/admissions/page/18/?et_blog",
+      "label": "« Older Entries",
+      "via": "prior_public_admissions_landing"
+    },
+    {
+      "url": "https://ourladysclonskeagh.ie/admissions/page/17/?et_blog",
+      "label": "« Older Entries",
+      "via": "prior_public_admissions_landing"
+    },
+    {
+      "url": "https://ourladysclonskeagh.ie/admissions/page/16/?et_blog",
+      "label": "« Older Entries",
+      "via": "prior_public_admissions_landing"
+    },
+    {
+      "url": "https://ourladysclonskeagh.ie/admissions/page/15/?et_blog",
+      "label": "« Older Entries",
+      "via": "prior_public_admissions_landing"
+    },
+    {
+      "url": "https://ourladysclonskeagh.ie/admissions/page/14/?et_blog",
+      "label": "« Older Entries",
+      "via": "prior_public_admissions_landing"
+    },
+    {
+      "url": "https://ourladysclonskeagh.ie/admissions/page/13/?et_blog",
+      "label": "« Older Entries",
+      "via": "prior_public_admissions_landing"
+    },
+    {
+      "url": "https://ourladysclonskeagh.ie/admissions/page/12/?et_blog",
+      "label": "« Older Entries",
+      "via": "prior_public_admissions_landing"
+    },
+    {
+      "url": "https://ourladysclonskeagh.ie/admissions/page/11/?et_blog",
+      "label": "« Older Entries",
+      "via": "prior_public_admissions_landing"
+    },
+    {
+      "url": "https://ourladysclonskeagh.ie/admissions/page/10/?et_blog",
+      "label": "« Older Entries",
+      "via": "prior_public_admissions_landing"
+    },
+    {
+      "url": "https://ourladysclonskeagh.ie/admissions/",
+      "label": "",
+      "via": "prior_public_admissions_landing"
+    },
+    {
+      "url": "https://ourladysclonskeagh.ie/?s=admission",
+      "label": "Public site search form",
+      "via": "prior_public_admissions_landing"
+    },
+    {
+      "url": "https://ourladysclonskeagh.ie/wp-content/uploads/2022/06/Admission-Policy-Our-Ladys-N.S.-JUNE-2022.pdf",
+      "label": "Admission Policy Our Lady&#8217;s N.S. JUNE 2022",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://ourladysclonskeagh.ie/wp-content/uploads/2023/02/Admission-Policy-reviewed-Feb-2023-1.pdf",
+      "label": "Admission Policy reviewed Feb 2023-1",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://ourladysclonskeagh.ie/wp-content/uploads/2025/09/Admission-Policy-2025.pdf",
+      "label": "Admission Policy 2025",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://ourladysclonskeagh.ie/admission-policy-2025/",
+      "label": "Admission Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ourladysclonskeagh.ie",
+      "label": "School homepage",
+      "via": "home"
+    },
+    {
+      "url": "https://ourladysclonskeagh.ie/sitemap_index.xml",
+      "label": "Public sitemap",
+      "via": "sitemap_root"
+    },
+    {
+      "url": "https://ourladysclonskeagh.ie/our-ladys-policies/",
+      "label": "Our Lady’s Policies",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://ourladysclonskeagh.ie/grandparents-day/",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://ourladysclonskeagh.ie/privacy-policy/",
+      "label": "Privacy Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 92.54,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:35:34+0000"
+}

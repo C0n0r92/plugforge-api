@@ -1,0 +1,26 @@
+{
+  "roll": "00714P",
+  "capture": {
+    "timestamp": "20260613181041",
+    "original": "https://www.stmarysbnslucan.com/Page/Admissions/355589/Index.html",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "digest": "NWVWFFAOATYWAUJDIWKHV6DCW5MK52XU"
+  },
+  "original_url": "https://www.stmarysbnslucan.com/Page/Admissions/355589/Index.html",
+  "archived_url": "https://web.archive.org/web/20260613181041/https://www.stmarysbnslucan.com/Page/Admissions/355589/Index.html",
+  "attempted_at": "2026-11-08T13:23:59.224205+00:00",
+  "linked_from_capture": null,
+  "http_status": 200,
+  "headers": {
+    "Content-Type": "text/html; charset=utf-8",
+    "memento-datetime": "Sat, 13 Jun 2026 18:10:41 GMT"
+  },
+  "bytes": 52241,
+  "payload_sha256": "5ed6b815dc9b38848bef6c2b6b2955eab1b61e89c0e0ebd8f82757c44b1f5960",
+  "source_file": "database/milestone2/cache/5ed6b815dc9b38848bef6c2b6b2955eab1b61e89c0e0ebd8f82757c44b1f5960.html",
+  "format": "html",
+  "status": "archived_body_retrieved_requires_manual_evidence_review",
+  "text_file": "database/milestone2/evidence/exact_00714P_5ed6b815dc9b38848bef.txt",
+  "linked_document_candidates": []
+}

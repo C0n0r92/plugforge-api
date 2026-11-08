@@ -1,0 +1,135 @@
+{
+  "roll": "12755W",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.kildareplace.ie/admissions",
+      "final_url": "https://www.kildareplace.ie/admissions",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://www.kildareplace.ie/_files/ugd/a602a2_52ece921445e4c65be364ea5dc961e60.pdf",
+      "final_url": "https://www.kildareplace.ie/_files/ugd/a602a2_52ece921445e4c65be364ea5dc961e60.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download"
+    },
+    {
+      "url": "https://www.kildareplace.ie/_files/ugd/a602a2_4006986c3d474430961c717a5f26f3f2.pdf",
+      "final_url": "https://www.kildareplace.ie/_files/ugd/a602a2_4006986c3d474430961c717a5f26f3f2.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download"
+    },
+    {
+      "url": "https://www.kildareplace.ie/sitemap.xml",
+      "final_url": "https://www.kildareplace.ie/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.kildareplace.ie/policies",
+      "final_url": "https://www.kildareplace.ie/policies",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.kildareplace.ie/_files/ugd/a602a2_aaaef9d29e554886bf230f58ae97b313.pdf",
+      "final_url": "https://www.kildareplace.ie/_files/ugd/a602a2_aaaef9d29e554886bf230f58ae97b313.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Please click here for more information on the Parental Complaints procedure."
+    },
+    {
+      "url": "https://www.kildareplace.ie/parent-teacher-association",
+      "final_url": "https://www.kildareplace.ie/parent-teacher-association",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parent Teacher Association"
+    },
+    {
+      "url": "https://www.kildareplace.ie/pages-sitemap.xml",
+      "final_url": "https://www.kildareplace.ie/pages-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.kildareplace.ie/",
+      "final_url": "https://www.kildareplace.ie/",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.kildareplace.ie/_files/ugd/a602a2_cf115fa1251e4574a0e388cc016857c1.pdf",
+      "final_url": "https://www.kildareplace.ie/_files/ugd/a602a2_cf115fa1251e4574a0e388cc016857c1.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Please click here for the policy document."
+    },
+    {
+      "url": "https://www.kildareplace.ie/_files/ugd/a602a2_b820907d15824e689aefa04fb137be1a.pdf",
+      "final_url": "https://www.kildareplace.ie/_files/ugd/a602a2_b820907d15824e689aefa04fb137be1a.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Please click here for the policy document."
+    },
+    {
+      "url": "https://www.kildareplace.ie/_files/ugd/a602a2_64a004a2ac90403da81f2ce50e0326d5.pdf",
+      "final_url": "https://www.kildareplace.ie/_files/ugd/a602a2_64a004a2ac90403da81f2ce50e0326d5.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Please click here for the policy document."
+    },
+    {
+      "url": "https://www.kildareplace.ie/_files/ugd/a602a2_586284a6c4b240a3835ba6139916349d.pdf",
+      "final_url": "https://www.kildareplace.ie/_files/ugd/a602a2_586284a6c4b240a3835ba6139916349d.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Please click here for the policy document."
+    },
+    {
+      "url": "https://www.kildareplace.ie/_files/ugd/a602a2_4987dca52702411bad209cc56a9323b7.pdf",
+      "final_url": "https://www.kildareplace.ie/_files/ugd/a602a2_4987dca52702411bad209cc56a9323b7.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Please click here for the policy document."
+    },
+    {
+      "url": "https://www.kildareplace.ie/_files/ugd/a602a2_3665d54e8290488bb9f1ca4a4b775353.pdf",
+      "final_url": "https://www.kildareplace.ie/_files/ugd/a602a2_3665d54e8290488bb9f1ca4a4b775353.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Please click here for the policy document."
+    },
+    {
+      "url": "https://www.kildareplace.ie/_files/ugd/a602a2_3300b14564e24bb3b084cdfaad1e69e6.pdf",
+      "final_url": "https://www.kildareplace.ie/_files/ugd/a602a2_3300b14564e24bb3b084cdfaad1e69e6.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Please click here for the policy document."
+    }
+  ],
+  "documents": [
+    {
+      "roll": "12755W",
+      "url": "https://www.kildareplace.ie/_files/ugd/a602a2_4006986c3d474430961c717a5f26f3f2.pdf",
+      "label": "Download",
+      "sha256": "e9f1d7f3f1c57c11d3ac3a85453f679876901dcebe615e151dfc5adaf4e7a704",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/12755W_e9f1d7f3f1c57c11d3ac.txt",
+      "source_file": "database/milestone2/cache/e9f1d7f3f1c57c11d3ac3a85453f679876901dcebe615e151dfc5adaf4e7a704.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 30649
+    }
+  ],
+  "pending_links": [],
+  "elapsed_seconds": 44.71,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:44:13+0000"
+}

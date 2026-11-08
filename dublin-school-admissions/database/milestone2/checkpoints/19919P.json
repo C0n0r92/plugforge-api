@@ -1,0 +1,203 @@
+{
+  "roll": "19919P",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://stdavidsbns.ie/index.php/school-enrolment/",
+      "final_url": "https://stdavidsbns.ie/index.php/school-enrolment/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "School Enrolment"
+    },
+    {
+      "url": "https://stdavidsbns.ie/wp-content/uploads/2025/02/Review-by-Board-of-Management-Request-Form-Refused-Admission.pdf",
+      "final_url": "https://stdavidsbns.ie/wp-content/uploads/2025/02/Review-by-Board-of-Management-Request-Form-Refused-Admission.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Review by Board of Management Request Form – Refused Admission"
+    },
+    {
+      "url": "https://stdavidsbns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://stdavidsbns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "http_404",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://stdavidsbns.ie/wp-content/uploads/2024/10/St-Davids-N.S.-Admissions-Policy-September-2024-.docx",
+      "final_url": "https://stdavidsbns.ie/wp-content/uploads/2024/10/St-Davids-N.S.-Admissions-Policy-September-2024-.docx",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://stdavidsbns.ie/wp-content/uploads/2026/09/Admission-Policy.docx",
+      "final_url": "https://stdavidsbns.ie/wp-content/uploads/2026/09/Admission-Policy.docx",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://stdavidsbns.ie/sitemap.xml",
+      "final_url": "https://stdavidsbns.ie/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://stdavidsbns.ie/index.php/parent-info/board-of-management/",
+      "final_url": "https://stdavidsbns.ie/index.php/parent-info/board-of-management/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Board Of Management"
+    },
+    {
+      "url": "https://stdavidsbns.ie/index.php/parent-info/",
+      "final_url": "https://stdavidsbns.ie/index.php/parent-info/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parent’s Information"
+    },
+    {
+      "url": "https://stdavidsbns.ie/index.php/policies/",
+      "final_url": "https://stdavidsbns.ie/index.php/policies/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Our Policies"
+    },
+    {
+      "url": "https://stdavidsbns.ie/wp-content/uploads/2022/02/Enrolment-Form-1-10.pdf",
+      "final_url": "https://stdavidsbns.ie/wp-content/uploads/2022/02/Enrolment-Form-1-10.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Enrolment Policy"
+    },
+    {
+      "url": "https://stdavidsbns.ie/",
+      "final_url": "https://stdavidsbns.ie/",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://stdavidsbns.ie/wp-content/uploads/2026/09/St-Davids-NS-Child-Safeguarding-Statement-and-Risk-Assessment-Nov-2021-1.docx",
+      "final_url": "https://stdavidsbns.ie/wp-content/uploads/2026/09/St-Davids-NS-Child-Safeguarding-Statement-and-Risk-Assessment-Nov-2021-1.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Child Protection Policy"
+    },
+    {
+      "url": "https://stdavidsbns.ie/wp-content/uploads/2021/11/St-Davids-SPHE-Policy.pdf",
+      "final_url": "https://stdavidsbns.ie/wp-content/uploads/2021/11/St-Davids-SPHE-Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "SPHE Policy"
+    },
+    {
+      "url": "https://stdavidsbns.ie/wp-content/uploads/2021/11/St-Davids-Religion-Education-Policy.pdf",
+      "final_url": "https://stdavidsbns.ie/wp-content/uploads/2021/11/St-Davids-Religion-Education-Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Religion Policy"
+    },
+    {
+      "url": "https://stdavidsbns.ie/wp-content/uploads/2021/11/St-Davids-Maths-Policy.pdf",
+      "final_url": "https://stdavidsbns.ie/wp-content/uploads/2021/11/St-Davids-Maths-Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Maths Policy"
+    },
+    {
+      "url": "https://stdavidsbns.ie/wp-content/uploads/2021/11/St-Davids-BNS-Social-Media-Policy.pdf",
+      "final_url": "https://stdavidsbns.ie/wp-content/uploads/2021/11/St-Davids-BNS-Social-Media-Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Social Media Policy"
+    },
+    {
+      "url": "https://stdavidsbns.ie/wp-content/uploads/2021/11/RSE-Policy.pdf",
+      "final_url": "https://stdavidsbns.ie/wp-content/uploads/2021/11/RSE-Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "R.S.E. Policy"
+    },
+    {
+      "url": "https://stdavidsbns.ie/wp-content/uploads/2021/11/Literacy-Policy.pdf",
+      "final_url": "https://stdavidsbns.ie/wp-content/uploads/2021/11/Literacy-Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Literacy Policy"
+    },
+    {
+      "url": "https://stdavidsbns.ie/wp-content/uploads/2021/11/ICT-School-Policy.pdf",
+      "final_url": "https://stdavidsbns.ie/wp-content/uploads/2021/11/ICT-School-Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "ICT School Policy"
+    },
+    {
+      "url": "https://stdavidsbns.ie/wp-content/uploads/2021/11/Healthy-Eating-Policy.pdf",
+      "final_url": "https://stdavidsbns.ie/wp-content/uploads/2021/11/Healthy-Eating-Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Healthy Eating Policy"
+    },
+    {
+      "url": "https://stdavidsbns.ie/wp-content/uploads/2026/10/Bi-Cinealta-policy-August-2025.docx",
+      "final_url": "https://stdavidsbns.ie/wp-content/uploads/2026/10/Bi-Cinealta-policy-August-2025.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Anti Bullying Policy"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19919P",
+      "url": "https://stdavidsbns.ie/index.php/school-enrolment/",
+      "label": "School Enrolment",
+      "sha256": "5aee7c98d63f2babe6985fd3232f13b2e2573bd65f00b3db1b7a75627a0084ee",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19919P_5aee7c98d63f2babe698.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 152
+    },
+    {
+      "roll": "19919P",
+      "url": "https://stdavidsbns.ie/wp-content/uploads/2025/02/Review-by-Board-of-Management-Request-Form-Refused-Admission.pdf",
+      "label": "Review by Board of Management Request Form – Refused Admission",
+      "sha256": "21bb9ee7740edff047fce3bb5e4e23f7191fa4e84826d91fd7fd026df7adec6e",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19919P_21bb9ee7740edff047fc.txt",
+      "source_file": "database/milestone2/cache/21bb9ee7740edff047fce3bb5e4e23f7191fa4e84826d91fd7fd026df7adec6e.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 3103
+    },
+    {
+      "roll": "19919P",
+      "url": "https://stdavidsbns.ie/wp-content/uploads/2024/10/St-Davids-N.S.-Admissions-Policy-September-2024-.docx",
+      "label": "Prior school admissions section",
+      "sha256": "81c925209aa7893f9184fb5c78af456158e8f058c81bb78727bb83e8a0aae1f4",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/19919P_81c925209aa7893f9184.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 24186
+    },
+    {
+      "roll": "19919P",
+      "url": "https://stdavidsbns.ie/wp-content/uploads/2026/09/Admission-Policy.docx",
+      "label": "Prior school admissions section",
+      "sha256": "48e1c50147c09dcfd6efc3588348b78b0b827213b9cf0e5888227139212c058c",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/19919P_48e1c50147c09dcfd6ef.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 24456
+    }
+  ],
+  "pending_links": [],
+  "elapsed_seconds": 67.56,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:47:03+0000"
+}

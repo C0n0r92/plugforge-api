@@ -1,0 +1,123 @@
+{
+  "roll": "19319O",
+  "status": "bounded_search_no_new_notice_found",
+  "attempts": [
+    {
+      "url": "https://stolafs.ie/admissions/",
+      "final_url": "https://stolafs.ie/admissions/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://stolafs.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://stolafs.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://stolafs.ie/wp-content/uploads/2026/09/Admissions-Policy-2025-Ratified.pdf",
+      "final_url": "https://stolafs.ie/wp-content/uploads/2026/09/Admissions-Policy-2025-Ratified.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "here"
+    },
+    {
+      "url": "https://stolafs.ie/wp-content/uploads/2026/10/admissions-policy-24-25.pdf",
+      "final_url": "https://stolafs.ie/wp-content/uploads/2026/10/admissions-policy-24-25.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "admissions-policy-24-25"
+    },
+    {
+      "url": "https://stolafs.ie/wp-sitemap.xml",
+      "final_url": "https://stolafs.ie/wp-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://stolafs.ie/wp-sitemap-users-1.xml",
+      "final_url": "https://stolafs.ie/wp-sitemap-users-1.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://stolafs.ie/wp-sitemap-posts-post-1.xml",
+      "final_url": "https://stolafs.ie/wp-sitemap-posts-post-1.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://stolafs.ie/wp-sitemap-posts-page-1.xml",
+      "final_url": "https://stolafs.ie/wp-sitemap-posts-page-1.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://stolafs.ie/policies/",
+      "final_url": "https://stolafs.ie/policies/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://stolafs.ie/parents-association/",
+      "final_url": "https://stolafs.ie/parents-association/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parent’s Association"
+    },
+    {
+      "url": "https://stolafs.ie",
+      "final_url": "https://stolafs.ie",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://stolafs.ie/wp-content/uploads/2026/10/safeguarding-policy.pdf",
+      "final_url": "https://stolafs.ie/wp-content/uploads/2026/10/safeguarding-policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "P.A. Child Safeguarding Policy"
+    },
+    {
+      "url": "https://stolafs.ie/wp-content/uploads/2026/10/homework-policy.pdf",
+      "final_url": "https://stolafs.ie/wp-content/uploads/2026/10/homework-policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Homework Policy"
+    },
+    {
+      "url": "https://stolafs.ie/wp-content/uploads/2026/10/bi-binealta-policy.pdf",
+      "final_url": "https://stolafs.ie/wp-content/uploads/2026/10/bi-binealta-policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Bí Cineálta Policy"
+    },
+    {
+      "url": "https://stolafs.ie/wp-content/uploads/2026/10/acceptable-usage-policy.pdf",
+      "final_url": "https://stolafs.ie/wp-content/uploads/2026/10/acceptable-usage-policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Acceptable Usage Policy"
+    },
+    {
+      "url": "https://stolafs.ie/privacy-policy/",
+      "final_url": "https://stolafs.ie/privacy-policy/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Privacy Policy"
+    }
+  ],
+  "documents": [],
+  "pending_links": [],
+  "elapsed_seconds": 50.27,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:55:04+0000"
+}

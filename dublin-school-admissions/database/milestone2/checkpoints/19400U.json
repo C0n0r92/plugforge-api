@@ -1,0 +1,305 @@
+{
+  "roll": "19400U",
+  "status": "bounded_search_no_new_notice_found",
+  "attempts": [
+    {
+      "url": "https://www.gkns.ie/about/enrolment/?googletranslate=true",
+      "final_url": "https://www.gkns.ie/about/enrolment/?googletranslate=true",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "https://www.gkns.ie/documentlink/60/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/894/docletter/20261002113317_41_Admission_Notice_Sept_2026_PDF.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Admission Notice Sept 2026 PDF.pdf"
+    },
+    {
+      "url": "https://www.gkns.ie/admin/?open=/about/enrolment/?googletranslate=true",
+      "final_url": "https://www.gkns.ie/admin/?open=/about/enrolment/?googletranslate=true",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.gkns.ie/about/enrolment/",
+      "final_url": "https://www.gkns.ie/about/enrolment/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Enrolment"
+    },
+    {
+      "url": "https://www.gkns.ie/admin/?open=/about/enrolment/",
+      "final_url": "https://www.gkns.ie/admin/?open=/about/enrolment/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.gkns.ie/documentlink/62/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/894/docletter/20261005083646_19_Application_Form_for_Enrolment_Junior_Infants_2026_entry_2027_PDF.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Application Form for Enrolment Junior Infants 2026 entry 2027 PDF.pdf"
+    },
+    {
+      "url": "https://www.gkns.ie/documentlink/61/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/894/docletter/20261005083622_58_Application_Form_for_Enrolment_to_Autism_Class_JI_to_6th_Class_2026_Entry_2027_PDF.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Application Form for Enrolment to Autism Class JI to 6th Class 2026 Entry 2027 PDF.pdf"
+    },
+    {
+      "url": "https://www.gkns.ie/documentlink/52/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/894/docletter/20260213014015_29_GKNS_Admission_Policy_2026.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "GKNS Admission Policy 2026.pdf"
+    },
+    {
+      "url": "https://www.gkns.ie/documentlink/63/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/894/docletter/20261005083710_29_Application_Form_for_Enrolment_SI_to_6th_Class_2027_PDF.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Application Form for Enrolment SI to 6th Class 2027 PDF.pdf"
+    },
+    {
+      "url": "https://www.gkns.ie/sitemap.xml",
+      "final_url": "https://www.gkns.ie/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.gkns.ie/parents-/useful-links/",
+      "final_url": "https://www.gkns.ie/parents-/useful-links/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Useful Links"
+    },
+    {
+      "url": "https://www.gkns.ie/parents-/useful-links/?googletranslate=true",
+      "final_url": "https://www.gkns.ie/parents-/useful-links/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.gkns.ie/parents-/relationships-and-sexuality-education-rse/",
+      "final_url": "https://www.gkns.ie/parents-/relationships-and-sexuality-education-rse/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Relationships and Sexuality Education (RSE)"
+    },
+    {
+      "url": "https://www.gkns.ie/parents-/relationships-and-sexuality-education-rse/?googletranslate=true",
+      "final_url": "https://www.gkns.ie/parents-/relationships-and-sexuality-education-rse/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.gkns.ie/parents-/parents-association/",
+      "final_url": "https://www.gkns.ie/parents-/parents-association/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents' Association"
+    },
+    {
+      "url": "https://www.gkns.ie/parents-/parents-association/?googletranslate=true",
+      "final_url": "https://www.gkns.ie/parents-/parents-association/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.gkns.ie/parents-/",
+      "final_url": "https://www.gkns.ie/parents-/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents"
+    },
+    {
+      "url": "https://www.gkns.ie/parents-/?googletranslate=true",
+      "final_url": "https://www.gkns.ie/parents-/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.gkns.ie/key-info/policies-413/",
+      "final_url": "https://www.gkns.ie/key-info/policies-413/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.gkns.ie/key-info/policies-413/?googletranslate=true",
+      "final_url": "https://www.gkns.ie/key-info/policies-413/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.gkns.ie/documentlink/63/?open=true&download=true",
+      "final_url": "https://swdcache.b-cdn.net/894/docletter/20261005083710_29_Application_Form_for_Enrolment_SI_to_6th_Class_2027_PDF.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.gkns.ie/documentlink/62/?open=true&download=true",
+      "final_url": "https://swdcache.b-cdn.net/894/docletter/20261005083646_19_Application_Form_for_Enrolment_Junior_Infants_2026_entry_2027_PDF.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.gkns.ie/documentlink/61/?open=true&download=true",
+      "final_url": "https://swdcache.b-cdn.net/894/docletter/20261005083622_58_Application_Form_for_Enrolment_to_Autism_Class_JI_to_6th_Class_2026_Entry_2027_PDF.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.gkns.ie/documentlink/60/?open=true&download=true",
+      "final_url": "https://swdcache.b-cdn.net/894/docletter/20261002113317_41_Admission_Notice_Sept_2026_PDF.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": ""
+    }
+  ],
+  "documents": [],
+  "pending_links": [
+    {
+      "url": "https://www.gkns.ie/documentlink/52/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.gkns.ie/documentlink/49/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.gkns.ie/documentlink/42/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.gkns.ie/documentlink/41/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.gkns.ie/documentlink/40/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.gkns.ie/documentlink/37/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.gkns.ie/documentlink/27/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.gkns.ie/documentlink/25/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.gkns.ie/documentlink/25/?open=true",
+      "label": "Revised Parental Complaints Procedure",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.gkns.ie/admin/?open=/parents-/useful-links/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.gkns.ie/admin/?open=/parents-/useful-links/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.gkns.ie/admin/?open=/parents-/relationships-and-sexuality-education-rse/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.gkns.ie/admin/?open=/parents-/relationships-and-sexuality-education-rse/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.gkns.ie/admin/?open=/parents-/parents-association/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.gkns.ie/admin/?open=/parents-/parents-association/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.gkns.ie/admin/?open=/parents-/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.gkns.ie/admin/?open=/parents-/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.gkns.ie/admin/?open=/key-info/policies-413/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.gkns.ie/admin/?open=/key-info/policies-413/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.gkns.ie",
+      "label": "School homepage",
+      "via": "home"
+    },
+    {
+      "url": "https://www.gkns.ie/documentlink/40/?open=true",
+      "label": "Bi Cinealta Policy 2025.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.gkns.ie/documentlink/37/?open=true",
+      "label": "Anti-Bullying Policy 2025.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.gkns.ie/documentlink/49/?open=true",
+      "label": "GKNS Acceptable Use Policy.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.gkns.ie/cmsfiles/policies/privacy/",
+      "label": "Website Privacy Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.gkns.ie/cmsfiles/policies/cookie/",
+      "label": "Cookie Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 70.25,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:06:26+0000"
+}

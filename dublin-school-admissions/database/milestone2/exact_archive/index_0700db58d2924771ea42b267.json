@@ -1,0 +1,72 @@
+{
+  "roll": "18362K",
+  "original_url": "https://scinfantsp.ie/admission-notice/",
+  "method": "documented_CDX_exact_URL_all_available_dates",
+  "attempted_at": "2026-11-08T12:42:14.197921+00:00",
+  "params": {
+    "url": "https://scinfantsp.ie/admission-notice/",
+    "matchType": "exact",
+    "output": "json",
+    "fl": "timestamp,original,mimetype,statuscode,digest",
+    "filter": "statuscode:200",
+    "collapse": "digest",
+    "limit": "200",
+    "showResumeKey": "true"
+  },
+  "earliest_year_cutoff": null,
+  "captures": [
+    {
+      "timestamp": "20240228184510",
+      "original": "https://scinfantsp.ie/admission-notice/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "4FNRXTFGDL5KAEHCR6LKMJVBVVW5SM77"
+    },
+    {
+      "timestamp": "20240908090804",
+      "original": "https://scinfantsp.ie/admission-notice/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "P7PEDJLTRZQCBAEBC4NWWQ6AZX7W34TK"
+    },
+    {
+      "timestamp": "20241202162710",
+      "original": "https://scinfantsp.ie/admission-notice/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "KGHQKS4XUF46XHFF45VYLK24VAWOGOGV"
+    },
+    {
+      "timestamp": "20250321000430",
+      "original": "https://scinfantsp.ie/admission-notice/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "QN6YTV5X5EN2KJ4Q6NLRHKEAJELH7I4H"
+    },
+    {
+      "timestamp": "20250617193501",
+      "original": "https://scinfantsp.ie/admission-notice/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "MSTD4QW4SWGROX2IU2OME3UBOLPPE4SB"
+    }
+  ],
+  "pages": [
+    {
+      "at": "2026-11-08T12:42:18.549421+00:00",
+      "http_status": 200,
+      "params": {
+        "url": "https://scinfantsp.ie/admission-notice/",
+        "matchType": "exact",
+        "output": "json",
+        "fl": "timestamp,original,mimetype,statuscode,digest",
+        "filter": "statuscode:200",
+        "collapse": "digest",
+        "limit": "200",
+        "showResumeKey": "true"
+      }
+    }
+  ],
+  "status": "index_complete",
+  "capture_count": 5
+}

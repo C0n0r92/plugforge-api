@@ -1,0 +1,27 @@
+{
+  "roll": "09642P",
+  "prefix": "https://burrowschool.ie/wp-content/uploads/",
+  "tasks": [
+    {
+      "timestamp": "20220627154114",
+      "original": "http://burrowschool.ie/wp-content/uploads/2021/09/Annual-Admission-Statement-2022-2023.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "5OYM2G4BMMGRFZ3A7G2345CAJDOZQRBB"
+    },
+    {
+      "timestamp": "20240715191632",
+      "original": "https://burrowschool.ie/wp-content/uploads/2023/09/Annual-Admission-Statement-2024-2025.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "5Y5UAHBKKH7K72E56XAU5JICPTNS4ZDV"
+    },
+    {
+      "timestamp": "20260616175155",
+      "original": "https://burrowschool.ie/wp-content/uploads/2024/09/Annual-Admission-Statement-2025-2026.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "7ZPOVRFT4JUQLRBQAQ5SBXPTK2BVP5I2"
+    }
+  ]
+}

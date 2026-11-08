@@ -1,0 +1,151 @@
+{
+  "roll": "20048Q",
+  "status": "bounded_search_no_new_notice_found",
+  "attempts": [
+    {
+      "url": "https://www.liosnanog.com/clrchn-enrollment",
+      "final_url": "https://www.liosnanog.com/clrchn-enrollment",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Clárúchán/Enrolment"
+    },
+    {
+      "url": "https://www.liosnanog.com/sitemap.xml",
+      "final_url": "https://www.liosnanog.com/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.liosnanog.com/polasaithe",
+      "final_url": "https://www.liosnanog.com/polasaithe",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Polasaithe/Policies"
+    },
+    {
+      "url": "https://www.liosnanog.com/s/NVB-3-Parent-Guardian-Consent-Form-1-1-DF2024.pdf",
+      "final_url": "https://static1.squarespace.com/static/5f3bd6798b1b30020c456b3a/t/69e615c59fd7c17b751077d6/1776686533310/NVB-3-Parent-Guardian-Consent-Form-1-1-DF2024.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Garda Vetting Form for a child aged 16-17 - English"
+    },
+    {
+      "url": "https://www.liosnanog.com/s/Polasai-IontralaEnrolment-Policy.pdf",
+      "final_url": "https://static1.squarespace.com/static/5f3bd6798b1b30020c456b3a/t/601b0182792c8877a5dfa64b/1612382597092/Polasai%CC%81+Iontra%CC%81la%3AEnrolment+Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Polasaí Iontrála / Enrolment Policy"
+    },
+    {
+      "url": "https://www.liosnanog.com/cumann-na-dtuist",
+      "final_url": "https://www.liosnanog.com/cumann-na-dtuist",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Coiste na dTuismitheoirí/Parents' Committee"
+    },
+    {
+      "url": "https://www.liosnanog.com",
+      "final_url": "https://www.liosnanog.com",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://static1.squarespace.com/static/5f3bd6798b1b30020c456b3a/t/601b0182792c8877a5dfa64b/1612382597092/Polasai%CC%81+Iontra%CC%81la%3AEnrolment+Policy.pdf",
+      "final_url": "https://static1.squarespace.com/static/5f3bd6798b1b30020c456b3a/t/601b0182792c8877a5dfa64b/1612382597092/Polasai%CC%81+Iontra%CC%81la%3AEnrolment+Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "https://static1.squarespace.com/static/5f3bd6798b1b30020c456b3a/t/601b0182792c8877a5dfa64b/1612382597092/Polasai%CC%81+Iontra%CC%81la%3AEnrolment+Policy.pdf"
+    },
+    {
+      "url": "https://www.liosnanog.com/s/Polasai-um-Riaradh-Cogais-Leighis.pdf",
+      "final_url": "https://static1.squarespace.com/static/5f3bd6798b1b30020c456b3a/t/5f7da99869b6e90cb64a3bb5/1602070937597/Polasai%CC%81+um+Riaradh+Co%CC%81gais+Leighis.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Polasaí um Riaradh Cógais Leighis / Administration of Medication Policy"
+    },
+    {
+      "url": "https://www.liosnanog.com/s/Polasai-i-gCoinne-Tromaiochta-ar-na-Meain-Teicneolaiochta-n22y.pdf",
+      "final_url": "https://static1.squarespace.com/static/5f3bd6798b1b30020c456b3a/t/64184aef586ffe734c54e4a1/1679313648457/Polasai%CC%81+i+gCoinne+Tromai%CC%81ochta+ar+na+Mea%CC%81in+Teicneolai%CC%81ochta.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Polasaí i gCoinne Tromaíochta ar na Meáin Teicneolaíochta / Anti Cyber-Bullying Policy"
+    },
+    {
+      "url": "https://www.liosnanog.com/s/Polasai-ar-Mhi-usaid-Substainti-4e3b.pdf",
+      "final_url": "https://static1.squarespace.com/static/5f3bd6798b1b30020c456b3a/t/6744725c68472b027356e713/1732538973006/Polasai%CC%81+ar+Mhi%CC%81-u%CC%81sa%CC%81id+Substainti%CC%81.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Polasaí ar Mhí-Úsáid Substaintí / Policy on Mis-Use of Substances"
+    },
+    {
+      "url": "https://www.liosnanog.com/s/Polasai-Usaide-Inghlactha-zrdc.pdf",
+      "final_url": "https://static1.squarespace.com/static/5f3bd6798b1b30020c456b3a/t/64184cb80749c732be36e047/1679314107627/Polasai%CC%81+U%CC%81sa%CC%81ide+Inghlactha.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Polasaí Úsáide Inghlactha an Idirlín / Policy on Acceptable Internet-Use"
+    },
+    {
+      "url": "https://www.liosnanog.com/s/Polasai-Tumoideachais-Ghaelscoil-Lios-na-nOg.pdf",
+      "final_url": "https://static1.squarespace.com/static/5f3bd6798b1b30020c456b3a/t/60894e7bdc6b82237f5206e2/1619611259924/Polasai%CC%81+Tumoideachais+Ghaelscoil+Lios+na+nO%CC%81g.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Polasaí Tumoideachais / Early Immersion Policy"
+    },
+    {
+      "url": "https://www.liosnanog.com/s/Polasai-Tinrimh.pdf",
+      "final_url": "https://static1.squarespace.com/static/5f3bd6798b1b30020c456b3a/t/5f7b026d41366b5ecae96c4d/1601897070272/Polasai%CC%81+Tinrimh.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Polasaí Tinrimh / Attendance Policy"
+    },
+    {
+      "url": "https://www.liosnanog.com/s/Polasai-Riomhfhiosraithe-na-nGardai.pdf",
+      "final_url": "https://static1.squarespace.com/static/5f3bd6798b1b30020c456b3a/t/69eb4a7038f21f080b449fcb/1777027696583/Polasai%CC%81+Ri%CC%81omhfhiosraithe+na+nGardai%CC%81.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Polasaí Ríomhfhiosraithe na nGardaí / Garda Vetting Policy"
+    },
+    {
+      "url": "https://www.liosnanog.com/s/Polasai-Obair-Bhaile.pdf",
+      "final_url": "https://static1.squarespace.com/static/5f3bd6798b1b30020c456b3a/t/5fb26b5d844f9e409ec81598/1605528413783/Polasai%CC%81+Obair+Bhaile.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Polasaí Obair Bhaile / Homework Policy"
+    },
+    {
+      "url": "https://www.liosnanog.com/s/Polasai-Lon-Slaintiuil.pdf",
+      "final_url": "https://static1.squarespace.com/static/5f3bd6798b1b30020c456b3a/t/5f7b02c03a3d8f5ec608bd26/1601897153534/Polasai%CC%81+Lo%CC%81n+Sla%CC%81intiu%CC%81il.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Polasaí Lón Sláintiúil / Healthy Lunch Policy"
+    },
+    {
+      "url": "https://www.liosnanog.com/s/Polasai-Frithbhulaiochta-Ghaelscoil-Lios-na-nOg-h798.pdf",
+      "final_url": "https://static1.squarespace.com/static/5f3bd6798b1b30020c456b3a/t/670e71d79b4cac5b1f9dcec9/1728999895934/Polasai%CC%81+Frithbhulai%CC%81ochta+Ghaelscoil+Lios+na+nO%CC%81g.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Polasaí Frithbhulaíochta Ghaelscoil Lios na nÓg / School Anti-Bullying Policy"
+    },
+    {
+      "url": "https://www.liosnanog.com/s/Polasai-Fon-Poca-agus-Uirlisi-Teicniciula-js5t.pdf",
+      "final_url": "https://static1.squarespace.com/static/5f3bd6798b1b30020c456b3a/t/68f7db2fd44ac0789fc10389/1761073967204/Polasai%CC%81+Fo%CC%81n+Po%CC%81ca+agus+Uirlisi%CC%81+Teicniciu%CC%81la.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Polasaí Fón Póca agus Uirlisí Teichniciúla / Mobile Phone & Electronic Devices Policy"
+    },
+    {
+      "url": "https://www.liosnanog.com/s/Polasai-Caomhnu-Leanai-i-nGaelscoil-Lios-na-nOg-p5t9.pdf",
+      "final_url": "https://static1.squarespace.com/static/5f3bd6798b1b30020c456b3a/t/6911bf1b7e0d1137dae714e4/1762770715086/Polasai%CC%81+Caomhnu%CC%81+Leanai%CC%81+i+nGaelscoil+Lios+na+nO%CC%81g.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Polasaí Caomhnú Leanaí / Child Protection Policy"
+    }
+  ],
+  "documents": [],
+  "pending_links": [],
+  "elapsed_seconds": 56.9,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:10:23+0000"
+}

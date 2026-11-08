@@ -1,0 +1,48 @@
+{
+  "roll": "19785U",
+  "started_at": "2026-11-08T13:20:22+0000",
+  "method": "previously_linked_explicit_annual_notice_gap_followup",
+  "attempts": [
+    {
+      "url": "https://bernadettes.ie/wp-content/uploads/2025/08/4.-POD-Enrolment-Form-2025-2026.pdf",
+      "final_url": "https://bernadettes.ie/wp-content/uploads/2025/08/4.-POD-Enrolment-Form-2025-2026.pdf",
+      "status": "ok",
+      "label": "4. POD - Enrolment Form 2025 - 2026"
+    },
+    {
+      "url": "https://bernadettes.ie/wp-content/uploads/2025/08/5.-CONSENT-Enrolment-Form-2025-2026.pdf",
+      "final_url": "https://bernadettes.ie/wp-content/uploads/2025/08/5.-CONSENT-Enrolment-Form-2025-2026.pdf",
+      "status": "ok",
+      "label": "5. CONSENT - Enrolment Form 2025 - 2026"
+    },
+    {
+      "url": "https://bernadettes.ie/wp-content/uploads/2025/11/4.-POD-Enrolment-Form-2026-2027.pdf",
+      "final_url": "https://bernadettes.ie/wp-content/uploads/2025/11/4.-POD-Enrolment-Form-2026-2027.pdf",
+      "status": "ok",
+      "label": "4. POD - Enrolment Form 2026 - 2027"
+    },
+    {
+      "url": "https://bernadettes.ie/wp-content/uploads/2025/11/5.-CONSENT-Enrolment-Form-2026-2027.pdf",
+      "final_url": "https://bernadettes.ie/wp-content/uploads/2025/11/5.-CONSENT-Enrolment-Form-2026-2027.pdf",
+      "status": "ok",
+      "label": "5. CONSENT - Enrolment Form 2026 - 2027"
+    },
+    {
+      "url": "https://bernadettes.ie/wp-content/uploads/2026/10/4.-POD-Enrolment-Form-2027-2028.pdf",
+      "final_url": "https://bernadettes.ie/wp-content/uploads/2026/10/4.-POD-Enrolment-Form-2027-2028.pdf",
+      "status": "ok",
+      "label": "4. POD – Enrolment Form 2027 – 2028"
+    },
+    {
+      "url": "https://bernadettes.ie/wp-content/uploads/2026/10/5.-CONSENT-Enrolment-Form-2027-2028.pdf",
+      "final_url": "https://bernadettes.ie/wp-content/uploads/2026/10/5.-CONSENT-Enrolment-Form-2027-2028.pdf",
+      "status": "ok",
+      "label": "5. CONSENT – Enrolment Form 2027 – 2028"
+    }
+  ],
+  "documents": [],
+  "pending_links": [],
+  "earliest_year_cutoff": null,
+  "status": "attempted_no_new_numeric_notice_established",
+  "elapsed_seconds": 16.35
+}

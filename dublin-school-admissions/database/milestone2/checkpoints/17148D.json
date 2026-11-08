@@ -1,0 +1,459 @@
+{
+  "roll": "17148D",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.belgroveseniorgirls.ie/2021-22-bsgns-annual-admission-notice/",
+      "final_url": "https://www.belgroveseniorgirls.ie/2021-22-bsgns-annual-admission-notice/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "2021-22 BSGNS Annual Admission Notice"
+    },
+    {
+      "url": "https://www.belgroveseniorgirls.ie/2022/12/annual-admissions-notice-23-24/bsgns-annual-admission-notice-2023-24/",
+      "final_url": "https://www.belgroveseniorgirls.ie/2022/12/annual-admissions-notice-23-24/bsgns-annual-admission-notice-2023-24/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "https://www.belgroveseniorgirls.ie/2022/12/annual-admissions-notice-23-24/",
+      "final_url": "https://www.belgroveseniorgirls.ie/2022/12/annual-admissions-notice-23-24/",
+      "status": "transient_ConnectionError",
+      "via": "prior_public_admissions_landing",
+      "label": "Annual Admissions Notice 2023/2024 School Year"
+    },
+    {
+      "url": "https://www.belgroveseniorgirls.ie/2022-23-bsgns-annual-admission-notice_compressed-2/",
+      "final_url": "https://www.belgroveseniorgirls.ie/2022-23-bsgns-annual-admission-notice_compressed-2/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "https://www.belgroveseniorgirls.ie/2022-23-bsgns-annual-admission-notice/",
+      "final_url": "https://www.belgroveseniorgirls.ie/2022-23-bsgns-annual-admission-notice/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "2022-23 BSGNS Annual Admission Notice"
+    },
+    {
+      "url": "https://www.belgroveseniorgirls.ie/2024-2025-bsgns-annual-admission-notice/",
+      "final_url": "https://www.belgroveseniorgirls.ie/2024-2025-bsgns-annual-admission-notice/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "https://www.belgroveseniorgirls.ie/2025-26-bsgns-annual-admission-notice/",
+      "final_url": "https://www.belgroveseniorgirls.ie/2025-26-bsgns-annual-admission-notice/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "https://www.belgroveseniorgirls.ie/annual-admission-notice-26-27/",
+      "final_url": "https://www.belgroveseniorgirls.ie/annual-admission-notice-26-27/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "https://www.belgroveseniorgirls.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://www.belgroveseniorgirls.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://www.belgroveseniorgirls.ie/wp-content/uploads/2020/11/BSGNS-Admission-Policy-FINAL-Ratified.pdf",
+      "final_url": "https://www.belgroveseniorgirls.ie/wp-content/uploads/2020/11/BSGNS-Admission-Policy-FINAL-Ratified.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "BSGNS Admission Policy FINAL Ratified"
+    },
+    {
+      "url": "https://www.belgroveseniorgirls.ie/page/6/?s=admission",
+      "final_url": "https://www.belgroveseniorgirls.ie/page/6/?s=admission",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "« Older Entries"
+    },
+    {
+      "url": "https://www.belgroveseniorgirls.ie/page/5/?s=admission",
+      "final_url": "https://www.belgroveseniorgirls.ie/page/5/?s=admission",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "« Older Entries"
+    },
+    {
+      "url": "https://www.belgroveseniorgirls.ie/page/4/?s=admission",
+      "final_url": "https://www.belgroveseniorgirls.ie/page/4/?s=admission",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "« Older Entries"
+    },
+    {
+      "url": "https://www.belgroveseniorgirls.ie/?attachment_id=13731",
+      "final_url": "https://www.belgroveseniorgirls.ie/?attachment_id=13731",
+      "status": "http_404",
+      "via": "school_public_link",
+      "label": "2022-23-BSGNS-Annual-Admission-Notice_compressed"
+    },
+    {
+      "url": "https://www.belgroveseniorgirls.ie/page/3/?s=admission",
+      "final_url": "https://www.belgroveseniorgirls.ie/page/3/?s=admission",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "« Older Entries"
+    },
+    {
+      "url": "https://www.belgroveseniorgirls.ie/page/2/?s=admission",
+      "final_url": "https://www.belgroveseniorgirls.ie/page/2/?s=admission",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "« Older Entries"
+    },
+    {
+      "url": "https://www.belgroveseniorgirls.ie/category/admissions/",
+      "final_url": "https://www.belgroveseniorgirls.ie/category/admissions/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://www.belgroveseniorgirls.ie/admissions/",
+      "final_url": "https://www.belgroveseniorgirls.ie/admissions/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://www.belgroveseniorgirls.ie/?s=admission",
+      "final_url": "https://www.belgroveseniorgirls.ie/?s=admission",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Public site search form"
+    },
+    {
+      "url": "https://www.belgroveseniorgirls.ie/?attachment_id=15084",
+      "final_url": "https://www.belgroveseniorgirls.ie/?attachment_id=15084",
+      "status": "http_404",
+      "via": "school_public_link",
+      "label": "Admission-Application-2223Form"
+    },
+    {
+      "url": "https://www.belgroveseniorgirls.ie/?attachment_id=13747",
+      "final_url": "https://www.belgroveseniorgirls.ie/?attachment_id=13747",
+      "status": "http_404",
+      "via": "school_public_link",
+      "label": "ADMISSION-Application-2223Form.docx_compressed"
+    },
+    {
+      "url": "https://www.belgroveseniorgirls.ie/wp-content/uploads/2021/10/2022-2023-ADMISSION-Application-Form.docx.pdf",
+      "final_url": "https://www.belgroveseniorgirls.ie/wp-content/uploads/2021/10/2022-2023-ADMISSION-Application-Form.docx.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "2022-2023 ADMISSION Application Form.docx"
+    },
+    {
+      "url": "https://www.belgroveseniorgirls.ie/wp-content/uploads/2021/10/2021-2022-ADMISSION-Application-Form.docx.pdf",
+      "final_url": "https://www.belgroveseniorgirls.ie/wp-content/uploads/2021/10/2021-2022-ADMISSION-Application-Form.docx.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "2021-2022 ADMISSION Application Form.docx"
+    },
+    {
+      "url": "https://www.belgroveseniorgirls.ie/wp-content/uploads/2021/05/BSGNS-Admission-Policy-FINAL-Ratified-V3.docx.pdf",
+      "final_url": "https://www.belgroveseniorgirls.ie/wp-content/uploads/2021/05/BSGNS-Admission-Policy-FINAL-Ratified-V3.docx.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "BSGNS Admission Policy FINAL Ratified V3.docx"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "17148D",
+      "url": "https://www.belgroveseniorgirls.ie/2021-22-bsgns-annual-admission-notice/",
+      "label": "2021-22 BSGNS Annual Admission Notice",
+      "sha256": "2cd1342ef88dd14a338b283d80cc1fcac82f55dd8d0a26924846373d590d0c12",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/17148D_2cd1342ef88dd14a338b.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 106
+    },
+    {
+      "roll": "17148D",
+      "url": "https://www.belgroveseniorgirls.ie/2022-23-bsgns-annual-admission-notice/",
+      "label": "2022-23 BSGNS Annual Admission Notice",
+      "sha256": "c5a947f1f9c4a510ad2c8ed7d9af3318499d38b33f5a6f4bf41cda6202567e0b",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/17148D_c5a947f1f9c4a510ad2c.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 106
+    },
+    {
+      "roll": "17148D",
+      "url": "https://www.belgroveseniorgirls.ie/2024-2025-bsgns-annual-admission-notice/",
+      "label": "",
+      "sha256": "0f91671fa5b510c95afa0504c29fdebc1669d98121fee49dcf1b1320075fa633",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/17148D_0f91671fa5b510c95afa.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 68
+    },
+    {
+      "roll": "17148D",
+      "url": "https://www.belgroveseniorgirls.ie/2025-26-bsgns-annual-admission-notice/",
+      "label": "",
+      "sha256": "9cfb986f64405eeb55327df655c83e021c3c1e9b1fcb18262489d5b4f601bb6c",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/17148D_9cfb986f64405eeb5532.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 68
+    },
+    {
+      "roll": "17148D",
+      "url": "https://www.belgroveseniorgirls.ie/annual-admission-notice-26-27/",
+      "label": "",
+      "sha256": "e3223f38e9c88daee744e5d2b26a37c1be8fa0295d533e710bbe6e388401200f",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/17148D_e3223f38e9c88daee744.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 59
+    },
+    {
+      "roll": "17148D",
+      "url": "https://www.belgroveseniorgirls.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "label": "Oldest public admission media (all dates)",
+      "sha256": "2e0649d575b96db6456159704fffad0967edb2d4a87272ddad83934b0e951ad9",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/17148D_2e0649d575b96db64561.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 4287
+    },
+    {
+      "roll": "17148D",
+      "url": "https://www.belgroveseniorgirls.ie/wp-content/uploads/2020/11/BSGNS-Admission-Policy-FINAL-Ratified.pdf",
+      "label": "BSGNS Admission Policy FINAL Ratified",
+      "sha256": "4ae4de5ffbf536781320f3a0d1a41b876747c7bf47a4f2e10bc06e2be5589a80",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/17148D_4ae4de5ffbf536781320.txt",
+      "source_file": "database/milestone2/cache/4ae4de5ffbf536781320f3a0d1a41b876747c7bf47a4f2e10bc06e2be5589a80.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 25877
+    },
+    {
+      "roll": "17148D",
+      "url": "https://www.belgroveseniorgirls.ie/category/admissions/",
+      "label": "Admissions",
+      "sha256": "aa54d6e2762e7e753cbaa69436798f1d47220bdbe6bd7b90aa9223997a3e3db9",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/17148D_aa54d6e2762e7e753cba.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1841
+    },
+    {
+      "roll": "17148D",
+      "url": "https://www.belgroveseniorgirls.ie/admissions/",
+      "label": "Admissions",
+      "sha256": "21a498e7b664336d7d06cbb937f6023d61b47a9ef7a2125393ec5f611aa380a2",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/17148D_21a498e7b664336d7d06.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1841
+    },
+    {
+      "roll": "17148D",
+      "url": "https://www.belgroveseniorgirls.ie/?s=admission",
+      "label": "Public site search form",
+      "sha256": "4236814b528ae32f7e5dd4f4410679b86f114e067d5531b36ee9edfc459a3cef",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/17148D_4236814b528ae32f7e5d.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 59
+    },
+    {
+      "roll": "17148D",
+      "url": "https://www.belgroveseniorgirls.ie/wp-content/uploads/2021/10/2022-2023-ADMISSION-Application-Form.docx.pdf",
+      "label": "2022-2023 ADMISSION Application Form.docx",
+      "sha256": "a1daf33a5f968d9ba9da6cd755f4ad2a3765f2c53b34a56f38774df6829e9cd3",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/17148D_a1daf33a5f968d9ba9da.txt",
+      "source_file": "database/milestone2/cache/a1daf33a5f968d9ba9da6cd755f4ad2a3765f2c53b34a56f38774df6829e9cd3.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 5591
+    },
+    {
+      "roll": "17148D",
+      "url": "https://www.belgroveseniorgirls.ie/wp-content/uploads/2021/10/2021-2022-ADMISSION-Application-Form.docx.pdf",
+      "label": "2021-2022 ADMISSION Application Form.docx",
+      "sha256": "006ece1c463eab4f311c29fa9733a68f903b2be8c58e10d5325d888b6fa1e455",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/17148D_006ece1c463eab4f311c.txt",
+      "source_file": "database/milestone2/cache/006ece1c463eab4f311c29fa9733a68f903b2be8c58e10d5325d888b6fa1e455.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 5591
+    },
+    {
+      "roll": "17148D",
+      "url": "https://www.belgroveseniorgirls.ie/wp-content/uploads/2021/05/BSGNS-Admission-Policy-FINAL-Ratified-V3.docx.pdf",
+      "label": "BSGNS Admission Policy FINAL Ratified V3.docx",
+      "sha256": "19035b5b6e0e5668efe789ddfd50a912578054da2a96e2bb5f7ac2fbc5b91a84",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/17148D_19035b5b6e0e5668efe7.txt",
+      "source_file": "database/milestone2/cache/19035b5b6e0e5668efe789ddfd50a912578054da2a96e2bb5f7ac2fbc5b91a84.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 28571
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.belgroveseniorgirls.ie/wp-content/uploads/2021/05/BSGNS-Admission-Policy-FINAL-Ratified-V3.docx",
+      "label": "Prior school admissions section",
+      "via": "prior_link"
+    },
+    {
+      "url": "https://www.belgroveseniorgirls.ie/wp-content/uploads/2022/11/Admissions-Policy.pdf",
+      "label": "Admissions Policy",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://www.belgroveseniorgirls.ie/wp-content/uploads/2022/07/BSGNS-Admission-Policy-Ratified-.docx.pdf",
+      "label": "BSGNS-Admission-Policy-Ratified-.docx",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://www.belgroveseniorgirls.ie/wp-content/uploads/2023/12/2024-2025-3rd-6th-ADMISSION-Application-Form-pdf.pdf",
+      "label": "2024-2025 3rd- 6th ADMISSION Application Form pdf",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://www.belgroveseniorgirls.ie/wp-content/uploads/2023/01/Admission-Policy-2023.pdf",
+      "label": "Admission-Policy-2023",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://www.belgroveseniorgirls.ie/wp-content/uploads/2025/02/Admissions-Policy-2024-2025-compressed.pdf",
+      "label": "Admissions Policy 2024-2025",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://www.belgroveseniorgirls.ie/wp-content/uploads/2025/05/ADMISSIONS-POLICY-26.1.pdf",
+      "label": "ADMISSIONS POLICY 26.1",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://www.belgroveseniorgirls.ie/?attachment_id=15104",
+      "label": "BGSG-2021-2022-ADMISSION-Application-Form.docx_compressed",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.belgroveseniorgirls.ie/2021-2022-admission-application-form-docx/",
+      "label": "2021-2022 ADMISSION Application Form.docx",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.belgroveseniorgirls.ie/2022/11/admissions-policy-2022/admission-policy-2023/",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.belgroveseniorgirls.ie/2022/11/admissions-policy-2022/",
+      "label": "Admissions Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.belgroveseniorgirls.ie/2022-2023-admission-application-form-docx/",
+      "label": "2022-2023 ADMISSION Application Form.docx",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.belgroveseniorgirls.ie/admissions-policy-2024-2025-compressed/",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.belgroveseniorgirls.ie/2024-2025-3rd-6th-admission-application-form-pdf/",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.belgroveseniorgirls.ie/sitemap_index.xml",
+      "label": "Public sitemap",
+      "via": "sitemap_root"
+    },
+    {
+      "url": "https://www.belgroveseniorgirls.ie/policies/",
+      "label": "Policies",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.belgroveseniorgirls.ie/parents-association/",
+      "label": "Parents Association",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.belgroveseniorgirls.ie/bsgns-admission-policy-ratified-docx/",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.belgroveseniorgirls.ie/bsgns-admission-policy-final-ratified/",
+      "label": "BSGNS Admission Policy FINAL Ratified",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.belgroveseniorgirls.ie/bsgns-admission-policy-final-ratified-v3/",
+      "label": "BSGNS Admission Policy FINAL Ratified V3",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.belgroveseniorgirls.ie/bsgns-admission-policy-final-ratified-v3-docx/",
+      "label": "BSGNS Admission Policy FINAL Ratified V3.docx",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.belgroveseniorgirls.ie/admissions-policy/",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.belgroveseniorgirls.ie/admissions-policy-26-1/",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.belgroveseniorgirls.ie/",
+      "label": "School homepage",
+      "via": "home"
+    },
+    {
+      "url": "https://www.belgroveseniorgirls.ie/wp-content/uploads/2022/04/GDPR-Web.pdf",
+      "label": "GDPR Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.belgroveseniorgirls.ie/privacy-policy/",
+      "label": "Privacy Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.belgroveseniorgirls.ie/cookie-consent/",
+      "label": "Cookies Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 96.09,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:36:49+0000"
+}

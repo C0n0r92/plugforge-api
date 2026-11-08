@@ -1,0 +1,18 @@
+{
+  "roll": "19721R",
+  "status": "access_or_infrastructure_deferred",
+  "attempts": [
+    {
+      "url": "https://www.holyfamilyjns.ie",
+      "final_url": "https://www.holyfamilyjns.ie",
+      "status": "robots_permission_unestablished_http_200",
+      "via": "home",
+      "label": "School homepage"
+    }
+  ],
+  "documents": [],
+  "pending_links": [],
+  "elapsed_seconds": 1.16,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:08:04+0000"
+}

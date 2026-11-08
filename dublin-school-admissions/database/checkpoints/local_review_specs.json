@@ -1,0 +1,2655 @@
+{
+  "0": {
+    "title": "2025/2026",
+    "groups": [
+      {
+        "phase": "upcoming",
+        "year": "2025/2026",
+        "cohort": "Junior Infants",
+        "line_start": 40,
+        "line_end": 42,
+        "metrics": {
+          "places": 60
+        },
+        "notes": ""
+      },
+      {
+        "phase": "retrospective",
+        "year": "2024/2025",
+        "cohort": "Junior Infants",
+        "line_start": 47,
+        "line_end": 85,
+        "metrics": {
+          "places": 60,
+          "applications": 123,
+          "offers": 100,
+          "waiting_list_unspecified": 0
+        },
+        "notes": "Printed list zero is qualified by footnotes about contacting remaining 23 and withdrawals; do not call zero names ever placed. Aggregate acceptances are not printed."
+      }
+    ]
+  },
+  "1": {
+    "title": "2022/2023",
+    "groups": [
+      {
+        "phase": "upcoming",
+        "year": "2022/2023",
+        "cohort": "Junior Infants",
+        "line_start": 44,
+        "line_end": 48,
+        "metrics": {
+          "places": 28
+        },
+        "notes": ""
+      },
+      {
+        "phase": "retrospective",
+        "year": "2021/2022",
+        "cohort": "Junior Infants",
+        "line_start": 59,
+        "line_end": 100,
+        "metrics": {
+          "places": 28,
+          "applications": 43,
+          "offers": 28,
+          "waiting_list_names_placed": 15
+        },
+        "notes": "First-round table: 28 offers. Narrative separately reports cumulative 39 at 31/07/21; never substitute that snapshot into this funnel. Introductory 63 is expressions of interest labelled 2020/21, not this applications total."
+      },
+      {
+        "phase": "snapshot",
+        "year": "2021/2022",
+        "cohort": "Junior Infants",
+        "line_start": 78,
+        "line_end": 90,
+        "metrics": {
+          "offers": 39
+        },
+        "notes": "Explicit cumulative offers as of 31/07/2021; separate from first-round table. No waiting-list movement calculated."
+      }
+    ]
+  },
+  "2": {
+    "title": "2025/2026",
+    "groups": [
+      {
+        "phase": "upcoming",
+        "year": "2025/2026",
+        "cohort": "Severe and Profound Learning Disabilities",
+        "line_start": 41,
+        "line_end": 43,
+        "metrics": {
+          "places": 2
+        },
+        "notes": ""
+      },
+      {
+        "phase": "retrospective",
+        "year": "2024/2025",
+        "cohort": "Severe and Profound Learning Disabilities",
+        "line_start": 47,
+        "line_end": 63,
+        "metrics": {
+          "places": 0,
+          "eligible_applications": 9,
+          "offers": 1
+        },
+        "notes": "Applications are explicitly eligible applications; separate definition, not automatically all applications. Zero capacity coexists with one offer; preserve source, no correction."
+      }
+    ]
+  },
+  "3": {
+    "title": "2026/2027",
+    "groups": [
+      {
+        "phase": "upcoming",
+        "year": "2026/2027",
+        "cohort": "Junior Infants",
+        "line_start": 89,
+        "line_end": 94,
+        "metrics": {
+          "places": 72
+        },
+        "notes": "ALC special-class aggregate; other year groups separately six, not merged."
+      },
+      {
+        "phase": "upcoming",
+        "year": "2026/2027",
+        "cohort": "Special class (type unspecified in aggregate field)",
+        "line_start": 89,
+        "line_end": 94,
+        "metrics": {
+          "places": 1
+        },
+        "notes": "ALC special-class aggregate; other year groups separately six, not merged."
+      }
+    ]
+  },
+  "4": {
+    "title": "2025/2026",
+    "groups": [
+      {
+        "phase": "upcoming",
+        "year": "2025/2026",
+        "cohort": "Junior Infants",
+        "line_start": 93,
+        "line_end": 95,
+        "metrics": {
+          "places": 66
+        },
+        "notes": "Historical combined Junior Infant/ALC/other-year-group table needs separate cohort extraction; not fused to these upcoming capacities."
+      },
+      {
+        "phase": "upcoming",
+        "year": "2025/2026",
+        "cohort": "Special class (type unspecified in aggregate field)",
+        "line_start": 93,
+        "line_end": 95,
+        "metrics": {
+          "places": 0
+        },
+        "notes": "Historical combined Junior Infant/ALC/other-year-group table needs separate cohort extraction; not fused to these upcoming capacities."
+      },
+      {
+        "phase": "retrospective",
+        "year": "2024/2025",
+        "cohort": "Unseparated Junior Infants / ALC / other year groups",
+        "line_start": 108,
+        "line_end": 121,
+        "metrics": {
+          "places": 80,
+          "applications": 261,
+          "offers": 205
+        },
+        "notes": "Source combined heading does not establish that all these counts have Junior Infant-only scope; cohort unmatched and ratios disabled. Separate list subgroups are not stitched into this aggregate."
+      },
+      {
+        "phase": "retrospective",
+        "year": "2024/2025",
+        "cohort": "Junior Infants: separately printed waiting-list row",
+        "line_start": 108,
+        "line_end": 121,
+        "metrics": {
+          "waiting_list_names_placed": 27
+        },
+        "notes": "List subgroup only; no incompatible aggregate places/applications attached."
+      },
+      {
+        "phase": "retrospective",
+        "year": "2024/2025",
+        "cohort": "Other year groups: separately printed waiting-list row",
+        "line_start": 108,
+        "line_end": 121,
+        "metrics": {
+          "waiting_list_names_placed": 29
+        },
+        "notes": ""
+      },
+      {
+        "phase": "criterion_detail",
+        "year": "2024/2025",
+        "cohort": "Sibling criterion within combined intake",
+        "line_start": 108,
+        "line_end": 121,
+        "metrics": {
+          "acceptances": 23
+        },
+        "notes": "Explicit accepted criterion count only; never aggregated or equated with actual enrolment."
+      },
+      {
+        "phase": "criterion_detail",
+        "year": "2024/2025",
+        "cohort": "ALC special class criterion within combined intake",
+        "line_start": 108,
+        "line_end": 121,
+        "metrics": {
+          "acceptances": 1,
+          "offers": 1
+        },
+        "notes": ""
+      },
+      {
+        "phase": "criterion_detail",
+        "year": "2024/2025",
+        "cohort": "All other places criterion within combined intake",
+        "line_start": 108,
+        "line_end": 121,
+        "metrics": {
+          "offers": 41,
+          "acceptances": 14
+        },
+        "notes": ""
+      }
+    ]
+  },
+  "5": {
+    "title": "2024/2025",
+    "groups": [
+      {
+        "phase": "upcoming",
+        "year": "2024/2025",
+        "cohort": "Junior Infants",
+        "line_start": 94,
+        "line_end": 96,
+        "metrics": {
+          "places": 72
+        },
+        "notes": "Historical combined Junior Infant/ALC/other-year-group table needs separate cohort extraction; not fused to these upcoming capacities."
+      },
+      {
+        "phase": "upcoming",
+        "year": "2024/2025",
+        "cohort": "Special class (type unspecified in aggregate field)",
+        "line_start": 94,
+        "line_end": 96,
+        "metrics": {
+          "places": 0
+        },
+        "notes": "Historical combined Junior Infant/ALC/other-year-group table needs separate cohort extraction; not fused to these upcoming capacities."
+      },
+      {
+        "phase": "retrospective",
+        "year": "2023/2024",
+        "cohort": "Unseparated Junior Infants / ALC / other year groups",
+        "line_start": 109,
+        "line_end": 122,
+        "metrics": {
+          "places": 83,
+          "applications": 223,
+          "offers": 152
+        },
+        "notes": "Source combined heading does not establish that all these counts have Junior Infant-only scope; cohort unmatched and ratios disabled. Separate list subgroups are not stitched into this aggregate."
+      },
+      {
+        "phase": "retrospective",
+        "year": "2023/2024",
+        "cohort": "Junior Infants: separately printed waiting-list row",
+        "line_start": 109,
+        "line_end": 122,
+        "metrics": {
+          "waiting_list_names_placed": 0
+        },
+        "notes": "List subgroup only; no incompatible aggregate places/applications attached."
+      },
+      {
+        "phase": "retrospective",
+        "year": "2023/2024",
+        "cohort": "Other year groups: separately printed waiting-list row",
+        "line_start": 109,
+        "line_end": 122,
+        "metrics": {
+          "waiting_list_names_placed": 0
+        },
+        "notes": ""
+      },
+      {
+        "phase": "criterion_detail",
+        "year": "2023/2024",
+        "cohort": "Sibling criterion within combined intake",
+        "line_start": 109,
+        "line_end": 122,
+        "metrics": {
+          "acceptances": 22
+        },
+        "notes": "Explicit accepted criterion count only; never aggregated or equated with actual enrolment."
+      },
+      {
+        "phase": "criterion_detail",
+        "year": "2023/2024",
+        "cohort": "ALC special class criterion within combined intake",
+        "line_start": 109,
+        "line_end": 122,
+        "metrics": {
+          "acceptances": 6,
+          "offers": 26
+        },
+        "notes": ""
+      },
+      {
+        "phase": "criterion_detail",
+        "year": "2023/2024",
+        "cohort": "All other places criterion within combined intake",
+        "line_start": 109,
+        "line_end": 122,
+        "metrics": {
+          "offers": 104,
+          "acceptances": 55
+        },
+        "notes": ""
+      }
+    ]
+  },
+  "6": {
+    "title": "2023/2024",
+    "groups": [
+      {
+        "phase": "upcoming",
+        "year": "2023/2024",
+        "cohort": "Junior Infants",
+        "line_start": 89,
+        "line_end": 92,
+        "metrics": {
+          "places": 75
+        },
+        "notes": "Historical combined Junior Infant/ALC/other-year-group table needs separate cohort extraction; not fused to these upcoming capacities."
+      },
+      {
+        "phase": "upcoming",
+        "year": "2023/2024",
+        "cohort": "Special class (type unspecified in aggregate field)",
+        "line_start": 89,
+        "line_end": 92,
+        "metrics": {
+          "places": 7
+        },
+        "notes": "Historical combined Junior Infant/ALC/other-year-group table needs separate cohort extraction; not fused to these upcoming capacities."
+      },
+      {
+        "phase": "retrospective",
+        "year": "2022/2023",
+        "cohort": "Unseparated Junior Infants / ALC / other year groups",
+        "line_start": 113,
+        "line_end": 128,
+        "metrics": {
+          "places": 65,
+          "applications": 196,
+          "offers": 147
+        },
+        "notes": "Source combined heading does not establish that all these counts have Junior Infant-only scope; cohort unmatched and ratios disabled. Separate list subgroups are not stitched into this aggregate."
+      },
+      {
+        "phase": "retrospective",
+        "year": "2022/2023",
+        "cohort": "Junior Infants: separately printed waiting-list row",
+        "line_start": 113,
+        "line_end": 128,
+        "metrics": {
+          "waiting_list_names_placed": 10
+        },
+        "notes": "List subgroup only; no incompatible aggregate places/applications attached."
+      },
+      {
+        "phase": "retrospective",
+        "year": "2022/2023",
+        "cohort": "Other year groups: separately printed waiting-list row",
+        "line_start": 113,
+        "line_end": 128,
+        "metrics": {
+          "waiting_list_names_placed": 27
+        },
+        "notes": ""
+      },
+      {
+        "phase": "criterion_detail",
+        "year": "2022/2023",
+        "cohort": "Sibling criterion within combined intake",
+        "line_start": 113,
+        "line_end": 128,
+        "metrics": {
+          "acceptances": 29
+        },
+        "notes": "Explicit accepted criterion count only; never aggregated or equated with actual enrolment."
+      },
+      {
+        "phase": "criterion_detail",
+        "year": "2022/2023",
+        "cohort": "ALC special class criterion within combined intake",
+        "line_start": 113,
+        "line_end": 128,
+        "metrics": {
+          "acceptances": 0
+        },
+        "notes": ""
+      },
+      {
+        "phase": "criterion_detail",
+        "year": "2022/2023",
+        "cohort": "All other places criterion within combined intake",
+        "line_start": 113,
+        "line_end": 128,
+        "metrics": {
+          "offers": 4,
+          "acceptances": 4
+        },
+        "notes": ""
+      }
+    ]
+  },
+  "7": {
+    "title": "2022/2023",
+    "groups": [
+      {
+        "phase": "upcoming",
+        "year": "2022/2023",
+        "cohort": "Junior Infants",
+        "line_start": 92,
+        "line_end": 94,
+        "metrics": {
+          "places": 70
+        },
+        "notes": "Historical combined Junior Infant/ALC/other-year-group table needs separate cohort extraction; not fused to these upcoming capacities."
+      },
+      {
+        "phase": "upcoming",
+        "year": "2022/2023",
+        "cohort": "Special class (type unspecified in aggregate field)",
+        "line_start": 92,
+        "line_end": 94,
+        "metrics": {
+          "places": 0
+        },
+        "notes": "Historical combined Junior Infant/ALC/other-year-group table needs separate cohort extraction; not fused to these upcoming capacities."
+      },
+      {
+        "phase": "retrospective",
+        "year": "2021/2022",
+        "cohort": "Unseparated Junior Infants / ALC / other year groups",
+        "line_start": 120,
+        "line_end": 142,
+        "metrics": {
+          "places": 57,
+          "applications": 255,
+          "offers": 81
+        },
+        "notes": "Source combined heading does not establish that all these counts have Junior Infant-only scope; cohort unmatched and ratios disabled. Separate list subgroups are not stitched into this aggregate."
+      },
+      {
+        "phase": "retrospective",
+        "year": "2021/2022",
+        "cohort": "Junior Infants: separately printed waiting-list row",
+        "line_start": 120,
+        "line_end": 142,
+        "metrics": {
+          "waiting_list_names_placed": 37
+        },
+        "notes": "List subgroup only; no incompatible aggregate places/applications attached."
+      },
+      {
+        "phase": "retrospective",
+        "year": "2021/2022",
+        "cohort": "Other year groups: separately printed waiting-list row",
+        "line_start": 120,
+        "line_end": 142,
+        "metrics": {
+          "waiting_list_names_placed": 37
+        },
+        "notes": ""
+      },
+      {
+        "phase": "criterion_detail",
+        "year": "2021/2022",
+        "cohort": "Sibling criterion within combined intake",
+        "line_start": 120,
+        "line_end": 142,
+        "metrics": {
+          "acceptances": 45
+        },
+        "notes": "Explicit accepted criterion count only; never aggregated or equated with actual enrolment."
+      },
+      {
+        "phase": "criterion_detail",
+        "year": "2021/2022",
+        "cohort": "ALC special class criterion within combined intake",
+        "line_start": 120,
+        "line_end": 142,
+        "metrics": {
+          "acceptances": 1
+        },
+        "notes": ""
+      },
+      {
+        "phase": "criterion_detail",
+        "year": "2021/2022",
+        "cohort": "All other places criterion within combined intake",
+        "line_start": 120,
+        "line_end": 142,
+        "metrics": {
+          "offers": 0,
+          "acceptances": 0
+        },
+        "notes": ""
+      }
+    ]
+  },
+  "8": {
+    "title": "2021/2022",
+    "groups": [
+      {
+        "phase": "upcoming",
+        "year": "2021/2022",
+        "cohort": "Junior Infants",
+        "line_start": 116,
+        "line_end": 118,
+        "metrics": {
+          "places": 57
+        },
+        "notes": "Historical combined Junior Infant/ALC/other-year-group table needs separate cohort extraction; not fused to these upcoming capacities."
+      },
+      {
+        "phase": "upcoming",
+        "year": "2021/2022",
+        "cohort": "Special class (type unspecified in aggregate field)",
+        "line_start": 116,
+        "line_end": 118,
+        "metrics": {
+          "places": 0
+        },
+        "notes": "Historical combined Junior Infant/ALC/other-year-group table needs separate cohort extraction; not fused to these upcoming capacities."
+      },
+      {
+        "phase": "retrospective",
+        "year": "2020/2021",
+        "cohort": "Unseparated Junior Infants / ALC / other year groups",
+        "line_start": 143,
+        "line_end": 154,
+        "metrics": {
+          "places": 56,
+          "applications": 405,
+          "offers": 56
+        },
+        "notes": "Source combined heading does not establish that all these counts have Junior Infant-only scope; cohort unmatched and ratios disabled. Separate list subgroups are not stitched into this aggregate."
+      },
+      {
+        "phase": "retrospective",
+        "year": "2020/2021",
+        "cohort": "Junior Infants: separately printed waiting-list row",
+        "line_start": 143,
+        "line_end": 154,
+        "metrics": {
+          "waiting_list_names_placed": 92
+        },
+        "notes": "List subgroup only; no incompatible aggregate places/applications attached."
+      },
+      {
+        "phase": "retrospective",
+        "year": "2020/2021",
+        "cohort": "Other year groups: separately printed waiting-list row",
+        "line_start": 143,
+        "line_end": 154,
+        "metrics": {
+          "waiting_list_names_placed": 56
+        },
+        "notes": ""
+      },
+      {
+        "phase": "criterion_detail",
+        "year": "2020/2021",
+        "cohort": "Sibling criterion within combined intake",
+        "line_start": 143,
+        "line_end": 154,
+        "metrics": {
+          "acceptances": 43
+        },
+        "notes": "Explicit accepted criterion count only; never aggregated or equated with actual enrolment."
+      },
+      {
+        "phase": "criterion_detail",
+        "year": "2020/2021",
+        "cohort": "ALC special class criterion within combined intake",
+        "line_start": 143,
+        "line_end": 154,
+        "metrics": {
+          "acceptances": 1
+        },
+        "notes": ""
+      },
+      {
+        "phase": "criterion_detail",
+        "year": "2020/2021",
+        "cohort": "All other places criterion within combined intake",
+        "line_start": 143,
+        "line_end": 154,
+        "metrics": {
+          "offers": 12,
+          "acceptances": 12
+        },
+        "notes": ""
+      }
+    ]
+  },
+  "9": {
+    "title": "2027/2028",
+    "groups": [
+      {
+        "phase": "upcoming",
+        "year": "2027/2028",
+        "cohort": "Junior Infants",
+        "line_start": 104,
+        "line_end": 110,
+        "metrics": {
+          "places": 52
+        },
+        "notes": "Header year explicitly 2027/28 despite 2026/2027 footer; retain this source-year qualification."
+      },
+      {
+        "phase": "upcoming",
+        "year": "2027/2028",
+        "cohort": "Special class (type unspecified in aggregate field)",
+        "line_start": 104,
+        "line_end": 110,
+        "metrics": {
+          "places": 0
+        },
+        "notes": "Header year explicitly 2027/28 despite 2026/2027 footer; retain this source-year qualification."
+      }
+    ]
+  },
+  "10": {
+    "title": "2026/2027",
+    "groups": [
+      {
+        "phase": "upcoming",
+        "year": "2026/2027",
+        "cohort": "Junior Infants",
+        "line_start": 18,
+        "line_end": 30,
+        "metrics": {
+          "places": 112
+        },
+        "notes": "JI total may reduce for dual special-class placements. Do not treat capacity as realized admissions."
+      },
+      {
+        "phase": "upcoming",
+        "year": "2026/2027",
+        "cohort": "Special class (type unspecified in aggregate field)",
+        "line_start": 18,
+        "line_end": 30,
+        "metrics": {
+          "places": 2
+        },
+        "notes": "JI total may reduce for dual special-class placements. Do not treat capacity as realized admissions."
+      },
+      {
+        "phase": "retrospective",
+        "year": "2025/2026",
+        "cohort": "Junior Infants",
+        "line_start": 179,
+        "line_end": 185,
+        "metrics": {
+          "places": 112,
+          "applications": 108,
+          "offers": 108
+        },
+        "notes": ""
+      },
+      {
+        "phase": "retrospective",
+        "year": "2025/2026",
+        "cohort": "Autism special classes",
+        "line_start": 187,
+        "line_end": 194,
+        "metrics": {
+          "places": 3,
+          "applications": 102,
+          "offers": 3
+        },
+        "notes": "Other editions report 102 vs 106 applications; retain edition conflict without averaging."
+      }
+    ]
+  },
+  "15": {
+    "title": "2026/2027",
+    "groups": [
+      {
+        "phase": "upcoming",
+        "year": "2026/2027",
+        "cohort": "Junior Infants",
+        "line_start": 18,
+        "line_end": 30,
+        "metrics": {
+          "places": 112
+        },
+        "notes": "JI total may reduce for dual special-class placements. Do not treat capacity as realized admissions."
+      },
+      {
+        "phase": "upcoming",
+        "year": "2026/2027",
+        "cohort": "Special class (type unspecified in aggregate field)",
+        "line_start": 18,
+        "line_end": 30,
+        "metrics": {
+          "places": 2
+        },
+        "notes": "JI total may reduce for dual special-class placements. Do not treat capacity as realized admissions."
+      },
+      {
+        "phase": "retrospective",
+        "year": "2025/2026",
+        "cohort": "Junior Infants",
+        "line_start": 177,
+        "line_end": 183,
+        "metrics": {
+          "places": 112,
+          "applications": 108,
+          "offers": 108
+        },
+        "notes": ""
+      },
+      {
+        "phase": "retrospective",
+        "year": "2025/2026",
+        "cohort": "Autism special classes",
+        "line_start": 184,
+        "line_end": 191,
+        "metrics": {
+          "places": 3,
+          "applications": 102,
+          "offers": 3
+        },
+        "notes": "Other editions report 102 vs 106 applications; retain edition conflict without averaging."
+      }
+    ]
+  },
+  "16": {
+    "title": "2026/2027",
+    "groups": [
+      {
+        "phase": "upcoming",
+        "year": "2026/2027",
+        "cohort": "Junior Infants",
+        "line_start": 18,
+        "line_end": 30,
+        "metrics": {
+          "places": 112
+        },
+        "notes": "JI total may reduce for dual special-class placements. Do not treat capacity as realized admissions."
+      },
+      {
+        "phase": "upcoming",
+        "year": "2026/2027",
+        "cohort": "Special class (type unspecified in aggregate field)",
+        "line_start": 18,
+        "line_end": 30,
+        "metrics": {
+          "places": 2
+        },
+        "notes": "JI total may reduce for dual special-class placements. Do not treat capacity as realized admissions."
+      },
+      {
+        "phase": "retrospective",
+        "year": "2025/2026",
+        "cohort": "Junior Infants",
+        "line_start": 184,
+        "line_end": 190,
+        "metrics": {
+          "places": 112,
+          "applications": 108,
+          "offers": 108
+        },
+        "notes": ""
+      },
+      {
+        "phase": "retrospective",
+        "year": "2025/2026",
+        "cohort": "Autism special classes",
+        "line_start": 191,
+        "line_end": 198,
+        "metrics": {
+          "places": 3,
+          "applications": 102,
+          "offers": 3
+        },
+        "notes": "Other editions report 102 vs 106 applications; retain edition conflict without averaging."
+      }
+    ]
+  },
+  "17": {
+    "title": "2026/2027",
+    "groups": [
+      {
+        "phase": "upcoming",
+        "year": "2026/2027",
+        "cohort": "Junior Infants",
+        "line_start": 18,
+        "line_end": 30,
+        "metrics": {
+          "places": 112
+        },
+        "notes": "JI total may reduce for dual special-class placements. Do not treat capacity as realized admissions."
+      },
+      {
+        "phase": "upcoming",
+        "year": "2026/2027",
+        "cohort": "Special class (type unspecified in aggregate field)",
+        "line_start": 18,
+        "line_end": 30,
+        "metrics": {
+          "places": 2
+        },
+        "notes": "JI total may reduce for dual special-class placements. Do not treat capacity as realized admissions."
+      },
+      {
+        "phase": "retrospective",
+        "year": "2025/2026",
+        "cohort": "Junior Infants",
+        "line_start": 177,
+        "line_end": 183,
+        "metrics": {
+          "places": 112,
+          "applications": 108,
+          "offers": 108
+        },
+        "notes": ""
+      },
+      {
+        "phase": "retrospective",
+        "year": "2025/2026",
+        "cohort": "Autism special classes",
+        "line_start": 184,
+        "line_end": 191,
+        "metrics": {
+          "places": 3,
+          "applications": 106,
+          "offers": 3
+        },
+        "notes": "Other editions report 102 vs 106 applications; retain edition conflict without averaging."
+      }
+    ]
+  },
+  "18": {
+    "title": "2026/2027",
+    "groups": [
+      {
+        "phase": "upcoming",
+        "year": "2026/2027",
+        "cohort": "Junior Infants",
+        "line_start": 18,
+        "line_end": 30,
+        "metrics": {
+          "places": 112
+        },
+        "notes": "JI total may reduce for dual special-class placements. Do not treat capacity as realized admissions."
+      },
+      {
+        "phase": "upcoming",
+        "year": "2026/2027",
+        "cohort": "Special class (type unspecified in aggregate field)",
+        "line_start": 18,
+        "line_end": 30,
+        "metrics": {
+          "places": 2
+        },
+        "notes": "JI total may reduce for dual special-class placements. Do not treat capacity as realized admissions."
+      },
+      {
+        "phase": "retrospective",
+        "year": "2025/2026",
+        "cohort": "Junior Infants",
+        "line_start": 177,
+        "line_end": 183,
+        "metrics": {
+          "places": 112,
+          "applications": 108,
+          "offers": 108
+        },
+        "notes": ""
+      },
+      {
+        "phase": "retrospective",
+        "year": "2025/2026",
+        "cohort": "Autism special classes",
+        "line_start": 184,
+        "line_end": 191,
+        "metrics": {
+          "places": 3,
+          "applications": 102,
+          "offers": 3
+        },
+        "notes": "Other editions report 102 vs 106 applications; retain edition conflict without averaging."
+      }
+    ]
+  },
+  "11": {
+    "title": "2026/2027",
+    "groups": [
+      {
+        "phase": "upcoming",
+        "year": "2026/2027",
+        "cohort": "Autism special classes: Sonas & Bród Junior Classes",
+        "line_start": 126,
+        "line_end": 131,
+        "metrics": {
+          "places": 2
+        },
+        "notes": ""
+      },
+      {
+        "phase": "retrospective",
+        "year": null,
+        "cohort": "Autism special classes",
+        "line_start": 133,
+        "line_end": 146,
+        "metrics": {
+          "places": 3,
+          "applications": 106,
+          "offers": 3,
+          "waiting_list_names_placed": 97
+        },
+        "notes": "Part Two/information header says 2025/26; breakdown caption says 2024/25. Exact year unresolved. Offers made-and-accepted under criteria is not an explicit aggregate acceptance count."
+      }
+    ]
+  },
+  "12": {
+    "title": "2026/2027",
+    "groups": [
+      {
+        "phase": "upcoming",
+        "year": "2026/2027",
+        "cohort": "Autism special classes: Sonas & Bród Junior Classes",
+        "line_start": 126,
+        "line_end": 131,
+        "metrics": {
+          "places": 2
+        },
+        "notes": ""
+      },
+      {
+        "phase": "retrospective",
+        "year": null,
+        "cohort": "Autism special classes",
+        "line_start": 133,
+        "line_end": 146,
+        "metrics": {
+          "places": 3,
+          "applications": 106,
+          "offers": 3,
+          "waiting_list_names_placed": 97
+        },
+        "notes": "Part Two/information header says 2025/26; breakdown caption says 2024/25. Exact year unresolved. Offers made-and-accepted under criteria is not an explicit aggregate acceptance count."
+      }
+    ]
+  },
+  "13": {
+    "title": "2026/2027",
+    "groups": [
+      {
+        "phase": "upcoming",
+        "year": "2026/2027",
+        "cohort": "Autism special classes: Sonas & Bród Junior Classes",
+        "line_start": 127,
+        "line_end": 132,
+        "metrics": {
+          "places": 2
+        },
+        "notes": ""
+      },
+      {
+        "phase": "retrospective",
+        "year": null,
+        "cohort": "Autism special classes",
+        "line_start": 134,
+        "line_end": 147,
+        "metrics": {
+          "places": 3,
+          "applications": 106,
+          "offers": 3,
+          "waiting_list_names_placed": 97
+        },
+        "notes": "Part Two/information header says 2025/26; breakdown caption says 2024/25. Exact year unresolved. Offers made-and-accepted under criteria is not an explicit aggregate acceptance count."
+      }
+    ]
+  },
+  "19": {
+    "title": "2026/2027",
+    "groups": [
+      {
+        "phase": "upcoming",
+        "year": "2026/2027",
+        "cohort": "Autism special classes: Sonas & Bród Junior Classes",
+        "line_start": 128,
+        "line_end": 133,
+        "metrics": {
+          "places": 2
+        },
+        "notes": ""
+      },
+      {
+        "phase": "retrospective",
+        "year": null,
+        "cohort": "Autism special classes",
+        "line_start": 135,
+        "line_end": 148,
+        "metrics": {
+          "places": 3,
+          "applications": 106,
+          "offers": 3,
+          "waiting_list_names_placed": 97
+        },
+        "notes": "Part Two/information header says 2025/26; breakdown caption says 2024/25. Exact year unresolved. Offers made-and-accepted under criteria is not an explicit aggregate acceptance count."
+      }
+    ]
+  },
+  "14": {
+    "title": "2026/2027",
+    "groups": [
+      {
+        "phase": "upcoming",
+        "year": "2026/2027",
+        "cohort": "Junior Infants",
+        "line_start": 74,
+        "line_end": 81,
+        "metrics": {
+          "places": 112
+        },
+        "notes": ""
+      },
+      {
+        "phase": "upcoming",
+        "year": "2026/2027",
+        "cohort": "Special class (type unspecified in aggregate field)",
+        "line_start": 74,
+        "line_end": 81,
+        "metrics": {
+          "places": 2
+        },
+        "notes": ""
+      },
+      {
+        "phase": "retrospective",
+        "year": "2025/2026",
+        "cohort": "Autism special classes",
+        "line_start": 106,
+        "line_end": 123,
+        "metrics": {
+          "places": 3,
+          "applications": 102,
+          "offers": 3,
+          "waiting_list_names_placed": 94
+        },
+        "notes": "102 includes five not eligible. Other editions show revised 106 applications and 97 list names; retain source revisions."
+      }
+    ]
+  },
+  "20": {
+    "title": "2025/2026",
+    "groups": [
+      {
+        "phase": "upcoming",
+        "year": "2025/2026",
+        "cohort": "Junior Infants",
+        "line_start": 71,
+        "line_end": 78,
+        "metrics": {
+          "places": 112
+        },
+        "notes": ""
+      },
+      {
+        "phase": "upcoming",
+        "year": "2025/2026",
+        "cohort": "Special class (type unspecified in aggregate field)",
+        "line_start": 71,
+        "line_end": 78,
+        "metrics": {
+          "places": 3
+        },
+        "notes": ""
+      },
+      {
+        "phase": "retrospective",
+        "year": "2023/2024",
+        "cohort": "Autism special classes",
+        "line_start": 105,
+        "line_end": 121,
+        "metrics": {
+          "places": 0,
+          "applications": 28,
+          "offers": 0,
+          "waiting_list_names_placed": 25
+        },
+        "notes": "28 includes three incomplete applications. Printed table 2023/24 retained; do not infer 2024/25 from notice title."
+      }
+    ]
+  },
+  "21": {
+    "title": "2025/2026",
+    "groups": [
+      {
+        "phase": "upcoming",
+        "year": "2025/2026",
+        "cohort": "Junior Infants",
+        "line_start": 75,
+        "line_end": 93,
+        "metrics": {
+          "places": 50
+        },
+        "notes": "Two columns: school 50 vs LCES four-school aggregate 225; 225 not imported as school capacity."
+      },
+      {
+        "phase": "upcoming",
+        "year": "2025/2026",
+        "cohort": "Special class (type unspecified in aggregate field)",
+        "line_start": 75,
+        "line_end": 93,
+        "metrics": {
+          "places": 0
+        },
+        "notes": "Two columns: school 50 vs LCES four-school aggregate 225; 225 not imported as school capacity."
+      },
+      {
+        "phase": "retrospective",
+        "year": "2023/2024",
+        "cohort": "Autism special class",
+        "line_start": 92,
+        "line_end": 111,
+        "metrics": {
+          "places": 3,
+          "applications_excluding_late": 15,
+          "offers": 3,
+          "waiting_list_names_placed": 12
+        },
+        "notes": "Printed row: 15 + 1 late application. Introductory narrative separately says 10. No inferred total 16 and no unqualified applications ratio."
+      }
+    ]
+  },
+  "22": {
+    "title": "2025/2026",
+    "groups": [
+      {
+        "phase": "upcoming",
+        "year": "2025/2026",
+        "cohort": "Junior Infants",
+        "line_start": 66,
+        "line_end": 84,
+        "metrics": {
+          "places": 50
+        },
+        "notes": "Two columns: school 50 vs LCES four-school aggregate 225; 225 not imported as school capacity."
+      },
+      {
+        "phase": "upcoming",
+        "year": "2025/2026",
+        "cohort": "Special class (type unspecified in aggregate field)",
+        "line_start": 66,
+        "line_end": 84,
+        "metrics": {
+          "places": 0
+        },
+        "notes": "Two columns: school 50 vs LCES four-school aggregate 225; 225 not imported as school capacity."
+      },
+      {
+        "phase": "retrospective",
+        "year": "2023/2024",
+        "cohort": "Autism special class",
+        "line_start": 85,
+        "line_end": 104,
+        "metrics": {
+          "places": 3,
+          "applications_excluding_late": 15,
+          "offers": 3,
+          "waiting_list_names_placed": 12
+        },
+        "notes": "Printed row: 15 + 1 late application. Introductory narrative separately says 10. No inferred total 16 and no unqualified applications ratio."
+      }
+    ]
+  },
+  "23": {
+    "title": "2024/2025",
+    "groups": [
+      {
+        "phase": "upcoming",
+        "year": "2024/2025",
+        "cohort": "Junior Infants",
+        "line_start": 57,
+        "line_end": 69,
+        "metrics": {
+          "places": 52
+        },
+        "notes": "School capacity 52; adjacent LCES aggregate 208 excluded."
+      },
+      {
+        "phase": "upcoming",
+        "year": "2024/2025",
+        "cohort": "Special class (type unspecified in aggregate field)",
+        "line_start": 57,
+        "line_end": 69,
+        "metrics": {
+          "places": 3
+        },
+        "notes": "School capacity 52; adjacent LCES aggregate 208 excluded."
+      },
+      {
+        "phase": "retrospective",
+        "year": "2022/2023",
+        "cohort": "Autism special class",
+        "line_start": 72,
+        "line_end": 87,
+        "metrics": {
+          "places": 1,
+          "applications": 19,
+          "offers": 1,
+          "waiting_list_names_placed": 13
+        },
+        "notes": ""
+      }
+    ]
+  },
+  "24": {
+    "title": "2024/2025",
+    "groups": [
+      {
+        "phase": "upcoming",
+        "year": "2024/2025",
+        "cohort": "Junior Infants",
+        "line_start": 10,
+        "line_end": 22,
+        "metrics": {
+          "places": 50
+        },
+        "notes": ""
+      },
+      {
+        "phase": "upcoming",
+        "year": "2024/2025",
+        "cohort": "Special class (type unspecified in aggregate field)",
+        "line_start": 10,
+        "line_end": 22,
+        "metrics": {
+          "places": 0
+        },
+        "notes": ""
+      },
+      {
+        "phase": "retrospective",
+        "year": "2023/2024",
+        "cohort": "Junior Infants",
+        "line_start": 77,
+        "line_end": 91,
+        "metrics": {
+          "places": 50,
+          "applications": 50,
+          "offers": 50
+        },
+        "notes": ""
+      },
+      {
+        "phase": "retrospective",
+        "year": "2023/2024",
+        "cohort": "Autism special classes",
+        "line_start": 77,
+        "line_end": 91,
+        "metrics": {
+          "places": 6,
+          "applications": 35,
+          "offers": 6
+        },
+        "notes": "Special-class narrative capacity differs from detailed table in 2020/21: narrative 12, detailed six; six is exact table value, conflict preserved in evidence."
+      }
+    ]
+  },
+  "25": {
+    "title": "2023/2024",
+    "groups": [
+      {
+        "phase": "upcoming",
+        "year": "2023/2024",
+        "cohort": "Junior Infants",
+        "line_start": 10,
+        "line_end": 22,
+        "metrics": {
+          "places": 48
+        },
+        "notes": ""
+      },
+      {
+        "phase": "upcoming",
+        "year": "2023/2024",
+        "cohort": "Special class (type unspecified in aggregate field)",
+        "line_start": 10,
+        "line_end": 22,
+        "metrics": {
+          "places": 6
+        },
+        "notes": ""
+      },
+      {
+        "phase": "retrospective",
+        "year": "2022/2023",
+        "cohort": "Junior Infants",
+        "line_start": 67,
+        "line_end": 80,
+        "metrics": {
+          "places": 50,
+          "applications": 75,
+          "offers": 50
+        },
+        "notes": ""
+      },
+      {
+        "phase": "retrospective",
+        "year": "2022/2023",
+        "cohort": "Autism special classes",
+        "line_start": 67,
+        "line_end": 80,
+        "metrics": {
+          "places": 7,
+          "applications": 50,
+          "offers": 7
+        },
+        "notes": "Special-class narrative capacity differs from detailed table in 2020/21: narrative 12, detailed six; six is exact table value, conflict preserved in evidence."
+      }
+    ]
+  },
+  "26": {
+    "title": "2021/2022",
+    "groups": [
+      {
+        "phase": "upcoming",
+        "year": "2021/2022",
+        "cohort": "Junior Infants",
+        "line_start": 9,
+        "line_end": 17,
+        "metrics": {
+          "places": 78
+        },
+        "notes": ""
+      },
+      {
+        "phase": "upcoming",
+        "year": "2021/2022",
+        "cohort": "Special class (type unspecified in aggregate field)",
+        "line_start": 9,
+        "line_end": 17,
+        "metrics": {
+          "places": 0
+        },
+        "notes": ""
+      },
+      {
+        "phase": "retrospective",
+        "year": "2020/2021",
+        "cohort": "Junior Infants",
+        "line_start": 56,
+        "line_end": 69,
+        "metrics": {
+          "places": 60,
+          "applications": 130,
+          "offers": 60
+        },
+        "notes": ""
+      },
+      {
+        "phase": "retrospective",
+        "year": "2020/2021",
+        "cohort": "Autism special classes",
+        "line_start": 56,
+        "line_end": 69,
+        "metrics": {
+          "places": 6,
+          "applications": 30,
+          "offers": 6
+        },
+        "notes": "Special-class narrative capacity differs from detailed table in 2020/21: narrative 12, detailed six; six is exact table value, conflict preserved in evidence."
+      }
+    ]
+  },
+  "27": {
+    "title": "2021/2022",
+    "groups": [
+      {
+        "phase": "upcoming",
+        "year": "2021/2022",
+        "cohort": "Junior Infants",
+        "line_start": 9,
+        "line_end": 17,
+        "metrics": {
+          "places": 78
+        },
+        "notes": ""
+      },
+      {
+        "phase": "upcoming",
+        "year": "2021/2022",
+        "cohort": "Special class (type unspecified in aggregate field)",
+        "line_start": 9,
+        "line_end": 17,
+        "metrics": {
+          "places": 0
+        },
+        "notes": ""
+      },
+      {
+        "phase": "retrospective",
+        "year": "2020/2021",
+        "cohort": "Junior Infants",
+        "line_start": 56,
+        "line_end": 69,
+        "metrics": {
+          "places": 60,
+          "applications": 130,
+          "offers": 60
+        },
+        "notes": ""
+      },
+      {
+        "phase": "retrospective",
+        "year": "2020/2021",
+        "cohort": "Autism special classes",
+        "line_start": 56,
+        "line_end": 69,
+        "metrics": {
+          "places": 6,
+          "applications": 30,
+          "offers": 6
+        },
+        "notes": "Special-class narrative capacity differs from detailed table in 2020/21: narrative 12, detailed six; six is exact table value, conflict preserved in evidence."
+      }
+    ]
+  },
+  "30": {
+    "title": "2027/2028",
+    "groups": [
+      {
+        "phase": "retrospective",
+        "year": null,
+        "cohort": "Autism special classes",
+        "line_start": 87,
+        "line_end": 102,
+        "metrics": {
+          "places": 1,
+          "applications": 56,
+          "offers": 1,
+          "waiting_list_names_placed": 55
+        },
+        "notes": "2027/28 edition has conflicting Part Two2026/27 vs detailed2025/26 labels; not assigned an inferred year."
+      }
+    ]
+  },
+  "31": {
+    "title": "2026/2027",
+    "groups": [
+      {
+        "phase": "retrospective",
+        "year": "2025/2026",
+        "cohort": "Autism special classes",
+        "line_start": 82,
+        "line_end": 97,
+        "metrics": {
+          "places": 2,
+          "applications": 80,
+          "offers": 2,
+          "waiting_list_names_placed": 66
+        },
+        "notes": "Exact 2025/26 table; other editions differ, retained separately."
+      }
+    ]
+  },
+  "32": {
+    "title": "2026/2027",
+    "groups": [
+      {
+        "phase": "retrospective",
+        "year": "2025/2026",
+        "cohort": "Autism special classes",
+        "line_start": 82,
+        "line_end": 97,
+        "metrics": {
+          "places": 2,
+          "applications": 80,
+          "offers": 2,
+          "waiting_list_names_placed": 66
+        },
+        "notes": "Exact 2025/26 table; other editions differ, retained separately."
+      }
+    ]
+  },
+  "33": {
+    "title": "2026/2027",
+    "groups": [
+      {
+        "phase": "retrospective",
+        "year": "2025/2026",
+        "cohort": "Autism special classes",
+        "line_start": 82,
+        "line_end": 97,
+        "metrics": {
+          "places": 2,
+          "applications": 80,
+          "offers": 2,
+          "waiting_list_names_placed": 66
+        },
+        "notes": "Exact 2025/26 table; other editions differ, retained separately."
+      }
+    ]
+  },
+  "34": {
+    "title": "2026/2027",
+    "groups": [
+      {
+        "phase": "upcoming",
+        "year": "2026/2027",
+        "cohort": "Junior Infants",
+        "line_start": 44,
+        "line_end": 46,
+        "metrics": {
+          "places": 50
+        },
+        "notes": "Source qualifies capacity by pupil-teacher ratio and staffing schedule."
+      },
+      {
+        "phase": "retrospective",
+        "year": "2025/2026",
+        "cohort": "Junior Infants",
+        "line_start": 48,
+        "line_end": 62,
+        "metrics": {
+          "places": 100,
+          "applications": 106,
+          "offers": 106,
+          "waiting_list_names_placed": 0
+        },
+        "notes": ""
+      }
+    ]
+  },
+  "35": {
+    "title": "2025/2026",
+    "groups": [
+      {
+        "phase": "upcoming",
+        "year": "2025/2026",
+        "cohort": "Junior Infants",
+        "line_start": 55,
+        "line_end": 57,
+        "metrics": {
+          "places": 100
+        },
+        "notes": ""
+      },
+      {
+        "phase": "retrospective",
+        "year": "2024/2025",
+        "cohort": "Junior Infants",
+        "line_start": 60,
+        "line_end": 78,
+        "metrics": {
+          "places": 100,
+          "applications": 111,
+          "offers": 109,
+          "waiting_list_names_placed": 0
+        },
+        "notes": ""
+      }
+    ]
+  },
+  "36": {
+    "title": "2025/2026",
+    "groups": [
+      {
+        "phase": "upcoming",
+        "year": "2025/2026",
+        "cohort": "Junior Infants",
+        "line_start": 54,
+        "line_end": 56,
+        "metrics": {
+          "places": 100
+        },
+        "notes": ""
+      },
+      {
+        "phase": "retrospective",
+        "year": "2024/2025",
+        "cohort": "Junior Infants",
+        "line_start": 59,
+        "line_end": 77,
+        "metrics": {
+          "places": 100,
+          "applications": 111,
+          "offers": 109,
+          "waiting_list_names_placed": 0
+        },
+        "notes": ""
+      }
+    ]
+  },
+  "37": {
+    "title": "2025/2026",
+    "groups": [
+      {
+        "phase": "upcoming",
+        "year": "2025/2026",
+        "cohort": "Junior Infants",
+        "line_start": 54,
+        "line_end": 56,
+        "metrics": {
+          "places": 100
+        },
+        "notes": ""
+      },
+      {
+        "phase": "retrospective",
+        "year": "2024/2025",
+        "cohort": "Junior Infants",
+        "line_start": 59,
+        "line_end": 77,
+        "metrics": {
+          "places": 100,
+          "applications": 111,
+          "offers": 109,
+          "waiting_list_names_placed": 0
+        },
+        "notes": ""
+      }
+    ]
+  },
+  "39": {
+    "title": "2022/2023",
+    "groups": [
+      {
+        "phase": "upcoming",
+        "year": "2022/2023",
+        "cohort": "Autism special class",
+        "line_start": 1,
+        "line_end": 1,
+        "metrics": {
+          "places": 6
+        },
+        "notes": "Public school post, not the search-results page. Footer unrelated content excluded from subsequent comparisons."
+      }
+    ]
+  },
+  "41": {
+    "title": "2025/2026",
+    "groups": [
+      {
+        "phase": "upcoming",
+        "year": "2025/2026",
+        "cohort": "Junior Infants",
+        "line_start": 23,
+        "line_end": 26,
+        "metrics": {
+          "places": 48
+        },
+        "notes": ""
+      },
+      {
+        "phase": "retrospective",
+        "year": "2023/2024",
+        "cohort": "Junior Infants",
+        "line_start": 62,
+        "line_end": 79,
+        "metrics": {
+          "places": 50,
+          "applications": 140,
+          "offers": 61
+        },
+        "notes": ""
+      },
+      {
+        "phase": "retrospective",
+        "year": "2023/2024",
+        "cohort": "Autism special classes",
+        "line_start": 62,
+        "line_end": 79,
+        "metrics": {
+          "places": 0,
+          "applications": 40,
+          "offers": 0
+        },
+        "notes": ""
+      }
+    ]
+  },
+  "42": {
+    "title": "2026/2027",
+    "groups": [
+      {
+        "phase": "upcoming",
+        "year": "2026/2027",
+        "cohort": "Junior Infants",
+        "line_start": 23,
+        "line_end": 26,
+        "metrics": {
+          "places": 48
+        },
+        "notes": ""
+      },
+      {
+        "phase": "retrospective",
+        "year": "2024/2025",
+        "cohort": "Junior Infants",
+        "line_start": 73,
+        "line_end": 89,
+        "metrics": {
+          "places": 48,
+          "applications": 140,
+          "offers": 48
+        },
+        "notes": ""
+      },
+      {
+        "phase": "retrospective",
+        "year": "2024/2025",
+        "cohort": "Autism special classes",
+        "line_start": 73,
+        "line_end": 89,
+        "metrics": {
+          "places": 1,
+          "applications": 71,
+          "offers": 1
+        },
+        "notes": "2024/25 narrative says zero places but detailed ASD table says one; table one preserved as distinct source assertion."
+      }
+    ]
+  },
+  "43": {
+    "title": "2026/2027",
+    "groups": [
+      {
+        "phase": "upcoming",
+        "year": "2026/2027",
+        "cohort": "Junior Infants",
+        "line_start": 99,
+        "line_end": 109,
+        "metrics": {
+          "places": 52
+        },
+        "notes": "Exact capacity section year; earlier application-date headers may carry stale prior-year captions."
+      },
+      {
+        "phase": "upcoming",
+        "year": "2026/2027",
+        "cohort": "Special class (type unspecified in aggregate field)",
+        "line_start": 99,
+        "line_end": 109,
+        "metrics": {
+          "places": 0
+        },
+        "notes": "Exact capacity section year; earlier application-date headers may carry stale prior-year captions."
+      }
+    ]
+  },
+  "44": {
+    "title": "2025/2026",
+    "groups": [
+      {
+        "phase": "upcoming",
+        "year": "2025/2026",
+        "cohort": "Junior Infants",
+        "line_start": 118,
+        "line_end": 128,
+        "metrics": {
+          "places": 48
+        },
+        "notes": "Exact capacity section year; earlier application-date headers may carry stale prior-year captions."
+      },
+      {
+        "phase": "upcoming",
+        "year": "2025/2026",
+        "cohort": "Special class (type unspecified in aggregate field)",
+        "line_start": 118,
+        "line_end": 128,
+        "metrics": {
+          "places": 0
+        },
+        "notes": "Exact capacity section year; earlier application-date headers may carry stale prior-year captions."
+      }
+    ]
+  },
+  "45": {
+    "title": "2027/2028",
+    "groups": [
+      {
+        "phase": "upcoming",
+        "year": "2027/2028",
+        "cohort": "Junior Infants",
+        "line_start": 27,
+        "line_end": 29,
+        "metrics": {
+          "places": 34
+        },
+        "notes": ""
+      }
+    ]
+  },
+  "46": {
+    "title": "2026/2027",
+    "groups": [
+      {
+        "phase": "upcoming",
+        "year": "2026/2027",
+        "cohort": "Junior Infants",
+        "line_start": 39,
+        "line_end": 41,
+        "metrics": {
+          "places": 34
+        },
+        "notes": ""
+      }
+    ]
+  },
+  "47": {
+    "title": "2025/2026",
+    "groups": [
+      {
+        "phase": "upcoming",
+        "year": "2025/2026",
+        "cohort": "Junior Infants",
+        "line_start": 39,
+        "line_end": 41,
+        "metrics": {
+          "places": 34
+        },
+        "notes": ""
+      }
+    ]
+  },
+  "49": {
+    "title": "2025/2026",
+    "groups": [
+      {
+        "phase": "upcoming",
+        "year": "2025/2026",
+        "cohort": "Junior Infants",
+        "line_start": 16,
+        "line_end": 18,
+        "metrics": {
+          "places": 46
+        },
+        "notes": ""
+      },
+      {
+        "phase": "upcoming",
+        "year": "2025/2026",
+        "cohort": "Autism special classes",
+        "line_start": 22,
+        "line_end": 24,
+        "metrics": {
+          "places": 4
+        },
+        "notes": "Source separately prints total12, alreadyallocated8, placesleft4. Four available new places, not total classroom capacity12."
+      },
+      {
+        "phase": "retrospective",
+        "year": "2024/2025",
+        "cohort": "Junior Infants",
+        "line_start": 78,
+        "line_end": 82,
+        "metrics": {
+          "places": 46,
+          "applications": 76,
+          "offers": 46
+        },
+        "notes": ""
+      },
+      {
+        "phase": "retrospective",
+        "year": "2023/2024",
+        "cohort": "Autism special classes",
+        "line_start": 91,
+        "line_end": 96,
+        "metrics": {
+          "places": 2,
+          "applications": 30,
+          "offers": 2
+        },
+        "notes": "Special-class table year2023/24 differs from mainstream2024/25. Not combined."
+      }
+    ]
+  },
+  "50": {
+    "title": "2027/2028",
+    "groups": [
+      {
+        "phase": "upcoming",
+        "year": "2027/2028",
+        "cohort": "Junior Infants",
+        "line_start": 67,
+        "line_end": 78,
+        "metrics": {
+          "places": 50
+        },
+        "notes": "Combined other-year-group historical tables retained for field-level follow-up, not used to fabricate a Junior Infants funnel."
+      },
+      {
+        "phase": "retrospective",
+        "year": null,
+        "cohort": "Junior Infants",
+        "line_start": 85,
+        "line_end": 102,
+        "metrics": {
+          "places": 50,
+          "applications": 135
+        },
+        "notes": "Part Two vs breakdown year conflicts quarantined where present. Printed total offers are not assumed to be Junior Infant-only."
+      },
+      {
+        "phase": "retrospective",
+        "year": null,
+        "cohort": "Other year groups: Non Junior Infants",
+        "line_start": 85,
+        "line_end": 102,
+        "metrics": {
+          "applications": 44
+        },
+        "notes": ""
+      },
+      {
+        "phase": "retrospective",
+        "year": null,
+        "cohort": "Unseparated Junior Infants / other year groups",
+        "line_start": 85,
+        "line_end": 102,
+        "metrics": {
+          "offers": 161,
+          "waiting_list_names_placed": 2
+        },
+        "notes": "Scope not clearly a single intake; do not attach JI-only capacity or applications."
+      }
+    ]
+  },
+  "51": {
+    "title": "2026/2027",
+    "groups": [
+      {
+        "phase": "upcoming",
+        "year": "2026/2027",
+        "cohort": "Junior Infants",
+        "line_start": 68,
+        "line_end": 79,
+        "metrics": {
+          "places": 50
+        },
+        "notes": "Combined other-year-group historical tables retained for field-level follow-up, not used to fabricate a Junior Infants funnel."
+      },
+      {
+        "phase": "retrospective",
+        "year": "2025/2026",
+        "cohort": "Junior Infants",
+        "line_start": 86,
+        "line_end": 104,
+        "metrics": {
+          "places": 50,
+          "applications": 161
+        },
+        "notes": "Part Two vs breakdown year conflicts quarantined where present. Printed total offers are not assumed to be Junior Infant-only."
+      },
+      {
+        "phase": "retrospective",
+        "year": "2025/2026",
+        "cohort": "Other year groups: Non Junior Infants",
+        "line_start": 86,
+        "line_end": 104,
+        "metrics": {
+          "applications": 46
+        },
+        "notes": ""
+      },
+      {
+        "phase": "retrospective",
+        "year": "2025/2026",
+        "cohort": "Unseparated Junior Infants / other year groups",
+        "line_start": 86,
+        "line_end": 104,
+        "metrics": {
+          "offers": 207,
+          "waiting_list_names_placed": 0
+        },
+        "notes": "Scope not clearly a single intake; do not attach JI-only capacity or applications."
+      }
+    ]
+  },
+  "52": {
+    "title": "2026/2027",
+    "groups": [
+      {
+        "phase": "upcoming",
+        "year": "2026/2027",
+        "cohort": "Junior Infants",
+        "line_start": 46,
+        "line_end": 53,
+        "metrics": {
+          "places": 50
+        },
+        "notes": "Combined other-year-group historical tables retained for field-level follow-up, not used to fabricate a Junior Infants funnel."
+      },
+      {
+        "phase": "retrospective",
+        "year": "2025/2026",
+        "cohort": "Junior Infants",
+        "line_start": 56,
+        "line_end": 72,
+        "metrics": {
+          "places": 50,
+          "applications": 161
+        },
+        "notes": "Part Two vs breakdown year conflicts quarantined where present. Printed total offers are not assumed to be Junior Infant-only."
+      },
+      {
+        "phase": "retrospective",
+        "year": "2025/2026",
+        "cohort": "Other year groups: Non Junior Infants",
+        "line_start": 56,
+        "line_end": 72,
+        "metrics": {
+          "applications": 46
+        },
+        "notes": ""
+      },
+      {
+        "phase": "retrospective",
+        "year": "2025/2026",
+        "cohort": "Unseparated Junior Infants / other year groups",
+        "line_start": 56,
+        "line_end": 72,
+        "metrics": {
+          "offers": 207,
+          "waiting_list_names_placed": 0
+        },
+        "notes": "Scope not clearly a single intake; do not attach JI-only capacity or applications."
+      }
+    ]
+  },
+  "53": {
+    "title": "2025/2026",
+    "groups": [
+      {
+        "phase": "upcoming",
+        "year": "2025/2026",
+        "cohort": "Junior Infants",
+        "line_start": 73,
+        "line_end": 86,
+        "metrics": {
+          "places": 50
+        },
+        "notes": "Combined other-year-group historical tables retained for field-level follow-up, not used to fabricate a Junior Infants funnel."
+      },
+      {
+        "phase": "retrospective",
+        "year": null,
+        "cohort": "Junior Infants",
+        "line_start": 102,
+        "line_end": 118,
+        "metrics": {
+          "places": 50,
+          "applications": 175
+        },
+        "notes": "Part Two vs breakdown year conflicts quarantined where present. Printed total offers are not assumed to be Junior Infant-only."
+      },
+      {
+        "phase": "retrospective",
+        "year": null,
+        "cohort": "Other year groups: Non Junior Infants",
+        "line_start": 102,
+        "line_end": 118,
+        "metrics": {
+          "applications": 40
+        },
+        "notes": ""
+      },
+      {
+        "phase": "retrospective",
+        "year": null,
+        "cohort": "Unseparated Junior Infants / other year groups",
+        "line_start": 102,
+        "line_end": 118,
+        "metrics": {
+          "offers": 175,
+          "waiting_list_names_placed": 0
+        },
+        "notes": "Scope not clearly a single intake; do not attach JI-only capacity or applications."
+      }
+    ]
+  },
+  "54": {
+    "title": "2023/2024",
+    "groups": [
+      {
+        "phase": "upcoming",
+        "year": "2023/2024",
+        "cohort": "Junior Infants",
+        "line_start": 61,
+        "line_end": 69,
+        "metrics": {
+          "places": 54
+        },
+        "notes": "Combined other-year-group historical tables retained for field-level follow-up, not used to fabricate a Junior Infants funnel."
+      },
+      {
+        "phase": "retrospective",
+        "year": "2022/2023",
+        "cohort": "Unseparated Junior Infants / other year groups",
+        "line_start": 85,
+        "line_end": 101,
+        "metrics": {
+          "places": 56,
+          "applications": 193,
+          "offers_excluding_siblings": 125,
+          "waiting_list_names_placed": 35
+        },
+        "notes": "Offers explicitly exclude additional sibling offers:125 plus33, or194 plus25. No inferred total.2020/21 introductory applications225 conflict with detailed250; retain source assertion/quality, not guessed reconciliation."
+      }
+    ]
+  },
+  "55": {
+    "title": "2021/2022",
+    "groups": [
+      {
+        "phase": "upcoming",
+        "year": "2021/2022",
+        "cohort": "Junior Infants",
+        "line_start": 65,
+        "line_end": 73,
+        "metrics": {
+          "places": 56
+        },
+        "notes": "Combined other-year-group historical tables retained for field-level follow-up, not used to fabricate a Junior Infants funnel."
+      },
+      {
+        "phase": "retrospective",
+        "year": "2020/2021",
+        "cohort": "Unseparated Junior Infants / other year groups",
+        "line_start": 89,
+        "line_end": 104,
+        "metrics": {
+          "places": 56,
+          "applications": 250,
+          "offers_excluding_siblings": 194,
+          "waiting_list_names_placed": 31
+        },
+        "notes": "Offers explicitly exclude additional sibling offers:125 plus33, or194 plus25. No inferred total.2020/21 introductory applications225 conflict with detailed250; retain source assertion/quality, not guessed reconciliation."
+      }
+    ]
+  },
+  "56": {
+    "title": "2025/2026",
+    "groups": [
+      {
+        "phase": "upcoming",
+        "year": null,
+        "cohort": "Junior Infants",
+        "line_start": 8,
+        "line_end": 19,
+        "metrics": {
+          "places": 28
+        },
+        "notes": "Title2025/26 conflicts with narrative2024/25; year not resolved."
+      }
+    ]
+  },
+  "57": {
+    "title": "2024/2025",
+    "groups": [
+      {
+        "phase": "upcoming",
+        "year": "2024/2025",
+        "cohort": "Junior Infants",
+        "line_start": 1,
+        "line_end": 10,
+        "metrics": {
+          "places": 28
+        },
+        "notes": ""
+      }
+    ]
+  },
+  "58": {
+    "title": "2023/2024",
+    "groups": [
+      {
+        "phase": "upcoming",
+        "year": "2023/2024",
+        "cohort": "Junior Infants",
+        "line_start": 10,
+        "line_end": 21,
+        "metrics": {
+          "places": 28
+        },
+        "notes": ""
+      }
+    ]
+  },
+  "59": {
+    "title": "2022/2023",
+    "groups": [
+      {
+        "phase": "upcoming",
+        "year": "2022/2023",
+        "cohort": "Junior Infants",
+        "line_start": 8,
+        "line_end": 19,
+        "metrics": {
+          "places": 26
+        },
+        "notes": ""
+      }
+    ]
+  },
+  "60": {
+    "title": "2021/2022",
+    "groups": [
+      {
+        "phase": "upcoming",
+        "year": "2021/2022",
+        "cohort": "Junior Infants",
+        "line_start": 8,
+        "line_end": 19,
+        "metrics": {
+          "places": 26
+        },
+        "notes": ""
+      }
+    ]
+  },
+  "61": {
+    "title": "2021/2022",
+    "groups": [
+      {
+        "phase": "upcoming",
+        "year": "2021/2022",
+        "cohort": "Junior Infants",
+        "line_start": 1,
+        "line_end": 10,
+        "metrics": {
+          "places": 26
+        },
+        "notes": ""
+      }
+    ]
+  },
+  "62": {
+    "title": "2026/2027",
+    "groups": [
+      {
+        "phase": "upcoming",
+        "year": "2026/2027",
+        "cohort": "Junior Infants",
+        "line_start": 98,
+        "line_end": 111,
+        "metrics": {
+          "places": 30
+        },
+        "notes": ""
+      },
+      {
+        "phase": "upcoming",
+        "year": "2026/2027",
+        "cohort": "Special class (type unspecified in aggregate field)",
+        "line_start": 98,
+        "line_end": 111,
+        "metrics": {
+          "places": 0
+        },
+        "notes": ""
+      }
+    ]
+  },
+  "63": {
+    "title": "2026/2027",
+    "groups": [
+      {
+        "phase": "upcoming",
+        "year": "2026/2027",
+        "cohort": "Junior Infants",
+        "line_start": 98,
+        "line_end": 111,
+        "metrics": {
+          "places": 30
+        },
+        "notes": ""
+      },
+      {
+        "phase": "upcoming",
+        "year": "2026/2027",
+        "cohort": "Special class (type unspecified in aggregate field)",
+        "line_start": 98,
+        "line_end": 111,
+        "metrics": {
+          "places": 0
+        },
+        "notes": ""
+      }
+    ]
+  },
+  "64": {
+    "title": "2025/2026",
+    "groups": [
+      {
+        "phase": "upcoming",
+        "year": null,
+        "cohort": "Junior Infants",
+        "line_start": 96,
+        "line_end": 109,
+        "metrics": {
+          "places": 30
+        },
+        "notes": "Capacity section2025/26 vs title2024/25 conflict retained; year unresolved."
+      },
+      {
+        "phase": "upcoming",
+        "year": null,
+        "cohort": "Special class (type unspecified in aggregate field)",
+        "line_start": 96,
+        "line_end": 109,
+        "metrics": {
+          "places": 0
+        },
+        "notes": "Capacity section2025/26 vs title2024/25 conflict retained; year unresolved."
+      }
+    ]
+  },
+  "65": {
+    "title": "2023/2024",
+    "groups": [
+      {
+        "phase": "upcoming",
+        "year": "2023/2024",
+        "cohort": "Junior Infants",
+        "line_start": 91,
+        "line_end": 95,
+        "metrics": {
+          "places": 30
+        },
+        "notes": "Special-class header says2022/23; Max6 is a ceiling, not confirmed available intake."
+      },
+      {
+        "phase": "upcoming",
+        "year": "2022/2023",
+        "cohort": "Junior Infants",
+        "line_start": 110,
+        "line_end": 114,
+        "metrics": {
+          "places": 30
+        },
+        "notes": "Separate second capacity block explicitly2022/23; not another capture-year observation."
+      }
+    ]
+  },
+  "66": {
+    "title": "2023/2024",
+    "groups": [
+      {
+        "phase": "upcoming",
+        "year": "2023/2024",
+        "cohort": "Junior Infants",
+        "line_start": 91,
+        "line_end": 95,
+        "metrics": {
+          "places": 30
+        },
+        "notes": "Special-class header says2022/23; Max6 is a ceiling, not confirmed available intake."
+      },
+      {
+        "phase": "upcoming",
+        "year": "2022/2023",
+        "cohort": "Junior Infants",
+        "line_start": 110,
+        "line_end": 114,
+        "metrics": {
+          "places": 30
+        },
+        "notes": "Separate second capacity block explicitly2022/23; not another capture-year observation."
+      }
+    ]
+  },
+  "67": {
+    "title": "2022/2023",
+    "groups": [
+      {
+        "phase": "upcoming",
+        "year": "2022/2023",
+        "cohort": "Junior Infants",
+        "line_start": 90,
+        "line_end": 94,
+        "metrics": {
+          "places": 30
+        },
+        "notes": "Max6 special-class capacity is not confirmed available places. Prior special class explicitly did not exist in2021/22; not applicable, not zero demand."
+      }
+    ]
+  },
+  "71": {
+    "title": "2027/2028",
+    "groups": [
+      {
+        "phase": "upcoming",
+        "year": "2027/2028",
+        "cohort": "Junior Infants",
+        "line_start": 170,
+        "line_end": 185,
+        "metrics": {
+          "places": 30
+        },
+        "notes": "Bilingual historical field uses léirithe spéise (expressions of interest) versus English applications. Do not silently equate86 with applications. Waiting-list row labels2024/25 while section2026/27; pending definition/year review."
+      },
+      {
+        "phase": "upcoming",
+        "year": "2027/2028",
+        "cohort": "Special class (type unspecified in aggregate field)",
+        "line_start": 170,
+        "line_end": 185,
+        "metrics": {
+          "places": 0
+        },
+        "notes": "Bilingual historical field uses léirithe spéise (expressions of interest) versus English applications. Do not silently equate86 with applications. Waiting-list row labels2024/25 while section2026/27; pending definition/year review."
+      },
+      {
+        "phase": "retrospective",
+        "year": "2026/2027",
+        "cohort": "All listed year groups combined: Junior Infants, Autism and other years",
+        "line_start": 136,
+        "line_end": 164,
+        "metrics": {
+          "places": 37,
+          "registrations_of_interest": 86,
+          "offers": 81
+        },
+        "notes": "Irish léirithe spéise means expressions of interest despite English applications gloss. Registration-interest quantity is NOT in the applications metric. Combined grade scope prevents grade-specific ratios."
+      },
+      {
+        "phase": "retrospective",
+        "year": null,
+        "cohort": "All listed year groups combined: Junior Infants, Autism and other years",
+        "line_start": 166,
+        "line_end": 168,
+        "metrics": {
+          "waiting_list_unspecified": 5
+        },
+        "notes": "Waiting-list row says2024/25, surrounding section2026/27. Unresolved exact year; do not attach5 to2026/27 funnel."
+      },
+      {
+        "phase": "upcoming",
+        "year": "2027/2028",
+        "cohort": "Senior Infants",
+        "line_start": 176,
+        "line_end": 182,
+        "metrics": {
+          "places": 7
+        },
+        "notes": "Exact per-grade capacity, not an inferred total."
+      },
+      {
+        "phase": "upcoming",
+        "year": "2027/2028",
+        "cohort": "First Class",
+        "line_start": 176,
+        "line_end": 182,
+        "metrics": {
+          "places": 1
+        },
+        "notes": "Exact per-grade capacity, not an inferred total."
+      },
+      {
+        "phase": "upcoming",
+        "year": "2027/2028",
+        "cohort": "Second Class",
+        "line_start": 176,
+        "line_end": 182,
+        "metrics": {
+          "places": 0
+        },
+        "notes": "Exact per-grade capacity, not an inferred total."
+      },
+      {
+        "phase": "upcoming",
+        "year": "2027/2028",
+        "cohort": "Third Class",
+        "line_start": 176,
+        "line_end": 182,
+        "metrics": {
+          "places": 2
+        },
+        "notes": "Exact per-grade capacity, not an inferred total."
+      },
+      {
+        "phase": "upcoming",
+        "year": "2027/2028",
+        "cohort": "Fourth Class",
+        "line_start": 176,
+        "line_end": 182,
+        "metrics": {
+          "places": 12
+        },
+        "notes": "Exact per-grade capacity, not an inferred total."
+      },
+      {
+        "phase": "upcoming",
+        "year": "2027/2028",
+        "cohort": "Fifth Class",
+        "line_start": 176,
+        "line_end": 182,
+        "metrics": {
+          "places": 2
+        },
+        "notes": "Exact per-grade capacity, not an inferred total."
+      },
+      {
+        "phase": "upcoming",
+        "year": "2027/2028",
+        "cohort": "Sixth Class",
+        "line_start": 176,
+        "line_end": 182,
+        "metrics": {
+          "places": 2
+        },
+        "notes": "Exact per-grade capacity, not an inferred total."
+      }
+    ]
+  },
+  "72": {
+    "title": "2025/2026",
+    "groups": [
+      {
+        "phase": "upcoming",
+        "year": "2025/2026",
+        "cohort": "Group 1: special-school intake",
+        "line_start": 5,
+        "line_end": 6,
+        "metrics": {
+          "places": 6
+        },
+        "notes": "Group-specific capacity; no invented age band or Junior Infant equivalence."
+      },
+      {
+        "phase": "upcoming",
+        "year": "2025/2026",
+        "cohort": "Group 2: special-school intake",
+        "line_start": 7,
+        "line_end": 8,
+        "metrics": {
+          "places": 6
+        },
+        "notes": "Group-specific capacity; no invented age band or Junior Infant equivalence."
+      },
+      {
+        "phase": "upcoming",
+        "year": "2025/2026",
+        "cohort": "Group 3: special-school intake",
+        "line_start": 9,
+        "line_end": 10,
+        "metrics": {
+          "places": 6
+        },
+        "notes": "Group-specific capacity; no invented age band or Junior Infant equivalence."
+      },
+      {
+        "phase": "upcoming",
+        "year": "2025/2026",
+        "cohort": "Group 4: special-school intake",
+        "line_start": 11,
+        "line_end": 12,
+        "metrics": {
+          "places": 6
+        },
+        "notes": "Group-specific capacity; no invented age band or Junior Infant equivalence."
+      }
+    ]
+  },
+  "73": {
+    "title": "2025/2026",
+    "groups": [
+      {
+        "phase": "upcoming",
+        "year": "2025/2026",
+        "cohort": "Group 1: special-school intake",
+        "line_start": 5,
+        "line_end": 6,
+        "metrics": {
+          "places": 6
+        },
+        "notes": "Group-specific capacity; no invented age band or Junior Infant equivalence."
+      },
+      {
+        "phase": "upcoming",
+        "year": "2025/2026",
+        "cohort": "Group 2: special-school intake",
+        "line_start": 7,
+        "line_end": 8,
+        "metrics": {
+          "places": 6
+        },
+        "notes": "Group-specific capacity; no invented age band or Junior Infant equivalence."
+      },
+      {
+        "phase": "upcoming",
+        "year": "2025/2026",
+        "cohort": "Group 3: special-school intake",
+        "line_start": 9,
+        "line_end": 10,
+        "metrics": {
+          "places": 6
+        },
+        "notes": "Group-specific capacity; no invented age band or Junior Infant equivalence."
+      },
+      {
+        "phase": "upcoming",
+        "year": "2025/2026",
+        "cohort": "Group 4: special-school intake",
+        "line_start": 11,
+        "line_end": 12,
+        "metrics": {
+          "places": 6
+        },
+        "notes": "Group-specific capacity; no invented age band or Junior Infant equivalence."
+      }
+    ]
+  },
+  "70": {
+    "title": "2027/2028",
+    "groups": [
+      {
+        "phase": "upcoming",
+        "year": "2027/2028",
+        "cohort": "Junior Infants",
+        "line_start": 1,
+        "line_end": 3,
+        "metrics": {
+          "places": 30
+        },
+        "notes": "Physical PDF page2 directly visually reviewed; manual aggregate-only transcript; source header and capacity section explicitly2027/28."
+      },
+      {
+        "phase": "upcoming",
+        "year": "2027/2028",
+        "cohort": "Special class (type unspecified in aggregate field)",
+        "line_start": 1,
+        "line_end": 3,
+        "metrics": {
+          "places": 0
+        },
+        "notes": "Physical PDF page2 directly visually reviewed; manual aggregate-only transcript; source header and capacity section explicitly2027/28."
+      }
+    ]
+  }
+}
