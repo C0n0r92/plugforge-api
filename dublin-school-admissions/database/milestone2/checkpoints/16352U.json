@@ -1,0 +1,234 @@
+{
+  "roll": "16352U",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.stbrigids.ie/page/Admissions-to-St-Brigids-BNS/307122/Index.html",
+      "final_url": "https://www.stbrigids.ie/page/Admissions-to-St-Brigids-BNS/307122/Index.html",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://www.stbrigids.ie/Page/Admissions-to-St-Brigids-BNS/307122/Index.html",
+      "final_url": "https://www.stbrigids.ie/Page/Admissions-to-St-Brigids-BNS/307122/Index.html",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://www.stbrigids.ie/Admissions/Index.html",
+      "final_url": "https://www.stbrigids.ie/Admissions/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://stbrigids.ie/Content/2020/9/mf42-Catchment_Area_Traditional_Catchment_Area_of_Foxrock_Map.pdf",
+      "final_url": "https://stbrigids.ie/Content/2020/9/mf42-Catchment_Area_Traditional_Catchment_Area_of_Foxrock_Map.pdf",
+      "status": "robots_permission_unestablished_http_301",
+      "via": "school_public_link",
+      "label": "Catchment Area Traditional Catchment Area of Foxrock Map"
+    },
+    {
+      "url": "https://stbrigids.ie/Content/2020/9/kw38-Explanation_document_for_Catchment_Areas.pdf",
+      "final_url": "https://stbrigids.ie/Content/2020/9/kw38-Explanation_document_for_Catchment_Areas.pdf",
+      "status": "robots_permission_unestablished_http_301",
+      "via": "school_public_link",
+      "label": "Explanation document for Catchment Areas"
+    },
+    {
+      "url": "https://stbrigids.ie/Content/2020/9/jb30-Catchment_Area_Cabinteely_Parish_Map.pdf",
+      "final_url": "https://stbrigids.ie/Content/2020/9/jb30-Catchment_Area_Cabinteely_Parish_Map.pdf",
+      "status": "robots_permission_unestablished_http_301",
+      "via": "school_public_link",
+      "label": "Catchment Area Cabinteely Parish Map"
+    },
+    {
+      "url": "https://stbrigids.ie/Content/2025/9/ph53-Admissions_Policy.pdf",
+      "final_url": "https://stbrigids.ie/Content/2025/9/ph53-Admissions_Policy.pdf",
+      "status": "robots_permission_unestablished_http_301",
+      "via": "school_public_link",
+      "label": "Admissions Policy"
+    },
+    {
+      "url": "https://www.stbrigids.ie/sitemap.xml",
+      "final_url": "https://www.stbrigids.ie/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.stbrigids.ie/page/Policies/520/Index.html",
+      "final_url": "https://www.stbrigids.ie/page/Policies/520/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://storage.googleapis.com/iclasscrm_files/37/Images/Content/2026/292/wq86-Admissions_Policy_2026_2027.pdf",
+      "final_url": "https://storage.googleapis.com/iclasscrm_files/37/Images/Content/2026/292/wq86-Admissions_Policy_2026_2027.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions Policy 2026/2027"
+    },
+    {
+      "url": "https://www.stbrigids.ie/page/Parents-Association/505/Index.html",
+      "final_url": "https://www.stbrigids.ie/page/Parents-Association/505/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents Association"
+    },
+    {
+      "url": "https://www.stbrigids.ie/Policies/Index.html",
+      "final_url": "https://www.stbrigids.ie/Policies/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.stbrigids.ie/Parents-Association/Index.html",
+      "final_url": "https://www.stbrigids.ie/Parents-Association/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents Association"
+    },
+    {
+      "url": "https://www.stbrigids.ie/Page/Policies/520/Index.html",
+      "final_url": "https://www.stbrigids.ie/Page/Policies/520/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.stbrigids.ie/Page/Parents-Association/505/Index.html",
+      "final_url": "https://www.stbrigids.ie/Page/Parents-Association/505/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents Association"
+    },
+    {
+      "url": "https://www.stbrigids.ie",
+      "final_url": "https://www.stbrigids.ie",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.stbrigids.ie/Page/School-Policies/520/Index.html",
+      "final_url": "https://www.stbrigids.ie/Page/School-Policies/520/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "View our School Policies"
+    },
+    {
+      "url": "https://www.stbrigids.ie/Page/School-Policies/14245/Index.html",
+      "final_url": "https://www.stbrigids.ie/Page/School-Policies/14245/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://stbrigids.ie/Content/2020/12/xj83-Management_of_Chronic_Health_Conditions_Policy.pdf",
+      "final_url": "https://stbrigids.ie/Content/2020/12/xj83-Management_of_Chronic_Health_Conditions_Policy.pdf",
+      "status": "robots_permission_unestablished_http_301",
+      "via": "school_public_link",
+      "label": "Management of Chronic Health Conditions Policy"
+    },
+    {
+      "url": "https://stbrigids.ie/Content/2020/12/xg92-Data_Protection_Policy.pdf",
+      "final_url": "https://stbrigids.ie/Content/2020/12/xg92-Data_Protection_Policy.pdf",
+      "status": "robots_permission_unestablished_http_301",
+      "via": "school_public_link",
+      "label": "Data Protection Policy"
+    },
+    {
+      "url": "https://stbrigids.ie/Content/2020/12/rp65-Parent_Staff_Communication_Policy.pdf",
+      "final_url": "https://stbrigids.ie/Content/2020/12/rp65-Parent_Staff_Communication_Policy.pdf",
+      "status": "robots_permission_unestablished_http_301",
+      "via": "school_public_link",
+      "label": "Parent Staff Communication Policy"
+    },
+    {
+      "url": "https://stbrigids.ie/Content/2020/12/gz29-Assessment_Policy.pdf",
+      "final_url": "https://stbrigids.ie/Content/2020/12/gz29-Assessment_Policy.pdf",
+      "status": "robots_permission_unestablished_http_301",
+      "via": "school_public_link",
+      "label": "Assessment Policy"
+    },
+    {
+      "url": "https://stbrigids.ie/Content/2020/12/dw18-AUP_Acceptable_Use_Policy.pdf",
+      "final_url": "https://stbrigids.ie/Content/2020/12/dw18-AUP_Acceptable_Use_Policy.pdf",
+      "status": "robots_permission_unestablished_http_301",
+      "via": "school_public_link",
+      "label": "AUP Acceptable Use Policy"
+    },
+    {
+      "url": "https://stbrigids.ie/Content/2020/12/cm40-Supervision_Policy_for_School_Tours_and_Excursions.pdf",
+      "final_url": "https://stbrigids.ie/Content/2020/12/cm40-Supervision_Policy_for_School_Tours_and_Excursions.pdf",
+      "status": "robots_permission_unestablished_http_301",
+      "via": "school_public_link",
+      "label": "Supervision Policy for School Tours and Excursions"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "16352U",
+      "url": "https://www.stbrigids.ie/page/Admissions-to-St-Brigids-BNS/307122/Index.html",
+      "label": "Prior school admissions section",
+      "sha256": "ef7f5e8944f6f30e9c4998f8d41101a1f1ec2390d0c3cfe49692699299669be5",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/16352U_ef7f5e8944f6f30e9c49.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1997
+    },
+    {
+      "roll": "16352U",
+      "url": "https://www.stbrigids.ie/Page/Admissions-to-St-Brigids-BNS/307122/Index.html",
+      "label": "Prior school admissions section",
+      "sha256": "9de0eb521461df3410e4b29424b6a9f925c7a43d015edf0e948d4c99bb52d74a",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/16352U_9de0eb521461df3410e4.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1997
+    },
+    {
+      "roll": "16352U",
+      "url": "https://storage.googleapis.com/iclasscrm_files/37/Images/Content/2026/292/wq86-Admissions_Policy_2026_2027.pdf",
+      "label": "Admissions Policy 2026/2027",
+      "sha256": "cb73fc1af0c697cc7d5cf96d49ae403424040279ccb6aa0dc9a2ca2d4ae74ba0",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/16352U_cb73fc1af0c697cc7d5c.txt",
+      "source_file": "database/milestone2/cache/cb73fc1af0c697cc7d5cf96d49ae403424040279ccb6aa0dc9a2ca2d4ae74ba0.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 25128
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://stbrigids.ie/Content/2021/11/wd81-Arrival___Dismissal_of_Pupils_Policy.pdf",
+      "label": "Arrival/Dismissal of Pupils Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stbrigids.ie/Content/2022/5/em14-St_Brigids_BNS_Charter_DaW.pdf",
+      "label": "St Brigid's BNS Charter DaW Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stbrigids.ie/Content/2022/5/el14-St._Brigids_BNS_DaW_Policy.pdf",
+      "label": "St. Brigid's BNS DaW Policy.",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stbrigids.ie/Content/2022/3/jw38-RSE_Policy.pdf",
+      "label": "RSE Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 50.23,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:50:24+0000"
+}

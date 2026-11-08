@@ -1,0 +1,359 @@
+{
+  "roll": "16754R",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.stvincentdepauljuniorschool.ie/enrolments/?googletranslate=true",
+      "final_url": "https://www.stvincentdepauljuniorschool.ie/enrolments/?googletranslate=true",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "https://www.stvincentdepauljuniorschool.ie/enrolments/",
+      "final_url": "https://www.stvincentdepauljuniorschool.ie/enrolments/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions/Enrolments"
+    },
+    {
+      "url": "https://www.stvincentdepauljuniorschool.ie/admin/?open=/enrolments/?googletranslate=true",
+      "final_url": "https://www.stvincentdepauljuniorschool.ie/admin/?open=/enrolments/?googletranslate=true",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.stvincentdepauljuniorschool.ie/admin/?open=/enrolments/",
+      "final_url": "https://www.stvincentdepauljuniorschool.ie/admin/?open=/enrolments/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.stvincentdepauljuniorschool.ie/our-school/policies/code-of-behaviour-2019-932/",
+      "final_url": "https://www.stvincentdepauljuniorschool.ie/our-school/policies/code-of-behaviour-2019-932/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Code Of Behaviour"
+    },
+    {
+      "url": "https://www.stvincentdepauljuniorschool.ie/our-school/policies/code-of-behaviour-2019-932/?googletranslate=true",
+      "final_url": "https://www.stvincentdepauljuniorschool.ie/our-school/policies/code-of-behaviour-2019-932/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stvincentdepauljuniorschool.ie/admin/?open=/our-school/policies/code-of-behaviour-2019-932/?googletranslate=true",
+      "final_url": "https://www.stvincentdepauljuniorschool.ie/admin/?open=/our-school/policies/code-of-behaviour-2019-932/?googletranslate=true",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.stvincentdepauljuniorschool.ie/admin/?open=/our-school/policies/code-of-behaviour-2019-932/",
+      "final_url": "https://www.stvincentdepauljuniorschool.ie/admin/?open=/our-school/policies/code-of-behaviour-2019-932/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.stvincentdepauljuniorschool.ie/sitemap.xml",
+      "final_url": "https://www.stvincentdepauljuniorschool.ie/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.stvincentdepauljuniorschool.ie/securedoclink/150/?open=true",
+      "final_url": "https://www.stvincentdepauljuniorschool.ie/cmsfiles/items/securedocs/3270-CodeOfBehaviour2026.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download"
+    },
+    {
+      "url": "https://www.stvincentdepauljuniorschool.ie/securedoclink/148/?open=true",
+      "final_url": "https://www.stvincentdepauljuniorschool.ie/cmsfiles/items/securedocs/9413-Parish-Boundaries.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download"
+    },
+    {
+      "url": "https://www.stvincentdepauljuniorschool.ie/securedoclink/146/?open=true",
+      "final_url": "https://www.stvincentdepauljuniorschool.ie/cmsfiles/items/securedocs/4756-StVincentdePaulJuniorSchoolAdmissionsPolicy2025to2028.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "St Vincent de Paul Junior School Admissions Policy"
+    },
+    {
+      "url": "https://www.stvincentdepauljuniorschool.ie/parents/stay-safe-programme/",
+      "final_url": "https://www.stvincentdepauljuniorschool.ie/parents/stay-safe-programme/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Stay Safe Programme"
+    },
+    {
+      "url": "https://www.stvincentdepauljuniorschool.ie/parents/stay-safe-programme/?googletranslate=true",
+      "final_url": "https://www.stvincentdepauljuniorschool.ie/parents/stay-safe-programme/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stvincentdepauljuniorschool.ie/parents/parking/",
+      "final_url": "https://www.stvincentdepauljuniorschool.ie/parents/parking/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parking"
+    },
+    {
+      "url": "https://www.stvincentdepauljuniorschool.ie/parents/parking/?googletranslate=true",
+      "final_url": "https://www.stvincentdepauljuniorschool.ie/parents/parking/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stvincentdepauljuniorschool.ie/parents/parents-association/",
+      "final_url": "https://www.stvincentdepauljuniorschool.ie/parents/parents-association/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents Association"
+    },
+    {
+      "url": "https://www.stvincentdepauljuniorschool.ie/parents/parents-association/?googletranslate=true",
+      "final_url": "https://www.stvincentdepauljuniorschool.ie/parents/parents-association/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stvincentdepauljuniorschool.ie/parents/parents-association-news/",
+      "final_url": "https://www.stvincentdepauljuniorschool.ie/parents/parents-association-news/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents' Association News"
+    },
+    {
+      "url": "https://www.stvincentdepauljuniorschool.ie/parents/parents-association-news/?googletranslate=true",
+      "final_url": "https://www.stvincentdepauljuniorschool.ie/parents/parents-association-news/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stvincentdepauljuniorschool.ie/parents/notification-re-the-boms-review-of-the-child-safeguarding-statement/",
+      "final_url": "https://www.stvincentdepauljuniorschool.ie/parents/notification-re-the-boms-review-of-the-child-safeguarding-statement/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Notification re. the BOM's review of the Child Safeguarding Statement"
+    },
+    {
+      "url": "https://www.stvincentdepauljuniorschool.ie/securedoclink/137/?open=true",
+      "final_url": "https://www.stvincentdepauljuniorschool.ie/cmsfiles/items/securedocs/20250210113617478.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download"
+    },
+    {
+      "url": "https://www.stvincentdepauljuniorschool.ie/parents/notification-re-the-boms-review-of-the-child-safeguarding-statement/?googletranslate=true",
+      "final_url": "https://www.stvincentdepauljuniorschool.ie/parents/notification-re-the-boms-review-of-the-child-safeguarding-statement/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stvincentdepauljuniorschool.ie/parents/links-for-parents/",
+      "final_url": "https://www.stvincentdepauljuniorschool.ie/parents/links-for-parents/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Links for parents"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "16754R",
+      "url": "https://www.stvincentdepauljuniorschool.ie/enrolments/?googletranslate=true",
+      "label": "",
+      "sha256": "12d62afbe3f64f0867e98e6810ebcfd31876ac09a01f7c62d24f370a9fcfd5e8",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/16754R_12d62afbe3f64f0867e9.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 990
+    },
+    {
+      "roll": "16754R",
+      "url": "https://www.stvincentdepauljuniorschool.ie/enrolments/",
+      "label": "Admissions/Enrolments",
+      "sha256": "afdceda1a4c207fddd3e97d991f01532678e1f87f7a92fef89225057a8ab17c6",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/16754R_afdceda1a4c207fddd3e.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 990
+    },
+    {
+      "roll": "16754R",
+      "url": "https://www.stvincentdepauljuniorschool.ie/cmsfiles/items/securedocs/4756-StVincentdePaulJuniorSchoolAdmissionsPolicy2025to2028.pdf",
+      "label": "St Vincent de Paul Junior School Admissions Policy",
+      "sha256": "b74a4d825879378304091f081183d8e5a5dbf5047f5c8722cd59322ca41dcacd",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/16754R_b74a4d82587937830409.txt",
+      "source_file": "database/milestone2/cache/b74a4d825879378304091f081183d8e5a5dbf5047f5c8722cd59322ca41dcacd.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 34410
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.stvincentdepauljuniorschool.ie/parents/links-for-parents/?googletranslate=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stvincentdepauljuniorschool.ie/parents/community-links-a/",
+      "label": "Community Links",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stvincentdepauljuniorschool.ie/parents/calendar/",
+      "label": "Calendar",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stvincentdepauljuniorschool.ie/parents/",
+      "label": "P.A.",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stvincentdepauljuniorschool.ie/our-school/stay-safe-a-parents-guide/",
+      "label": "Stay Safe, A Parent's Guide",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stvincentdepauljuniorschool.ie/our-school/school-info/",
+      "label": "School Information",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stvincentdepauljuniorschool.ie/our-school/policies/school-self-evaluation-report/",
+      "label": "School Self-Evaluation Report",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stvincentdepauljuniorschool.ie/our-school/policies/intercultural-guidelines/",
+      "label": "Intercultural Guidelines",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stvincentdepauljuniorschool.ie/our-school/policies/child-safeguarding-statement-and-risk-assessment/",
+      "label": "Child Safeguarding Statement and Risk Assessment",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stvincentdepauljuniorschool.ie/our-school/policies/child-safeguarding-review-/",
+      "label": "Child Safeguarding Review",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stvincentdepauljuniorschool.ie/our-school/policies/",
+      "label": "Policies and Statements",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stvincentdepauljuniorschool.ie/classes--blogs/news-archive/parents-association-bake-sale/",
+      "label": "Parent's Association Bake Sale",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stvincentdepauljuniorschool.ie/admin/?open=/parents/stay-safe-programme/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stvincentdepauljuniorschool.ie/admin/?open=/parents/stay-safe-programme/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stvincentdepauljuniorschool.ie/admin/?open=/parents/parking/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stvincentdepauljuniorschool.ie/admin/?open=/parents/parking/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stvincentdepauljuniorschool.ie/admin/?open=/parents/parents-association/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stvincentdepauljuniorschool.ie/admin/?open=/parents/parents-association/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stvincentdepauljuniorschool.ie/admin/?open=/parents/parents-association-news/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stvincentdepauljuniorschool.ie/admin/?open=/parents/parents-association-news/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stvincentdepauljuniorschool.ie/admin/?open=/parents/notification-re-the-boms-review-of-the-child-safeguarding-statement/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stvincentdepauljuniorschool.ie/admin/?open=/parents/notification-re-the-boms-review-of-the-child-safeguarding-statement/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stvincentdepauljuniorschool.ie/admin/?open=/parents/links-for-parents/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stvincentdepauljuniorschool.ie/",
+      "label": "School homepage",
+      "via": "home"
+    },
+    {
+      "url": "https://www.stvincentdepauljuniorschool.ie/our-school/policies/critical-incident-policy/",
+      "label": "Critical Incident Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stvincentdepauljuniorschool.ie/our-school/policies/anti-bullying-policy/",
+      "label": "Anti Bullying Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stvincentdepauljuniorschool.ie/our-school/policies/acceptable-use-policy-/",
+      "label": "Acceptable Use Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stvincentdepauljuniorschool.ie/cmsfiles/policies/privacy/",
+      "label": "Website Privacy Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stvincentdepauljuniorschool.ie/cmsfiles/policies/cookie/",
+      "label": "Cookie Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 76.15,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:03:14+0000"
+}

@@ -1,0 +1,469 @@
+{
+  "roll": "20304I",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.stfrancispsbelmayne.com",
+      "final_url": "https://www.stfrancispsbelmayne.com",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://swdcache.b-cdn.net/717/docletter/20260928024446_15_Annual-Admission-Notice-2027_-_2028.pdf",
+      "final_url": "https://swdcache.b-cdn.net/717/docletter/20260928024446_15_Annual-Admission-Notice-2027_-_2028.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Annual Admission Notice 2027 - 2028"
+    },
+    {
+      "url": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=TZ_D9s-s1kOIrv0kCbiaLqKvWr3Kq8NLqGM99Qq_kU5URElET0tCREc0UldCM0ZKMUhCQjZOTU9RRS4u&route=shorturl",
+      "final_url": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=TZ_D9s-s1kOIrv0kCbiaLqKvWr3Kq8NLqGM99Qq_kU5URElET0tCREc0UldCM0ZKMUhCQjZOTU9RRS4u&route=shorturl",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Late Admission Form: Senior Infants to 6th Class 2026-2027"
+    },
+    {
+      "url": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=TZ_D9s-s1kOIrv0kCbiaLqKvWr3Kq8NLqGM99Qq_kU5UQkRYMjg1VUpTSzhUNjI5SlEyM1c2TVBRSy4u&route=shorturl",
+      "final_url": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=TZ_D9s-s1kOIrv0kCbiaLqKvWr3Kq8NLqGM99Qq_kU5UQkRYMjg1VUpTSzhUNjI5SlEyM1c2TVBRSy4u&route=shorturl",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Late Admission Form: Junior Infants 2026 - 2027"
+    },
+    {
+      "url": "https://storage.googleapis.com/siteassetsswd/717/docletter/20230828054525_67_ADMISSION-POLICY_23_2_.pdf",
+      "final_url": "https://storage.googleapis.com/siteassetsswd/717/docletter/20230828054525_67_ADMISSION-POLICY_23_2_.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admission Policy"
+    },
+    {
+      "url": "https://www.stfrancispsbelmayne.com/sitemap.xml",
+      "final_url": "https://www.stfrancispsbelmayne.com/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.stfrancispsbelmayne.com/school-information/uniform/",
+      "final_url": "https://www.stfrancispsbelmayne.com/school-information/uniform/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Uniform"
+    },
+    {
+      "url": "https://www.stfrancispsbelmayne.com/school-information/uniform/?googletranslate=true",
+      "final_url": "https://www.stfrancispsbelmayne.com/school-information/uniform/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stfrancispsbelmayne.com/school-information/staff/",
+      "final_url": "https://www.stfrancispsbelmayne.com/school-information/staff/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Staff"
+    },
+    {
+      "url": "https://www.stfrancispsbelmayne.com/school-information/staff/?googletranslate=true",
+      "final_url": "https://www.stfrancispsbelmayne.com/school-information/staff/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stfrancispsbelmayne.com/school-information/school-times/",
+      "final_url": "https://www.stfrancispsbelmayne.com/school-information/school-times/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School & Office Times"
+    },
+    {
+      "url": "https://www.stfrancispsbelmayne.com/school-information/school-times/?googletranslate=true",
+      "final_url": "https://www.stfrancispsbelmayne.com/school-information/school-times/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stfrancispsbelmayne.com/school-information/history-of-the-school/",
+      "final_url": "https://www.stfrancispsbelmayne.com/school-information/history-of-the-school/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "History of the School"
+    },
+    {
+      "url": "https://www.stfrancispsbelmayne.com/school-information/history-of-the-school/?googletranslate=true",
+      "final_url": "https://www.stfrancispsbelmayne.com/school-information/history-of-the-school/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stfrancispsbelmayne.com/school-information/board-of-management/",
+      "final_url": "https://www.stfrancispsbelmayne.com/school-information/board-of-management/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Board of Management"
+    },
+    {
+      "url": "https://www.stfrancispsbelmayne.com/school-information/board-of-management/?googletranslate=true",
+      "final_url": "https://www.stfrancispsbelmayne.com/school-information/board-of-management/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stfrancispsbelmayne.com/school-information/a-message-from-the-principal/",
+      "final_url": "https://www.stfrancispsbelmayne.com/school-information/a-message-from-the-principal/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "A Message from the Principal"
+    },
+    {
+      "url": "https://www.stfrancispsbelmayne.com/school-information/a-message-from-the-principal/?googletranslate=true",
+      "final_url": "https://www.stfrancispsbelmayne.com/school-information/a-message-from-the-principal/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stfrancispsbelmayne.com/school-information/",
+      "final_url": "https://www.stfrancispsbelmayne.com/school-information/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Information"
+    },
+    {
+      "url": "https://www.stfrancispsbelmayne.com/school-information/school-crest/",
+      "final_url": "https://www.stfrancispsbelmayne.com/school-information/school-crest/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Crest"
+    },
+    {
+      "url": "https://www.stfrancispsbelmayne.com/school-information/school-crest/?googletranslate=true",
+      "final_url": "https://www.stfrancispsbelmayne.com/school-information/school-crest/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stfrancispsbelmayne.com/school-information/?googletranslate=true",
+      "final_url": "https://www.stfrancispsbelmayne.com/school-information/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stfrancispsbelmayne.com/policies/",
+      "final_url": "https://www.stfrancispsbelmayne.com/policies/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.stfrancispsbelmayne.com/documentlink/106/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/717/docletter/20260928024446_15_Annual-Admission-Notice-2027_-_2028.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Annual Admission Notice 2027 - 2028"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "20304I",
+      "url": "https://www.stfrancispsbelmayne.com",
+      "label": "School homepage",
+      "sha256": "bc1e2ba70371c4898c2cdabc7eac82d7922521ca3a381146c17e49a61b3a1207",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20304I_bc1e2ba70371c4898c2c.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 926
+    },
+    {
+      "roll": "20304I",
+      "url": "https://storage.googleapis.com/siteassetsswd/717/docletter/20230828054525_67_ADMISSION-POLICY_23_2_.pdf",
+      "label": "Admission Policy",
+      "sha256": "cf6d3ca0191c899c8b6417ec2e8f55066f5c0458920c5bad8c1a030d446202f8",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20304I_cf6d3ca0191c899c8b64.txt",
+      "source_file": "database/milestone2/cache/cf6d3ca0191c899c8b6417ec2e8f55066f5c0458920c5bad8c1a030d446202f8.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 21854
+    },
+    {
+      "roll": "20304I",
+      "url": "https://www.stfrancispsbelmayne.com/policies/",
+      "label": "Policies",
+      "sha256": "bd859205ce0654cb22aa2f375ed37ef1cb4a7b5a55f332f6c963ae5b9b96b048",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20304I_bd859205ce0654cb22aa.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 822
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.stfrancispsbelmayne.com/policies/?googletranslate=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfrancispsbelmayne.com/parentsguardians-area/tips-for-parents/",
+      "label": "Tips for Parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfrancispsbelmayne.com/parentsguardians-area/school-attendance/",
+      "label": "School Attendance",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfrancispsbelmayne.com/parentsguardians-area/parent-teacher-association/",
+      "label": "Parent Teacher Association (PTA)",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfrancispsbelmayne.com/parentsguardians-area/home-school-community-liaison-436/",
+      "label": "Home School Community Liaison",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfrancispsbelmayne.com/parentsguardians-area/faqs/",
+      "label": "Internet Safety Information",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfrancispsbelmayne.com/parentsguardians-area/calendar/?caltags=",
+      "label": "View Calendar",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfrancispsbelmayne.com/parentsguardians-area/calendar/",
+      "label": "Calendar",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfrancispsbelmayne.com/parentsguardians-area/bulletin/",
+      "label": "Bulletin",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfrancispsbelmayne.com/parentsguardians-area/after-school/",
+      "label": "After School Activities",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfrancispsbelmayne.com/parentsguardians-area/",
+      "label": "Parents/Guardians Area",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfrancispsbelmayne.com/documentlink/98/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfrancispsbelmayne.com/documentlink/97/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfrancispsbelmayne.com/documentlink/96/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfrancispsbelmayne.com/documentlink/92/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfrancispsbelmayne.com/documentlink/91/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfrancispsbelmayne.com/documentlink/79/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfrancispsbelmayne.com/documentlink/74/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfrancispsbelmayne.com/documentlink/74/?open=true",
+      "label": "Parental Complaints Procedure",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfrancispsbelmayne.com/documentlink/71/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfrancispsbelmayne.com/documentlink/45/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfrancispsbelmayne.com/documentlink/44/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfrancispsbelmayne.com/documentlink/44/?open=true",
+      "label": "Admission Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfrancispsbelmayne.com/documentlink/37/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfrancispsbelmayne.com/documentlink/32/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfrancispsbelmayne.com/documentlink/31/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfrancispsbelmayne.com/documentlink/30/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfrancispsbelmayne.com/documentlink/106/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfrancispsbelmayne.com/admin/?open=/school-information/uniform/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfrancispsbelmayne.com/admin/?open=/school-information/uniform/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfrancispsbelmayne.com/admin/?open=/school-information/staff/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfrancispsbelmayne.com/admin/?open=/school-information/staff/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfrancispsbelmayne.com/admin/?open=/school-information/school-times/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfrancispsbelmayne.com/admin/?open=/school-information/school-times/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfrancispsbelmayne.com/admin/?open=/school-information/school-crest/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfrancispsbelmayne.com/admin/?open=/school-information/school-crest/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfrancispsbelmayne.com/admin/?open=/school-information/history-of-the-school/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfrancispsbelmayne.com/admin/?open=/school-information/history-of-the-school/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfrancispsbelmayne.com/admin/?open=/school-information/board-of-management/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfrancispsbelmayne.com/admin/?open=/school-information/board-of-management/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfrancispsbelmayne.com/admin/?open=/school-information/a-message-from-the-principal/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfrancispsbelmayne.com/admin/?open=/school-information/a-message-from-the-principal/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfrancispsbelmayne.com/admin/?open=/school-information/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfrancispsbelmayne.com/admin/?open=/school-information/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfrancispsbelmayne.com/admin/?open=/policies/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfrancispsbelmayne.com/documentlink/37/?open=true",
+      "label": "Anti-Bullying Policy Review Notification 2023",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfrancispsbelmayne.com/documentlink/79/?open=true",
+      "label": "Bi Cinealta Policy 2025",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfrancispsbelmayne.com/documentlink/96/?open=true",
+      "label": "Internet Acceptable Use Policy (AUP)",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfrancispsbelmayne.com/documentlink/30/?open=true",
+      "label": "Data Protection Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfrancispsbelmayne.com/cmsfiles/policies/privacy/",
+      "label": "Website Privacy Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfrancispsbelmayne.com/cmsfiles/policies/cookie/",
+      "label": "Cookie Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 64.12,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:12:06+0000"
+}

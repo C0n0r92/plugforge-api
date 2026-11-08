@@ -1,0 +1,53 @@
+{
+  "roll": "01795A",
+  "original_url": "https://www.centralmodelinfantschool.ie/Content/2025/10/yt97-Annual_Admission_Notice_2025__26.docx",
+  "media_type": "docx",
+  "landing_url": null,
+  "target_url": "https://www.centralmodelinfantschool.ie/Content/2025/10/yt97-Annual_Admission_Notice_2025__26.docx",
+  "started_at": "2026-11-08T13:24:03.962719+00:00",
+  "captures_replayed": [],
+  "availability": {
+    "url": "https://www.centralmodelinfantschool.ie/Content/2025/10/yt97-Annual_Admission_Notice_2025__26.docx",
+    "archived_snapshots": {},
+    "timestamp": "20220101"
+  },
+  "index": {
+    "roll": "01795A",
+    "original_url": "https://www.centralmodelinfantschool.ie/Content/2025/10/yt97-Annual_Admission_Notice_2025__26.docx",
+    "method": "documented_CDX_exact_URL_all_available_dates",
+    "attempted_at": "2026-11-08T13:24:09.036085+00:00",
+    "params": {
+      "url": "https://www.centralmodelinfantschool.ie/Content/2025/10/yt97-Annual_Admission_Notice_2025__26.docx",
+      "matchType": "exact",
+      "output": "json",
+      "fl": "timestamp,original,mimetype,statuscode,digest",
+      "filter": "statuscode:200",
+      "collapse": "digest",
+      "limit": "200",
+      "showResumeKey": "true"
+    },
+    "earliest_year_cutoff": null,
+    "captures": [],
+    "pages": [
+      {
+        "at": "2026-11-08T13:24:14.927380+00:00",
+        "http_status": 200,
+        "params": {
+          "url": "https://www.centralmodelinfantschool.ie/Content/2025/10/yt97-Annual_Admission_Notice_2025__26.docx",
+          "matchType": "exact",
+          "output": "json",
+          "fl": "timestamp,original,mimetype,statuscode,digest",
+          "filter": "statuscode:200",
+          "collapse": "digest",
+          "limit": "200",
+          "showResumeKey": "true"
+        }
+      }
+    ],
+    "status": "index_complete",
+    "capture_count": 0
+  },
+  "indexed_captures_unreplayed_by_sample": 0,
+  "elapsed_seconds": 10.966,
+  "finished_at": "2026-11-08T13:24:14.928389+00:00"
+}

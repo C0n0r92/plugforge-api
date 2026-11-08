@@ -1,0 +1,50 @@
+{
+  "task_id": "d8b8f9c63eeb505ec624f005fd169118",
+  "roll": "00697S",
+  "capture": {
+    "digest": "KZXRZA2PH2EBSCGSFTSD3DOVFA3S46YH",
+    "mimetype": "text/html",
+    "original": "https://www.saintbrigids.ie/News/ACAT-Admissions-20262027/37881/Index.html",
+    "statuscode": "200",
+    "timestamp": "20251114003618"
+  },
+  "original_url": "https://www.saintbrigids.ie/News/ACAT-Admissions-20262027/37881/Index.html",
+  "archived_url": "https://web.archive.org/web/20251114003618/https://www.saintbrigids.ie/News/ACAT-Admissions-20262027/37881/Index.html",
+  "attempted_at": "2026-11-08T12:35:41.491144+00:00",
+  "http_status": 200,
+  "headers": {
+    "Content-Type": "text/html; charset=utf-8",
+    "memento-datetime": "Fri, 14 Nov 2025 00:36:18 GMT"
+  },
+  "payload_sha256": "aa588412543e9bac54711a19bb4469950e84d3c24f219e3d0e73783d7813e576",
+  "bytes": 78933,
+  "format": "html",
+  "archive_link_candidates": [
+    {
+      "url": "/web/20251114003618/https://www.saintbrigids.ie/Parent-Noticeboard/Index.html",
+      "label": "Parent Noticeboard"
+    },
+    {
+      "url": "/web/20251114003618/https://www.saintbrigids.ie/Mainstream-Admissions/Index.html",
+      "label": "Mainstream Admissions"
+    },
+    {
+      "url": "/web/20251114003618/https://www.saintbrigids.ie/Autism-Class-Admissions/Index.html",
+      "label": "Autism Class Admissions"
+    },
+    {
+      "url": "https://web.archive.org/web/20251114003618/https://www.saintbrigids.ie/Admissions/Index.html",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://web.archive.org/web/20251114003618/https://www.saintbrigids.ie/Parent-Noticeboard/Index.html",
+      "label": "Parent Noticeboard"
+    },
+    {
+      "url": "https://web.archive.org/web/20251114003618/https://www.saintbrigids.ie/Autism-Class-Admissions/Index.html",
+      "label": "Autism Class Admissions"
+    }
+  ],
+  "status": "archived_body_retrieved_requires_notice_evidence_review",
+  "text_file": "database/milestone2/evidence/archive_00697S_aa588412543e9bac5471.txt"
+}

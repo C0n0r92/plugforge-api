@@ -1,0 +1,360 @@
+{
+  "roll": "16860Q",
+  "status": "bounded_search_no_new_notice_found",
+  "attempts": [
+    {
+      "url": "https://www.corpuschristi.ie/admissions/admissions-notice/?googletranslate=true",
+      "final_url": "https://www.corpuschristi.ie/admissions/admissions-notice/?googletranslate=true",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "https://swdcache.b-cdn.net/842/docletter/20260901023558_95_Admissions_Notice_for_20272028.pdf",
+      "final_url": "https://swdcache.b-cdn.net/842/docletter/20260901023558_95_Admissions_Notice_for_20272028.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.corpuschristi.ie/documentlink/97/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/842/docletter/20260901023558_95_Admissions_Notice_for_20272028.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Admissions Notice for 20272028.pdf"
+    },
+    {
+      "url": "https://www.corpuschristi.ie/admissions/admissions-notice/",
+      "final_url": "https://www.corpuschristi.ie/admissions/admissions-notice/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions Notice"
+    },
+    {
+      "url": "https://www.corpuschristi.ie/admin/?open=/admissions/admissions-notice/?googletranslate=true",
+      "final_url": "https://www.corpuschristi.ie/admin/?open=/admissions/admissions-notice/?googletranslate=true",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.corpuschristi.ie/admin/?open=/admissions/admissions-notice/",
+      "final_url": "https://www.corpuschristi.ie/admin/?open=/admissions/admissions-notice/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.corpuschristi.ie/admissions/parish-map-/?googletranslate=true",
+      "final_url": "https://www.corpuschristi.ie/admissions/parish-map-/?googletranslate=true",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "https://www.corpuschristi.ie/admissions/parish-map-/",
+      "final_url": "https://www.corpuschristi.ie/admissions/parish-map-/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Parish Map"
+    },
+    {
+      "url": "https://www.corpuschristi.ie/admissions/application-link-for-special-class-/?googletranslate=true",
+      "final_url": "https://www.corpuschristi.ie/admissions/application-link-for-special-class-/?googletranslate=true",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "https://www.corpuschristi.ie/admissions/application-link-for-junior-infants-/?googletranslate=true",
+      "final_url": "https://www.corpuschristi.ie/admissions/application-link-for-junior-infants-/?googletranslate=true",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "https://www.corpuschristi.ie/admissions/application-link-for-junior-infants-/",
+      "final_url": "https://www.corpuschristi.ie/admissions/application-link-for-junior-infants-/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Application Link/Form for Junior Infants"
+    },
+    {
+      "url": "https://www.corpuschristi.ie/admissions/application-link-/?googletranslate=true",
+      "final_url": "https://www.corpuschristi.ie/admissions/application-link-/?googletranslate=true",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "https://swdcache.b-cdn.net/842/docletter/20240513082537_10_Admission-form-to-CCNS.-docx.pdf",
+      "final_url": "https://swdcache.b-cdn.net/842/docletter/20240513082537_10_Admission-form-to-CCNS.-docx.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.corpuschristi.ie/admissions/application-link-/",
+      "final_url": "https://www.corpuschristi.ie/admissions/application-link-/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Application Link/Form for General Admission"
+    },
+    {
+      "url": "https://www.corpuschristi.ie/admissions/advice-for-parents-/?googletranslate=true",
+      "final_url": "https://www.corpuschristi.ie/admissions/advice-for-parents-/?googletranslate=true",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "https://www.corpuschristi.ie/admissions/advice-for-parents-/",
+      "final_url": "https://www.corpuschristi.ie/admissions/advice-for-parents-/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Advice for Parents"
+    },
+    {
+      "url": "https://www.corpuschristi.ie/admissions/?googletranslate=true",
+      "final_url": "https://www.corpuschristi.ie/admissions/?googletranslate=true",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "https://www.corpuschristi.ie/admissions/",
+      "final_url": "https://www.corpuschristi.ie/admissions/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://www.corpuschristi.ie/admin/?open=/admissions/parish-map-/?googletranslate=true",
+      "final_url": "https://www.corpuschristi.ie/admin/?open=/admissions/parish-map-/?googletranslate=true",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.corpuschristi.ie/admin/?open=/admissions/parish-map-/",
+      "final_url": "https://www.corpuschristi.ie/admin/?open=/admissions/parish-map-/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.corpuschristi.ie/admin/?open=/admissions/application-link-for-special-class-/?googletranslate=true",
+      "final_url": "https://www.corpuschristi.ie/admin/?open=/admissions/application-link-for-special-class-/?googletranslate=true",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.corpuschristi.ie/admin/?open=/admissions/application-link-for-junior-infants-/?googletranslate=true",
+      "final_url": "https://www.corpuschristi.ie/admin/?open=/admissions/application-link-for-junior-infants-/?googletranslate=true",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.corpuschristi.ie/admin/?open=/admissions/application-link-for-junior-infants-/",
+      "final_url": "https://www.corpuschristi.ie/admin/?open=/admissions/application-link-for-junior-infants-/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.corpuschristi.ie/admin/?open=/admissions/application-link-/?googletranslate=true",
+      "final_url": "https://www.corpuschristi.ie/admin/?open=/admissions/application-link-/?googletranslate=true",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    }
+  ],
+  "documents": [],
+  "pending_links": [
+    {
+      "url": "https://www.corpuschristi.ie/admin/?open=/admissions/application-link-/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.corpuschristi.ie/admin/?open=/admissions/advice-for-parents-/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.corpuschristi.ie/admin/?open=/admissions/advice-for-parents-/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.corpuschristi.ie/admin/?open=/admissions/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.corpuschristi.ie/admin/?open=/admissions/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.corpuschristi.ie/sitemap.xml",
+      "label": "Public sitemap",
+      "via": "sitemap_root"
+    },
+    {
+      "url": "https://www.corpuschristi.ie/parents/wellbeing-940/",
+      "label": "Wellbeing",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.corpuschristi.ie/parents/seesaw/",
+      "label": "SeeSaw",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.corpuschristi.ie/parents/school-uniform-code/",
+      "label": "School Uniform Code",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.corpuschristi.ie/parents/parents-association/",
+      "label": "Parents Association",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.corpuschristi.ie/parents/complaints-procedure-/",
+      "label": "Complaints Procedure",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.corpuschristi.ie/parents/calendar/",
+      "label": "Calendar",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.corpuschristi.ie/parents/booklists/",
+      "label": "Booklists",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.corpuschristi.ie/parents/attendance-and-punctuality/",
+      "label": "Attendance and Punctuality",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.corpuschristi.ie/parents/arrival-and-dismissal-of-pupils/",
+      "label": "Arrival and Dismissal of pupils",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.corpuschristi.ie/parents/",
+      "label": "Parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.corpuschristi.ie/our-school/policies/",
+      "label": "Policies",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.corpuschristi.ie/documentlink/97/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.corpuschristi.ie/documentlink/36/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.corpuschristi.ie/documentlink/36/?open=true",
+      "label": "Application form for Admission to Special Class (Autism Class)",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.corpuschristi.ie/documentlink/35/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.corpuschristi.ie/documentlink/34/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.corpuschristi.ie/documentlink/32/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.corpuschristi.ie/documentlink/31/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.corpuschristi.ie/documentlink/30/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.corpuschristi.ie/documentlink/29/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.corpuschristi.ie/admissions/application-link-for-special-class-/",
+      "label": "Application Form for Autism Class",
+      "via": "prior_public_admissions_landing"
+    },
+    {
+      "url": "https://www.corpuschristi.ie/admissions/admissions-policy/?googletranslate=true",
+      "label": "",
+      "via": "prior_public_admissions_landing"
+    },
+    {
+      "url": "https://www.corpuschristi.ie/admissions/admissions-policy/",
+      "label": "Admissions Policy",
+      "via": "prior_public_admissions_landing"
+    },
+    {
+      "url": "https://www.corpuschristi.ie",
+      "label": "School homepage",
+      "via": "home"
+    },
+    {
+      "url": "https://www.corpuschristi.ie/parents/mobile-device-policy-/",
+      "label": "Mobile Device Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.corpuschristi.ie/parents/homework-policy/",
+      "label": "Homework Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.corpuschristi.ie/parents/healthy-lunch-policy/",
+      "label": "Healthy Lunch Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.corpuschristi.ie/cmsfiles/policies/privacy/",
+      "label": "Website Privacy Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.corpuschristi.ie/cmsfiles/policies/cookie/",
+      "label": "Cookie Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.corpuschristi.ie/child-protection/anti-bullying-policy/",
+      "label": "Anti-bullying Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 42.72,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:02:42+0000"
+}

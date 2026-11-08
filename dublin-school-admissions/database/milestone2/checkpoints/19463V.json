@@ -1,0 +1,464 @@
+{
+  "roll": "19463V",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.scoilmaelruainsenior.ie/policies/annual-admission-notice/",
+      "final_url": "https://www.scoilmaelruainsenior.ie/policies/annual-admission-notice/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Annual Admission Notice 2027/28"
+    },
+    {
+      "url": "https://www.scoilmaelruainsenior.ie/documentlink/145/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/893/docletter/20261012110656_40_2027-28_Annual_Admissions_Notice.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "2027-28 Annual Admissions Notice.pdf"
+    },
+    {
+      "url": "https://www.scoilmaelruainsenior.ie/policies/annual-admission-notice/?googletranslate=true",
+      "final_url": "https://www.scoilmaelruainsenior.ie/policies/annual-admission-notice/?googletranslate=true",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "https://www.scoilmaelruainsenior.ie/admin/?open=/policies/annual-admission-notice/?googletranslate=true",
+      "final_url": "https://www.scoilmaelruainsenior.ie/admin/?open=/policies/annual-admission-notice/?googletranslate=true",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.scoilmaelruainsenior.ie/admin/?open=/policies/annual-admission-notice/",
+      "final_url": "https://www.scoilmaelruainsenior.ie/admin/?open=/policies/annual-admission-notice/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.scoilmaelruainsenior.ie/forms/",
+      "final_url": "https://www.scoilmaelruainsenior.ie/forms/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://www.scoilmaelruainsenior.ie/documentlink/147/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/893/docletter/20261104111729_46_2027-2028_Annual_Admissions_Notice.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "2027-2028 Annual Admissions Notice.pdf"
+    },
+    {
+      "url": "https://www.scoilmaelruainsenior.ie/documentlink/146/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/893/docletter/20261104111718_98_Scoil_Maelruain_Senior_Application_for_Admission_Form_2027_2028.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Scoil Maelruain Senior Application for Admission Form 2027-2028.pdf"
+    },
+    {
+      "url": "https://www.scoilmaelruainsenior.ie/policies/health-and-safety-statement-2016/",
+      "final_url": "https://www.scoilmaelruainsenior.ie/policies/health-and-safety-statement-2016/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Health and Safety Statement"
+    },
+    {
+      "url": "https://www.scoilmaelruainsenior.ie/policies/health-and-safety-statement-2016/?googletranslate=true",
+      "final_url": "https://www.scoilmaelruainsenior.ie/policies/health-and-safety-statement-2016/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.scoilmaelruainsenior.ie/admin/?open=/policies/health-and-safety-statement-2016/?googletranslate=true",
+      "final_url": "https://www.scoilmaelruainsenior.ie/admin/?open=/policies/health-and-safety-statement-2016/?googletranslate=true",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.scoilmaelruainsenior.ie/admin/?open=/policies/health-and-safety-statement-2016/",
+      "final_url": "https://www.scoilmaelruainsenior.ie/admin/?open=/policies/health-and-safety-statement-2016/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.scoilmaelruainsenior.ie/sitemap.xml",
+      "final_url": "https://www.scoilmaelruainsenior.ie/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.scoilmaelruainsenior.ie/policies/school-improvement-plan-for-numeracy/",
+      "final_url": "https://www.scoilmaelruainsenior.ie/policies/school-improvement-plan-for-numeracy/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Improvement Plan for Numeracy"
+    },
+    {
+      "url": "https://www.scoilmaelruainsenior.ie/policies/school-improvement-plan-for-numeracy/?googletranslate=true",
+      "final_url": "https://www.scoilmaelruainsenior.ie/policies/school-improvement-plan-for-numeracy/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.scoilmaelruainsenior.ie/policies/school-improvement-plan-for-literacy/",
+      "final_url": "https://www.scoilmaelruainsenior.ie/policies/school-improvement-plan-for-literacy/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Improvement Plan for Literacy"
+    },
+    {
+      "url": "https://www.scoilmaelruainsenior.ie/policies/school-improvement-plan-for-literacy/?googletranslate=true",
+      "final_url": "https://www.scoilmaelruainsenior.ie/policies/school-improvement-plan-for-literacy/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.scoilmaelruainsenior.ie/policies/remote-learning-plan/",
+      "final_url": "https://www.scoilmaelruainsenior.ie/policies/remote-learning-plan/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Remote Learning Plan"
+    },
+    {
+      "url": "https://www.scoilmaelruainsenior.ie/policies/remote-learning-plan/?googletranslate=true",
+      "final_url": "https://www.scoilmaelruainsenior.ie/policies/remote-learning-plan/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.scoilmaelruainsenior.ie/policies/parental-complaints-procedure/",
+      "final_url": "https://www.scoilmaelruainsenior.ie/policies/parental-complaints-procedure/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parental Complaints Procedure"
+    },
+    {
+      "url": "https://www.scoilmaelruainsenior.ie/policies/parental-complaints-procedure/?googletranslate=true",
+      "final_url": "https://www.scoilmaelruainsenior.ie/policies/parental-complaints-procedure/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.scoilmaelruainsenior.ie/policies/code-of-behaviour/",
+      "final_url": "https://www.scoilmaelruainsenior.ie/policies/code-of-behaviour/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Code of Behaviour"
+    },
+    {
+      "url": "https://www.scoilmaelruainsenior.ie/policies/code-of-behaviour/?googletranslate=true",
+      "final_url": "https://www.scoilmaelruainsenior.ie/policies/code-of-behaviour/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.scoilmaelruainsenior.ie/policies/child-safeguarding-statement-and-risk-assessment/",
+      "final_url": "https://www.scoilmaelruainsenior.ie/policies/child-safeguarding-statement-and-risk-assessment/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Child Safeguarding Statement and Risk Assessment"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19463V",
+      "url": "https://www.scoilmaelruainsenior.ie/policies/annual-admission-notice/",
+      "label": "Annual Admission Notice 2027/28",
+      "sha256": "65437458a79831f64b69bb9e2c8f60f1f4b0eca7fc8def025c941db8d2bcf6c6",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19463V_65437458a79831f64b69.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 307
+    },
+    {
+      "roll": "19463V",
+      "url": "https://www.scoilmaelruainsenior.ie/policies/annual-admission-notice/?googletranslate=true",
+      "label": "",
+      "sha256": "062bdf7db013a69ed04f304822d3c25fb7e5992a76dfdc5942bbe52ffc27e4e7",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19463V_062bdf7db013a69ed04f.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 307
+    },
+    {
+      "roll": "19463V",
+      "url": "https://www.scoilmaelruainsenior.ie/forms/",
+      "label": "Admissions",
+      "sha256": "e9f0e40bc7d9b28feab616cff334c8521684adb794289ff3370bf16b66885feb",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19463V_e9f0e40bc7d9b28feab6.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1102
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.scoilmaelruainsenior.ie/policies/child-safeguarding-statement-and-risk-assessment/?googletranslate=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmaelruainsenior.ie/policies/admission-policy-of-scoil-maelruain-senior/?googletranslate=true",
+      "label": "",
+      "via": "prior_public_admissions_landing"
+    },
+    {
+      "url": "https://www.scoilmaelruainsenior.ie/policies/admission-policy-of-scoil-maelruain-senior/",
+      "label": "Admissions Policy",
+      "via": "prior_public_admissions_landing"
+    },
+    {
+      "url": "https://www.scoilmaelruainsenior.ie/policies/",
+      "label": "Policies",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmaelruainsenior.ie/parents/special-educational-needs-faqs/",
+      "label": "Special Educational Needs FAQs",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmaelruainsenior.ie/parents/parents-association/",
+      "label": "Parents' Association",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmaelruainsenior.ie/parents/newsletters/",
+      "label": "Newsletters",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmaelruainsenior.ie/parents/closuresholidays/",
+      "label": "Closures/Holidays",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmaelruainsenior.ie/parents/calendar/",
+      "label": "Calendar",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmaelruainsenior.ie/parents/",
+      "label": "Parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmaelruainsenior.ie/documentlink/81/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmaelruainsenior.ie/documentlink/70/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmaelruainsenior.ie/documentlink/70/?open=true",
+      "label": "Parental Complaints Procedure.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmaelruainsenior.ie/documentlink/147/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmaelruainsenior.ie/documentlink/146/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmaelruainsenior.ie/documentlink/145/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmaelruainsenior.ie/documentlink/141/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmaelruainsenior.ie/documentlink/141/?open=true",
+      "label": "Understanding Child Protection Procedures for Schools - Parents Guide.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmaelruainsenior.ie/documentlink/130/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmaelruainsenior.ie/documentlink/117/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmaelruainsenior.ie/documentlink/116/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmaelruainsenior.ie/documentlink/115/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmaelruainsenior.ie/admin/?open=/policies/school-improvement-plan-for-numeracy/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmaelruainsenior.ie/admin/?open=/policies/school-improvement-plan-for-numeracy/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmaelruainsenior.ie/admin/?open=/policies/school-improvement-plan-for-literacy/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmaelruainsenior.ie/admin/?open=/policies/school-improvement-plan-for-literacy/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmaelruainsenior.ie/admin/?open=/policies/remote-learning-plan/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmaelruainsenior.ie/admin/?open=/policies/remote-learning-plan/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmaelruainsenior.ie/admin/?open=/policies/parental-complaints-procedure/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmaelruainsenior.ie/admin/?open=/policies/parental-complaints-procedure/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmaelruainsenior.ie/admin/?open=/policies/code-of-behaviour/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmaelruainsenior.ie/admin/?open=/policies/code-of-behaviour/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmaelruainsenior.ie/admin/?open=/policies/child-safeguarding-statement-and-risk-assessment/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmaelruainsenior.ie",
+      "label": "School homepage",
+      "via": "home"
+    },
+    {
+      "url": "https://www.scoilmaelruainsenior.ie/policies/sustainability-policy-/",
+      "label": "Sustainability Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmaelruainsenior.ie/policies/rse-policy/",
+      "label": "RSE Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmaelruainsenior.ie/policies/policy-on-electronic-devices/",
+      "label": "Policy on Electronic Devices",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmaelruainsenior.ie/policies/parentteacher-communications-policy/",
+      "label": "Parent/Teacher Communications Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmaelruainsenior.ie/policies/homework-policy/",
+      "label": "Homework Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmaelruainsenior.ie/policies/healthy-eating-policy/",
+      "label": "Healthy Eating Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmaelruainsenior.ie/policies/dignity-in-the-workplace-policy/",
+      "label": "Dignity in the Workplace Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmaelruainsenior.ie/policies/data-protection-policy/",
+      "label": "Data Protection Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmaelruainsenior.ie/policies/attendance-policy-728/",
+      "label": "Attendance Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmaelruainsenior.ie/policies/assessment-policy/",
+      "label": "Assessment Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmaelruainsenior.ie/policies/anti-bullying-policy/",
+      "label": "Bí Cineálta Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmaelruainsenior.ie/policies/administration-of-medicines-policy-946/",
+      "label": "Administration of Medicines Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmaelruainsenior.ie/policies/additional-needs-policy/",
+      "label": "Additional Needs Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmaelruainsenior.ie/policies/acceptable-use-policy/",
+      "label": "Acceptable Use Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmaelruainsenior.ie/cmsfiles/policies/privacy/",
+      "label": "Website Privacy Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmaelruainsenior.ie/cmsfiles/policies/cookie/",
+      "label": "Cookie Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 62.7,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:06:30+0000"
+}

@@ -1,0 +1,25 @@
+{
+  "roll": "18362K",
+  "capture": {
+    "timestamp": "20250321000430",
+    "original": "https://scinfantsp.ie/admission-notice/",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "digest": "QN6YTV5X5EN2KJ4Q6NLRHKEAJELH7I4H"
+  },
+  "original_url": "https://scinfantsp.ie/admission-notice/",
+  "archived_url": "https://web.archive.org/web/20250321000430/https://scinfantsp.ie/admission-notice/",
+  "attempted_at": "2026-11-08T12:47:55.930534+00:00",
+  "linked_from_capture": null,
+  "http_status": 200,
+  "headers": {
+    "Content-Type": "text/html; charset=UTF-8",
+    "memento-datetime": "Fri, 21 Mar 2025 00:04:30 GMT"
+  },
+  "bytes": 69189,
+  "payload_sha256": "3e20d45fd98d992ac3ce6a22565507c4c39b886cdd7f891d9535e4fbd5c20001",
+  "format": "html",
+  "status": "archived_body_retrieved_requires_manual_evidence_review",
+  "text_file": "database/milestone2/evidence/exact_18362K_3e20d45fd98d992ac3ce.txt",
+  "linked_document_candidates": []
+}

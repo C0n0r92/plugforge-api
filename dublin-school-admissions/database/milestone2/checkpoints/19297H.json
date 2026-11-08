@@ -1,0 +1,279 @@
+{
+  "roll": "19297H",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.scoilfhursa.ie/wp-content/uploads/2023/09/Scoil-Fhursa-admissions2.jpg",
+      "final_url": "https://www.scoilfhursa.ie/wp-content/uploads/2023/09/Scoil-Fhursa-admissions2.jpg",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Scoil-Fhursa-admissions2"
+    },
+    {
+      "url": "https://www.scoilfhursa.ie/wp-content/uploads/2023/09/Scoil-Fhursa-admissions1.jpg",
+      "final_url": "https://www.scoilfhursa.ie/wp-content/uploads/2023/09/Scoil-Fhursa-admissions1.jpg",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Scoil-Fhursa-admissions1"
+    },
+    {
+      "url": "https://www.scoilfhursa.ie/admission/",
+      "final_url": "https://www.scoilfhursa.ie/admission/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admission"
+    },
+    {
+      "url": "https://www.scoilfhursa.ie/wp-content/uploads/2026/10/Application-for-Enrolment-to-Scoil-Fhursa-3-2.pdf",
+      "final_url": "https://www.scoilfhursa.ie/wp-content/uploads/2026/10/Application-for-Enrolment-to-Scoil-Fhursa-3-2.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Application for Enrolment to Scoil Fhursa 2026 2027"
+    },
+    {
+      "url": "https://www.scoilfhursa.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://www.scoilfhursa.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://www.scoilfhursa.ie/wp-content/uploads/2024/10/2023-PDF-Scoil-Fhursa-BoM-Admissions-Policy-.pdf",
+      "final_url": "https://www.scoilfhursa.ie/wp-content/uploads/2024/10/2023-PDF-Scoil-Fhursa-BoM-Admissions-Policy-.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "2023 PDF Scoil Fhursa BoM Admissions Policy"
+    },
+    {
+      "url": "https://www.scoilfhursa.ie/wp-content/uploads/2025/01/2024_2025-Scoil-Fhursa-BoM-Admissions-Policy-1-3.pdf",
+      "final_url": "https://www.scoilfhursa.ie/wp-content/uploads/2025/01/2024_2025-Scoil-Fhursa-BoM-Admissions-Policy-1-3.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "2024_2025 Scoil Fhursa BoM Admissions Policy"
+    },
+    {
+      "url": "https://www.scoilfhursa.ie/wp-content/uploads/2025/01/2024_2025-Scoil-Fhursa-BoM-Admissions-Policy-1-2.pdf",
+      "final_url": "https://www.scoilfhursa.ie/wp-content/uploads/2025/01/2024_2025-Scoil-Fhursa-BoM-Admissions-Policy-1-2.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "2024_2025 Scoil Fhursa BoM Admissions Policy"
+    },
+    {
+      "url": "https://www.scoilfhursa.ie/wp-content/uploads/2025/01/2024_2025-Scoil-Fhursa-BoM-Admissions-Policy-1-1.pdf",
+      "final_url": "https://www.scoilfhursa.ie/wp-content/uploads/2025/01/2024_2025-Scoil-Fhursa-BoM-Admissions-Policy-1-1.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "2024_2025 Scoil Fhursa BoM Admissions Policy"
+    },
+    {
+      "url": "https://www.scoilfhursa.ie/wp-content/uploads/2025/01/2024_2025-Scoil-Fhursa-BoM-Admissions-Policy-.pdf",
+      "final_url": "https://www.scoilfhursa.ie/wp-content/uploads/2025/01/2024_2025-Scoil-Fhursa-BoM-Admissions-Policy-.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "2024_2025 Scoil Fhursa BoM Admissions Policy"
+    },
+    {
+      "url": "https://www.scoilfhursa.ie/wp-content/uploads/2025/10/Scoil-Fhursa-2526-Admission-Policy.pdf",
+      "final_url": "https://www.scoilfhursa.ie/wp-content/uploads/2025/10/Scoil-Fhursa-2526-Admission-Policy.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Scoil Fhursa 2526 Admission Policy"
+    },
+    {
+      "url": "https://www.scoilfhursa.ie/wp-content/uploads/2023/09/Scoil-Fhursa-admissions2-600x400.jpg",
+      "final_url": "https://www.scoilfhursa.ie/wp-content/uploads/2023/09/Scoil-Fhursa-admissions2-600x400.jpg",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions/policy URL from public sitemap"
+    },
+    {
+      "url": "https://www.scoilfhursa.ie/wp-content/uploads/2023/09/Scoil-Fhursa-admissions1-600x400.jpg",
+      "final_url": "https://www.scoilfhursa.ie/wp-content/uploads/2023/09/Scoil-Fhursa-admissions1-600x400.jpg",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions/policy URL from public sitemap"
+    },
+    {
+      "url": "https://www.scoilfhursa.ie/sitemap_index.xml",
+      "final_url": "https://www.scoilfhursa.ie/sitemap_index.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.scoilfhursa.ie/school-policies/social-personal-health-education/",
+      "final_url": "https://www.scoilfhursa.ie/school-policies/social-personal-health-education/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Social Personal Health Education"
+    },
+    {
+      "url": "https://www.scoilfhursa.ie/school-policies/school-completion-programme/",
+      "final_url": "https://www.scoilfhursa.ie/school-policies/school-completion-programme/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Completion Programme"
+    },
+    {
+      "url": "https://www.scoilfhursa.ie/school-policies/home-school-community-liasion/",
+      "final_url": "https://www.scoilfhursa.ie/school-policies/home-school-community-liasion/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Home School Community Liasion"
+    },
+    {
+      "url": "https://www.scoilfhursa.ie/school-policies/discipline-for-learning/",
+      "final_url": "https://www.scoilfhursa.ie/school-policies/discipline-for-learning/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Discipline For Learning"
+    },
+    {
+      "url": "https://www.scoilfhursa.ie/school-policies/child-safeguarding/",
+      "final_url": "https://www.scoilfhursa.ie/school-policies/child-safeguarding/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Child Safeguarding"
+    },
+    {
+      "url": "https://www.scoilfhursa.ie/wp-content/themes/ed-school-child/documents/Scoil-Fhursa-Child-Safeguarding-review-notification-2025.pdf",
+      "final_url": "https://www.scoilfhursa.ie/wp-content/themes/ed-school-child/documents/Scoil-Fhursa-Child-Safeguarding-review-notification-2025.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Scoil Fhursa Child Safeguarding review notification-2025"
+    },
+    {
+      "url": "https://www.scoilfhursa.ie/wp-content/themes/ed-school-child/documents/2025-child-safeguarding-statement-2.pdf",
+      "final_url": "https://www.scoilfhursa.ie/wp-content/themes/ed-school-child/documents/2025-child-safeguarding-statement-2.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "2025 child safeguarding statement"
+    },
+    {
+      "url": "https://www.scoilfhursa.ie/school-policies/bi-cinealta/",
+      "final_url": "https://www.scoilfhursa.ie/school-policies/bi-cinealta/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Bi Cinealta"
+    },
+    {
+      "url": "https://www.scoilfhursa.ie/school-policies/anti-bullying/",
+      "final_url": "https://www.scoilfhursa.ie/school-policies/anti-bullying/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Anti Bullying"
+    },
+    {
+      "url": "https://www.scoilfhursa.ie/school-policies/",
+      "final_url": "https://www.scoilfhursa.ie/school-policies/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Information"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19297H",
+      "url": "https://www.scoilfhursa.ie/wp-content/uploads/2024/10/2023-PDF-Scoil-Fhursa-BoM-Admissions-Policy-.pdf",
+      "label": "2023 PDF Scoil Fhursa BoM Admissions Policy",
+      "sha256": "1711eaadaca07603fba916648e8981252206e89f7b8a751157dad4b2f9c048d4",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19297H_1711eaadaca07603fba9.txt",
+      "source_file": "database/milestone2/cache/1711eaadaca07603fba916648e8981252206e89f7b8a751157dad4b2f9c048d4.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 30762
+    },
+    {
+      "roll": "19297H",
+      "url": "https://www.scoilfhursa.ie/wp-content/uploads/2025/01/2024_2025-Scoil-Fhursa-BoM-Admissions-Policy-1-3.pdf",
+      "label": "2024_2025 Scoil Fhursa BoM Admissions Policy",
+      "sha256": "c239d990eb386a5a4bb9684b19224ef8cc0dac8fcf0e54614b71b98cd511ea91",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19297H_c239d990eb386a5a4bb9.txt",
+      "source_file": "database/milestone2/cache/c239d990eb386a5a4bb9684b19224ef8cc0dac8fcf0e54614b71b98cd511ea91.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 30864
+    },
+    {
+      "roll": "19297H",
+      "url": "https://www.scoilfhursa.ie/wp-content/uploads/2025/10/Scoil-Fhursa-2526-Admission-Policy.pdf",
+      "label": "Scoil Fhursa 2526 Admission Policy",
+      "sha256": "befea66367038f3fcaee358d85fef97ef821235458b98cdfc5f59d2784d6a2a5",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19297H_befea66367038f3fcaee.txt",
+      "source_file": "database/milestone2/cache/befea66367038f3fcaee358d85fef97ef821235458b98cdfc5f59d2784d6a2a5.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 27795
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.scoilfhursa.ie/wp-content/uploads/2025/11/2025-child-safeguarding-statement-2.pdf",
+      "label": "Download",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilfhursa.ie/wp-content/themes/ed-school-child/documents/sphe.pdf",
+      "label": "Download",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilfhursa.ie/wp-content/themes/ed-school-child/documents/school-completion-programme.pdf",
+      "label": "Download",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilfhursa.ie/wp-content/themes/ed-school-child/documents/home-school-community-liaison.pdf",
+      "label": "Download",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilfhursa.ie/wp-content/themes/ed-school-child/documents/dfl.pdf",
+      "label": "Download",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilfhursa.ie/post-sitemap.xml",
+      "label": "Public sitemap index child",
+      "via": "sitemap_child"
+    },
+    {
+      "url": "https://www.scoilfhursa.ie/page-sitemap.xml",
+      "label": "Public sitemap index child",
+      "via": "sitemap_child"
+    },
+    {
+      "url": "https://www.scoilfhursa.ie/msm_mega_menu-sitemap.xml",
+      "label": "Public sitemap index child",
+      "via": "sitemap_child"
+    },
+    {
+      "url": "https://www.scoilfhursa.ie/admission/principal-message/",
+      "label": "Admissions/policy URL from public sitemap",
+      "via": "prior_public_admissions_landing"
+    },
+    {
+      "url": "https://www.scoilfhursa.ie/admission/pricing/",
+      "label": "Admissions/policy URL from public sitemap",
+      "via": "prior_public_admissions_landing"
+    },
+    {
+      "url": "https://www.scoilfhursa.ie/admission/at-a-glance/",
+      "label": "Admissions/policy URL from public sitemap",
+      "via": "prior_public_admissions_landing"
+    },
+    {
+      "url": "https://www.scoilfhursa.ie",
+      "label": "School homepage",
+      "via": "home"
+    },
+    {
+      "url": "https://www.scoilfhursa.ie/wp-content/themes/ed-school-child/documents/anti-bullying-policy.pdf",
+      "label": "Download",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 83.63,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:45:45+0000"
+}

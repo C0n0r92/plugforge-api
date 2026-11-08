@@ -1,0 +1,80 @@
+{
+  "roll": "16333Q",
+  "attempted_at": "2026-11-08T12:48:13+0000",
+  "method": "documented_public_WordPress_media_notice_and_Irish_title_gap_search",
+  "attempts": [
+    {
+      "url": "https://stps.ie/wp-json/wp/v2/media?search=notice&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok"
+    },
+    {
+      "url": "https://stps.ie/wp-json/wp/v2/media?search=f%C3%B3gra&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok"
+    },
+    {
+      "url": "https://stps.ie/wp-content/uploads/2020/09/Annual-Admissions-Notice-2021-2022-1.pdf",
+      "status": "ok",
+      "label": "Annual Admissions Notice 2021-2022"
+    },
+    {
+      "url": "https://stps.ie/wp-content/uploads/2020/09/Annual-Admissions-Notice-2021-2022-2.pdf",
+      "status": "ok",
+      "label": "Annual Admissions Notice 2021-2022"
+    },
+    {
+      "url": "https://stps.ie/wp-content/uploads/2020/09/Annual-Admissions-Notice-2021-2022-3.pdf",
+      "status": "ok",
+      "label": "Annual Admissions Notice 2021-2022"
+    },
+    {
+      "url": "https://stps.ie/wp-content/uploads/2020/09/Annual-Admissions-Notice-2021-2022-4.pdf",
+      "status": "ok",
+      "label": "Annual Admissions Notice 2021-2022"
+    },
+    {
+      "url": "https://stps.ie/wp-content/uploads/2020/09/Annual-Admission-Notice.jpg",
+      "status": "ok",
+      "label": "Annual Admission Notice"
+    },
+    {
+      "url": "https://stps.ie/wp-content/uploads/2021/09/Annual-Admissions-Notice-2022-2023.png",
+      "status": "ok",
+      "label": "Annual Admissions Notice 2022-2023"
+    },
+    {
+      "url": "https://stps.ie/wp-content/uploads/2024/05/Annual_Admission_notice_2024_25.jpg",
+      "status": "ok",
+      "label": "Annual_Admission_notice_2024_25"
+    },
+    {
+      "url": "https://stps.ie/wp-content/uploads/2024/05/STPS-Annual-Admissions-Notice-AUTISM-CLASS-2024-2025-IMAGE.jpg",
+      "status": "ok",
+      "label": "STPS-Annual-Admissions-Notice-AUTISM-CLASS-2024-2025 IMAGE"
+    },
+    {
+      "url": "https://stps.ie/wp-content/uploads/2024/06/STPS-Annual-Admissions-Notice-AUTISM-CLASS-2024_2025_v5.5.6.24.jpg",
+      "status": "ok",
+      "label": "STPS Annual Admissions Notice AUTISM CLASS 2024_2025_v5.5.6.24"
+    },
+    {
+      "url": "https://stps.ie/wp-content/uploads/2024/10/THUMB_Admissions-Notice-2025-26-school-year.jpg",
+      "status": "ok",
+      "label": "THUMB_Admissions Notice 2025 26 school year"
+    },
+    {
+      "url": "https://stps.ie/wp-content/uploads/2025/10/2026-2027-STPS-Annual-Admission-Notice-JPG.jpg",
+      "status": "ok",
+      "label": "2026 2027 STPS Annual Admission Notice JPG"
+    },
+    {
+      "url": "https://stps.ie/wp-content/uploads/2026/10/2027-2028-STPS-annual-admission-notice_jpg.jpg",
+      "status": "ok",
+      "label": "2027-2028 STPS annual admission notice_jpg"
+    }
+  ],
+  "documents": [],
+  "pending_links": [],
+  "earliest_year_cutoff": null,
+  "status": "attempted_no_new_notice_payload",
+  "elapsed_seconds": 47.4
+}

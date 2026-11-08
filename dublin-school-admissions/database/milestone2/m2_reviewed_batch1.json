@@ -1,0 +1,635 @@
+[
+  {
+    "roll": "16333Q",
+    "url": "https://stps.ie/wp-content/uploads/2020/09/Annual-Admissions-Notice-2021-2022.pdf",
+    "label": "Annual Admissions Notice 2021-2022",
+    "sha256": "e53f865e47f758b6331d3b40ce57ac059e49efeaf83c0aef0a2dd9a4343093a2",
+    "format": "pdf",
+    "text_file": "database/milestone2/evidence/16333Q_e53f865e47f758b6331d.txt",
+    "source_file": "database/milestone2/cache/e53f865e47f758b6331d3b40ce57ac059e49efeaf83c0aef0a2dd9a4343093a2.pdf",
+    "candidate_status": "notice_body_candidate_requires_evidence_review",
+    "text_length": 4476,
+    "retrieval_url": "https://stps.ie/wp-content/uploads/2020/09/Annual-Admissions-Notice-2021-2022.pdf",
+    "groups": [
+      {
+        "title": "2021/2022",
+        "phase": "upcoming",
+        "year": "2021/2022",
+        "cohort": "Junior Infants",
+        "lo": 43,
+        "hi": 50,
+        "metrics": {
+          "places": 84
+        },
+        "notes": "",
+        "scope": "whole_table"
+      },
+      {
+        "title": "2021/2022",
+        "phase": "pre_commencement",
+        "year": "2021/2022",
+        "cohort": "Junior Infants",
+        "lo": 46,
+        "hi": 50,
+        "metrics": {
+          "offers": 12,
+          "acceptances": 12
+        },
+        "notes": "Only offers already made and accepted before commencement of Section62, not all intake offers or acceptances.",
+        "scope": "already_offered_and_accepted_before_Act_commencement"
+      },
+      {
+        "title": "2021/2022",
+        "phase": "retrospective",
+        "year": "2020/2021",
+        "cohort": "Junior Infants",
+        "lo": 56,
+        "hi": 86,
+        "metrics": {
+          "places": 84,
+          "applications": 96,
+          "waiting_list_names_placed": 12
+        },
+        "notes": "Edition conflict: applications96/list12 versus90/list6. Only criterion offers-and-acceptances printed, no whole-intake total inferred.",
+        "scope": "whole_table"
+      },
+      {
+        "title": "2021/2022",
+        "phase": "criterion_detail",
+        "year": "2020/2021",
+        "cohort": "Junior Infants: CriterionA parish/sibling group",
+        "lo": 66,
+        "hi": 70,
+        "metrics": {
+          "offers": 84,
+          "acceptances": 84
+        },
+        "notes": "Criterion-specific, not an inferred aggregate acceptance count.",
+        "scope": "whole_table"
+      }
+    ]
+  },
+  {
+    "roll": "16333Q",
+    "url": "https://stps.ie/wp-content/uploads/2020/08/St.-Patricks-JNS-Annual-Admissions-Notice-2021-2022.pdf",
+    "label": "St. Patrick&#8217;s JNS Annual Admissions Notice 2021 2022",
+    "sha256": "da94b4ecf3e3ad2d082315b74564d29bf19e2d154c012f5241aa4c4af5b62cd0",
+    "format": "pdf",
+    "text_file": "database/milestone2/evidence/16333Q_da94b4ecf3e3ad2d0823.txt",
+    "source_file": "database/milestone2/cache/da94b4ecf3e3ad2d082315b74564d29bf19e2d154c012f5241aa4c4af5b62cd0.pdf",
+    "candidate_status": "notice_body_candidate_requires_evidence_review",
+    "text_length": 3957,
+    "retrieval_url": "https://stps.ie/wp-content/uploads/2020/08/St.-Patricks-JNS-Annual-Admissions-Notice-2021-2022.pdf",
+    "groups": [
+      {
+        "title": "2021/2022",
+        "phase": "upcoming",
+        "year": "2021/2022",
+        "cohort": "Junior Infants",
+        "lo": 43,
+        "hi": 50,
+        "metrics": {
+          "places": 84
+        },
+        "notes": "",
+        "scope": "whole_table"
+      },
+      {
+        "title": "2021/2022",
+        "phase": "pre_commencement",
+        "year": "2021/2022",
+        "cohort": "Junior Infants",
+        "lo": 47,
+        "hi": 50,
+        "metrics": {
+          "offers": 11,
+          "acceptances": 11
+        },
+        "notes": "Only offers already made and accepted before commencement of Section62, not all intake offers or acceptances.",
+        "scope": "already_offered_and_accepted_before_Act_commencement"
+      },
+      {
+        "title": "2021/2022",
+        "phase": "retrospective",
+        "year": "2020/2021",
+        "cohort": "Junior Infants",
+        "lo": 52,
+        "hi": 86,
+        "metrics": {
+          "places": 84,
+          "applications": 90,
+          "waiting_list_names_placed": 6
+        },
+        "notes": "Edition conflict: applications96/list12 versus90/list6. Only criterion offers-and-acceptances printed, no whole-intake total inferred.",
+        "scope": "whole_table"
+      },
+      {
+        "title": "2021/2022",
+        "phase": "criterion_detail",
+        "year": "2020/2021",
+        "cohort": "Junior Infants: CriterionA parish/sibling group",
+        "lo": 63,
+        "hi": 67,
+        "metrics": {
+          "offers": 84,
+          "acceptances": 84
+        },
+        "notes": "Criterion-specific, not an inferred aggregate acceptance count.",
+        "scope": "whole_table"
+      }
+    ]
+  },
+  {
+    "roll": "20043G",
+    "url": "https://gaelscoilchnocliamhna.ie/wp-content/uploads/2020/09/Fógra-Bliantúil.docx",
+    "label": "Prior school admissions section",
+    "sha256": "edbbb83565a5a0658d615d980c34734e58471874e3518332fdb98d3f927faaeb",
+    "format": "docx",
+    "text_file": "database/milestone2/evidence/20043G_edbbb83565a5a0658d61.txt",
+    "source_file": null,
+    "candidate_status": "notice_body_candidate_requires_evidence_review",
+    "text_length": 1366,
+    "retrieval_url": "https://gaelscoilchnocliamhna.ie/wp-content/uploads/2020/09/Fógra-Bliantúil.docx",
+    "groups": [
+      {
+        "title": "2021/2022",
+        "phase": "upcoming",
+        "year": "2021/2022",
+        "cohort": "Junior Infants",
+        "lo": 29,
+        "hi": 32,
+        "metrics": {
+          "places": 30
+        },
+        "notes": "",
+        "scope": "whole_table"
+      }
+    ]
+  },
+  {
+    "roll": "20043G",
+    "url": "https://gaelscoilchnocliamhna.ie/wp-content/uploads/2022/09/Fogra-Iontrala-Bliantiuil-23-24.docx",
+    "label": "Prior school admissions section",
+    "sha256": "d9857d7d748d764738099bfc8cff4ff4d1604d4eeafc3d30f15eabffe3d6ac70",
+    "format": "docx",
+    "text_file": "database/milestone2/evidence/20043G_d9857d7d748d76473809.txt",
+    "source_file": null,
+    "candidate_status": "notice_body_candidate_requires_evidence_review",
+    "text_length": 1495,
+    "retrieval_url": "https://gaelscoilchnocliamhna.ie/wp-content/uploads/2022/09/Fogra-Iontrala-Bliantiuil-23-24.docx",
+    "groups": [
+      {
+        "title": "2023/2024",
+        "phase": "upcoming",
+        "year": "2023/2024",
+        "cohort": "Junior Infants",
+        "lo": 27,
+        "hi": 30,
+        "metrics": {
+          "places": 29
+        },
+        "notes": "",
+        "scope": "whole_table"
+      }
+    ]
+  },
+  {
+    "roll": "20043G",
+    "url": "https://gaelscoilchnocliamhna.ie/wp-content/uploads/2023/09/Fogra-Iontrala-Bliantiuil-24-25.docx",
+    "label": "Prior school admissions section",
+    "sha256": "66fed4a4d0b44aafa09fca41377122f821b36c2903012b6771759d911647b24c",
+    "format": "docx",
+    "text_file": "database/milestone2/evidence/20043G_66fed4a4d0b44aafa09f.txt",
+    "source_file": null,
+    "candidate_status": "notice_body_candidate_requires_evidence_review",
+    "text_length": 1636,
+    "retrieval_url": "https://gaelscoilchnocliamhna.ie/wp-content/uploads/2023/09/Fogra-Iontrala-Bliantiuil-24-25.docx",
+    "groups": [
+      {
+        "title": "2024/2025",
+        "phase": "upcoming",
+        "year": "2024/2025",
+        "cohort": "Junior Infants",
+        "lo": 29,
+        "hi": 32,
+        "metrics": {
+          "places": 29
+        },
+        "notes": "",
+        "scope": "whole_table"
+      }
+    ]
+  },
+  {
+    "roll": "20052H",
+    "url": "https://gaelscoilcholmcille.ie/wp-content/uploads/2024/10/fogra-iontrala-do-25.26.docx",
+    "label": "Prior school admissions section",
+    "sha256": "64878ab896443c92ce8b07766e8b40896d672da333297ac765d4076afa0ca2ba",
+    "format": "docx",
+    "text_file": "database/milestone2/evidence/20052H_64878ab896443c92ce8b.txt",
+    "source_file": null,
+    "candidate_status": "notice_body_candidate_requires_evidence_review",
+    "text_length": 1520,
+    "retrieval_url": "https://gaelscoilcholmcille.ie/wp-content/uploads/2024/10/fogra-iontrala-do-25.26.docx",
+    "groups": [
+      {
+        "title": "2025/2026",
+        "phase": "upcoming",
+        "year": "2025/2026",
+        "cohort": "Junior Infants",
+        "lo": 30,
+        "hi": 34,
+        "metrics": {
+          "places": 26
+        },
+        "notes": "",
+        "scope": "whole_table"
+      }
+    ]
+  },
+  {
+    "roll": "20052H",
+    "url": "https://gaelscoilcholmcille.ie/wp-content/uploads/2020/09/Fógra-iontrála-do-2021.docx",
+    "label": "Prior school admissions section",
+    "sha256": "0ab09afc8a9273a908a1cbf651920298ab5efa36b491b7fec1dff7de19119d09",
+    "format": "docx",
+    "text_file": "database/milestone2/evidence/20052H_0ab09afc8a9273a908a1.txt",
+    "source_file": null,
+    "candidate_status": "notice_body_candidate_requires_evidence_review",
+    "text_length": 2659,
+    "retrieval_url": "https://gaelscoilcholmcille.ie/wp-content/uploads/2020/09/Fógra-iontrála-do-2021.docx",
+    "groups": [
+      {
+        "title": "2021/2022",
+        "phase": "upcoming",
+        "year": "2021/2022",
+        "cohort": "Junior Infants",
+        "lo": 36,
+        "hi": 40,
+        "metrics": {
+          "places": 28
+        },
+        "notes": "",
+        "scope": "whole_table"
+      },
+      {
+        "title": "2021/2022",
+        "phase": "registration_interest",
+        "year": "2020/2021",
+        "cohort": "Junior Infants",
+        "lo": 44,
+        "hi": 49,
+        "metrics": {
+          "registrations_of_interest": 86
+        },
+        "notes": "Irish léiriú suime explicitly expression of interest, not47 formal applications.",
+        "scope": "expressions_of_interest"
+      },
+      {
+        "title": "2021/2022",
+        "phase": "retrospective",
+        "year": "2020/2021",
+        "cohort": "Junior Infants",
+        "lo": 44,
+        "hi": 66,
+        "metrics": {
+          "places": 28,
+          "applications": 47,
+          "offers": 28
+        },
+        "notes": "First-round table. Waiting-list19+ is a lower bound with additional age-qualified children; not imported as exact19 names.",
+        "scope": "first_round_table"
+      },
+      {
+        "title": "2021/2022",
+        "phase": "retrospective",
+        "year": "2020/2021",
+        "cohort": "Junior Infants",
+        "lo": 64,
+        "hi": 66,
+        "metrics": {
+          "waiting_list_names_lower_bound": 19
+        },
+        "notes": "Printed19+ plus list of children turning4 in March/April; no exact total inferred.",
+        "scope": "lower_bound_not_exact_total",
+        "metric_definitions": {
+          "waiting_list_names_lower_bound": "Explicit lower bound on waiting-list names, including printed plus sign; not an exact total."
+        }
+      },
+      {
+        "title": "2021/2022",
+        "phase": "snapshot",
+        "year": "2020/2021",
+        "cohort": "Junior Infants",
+        "lo": 60,
+        "hi": 63,
+        "metrics": {
+          "offers": 33
+        },
+        "notes": "Explicit cumulative33 offers as of30.04.20, separate from first-round28; no inferred waiting-list offers.",
+        "scope": "cumulative_2020_04_30",
+        "as_of": "2020-04-30"
+      },
+      {
+        "title": "2021/2022",
+        "phase": "waiting_event",
+        "year": "2020/2021",
+        "cohort": "Junior Infants",
+        "lo": 63,
+        "hi": 63,
+        "metrics": {
+          "accepted_place_withdrawals": {
+            "value": 5,
+            "word": "cúigear"
+          }
+        },
+        "notes": "Irish cúigear ag tarraingt amach explicitly five withdrawing. Not counted as five admissions from waiting list.",
+        "scope": "explicit_accepted_place_withdrawals",
+        "metric_definitions": {
+          "accepted_place_withdrawals": "Explicit count of accepted-place withdrawals; not an inferred difference or count of replacement admissions."
+        }
+      }
+    ]
+  },
+  {
+    "roll": "20052H",
+    "url": "https://gaelscoilcholmcille.ie/wp-content/uploads/2021/10/fogra-iontrala-2022-1.docx",
+    "label": "Prior school admissions section",
+    "sha256": "d8b260eb200d1286d8c74c76cf1adb8fed5e934220d4f8e58c8387f2aa1e0217",
+    "format": "docx",
+    "text_file": "database/milestone2/evidence/20052H_d8b260eb200d1286d8c7.txt",
+    "source_file": null,
+    "candidate_status": "notice_body_candidate_requires_evidence_review",
+    "text_length": 2850,
+    "retrieval_url": "https://gaelscoilcholmcille.ie/wp-content/uploads/2021/10/fogra-iontrala-2022-1.docx",
+    "groups": [
+      {
+        "title": "2022/2023",
+        "phase": "upcoming",
+        "year": "2022/2023",
+        "cohort": "Junior Infants",
+        "lo": 32,
+        "hi": 35,
+        "metrics": {
+          "places": 28
+        },
+        "notes": "",
+        "scope": "whole_table"
+      },
+      {
+        "title": "2022/2023",
+        "phase": "retrospective",
+        "year": "2021/2022",
+        "cohort": "Junior Infants",
+        "lo": 39,
+        "hi": 60,
+        "metrics": {
+          "places": 28,
+          "applications": 43,
+          "offers": 28,
+          "waiting_list_names_placed": 15
+        },
+        "notes": "First-round table only; cumulative39 at31/07/21 kept separately.",
+        "scope": "first_round_table"
+      },
+      {
+        "title": "2022/2023",
+        "phase": "snapshot",
+        "year": "2021/2022",
+        "cohort": "Junior Infants",
+        "lo": 56,
+        "hi": 58,
+        "metrics": {
+          "offers": 39
+        },
+        "notes": "Explicit cumulative39 offers at31/07/21; never infer39-28 waiting-list offers.",
+        "scope": "cumulative_2021_07_31",
+        "as_of": "2021-07-31"
+      }
+    ]
+  },
+  {
+    "roll": "20309S",
+    "url": "https://hopejns.ie/wp-content/uploads/2024/10/MMH-JNS-ACAT-Admissions-Notice-and-Appendix.pdf",
+    "label": "MMH JNS ACAT Admissions Notice and Appendix",
+    "sha256": "eeda8d231a1c24c69cb0d67c7615c13f7eb53276bc746bead566c19701dd5a36",
+    "format": "pdf",
+    "text_file": "database/milestone2/evidence/20309S_eeda8d231a1c24c69cb0.txt",
+    "source_file": "database/milestone2/cache/eeda8d231a1c24c69cb0d67c7615c13f7eb53276bc746bead566c19701dd5a36.pdf",
+    "candidate_status": "notice_body_candidate_requires_evidence_review",
+    "text_length": 9773,
+    "retrieval_url": "https://hopejns.ie/wp-content/uploads/2024/10/MMH-JNS-ACAT-Admissions-Notice-and-Appendix.pdf",
+    "groups": [
+      {
+        "title": "2025/2026",
+        "phase": "upcoming",
+        "year": "2025/2026",
+        "cohort": "Junior Autism class: Junior Infants to Second Class",
+        "lo": 70,
+        "hi": 75,
+        "metrics": {
+          "places": 2
+        },
+        "notes": "",
+        "scope": "whole_table"
+      },
+      {
+        "title": "2025/2026",
+        "phase": "upcoming",
+        "year": "2025/2026",
+        "cohort": "Senior Autism class",
+        "lo": 70,
+        "hi": 75,
+        "metrics": {
+          "places": 0
+        },
+        "notes": "Source senior age/class group N/A; available spaces explicitly0.",
+        "scope": "whole_table"
+      },
+      {
+        "title": "2025/2026",
+        "phase": "retrospective",
+        "year": "2024/2025",
+        "cohort": "Autism classes",
+        "lo": 78,
+        "hi": 91,
+        "metrics": {
+          "places": 5,
+          "applications": 21,
+          "offers": 5,
+          "waiting_list_names_placed": 0
+        },
+        "notes": "Three payload editions conflict on waiting-list0 versus16. No chronological movement inferred; no sum of criterion2+3 as acceptances.",
+        "scope": "whole_table"
+      }
+    ]
+  },
+  {
+    "roll": "20309S",
+    "url": "https://hopejns.ie/wp-content/uploads/2024/10/MMH-JNS-ACAT-Admissions-Notice-and-Appendix-2.pdf",
+    "label": "MMH JNS ACAT Admissions Notice and Appendix",
+    "sha256": "c1a9d4deafbf3d55d3a3a7d6a232a52d79838f0280674f87416c26627a58dc54",
+    "format": "pdf",
+    "text_file": "database/milestone2/evidence/20309S_c1a9d4deafbf3d55d3a3.txt",
+    "source_file": "database/milestone2/cache/c1a9d4deafbf3d55d3a3a7d6a232a52d79838f0280674f87416c26627a58dc54.pdf",
+    "candidate_status": "notice_body_candidate_requires_evidence_review",
+    "text_length": 9773,
+    "retrieval_url": "https://hopejns.ie/wp-content/uploads/2024/10/MMH-JNS-ACAT-Admissions-Notice-and-Appendix-2.pdf",
+    "groups": [
+      {
+        "title": "2025/2026",
+        "phase": "upcoming",
+        "year": "2025/2026",
+        "cohort": "Junior Autism class: Junior Infants to Second Class",
+        "lo": 70,
+        "hi": 75,
+        "metrics": {
+          "places": 2
+        },
+        "notes": "",
+        "scope": "whole_table"
+      },
+      {
+        "title": "2025/2026",
+        "phase": "upcoming",
+        "year": "2025/2026",
+        "cohort": "Senior Autism class",
+        "lo": 70,
+        "hi": 75,
+        "metrics": {
+          "places": 0
+        },
+        "notes": "Source senior age/class group N/A; available spaces explicitly0.",
+        "scope": "whole_table"
+      },
+      {
+        "title": "2025/2026",
+        "phase": "retrospective",
+        "year": "2024/2025",
+        "cohort": "Autism classes",
+        "lo": 78,
+        "hi": 91,
+        "metrics": {
+          "places": 5,
+          "applications": 21,
+          "offers": 5,
+          "waiting_list_names_placed": 16
+        },
+        "notes": "Three payload editions conflict on waiting-list0 versus16. No chronological movement inferred; no sum of criterion2+3 as acceptances.",
+        "scope": "whole_table"
+      }
+    ]
+  },
+  {
+    "roll": "20309S",
+    "url": "https://hopejns.ie/wp-content/uploads/2024/10/MMH-JNS-ACAT-Admissions-Notice-and-Appendix-1.pdf",
+    "label": "MMH JNS ACAT Admissions Notice and Appendix",
+    "sha256": "915afd09c6a3e50366106615095ddfaa944e838f4084286013528c835ddaabef",
+    "format": "pdf",
+    "text_file": "database/milestone2/evidence/20309S_915afd09c6a3e5036610.txt",
+    "source_file": "database/milestone2/cache/915afd09c6a3e50366106615095ddfaa944e838f4084286013528c835ddaabef.pdf",
+    "candidate_status": "notice_body_candidate_requires_evidence_review",
+    "text_length": 9772,
+    "retrieval_url": "https://hopejns.ie/wp-content/uploads/2024/10/MMH-JNS-ACAT-Admissions-Notice-and-Appendix-1.pdf",
+    "groups": [
+      {
+        "title": "2025/2026",
+        "phase": "upcoming",
+        "year": "2025/2026",
+        "cohort": "Junior Autism class: Junior Infants to Second Class",
+        "lo": 70,
+        "hi": 75,
+        "metrics": {
+          "places": 2
+        },
+        "notes": "",
+        "scope": "whole_table"
+      },
+      {
+        "title": "2025/2026",
+        "phase": "upcoming",
+        "year": "2025/2026",
+        "cohort": "Senior Autism class",
+        "lo": 70,
+        "hi": 75,
+        "metrics": {
+          "places": 0
+        },
+        "notes": "Source senior age/class group N/A; available spaces explicitly0.",
+        "scope": "whole_table"
+      },
+      {
+        "title": "2025/2026",
+        "phase": "retrospective",
+        "year": "2024/2025",
+        "cohort": "Autism classes",
+        "lo": 78,
+        "hi": 91,
+        "metrics": {
+          "places": 5,
+          "applications": 21,
+          "offers": 5,
+          "waiting_list_names_placed": 0
+        },
+        "notes": "Three payload editions conflict on waiting-list0 versus16. No chronological movement inferred; no sum of criterion2+3 as acceptances.",
+        "scope": "whole_table"
+      }
+    ]
+  },
+  {
+    "roll": "20384J",
+    "url": "https://www.powerstownet.com/wp-content/uploads/2020/10/BCS-Admissions-Notice-3.pdf",
+    "label": "BCS Admissions Notice (3)",
+    "sha256": "03a925cd3c70e0c62fb506a46dd798b5de75f0bf0bebb1e7521ebd664d081f2e",
+    "format": "pdf",
+    "text_file": "database/milestone2/evidence/20384J_03a925cd3c70e0c62fb5.txt",
+    "source_file": "database/milestone2/cache/03a925cd3c70e0c62fb506a46dd798b5de75f0bf0bebb1e7521ebd664d081f2e.pdf",
+    "candidate_status": "notice_body_candidate_requires_evidence_review",
+    "text_length": 6187,
+    "retrieval_url": "https://www.powerstownet.com/wp-content/uploads/2020/10/BCS-Admissions-Notice-3.pdf",
+    "groups": [],
+    "exclusion_reason": "different_school_identity_secondary_school_notice_hosted_by_primary_school"
+  },
+  {
+    "roll": "20384J",
+    "url": "https://www.powerstownet.com/wp-content/uploads/2020/09/Le-Cheile-Secondary-School-Annual-Admissions-Notice-docx.pdf",
+    "label": "Le Cheile Secondary School Annual Admissions Notice docx",
+    "sha256": "c8053af47937b850ac19267d8948677f6cc2937fdf1247080b1026528a2d0443",
+    "format": "pdf",
+    "text_file": "database/milestone2/evidence/20384J_c8053af47937b850ac19.txt",
+    "source_file": "database/milestone2/cache/c8053af47937b850ac19267d8948677f6cc2937fdf1247080b1026528a2d0443.pdf",
+    "candidate_status": "notice_body_candidate_requires_evidence_review",
+    "text_length": 4964,
+    "retrieval_url": "https://www.powerstownet.com/wp-content/uploads/2020/09/Le-Cheile-Secondary-School-Annual-Admissions-Notice-docx.pdf",
+    "groups": [],
+    "exclusion_reason": "different_school_identity_secondary_school_notice_hosted_by_primary_school"
+  },
+  {
+    "roll": "20384J",
+    "url": "https://www.powerstownet.com/wp-content/uploads/2020/09/Annual-Admissions-Hansfield-ETSS.pdf",
+    "label": "Annual Admissions Hansfield ETSS",
+    "sha256": "6cea4d393553e28591501ee508f54ec89ba861431f58c9a6b698403cf22c3a6a",
+    "format": "pdf",
+    "text_file": "database/milestone2/evidence/20384J_6cea4d393553e2859150.txt",
+    "source_file": "database/milestone2/cache/6cea4d393553e28591501ee508f54ec89ba861431f58c9a6b698403cf22c3a6a.pdf",
+    "candidate_status": "notice_body_candidate_requires_evidence_review",
+    "text_length": 5215,
+    "retrieval_url": "https://www.powerstownet.com/wp-content/uploads/2020/09/Annual-Admissions-Hansfield-ETSS.pdf",
+    "groups": [],
+    "exclusion_reason": "different_school_identity_secondary_school_notice_hosted_by_primary_school"
+  },
+  {
+    "roll": "20384J",
+    "url": "https://www.powerstownet.com/wp-content/uploads/2020/09/Admissions-Notice-Coolmine-CS-1.pdf",
+    "label": "Admissions-Notice-Coolmine-CS-1",
+    "sha256": "455c9a8452f3a249798ff60a8e1fb522363f7cb1b5f3c650269b7e710842847f",
+    "format": "pdf",
+    "text_file": "database/milestone2/evidence/20384J_455c9a8452f3a249798f.txt",
+    "source_file": "database/milestone2/cache/455c9a8452f3a249798ff60a8e1fb522363f7cb1b5f3c650269b7e710842847f.pdf",
+    "candidate_status": "notice_body_candidate_requires_evidence_review",
+    "text_length": 2204,
+    "retrieval_url": "https://www.powerstownet.com/wp-content/uploads/2020/09/Admissions-Notice-Coolmine-CS-1.pdf",
+    "groups": [],
+    "exclusion_reason": "different_school_identity_secondary_school_notice_hosted_by_primary_school"
+  }
+]

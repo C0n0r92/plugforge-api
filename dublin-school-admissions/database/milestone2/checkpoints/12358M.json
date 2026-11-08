@@ -1,0 +1,190 @@
+{
+  "roll": "12358M",
+  "status": "bounded_search_no_new_notice_found",
+  "attempts": [
+    {
+      "url": "https://www.oldboroughschool.ie/admissions",
+      "final_url": "https://www.oldboroughschool.ie/admissions",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://www.oldboroughschool.ie/attachments/documents.asp?id=102",
+      "final_url": "https://www.oldboroughschool.ie/attachments/documents.asp?id=102",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admission Policy 30.09.2026 PDF File"
+    },
+    {
+      "url": "https://www.oldboroughschool.ie/attachments/documents.asp?id=101",
+      "final_url": "https://www.oldboroughschool.ie/attachments/documents.asp?id=101",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Code of Behaviour and Discipline 30.09.2026 PDF File"
+    },
+    {
+      "url": "https://www.oldboroughschool.ie/topic/parents",
+      "final_url": "https://www.oldboroughschool.ie/topic/parents",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents"
+    },
+    {
+      "url": "https://www.oldboroughschool.ie/sitemap.xml",
+      "final_url": "https://www.oldboroughschool.ie/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.oldboroughschool.ie/policies",
+      "final_url": "https://www.oldboroughschool.ie/policies",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.oldboroughschool.ie/parental-complaints-procedure",
+      "final_url": "https://www.oldboroughschool.ie/parental-complaints-procedure",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parental Complaints Procedure"
+    },
+    {
+      "url": "https://www.oldboroughschool.ie/attachments/documents.asp?id=99",
+      "final_url": "https://www.oldboroughschool.ie/attachments/documents.asp?id=99",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Minority Faith Statement and Verification PDF File"
+    },
+    {
+      "url": "https://www.oldboroughschool.ie/attachments/documents.asp?id=97",
+      "final_url": "https://www.oldboroughschool.ie/attachments/documents.asp?id=97",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Ethos Statement PDF File"
+    },
+    {
+      "url": "https://www.oldboroughschool.ie/attachments/documents.asp?id=66",
+      "final_url": "https://www.oldboroughschool.ie/attachments/documents.asp?id=66",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parental Complaints Procedure.pdf PDF File"
+    },
+    {
+      "url": "https://www.oldboroughschool.ie/admission-enrolment-policy",
+      "final_url": "https://www.oldboroughschool.ie/admission-enrolment-policy",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admission (Enrolment) Policy"
+    },
+    {
+      "url": "https://www.oldboroughschool.ie/attachments/download.asp?file=49&type=pdf",
+      "final_url": "https://www.oldboroughschool.ie/attachments/download.asp?file=49&type=pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admission Policy 30.09.2026 pdf"
+    },
+    {
+      "url": "https://www.oldboroughschool.ie/",
+      "final_url": "https://www.oldboroughschool.ie/",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.oldboroughschool.ie/whistleblowing-policy",
+      "final_url": "https://www.oldboroughschool.ie/whistleblowing-policy",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Whistleblowing Policy"
+    }
+  ],
+  "documents": [],
+  "pending_links": [
+    {
+      "url": "https://www.oldboroughschool.ie/attachments/download.asp?file=54&type=pdf",
+      "label": "Whistleblowing Policy 30.09.2026 pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.oldboroughschool.ie/usage-of-mobile-phones-and-other-devices-policy",
+      "label": "Usage of  Mobile Phones and Other Devices Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.oldboroughschool.ie/substance-use-policy",
+      "label": "Substance Use Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.oldboroughschool.ie/special-needs-policy",
+      "label": "Special Needs Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.oldboroughschool.ie/privacy-cookies/",
+      "label": "Privacy Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.oldboroughschool.ie/photographing-of-pupils-policy",
+      "label": "Photographing of Pupils Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.oldboroughschool.ie/page/?title=B%26%23237%3B+Cine%26%23225%3Blta+Student+Friendly+Policy&pid=159",
+      "label": "Bí Cineálta Student Friendly Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.oldboroughschool.ie/internet-acceptable-use-policy",
+      "label": "Internet Acceptable Use Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.oldboroughschool.ie/homework-policy",
+      "label": "Homework Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.oldboroughschool.ie/healthy-eating-policy",
+      "label": "Healthy Eating Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.oldboroughschool.ie/data-protection-policy",
+      "label": "Data Protection Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.oldboroughschool.ie/critical-incident-policy",
+      "label": "Critical Incident Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.oldboroughschool.ie/attendance-policy",
+      "label": "Attendance Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.oldboroughschool.ie/anti-cyberbullying-policy",
+      "label": "Anti-Cyberbullying Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.oldboroughschool.ie/anti-bullying-policy",
+      "label": "Bí Cineálta Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.oldboroughschool.ie/administration-of-medicines-policy",
+      "label": "Administration of Medicines Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 152.05,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:50:41+0000"
+}

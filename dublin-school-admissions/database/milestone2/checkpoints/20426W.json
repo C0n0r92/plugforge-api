@@ -1,0 +1,249 @@
+{
+  "roll": "20426W",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://lucancns.ie/enrol/",
+      "final_url": "https://lucancns.ie/enrol/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Enrol"
+    },
+    {
+      "url": "https://lucancns.ie/notice/return-to-school-information-august-2026/",
+      "final_url": "https://lucancns.ie/notice/return-to-school-information-august-2026/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "– Return to school Information – Aug. 26"
+    },
+    {
+      "url": "https://lucancns.ie/wp-content/uploads/2025/10/Admissions-Data-Protection-2026_27.pdf",
+      "final_url": "https://lucancns.ie/wp-content/uploads/2025/10/Admissions-Data-Protection-2026_27.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "DATA PROTECTION STATEMENT"
+    },
+    {
+      "url": "https://lucancns.ie/wp-content/uploads/2026/10/Admissions-Data-Protection-2027_28.pdf",
+      "final_url": "https://lucancns.ie/wp-content/uploads/2026/10/Admissions-Data-Protection-2027_28.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "DATA PROTECTION STATEMENT"
+    },
+    {
+      "url": "https://lucancns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://lucancns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://lucancns.ie/wp-content/uploads/2024/10/Admissions-Data-Protection-2025_26.pdf",
+      "final_url": "https://lucancns.ie/wp-content/uploads/2024/10/Admissions-Data-Protection-2025_26.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Data Protection 2025_26"
+    },
+    {
+      "url": "https://lucancns.ie/wp-content/uploads/2024/10/Admission-Policy_Lucan-CNS-2025_26_Final.pdf",
+      "final_url": "https://lucancns.ie/wp-content/uploads/2024/10/Admission-Policy_Lucan-CNS-2025_26_Final.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admission Policy_Lucan CNS 2025_26_Final"
+    },
+    {
+      "url": "https://lucancns.ie/wp-content/uploads/2025/10/Admission-Policy_Lucan-CNS-2026.pdf",
+      "final_url": "https://lucancns.ie/wp-content/uploads/2025/10/Admission-Policy_Lucan-CNS-2026.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "ADMISSIONS POLICY"
+    },
+    {
+      "url": "https://lucancns.ie/wp-content/uploads/2026/10/Admission-Policy_Lucan-CNS-2027.pdf",
+      "final_url": "https://lucancns.ie/wp-content/uploads/2026/10/Admission-Policy_Lucan-CNS-2027.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "ADMISSIONS POLICY"
+    },
+    {
+      "url": "https://lucancns.ie/wp-content/uploads/2026/08/Return-to-School-Parent-Information_Aug-2026_Lucan-Community-National-School.pdf",
+      "final_url": "https://lucancns.ie/wp-content/uploads/2026/08/Return-to-School-Parent-Information_Aug-2026_Lucan-Community-National-School.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Return to School Information  – Aug. 26"
+    },
+    {
+      "url": "https://lucancns.ie/sitemap.xml",
+      "final_url": "https://lucancns.ie/sitemap_index.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://lucancns.ie/notice-sitemap.xml",
+      "final_url": "https://lucancns.ie/notice-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://lucancns.ie/school-policies/",
+      "final_url": "https://lucancns.ie/school-policies/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Policies"
+    },
+    {
+      "url": "https://lucancns.ie/post-sitemap.xml",
+      "final_url": "https://lucancns.ie/post-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "20426W",
+      "url": "https://lucancns.ie/wp-content/uploads/2024/10/Admission-Policy_Lucan-CNS-2025_26_Final.pdf",
+      "label": "Admission Policy_Lucan CNS 2025_26_Final",
+      "sha256": "8f71cf3b7c622bfcbed6848790121450b04831296e33e253828cba7ec413b353",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20426W_8f71cf3b7c622bfcbed6.txt",
+      "source_file": "database/milestone2/cache/8f71cf3b7c622bfcbed6848790121450b04831296e33e253828cba7ec413b353.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 73219
+    },
+    {
+      "roll": "20426W",
+      "url": "https://lucancns.ie/wp-content/uploads/2025/10/Admission-Policy_Lucan-CNS-2026.pdf",
+      "label": "ADMISSIONS POLICY",
+      "sha256": "855cf1482bf107e0385231926f3109112f8320ad5fae906a073427cf8ac9d053",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20426W_855cf1482bf107e03852.txt",
+      "source_file": "database/milestone2/cache/855cf1482bf107e0385231926f3109112f8320ad5fae906a073427cf8ac9d053.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 72212
+    },
+    {
+      "roll": "20426W",
+      "url": "https://lucancns.ie/wp-content/uploads/2026/10/Admission-Policy_Lucan-CNS-2027.pdf",
+      "label": "ADMISSIONS POLICY",
+      "sha256": "9327c28e236f71b52c5ea5c7a4e0608545177423195b575dc2b6d9fdd17b0f16",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20426W_9327c28e236f71b52c5e.txt",
+      "source_file": "database/milestone2/cache/9327c28e236f71b52c5ea5c7a4e0608545177423195b575dc2b6d9fdd17b0f16.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 75356
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://lucancns.ie/page-sitemap.xml",
+      "label": "Public sitemap index child",
+      "via": "sitemap_child"
+    },
+    {
+      "url": "https://lucancns.ie/information-for-parents/",
+      "label": "Information for Parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://lucancns.ie",
+      "label": "School homepage",
+      "via": "home"
+    },
+    {
+      "url": "https://lucancns.ie/wp-content/uploads/2022/09/Lucan-CNS-Homework-Policy-1.pdf",
+      "label": "Homework",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://lucancns.ie/wp-content/uploads/2022/09/CNS_Website_Management_Policy.pdf",
+      "label": "Website Management",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://lucancns.ie/wp-content/uploads/2022/09/CNS_Substance_Abuse_Policy-1.pdf",
+      "label": "Substance Abuse",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://lucancns.ie/wp-content/uploads/2024/11/Administration-of-Medication-Policy_24.pdf",
+      "label": "Administration of Medicine",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://lucancns.ie/wp-content/uploads/2024/11/Acceptable-Usage-Policy_Lucan-CNS.pdf",
+      "label": "Acceptable Usage",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://lucancns.ie/wp-content/uploads/2025/10/2_SCT_Lucan-CNS_Application-Form_26_27_Special-Class-other-than-Junior-Infants.pdf",
+      "label": "PDF Version",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://lucancns.ie/wp-content/uploads/2025/10/2_SCT_Lucan-CNS_Application-Form_26_27_Special-Class-other-than-Junior-Infants.docx",
+      "label": "Word Version",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://lucancns.ie/wp-content/uploads/2025/10/1_JI_SCJI_Lucan-CNS_Application-Form_26_27_JI_and-JI-special-class.pdf",
+      "label": "PDF Version",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://lucancns.ie/wp-content/uploads/2025/10/1_JI_SCJI_Lucan-CNS_Application-Form_26_27_JI_and-JI-special-class.docx",
+      "label": "Word Version",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://lucancns.ie/wp-content/uploads/2026/10/3_MST_Lucan-CNS_Application-Form_26_27_Mainstream-transfer-student_Senior-Infants-to-Sixth-2.pdf",
+      "label": "PDF Version",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://lucancns.ie/wp-content/uploads/2026/10/3_MST_Lucan-CNS_Application-Form_26_27_Mainstream-transfer-student_Senior-Infants-to-Sixth-2.docx",
+      "label": "Word Version",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://lucancns.ie/wp-content/uploads/2026/10/2_SCT_Lucan-CNS_Application-Form_27_28_Special-Class-other-than-Junior-Infants.pdf",
+      "label": "PDF Version",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://lucancns.ie/wp-content/uploads/2026/10/2_SCT_Lucan-CNS_Application-Form_27_28_Special-Class-other-than-Junior-Infants.docx",
+      "label": "Word Version",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://lucancns.ie/wp-content/uploads/2026/10/1_JI_SCJI_Lucan-CNS_Application-Form_27_28_JI_and-JI-special-class.pdf",
+      "label": "PDF Version",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://lucancns.ie/wp-content/uploads/2026/10/1_JI_SCJI_Lucan-CNS_Application-Form_27_28_JI_and-JI-special-class.docx",
+      "label": "Word Version",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://lucancns.ie/wp-content/uploads/2026/04/BC_Child-overview-poster.pdf",
+      "label": "Pupil-Friendly Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://lucancns.ie/wp-content/uploads/2026/03/3_MST_Lucan-CNS_Application-Form_26_27_Mainstream-transfer-student_Senior-Infants-to-Sixth.pdf",
+      "label": "PDF Version",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://lucancns.ie/wp-content/uploads/2026/03/3_MST_Lucan-CNS_Application-Form_26_27_Mainstream-transfer-student_Senior-Infants-to-Sixth.docx",
+      "label": "Word Version",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 153.11,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:41:46+0000"
+}

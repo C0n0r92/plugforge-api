@@ -1,0 +1,25 @@
+{
+  "roll": "19473B",
+  "capture": {
+    "timestamp": "20210512035944",
+    "original": "https://scoilbhridedonaghmede.ie/annual-admissions-notice/",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "digest": "CSZZBHKBGAVL4PLXGQBQFGG4I3EJVT4U"
+  },
+  "original_url": "https://scoilbhridedonaghmede.ie/annual-admissions-notice/",
+  "archived_url": "https://web.archive.org/web/20210512035944/https://scoilbhridedonaghmede.ie/annual-admissions-notice/",
+  "attempted_at": "2026-11-08T12:52:58.460865+00:00",
+  "linked_from_capture": null,
+  "http_status": 200,
+  "headers": {
+    "Content-Type": "text/html; charset=UTF-8",
+    "memento-datetime": "Wed, 12 May 2021 03:59:44 GMT"
+  },
+  "bytes": 60831,
+  "payload_sha256": "b9e946f4b736f534ce07564ca9c11750c4cacdfe7b28c45e92e8f1789fbebb62",
+  "format": "html",
+  "status": "archived_body_retrieved_requires_manual_evidence_review",
+  "text_file": "database/milestone2/evidence/exact_19473B_b9e946f4b736f534ce07.txt",
+  "linked_document_candidates": []
+}

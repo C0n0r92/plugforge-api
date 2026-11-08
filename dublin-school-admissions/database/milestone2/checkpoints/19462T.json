@@ -1,0 +1,330 @@
+{
+  "roll": "19462T",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.scoilmaelruainjunior.org/news/2027-28-annual-admissions-notice-pdf/?googletranslate=true",
+      "final_url": "https://www.scoilmaelruainjunior.org/news/2027-28-annual-admissions-notice-pdf/?googletranslate=true",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "https://swdcache.b-cdn.net/991/docletter/20261005035304_64_2027_28_Annual_Admissions_Notice_.pdf",
+      "final_url": "https://swdcache.b-cdn.net/991/docletter/20261005035304_64_2027_28_Annual_Admissions_Notice_.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.scoilmaelruainjunior.org/news/2027-28-annual-admissions-notice-pdf/",
+      "final_url": "https://www.scoilmaelruainjunior.org/news/2027-28-annual-admissions-notice-pdf/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "2027 28 Annual Admissions Notice .pdf"
+    },
+    {
+      "url": "https://www.scoilmaelruainjunior.org/documentlink/88/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/991/docletter/20261005035304_64_2027_28_Annual_Admissions_Notice_.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "2027 28 Annual Admissions Notice .pdf"
+    },
+    {
+      "url": "https://www.scoilmaelruainjunior.org/news/junior-infant-admission-information-for-202728-academic-school-year/?googletranslate=true",
+      "final_url": "https://www.scoilmaelruainjunior.org/news/junior-infant-admission-information-for-202728-academic-school-year/?googletranslate=true",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "https://www.scoilmaelruainjunior.org/news/junior-infant-admission-information-for-202728-academic-school-year/",
+      "final_url": "https://www.scoilmaelruainjunior.org/news/junior-infant-admission-information-for-202728-academic-school-year/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Junior Infant Admission Information for 2027/28 Academic School Year"
+    },
+    {
+      "url": "https://www.scoilmaelruainjunior.org/news/admissions-for-202728-school-year/?googletranslate=true",
+      "final_url": "https://www.scoilmaelruainjunior.org/news/admissions-for-202728-school-year/?googletranslate=true",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "https://www.scoilmaelruainjunior.org/news/admissions-for-202728-school-year/",
+      "final_url": "https://www.scoilmaelruainjunior.org/news/admissions-for-202728-school-year/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions for 2027/28 School Year"
+    },
+    {
+      "url": "https://www.scoilmaelruainjunior.org/admissions/?googletranslate=true",
+      "final_url": "https://www.scoilmaelruainjunior.org/admissions/?googletranslate=true",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "https://www.scoilmaelruainjunior.org/admissions/",
+      "final_url": "https://www.scoilmaelruainjunior.org/admissions/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://www.scoilmaelruainjunior.org/admin/?open=/admissions/?googletranslate=true",
+      "final_url": "https://www.scoilmaelruainjunior.org/admin/?open=/admissions/?googletranslate=true",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.scoilmaelruainjunior.org/admin/?open=/admissions/",
+      "final_url": "https://www.scoilmaelruainjunior.org/admin/?open=/admissions/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.scoilmaelruainjunior.org/documentlink/87/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/991/docletter/20261005082007_21_2027_28_Admissions_Policy_final.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "2027 28 Admissions Policy final.pdf"
+    },
+    {
+      "url": "https://www.scoilmaelruainjunior.org/sitemap.xml",
+      "final_url": "https://www.scoilmaelruainjunior.org/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.scoilmaelruainjunior.org/panrets/parental-complaints-procedure/",
+      "final_url": "https://www.scoilmaelruainjunior.org/panrets/parental-complaints-procedure/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parental Complaints Procedure"
+    },
+    {
+      "url": "https://www.scoilmaelruainjunior.org/panrets/parental-complaints-procedure/?googletranslate=true",
+      "final_url": "https://www.scoilmaelruainjunior.org/panrets/parental-complaints-procedure/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.scoilmaelruainjunior.org/panrets/parent-explainersfrequently-asked-questions/",
+      "final_url": "https://www.scoilmaelruainjunior.org/panrets/parent-explainersfrequently-asked-questions/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parent Explainers/Frequently Asked Questions"
+    },
+    {
+      "url": "https://www.scoilmaelruainjunior.org/documentlink/79/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/991/docletter/20260609012141_56_FAQ_for_Parents__Class_Reconfiguration_for_2026_27.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "FAQ for Parents  Class Reconfiguration for 2026 27.pdf"
+    },
+    {
+      "url": "https://www.scoilmaelruainjunior.org/panrets/parent-explainersfrequently-asked-questions/?googletranslate=true",
+      "final_url": "https://www.scoilmaelruainjunior.org/panrets/parent-explainersfrequently-asked-questions/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.scoilmaelruainjunior.org/panrets/newsletters/",
+      "final_url": "https://www.scoilmaelruainjunior.org/panrets/newsletters/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents Association"
+    },
+    {
+      "url": "https://www.scoilmaelruainjunior.org/panrets/",
+      "final_url": "https://www.scoilmaelruainjunior.org/panrets/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents"
+    },
+    {
+      "url": "https://www.scoilmaelruainjunior.org/documentlink/88/?open=true&download=true",
+      "final_url": "https://swdcache.b-cdn.net/991/docletter/20261005035304_64_2027_28_Annual_Admissions_Notice_.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.scoilmaelruainjunior.org/documentlink/87/?open=true&download=true",
+      "final_url": "https://swdcache.b-cdn.net/991/docletter/20261005082007_21_2027_28_Admissions_Policy_final.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.scoilmaelruainjunior.org/documentlink/79/?open=true&download=true",
+      "final_url": "https://swdcache.b-cdn.net/991/docletter/20260609012141_56_FAQ_for_Parents__Class_Reconfiguration_for_2026_27.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": ""
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19462T",
+      "url": "https://www.scoilmaelruainjunior.org/news/2027-28-annual-admissions-notice-pdf/?googletranslate=true",
+      "label": "",
+      "sha256": "3c99745b71646913231f9b8f7e991679ef82d3b96ccc3784169edc0463c30a74",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19462T_3c99745b71646913231f.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 119
+    },
+    {
+      "roll": "19462T",
+      "url": "https://www.scoilmaelruainjunior.org/news/2027-28-annual-admissions-notice-pdf/",
+      "label": "2027 28 Annual Admissions Notice .pdf",
+      "sha256": "95109b2fcd72fca3d422b354603447dbee2d7a74683d7b633cb1f06e4575c843",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19462T_95109b2fcd72fca3d422.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 119
+    },
+    {
+      "roll": "19462T",
+      "url": "https://www.scoilmaelruainjunior.org/admissions/?googletranslate=true",
+      "label": "",
+      "sha256": "c9ec1f480346ca8bc176e23cb02f526bec6caece2ef3647171c1c8075c10fba8",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19462T_c9ec1f480346ca8bc176.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 141
+    },
+    {
+      "roll": "19462T",
+      "url": "https://www.scoilmaelruainjunior.org/admissions/",
+      "label": "Admissions",
+      "sha256": "768eabc63ede5d88b1e038508bd244bbcc0fada973a8c27145b88a539cfb17ca",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19462T_768eabc63ede5d88b1e0.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 141
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.scoilmaelruainjunior.org/documentlink/69/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmaelruainjunior.org/documentlink/65/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmaelruainjunior.org/documentlink/64/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmaelruainjunior.org/documentlink/63/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmaelruainjunior.org/documentlink/61/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmaelruainjunior.org/documentlink/56/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmaelruainjunior.org/documentlink/55/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmaelruainjunior.org/documentlink/52/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmaelruainjunior.org/documentlink/52/?open=true",
+      "label": "School Self Evaluation and Implementation Plan Parent Explainer.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmaelruainjunior.org/documentlink/50/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmaelruainjunior.org/documentlink/24/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmaelruainjunior.org/documentlink/24/?open=true",
+      "label": "Parental Complaints Procedure",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmaelruainjunior.org/admin/?open=/panrets/parental-complaints-procedure/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmaelruainjunior.org/admin/?open=/panrets/parental-complaints-procedure/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmaelruainjunior.org/admin/?open=/panrets/parent-explainersfrequently-asked-questions/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmaelruainjunior.org/admin/?open=/panrets/parent-explainersfrequently-asked-questions/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmaelruainjunior.org/about-us/policies/",
+      "label": "Policies",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmaelruainjunior.org",
+      "label": "School homepage",
+      "via": "home"
+    },
+    {
+      "url": "https://www.scoilmaelruainjunior.org/documentlink/55/?open=true",
+      "label": "Bí Cineálta Policy to Prevent and Address Bullying Behaviour.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmaelruainjunior.org/cmsfiles/policies/privacy/",
+      "label": "Website Privacy Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmaelruainjunior.org/cmsfiles/policies/cookie/",
+      "label": "Cookie Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 66.43,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:06:33+0000"
+}

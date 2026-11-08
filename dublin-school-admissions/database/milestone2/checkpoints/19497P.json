@@ -1,0 +1,272 @@
+{
+  "roll": "19497P",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://primaryschoolshankill.ie/?s=admission",
+      "final_url": "https://primaryschoolshankill.ie/?s=admission",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Public site search form"
+    },
+    {
+      "url": "https://primaryschoolshankill.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://primaryschoolshankill.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://primaryschoolshankill.ie/wp-content/uploads/2021/04/Scoil-Mhuire-Draft-ASD-_Admission-Policy-version-2.docx.pdf",
+      "final_url": "https://primaryschoolshankill.ie/wp-content/uploads/2021/04/Scoil-Mhuire-Draft-ASD-_Admission-Policy-version-2.docx.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Scoil Mhuire ASD _Admission Policy"
+    },
+    {
+      "url": "https://primaryschoolshankill.ie/wp-content/uploads/2025/06/Admissions-Policy-25-1.pdf",
+      "final_url": "https://primaryschoolshankill.ie/wp-content/uploads/2025/06/Admissions-Policy-25-1.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Policy 25 (1)"
+    },
+    {
+      "url": "https://primaryschoolshankill.ie/wp-content/uploads/2026/09/2027-Admissions-Policy.pdf",
+      "final_url": "https://primaryschoolshankill.ie/wp-content/uploads/2026/09/2027-Admissions-Policy.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "2027 Admissions Policy"
+    },
+    {
+      "url": "https://primaryschoolshankill.ie/wp-content/uploads/2026/06/2026-Signed-Admission-Policy.pdf",
+      "final_url": "https://primaryschoolshankill.ie/wp-content/uploads/2026/06/2026-Signed-Admission-Policy.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "2Admission Policy May 2026"
+    },
+    {
+      "url": "https://primaryschoolshankill.ie/forms-policies/2026-signed-admission-policy/",
+      "final_url": "https://primaryschoolshankill.ie/forms-policies/2026-signed-admission-policy/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions/policy URL from public sitemap"
+    },
+    {
+      "url": "https://primaryschoolshankill.ie/forms-policies/2027-admissions-policy/",
+      "final_url": "https://primaryschoolshankill.ie/forms-policies/2027-admissions-policy/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions/policy URL from public sitemap"
+    },
+    {
+      "url": "https://www.primaryschoolshankill.ie",
+      "final_url": "https://primaryschoolshankill.ie/",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://primaryschoolshankill.ie/sitemap_index.xml",
+      "final_url": "https://primaryschoolshankill.ie/sitemap_index.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://primaryschoolshankill.ie/post-sitemap.xml",
+      "final_url": "https://primaryschoolshankill.ie/post-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://primaryschoolshankill.ie/parent-information/",
+      "final_url": "https://primaryschoolshankill.ie/parent-information/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parent Information"
+    },
+    {
+      "url": "https://primaryschoolshankill.ie/page-sitemap.xml",
+      "final_url": "https://primaryschoolshankill.ie/page-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://primaryschoolshankill.ie/forms-policies/",
+      "final_url": "https://primaryschoolshankill.ie/forms-policies/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Forms & Policies"
+    },
+    {
+      "url": "https://primaryschoolshankill.ie/wp-content/uploads/2017/06/Scoil-Mhuire-Code-for-Parent.docx",
+      "final_url": "https://primaryschoolshankill.ie/wp-content/uploads/2017/06/Scoil-Mhuire-Code-for-Parent.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Code for Parent-Teacher meetings"
+    },
+    {
+      "url": "https://primaryschoolshankill.ie/wp-content/uploads/2026/02/Enrolment-Policy.doc.docx.pdf",
+      "final_url": "https://primaryschoolshankill.ie/wp-content/uploads/2026/02/Enrolment-Policy.doc.docx.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Enrolment Policy Dec 2022"
+    },
+    {
+      "url": "https://primaryschoolshankill.ie/wp-content/uploads/2017/06/Scoil-Mhuire-Whole-School-Policy-on-HSCL.doc",
+      "final_url": "https://primaryschoolshankill.ie/wp-content/uploads/2017/06/Scoil-Mhuire-Whole-School-Policy-on-HSCL.doc",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Policy on HSCL"
+    },
+    {
+      "url": "https://primaryschoolshankill.ie/wp-content/uploads/2017/06/2017-School-Uniform-Policy.docx",
+      "final_url": "https://primaryschoolshankill.ie/wp-content/uploads/2017/06/2017-School-Uniform-Policy.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Uniform Policy"
+    },
+    {
+      "url": "https://primaryschoolshankill.ie/attachment-sitemap.xml",
+      "final_url": "https://primaryschoolshankill.ie/attachment-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://primaryschoolshankill.ie/forms-policies/scoil-mhuire-draft-asd-_admission-policy-version-2-docx/",
+      "final_url": "https://primaryschoolshankill.ie/forms-policies/scoil-mhuire-draft-asd-_admission-policy-version-2-docx/",
+      "status": "ok",
+      "via": "sitemap_link",
+      "label": "Admission URL from sitemap"
+    },
+    {
+      "url": "https://primaryschoolshankill.ie/forms-policies/enrolment-policy-doc-docx/",
+      "final_url": "https://primaryschoolshankill.ie/forms-policies/enrolment-policy-doc-docx/",
+      "status": "ok",
+      "via": "sitemap_link",
+      "label": "Admission URL from sitemap"
+    },
+    {
+      "url": "https://primaryschoolshankill.ie/forms-policies/admissions-policy-25-1/",
+      "final_url": "https://primaryschoolshankill.ie/forms-policies/admissions-policy-25-1/",
+      "status": "ok",
+      "via": "sitemap_link",
+      "label": "Admission URL from sitemap"
+    },
+    {
+      "url": "https://primaryschoolshankill.ie/wp-content/uploads/2023/10/2023-Swimming-Policy.pdf",
+      "final_url": "https://primaryschoolshankill.ie/wp-content/uploads/2023/10/2023-Swimming-Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "2023 Swimming Policy"
+    },
+    {
+      "url": "https://primaryschoolshankill.ie/wp-content/uploads/2023/03/New-2023-27-Scoil-Mhuire-New-Pupil-Application-Form.pdf",
+      "final_url": "https://primaryschoolshankill.ie/wp-content/uploads/2023/03/New-2023-27-Scoil-Mhuire-New-Pupil-Application-Form.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19497P",
+      "url": "https://primaryschoolshankill.ie/wp-content/uploads/2021/04/Scoil-Mhuire-Draft-ASD-_Admission-Policy-version-2.docx.pdf",
+      "label": "Scoil Mhuire ASD _Admission Policy",
+      "sha256": "5a75fd146be2cebb0717b893ffc8478177b8befbdba0251657015dea4e5ede6a",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19497P_5a75fd146be2cebb0717.txt",
+      "source_file": "database/milestone2/cache/5a75fd146be2cebb0717b893ffc8478177b8befbdba0251657015dea4e5ede6a.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 31053
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://primaryschoolshankill.ie/wp-content/uploads/2023/02/Final-Social-Media-Policy-Feb-2023.pdf",
+      "label": "Social Media Policy 2023",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://primaryschoolshankill.ie/wp-content/uploads/2024/12/Admin-of-Medicines-Policy-December-2024.pdf",
+      "label": "Administration of Medicines Policy 2024",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://primaryschoolshankill.ie/wp-content/uploads/2024/11/Policy-Sp-Class-for-Children-with-Autism-in-S-Mhuire-Oct-2024.pdf",
+      "label": "Special Class for Children with Autism in Scoil Mhuire Policy 2024",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://primaryschoolshankill.ie/wp-content/uploads/2024/11/Mobile-Phone-and-Smart-Device-Policy-Oct-2024-1.pdf",
+      "label": "Mobile Phone and Smart Device Policy 2024",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://primaryschoolshankill.ie/wp-content/uploads/2024/06/Attendance-Policy-1.pdf",
+      "label": "Attendance Policy 2024",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://primaryschoolshankill.ie/wp-content/uploads/2024/01/Whistleblowing-Protected-Disclosures-Policy.pdf",
+      "label": "Whistleblowing (Protected Disclosures) Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://primaryschoolshankill.ie/wp-content/uploads/2024/01/School-Tours-Policy.pdf",
+      "label": "School Tours Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://primaryschoolshankill.ie/wp-content/uploads/2025/06/Health-Safety-Policy.pdf",
+      "label": "Health & Safety Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://primaryschoolshankill.ie/wp-content/uploads/2025/06/090625-Intimate-Care-and-Toileting-Policy.pdf",
+      "label": "Intimate Care and Toileting Policy J",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://primaryschoolshankill.ie/wp-content/uploads/2025/06/090625-Bi-Cinealta-Policy.pdf",
+      "label": "Bí Cineálta (Anti Bullying) Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://primaryschoolshankill.ie/wp-content/uploads/2025/03/Critical-Incident-Policy-100225-1.pdf",
+      "label": "Critical Incident Policy – February 2025",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://primaryschoolshankill.ie/wp-content/uploads/2026/10/Policy-on-Exemption-of-the-study-of-Irish.pdf",
+      "label": "Policy on Exemption of the Study of Irish (Sept 26)",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://primaryschoolshankill.ie/wp-content/uploads/2026/06/Signed-2026-Communications-Policy.pdf",
+      "label": "Communications Policy (May 2026)",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://primaryschoolshankill.ie/wp-content/uploads/2026/02/Parents-Complaints-Policy-61125.pdf",
+      "label": "Parent’s Complaints Policy Nov 25",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://primaryschoolshankill.ie/wp-content/uploads/2026/02/Dignity-at-Work-Policy-40226.pdf",
+      "label": "Dignity at Work Policy Feb 26",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://primaryschoolshankill.ie/privacy/",
+      "label": "Privacy policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 80.12,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:07:10+0000"
+}

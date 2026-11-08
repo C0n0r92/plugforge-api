@@ -1,0 +1,1519 @@
+{
+  "roll": "20130B",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://stpatricksns.ie",
+      "final_url": "https://stpatricksns.ie",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://stpatricksns.ie/policies/JI-Admissions-FAQ-2027.pdf",
+      "final_url": "https://stpatricksns.ie/policies/JI-Admissions-FAQ-2027.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Frequently Asked Questions"
+    },
+    {
+      "url": "https://stpatricksns.ie/policies/2027-Admissions-Challenges-St-Patricks-National-School.pdf",
+      "final_url": "https://stpatricksns.ie/policies/2027-Admissions-Challenges-St-Patricks-National-School.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions Challenges"
+    },
+    {
+      "url": "https://stpatricksns.ie/downloads/Teachers-Classes-2025-2026.pdf",
+      "final_url": "https://stpatricksns.ie/downloads/Teachers-Classes-2025-2026.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Teachers/Classes/Classrooms"
+    },
+    {
+      "url": "https://stpatricksns.ie/downloads/Teachers-Classes-2026-2027.pdf",
+      "final_url": "https://stpatricksns.ie/downloads/Teachers-Classes-2026-2027.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Teachers Classes Classrooms"
+    },
+    {
+      "url": "https://stpatricksns.ie/policies/Procedure-for-Application-for-Junior-Infants-2027.pdf",
+      "final_url": "https://stpatricksns.ie/policies/Procedure-for-Application-for-Junior-Infants-2027.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Procedures for Registration for Junior Infants September 2027"
+    },
+    {
+      "url": "https://stpatricksns.ie/policies/Admissions-Policy-10-26.pdf",
+      "final_url": "https://stpatricksns.ie/policies/Admissions-Policy-10-26.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admission Policy"
+    },
+    {
+      "url": "https://stpatricksns.ie/downloads/primary-school-survey.pdf",
+      "final_url": "https://stpatricksns.ie/downloads/primary-school-survey.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Primary School Survey School Specific Results"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents.php?id=29",
+      "final_url": "https://stpatricksns.ie/parents.php?id=29",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Bike Week 2022"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search.php?year=2026 ",
+      "final_url": "https://stpatricksns.ie/parents_association_news_search.php?year=2026 ",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "PA News 2026"
+    },
+    {
+      "url": "https://stpatricksns.ie/sitemap.xml",
+      "final_url": "https://stpatricksns.ie/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://stpatricksns.ie/policies.php",
+      "final_url": "https://stpatricksns.ie/policies.php",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://stpatricksns.ie/policies/Self-Evaluation-Report-Improvement-Plan-April-2019.pdf",
+      "final_url": "https://stpatricksns.ie/policies/Self-Evaluation-Report-Improvement-Plan-April-2019.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://stpatricksns.ie/policies/Code_of_behaviour_2023.pdf",
+      "final_url": "https://stpatricksns.ie/policies/Code_of_behaviour_2023.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Code of Behaviour"
+    },
+    {
+      "url": "https://stpatricksns.ie/policies/rse.pdf",
+      "final_url": "https://stpatricksns.ie/policies/rse.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://stpatricksns.ie/policies/health-safety.pdf",
+      "final_url": "https://stpatricksns.ie/policies/health-safety.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://stpatricksns.ie/policies/Withdrawal Of Children From Class.pdf",
+      "final_url": "https://stpatricksns.ie/policies/Withdrawal Of Children From Class.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://stpatricksns.ie/policies/Waste Management.pdf",
+      "final_url": "https://stpatricksns.ie/policies/Waste Management.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://stpatricksns.ie/policies/Trainee Teachers - Work Experience.pdf",
+      "final_url": "https://stpatricksns.ie/policies/Trainee Teachers - Work Experience.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://stpatricksns.ie/policies/Toys.pdf",
+      "final_url": "https://stpatricksns.ie/policies/Toys.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://stpatricksns.ie/policies/Supervision.pdf",
+      "final_url": "https://stpatricksns.ie/policies/Supervision.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://stpatricksns.ie/policies/Substance Use.pdf",
+      "final_url": "https://stpatricksns.ie/policies/Substance Use.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://stpatricksns.ie/policies/Statement_of_Strategy_for_School_Attendance (2).pdf",
+      "final_url": "https://stpatricksns.ie/policies/Statement_of_Strategy_for_School_Attendance (2).pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://stpatricksns.ie/policies/Sports Days.pdf",
+      "final_url": "https://stpatricksns.ie/policies/Sports Days.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    }
+  ],
+  "documents": [
+    {
+      "roll": "20130B",
+      "url": "https://stpatricksns.ie",
+      "label": "School homepage",
+      "sha256": "b54b63178e83d2558bf0c785e3256209328725f9cd5c77a5192337687a44b09d",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20130B_b54b63178e83d2558bf0.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 4832
+    },
+    {
+      "roll": "20130B",
+      "url": "https://stpatricksns.ie/policies/Procedure-for-Application-for-Junior-Infants-2027.pdf",
+      "label": "Procedures for Registration for Junior Infants September 2027",
+      "sha256": "3186efcd433f55db93aa3a736002b32a9ccc903ed567a23edf4e05a0c8d4d13d",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20130B_3186efcd433f55db93aa.txt",
+      "source_file": "database/milestone2/cache/3186efcd433f55db93aa3a736002b32a9ccc903ed567a23edf4e05a0c8d4d13d.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 3296
+    },
+    {
+      "roll": "20130B",
+      "url": "https://stpatricksns.ie/policies/Admissions-Policy-10-26.pdf",
+      "label": "Admission Policy",
+      "sha256": "c3ea661b458ab9add5f9176376856211d9ee450397ed4f4ebbb1e00080a5a72e",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20130B_c3ea661b458ab9add5f9.txt",
+      "source_file": "database/milestone2/cache/c3ea661b458ab9add5f9176376856211d9ee450397ed4f4ebbb1e00080a5a72e.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 26801
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://stpatricksns.ie/policies/Special Needs Assistants.pdf",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/policies/School-Uniform.pdf",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/policies/School Tours.pdf",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/policies/School Newsletters.pdf",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/policies/SPHE.pdf",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/policies/Remote-Teaching-Action-Plan-Covid.pdf",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/policies/Re-registration - Transferring to Another School.pdf",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/policies/Photographs.pdf",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/policies/Parking.pdf",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/policies/Parents as Partners.pdf",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/policies/Parental-Complaints-Procedure.pdf",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/policies/Parent Helpers.pdf",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/policies/Notification-of-review-Child-Safeguarding-26.pdf",
+      "label": "Notification of review Child-Safeguarding",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/policies/Mobile-Phones.pdf",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/policies/Mission Statement.pdf",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/policies/Meetings with Teachers.pdf",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/policies/Healthy-Food.pdf",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/policies/Guidelines for Parents of Junior Infants Starting School.pdf",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/policies/Extra Curricular Activities - Sporting Activities.pdf",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/policies/Entry and Exit Procedures - Leaving School Early.pdf",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/policies/Early Collection Of Children From School.pdf",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/policies/Code-of-Behaviour-Child-Friendly.pdf",
+      "label": "Child Friendly Code of Behaviour",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/policies/Child Safeguarding Statement & Risk Assessment.pdf",
+      "label": "Child Safeguarding Statement & Risk Assessment",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/policies/Child Custody.pdf",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/policies/Charitable Collections.pdf",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/policies/Birthday Parties - Festivals.pdf",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/policies/Assessment.pdf",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/policies/Administration Of Medicine.pdf",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/policies/Absence - infection - sick children in school.pdf",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/policies/swimming-policy-september-2019.pdf",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_newsletter_search.php",
+      "label": "Newsletters",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=99",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=86",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=85",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=84",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=74",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=69",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=68",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=41",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=38",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=36",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=33",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=30",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=3",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=29",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=275",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=274",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=273",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=272",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=271",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=270",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=268",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=267",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=266",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=265",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=264",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=263",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=262",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=261",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=260",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=26",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=259",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=258",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=256",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=255",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=254",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=253",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=252",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=251",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=250",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=249",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=248",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=247",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=246",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=245",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=244",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=243",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=242",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=241",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=240",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=239",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=238",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=237",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=236",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=235",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=234",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=233",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=232",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=231",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=230",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=23",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=229",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=228",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=227",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=226",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=225",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=224",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=223",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=222",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=221",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=220",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=219",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=218",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=217",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=216",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=215",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=214",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=213",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=212",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=211",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=210",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=209",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=208",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=207",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=206",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=205",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=204",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=203",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=202",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=201",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=200",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=2",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=199",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=198",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=197",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=196",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=195",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=194",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=193",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=192",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=191",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=190",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=189",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=188",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=187",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=186",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=185",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=184",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=183",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=182",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=181",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=180",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=179",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=178",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=177",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=176",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=175",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=174",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=173",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=172",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=171",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=170",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=169",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=168",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=167",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=166",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=165",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=164",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=163",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=162",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=161",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=160",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=159",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=158",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=157",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=156",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=155",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=154",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=153",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=152",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=151",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=150",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=149",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=148",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=147",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=146",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=145",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=144",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=143",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=142",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=141",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=140",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=139",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=138",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=137",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=136",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=135",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=134",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=133",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=132",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=131",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=130",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=129",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=128",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=127",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=126",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=125",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=124",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=123",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=122",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=121",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=120",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=119",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=118",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=117",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=116",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=115",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=114",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=113",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=112",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=111",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=110",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=109",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=108",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=107",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=106",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=105",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=104",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=103",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=102",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=101",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search_results.php?id=100",
+      "label": "Read More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents_association_news_search.php?year=0",
+      "label": "Archived News",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents.php?id=9",
+      "label": "Committee",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents.php?id=8",
+      "label": "Green Schools",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents.php?id=6",
+      "label": "Stay Safe",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents.php?id=5",
+      "label": "Internet Safety",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents.php?id=4",
+      "label": "Table Tips",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents.php?id=33",
+      "label": "ShowMe - Print Writing Formation",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents.php?id=32",
+      "label": "PA Smartphone Free Voluntary Code",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents.php?id=31",
+      "label": "Lámh Signs",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents.php?id=3",
+      "label": "Spelling Tips",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents.php?id=26",
+      "label": "ShowMe - Number Formation",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents.php?id=25",
+      "label": "Board of Management Information",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents.php?id=24",
+      "label": "Summer Reading Club Forms",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents.php?id=23",
+      "label": "Letter Sounds",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents.php?id=22",
+      "label": "Action Team Partnership",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents.php?id=21",
+      "label": "Learning About Money",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents.php?id=2",
+      "label": "Parking",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents.php?id=19",
+      "label": "Hidden Treasures",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents.php?id=18",
+      "label": "Science Week",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents.php?id=17",
+      "label": "ShowMe - Cursive Writing",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents.php?id=16",
+      "label": "Helping your child with writing",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents.php?id=15",
+      "label": "Shared Reading Activities",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents.php?id=14",
+      "label": "NCCA Links",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents.php?id=13",
+      "label": "Presentations",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents.php?id=11",
+      "label": "Constitution",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents.php?id=10",
+      "label": "About",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/policies/extra_curricular_activities_policy_procedures.pdf",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/policies/Special-Educational-Needs.pdf",
+      "label": "Special Education Needs Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/policies/Special-Education-Needs-Policy-Overview.pdf",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/policies/Religious-Education-Policy.pdf",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/policies/Inclusion (Equality, Intercultural and Anti-Racism Policy).pdf",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/policies/Homework-Home-School-Communication-Policy.pdf",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/policies/Data-Protection-Policy-April-19.pdf",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/policies/CCTV_Policy-April-19.pdf",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/policies/Bí-Cineálta-Anti--Bullying-Policy.pdf",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/policies/Anti-Bullying.pdf",
+      "label": "Anti-Bullying Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/policies/Acceptable-Usage-of-Digital-Technology-Policy-(AUP).pdf",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/downloads/Protected-Disclosures-in-the-Workplace-Policy.pdf",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatricksns.ie/parents.php?id=20",
+      "label": "Pupil Personal Accident Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 80.35,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:48:02+0000"
+}

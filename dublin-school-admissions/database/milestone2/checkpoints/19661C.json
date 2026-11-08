@@ -1,0 +1,270 @@
+{
+  "roll": "19661C",
+  "status": "bounded_search_no_new_notice_found",
+  "attempts": [
+    {
+      "url": "https://wordpress.com/abuse/?report_url=https://stgabrielsprimary.ie/enrolment-forms/",
+      "final_url": "https://wordpress.com/abuse/?report_url=https://stgabrielsprimary.ie/enrolment-forms/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Report this content"
+    },
+    {
+      "url": "https://wordpress.com/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://wordpress.com/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "http_404",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://wordpress.com/abuse/?report_url=https%3A%2F%2Fstgabrielsprimary.ie%2Fenrolment-forms%2F",
+      "final_url": "https://wordpress.com/abuse/?report_url=https%3A%2F%2Fstgabrielsprimary.ie%2Fenrolment-forms%2F",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "All reporting options"
+    },
+    {
+      "url": "https://wordpress.com/abuse/?report_type=technology&report_url=https%3A%2F%2Fstgabrielsprimary.ie%2Fenrolment-forms%2F",
+      "final_url": "https://wordpress.com/abuse/?report_type=technology&report_url=https%3A%2F%2Fstgabrielsprimary.ie%2Fenrolment-forms%2F",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Technological Harm Malware, spyware, adware etc. Phishing. Spam or machine-generated content."
+    },
+    {
+      "url": "https://wordpress.com/abuse/?report_type=regulation&report_url=https%3A%2F%2Fstgabrielsprimary.ie%2Fenrolment-forms%2F",
+      "final_url": "https://wordpress.com/abuse/?report_type=regulation&report_url=https%3A%2F%2Fstgabrielsprimary.ie%2Fenrolment-forms%2F",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Regulated Material The sale of prohibited or highly regulated items. Gambling and explicit material."
+    },
+    {
+      "url": "https://wordpress.com/abuse/?report_type=privacy&report_url=https%3A%2F%2Fstgabrielsprimary.ie%2Fenrolment-forms%2F",
+      "final_url": "https://wordpress.com/abuse/?report_type=privacy&report_url=https%3A%2F%2Fstgabrielsprimary.ie%2Fenrolment-forms%2F",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Privacy Concerns about my private information."
+    },
+    {
+      "url": "https://wordpress.com/abuse/?report_type=legal&report_url=https%3A%2F%2Fstgabrielsprimary.ie%2Fenrolment-forms%2F",
+      "final_url": "https://wordpress.com/abuse/?report_type=legal&report_url=https%3A%2F%2Fstgabrielsprimary.ie%2Fenrolment-forms%2F",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Legal Report copyright and trademark infringement, illegal content in the EU, or non-consensual intimate imagery under the Take It Down Act."
+    },
+    {
+      "url": "https://wordpress.com/abuse/?report_type=at-risk&report_url=https%3A%2F%2Fstgabrielsprimary.ie%2Fenrolment-forms%2F",
+      "final_url": "https://wordpress.com/abuse/?report_type=at-risk&report_url=https%3A%2F%2Fstgabrielsprimary.ie%2Fenrolment-forms%2F",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Person at Risk A person at imminent risk of death or severe physical harm."
+    },
+    {
+      "url": "https://wordpress.com/abuse/?report_type=abuse&report_url=https%3A%2F%2Fstgabrielsprimary.ie%2Fenrolment-forms%2F",
+      "final_url": "https://wordpress.com/abuse/?report_type=abuse&report_url=https%3A%2F%2Fstgabrielsprimary.ie%2Fenrolment-forms%2F",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Abuse Abusive content, harassment, and defamation."
+    },
+    {
+      "url": "https://wordpress.com/abuse/?category=violence&report_type=abuse&report_url=https%3A%2F%2Fstgabrielsprimary.ie%2Fenrolment-forms%2F",
+      "final_url": "https://wordpress.com/abuse/?category=violence&report_type=abuse&report_url=https%3A%2F%2Fstgabrielsprimary.ie%2Fenrolment-forms%2F",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Calls to violence"
+    },
+    {
+      "url": "https://wordpress.com/abuse/?category=terrorism&report_type=abuse&report_url=https%3A%2F%2Fstgabrielsprimary.ie%2Fenrolment-forms%2F",
+      "final_url": "https://wordpress.com/abuse/?category=terrorism&report_type=abuse&report_url=https%3A%2F%2Fstgabrielsprimary.ie%2Fenrolment-forms%2F",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Terrorist Activity"
+    },
+    {
+      "url": "https://wordpress.com/abuse/?category=spam&report_type=technology&report_url=https%3A%2F%2Fstgabrielsprimary.ie%2Fenrolment-forms%2F",
+      "final_url": "https://wordpress.com/abuse/?category=spam&report_type=technology&report_url=https%3A%2F%2Fstgabrielsprimary.ie%2Fenrolment-forms%2F",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Spam or excessive automated actions"
+    },
+    {
+      "url": "https://wordpress.com/abuse/?category=sexualization&report_type=privacy&report_url=https%3A%2F%2Fstgabrielsprimary.ie%2Fenrolment-forms%2F",
+      "final_url": "https://wordpress.com/abuse/?category=sexualization&report_type=privacy&report_url=https%3A%2F%2Fstgabrielsprimary.ie%2Fenrolment-forms%2F",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "I am being sexualized without my consent"
+    },
+    {
+      "url": "https://wordpress.com/abuse/?category=restricted&report_type=regulation&report_url=https%3A%2F%2Fstgabrielsprimary.ie%2Fenrolment-forms%2F",
+      "final_url": "https://wordpress.com/abuse/?category=restricted&report_type=regulation&report_url=https%3A%2F%2Fstgabrielsprimary.ie%2Fenrolment-forms%2F",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Sale of prohibited or highly regulated items"
+    },
+    {
+      "url": "https://wordpress.com/abuse/?category=request&report_type=privacy&report_url=https%3A%2F%2Fstgabrielsprimary.ie%2Fenrolment-forms%2F",
+      "final_url": "https://wordpress.com/abuse/?category=request&report_type=privacy&report_url=https%3A%2F%2Fstgabrielsprimary.ie%2Fenrolment-forms%2F",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "I want to request my information"
+    },
+    {
+      "url": "https://wordpress.com/abuse/?category=phishing&report_type=technology&report_url=https%3A%2F%2Fstgabrielsprimary.ie%2Fenrolment-forms%2F",
+      "final_url": "https://wordpress.com/abuse/?category=phishing&report_type=technology&report_url=https%3A%2F%2Fstgabrielsprimary.ie%2Fenrolment-forms%2F",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Phishing"
+    },
+    {
+      "url": "https://wordpress.com/abuse/?category=ncii&report_type=legal&report_url=https%3A%2F%2Fstgabrielsprimary.ie%2Fenrolment-forms%2F",
+      "final_url": "https://wordpress.com/abuse/?category=ncii&report_type=legal&report_url=https%3A%2F%2Fstgabrielsprimary.ie%2Fenrolment-forms%2F",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Report non-consensual intimate imagery"
+    },
+    {
+      "url": "https://wordpress.com/abuse/?category=minors&report_type=abuse&report_url=https%3A%2F%2Fstgabrielsprimary.ie%2Fenrolment-forms%2F",
+      "final_url": "https://wordpress.com/abuse/?category=minors&report_type=abuse&report_url=https%3A%2F%2Fstgabrielsprimary.ie%2Fenrolment-forms%2F",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Harm to Minors"
+    },
+    {
+      "url": "https://wordpress.com/abuse/?category=mature&report_type=regulation&report_url=https%3A%2F%2Fstgabrielsprimary.ie%2Fenrolment-forms%2F",
+      "final_url": "https://wordpress.com/abuse/?category=mature&report_type=regulation&report_url=https%3A%2F%2Fstgabrielsprimary.ie%2Fenrolment-forms%2F",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Mature"
+    },
+    {
+      "url": "https://wordpress.com/abuse/?category=malware&report_type=technology&report_url=https%3A%2F%2Fstgabrielsprimary.ie%2Fenrolment-forms%2F",
+      "final_url": "https://wordpress.com/abuse/?category=malware&report_type=technology&report_url=https%3A%2F%2Fstgabrielsprimary.ie%2Fenrolment-forms%2F",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Malware, Spyware, Adware etc."
+    },
+    {
+      "url": "https://wordpress.com/abuse/?category=login&report_type=privacy&report_url=https%3A%2F%2Fstgabrielsprimary.ie%2Fenrolment-forms%2F",
+      "final_url": "https://wordpress.com/abuse/?category=login&report_type=privacy&report_url=https%3A%2F%2Fstgabrielsprimary.ie%2Fenrolment-forms%2F",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "I've lost my login information"
+    },
+    {
+      "url": "https://wordpress.com/abuse/?category=information&report_type=privacy&report_url=https%3A%2F%2Fstgabrielsprimary.ie%2Fenrolment-forms%2F",
+      "final_url": "https://wordpress.com/abuse/?category=information&report_type=privacy&report_url=https%3A%2F%2Fstgabrielsprimary.ie%2Fenrolment-forms%2F",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "My private information is being shared"
+    },
+    {
+      "url": "https://wordpress.com/abuse/?category=impersonation&report_type=abuse&report_url=https%3A%2F%2Fstgabrielsprimary.ie%2Fenrolment-forms%2F",
+      "final_url": "https://wordpress.com/abuse/?category=impersonation&report_type=abuse&report_url=https%3A%2F%2Fstgabrielsprimary.ie%2Fenrolment-forms%2F",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Impersonation"
+    },
+    {
+      "url": "https://wordpress.com/abuse/?category=illegal_content_eu&report_type=legal&report_url=https%3A%2F%2Fstgabrielsprimary.ie%2Fenrolment-forms%2F",
+      "final_url": "https://wordpress.com/abuse/?category=illegal_content_eu&report_type=legal&report_url=https%3A%2F%2Fstgabrielsprimary.ie%2Fenrolment-forms%2F",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Report illegal content in the EU"
+    }
+  ],
+  "documents": [],
+  "pending_links": [
+    {
+      "url": "https://wordpress.com/abuse/?category=hate&report_type=abuse&report_url=https%3A%2F%2Fstgabrielsprimary.ie%2Fenrolment-forms%2F",
+      "label": "Hateful Conduct",
+      "via": "prior_public_admissions_landing"
+    },
+    {
+      "url": "https://wordpress.com/abuse/?category=harassment&report_type=abuse&report_url=https%3A%2F%2Fstgabrielsprimary.ie%2Fenrolment-forms%2F",
+      "label": "Harassment",
+      "via": "prior_public_admissions_landing"
+    },
+    {
+      "url": "https://wordpress.com/abuse/?category=gambling&report_type=regulation&report_url=https%3A%2F%2Fstgabrielsprimary.ie%2Fenrolment-forms%2F",
+      "label": "Gambling",
+      "via": "prior_public_admissions_landing"
+    },
+    {
+      "url": "https://wordpress.com/abuse/?category=deletion&report_type=privacy&report_url=https%3A%2F%2Fstgabrielsprimary.ie%2Fenrolment-forms%2F",
+      "label": "I want to delete my account and information",
+      "via": "prior_public_admissions_landing"
+    },
+    {
+      "url": "https://wordpress.com/abuse/?category=defamation&report_type=abuse&report_url=https%3A%2F%2Fstgabrielsprimary.ie%2Fenrolment-forms%2F",
+      "label": "Defamation",
+      "via": "prior_public_admissions_landing"
+    },
+    {
+      "url": "https://wordpress.com/abuse/?category=control&report_type=privacy&report_url=https%3A%2F%2Fstgabrielsprimary.ie%2Fenrolment-forms%2F",
+      "label": "I have lost access to the person who has created the site",
+      "via": "prior_public_admissions_landing"
+    },
+    {
+      "url": "https://wordpress.com/abuse/?category=adult&report_type=regulation&report_url=https%3A%2F%2Fstgabrielsprimary.ie%2Fenrolment-forms%2F",
+      "label": "Sexually Explicit Material",
+      "via": "prior_public_admissions_landing"
+    },
+    {
+      "url": "https://wordpress.com/abuse/?answer=yes&category=information&report_type=privacy&report_url=https%3A%2F%2Fstgabrielsprimary.ie%2Fenrolment-forms%2F",
+      "label": "Yes",
+      "via": "prior_public_admissions_landing"
+    },
+    {
+      "url": "https://wordpress.com/abuse/?answer=yes&category=impersonation&report_type=abuse&report_url=https%3A%2F%2Fstgabrielsprimary.ie%2Fenrolment-forms%2F",
+      "label": "Yes",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://wordpress.com/abuse/?answer=no&category=information&report_type=privacy&report_url=https%3A%2F%2Fstgabrielsprimary.ie%2Fenrolment-forms%2F",
+      "label": "No",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://wordpress.com/abuse/?answer=no&category=impersonation&report_type=abuse&report_url=https%3A%2F%2Fstgabrielsprimary.ie%2Fenrolment-forms%2F",
+      "label": "No",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stgabrielsprimary.ie/enrolment-forms/",
+      "label": "Enrolment",
+      "via": "prior_public_admissions_landing"
+    },
+    {
+      "url": "https://wordpress.com/support/sitemap.xml",
+      "label": "Public sitemap",
+      "via": "sitemap_root"
+    },
+    {
+      "url": "https://wordpress.com/sitemap.xml",
+      "label": "Public sitemap",
+      "via": "sitemap_root"
+    },
+    {
+      "url": "https://wordpress.com/news-sitemap.xml",
+      "label": "Public sitemap",
+      "via": "sitemap_root"
+    },
+    {
+      "url": "https://wordpress.com/go/sitemap.xml",
+      "label": "Public sitemap",
+      "via": "sitemap_root"
+    },
+    {
+      "url": "https://wordpress.com/blog/sitemap.xml",
+      "label": "Public sitemap",
+      "via": "sitemap_root"
+    },
+    {
+      "url": "https://stgabrielsprimary.ie",
+      "label": "School homepage",
+      "via": "home"
+    }
+  ],
+  "elapsed_seconds": 71.21,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:57:30+0000"
+}

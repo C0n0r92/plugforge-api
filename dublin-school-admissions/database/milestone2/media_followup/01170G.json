@@ -1,0 +1,57 @@
+{
+  "roll": "01170G",
+  "attempted_at": "2026-11-08T13:09:03+0000",
+  "method": "documented_public_WordPress_media_notice_and_Irish_title_gap_search",
+  "attempts": [
+    {
+      "url": "https://www.naulschool.ie/wp-json/wp/v2/media?search=notice&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.naulschool.ie/wp-json/wp/v2/media?search=f%C3%B3gra&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.naulschool.ie/wp-content/uploads/2025/01/Annual-Admission-Notice-2025.26.docx",
+      "status": "ok",
+      "label": "Annual Admission Notice 2025.26"
+    },
+    {
+      "url": "https://www.naulschool.ie/wp-content/uploads/2025/01/Annual-Admission-Notice-2025.26-1.docx",
+      "status": "ok",
+      "label": "Annual Admission Notice 2025.26"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "01170G",
+      "url": "https://www.naulschool.ie/wp-content/uploads/2025/01/Annual-Admission-Notice-2025.26.docx",
+      "label": "Annual Admission Notice 2025.26",
+      "sha256": "d89cf40706b138e0c049e73a9534d6d45480651f9a55e68d1d4431a2324566c3",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/01170G_d89cf40706b138e0c049.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 2512,
+      "discovery_method": "documented_WP_notice_or_Irish_title_media_query",
+      "cms_media_date_as_printed_not_publication": "2025-01-07T15:23:42"
+    },
+    {
+      "roll": "01170G",
+      "url": "https://www.naulschool.ie/wp-content/uploads/2025/01/Annual-Admission-Notice-2025.26-1.docx",
+      "label": "Annual Admission Notice 2025.26",
+      "sha256": "ac6e0679e686963e1297500530c906685be30a74dd4630d3b25c4073e7b133a3",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/01170G_ac6e0679e686963e1297.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 2537,
+      "discovery_method": "documented_WP_notice_or_Irish_title_media_query",
+      "cms_media_date_as_printed_not_publication": "2025-01-07T15:30:58"
+    }
+  ],
+  "pending_links": [],
+  "earliest_year_cutoff": null,
+  "status": "attempted_new_historical_notice_candidates",
+  "elapsed_seconds": 15.7
+}

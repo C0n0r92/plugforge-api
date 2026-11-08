@@ -1,0 +1,86 @@
+{
+  "roll": "17936F",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.belgroveseniorboys.com/",
+      "final_url": "https://www.belgroveseniorboys.com/",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.belgroveseniorboys.com/policies",
+      "final_url": "https://www.belgroveseniorboys.com/policies",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies, Forms & Helpful Information"
+    },
+    {
+      "url": "https://irp.cdn-website.com/5239b393/files/uploaded/Annual+Admissions+Notice+26_27.pdf",
+      "final_url": "https://irp.cdn-website.com/5239b393/files/uploaded/Annual+Admissions+Notice+26_27.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://irp-cdn.multiscreensite.com/5239b393/files/uploaded/Enrolment%20form%202019%20%28revised%29.pdf",
+      "final_url": "https://irp-cdn.multiscreensite.com/5239b393/files/uploaded/Enrolment%20form%202019%20%28revised%29.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://irp.cdn-website.com/5239b393/files/uploaded/Belgrove%20SBS%20Admission%20Policy%202022_23.pdf",
+      "final_url": "https://irp.cdn-website.com/5239b393/files/uploaded/Belgrove%20SBS%20Admission%20Policy%202022_23.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.belgroveseniorboys.com/parent-information",
+      "final_url": "https://www.belgroveseniorboys.com/parent-information",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents"
+    },
+    {
+      "url": "https://www.belgroveseniorboys.com/ParentsAssociation",
+      "final_url": "https://www.belgroveseniorboys.com/ParentsAssociation",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents' Association"
+    },
+    {
+      "url": "http://www.belgroveseniorboys.com/sitemap.xml",
+      "final_url": "http://www.belgroveseniorboys.com/sitemap.xml",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.belgroveseniorboys.com/privacy-policy",
+      "final_url": "https://www.belgroveseniorboys.com/privacy-policy",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Privacy Policy"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "17936F",
+      "url": "https://www.belgroveseniorboys.com/policies",
+      "label": "Policies, Forms & Helpful Information",
+      "sha256": "05bc26e80ebf102f306ac7596be3a50f4caacc34262ac20b133f736d875ef133",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/17936F_05bc26e80ebf102f306a.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 817
+    }
+  ],
+  "pending_links": [],
+  "elapsed_seconds": 12.14,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:03:14+0000"
+}

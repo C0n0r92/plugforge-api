@@ -1,0 +1,266 @@
+{
+  "roll": "19303W",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.virginmarygns.ie/enrolment-forms.html",
+      "final_url": "https://www.virginmarygns.ie/enrolment-forms.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Enrolment Forms"
+    },
+    {
+      "url": "https://www.virginmarygns.ie/uploads/3/9/4/3/39434705/special_class_admission_2027.pdf",
+      "final_url": "https://www.virginmarygns.ie/uploads/3/9/4/3/39434705/special_class_admission_2027.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "here"
+    },
+    {
+      "url": "https://www.virginmarygns.ie/uploads/3/9/4/3/39434705/ji_admission_2027.pdf",
+      "final_url": "https://www.virginmarygns.ie/uploads/3/9/4/3/39434705/ji_admission_2027.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "here"
+    },
+    {
+      "url": "https://www.virginmarygns.ie/uploads/3/9/4/3/39434705/admission_policy_vmgns_26-27.pdf",
+      "final_url": "https://www.virginmarygns.ie/uploads/3/9/4/3/39434705/admission_policy_vmgns_26-27.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "here"
+    },
+    {
+      "url": "https://www.virginmarygns.ie/sitemap.xml",
+      "final_url": "https://www.virginmarygns.ie/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.virginmarygns.ie/school-policies.html",
+      "final_url": "https://www.virginmarygns.ie/school-policies.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Policies"
+    },
+    {
+      "url": "https://www.virginmarygns.ie/uploads/3/9/4/3/39434705/virgin_mary_gns_admissions_policy_oct_2025.pdf",
+      "final_url": "https://www.virginmarygns.ie/uploads/3/9/4/3/39434705/virgin_mary_gns_admissions_policy_oct_2025.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "下载文件：Virgin Mary GNS Admissions policy Oct 2025 Approved"
+    },
+    {
+      "url": "https://www.virginmarygns.ie/uploads/3/9/4/3/39434705/health_and_safety_statement_vmgns_2025-2026.pdf",
+      "final_url": "https://www.virginmarygns.ie/uploads/3/9/4/3/39434705/health_and_safety_statement_vmgns_2025-2026.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download File"
+    },
+    {
+      "url": "https://www.virginmarygns.ie/uploads/3/9/4/3/39434705/code_of_behaviour_2025-2026_virgin_mary_gns.pdf",
+      "final_url": "https://www.virginmarygns.ie/uploads/3/9/4/3/39434705/code_of_behaviour_2025-2026_virgin_mary_gns.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download File"
+    },
+    {
+      "url": "https://www.virginmarygns.ie/uploads/3/9/4/3/39434705/child_safeguarding_statement_and_risk_assessment_vmgns_2025-26.pdf",
+      "final_url": "https://www.virginmarygns.ie/uploads/3/9/4/3/39434705/child_safeguarding_statement_and_risk_assessment_vmgns_2025-26.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download File"
+    },
+    {
+      "url": "https://www.virginmarygns.ie/policies.html",
+      "final_url": "https://www.virginmarygns.ie/policies.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies >"
+    },
+    {
+      "url": "https://www.virginmarygns.ie/uploads/3/9/4/3/39434705/bí_cinealta_policy_19303w.pdf",
+      "final_url": "https://www.virginmarygns.ie/uploads/3/9/4/3/39434705/bí_cinealta_policy_19303w.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "下载文件：bí_cinealta_policy_19303w.pdf"
+    },
+    {
+      "url": "https://www.virginmarygns.ie/uploads/3/9/4/3/39434705/procedure_for_arrival_and_dismissal_of_pupils_2025.pdf",
+      "final_url": "https://www.virginmarygns.ie/uploads/3/9/4/3/39434705/procedure_for_arrival_and_dismissal_of_pupils_2025.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download File"
+    },
+    {
+      "url": "https://www.virginmarygns.ie/uploads/3/9/4/3/39434705/attendance_23-24.pdf",
+      "final_url": "https://www.virginmarygns.ie/uploads/3/9/4/3/39434705/attendance_23-24.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download File"
+    },
+    {
+      "url": "https://www.virginmarygns.ie/uploads/3/9/4/3/39434705/vmgns_acceptable_use_policy_2019.pdf",
+      "final_url": "https://www.virginmarygns.ie/uploads/3/9/4/3/39434705/vmgns_acceptable_use_policy_2019.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "here"
+    },
+    {
+      "url": "https://www.virginmarygns.ie/cyber-bullying-some-advice-for-parents.html",
+      "final_url": "https://www.virginmarygns.ie/cyber-bullying-some-advice-for-parents.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Cyber Bullying: Some Advice for Parents"
+    },
+    {
+      "url": "https://www.virginmarygns.ie/",
+      "final_url": "https://www.virginmarygns.ie/",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.virginmarygns.ie/uploads/3/9/4/3/39434705/first_aid_policy_and_procedure_2021.pdf",
+      "final_url": "https://www.virginmarygns.ie/uploads/3/9/4/3/39434705/first_aid_policy_and_procedure_2021.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "下载文件：First Aid"
+    },
+    {
+      "url": "https://www.virginmarygns.ie/uploads/3/9/4/3/39434705/fire_drill_and_evacuation_policy_2021.pdf",
+      "final_url": "https://www.virginmarygns.ie/uploads/3/9/4/3/39434705/fire_drill_and_evacuation_policy_2021.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "下载文件：Fire Drill"
+    },
+    {
+      "url": "https://www.virginmarygns.ie/uploads/3/9/4/3/39434705/exemption_from_irish_policy_2021.pdf",
+      "final_url": "https://www.virginmarygns.ie/uploads/3/9/4/3/39434705/exemption_from_irish_policy_2021.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "下载文件：Exemption from Irish.pdf"
+    },
+    {
+      "url": "https://www.virginmarygns.ie/uploads/3/9/4/3/39434705/assessment_policy_2021.pdf",
+      "final_url": "https://www.virginmarygns.ie/uploads/3/9/4/3/39434705/assessment_policy_2021.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "下载文件：Assessment"
+    },
+    {
+      "url": "https://www.virginmarygns.ie/uploads/3/9/4/3/39434705/anti-cyber_bullying_policy_2021.pdf",
+      "final_url": "https://www.virginmarygns.ie/uploads/3/9/4/3/39434705/anti-cyber_bullying_policy_2021.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "下载文件：Anti Cyber Bullying"
+    },
+    {
+      "url": "https://www.virginmarygns.ie/uploads/3/9/4/3/39434705/updated_healthy_eating_policy_2024_.pdf",
+      "final_url": "https://www.virginmarygns.ie/uploads/3/9/4/3/39434705/updated_healthy_eating_policy_2024_.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "下载文件：Healthy Eating Policy"
+    },
+    {
+      "url": "https://www.virginmarygns.ie/uploads/3/9/4/3/39434705/whistleblowing_policy_2025-2026.pdf",
+      "final_url": "https://www.virginmarygns.ie/uploads/3/9/4/3/39434705/whistleblowing_policy_2025-2026.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "下载文件：Whistleblowing Policy 2025-2026"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19303W",
+      "url": "https://www.virginmarygns.ie/uploads/3/9/4/3/39434705/special_class_admission_2027.pdf",
+      "label": "here",
+      "sha256": "fff84ed06e6a268df8501f7ba7329f090343fcba52135721c0ece775f2ee0d5c",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19303W_fff84ed06e6a268df850.txt",
+      "source_file": "database/milestone2/cache/fff84ed06e6a268df8501f7ba7329f090343fcba52135721c0ece775f2ee0d5c.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 2696
+    },
+    {
+      "roll": "19303W",
+      "url": "https://www.virginmarygns.ie/uploads/3/9/4/3/39434705/ji_admission_2027.pdf",
+      "label": "here",
+      "sha256": "3958f1f96bafa95c3ab4ec0a9a16bf158dea95933dd2873dd7cfdf2f7e8d2e3a",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19303W_3958f1f96bafa95c3ab4.txt",
+      "source_file": "database/milestone2/cache/3958f1f96bafa95c3ab4ec0a9a16bf158dea95933dd2873dd7cfdf2f7e8d2e3a.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 2311
+    },
+    {
+      "roll": "19303W",
+      "url": "https://www.virginmarygns.ie/uploads/3/9/4/3/39434705/admission_policy_vmgns_26-27.pdf",
+      "label": "here",
+      "sha256": "5d740930b3aec5bd8af3e1ebe20d06238e63056d8eaffcb3d9cef85a667c5359",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19303W_5d740930b3aec5bd8af3.txt",
+      "source_file": "database/milestone2/cache/5d740930b3aec5bd8af3e1ebe20d06238e63056d8eaffcb3d9cef85a667c5359.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 26057
+    },
+    {
+      "roll": "19303W",
+      "url": "https://www.virginmarygns.ie/school-policies.html",
+      "label": "School Policies",
+      "sha256": "27206597cbf71bf6739504d08ae1d5936b09aa547fcdfd1ba38769502671d0a1",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19303W_27206597cbf71bf67395.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 2765
+    },
+    {
+      "roll": "19303W",
+      "url": "https://www.virginmarygns.ie/uploads/3/9/4/3/39434705/virgin_mary_gns_admissions_policy_oct_2025.pdf",
+      "label": "下载文件：Virgin Mary GNS Admissions policy Oct 2025 Approved",
+      "sha256": "ef41426af52056308ab5f5ff3c77b99247798797a2b41d3cf2a593b3e0f349b6",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19303W_ef41426af52056308ab5.txt",
+      "source_file": "database/milestone2/cache/ef41426af52056308ab5f5ff3c77b99247798797a2b41d3cf2a593b3e0f349b6.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 25178
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.virginmarygns.ie/uploads/3/9/4/3/39434705/substance_use_policy_2025-2026.pdf",
+      "label": "下载文件：Substance Use Policy 2025-2026",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.virginmarygns.ie/uploads/3/9/4/3/39434705/school_photo_policy_2025.pdf",
+      "label": "下载文件：school_photo_policy_2025.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.virginmarygns.ie/uploads/3/9/4/3/39434705/dignity_in_the_workplace_policy_-_2025.pdf",
+      "label": "下载文件：dignity_in_the_workplace_policy_-_2025.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.virginmarygns.ie/policy-religious-education.html",
+      "label": "Policy-Religious Education",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.virginmarygns.ie/custody--separation-policy.html",
+      "label": "Custody & Separation Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.virginmarygns.ie/anti-bullying-policy.html",
+      "label": "Anti Bullying Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 71.63,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:45:38+0000"
+}

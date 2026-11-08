@@ -1,0 +1,25 @@
+{
+  "task_id": "d3973df74cd921c7320167bab09c689d",
+  "roll": "00697S",
+  "capture": {
+    "digest": "3MGBARFEE2H3APFTH3FU54PBIEITX7DR",
+    "mimetype": "application/pdf",
+    "original": "https://m.saintbrigids.ie/docs/PARENTS%27%20ADMISSION%20POLICY%2023.24.pdf",
+    "statuscode": "200",
+    "timestamp": "20230605201800"
+  },
+  "original_url": "https://m.saintbrigids.ie/docs/PARENTS%27%20ADMISSION%20POLICY%2023.24.pdf",
+  "archived_url": "https://web.archive.org/web/20230605201800/https://m.saintbrigids.ie/docs/PARENTS%27%20ADMISSION%20POLICY%2023.24.pdf",
+  "attempted_at": "2026-11-08T12:32:17.537710+00:00",
+  "http_status": 200,
+  "headers": {
+    "Content-Type": "application/pdf",
+    "memento-datetime": "Mon, 05 Jun 2023 20:18:00 GMT"
+  },
+  "payload_sha256": "006953a42006123bb8fde0fdcf1cfa8becedba0ca64c7bf84c4b49cb2c79ee42",
+  "bytes": 379118,
+  "source_file": "database/milestone2/cache/006953a42006123bb8fde0fdcf1cfa8becedba0ca64c7bf84c4b49cb2c79ee42.pdf",
+  "format": "pdf",
+  "status": "archived_body_retrieved_requires_notice_evidence_review",
+  "text_file": "database/milestone2/evidence/archive_00697S_006953a42006123bb8fd.txt"
+}

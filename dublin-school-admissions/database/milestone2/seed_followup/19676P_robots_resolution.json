@@ -1,0 +1,17 @@
+{
+  "roll": "19676P",
+  "status": "robots_permission_unestablished_http_500",
+  "hops": [
+    {
+      "url": "https://scoilaine.com/robots.txt",
+      "status": 301,
+      "location": "http://www.ScoilAine.com/robots.txt"
+    },
+    {
+      "url": "http://www.ScoilAine.com/robots.txt",
+      "status": 500,
+      "location": null
+    }
+  ],
+  "started_at": "2026-11-08T13:20:59+0000"
+}

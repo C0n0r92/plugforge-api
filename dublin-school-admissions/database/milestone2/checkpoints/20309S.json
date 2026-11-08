@@ -1,0 +1,285 @@
+{
+  "roll": "20309S",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://hopejns.ie/admissions-2026/",
+      "final_url": "https://hopejns.ie/admissions-2026/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions 2026"
+    },
+    {
+      "url": "https://hopejns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://hopejns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://hopejns.ie/wp-content/uploads/2024/10/MMH-JNS-ACAT-Admissions-Notice-and-Appendix.pdf",
+      "final_url": "https://hopejns.ie/wp-content/uploads/2024/10/MMH-JNS-ACAT-Admissions-Notice-and-Appendix.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "MMH JNS ACAT Admissions Notice and Appendix"
+    },
+    {
+      "url": "https://hopejns.ie/wp-content/uploads/2024/10/MMH-JNS-ACAT-Admissions-Notice-and-Appendix-2.pdf",
+      "final_url": "https://hopejns.ie/wp-content/uploads/2024/10/MMH-JNS-ACAT-Admissions-Notice-and-Appendix-2.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "MMH JNS ACAT Admissions Notice and Appendix"
+    },
+    {
+      "url": "https://hopejns.ie/wp-content/uploads/2024/10/MMH-JNS-ACAT-Admissions-Notice-and-Appendix-1.pdf",
+      "final_url": "https://hopejns.ie/wp-content/uploads/2024/10/MMH-JNS-ACAT-Admissions-Notice-and-Appendix-1.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "MMH JNS ACAT Admissions Notice and Appendix"
+    },
+    {
+      "url": "https://hopejns.ie/wp-content/uploads/2023/09/admissions_notification_2022_2023.pdf",
+      "final_url": "https://hopejns.ie/wp-content/uploads/2023/09/admissions_notification_2022_2023.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "admissions_notification_2022_2023"
+    },
+    {
+      "url": "https://hopejns.ie/wp-content/uploads/2026/10/Signed-and-Approved-Admissions-2027.pdf",
+      "final_url": "https://hopejns.ie/wp-content/uploads/2026/10/Signed-and-Approved-Admissions-2027.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Signed and Approved Admissions 2027"
+    },
+    {
+      "url": "https://hopejns.ie/admissions/",
+      "final_url": "https://hopejns.ie/admissions/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://hopejns.ie/wp-content/uploads/2026/10/Enrolment-2027-Steps-to-Follow-Catchment-Areas-1.pdf",
+      "final_url": "https://hopejns.ie/wp-content/uploads/2026/10/Enrolment-2027-Steps-to-Follow-Catchment-Areas-1.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Steps to Follow and Catchment Area 2027 Download"
+    },
+    {
+      "url": "https://hopejns.ie/wp-content/uploads/2023/09/mmh_jns_signed_admissions_policy_2023_2024.pdf",
+      "final_url": "https://hopejns.ie/wp-content/uploads/2023/09/mmh_jns_signed_admissions_policy_2023_2024.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "mmh_jns_signed_admissions_policy_2023_2024"
+    },
+    {
+      "url": "https://hopejns.ie/wp-content/uploads/2023/09/Admissions-Policy-2024.pdf",
+      "final_url": "https://hopejns.ie/wp-content/uploads/2023/09/Admissions-Policy-2024.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Policy 2024"
+    },
+    {
+      "url": "https://hopejns.ie/wp-content/uploads/2023/04/MMH-JNS-Admissions-Policy-2023.pdf",
+      "final_url": "https://hopejns.ie/wp-content/uploads/2023/04/MMH-JNS-Admissions-Policy-2023.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "MMH JNS Admissions Policy 2023"
+    },
+    {
+      "url": "https://hopejns.ie/wp-content/uploads/2023/04/MMH-JNS-Admissions-Policy-2023-Updated.pdf",
+      "final_url": "https://hopejns.ie/wp-content/uploads/2023/04/MMH-JNS-Admissions-Policy-2023-Updated.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "MMH JNS Admissions Policy 2023 Updated"
+    },
+    {
+      "url": "https://hopejns.ie/wp-content/uploads/2024/10/MMH-JNS-Admissions-Policy-2025-2026.pdf",
+      "final_url": "https://hopejns.ie/wp-content/uploads/2024/10/MMH-JNS-Admissions-Policy-2025-2026.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "MMH JNS Admissions Policy 2025 2026"
+    },
+    {
+      "url": "https://hopejns.ie/wp-content/uploads/2025/09/MMH-JNS-Signed-Admission-Policy-2627.pdf",
+      "final_url": "https://hopejns.ie/wp-content/uploads/2025/09/MMH-JNS-Signed-Admission-Policy-2627.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "MMH JNS Signed Admission Policy 2627"
+    },
+    {
+      "url": "https://hopejns.ie/wp-content/uploads/2025/09/MMH-JNS-Patron-Approved-Signed-Admissions-Policy-2025.pdf",
+      "final_url": "https://hopejns.ie/wp-content/uploads/2025/09/MMH-JNS-Patron-Approved-Signed-Admissions-Policy-2025.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "MMH JNS Patron Approved Signed Admissions Policy 2025"
+    },
+    {
+      "url": "https://hopejns.ie/wp-content/uploads/2026/10/Please-check-back-here.pdf",
+      "final_url": "https://hopejns.ie/wp-content/uploads/2026/10/Please-check-back-here.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Registration Junior Infants 2027-2028"
+    },
+    {
+      "url": "https://www.hopejns.ie",
+      "final_url": "https://hopejns.ie/",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://hopejns.ie/sitemap.xml",
+      "final_url": "https://hopejns.ie/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://hopejns.ie/admissions_policies/transfer_request_form_2022_2023.pdf",
+      "final_url": "https://hopejns.ie/admissions_policies/transfer_request_form_2022_2023.pdf",
+      "status": "ok",
+      "via": "sitemap_link",
+      "label": "Admission URL from sitemap"
+    },
+    {
+      "url": "https://hopejns.ie/admissions_policies/transfer_form_asd_class_2022_2023.pdf",
+      "final_url": "https://hopejns.ie/admissions_policies/transfer_form_asd_class_2022_2023.pdf",
+      "status": "ok",
+      "via": "sitemap_link",
+      "label": "Admission URL from sitemap"
+    },
+    {
+      "url": "https://hopejns.ie/admissions_policies/catchment_area_2022_2023.pdf",
+      "final_url": "https://hopejns.ie/admissions_policies/catchment_area_2022_2023.pdf",
+      "status": "ok",
+      "via": "sitemap_link",
+      "label": "Admission URL from sitemap"
+    },
+    {
+      "url": "https://hopejns.ie/admissions_policies/admissions_notification_2022_2023.pdf",
+      "final_url": "https://hopejns.ie/admissions_policies/admissions_notification_2022_2023.pdf",
+      "status": "ok",
+      "via": "sitemap_link",
+      "label": "Admission URL from sitemap"
+    },
+    {
+      "url": "https://hopejns.ie/admissions_policies/registration_form_ji_2023.pdf",
+      "final_url": "https://hopejns.ie/admissions_policies/registration_form_ji_2023.pdf",
+      "status": "ok",
+      "via": "sitemap_link",
+      "label": "Admission URL from sitemap"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "20309S",
+      "url": "https://hopejns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "label": "Oldest public admission media (all dates)",
+      "sha256": "ab06a9d182618804c92821a1dcd6fdfb21d934a345a5e22c354ce25a34948a50",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20309S_ab06a9d182618804c928.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 5526
+    },
+    {
+      "roll": "20309S",
+      "url": "https://hopejns.ie/wp-content/uploads/2024/10/MMH-JNS-ACAT-Admissions-Notice-and-Appendix.pdf",
+      "label": "MMH JNS ACAT Admissions Notice and Appendix",
+      "sha256": "eeda8d231a1c24c69cb0d67c7615c13f7eb53276bc746bead566c19701dd5a36",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20309S_eeda8d231a1c24c69cb0.txt",
+      "source_file": "database/milestone2/cache/eeda8d231a1c24c69cb0d67c7615c13f7eb53276bc746bead566c19701dd5a36.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 9773
+    },
+    {
+      "roll": "20309S",
+      "url": "https://hopejns.ie/wp-content/uploads/2024/10/MMH-JNS-ACAT-Admissions-Notice-and-Appendix-2.pdf",
+      "label": "MMH JNS ACAT Admissions Notice and Appendix",
+      "sha256": "c1a9d4deafbf3d55d3a3a7d6a232a52d79838f0280674f87416c26627a58dc54",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20309S_c1a9d4deafbf3d55d3a3.txt",
+      "source_file": "database/milestone2/cache/c1a9d4deafbf3d55d3a3a7d6a232a52d79838f0280674f87416c26627a58dc54.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 9773
+    },
+    {
+      "roll": "20309S",
+      "url": "https://hopejns.ie/wp-content/uploads/2024/10/MMH-JNS-ACAT-Admissions-Notice-and-Appendix-1.pdf",
+      "label": "MMH JNS ACAT Admissions Notice and Appendix",
+      "sha256": "915afd09c6a3e50366106615095ddfaa944e838f4084286013528c835ddaabef",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20309S_915afd09c6a3e5036610.txt",
+      "source_file": "database/milestone2/cache/915afd09c6a3e50366106615095ddfaa944e838f4084286013528c835ddaabef.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 9772
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://hopejns.ie/admissions_policies/registration_form_asd_class_2023_2024.pdf",
+      "label": "Admission URL from sitemap",
+      "via": "sitemap_link"
+    },
+    {
+      "url": "https://hopejns.ie/admissions_policies/enrolment_2023_steps_to_follow.pdf",
+      "label": "Admission URL from sitemap",
+      "via": "sitemap_link"
+    },
+    {
+      "url": "https://hopejns.ie/enrolment-for-september-2022/",
+      "label": "Admission URL from sitemap",
+      "via": "sitemap_link"
+    },
+    {
+      "url": "https://hopejns.ie/admissions_policies/mmh_jns_signed_admissions_policy_2023_2024.pdf",
+      "label": "Admission URL from sitemap",
+      "via": "sitemap_link"
+    },
+    {
+      "url": "https://hopejns.ie/sitemap.rss",
+      "label": "Public sitemap",
+      "via": "sitemap_root"
+    },
+    {
+      "url": "https://hopejns.ie/parents/your-childs-learning/",
+      "label": "Your Child’s Learning",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://hopejns.ie/parents/parent-association/",
+      "label": "Parent Association",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://hopejns.ie/parents/parent-activities/",
+      "label": "Parent Activities",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://hopejns.ie/parents/helpful-websites/",
+      "label": "Helpful Websites",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://hopejns.ie/our-school/school-policies/",
+      "label": "School Policies",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://hopejns.ie/acat-parent-information-session-1/",
+      "label": "Next post Next post: ACAT Parent Information Session 1",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://hopejns.ie/",
+      "label": "Parents",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 91.76,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:32:58+0000"
+}

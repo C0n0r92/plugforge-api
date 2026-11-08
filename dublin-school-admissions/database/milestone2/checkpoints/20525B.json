@@ -1,0 +1,264 @@
+{
+  "roll": "20525B",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.educatetogether.ie",
+      "final_url": "https://www.educatetogether.ie",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.educatetogether.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://www.educatetogether.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://www.educatetogether.ie/app/uploads/2020/09/2021CETNSAdmissionsNoticeB.pdf",
+      "final_url": "https://www.educatetogether.ie/app/uploads/2020/09/2021CETNSAdmissionsNoticeB.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "2021CETNSAdmissionsNoticeB"
+    },
+    {
+      "url": "https://www.educatetogether.ie/app/uploads/2020/03/20535E_CherrywoodETNS_AdmissionsNotice.pdf",
+      "final_url": "https://www.educatetogether.ie/app/uploads/2020/03/20535E_CherrywoodETNS_AdmissionsNotice.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "20535E_CherrywoodETNS_AdmissionsNotice"
+    },
+    {
+      "url": "https://www.educatetogether.ie/app/uploads/2019/01/Submission-Education-Admissions-to-Schools-Bill-2016.pdf",
+      "final_url": "https://www.educatetogether.ie/app/uploads/2019/01/Submission-Education-Admissions-to-Schools-Bill-2016.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Submission &#8211; Education Admissions to Schools Bill 2016"
+    },
+    {
+      "url": "https://www.educatetogether.ie/app/uploads/2019/10/HaroldsCrossETNS-Admissions-September-2019.docx",
+      "final_url": "https://www.educatetogether.ie/app/uploads/2019/10/HaroldsCrossETNS-Admissions-September-2019.docx",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "HaroldsCrossETNS Admissions September 2019"
+    },
+    {
+      "url": "https://www.educatetogether.ie/app/uploads/2019/11/KRC-Admissions-Policy-2020.pdf",
+      "final_url": "https://www.educatetogether.ie/app/uploads/2019/11/KRC-Admissions-Policy-2020.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "KRC Admissions Policy 2020"
+    },
+    {
+      "url": "https://www.educatetogether.ie/app/uploads/2019/10/HaroldsCrossETNS-Admissions-Policy-September-2019.docx",
+      "final_url": "https://www.educatetogether.ie/app/uploads/2019/10/HaroldsCrossETNS-Admissions-Policy-September-2019.docx",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "HaroldsCrossETNS Admissions Policy September 2019"
+    },
+    {
+      "url": "https://www.educatetogether.ie/app/uploads/2019/04/20190228_NewtownmountkennedyETNS_Admissions-policy-.pdf",
+      "final_url": "https://www.educatetogether.ie/app/uploads/2019/04/20190228_NewtownmountkennedyETNS_Admissions-policy-.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "20190228_NewtownmountkennedyETNS_Admissions policy"
+    },
+    {
+      "url": "https://www.educatetogether.ie/app/uploads/2019/04/20190228_LeixlipETNS_Admissions-policy-.pdf",
+      "final_url": "https://www.educatetogether.ie/app/uploads/2019/04/20190228_LeixlipETNS_Admissions-policy-.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "20190228_LeixlipETNS_Admissions policy"
+    },
+    {
+      "url": "https://www.educatetogether.ie/app/uploads/2019/04/20190228_KRCETNS_Admissions-policy-.pdf",
+      "final_url": "https://www.educatetogether.ie/app/uploads/2019/04/20190228_KRCETNS_Admissions-policy-.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "20190228_KRCETNS_Admissions policy"
+    },
+    {
+      "url": "https://www.educatetogether.ie/app/uploads/2019/04/20190228_HaroldsCrossETNS_Admissions-policy-.pdf",
+      "final_url": "https://www.educatetogether.ie/app/uploads/2019/04/20190228_HaroldsCrossETNS_Admissions-policy-.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "20190228_HaroldsCrossETNS_Admissions policy"
+    },
+    {
+      "url": "https://www.educatetogether.ie/app/uploads/2019/04/20190228_GoatstownStillorganETNS_Admissions-policy-.pdf",
+      "final_url": "https://www.educatetogether.ie/app/uploads/2019/04/20190228_GoatstownStillorganETNS_Admissions-policy-.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "20190228_GoatstownStillorganETNS_Admissions policy"
+    },
+    {
+      "url": "https://www.educatetogether.ie/app/uploads/2019/04/20190228_GlasheenPouladuffETNS_Admissions-policy-.pdf",
+      "final_url": "https://www.educatetogether.ie/app/uploads/2019/04/20190228_GlasheenPouladuffETNS_Admissions-policy-.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "20190228_GlasheenPouladuffETNS_Admissions policy"
+    },
+    {
+      "url": "https://www.educatetogether.ie/app/uploads/2019/04/20190228_Dublin13ETNS_Admissions-policy-.pdf",
+      "final_url": "https://www.educatetogether.ie/app/uploads/2019/04/20190228_Dublin13ETNS_Admissions-policy-.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "20190228_Dublin13ETNS_Admissions policy"
+    },
+    {
+      "url": "https://www.educatetogether.ie/app/uploads/2019/04/20190205_Admissions-Policy_Westport-ETNS.pdf",
+      "final_url": "https://www.educatetogether.ie/app/uploads/2019/04/20190205_Admissions-Policy_Westport-ETNS.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "20190205_Admissions Policy_Westport ETNS"
+    },
+    {
+      "url": "https://www.educatetogether.ie/school-boards/admissions/",
+      "final_url": "https://www.educatetogether.ie/school-boards/admissions/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://www.irishstatutebook.ie/eli/2018/act/14/enacted/en/html",
+      "final_url": "https://www.irishstatutebook.ie/eli/2018/act/14/enacted/en/html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Education (Admission to Schools) Act 2018"
+    },
+    {
+      "url": "https://www.irishstatutebook.ie/eli/2018/act/14/enacted/en/index.html",
+      "final_url": "https://www.irishstatutebook.ie/eli/2018/act/14/enacted/en/index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Education (Admission to Schools) Act 2018"
+    },
+    {
+      "url": "https://www.irishstatutebook.ie/2018/en/act/pub/0014/sec0009.html",
+      "final_url": "https://www.irishstatutebook.ie/eli/2018/act/14/section/9/enacted/en/html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "9. Admission to schools"
+    },
+    {
+      "url": "https://www.irishstatutebook.ie/eli/2018/act/14/section/9/enacted/en/index.html",
+      "final_url": "https://www.irishstatutebook.ie/eli/2018/act/14/section/9/enacted/en/index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Education (Admission to Schools) Act 2018"
+    },
+    {
+      "url": "https://www.educatetogether.ie/app/uploads/2019/01/Submission-Forum-on-Patronage-and-Pluralism-Submission.pdf",
+      "final_url": "https://www.educatetogether.ie/app/uploads/2019/01/Submission-Forum-on-Patronage-and-Pluralism-Submission.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "2011 Submission – Forum on Patronage and Pluralism"
+    },
+    {
+      "url": "https://www.educatetogether.ie/app/uploads/2019/01/Irish-Human-Rights-and-Education.pdf",
+      "final_url": "https://www.educatetogether.ie/app/uploads/2019/01/Irish-Human-Rights-and-Education.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "2011 Submission – Irish Human Rights and Education"
+    },
+    {
+      "url": "https://www.educatetogether.ie/app/uploads/2019/01/Educate-Togethers-Charter.pdf",
+      "final_url": "https://www.educatetogether.ie/app/uploads/2019/01/Educate-Togethers-Charter.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Educate Together’s Charter"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "20525B",
+      "url": "https://www.educatetogether.ie/app/uploads/2020/09/2021CETNSAdmissionsNoticeB.pdf",
+      "label": "2021CETNSAdmissionsNoticeB",
+      "sha256": "7194d46944b515d1ba2c8a3ec2f13b1fad048dfca286e3c946865f1036c8c8ca",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20525B_7194d46944b515d1ba2c.txt",
+      "source_file": "database/milestone2/cache/7194d46944b515d1ba2c8a3ec2f13b1fad048dfca286e3c946865f1036c8c8ca.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 2811
+    },
+    {
+      "roll": "20525B",
+      "url": "https://www.educatetogether.ie/app/uploads/2020/03/20535E_CherrywoodETNS_AdmissionsNotice.pdf",
+      "label": "20535E_CherrywoodETNS_AdmissionsNotice",
+      "sha256": "1d5ce1e861289a564d3e0822c0ef184679e757267ceb56a50ae85c7d1bae518d",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20525B_1d5ce1e861289a564d3e.txt",
+      "source_file": "database/milestone2/cache/1d5ce1e861289a564d3e0822c0ef184679e757267ceb56a50ae85c7d1bae518d.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1334
+    },
+    {
+      "roll": "20525B",
+      "url": "https://www.irishstatutebook.ie/eli/2018/act/14/section/9/enacted/en/html",
+      "label": "9. Admission to schools",
+      "sha256": "101d4a2556420ea12beabc621fdca56da1a5f0cc27cb30673d2ad52290b738c9",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20525B_101d4a2556420ea12bea.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 18100
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.educatetogether.ie/app/uploads/2020/09/20200903Cherrywood-ETNS_AdmissionsPolicy_2020-Approved.pdf",
+      "label": "20200903Cherrywood ETNS_AdmissionsPolicy_2020 Approved",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://www.educatetogether.ie/app/uploads/2020/06/KRC-Admissions-Policy-2020.pdf",
+      "label": "Killester Raheny Clontarf ETNS Admissions Policy 2020",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://www.educatetogether.ie/app/uploads/2020/03/20535E_CherrywoodETNS_AdmissionsPolicy_2020.pdf",
+      "label": "20535E_CherrywoodETNS_AdmissionsPolicy_2020",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://www.educatetogether.ie/app/uploads/2024/05/2024-Educate-Together-Patronage-Manual.pdf",
+      "label": "Educate Together Patronage Manual",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.irishstatutebook.ie/sitemap.xml",
+      "label": "Public sitemap",
+      "via": "sitemap_root"
+    },
+    {
+      "url": "https://www.educatetogether.ie/sitemap_index.xml",
+      "label": "Public sitemap",
+      "via": "sitemap_root"
+    },
+    {
+      "url": "https://www.educatetogether.ie/schools__trashed/find-a-school/",
+      "label": "Check with individual schools for a copy of their admissions policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.educatetogether.ie/schools/parents/",
+      "label": "Overview",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.educatetogether.ie/parents/campaign-groups/",
+      "label": "Find contact details for Educate Together’s campaign groups here",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.educatetogether.ie/about/privacy-policy/",
+      "label": "Privacy Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 79.45,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:00:21+0000"
+}

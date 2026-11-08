@@ -1,0 +1,170 @@
+{
+  "roll": "00697S",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.saintbrigids.ie/News/ACAT-Admissions-20262027/37881/Index.html",
+      "final_url": "https://www.saintbrigids.ie/News/ACAT-Admissions-20262027/37881/Index.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "ACAT Admissions 2026/2027"
+    },
+    {
+      "url": "https://www.saintbrigids.ie/page/Policies/19079/Index.html",
+      "final_url": "https://www.saintbrigids.ie/page/Policies/19079/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.saintbrigids.ie/Parent-Noticeboard/Index.html",
+      "final_url": "https://www.saintbrigids.ie/Parent-Noticeboard/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parent Noticeboard"
+    },
+    {
+      "url": "https://www.saintbrigids.ie/News/Mainstream-Admissions-for-Junior-Infants-2027/37524/Index.html",
+      "final_url": "https://www.saintbrigids.ie/News/Mainstream-Admissions-for-Junior-Infants-2027/37524/Index.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Mainstream Admissions for Junior Infants 2027"
+    },
+    {
+      "url": "https://drive.google.com/file/d/1CV7VdV3UrNFaoxrYAtSMtFdjj1boNL5E/view?usp=drive_link",
+      "final_url": "https://drive.google.com/file/d/1CV7VdV3UrNFaoxrYAtSMtFdjj1boNL5E/view?usp=drive_link",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Link to admissions notice 2027/2028"
+    },
+    {
+      "url": "https://www.saintbrigids.ie/News/ACAT-Admissions-20272028/172351/Index.html",
+      "final_url": "https://www.saintbrigids.ie/News/ACAT-Admissions-20272028/172351/Index.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "ACAT Admissions 2027/2028"
+    },
+    {
+      "url": "https://www.saintbrigids.ie/Mainstream-Admissions/Index.html",
+      "final_url": "https://www.saintbrigids.ie/Mainstream-Admissions/Index.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Mainstream Admissions"
+    },
+    {
+      "url": "https://www.saintbrigids.ie/Autism-Class-Admissions/Index.html",
+      "final_url": "https://www.saintbrigids.ie/Autism-Class-Admissions/Index.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Autism Class Admissions"
+    },
+    {
+      "url": "https://www.saintbrigids.ie/Admissions/Index.html",
+      "final_url": "https://www.saintbrigids.ie/Admissions/Index.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://www.saintbrigids.ie/News/Updated-Parents-Notify-Process-for-September-2026/37048/Index.html",
+      "final_url": "https://www.saintbrigids.ie/News/Updated-Parents-Notify-Process-for-September-2026/37048/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Updated Parents Notify Process for September 2026"
+    },
+    {
+      "url": "https://www.saintbrigids.ie/Images/Content/2025/246/Large/tlv_Screenshot_20250903_at_15.17.41.png",
+      "final_url": "https://www.saintbrigids.ie/Images/Content/2025/246/Large/tlv_Screenshot_20250903_at_15.17.41.png",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Updated Parents Notify Process for September 2026"
+    },
+    {
+      "url": "https://drive.google.com/file/d/1eqO0UXWTrbB56Ih_awmXj54ao8Voa7MV/view?usp=drive_link",
+      "final_url": "https://drive.google.com/file/d/1eqO0UXWTrbB56Ih_awmXj54ao8Voa7MV/view?usp=drive_link",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions Policy 2027/2028"
+    },
+    {
+      "url": "https://www.saintbrigids.ie/sitemap.xml",
+      "final_url": "https://www.saintbrigids.ie/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.saintbrigids.ie/page/SPHE-Links-for-Parents/20388/Index.html",
+      "final_url": "https://www.saintbrigids.ie/page/SPHE-Links-for-Parents/20388/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "SPHE links for Parents"
+    },
+    {
+      "url": "https://www.saintbrigids.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://www.saintbrigids.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "http_404",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://www.saintbrigids.ie/page/Primary-Curriculum-Framework-Information-for-Parents/46449/Index.html",
+      "final_url": "https://www.saintbrigids.ie/page/Primary-Curriculum-Framework-Information-for-Parents/46449/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Primary Curriculum Framework"
+    },
+    {
+      "url": "https://www.saintbrigids.ie/page/Parental-Complaints-Procedure/15747/Index.html",
+      "final_url": "https://www.saintbrigids.ie/page/Parental-Complaints-Procedure/15747/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parental Complaints"
+    },
+    {
+      "url": "https://www.SaintBrigids.ie/Content/2024/10/cg20-ParentalComplaintsProcedure.pdf?39688",
+      "final_url": "https://www.SaintBrigids.ie/Content/2024/10/cg20-ParentalComplaintsProcedure.pdf?39688",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parental Complaints Procedure"
+    },
+    {
+      "url": "https://www.saintbrigids.ie/Secondary-School-Information/Index.html",
+      "final_url": "https://www.saintbrigids.ie/Secondary-School-Information/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Secondary School Information"
+    },
+    {
+      "url": "https://www.saintbrigids.ie",
+      "final_url": "https://www.saintbrigids.ie",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://drive.google.com/sitemap.xml",
+      "final_url": "https://drive.google.com/sitemap.xml",
+      "status": "robots_disallow",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "00697S",
+      "url": "https://drive.google.com/file/d/1CV7VdV3UrNFaoxrYAtSMtFdjj1boNL5E/view?usp=drive_link",
+      "label": "Link to admissions notice 2027/2028",
+      "sha256": "03e780a5e6ae69fd105123e09adb99c02a88460aaf31fae9558372c70f1c9755",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/00697S_03e780a5e6ae69fd1051.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 66
+    }
+  ],
+  "pending_links": [],
+  "elapsed_seconds": 75.75,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:01:02+0000"
+}

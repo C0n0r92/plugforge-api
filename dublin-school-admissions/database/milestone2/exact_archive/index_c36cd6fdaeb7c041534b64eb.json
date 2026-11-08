@@ -1,0 +1,51 @@
+{
+  "roll": "20397S",
+  "original_url": "https://stlouisesprimaryschool.ie/2022/12/01/annual-admission-notice/",
+  "method": "documented_CDX_exact_URL_all_available_dates",
+  "attempted_at": "2026-11-08T12:43:41.533097+00:00",
+  "params": {
+    "url": "https://stlouisesprimaryschool.ie/2022/12/01/annual-admission-notice/",
+    "matchType": "exact",
+    "output": "json",
+    "fl": "timestamp,original,mimetype,statuscode,digest",
+    "filter": "statuscode:200",
+    "collapse": "digest",
+    "limit": "200",
+    "showResumeKey": "true"
+  },
+  "earliest_year_cutoff": null,
+  "captures": [
+    {
+      "timestamp": "20230131230944",
+      "original": "https://stlouisesprimaryschool.ie/2022/12/01/annual-admission-notice/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "F7ZLZDOJOLVAGU54K2N6GEOPEO6P5HCO"
+    },
+    {
+      "timestamp": "20230603210407",
+      "original": "https://stlouisesprimaryschool.ie/2022/12/01/annual-admission-notice/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "RJHKFTMIFLA27XBW2IWP46UCU5CAEB7G"
+    }
+  ],
+  "pages": [
+    {
+      "at": "2026-11-08T12:43:45.871485+00:00",
+      "http_status": 200,
+      "params": {
+        "url": "https://stlouisesprimaryschool.ie/2022/12/01/annual-admission-notice/",
+        "matchType": "exact",
+        "output": "json",
+        "fl": "timestamp,original,mimetype,statuscode,digest",
+        "filter": "statuscode:200",
+        "collapse": "digest",
+        "limit": "200",
+        "showResumeKey": "true"
+      }
+    }
+  ],
+  "status": "index_complete",
+  "capture_count": 2
+}

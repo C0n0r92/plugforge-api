@@ -1,0 +1,427 @@
+{
+  "roll": "19716B",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://sasns.ie/admissions/",
+      "final_url": "https://sasns.ie/admissions/",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://sasns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://sasns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://sasns.ie/wp-content/uploads/2022/02/Annual-Admissions-Notice-2022-2023.pdf",
+      "final_url": "https://sasns.ie/wp-content/uploads/2022/02/Annual-Admissions-Notice-2022-2023.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Annual Admissions Notice 2022-2023"
+    },
+    {
+      "url": "https://sasns.ie/wp-content/uploads/2023/01/Annual-Admissions-Notice-2023-2024.pdf",
+      "final_url": "https://sasns.ie/wp-content/uploads/2023/01/Annual-Admissions-Notice-2023-2024.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Annual Admissions Notice 2023-2024"
+    },
+    {
+      "url": "https://sasns.ie/wp-content/uploads/2024/04/ASD-Class-Annual-Admissions-Notice-2024-2025.pdf",
+      "final_url": "https://sasns.ie/wp-content/uploads/2024/04/ASD-Class-Annual-Admissions-Notice-2024-2025.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "ASD Class Annual Admissions Notice 2024-2025"
+    },
+    {
+      "url": "https://sasns.ie/wp-content/uploads/2024/03/ASD-Class-Annual-Admissions-Notice-2024-2025.pdf",
+      "final_url": "https://sasns.ie/wp-content/uploads/2024/03/ASD-Class-Annual-Admissions-Notice-2024-2025.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "ASD Class Annual Admissions Notice 2024-2025"
+    },
+    {
+      "url": "https://sasns.ie/wp-content/uploads/2024/03/ASD-Class-Annual-Admissions-Notice-2024-2025-1.pdf",
+      "final_url": "https://sasns.ie/wp-content/uploads/2024/03/ASD-Class-Annual-Admissions-Notice-2024-2025-1.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "ASD Class Annual Admissions Notice 2024-2025"
+    },
+    {
+      "url": "https://sasns.ie/wp-content/uploads/2024/01/Annual-Admissions-Notice-2024-2025.pdf",
+      "final_url": "https://sasns.ie/wp-content/uploads/2024/01/Annual-Admissions-Notice-2024-2025.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Annual Admissions Notice 2024-2025"
+    },
+    {
+      "url": "https://sasns.ie/wp-content/uploads/2025/09/Annual-Admissions-Notice-Mainstream-and-ASD-Class-2026-27.pdf",
+      "final_url": "https://sasns.ie/wp-content/uploads/2025/09/Annual-Admissions-Notice-Mainstream-and-ASD-Class-2026-27.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Annual Admissions Notice Mainstream and ASD Class 2026-27"
+    },
+    {
+      "url": "https://sasns.ie/wp-content/uploads/2025/09/Annual-Admissions-Notice-Mainstream-and-ASD-Class-2026-27-1.pdf",
+      "final_url": "https://sasns.ie/wp-content/uploads/2025/09/Annual-Admissions-Notice-Mainstream-and-ASD-Class-2026-27-1.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Annual Admissions Notice Mainstream and ASD Class 2026-27"
+    },
+    {
+      "url": "https://sasns.ie/wp-content/uploads/2025/01/Annual-Admissions-Notice-Mainstream-and-ASD-Class-2025-2026.pdf",
+      "final_url": "https://sasns.ie/wp-content/uploads/2025/01/Annual-Admissions-Notice-Mainstream-and-ASD-Class-2025-2026.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Annual Admissions Notice Mainstream and ASD Class 2025-2026"
+    },
+    {
+      "url": "https://sasns.ie/admissions/+35312951627",
+      "final_url": "https://sasns.ie/admissions/+35312951627",
+      "status": "http_404",
+      "via": "school_public_link",
+      "label": "+353 1 295 1627"
+    },
+    {
+      "url": "https://sasns.ie/wp-content/uploads/2022/03/SASNS-Eolas-Prospectus-June-2021.pdf",
+      "final_url": "https://sasns.ie/wp-content/uploads/2022/03/SASNS-Eolas-Prospectus-June-2021.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "here"
+    },
+    {
+      "url": "https://sasns.ie/wp-content/uploads/2023/01/SASNS-Admission-Policy-December-2022.pdf",
+      "final_url": "https://sasns.ie/wp-content/uploads/2023/01/SASNS-Admission-Policy-December-2022.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "SASNS Admission Policy December 2022"
+    },
+    {
+      "url": "https://sasns.ie/wp-content/uploads/2023/01/SASNS-Admission-Policy-December-2022-1.pdf",
+      "final_url": "https://sasns.ie/wp-content/uploads/2023/01/SASNS-Admission-Policy-December-2022-1.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "SASNS Admission Policy December 2022"
+    },
+    {
+      "url": "https://sasns.ie/wp-content/uploads/2022/12/SASNS-Admission-Policy-December-2022.pdf",
+      "final_url": "https://sasns.ie/wp-content/uploads/2022/12/SASNS-Admission-Policy-December-2022.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "SASNS Admission Policy December 2022"
+    },
+    {
+      "url": "https://sasns.ie/wp-content/uploads/2022/02/SASNS-Admission-Policy.pdf",
+      "final_url": "https://sasns.ie/wp-content/uploads/2022/02/SASNS-Admission-Policy.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "SASNS Admission Policy"
+    },
+    {
+      "url": "https://sasns.ie/wp-content/uploads/2023/01/SASNS-Admission-Policy-January-2023.pdf",
+      "final_url": "https://sasns.ie/wp-content/uploads/2023/01/SASNS-Admission-Policy-January-2023.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "SASNS Admission Policy January 2023"
+    },
+    {
+      "url": "https://sasns.ie/wp-content/uploads/2024/03/SASNS-Admission-Policy.pdf",
+      "final_url": "https://sasns.ie/wp-content/uploads/2024/03/SASNS-Admission-Policy.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "SASNS Admission Policy"
+    },
+    {
+      "url": "https://sasns.ie/wp-content/uploads/2026/09/SASNS-Admission-Policy-November-2025.pdf",
+      "final_url": "https://sasns.ie/wp-content/uploads/2026/09/SASNS-Admission-Policy-November-2025.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "SASNS Admission Policy November 2025"
+    },
+    {
+      "url": "https://sasns.ie/wp-content/uploads/2026/09/SASNS-Admission-Policy-November-2025-1.pdf",
+      "final_url": "https://sasns.ie/wp-content/uploads/2026/09/SASNS-Admission-Policy-November-2025-1.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "SASNS Admission Policy November 2025"
+    },
+    {
+      "url": "https://sasns.ie/wp-sitemap.xml",
+      "final_url": "https://sasns.ie/wp-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://sasns.ie/wp-sitemap-posts-post-1.xml",
+      "final_url": "https://sasns.ie/wp-sitemap-posts-post-1.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://sasns.ie/autism-class-annual-admissions-notice/",
+      "final_url": "https://sasns.ie/autism-class-annual-admissions-notice/",
+      "status": "ok",
+      "via": "sitemap_link",
+      "label": "Admission URL from sitemap"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19716B",
+      "url": "https://sasns.ie/admissions/",
+      "label": "Prior school admissions section",
+      "sha256": "92e45d6c4ff7ebc691c331135b5b5b5e27f65ce73dc558e5433489b14bfb0e4d",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19716B_92e45d6c4ff7ebc691c3.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 111
+    },
+    {
+      "roll": "19716B",
+      "url": "https://sasns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "label": "Oldest public admission media (all dates)",
+      "sha256": "7d765e567cb92d001e6af5edf75fd38d92df24bec93fd86fd6b72de97bdf7d85",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19716B_7d765e567cb92d001e6a.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 4281
+    },
+    {
+      "roll": "19716B",
+      "url": "https://sasns.ie/wp-content/uploads/2022/02/Annual-Admissions-Notice-2022-2023.pdf",
+      "label": "Annual Admissions Notice 2022-2023",
+      "sha256": "2ebd947ccf875a5110f947acbe5b56c1363ea0eb127456698095e21970c1b45f",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19716B_2ebd947ccf875a5110f9.txt",
+      "source_file": "database/milestone2/cache/2ebd947ccf875a5110f947acbe5b56c1363ea0eb127456698095e21970c1b45f.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 3725
+    },
+    {
+      "roll": "19716B",
+      "url": "https://sasns.ie/wp-content/uploads/2023/01/Annual-Admissions-Notice-2023-2024.pdf",
+      "label": "Annual Admissions Notice 2023-2024",
+      "sha256": "070b4019e9e7475e7d2c616e1dfbea66dd16966e3736a38b7d5ecfd5aa02bc5f",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19716B_070b4019e9e7475e7d2c.txt",
+      "source_file": "database/milestone2/cache/070b4019e9e7475e7d2c616e1dfbea66dd16966e3736a38b7d5ecfd5aa02bc5f.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 3725
+    },
+    {
+      "roll": "19716B",
+      "url": "https://sasns.ie/wp-content/uploads/2024/04/ASD-Class-Annual-Admissions-Notice-2024-2025.pdf",
+      "label": "ASD Class Annual Admissions Notice 2024-2025",
+      "sha256": "136c8cae812c7508fb5175d886297529b7ae4d8a7e91b1d9aaad46d3a650d537",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19716B_136c8cae812c7508fb51.txt",
+      "source_file": "database/milestone2/cache/136c8cae812c7508fb5175d886297529b7ae4d8a7e91b1d9aaad46d3a650d537.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 2058
+    },
+    {
+      "roll": "19716B",
+      "url": "https://sasns.ie/wp-content/uploads/2024/03/ASD-Class-Annual-Admissions-Notice-2024-2025.pdf",
+      "label": "ASD Class Annual Admissions Notice 2024-2025",
+      "sha256": "00a67c851000e654fd2c8bb66f6318238d12b7342dc0a681d02b6dc03968520e",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19716B_00a67c851000e654fd2c.txt",
+      "source_file": "database/milestone2/cache/00a67c851000e654fd2c8bb66f6318238d12b7342dc0a681d02b6dc03968520e.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 2058
+    },
+    {
+      "roll": "19716B",
+      "url": "https://sasns.ie/wp-content/uploads/2024/01/Annual-Admissions-Notice-2024-2025.pdf",
+      "label": "Annual Admissions Notice 2024-2025",
+      "sha256": "26dcd2aef308dac56edce9a30abc62e1f2d62b9846658f886952944864072b96",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19716B_26dcd2aef308dac56edc.txt",
+      "source_file": "database/milestone2/cache/26dcd2aef308dac56edce9a30abc62e1f2d62b9846658f886952944864072b96.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 3725
+    },
+    {
+      "roll": "19716B",
+      "url": "https://sasns.ie/wp-content/uploads/2025/09/Annual-Admissions-Notice-Mainstream-and-ASD-Class-2026-27.pdf",
+      "label": "Annual Admissions Notice Mainstream and ASD Class 2026-27",
+      "sha256": "9453eadb8fcc46267ade0715e856db3326fce1d26c3bd5b3cbfdc1bc01d22d31",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19716B_9453eadb8fcc46267ade.txt",
+      "source_file": "database/milestone2/cache/9453eadb8fcc46267ade0715e856db3326fce1d26c3bd5b3cbfdc1bc01d22d31.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 6485
+    },
+    {
+      "roll": "19716B",
+      "url": "https://sasns.ie/wp-content/uploads/2025/09/Annual-Admissions-Notice-Mainstream-and-ASD-Class-2026-27-1.pdf",
+      "label": "Annual Admissions Notice Mainstream and ASD Class 2026-27",
+      "sha256": "8d92856b49fde5a02422d0da4c423d2345240c686b8f43de31265e70e5317a92",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19716B_8d92856b49fde5a02422.txt",
+      "source_file": "database/milestone2/cache/8d92856b49fde5a02422d0da4c423d2345240c686b8f43de31265e70e5317a92.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 6487
+    },
+    {
+      "roll": "19716B",
+      "url": "https://sasns.ie/wp-content/uploads/2025/01/Annual-Admissions-Notice-Mainstream-and-ASD-Class-2025-2026.pdf",
+      "label": "Annual Admissions Notice Mainstream and ASD Class 2025-2026",
+      "sha256": "9bedf3df8d8c00fb6f486ecdff648ba54d8fee5dff6ab0f57d15ec4454c756e8",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19716B_9bedf3df8d8c00fb6f48.txt",
+      "source_file": "database/milestone2/cache/9bedf3df8d8c00fb6f486ecdff648ba54d8fee5dff6ab0f57d15ec4454c756e8.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 6185
+    },
+    {
+      "roll": "19716B",
+      "url": "https://sasns.ie/wp-content/uploads/2023/01/SASNS-Admission-Policy-December-2022.pdf",
+      "label": "SASNS Admission Policy December 2022",
+      "sha256": "e93a851fb3170bd50720aa9374ab8684592ce929248a45ce175709b12b6e372a",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19716B_e93a851fb3170bd50720.txt",
+      "source_file": "database/milestone2/cache/e93a851fb3170bd50720aa9374ab8684592ce929248a45ce175709b12b6e372a.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 32984
+    },
+    {
+      "roll": "19716B",
+      "url": "https://sasns.ie/wp-content/uploads/2022/02/SASNS-Admission-Policy.pdf",
+      "label": "SASNS Admission Policy",
+      "sha256": "322e89bddb34bae6306db32683de66462d121ccecdb20b31e90d44751940bd69",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19716B_322e89bddb34bae6306d.txt",
+      "source_file": "database/milestone2/cache/322e89bddb34bae6306db32683de66462d121ccecdb20b31e90d44751940bd69.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 32510
+    },
+    {
+      "roll": "19716B",
+      "url": "https://sasns.ie/wp-content/uploads/2023/01/SASNS-Admission-Policy-January-2023.pdf",
+      "label": "SASNS Admission Policy January 2023",
+      "sha256": "8352c0a8020045e672ab96e0a4d1e657aacfe8e0fdf1bda503d342f2a44243c8",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19716B_8352c0a8020045e672ab.txt",
+      "source_file": "database/milestone2/cache/8352c0a8020045e672ab96e0a4d1e657aacfe8e0fdf1bda503d342f2a44243c8.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 32639
+    },
+    {
+      "roll": "19716B",
+      "url": "https://sasns.ie/wp-content/uploads/2024/03/SASNS-Admission-Policy.pdf",
+      "label": "SASNS Admission Policy",
+      "sha256": "8f6585ab63d835f33d61f3e0142e80ce83d6ac32f06174e3d0e6b1f6b0252583",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19716B_8f6585ab63d835f33d61.txt",
+      "source_file": "database/milestone2/cache/8f6585ab63d835f33d61f3e0142e80ce83d6ac32f06174e3d0e6b1f6b0252583.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 41046
+    },
+    {
+      "roll": "19716B",
+      "url": "https://sasns.ie/wp-content/uploads/2026/09/SASNS-Admission-Policy-November-2025.pdf",
+      "label": "SASNS Admission Policy November 2025",
+      "sha256": "79399ba94f5bfd85af5414e97d6ced81d4df16b51586634ac02bd1b8825f1c25",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19716B_79399ba94f5bfd85af54.txt",
+      "source_file": "database/milestone2/cache/79399ba94f5bfd85af5414e97d6ced81d4df16b51586634ac02bd1b8825f1c25.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 39352
+    },
+    {
+      "roll": "19716B",
+      "url": "https://sasns.ie/autism-class-annual-admissions-notice/",
+      "label": "Admission URL from sitemap",
+      "sha256": "aad4b18f96e1de9acc56c212e35c258e410f6483f6571c87fae7863b5a572dfd",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19716B_aad4b18f96e1de9acc56.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 60
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://sasns.ie/confirmation-enrolment-ceremony/",
+      "label": "Admission URL from sitemap",
+      "via": "sitemap_link"
+    },
+    {
+      "url": "https://sasns.ie/wp-sitemap-posts-page-1.xml",
+      "label": "Public sitemap index child",
+      "via": "sitemap_child"
+    },
+    {
+      "url": "https://sasns.ie/wp-sitemap-posts-mc-events-1.xml",
+      "label": "Public sitemap index child",
+      "via": "sitemap_child"
+    },
+    {
+      "url": "https://sasns.ie/school-policies/",
+      "label": "School Policies ▼",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://sasns.ie/policies/",
+      "label": "Policies",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://sasns.ie/parents-association/",
+      "label": "Parents’ Association",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://sasns.ie/information-for-parents-guardians/",
+      "label": "Information for parents / guardians ▼",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://sasns.ie/admission-policy/",
+      "label": "Prior school admissions section",
+      "via": "prior_link"
+    },
+    {
+      "url": "https://sasns.ie/",
+      "label": "School homepage",
+      "via": "home"
+    },
+    {
+      "url": "https://sasns.ie/work-experience-school-placement-policy/",
+      "label": "Work Experience/School Placement Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://sasns.ie/saint-attractas-sns-covid-19-policy-statement/",
+      "label": "Saint Attracta’s SNS Covid-19 Policy Statement",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://sasns.ie/data-protection-policy/",
+      "label": "Data Protection Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://sasns.ie/anti-bullying-policy/",
+      "label": "Bí Cineálta Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://sasns.ie/additional-educational-needs-policy/",
+      "label": "Additional Educational Needs Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 76.54,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:57:49+0000"
+}

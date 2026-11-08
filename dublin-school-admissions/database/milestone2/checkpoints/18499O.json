@@ -1,0 +1,362 @@
+{
+  "roll": "18499O",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://saintaugustines.ie/enrolment/",
+      "final_url": "https://saintaugustines.ie/enrolment/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Joining our School"
+    },
+    {
+      "url": "https://saintaugustines.ie/wp-content/uploads/2026/09/Saint-Augustines-School_Summary-Enrolment-process_FINAL_28.09.26.pdf",
+      "final_url": "https://saintaugustines.ie/wp-content/uploads/2026/09/Saint-Augustines-School_Summary-Enrolment-process_FINAL_28.09.26.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "here"
+    },
+    {
+      "url": "https://saintaugustines.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://saintaugustines.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://saintaugustines.ie/wp-content/uploads/2021/09/St-Augustines-School-Admissions-Form.pdf",
+      "final_url": "https://saintaugustines.ie/wp-content/uploads/2021/09/St-Augustines-School-Admissions-Form.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "St Augustine&#8217;s School Admissions Form 2021"
+    },
+    {
+      "url": "https://saintaugustines.ie/wp-content/uploads/2020/09/St-Augustines-School-Admissions-Policy.pdf",
+      "final_url": "https://saintaugustines.ie/wp-content/uploads/2020/09/St-Augustines-School-Admissions-Policy.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "St Augustine&#8217;s School Admissions Policy"
+    },
+    {
+      "url": "https://saintaugustines.ie/wp-content/uploads/2020/09/St-Augustines-Admissions-Application-Form.pdf",
+      "final_url": "https://saintaugustines.ie/wp-content/uploads/2020/09/St-Augustines-Admissions-Application-Form.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "St Augustine&#8217;s Admissions Application Form"
+    },
+    {
+      "url": "https://saintaugustines.ie/?s=admission",
+      "final_url": "https://saintaugustines.ie/?s=admission",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Public site search form"
+    },
+    {
+      "url": "https://saintaugustines.ie/wp-content/uploads/2021/09/St-Augustines-School-Admission-Policy.pdf",
+      "final_url": "https://saintaugustines.ie/wp-content/uploads/2021/09/St-Augustines-School-Admission-Policy.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "St Augustines School Admission Policy 2021"
+    },
+    {
+      "url": "https://saintaugustines.ie/wp-content/uploads/2022/09/St.-Augustines-School-Admission-Policy.pdf",
+      "final_url": "https://saintaugustines.ie/wp-content/uploads/2022/09/St.-Augustines-School-Admission-Policy.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "St. Augustine&#8217;s School Admission Policy"
+    },
+    {
+      "url": "https://saintaugustines.ie/wp-content/uploads/2022/09/St-Augustines-School-Admissions-Application-Form.pdf",
+      "final_url": "https://saintaugustines.ie/wp-content/uploads/2022/09/St-Augustines-School-Admissions-Application-Form.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "St Augustine&#8217;s School Admissions Application Form"
+    },
+    {
+      "url": "https://saintaugustines.ie/wp-content/uploads/2025/06/St.-Augustines-School_Code-of-Behaviour_May-2023.pdf",
+      "final_url": "https://saintaugustines.ie/wp-content/uploads/2025/06/St.-Augustines-School_Code-of-Behaviour_May-2023.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "here"
+    },
+    {
+      "url": "https://saintaugustines.ie/wp-content/uploads/2023/10/Saint-Augustines-School_Admissions-Policy_2024-2025_26.09.23.pdf",
+      "final_url": "https://saintaugustines.ie/wp-content/uploads/2023/10/Saint-Augustines-School_Admissions-Policy_2024-2025_26.09.23.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Saint Augustine&#8217;s School_Admissions Policy_2024-2025_26.09.23"
+    },
+    {
+      "url": "https://saintaugustines.ie/wp-content/uploads/2023/10/Saint-Augustines-School_Admissions-Policy_2024-2025_26.09.23-06.10.23.pdf",
+      "final_url": "https://saintaugustines.ie/wp-content/uploads/2023/10/Saint-Augustines-School_Admissions-Policy_2024-2025_26.09.23-06.10.23.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Saint Augustine&#8217;s School_Admissions Policy_2024-2025_26.09.23 &#038; 06.10.23"
+    },
+    {
+      "url": "https://saintaugustines.ie/wp-content/uploads/2023/10/Saint-Augustines-School_Admissions-Application-Form-2024-2025.pdf",
+      "final_url": "https://saintaugustines.ie/wp-content/uploads/2023/10/Saint-Augustines-School_Admissions-Application-Form-2024-2025.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Saint Augustine&#8217;s School_Admissions Application Form 2024-2025"
+    },
+    {
+      "url": "https://saintaugustines.ie/wp-content/uploads/2023/09/Saint-Augustines-School_Admissions-Policy_2024-2025.pdf",
+      "final_url": "https://saintaugustines.ie/wp-content/uploads/2023/09/Saint-Augustines-School_Admissions-Policy_2024-2025.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Saint Augustine&#8217;s School_Admissions Policy_2024-2025"
+    },
+    {
+      "url": "https://saintaugustines.ie/wp-content/uploads/2023/09/Saint-Augustines-School_Admissions-Application-Form-2024-2025.pdf",
+      "final_url": "https://saintaugustines.ie/wp-content/uploads/2023/09/Saint-Augustines-School_Admissions-Application-Form-2024-2025.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Saint Augustine&#8217;s School_Admissions Application Form 2024-2025"
+    },
+    {
+      "url": "https://saintaugustines.ie/wp-content/uploads/2025/10/Saint-Augustines-School_Admissions-Policy_2026-2027-.pdf",
+      "final_url": "https://saintaugustines.ie/wp-content/uploads/2025/10/Saint-Augustines-School_Admissions-Policy_2026-2027-.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "here"
+    },
+    {
+      "url": "https://saintaugustines.ie/wp-content/uploads/2025/10/Saint-Augustines-School-Admissions-Policy_2026-2027_FINAL.pdf",
+      "final_url": "https://saintaugustines.ie/wp-content/uploads/2025/10/Saint-Augustines-School-Admissions-Policy_2026-2027_FINAL.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Saint Augustine&#8217;s School Admissions Policy_2026-2027_FINAL"
+    },
+    {
+      "url": "https://saintaugustines.ie/wp-content/uploads/2025/10/NCSE-Requirement-for-parents-guardians-to-notify-update_October-2025.pdf",
+      "final_url": "https://saintaugustines.ie/wp-content/uploads/2025/10/NCSE-Requirement-for-parents-guardians-to-notify-update_October-2025.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "here"
+    },
+    {
+      "url": "https://saintaugustines.ie/wp-content/uploads/2025/10/Admissions-Application-Form_2026-2027.pdf",
+      "final_url": "https://saintaugustines.ie/wp-content/uploads/2025/10/Admissions-Application-Form_2026-2027.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Application Form_2026-2027"
+    },
+    {
+      "url": "https://saintaugustines.ie/wp-content/uploads/2025/10/Admissions-Application-Form_2026-2027-1.pdf",
+      "final_url": "https://saintaugustines.ie/wp-content/uploads/2025/10/Admissions-Application-Form_2026-2027-1.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "here"
+    },
+    {
+      "url": "https://saintaugustines.ie/wp-content/uploads/2025/06/Saint-Augustines-School_Admissions-Policy_2025-26_FINAL_24.09.24.pdf",
+      "final_url": "https://saintaugustines.ie/wp-content/uploads/2025/06/Saint-Augustines-School_Admissions-Policy_2025-26_FINAL_24.09.24.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Saint Augustine&#8217;s School_Admissions Policy_2025-26_FINAL_24.09.24"
+    },
+    {
+      "url": "https://saintaugustines.ie/wp-content/uploads/2025/06/Admissions-Application-Form_2025-26_FINAL-24.09.24.pdf",
+      "final_url": "https://saintaugustines.ie/wp-content/uploads/2025/06/Admissions-Application-Form_2025-26_FINAL-24.09.24.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Application Form_2025-26_FINAL 24.09.24"
+    },
+    {
+      "url": "https://saintaugustines.ie/wp-content/uploads/2026/09/Saint-Augustines-School_Admissions-Policy_2027-2028_FINAL_28.09.26.pdf",
+      "final_url": "https://saintaugustines.ie/wp-content/uploads/2026/09/Saint-Augustines-School_Admissions-Policy_2027-2028_FINAL_28.09.26.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "here"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "18499O",
+      "url": "https://saintaugustines.ie/enrolment/",
+      "label": "Joining our School",
+      "sha256": "855579359898d04892d0bb264670234eb22bb1b7372477f881ca74473e90bd0c",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/18499O_855579359898d04892d0.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 4161
+    },
+    {
+      "roll": "18499O",
+      "url": "https://saintaugustines.ie/wp-content/uploads/2026/09/Saint-Augustines-School_Summary-Enrolment-process_FINAL_28.09.26.pdf",
+      "label": "here",
+      "sha256": "b1fd10f74e4a292e31ac0a083cb809ab43b79b5e5cad57e32ef063d4cffbf4d4",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/18499O_b1fd10f74e4a292e31ac.txt",
+      "source_file": "database/milestone2/cache/b1fd10f74e4a292e31ac0a083cb809ab43b79b5e5cad57e32ef063d4cffbf4d4.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 6525
+    },
+    {
+      "roll": "18499O",
+      "url": "https://saintaugustines.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "label": "Oldest public admission media (all dates)",
+      "sha256": "9cd5013a777b4acaabd8d54ef9da2eac639d7a76108bfe9b19c0ff3c4a32c089",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/18499O_9cd5013a777b4acaabd8.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 6602
+    },
+    {
+      "roll": "18499O",
+      "url": "https://saintaugustines.ie/wp-content/uploads/2020/09/St-Augustines-School-Admissions-Policy.pdf",
+      "label": "St Augustine&#8217;s School Admissions Policy",
+      "sha256": "934b5488de55b98b37d8a63064c8bacc3090f6f4c02e61e490e5cb4fa177a3f7",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/18499O_934b5488de55b98b37d8.txt",
+      "source_file": "database/milestone2/cache/934b5488de55b98b37d8a63064c8bacc3090f6f4c02e61e490e5cb4fa177a3f7.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 27220
+    },
+    {
+      "roll": "18499O",
+      "url": "https://saintaugustines.ie/wp-content/uploads/2021/09/St-Augustines-School-Admission-Policy.pdf",
+      "label": "St Augustines School Admission Policy 2021",
+      "sha256": "cafdd87fd3315b6fb15575938f1d4b0ae63b7dd42512c1d6626d7099ca80075e",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/18499O_cafdd87fd3315b6fb155.txt",
+      "source_file": "database/milestone2/cache/cafdd87fd3315b6fb15575938f1d4b0ae63b7dd42512c1d6626d7099ca80075e.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 27401
+    },
+    {
+      "roll": "18499O",
+      "url": "https://saintaugustines.ie/wp-content/uploads/2022/09/St.-Augustines-School-Admission-Policy.pdf",
+      "label": "St. Augustine&#8217;s School Admission Policy",
+      "sha256": "4ab77d1eb99510cae0d34a2e99be853db1535c312c6303394ec3d012fee4a982",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/18499O_4ab77d1eb99510cae0d3.txt",
+      "source_file": "database/milestone2/cache/4ab77d1eb99510cae0d34a2e99be853db1535c312c6303394ec3d012fee4a982.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 28155
+    },
+    {
+      "roll": "18499O",
+      "url": "https://saintaugustines.ie/wp-content/uploads/2023/10/Saint-Augustines-School_Admissions-Policy_2024-2025_26.09.23.pdf",
+      "label": "Saint Augustine&#8217;s School_Admissions Policy_2024-2025_26.09.23",
+      "sha256": "5f555730471bae7f095eccf26c152f02a2cecc7baf76c1ecd8aae28b338aba04",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/18499O_5f555730471bae7f095e.txt",
+      "source_file": "database/milestone2/cache/5f555730471bae7f095eccf26c152f02a2cecc7baf76c1ecd8aae28b338aba04.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 29256
+    },
+    {
+      "roll": "18499O",
+      "url": "https://saintaugustines.ie/wp-content/uploads/2023/10/Saint-Augustines-School_Admissions-Policy_2024-2025_26.09.23-06.10.23.pdf",
+      "label": "Saint Augustine&#8217;s School_Admissions Policy_2024-2025_26.09.23 &#038; 06.10.23",
+      "sha256": "de5cd32eafb0fca4d6781d6d09384a4d493ae00a92448db8c2cc2a406ed7234e",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/18499O_de5cd32eafb0fca4d678.txt",
+      "source_file": "database/milestone2/cache/de5cd32eafb0fca4d6781d6d09384a4d493ae00a92448db8c2cc2a406ed7234e.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 29301
+    },
+    {
+      "roll": "18499O",
+      "url": "https://saintaugustines.ie/wp-content/uploads/2023/09/Saint-Augustines-School_Admissions-Policy_2024-2025.pdf",
+      "label": "Saint Augustine&#8217;s School_Admissions Policy_2024-2025",
+      "sha256": "d826e2735ac768e64d76f145c3156b29424bc69213ea9d4fc238a8552eb0d65d",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/18499O_d826e2735ac768e64d76.txt",
+      "source_file": "database/milestone2/cache/d826e2735ac768e64d76f145c3156b29424bc69213ea9d4fc238a8552eb0d65d.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 29317
+    },
+    {
+      "roll": "18499O",
+      "url": "https://saintaugustines.ie/wp-content/uploads/2025/06/Saint-Augustines-School_Admissions-Policy_2025-26_FINAL_24.09.24.pdf",
+      "label": "Saint Augustine&#8217;s School_Admissions Policy_2025-26_FINAL_24.09.24",
+      "sha256": "93b34be149bd6e89828b4691e6d376fc0888fa80254315962d30f0439157074d",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/18499O_93b34be149bd6e89828b.txt",
+      "source_file": "database/milestone2/cache/93b34be149bd6e89828b4691e6d376fc0888fa80254315962d30f0439157074d.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 31959
+    },
+    {
+      "roll": "18499O",
+      "url": "https://saintaugustines.ie/wp-content/uploads/2026/09/Saint-Augustines-School_Admissions-Policy_2027-2028_FINAL_28.09.26.pdf",
+      "label": "here",
+      "sha256": "ee979b16959f20233a60d9828e5f2da3c904237c1140c4da7b8377c4a69cb3e1",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/18499O_ee979b16959f20233a60.txt",
+      "source_file": "database/milestone2/cache/ee979b16959f20233a60d9828e5f2da3c904237c1140c4da7b8377c4a69cb3e1.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 33010
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://saintaugustines.ie/wp-content/uploads/2026/09/Saint-Augustines-School_Admissions-Application-Form_2027-2028_FINAL_28.09.26.pdf",
+      "label": "here",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.saintaugustines.ie",
+      "label": "School homepage",
+      "via": "home"
+    },
+    {
+      "url": "https://saintaugustines.ie/wp-sitemap.xml",
+      "label": "Public sitemap",
+      "via": "sitemap_root"
+    },
+    {
+      "url": "https://saintaugustines.ie/policies/",
+      "label": "Policies",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://saintaugustines.ie/parents/student-zone/",
+      "label": "Student Zone",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://saintaugustines.ie/parents/st-augustines-past-pupils-club/",
+      "label": "Past Pupils Club",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://saintaugustines.ie/parents/saspa/",
+      "label": "SASPA",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://saintaugustines.ie/parents/lamh/",
+      "label": "Lámh",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://saintaugustines.ie/parents/",
+      "label": "For Parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://saintaugustines.ie/new-enrollment-policy/",
+      "label": "Admissions/policy URL from public sitemap",
+      "via": "prior_public_admissions_landing"
+    },
+    {
+      "url": "https://saintaugustines.ie/wp-content/uploads/2026/09/Data-Protection-Policy_2021.pdf",
+      "label": "here",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://saintaugustines.ie/student-council-healthy-eating-policy-presentation/",
+      "label": "Student Council Healthy Eating Policy Presentation",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 83.63,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:36:54+0000"
+}

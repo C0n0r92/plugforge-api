@@ -1,0 +1,25 @@
+{
+  "roll": "17507F",
+  "capture": {
+    "timestamp": "20240601081540",
+    "original": "https://www.glencullenschool.ie/policies/admission-policy/",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "digest": "ZA75ARHCHBMSPC7XH6X4QRQLKMTC5PEE"
+  },
+  "original_url": "https://www.glencullenschool.ie/policies/admission-policy/",
+  "archived_url": "https://web.archive.org/web/20240601081540/https://www.glencullenschool.ie/policies/admission-policy/",
+  "attempted_at": "2026-11-08T13:08:43.248525+00:00",
+  "linked_from_capture": null,
+  "http_status": 200,
+  "headers": {
+    "Content-Type": "text/html; charset=UTF-8",
+    "memento-datetime": "Sat, 01 Jun 2024 08:15:40 GMT"
+  },
+  "bytes": 128027,
+  "payload_sha256": "57349a3d61d128d97a3462dab9661dc276832b71615eae6f550bfc0215dccf5b",
+  "format": "html",
+  "status": "archived_body_retrieved_requires_manual_evidence_review",
+  "text_file": "database/milestone2/evidence/exact_17507F_57349a3d61d128d97a34.txt",
+  "linked_document_candidates": []
+}

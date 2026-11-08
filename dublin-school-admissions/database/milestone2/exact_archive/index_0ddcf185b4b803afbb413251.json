@@ -1,0 +1,156 @@
+{
+  "roll": "18569J",
+  "original_url": "https://stdeclans.ie/admissions/st-declans-special-schoolannual-admission-notice/",
+  "method": "documented_CDX_exact_URL_all_available_dates",
+  "attempted_at": "2026-11-08T12:42:18.550451+00:00",
+  "params": {
+    "url": "https://stdeclans.ie/admissions/st-declans-special-schoolannual-admission-notice/",
+    "matchType": "exact",
+    "output": "json",
+    "fl": "timestamp,original,mimetype,statuscode,digest",
+    "filter": "statuscode:200",
+    "collapse": "digest",
+    "limit": "200",
+    "showResumeKey": "true"
+  },
+  "earliest_year_cutoff": null,
+  "captures": [
+    {
+      "timestamp": "20210515194324",
+      "original": "https://stdeclans.ie/admissions/st-declans-special-schoolannual-admission-notice/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "WJCUYH33DBTIASFVZYI2YTGJM2XLATIK"
+    },
+    {
+      "timestamp": "20210801063449",
+      "original": "https://stdeclans.ie/admissions/st-declans-special-schoolannual-admission-notice/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "RZPPSJIS7E6K5KNNWQQIAFGO3GZBNZIF"
+    },
+    {
+      "timestamp": "20210927001559",
+      "original": "https://stdeclans.ie/admissions/st-declans-special-schoolannual-admission-notice/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "MP34OT3UDDRFSDYUHBMFJ6QZW4H5KKJ5"
+    },
+    {
+      "timestamp": "20220126103321",
+      "original": "https://stdeclans.ie/admissions/st-declans-special-schoolannual-admission-notice/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "IAKTAHSIPZZWVO5CZDVW4YULPIT6Q74N"
+    },
+    {
+      "timestamp": "20220706122923",
+      "original": "https://stdeclans.ie/admissions/st-declans-special-schoolannual-admission-notice/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "VSCL5FJVK2LDFO5YKH3IOXKKV6VDWMYW"
+    },
+    {
+      "timestamp": "20221002090008",
+      "original": "https://stdeclans.ie/admissions/st-declans-special-schoolannual-admission-notice/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "TEOEKSM52MS7V4REI5CPQTZPHUWTMTQY"
+    },
+    {
+      "timestamp": "20221209151129",
+      "original": "https://stdeclans.ie/admissions/st-declans-special-schoolannual-admission-notice/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "TLPGGNHCNQJ2X4TAANKWFFX2FWTQ7OVW"
+    },
+    {
+      "timestamp": "20230324115445",
+      "original": "https://stdeclans.ie/admissions/st-declans-special-schoolannual-admission-notice/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "TSYEMBEV4CUIKXNQXR7GSPARBROK6GWA"
+    },
+    {
+      "timestamp": "20231004055105",
+      "original": "https://stdeclans.ie/admissions/st-declans-special-schoolannual-admission-notice/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "ZXROPLAZRPIFJCCZ5Q6RLHW6C7KMFXF4"
+    },
+    {
+      "timestamp": "20240413053914",
+      "original": "https://stdeclans.ie/admissions/st-declans-special-schoolannual-admission-notice/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "3K2ZVLXVBBHLSMFL5H6W4MLLGWV354LB"
+    },
+    {
+      "timestamp": "20241011171633",
+      "original": "https://stdeclans.ie/admissions/st-declans-special-schoolannual-admission-notice/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "W663EB5FO2WIQCHY3KH72PQDUHQX65JB"
+    },
+    {
+      "timestamp": "20250116210717",
+      "original": "https://stdeclans.ie/admissions/st-declans-special-schoolannual-admission-notice/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "4WJNPOW7SWYGRGBYM47HDAMVTOGAOUKM"
+    },
+    {
+      "timestamp": "20250514134614",
+      "original": "https://stdeclans.ie/admissions/st-declans-special-schoolannual-admission-notice/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "QTOHUF3OP6COMHZ7ADKLUDLUQQZOMFGJ"
+    },
+    {
+      "timestamp": "20250909123245",
+      "original": "https://stdeclans.ie/admissions/st-declans-special-schoolannual-admission-notice/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "KTSVIHTFEHHZNUD33HIGRXPEL4L7XDMU"
+    },
+    {
+      "timestamp": "20251028083202",
+      "original": "https://stdeclans.ie/admissions/st-declans-special-schoolannual-admission-notice/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "QWBIEM5CDIHO3LHHPVYNF6YUZWDHXEXO"
+    },
+    {
+      "timestamp": "20260122154550",
+      "original": "https://stdeclans.ie/admissions/st-declans-special-schoolannual-admission-notice/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "JOU5MSSRJQY6EBBAXJSRHTG2GBXRLTJ2"
+    },
+    {
+      "timestamp": "20260414113253",
+      "original": "https://stdeclans.ie/admissions/st-declans-special-schoolannual-admission-notice/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "NSRXIS32VJMCETIKSR5WQKTGHZ6TZORF"
+    }
+  ],
+  "pages": [
+    {
+      "at": "2026-11-08T12:42:22.926481+00:00",
+      "http_status": 200,
+      "params": {
+        "url": "https://stdeclans.ie/admissions/st-declans-special-schoolannual-admission-notice/",
+        "matchType": "exact",
+        "output": "json",
+        "fl": "timestamp,original,mimetype,statuscode,digest",
+        "filter": "statuscode:200",
+        "collapse": "digest",
+        "limit": "200",
+        "showResumeKey": "true"
+      }
+    }
+  ],
+  "status": "index_complete",
+  "capture_count": 17
+}

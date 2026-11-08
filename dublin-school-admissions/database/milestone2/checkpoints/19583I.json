@@ -1,0 +1,288 @@
+{
+  "roll": "19583I",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.stjosephssnsballymun.ie/our-school/enrolment/?googletranslate=true",
+      "final_url": "https://www.stjosephssnsballymun.ie/our-school/enrolment/?googletranslate=true",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "https://www.stjosephssnsballymun.ie/documentlink/73/?open=true",
+      "final_url": "https://view.officeapps.live.com/op/embed.aspx?src=https://swddoc.b-cdn.net/656/docletter/20251202081803_50_Annual_Admission_Notice_2025.docx",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Annual Admission Notice 2025.docx"
+    },
+    {
+      "url": "https://www.stjosephssnsballymun.ie/our-school/enrolment/",
+      "final_url": "https://www.stjosephssnsballymun.ie/our-school/enrolment/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Enrolment"
+    },
+    {
+      "url": "https://www.stjosephssnsballymun.ie/documentlink/58/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/656/docletter/20241203083105_56_Enrolment_Form.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Enrolment Form.pdf"
+    },
+    {
+      "url": "https://www.stjosephssnsballymun.ie/documentlink/57/?open=true",
+      "final_url": "https://view.officeapps.live.com/op/embed.aspx?src=https://swddoc.b-cdn.net/656/docletter/20241203083033_25_ASD_Enrolment_Form.docx",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "ASD Enrolment Form.docx"
+    },
+    {
+      "url": "https://www.stjosephssnsballymun.ie/admin/?open=/our-school/enrolment/?googletranslate=true",
+      "final_url": "https://www.stjosephssnsballymun.ie/admin/?open=/our-school/enrolment/?googletranslate=true",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.stjosephssnsballymun.ie/admin/?open=/our-school/enrolment/",
+      "final_url": "https://www.stjosephssnsballymun.ie/admin/?open=/our-school/enrolment/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.stjosephssnsballymun.ie/documentlink/67/?open=true",
+      "final_url": "https://view.officeapps.live.com/op/embed.aspx?src=https://swddoc.b-cdn.net/656/docletter/20250915082315_80_Admissions_Policy_2025.docx",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Admissions Policy 2025.docx"
+    },
+    {
+      "url": "https://www.stjosephssnsballymun.ie/sitemap.xml",
+      "final_url": "https://www.stjosephssnsballymun.ie/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.stjosephssnsballymun.ie/parents/uniform/",
+      "final_url": "https://www.stjosephssnsballymun.ie/parents/uniform/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Uniform"
+    },
+    {
+      "url": "https://www.stjosephssnsballymun.ie/parents/uniform/?googletranslate=true",
+      "final_url": "https://www.stjosephssnsballymun.ie/parents/uniform/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stjosephssnsballymun.ie/parents/school-letters/",
+      "final_url": "https://www.stjosephssnsballymun.ie/parents/school-letters/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Letters"
+    },
+    {
+      "url": "https://www.stjosephssnsballymun.ie/parents/school-letters/?googletranslate=true",
+      "final_url": "https://www.stjosephssnsballymun.ie/parents/school-letters/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stjosephssnsballymun.ie/parents/calendar/",
+      "final_url": "https://www.stjosephssnsballymun.ie/parents/calendar/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Calendar"
+    },
+    {
+      "url": "https://www.stjosephssnsballymun.ie/parents/calendar/?calyear=2026&calmonth=12&",
+      "final_url": "https://www.stjosephssnsballymun.ie/parents/calendar/?calyear=2026&calmonth=12&",
+      "status": "prior_exact_URL_access_denial_not_retried",
+      "via": "school_public_link",
+      "label": "December 2026"
+    },
+    {
+      "url": "https://www.stjosephssnsballymun.ie/parents/calendar/?calyear=2026&calmonth=10&",
+      "final_url": "https://www.stjosephssnsballymun.ie/parents/calendar/?calyear=2026&calmonth=10&",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": "October 2026"
+    },
+    {
+      "url": "https://www.stjosephssnsballymun.ie/parents/calendar/?googletranslate=true",
+      "final_url": "https://www.stjosephssnsballymun.ie/parents/calendar/?googletranslate=true",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stjosephssnsballymun.ie/parents/calendar/?calTable=true",
+      "final_url": "https://www.stjosephssnsballymun.ie/parents/calendar/?calTable=true",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stjosephssnsballymun.ie/parents/booklists/",
+      "final_url": "https://www.stjosephssnsballymun.ie/parents/booklists/",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": "Booklists"
+    },
+    {
+      "url": "https://www.stjosephssnsballymun.ie/parents/book-rental/",
+      "final_url": "https://www.stjosephssnsballymun.ie/parents/book-rental/",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": "Book Rental"
+    },
+    {
+      "url": "https://www.stjosephssnsballymun.ie/parents/",
+      "final_url": "https://www.stjosephssnsballymun.ie/parents/",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": "Parents"
+    },
+    {
+      "url": "https://www.stjosephssnsballymun.ie/our-school/policies/",
+      "final_url": "https://www.stjosephssnsballymun.ie/our-school/policies/",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.stjosephssnsballymun.ie/letterlink/9/?open=true&download=true",
+      "final_url": "https://www.stjosephssnsballymun.ie/letterlink/9/?open=true&download=true",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stjosephssnsballymun.ie/letterlink/16/?open=true&download=true",
+      "final_url": "https://www.stjosephssnsballymun.ie/letterlink/16/?open=true&download=true",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": ""
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19583I",
+      "url": "https://www.stjosephssnsballymun.ie/our-school/enrolment/?googletranslate=true",
+      "label": "",
+      "sha256": "b4c34fad72b7dc7253642534ae24657c18577ede32415092ad1dd6f82fc28389",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19583I_b4c34fad72b7dc725364.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 483
+    },
+    {
+      "roll": "19583I",
+      "url": "https://www.stjosephssnsballymun.ie/our-school/enrolment/",
+      "label": "Enrolment",
+      "sha256": "76a7a8b923e65c9dc0d65328a4f3a1c281f28263bfb748ed001f0746d4303adf",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19583I_76a7a8b923e65c9dc0d6.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 483
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.stjosephssnsballymun.ie/letterlink/15/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stjosephssnsballymun.ie/letterlink/14/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stjosephssnsballymun.ie/letterlink/13/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stjosephssnsballymun.ie/letterlink/13/?open=true",
+      "label": "Letter to Parents of Children in Primary School - English.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stjosephssnsballymun.ie/letterlink/12/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stjosephssnsballymun.ie/documentlink/73/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stjosephssnsballymun.ie/documentlink/67/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stjosephssnsballymun.ie/documentlink/58/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stjosephssnsballymun.ie/documentlink/57/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stjosephssnsballymun.ie/admin/?open=/parents/uniform/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stjosephssnsballymun.ie/admin/?open=/parents/uniform/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stjosephssnsballymun.ie/admin/?open=/parents/school-letters/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stjosephssnsballymun.ie/admin/?open=/parents/school-letters/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stjosephssnsballymun.ie/admin/?open=/parents/calendar/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stjosephssnsballymun.ie/",
+      "label": "School homepage",
+      "via": "home"
+    },
+    {
+      "url": "https://www.stjosephssnsballymun.ie/cmsfiles/policies/privacy/",
+      "label": "Website Privacy Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stjosephssnsballymun.ie/cmsfiles/policies/cookie/",
+      "label": "Cookie Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 39.13,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:07:13+0000"
+}

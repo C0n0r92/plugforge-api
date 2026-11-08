@@ -1,0 +1,438 @@
+{
+  "roll": "16753P",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.svdpseniormarino.ie/admissions/?googletranslate=true",
+      "final_url": "https://www.svdpseniormarino.ie/admissions/?googletranslate=true",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "https://www.svdpseniormarino.ie/documentlink/111/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/969/docletter/20261008115956_9_Annual_Admission_Notice_2027_-_2028_.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Annual Admission Notice 2027 - 2028 .pdf"
+    },
+    {
+      "url": "https://www.svdpseniormarino.ie/admissions/",
+      "final_url": "https://www.svdpseniormarino.ie/admissions/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions Iontrála"
+    },
+    {
+      "url": "https://www.svdpseniormarino.ie/admin/?open=/admissions/?googletranslate=true",
+      "final_url": "https://www.svdpseniormarino.ie/admin/?open=/admissions/?googletranslate=true",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.svdpseniormarino.ie/admin/?open=/admissions/",
+      "final_url": "https://www.svdpseniormarino.ie/admin/?open=/admissions/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.svdpseniormarino.ie/documentlink/112/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/969/docletter/20261008120157_68_Admission_Policy_2025_-_2028.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Admission Policy 2025 - 2028.pdf"
+    },
+    {
+      "url": "https://www.svdpseniormarino.ie/sitemap.xml",
+      "final_url": "https://www.svdpseniormarino.ie/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.svdpseniormarino.ie/parents/parents-association/",
+      "final_url": "https://www.svdpseniormarino.ie/parents/parents-association/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents Association"
+    },
+    {
+      "url": "https://www.svdpseniormarino.ie/parents/parents-association/?googletranslate=true",
+      "final_url": "https://www.svdpseniormarino.ie/parents/parents-association/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.svdpseniormarino.ie/parents/parental-communication/",
+      "final_url": "https://www.svdpseniormarino.ie/parents/parental-communication/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parental Communication"
+    },
+    {
+      "url": "https://www.svdpseniormarino.ie/parents/parental-communication/?googletranslate=true",
+      "final_url": "https://www.svdpseniormarino.ie/parents/parental-communication/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.svdpseniormarino.ie/parents/extra-curricular-activities/",
+      "final_url": "https://www.svdpseniormarino.ie/parents/extra-curricular-activities/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Extra Curricular Activities"
+    },
+    {
+      "url": "https://www.svdpseniormarino.ie/parents/extra-curricular-activities/?googletranslate=true",
+      "final_url": "https://www.svdpseniormarino.ie/parents/extra-curricular-activities/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.svdpseniormarino.ie/parents/",
+      "final_url": "https://www.svdpseniormarino.ie/parents/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents Tuismitheoirí"
+    },
+    {
+      "url": "https://www.svdpseniormarino.ie/parents/?googletranslate=true",
+      "final_url": "https://www.svdpseniormarino.ie/parents/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.svdpseniormarino.ie/downloads/",
+      "final_url": "https://www.svdpseniormarino.ie/downloads/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Downloads Polasaithe"
+    },
+    {
+      "url": "https://www.svdpseniormarino.ie/downloads/?googletranslate=true",
+      "final_url": "https://www.svdpseniormarino.ie/downloads/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.svdpseniormarino.ie/documentlink/96/?open=true&download=true",
+      "final_url": "https://swdcache.b-cdn.net/969/docletter/20260609120123_47_B_Cin_alta_Policy_-_Child_Friendly_Version.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.svdpseniormarino.ie/documentlink/94/?open=true&download=true",
+      "final_url": "https://swdcache.b-cdn.net/969/docletter/20260318031738_65_SVdP_Attendance_Policy_.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.svdpseniormarino.ie/documentlink/92/?open=true&download=true",
+      "final_url": "https://swdcache.b-cdn.net/969/docletter/20251218014517_39__After-School_Clubs__Easter_Term_2026_leaflet.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.svdpseniormarino.ie/documentlink/91/?open=true&download=true",
+      "final_url": "https://swdcache.b-cdn.net/969/docletter/20251201080155_100_Code_of_Behaviour_May_2025.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.svdpseniormarino.ie/documentlink/90/?open=true&download=true",
+      "final_url": "https://swdcache.b-cdn.net/969/docletter/20251124093209_17_Autumn_Newsletter_25.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.svdpseniormarino.ie/documentlink/76/?open=true&download=true",
+      "final_url": "https://swdcache.b-cdn.net/969/docletter/20251121041253_43_android-apps-for-learners-with-dyslexia.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.svdpseniormarino.ie/documentlink/75/?open=true&download=true",
+      "final_url": "https://swdcache.b-cdn.net/969/docletter/20251121041252_98_chromebook-apps-and-extensions-for-learners-with-dyslexia.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": ""
+    }
+  ],
+  "documents": [
+    {
+      "roll": "16753P",
+      "url": "https://www.svdpseniormarino.ie/admissions/?googletranslate=true",
+      "label": "",
+      "sha256": "a16de9f5fc282ad5747bf3ce5499d8e58fa66c7e0a982792560c2e3da95ac501",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/16753P_a16de9f5fc282ad5747b.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 149
+    },
+    {
+      "roll": "16753P",
+      "url": "https://www.svdpseniormarino.ie/admissions/",
+      "label": "Admissions Iontrála",
+      "sha256": "26a46723fd4b512d6cb47921c85070b28591f514148c64799d134b2edddcc8c7",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/16753P_26a46723fd4b512d6cb4.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 149
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.svdpseniormarino.ie/documentlink/74/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.svdpseniormarino.ie/documentlink/73/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.svdpseniormarino.ie/documentlink/72/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.svdpseniormarino.ie/documentlink/71/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.svdpseniormarino.ie/documentlink/70/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.svdpseniormarino.ie/documentlink/68/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.svdpseniormarino.ie/documentlink/68/?open=true",
+      "label": "Parental Complaints Procedure.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.svdpseniormarino.ie/documentlink/50/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.svdpseniormarino.ie/documentlink/48/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.svdpseniormarino.ie/documentlink/45/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.svdpseniormarino.ie/documentlink/45/?open=true",
+      "label": "Admissions Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.svdpseniormarino.ie/documentlink/37/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.svdpseniormarino.ie/documentlink/30/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.svdpseniormarino.ie/documentlink/29/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.svdpseniormarino.ie/documentlink/29/?open=true",
+      "label": "Parental Complaints Procedure",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.svdpseniormarino.ie/documentlink/26/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.svdpseniormarino.ie/documentlink/112/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.svdpseniormarino.ie/documentlink/111/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.svdpseniormarino.ie/documentlink/110/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.svdpseniormarino.ie/documentlink/109/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.svdpseniormarino.ie/documentlink/108/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.svdpseniormarino.ie/documentlink/107/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.svdpseniormarino.ie/documentlink/106/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.svdpseniormarino.ie/documentlink/105/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.svdpseniormarino.ie/documentlink/104/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.svdpseniormarino.ie/documentlink/103/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.svdpseniormarino.ie/documentlink/102/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.svdpseniormarino.ie/documentlink/102/?open=true",
+      "label": "SVDP Senior School Information Booklet",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.svdpseniormarino.ie/admin/?open=/parents/parents-association/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.svdpseniormarino.ie/admin/?open=/parents/parents-association/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.svdpseniormarino.ie/admin/?open=/parents/parental-communication/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.svdpseniormarino.ie/admin/?open=/parents/parental-communication/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.svdpseniormarino.ie/admin/?open=/parents/extra-curricular-activities/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.svdpseniormarino.ie/admin/?open=/parents/extra-curricular-activities/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.svdpseniormarino.ie/admin/?open=/parents/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.svdpseniormarino.ie/admin/?open=/parents/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.svdpseniormarino.ie/admin/?open=/downloads/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.svdpseniormarino.ie/admin/?open=/downloads/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.svdpseniormarino.ie/",
+      "label": "School homepage",
+      "via": "home"
+    },
+    {
+      "url": "https://www.svdpseniormarino.ie/documentlink/96/?open=true",
+      "label": "Bí Cineálta Policy - Child Friendly Version.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.svdpseniormarino.ie/documentlink/94/?open=true",
+      "label": "Attendance Policy .pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.svdpseniormarino.ie/documentlink/50/?open=true",
+      "label": "Bí Cineálta Policy.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.svdpseniormarino.ie/documentlink/37/?open=true",
+      "label": "Acceptable Use Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.svdpseniormarino.ie/documentlink/30/?open=true",
+      "label": "Homework Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.svdpseniormarino.ie/documentlink/26/?open=true",
+      "label": "Use of Electronic Devices Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.svdpseniormarino.ie/cmsfiles/policies/privacy/",
+      "label": "Website Privacy Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.svdpseniormarino.ie/cmsfiles/policies/cookie/",
+      "label": "Cookie Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 68.47,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:03:07+0000"
+}

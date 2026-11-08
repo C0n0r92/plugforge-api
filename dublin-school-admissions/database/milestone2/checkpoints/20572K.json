@@ -1,0 +1,224 @@
+{
+  "roll": "20572K",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.ancosancss.ie/",
+      "final_url": "https://www.ancosancss.ie/",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.ancosancss.ie/admissions",
+      "final_url": "https://www.ancosancss.ie/admissions",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://www.ancosancss.ie/s/An-Cosan-CSS-Admissions-notice-2026-2027.pdf",
+      "final_url": "https://static1.squarespace.com/static/66c5ffd7cd0a6b6911f46ee4/t/696df4e7a7f73e4959d8749d/1780580825943/An+Cos%C3%A1n+CSS+Admissions+notice+2026-2027.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions Notice 2026/2027"
+    },
+    {
+      "url": "https://www.ancosancss.ie/s/AnCosanCSSReviewbyBoardofManagementRequestFormRefusedAdmission-1.pdf",
+      "final_url": "https://static1.squarespace.com/static/66c5ffd7cd0a6b6911f46ee4/t/697731c56b596e4cc24b892b/1780580825943/An%2BCos%C3%A1n%2BCSS%2BReview%2Bby%2BBoard%2Bof%2BManagement%2BRequest%2BForm%2B%E2%80%93%2BRefused%2BAdmission+%281%29.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Review by BOM Request Form"
+    },
+    {
+      "url": "https://www.ancosancss.ie/s/AdmissionParticipationPolicy2026-2027-pjdx.pdf",
+      "final_url": "https://static1.squarespace.com/static/66c5ffd7cd0a6b6911f46ee4/t/6981e3b48bf0534425b45fee/1780580825943/Admission%2B%26%2BParticipation%2BPolicy%2B2026-2027.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions Policy 2026/2027"
+    },
+    {
+      "url": "https://www.ancosancss.ie/sitemap.xml",
+      "final_url": "https://www.ancosancss.ie/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.ancosancss.ie/policies",
+      "final_url": "https://www.ancosancss.ie/policies",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.ancosancss.ie/s/An-Cosan-CSS-Admissions-notice-2026-2027-86ea.pdf",
+      "final_url": "https://static1.squarespace.com/static/66c5ffd7cd0a6b6911f46ee4/t/6a3e40beb2ae1d09f606a8a6/1782464703667/An+Cos%C3%A1n+CSS+Admissions+notice+2026-2027.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions Notice 2026/202"
+    },
+    {
+      "url": "https://www.ancosancss.ie/s/20260629105128905.pdf",
+      "final_url": "https://static1.squarespace.com/static/66c5ffd7cd0a6b6911f46ee4/t/6a4232f0c594b37f365defec/1782723312644/20260629105128905.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Notification regarding the board of management’s annual review of the school’s Bì Cineàlta Policy"
+    },
+    {
+      "url": "https://www.ancosancss.ie/s/An-Cosan-CSS-Review-by-Board-of-Management-Request-Form-Refused-Admission.pdf",
+      "final_url": "https://static1.squarespace.com/static/66c5ffd7cd0a6b6911f46ee4/t/67a63b006a134c604dac6157/1738947328834/An+Cos%C3%A1n+CSS+Review+by+Board+of+Management+Request+Form+%E2%80%93+Refused+Admission.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "An Cosán CSS Review by Board of Management Request Form – Refused Admission"
+    },
+    {
+      "url": "https://www.ancosancss.ie/s/Admissions-and-Participation-Policy-2026-2027.pdf",
+      "final_url": "https://static1.squarespace.com/static/66c5ffd7cd0a6b6911f46ee4/t/6a3e34d3b26d3e183df37095/1782461655096/Admissions+and+Participation+Policy+2026-2027.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions and Participation Policy 2026/202"
+    },
+    {
+      "url": "https://www.ancosancss.ie/s/Wellbeing-Policy-2025-2026.pdf",
+      "final_url": "https://static1.squarespace.com/static/66c5ffd7cd0a6b6911f46ee4/t/685aad4aa12c0a51b62149a7/1780580825943/Wellbeing+Policy+2025-2026.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Wellbeing Policy"
+    },
+    {
+      "url": "https://www.ancosancss.ie/s/Data-Processing-Policy-2025-nc9l.pdf",
+      "final_url": "https://static1.squarespace.com/static/66c5ffd7cd0a6b6911f46ee4/t/694023a4e880ef40962b303e/1780580825943/Data-Processing-Policy-2025.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Data Processing Policy"
+    },
+    {
+      "url": "https://www.ancosancss.ie/s/Bi-Cinealta-20252026.pdf",
+      "final_url": "https://static1.squarespace.com/static/66c5ffd7cd0a6b6911f46ee4/t/6a3a5776abc9c44e651cc431/1782208378403/B%C3%AC+Cine%C3%A0lta+20252026.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Bí Cineálta Policy"
+    },
+    {
+      "url": "https://www.ancosancss.ie/s/2025-Intimate-and-Personal-Care-Policy-SIGNED.pdf",
+      "final_url": "https://static1.squarespace.com/static/66c5ffd7cd0a6b6911f46ee4/t/67fe5973a4e15d38e35b72f9/1780580825943/2025+Intimate+and+Personal+Care+Policy+%28SIGNED%29.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Intimate Care Policy"
+    },
+    {
+      "url": "https://www.ancosancss.ie/s/Internet-Acceptable-Use-Policy-2026.pdf",
+      "final_url": "https://static1.squarespace.com/static/66c5ffd7cd0a6b6911f46ee4/t/6a22b26cce5fb46cbbed4297/1780658797479/Internet+Acceptable+Use+Policy+2026.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Internet Acceptable Use Policy 2026"
+    },
+    {
+      "url": "https://www.ancosancss.ie/s/Application-form-2627-fhry.pdf",
+      "final_url": "https://static1.squarespace.com/static/66c5ffd7cd0a6b6911f46ee4/t/69774b0c34d09b236a6cdff7/1780580825943/Application+form+26.27.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Application Form 2026/2027"
+    },
+    {
+      "url": "https://www.ancosancss.ie/s/2026-Child-Safeguarding-Statement-and-Risk-Assessment-Template.pdf",
+      "final_url": "https://static1.squarespace.com/static/66c5ffd7cd0a6b6911f46ee4/t/6a22a121805fb953c0a399cc/1780654371052/2026+Child+Safeguarding+Statement+and+Risk+Assessment+Template.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Child Safeguarding Statement and Risk Assessment Policy 2026/202"
+    },
+    {
+      "url": "https://www.ancosancss.ie/s/School-EV-Charging-Station-Policy.pdf",
+      "final_url": "https://static1.squarespace.com/static/66c5ffd7cd0a6b6911f46ee4/t/68e4ef28148b73411049d5ee/1780580825943/School+EV+Charging+Station+Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School EV Charging Station Policy"
+    },
+    {
+      "url": "https://www.ancosancss.ie/s/Protected-Disclosures-Policy.pdf",
+      "final_url": "https://static1.squarespace.com/static/66c5ffd7cd0a6b6911f46ee4/t/6720f9ddd6638820f688fea8/1780580825943/Protected-Disclosures-Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Protected Disclosures Policy"
+    },
+    {
+      "url": "https://www.ancosancss.ie/s/City-of-Dublin-ETB-AI-Policy.pdf",
+      "final_url": "https://static1.squarespace.com/static/66c5ffd7cd0a6b6911f46ee4/t/6a4e136822650728a9347719/1783501673527/City+of+Dublin+ETB+AI+Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policy"
+    },
+    {
+      "url": "https://www.ancosancss.ie/s/Child-Safe-Guarding-Statement-Risk-Assessment-Policy-An-Cosan-CSS-SIGNED.pdf",
+      "final_url": "https://static1.squarespace.com/static/66c5ffd7cd0a6b6911f46ee4/t/6720f921d5d65e21bf790ef9/1780580825943/Child+Safe+Guarding+Statement+%26+Risk+Assessment+Policy+-+An+Cosan+CSS+%28SIGNED%29.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.ancosancss.ie/s/Appropriate-Behaviour-Policy-SECOND-VERSION-SIGNED.pdf",
+      "final_url": "https://static1.squarespace.com/static/66c5ffd7cd0a6b6911f46ee4/t/6720f8e90b354f7e8704fd4c/1780580825943/Appropriate+Behaviour+Policy+SECOND+VERSION+%28SIGNED%29.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Appropriate Behaviour Policy"
+    },
+    {
+      "url": "https://www.ancosancss.ie/s/Anti-Bullying-Policy-An-Cosan-CSS-SIGNED.pdf",
+      "final_url": "https://static1.squarespace.com/static/66c5ffd7cd0a6b6911f46ee4/t/6720f8970d3eb303959cc242/1780580825943/Anti-Bullying+Policy+-+An+Cosan+CSS+%28SIGNED%29.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Anti Bullying Policy"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "20572K",
+      "url": "https://static1.squarespace.com/static/66c5ffd7cd0a6b6911f46ee4/t/697731c56b596e4cc24b892b/1780580825943/An%2BCos%C3%A1n%2BCSS%2BReview%2Bby%2BBoard%2Bof%2BManagement%2BRequest%2BForm%2B%E2%80%93%2BRefused%2BAdmission+%281%29.pdf",
+      "label": "Review by BOM Request Form",
+      "sha256": "3f2fbe220ff2aa54431e4f6cd83455353e1110b9b7a06c5be981bfefa3474dea",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20572K_3f2fbe220ff2aa54431e.txt",
+      "source_file": "database/milestone2/cache/3f2fbe220ff2aa54431e4f6cd83455353e1110b9b7a06c5be981bfefa3474dea.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 3103
+    },
+    {
+      "roll": "20572K",
+      "url": "https://static1.squarespace.com/static/66c5ffd7cd0a6b6911f46ee4/t/6981e3b48bf0534425b45fee/1780580825943/Admission%2B%26%2BParticipation%2BPolicy%2B2026-2027.pdf",
+      "label": "Admissions Policy 2026/2027",
+      "sha256": "3cc1efcdc8beb8073f6e6c60d19a8cab2453a1e156d787a2a61bac94d72342c4",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20572K_3cc1efcdc8beb8073f6e.txt",
+      "source_file": "database/milestone2/cache/3cc1efcdc8beb8073f6e6c60d19a8cab2453a1e156d787a2a61bac94d72342c4.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 61723
+    },
+    {
+      "roll": "20572K",
+      "url": "https://static1.squarespace.com/static/66c5ffd7cd0a6b6911f46ee4/t/6a3e40beb2ae1d09f606a8a6/1782464703667/An+Cos%C3%A1n+CSS+Admissions+notice+2026-2027.pdf",
+      "label": "Admissions Notice 2026/202",
+      "sha256": "d76ca15fe181942506bd90e70f1f3b3563cd05469a93acd2e184a76beff54d68",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20572K_d76ca15fe181942506bd.txt",
+      "source_file": "database/milestone2/cache/d76ca15fe181942506bd90e70f1f3b3563cd05469a93acd2e184a76beff54d68.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 6891
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.ancosancss.ie/s/Acceptable-Use-Policy-An-Cosan-CSS-SIGNED.pdf",
+      "label": "Acceptable Use Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ancosancss.ie/s/Substance-Use-Policy-SIGNED",
+      "label": "Substance Use Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 82.38,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:01:07+0000"
+}

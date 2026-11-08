@@ -1,0 +1,88 @@
+{
+  "roll": "20429F",
+  "status": "bounded_search_no_new_notice_found",
+  "attempts": [
+    {
+      "url": "https://www.saintjamessps.com/admissions-notice",
+      "final_url": "https://www.saintjamessps.com/admissions-notice",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions/policy URL from public sitemap"
+    },
+    {
+      "url": "https://www.saintjamessps.com/admissions",
+      "final_url": "https://www.saintjamessps.com/admissions",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://www.saintjamessps.com/s/StJames-PS-Enrolment-Form.doc",
+      "final_url": "https://static1.squarespace.com/static/662bb04d68c83f12503156ac/t/681d0239caebd22eea396000/1746731577831/St.James+P.S+Enrolment+Form.doc",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Application Form"
+    },
+    {
+      "url": "https://www.saintjamessps.com/sitemap.xml",
+      "final_url": "https://www.saintjamessps.com/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.saintjamessps.com/policies",
+      "final_url": "https://www.saintjamessps.com/policies",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.saintjamessps.com/enrolment-form",
+      "final_url": "https://www.saintjamessps.com/enrolment-form",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions/policy URL from public sitemap"
+    },
+    {
+      "url": "https://www.saintjamessps.com/admissions-policy-1",
+      "final_url": "https://www.saintjamessps.com/admissions-policy-1",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions/policy URL from public sitemap"
+    },
+    {
+      "url": "https://www.saintjamessps.com/admissions-policy",
+      "final_url": "https://www.saintjamessps.com/admissions-policy",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "POLIC"
+    },
+    {
+      "url": "https://www.saintjamessps.com",
+      "final_url": "https://www.saintjamessps.com",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://static1.squarespace.com/sitemap.xml",
+      "final_url": "https://static1.squarespace.com/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.saintjamessps.com/health-safety-statement",
+      "final_url": "https://www.saintjamessps.com/health-safety-statement",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Health, Safety & Welfare Policy"
+    }
+  ],
+  "documents": [],
+  "pending_links": [],
+  "elapsed_seconds": 28.75,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:11:50+0000"
+}

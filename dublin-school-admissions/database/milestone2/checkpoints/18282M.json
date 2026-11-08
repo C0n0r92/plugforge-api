@@ -1,0 +1,213 @@
+{
+  "roll": "18282M",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.stmatts.ie/policies/admissions",
+      "final_url": "https://www.stmatts.ie/policies/admissions",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://www.stmatts.ie/enrolment",
+      "final_url": "https://www.stmatts.ie/enrolment",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Enrolment"
+    },
+    {
+      "url": "https://www.stmatts.ie/s/Admissions-Notice-Oct-2026-pcyz.pdf",
+      "final_url": "https://static1.squarespace.com/static/6920310f8e053f1e18e4610f/t/6abd0118f85fae51f204d894/1790771480434/Admissions-Notice-Oct-2026.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "here"
+    },
+    {
+      "url": "https://www.stmatts.ie/s/Application-for-Admission-to-Senior-Infants-Sixth-Class-rj66.pdf",
+      "final_url": "https://static1.squarespace.com/static/6920310f8e053f1e18e4610f/t/6abd0217f1ad4c52544dbf41/1790771735695/Application-for-Admission-to-Senior-Infants-Sixth-Class.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "application form"
+    },
+    {
+      "url": "https://www.stmatts.ie/sitemap.xml",
+      "final_url": "https://www.stmatts.ie/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.stmatts.ie/policies",
+      "final_url": "https://www.stmatts.ie/policies",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.stmatts.ie/policies/parental-complaints-procedure",
+      "final_url": "https://www.stmatts.ie/policies/parental-complaints-procedure",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Revised Parents Complaints Procedure"
+    },
+    {
+      "url": "https://www.stmatts.ie/policies/health-wellbeing",
+      "final_url": "https://www.stmatts.ie/policies/health-wellbeing",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Health & Wellbeing"
+    },
+    {
+      "url": "https://www.stmatts.ie/policies/first-aid-procedureadministration-of-medicine",
+      "final_url": "https://www.stmatts.ie/policies/first-aid-procedureadministration-of-medicine",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "First Aid Procedure/Administration of Medicine"
+    },
+    {
+      "url": "https://www.stmatts.ie/policies/ethos-statement",
+      "final_url": "https://www.stmatts.ie/policies/ethos-statement",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Ethos Statement"
+    },
+    {
+      "url": "https://www.stmatts.ie/policies/child-safeguarding-risk-assessment",
+      "final_url": "https://www.stmatts.ie/policies/child-safeguarding-risk-assessment",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Child Safeguarding & Risk Assessment"
+    },
+    {
+      "url": "https://www.stmatts.ie/policies/book-a-meeting-with-the-principal",
+      "final_url": "https://www.stmatts.ie/policies/book-a-meeting-with-the-principal",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Book a Meeting with the Principal"
+    },
+    {
+      "url": "https://www.stmatts.ie/parental-involvement",
+      "final_url": "https://www.stmatts.ie/how-to-get-involved",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Folder: Parents"
+    },
+    {
+      "url": "https://www.stmatts.ie/",
+      "final_url": "https://www.stmatts.ie/",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.stmatts.ie/policies/staffpupil-anaphylaxis-allergy-policy",
+      "final_url": "https://www.stmatts.ie/policies/staffpupil-anaphylaxis-allergy-policy",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Staff/Pupil Anaphylaxis Allergy Policy"
+    },
+    {
+      "url": "https://www.stmatts.ie/policies/punctuality-policy",
+      "final_url": "https://www.stmatts.ie/policies/punctuality-policy",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Punctuality Policy"
+    },
+    {
+      "url": "https://www.stmatts.ie/policies/new-policy",
+      "final_url": "https://www.stmatts.ie/policies/new-policy",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Code of Behaviour"
+    },
+    {
+      "url": "https://www.stmatts.ie/policies/irish-exemption-policy",
+      "final_url": "https://www.stmatts.ie/policies/irish-exemption-policy",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Irish Exemption Policy"
+    },
+    {
+      "url": "https://www.stmatts.ie/s/Exemption-from-the-Study-of-Irish-Policydocx.pdf",
+      "final_url": "https://static1.squarespace.com/static/6920310f8e053f1e18e4610f/t/6920968d93541c3d185a2dbd/1763743373747/Exemption+from+the+Study+of+Irish+Policy.docx.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Make an Application for the Exemption from Irish"
+    },
+    {
+      "url": "https://www.stmatts.ie/policies/homework-policy",
+      "final_url": "https://www.stmatts.ie/policies/homework-policy",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Homework Policy"
+    },
+    {
+      "url": "https://www.stmatts.ie/policies/healthy-eating-policy",
+      "final_url": "https://www.stmatts.ie/policies/healthy-eating-policy",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Healthy Eating Policy"
+    },
+    {
+      "url": "https://www.stmatts.ie/policies/headlice-policy",
+      "final_url": "https://www.stmatts.ie/policies/headlice-policy",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Headlice Policy"
+    },
+    {
+      "url": "https://www.stmatts.ie/policies/dress-code-policy",
+      "final_url": "https://www.stmatts.ie/policies/dress-code-policy",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Dress Code Policy"
+    },
+    {
+      "url": "https://www.stmatts.ie/policies/communication-policy",
+      "final_url": "https://www.stmatts.ie/policies/communication-policy",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Communication Policy"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "18282M",
+      "url": "https://www.stmatts.ie/policies/admissions",
+      "label": "Prior school admissions section",
+      "sha256": "c0ad81efd2db2155ec29da9fd4620e23c66d6fa05f449ad119f674f0f6194066",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/18282M_c0ad81efd2db2155ec29.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 18100
+    },
+    {
+      "roll": "18282M",
+      "url": "https://static1.squarespace.com/static/6920310f8e053f1e18e4610f/t/6abd0217f1ad4c52544dbf41/1790771735695/Application-for-Admission-to-Senior-Infants-Sixth-Class.pdf",
+      "label": "application form",
+      "sha256": "04d143074aa1ed232ef5f9c3a111ec6ed4c6da0cda1cbbd69a98da9249b3d352",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/18282M_04d143074aa1ed232ef5.txt",
+      "source_file": "database/milestone2/cache/04d143074aa1ed232ef5f9c3a111ec6ed4c6da0cda1cbbd69a98da9249b3d352.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 4166
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.stmatts.ie/policies/b-cinelta-policy-to-address-and-prevent-bullying-behaviour",
+      "label": "Next Next Bí Cineálta Policy to Address and Prevent Bullying Behaviour",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmatts.ie/policies/acceptable-usage-policy",
+      "label": "Acceptable Usage Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 79.0,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:52:48+0000"
+}

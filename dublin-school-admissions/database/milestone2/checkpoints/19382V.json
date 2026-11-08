@@ -1,0 +1,234 @@
+{
+  "roll": "19382V",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.scoileoin.ie/wp-content/uploads/2020/10/Admissions-Policy.docx",
+      "final_url": "https://www.scoileoin.ie/wp-content/uploads/2020/10/Admissions-Policy.docx",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://www.scoileoin.ie/?s=admission",
+      "final_url": "https://www.scoileoin.ie/?s=admission",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Public site search form"
+    },
+    {
+      "url": "https://www.scoileoin.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://www.scoileoin.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://www.scoileoin.ie/wp-content/uploads/2020/10/Application-for-Admissions-Form.docx",
+      "final_url": "https://www.scoileoin.ie/wp-content/uploads/2020/10/Application-for-Admissions-Form.docx",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Application-for-Admissions-Form"
+    },
+    {
+      "url": "https://www.scoileoin.ie/wp-content/uploads/2021/11/Application-for-Admissions-Form2023.pdf",
+      "final_url": "https://www.scoileoin.ie/wp-content/uploads/2021/11/Application-for-Admissions-Form2023.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Application-for-Admissions-Form2023"
+    },
+    {
+      "url": "https://www.scoileoin.ie/wp-content/uploads/2021/11/Application-for-Admissions-Form-2023.pdf",
+      "final_url": "https://www.scoileoin.ie/wp-content/uploads/2021/11/Application-for-Admissions-Form-2023.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Application-for-Admissions-Form 2023"
+    },
+    {
+      "url": "https://www.scoileoin.ie/wp-content/uploads/2022/10/Application-for-Admissions-Form2023_24.pdf",
+      "final_url": "https://www.scoileoin.ie/wp-content/uploads/2022/10/Application-for-Admissions-Form2023_24.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Application-for-Admissions-Form2023_24"
+    },
+    {
+      "url": "https://www.scoileoin.ie/wp-content/uploads/2022/10/Application-for-Admissions-Form2023_24-Copy-1.pdf",
+      "final_url": "https://www.scoileoin.ie/wp-content/uploads/2022/10/Application-for-Admissions-Form2023_24-Copy-1.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Application-for-Admissions-Form2023_24 &#8211; Copy (1)"
+    },
+    {
+      "url": "https://www.scoileoin.ie/wp-content/uploads/2022/10/Application-for-Admissions-Form2023_24-2.pdf",
+      "final_url": "https://www.scoileoin.ie/wp-content/uploads/2022/10/Application-for-Admissions-Form2023_24-2.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Application-for-Admissions-Form2023_24"
+    },
+    {
+      "url": "https://www.scoileoin.ie/wp-content/uploads/2022/10/Application-for-Admissions-Form2023_24-1.pdf",
+      "final_url": "https://www.scoileoin.ie/wp-content/uploads/2022/10/Application-for-Admissions-Form2023_24-1.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Application-for-Admissions-Form2023_24"
+    },
+    {
+      "url": "https://www.scoileoin.ie/wp-content/uploads/2023/09/Application-for-Admissions-Form-24_25.pdf",
+      "final_url": "https://www.scoileoin.ie/wp-content/uploads/2023/09/Application-for-Admissions-Form-24_25.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Application-for-Admissions-Form 24_25"
+    },
+    {
+      "url": "https://www.scoileoin.ie/wp-content/uploads/2024/10/Application-for-Admissions-Form-25_26.pdf",
+      "final_url": "https://www.scoileoin.ie/wp-content/uploads/2024/10/Application-for-Admissions-Form-25_26.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Application-for-Admissions-Form 25_26"
+    },
+    {
+      "url": "https://www.scoileoin.ie/wp-content/uploads/2025/11/Application-for-Admissions-Form-26-27-1.docx",
+      "final_url": "https://www.scoileoin.ie/wp-content/uploads/2025/11/Application-for-Admissions-Form-26-27-1.docx",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Application-for-Admissions-Form 26-27 1"
+    },
+    {
+      "url": "https://www.scoileoin.ie/wp-content/uploads/2025/10/Application-for-Admissions-Form-26-27.docx",
+      "final_url": "https://www.scoileoin.ie/wp-content/uploads/2025/10/Application-for-Admissions-Form-26-27.docx",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Application-for-Admissions-Form 26-27"
+    },
+    {
+      "url": "https://www.scoileoin.ie/wp-content/uploads/2025/10/Application-for-Admissions-Form-26-27-1.pdf",
+      "final_url": "https://www.scoileoin.ie/wp-content/uploads/2025/10/Application-for-Admissions-Form-26-27-1.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Application-for-Admissions-Form-26-27 (1)"
+    },
+    {
+      "url": "https://www.scoileoin.ie/wp-content/uploads/2020/09/Admissions-Policy.pdf",
+      "final_url": "https://www.scoileoin.ie/wp-content/uploads/2020/09/Admissions-Policy.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions-Policy"
+    },
+    {
+      "url": "https://www.scoileoin.ie/wp-content/uploads/2023/09/Admissions-Policy-2024.pdf",
+      "final_url": "https://www.scoileoin.ie/wp-content/uploads/2023/09/Admissions-Policy-2024.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Policy 2024"
+    },
+    {
+      "url": "http://www.scoileoin.ie/wp-content/uploads/2024/11/Holiday-List-2024-25.pdf",
+      "final_url": "http://www.scoileoin.ie/wp-content/uploads/2024/11/Holiday-List-2024-25.pdf",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "Holiday List 2024/25"
+    },
+    {
+      "url": "https://www.scoileoin.ie/sitemap.xml",
+      "final_url": "https://www.scoileoin.ie/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.scoileoin.ie/admissions-policy/",
+      "final_url": "https://www.scoileoin.ie/admissions-policy/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions Policy & Forms"
+    },
+    {
+      "url": "http://www.scoileoin.ie/wp-content/uploads/2025/11/Admissions-Notice-2026-27-1.docx",
+      "final_url": "http://www.scoileoin.ie/wp-content/uploads/2025/11/Admissions-Notice-2026-27-1.docx",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "Admissions-Notice-2026-27 1"
+    },
+    {
+      "url": "http://www.scoileoin.ie/wp-content/uploads/2025/11/Application-for-Admissions-Form-26-27-1.docx",
+      "final_url": "http://www.scoileoin.ie/wp-content/uploads/2025/11/Application-for-Admissions-Form-26-27-1.docx",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "Application-for-Admissions-Form 26-27 1"
+    },
+    {
+      "url": "http://www.scoileoin.ie/wp-content/uploads/2023/09/Admissions-Policy-2024.pdf",
+      "final_url": "http://www.scoileoin.ie/wp-content/uploads/2023/09/Admissions-Policy-2024.pdf",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "Admissions Policy 2024"
+    },
+    {
+      "url": "https://www.scoileoin.ie",
+      "final_url": "https://www.scoileoin.ie",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19382V",
+      "url": "https://www.scoileoin.ie/wp-content/uploads/2020/10/Admissions-Policy.docx",
+      "label": "Prior school admissions section",
+      "sha256": "66f8dd0467631d3914cc1d21b689ac3e2a773b2932dcaaf86f9f90752bcc9662",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/19382V_66f8dd0467631d3914cc.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 19596
+    },
+    {
+      "roll": "19382V",
+      "url": "https://www.scoileoin.ie/wp-content/uploads/2020/09/Admissions-Policy.pdf",
+      "label": "Admissions-Policy",
+      "sha256": "1c1d9b5fe170a02e13cb1fe23b9f68e55416520afeb304400784f3ed3fa880d6",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19382V_1c1d9b5fe170a02e13cb.txt",
+      "source_file": "database/milestone2/cache/1c1d9b5fe170a02e13cb1fe23b9f68e55416520afeb304400784f3ed3fa880d6.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 20093
+    },
+    {
+      "roll": "19382V",
+      "url": "https://www.scoileoin.ie/wp-content/uploads/2023/09/Admissions-Policy-2024.pdf",
+      "label": "Admissions Policy 2024",
+      "sha256": "2f6b3212efbd94398a1e2d66ea74c2cafa28a5ade866d1381635745cec807abc",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19382V_2f6b3212efbd94398a1e.txt",
+      "source_file": "database/milestone2/cache/2f6b3212efbd94398a1e2d66ea74c2cafa28a5ade866d1381635745cec807abc.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 43443
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.scoileoin.ie/substance-use-policy/",
+      "label": "Substance Use Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoileoin.ie/policy-statement-on-safety-health-and-welfare-at-work/",
+      "label": "Policy Statement on Safety, Health and Welfare at Work",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoileoin.ie/child-protection-policy/",
+      "label": "Child Safeguarding Statement & Risk Assessment",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoileoin.ie/anti-bullying-policy/",
+      "label": "Anti Bullying Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 70.2,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:32:37+0000"
+}

@@ -1,0 +1,22 @@
+{
+  "roll": "16461C",
+  "capture": {
+    "timestamp": "20240702200454",
+    "original": "https://stfiniansprimaryschool.ie/",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "digest": "KSIAF65J5RU2RH2YVYZQKQPWTO7TCLKU"
+  },
+  "original_url": "https://stfiniansprimaryschool.ie/",
+  "archived_url": "https://web.archive.org/web/20240702200454/https://stfiniansprimaryschool.ie/",
+  "attempted_at": "2026-11-08T13:05:25.742531+00:00",
+  "linked_from_capture": null,
+  "http_status": 302,
+  "headers": {
+    "Content-Type": "text/plain; charset=utf-8",
+    "location": "https://web.archive.org/web/20240702131403/https://stfiniansprimaryschool.ie/"
+  },
+  "bytes": 0,
+  "status": "archive_redirect_pending",
+  "redirect_url": "https://web.archive.org/web/20240702131403/https://stfiniansprimaryschool.ie/"
+}

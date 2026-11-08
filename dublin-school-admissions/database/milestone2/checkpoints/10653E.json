@@ -1,0 +1,174 @@
+{
+  "roll": "10653E",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.stlaurenceschapelizod.com/enrolment",
+      "final_url": "https://www.stlaurenceschapelizod.com/enrolment",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Enrolment"
+    },
+    {
+      "url": "https://www.stlaurenceschapelizod.com/_files/ugd/46c4c6_3bf2d238f82d4e22999487782028d389.docx?dn=Notification%20of%20Intention%20to%20Apply%20for%20Enrolment%20Form.docx",
+      "final_url": "https://www.stlaurenceschapelizod.com/_files/ugd/46c4c6_3bf2d238f82d4e22999487782028d389.docx?dn=Notification%20of%20Intention%20to%20Apply%20for%20Enrolment%20Form.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "NOTIFICATION OF INTENTION TO APPLY FOR ENROLMENT FORM"
+    },
+    {
+      "url": "https://www.stlaurenceschapelizod.com/_files/ugd/46c4c6_ac418c54b23447fea3060543ffa70131.docx?dn=Admissions%20Policy%20Dec%202022.docx",
+      "final_url": "https://www.stlaurenceschapelizod.com/_files/ugd/46c4c6_ac418c54b23447fea3060543ffa70131.docx?dn=Admissions%20Policy%20Dec%202022.docx",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://www.stlaurenceschapelizod.com/_files/ugd/46c4c6_ff7feb2d80d240a0a87cdf44fd52f6c5.docx?dn=Enrolment%20Application%20Form%20St%20Laurence's%20School.pdf.docx",
+      "final_url": "https://www.stlaurenceschapelizod.com/_files/ugd/46c4c6_ff7feb2d80d240a0a87cdf44fd52f6c5.docx?dn=Enrolment%20Application%20Form%20St%20Laurence's%20School.pdf.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "ENROLMENT APPLICATION FORM"
+    },
+    {
+      "url": "https://www.stlaurenceschapelizod.com/sitemap.xml",
+      "final_url": "https://www.stlaurenceschapelizod.com/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.stlaurenceschapelizod.com/school-policies",
+      "final_url": "https://www.stlaurenceschapelizod.com/school-policies",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Policies"
+    },
+    {
+      "url": "https://www.stlaurenceschapelizod.com/_files/ugd/46c4c6_f58b02f8e13a48eeb19115ac3f74fd9d.pdf",
+      "final_url": "https://www.stlaurenceschapelizod.com/_files/ugd/46c4c6_f58b02f8e13a48eeb19115ac3f74fd9d.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Notification Regarding the Board of Management's Annual Review of the Anti-Bullying Policy"
+    },
+    {
+      "url": "https://www.stlaurenceschapelizod.com/_files/ugd/46c4c6_ecfacfc1677f4fd1904c6e5a2b2dcb13.docx?dn=Healthy%20Eating%20Policy%202016.docx",
+      "final_url": "https://www.stlaurenceschapelizod.com/_files/ugd/46c4c6_ecfacfc1677f4fd1904c6e5a2b2dcb13.docx?dn=Healthy%20Eating%20Policy%202016.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Healthy Eating Policy"
+    },
+    {
+      "url": "https://www.stlaurenceschapelizod.com/_files/ugd/46c4c6_70b7e6db66a349c089928d9875693ec9.pdf",
+      "final_url": "https://www.stlaurenceschapelizod.com/_files/ugd/46c4c6_70b7e6db66a349c089928d9875693ec9.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parental Complaints Procedure"
+    },
+    {
+      "url": "https://www.stlaurenceschapelizod.com/pages-sitemap.xml",
+      "final_url": "https://www.stlaurenceschapelizod.com/pages-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.stlaurenceschapelizod.com/for-parents",
+      "final_url": "https://www.stlaurenceschapelizod.com/for-parents",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "For Parents"
+    },
+    {
+      "url": "https://www.stlaurenceschapelizod.com/_files/ugd/46c4c6_bd90b7a3019a41c2b6becb37f653963b.doc?dn=Health%20%26%20Safety%20Statement%202024.doc",
+      "final_url": "https://www.stlaurenceschapelizod.com/_files/ugd/46c4c6_bd90b7a3019a41c2b6becb37f653963b.doc?dn=Health%20%26%20Safety%20Statement%202024.doc",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Health & Safety Policy"
+    },
+    {
+      "url": "https://www.stlaurenceschapelizod.com/_files/ugd/46c4c6_4c6c52296d9e42afa3c10260e869bbde.docx?dn=Anti-bullying%20Policy%20April%202025.docx",
+      "final_url": "https://www.stlaurenceschapelizod.com/_files/ugd/46c4c6_4c6c52296d9e42afa3c10260e869bbde.docx?dn=Anti-bullying%20Policy%20April%202025.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Anti-Bullying Policy"
+    },
+    {
+      "url": "https://www.stlaurenceschapelizod.com/_files/ugd/46c4c6_2d4eef9b3dc643bc88b5229aa61c3317.doc?dn=PARENT%20STAFF%20COMMUNICATION%20POLICY%20October%202021%20(1).doc",
+      "final_url": "https://www.stlaurenceschapelizod.com/_files/ugd/46c4c6_2d4eef9b3dc643bc88b5229aa61c3317.doc?dn=PARENT%20STAFF%20COMMUNICATION%20POLICY%20October%202021%20(1).doc",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parent - Staff Communication Policy"
+    },
+    {
+      "url": "https://www.stlaurenceschapelizod.com/_files/ugd/46c4c6_12521196db5c47d0897f07fbbc0610ce.docx?dn=B%C3%AD%20Cine%C3%A1lta%20Policy%20St%20Laurence's%20N.S.%20May%202026.docx",
+      "final_url": "https://www.stlaurenceschapelizod.com/_files/ugd/46c4c6_12521196db5c47d0897f07fbbc0610ce.docx?dn=B%C3%AD%20Cine%C3%A1lta%20Policy%20St%20Laurence's%20N.S.%20May%202026.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Bí Cineálta Policy"
+    },
+    {
+      "url": "https://www.stlaurenceschapelizod.com/",
+      "final_url": "https://www.stlaurenceschapelizod.com/",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.stlaurenceschapelizod.com/_files/ugd/46c4c6_a3b8344810344ba1bc798152142cdce2.pdf",
+      "final_url": "https://www.stlaurenceschapelizod.com/_files/ugd/46c4c6_a3b8344810344ba1bc798152142cdce2.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Relationships & Sexual Education Policy"
+    },
+    {
+      "url": "https://www.stlaurenceschapelizod.com/_files/ugd/46c4c6_6428a072bf544611a81c2b5e67074b36.pdf",
+      "final_url": "https://www.stlaurenceschapelizod.com/_files/ugd/46c4c6_6428a072bf544611a81c2b5e67074b36.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Code of Behaviour Policy"
+    },
+    {
+      "url": "https://www.stlaurenceschapelizod.com/_files/ugd/46c4c6_6380ff9dd7dc4282b38788493f09d09d.doc?dn=ATTENDANCE%20POLICY.doc",
+      "final_url": "https://www.stlaurenceschapelizod.com/_files/ugd/46c4c6_6380ff9dd7dc4282b38788493f09d09d.doc?dn=ATTENDANCE%20POLICY.doc",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "State ment of Strategy for School Attendance"
+    },
+    {
+      "url": "https://www.stlaurenceschapelizod.com/_files/ugd/46c4c6_50a9d458a71d449e9e76789e5f605f39.pdf",
+      "final_url": "https://www.stlaurenceschapelizod.com/_files/ugd/46c4c6_50a9d458a71d449e9e76789e5f605f39.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Bí Cineálta Policy Student Friendly"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "10653E",
+      "url": "https://www.stlaurenceschapelizod.com/enrolment",
+      "label": "Enrolment",
+      "sha256": "d82bfacf657a09e97260bb1f7f26be74de3b96f264f2df863754b46c73e3e32c",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/10653E_d82bfacf657a09e97260.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 449
+    },
+    {
+      "roll": "10653E",
+      "url": "https://www.stlaurenceschapelizod.com/_files/ugd/46c4c6_ac418c54b23447fea3060543ffa70131.docx?dn=Admissions%20Policy%20Dec%202022.docx",
+      "label": "Prior school admissions section",
+      "sha256": "e8a9037dab65dbdb90273a71d1705bd76b531649cab90bae642d759bc6a138d5",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/10653E_e8a9037dab65dbdb9027.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 25742
+    }
+  ],
+  "pending_links": [],
+  "elapsed_seconds": 58.68,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:49:01+0000"
+}

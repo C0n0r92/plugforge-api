@@ -1,0 +1,280 @@
+{
+  "roll": "19727G",
+  "status": "bounded_search_no_new_notice_found",
+  "attempts": [
+    {
+      "url": "https://www.saintmarys.ie/about-st-marys/admissions/?googletranslate=true",
+      "final_url": "https://www.saintmarys.ie/about-st-marys/admissions/?googletranslate=true",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "https://www.saintmarys.ie/documentlink/149/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/773/docletter/20261017011800_54_Admission_Notice_September_2027_2028.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Admission Notice September 2027 2028.pdf"
+    },
+    {
+      "url": "https://www.saintmarys.ie/documentlink/127/?open=true",
+      "final_url": "https://view.officeapps.live.com/op/embed.aspx?src=https://swddoc.b-cdn.net/773/docletter/20260505094539_19_Late_Admissions_Form_Junior_Infants_.docx",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Late Admissions Form Junior Infants .docx"
+    },
+    {
+      "url": "https://www.saintmarys.ie/admin/?open=/about-st-marys/admissions/?googletranslate=true",
+      "final_url": "https://www.saintmarys.ie/admin/?open=/about-st-marys/admissions/?googletranslate=true",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.saintmarys.ie/about-st-marys/admissions/",
+      "final_url": "https://www.saintmarys.ie/about-st-marys/admissions/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://www.saintmarys.ie/admin/?open=/about-st-marys/admissions/",
+      "final_url": "https://www.saintmarys.ie/admin/?open=/about-st-marys/admissions/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.saintmarys.ie/sitemap.xml",
+      "final_url": "https://www.saintmarys.ie/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.saintmarys.ie/documentlink/149/?open=true&download=true",
+      "final_url": "https://swdcache.b-cdn.net/773/docletter/20261017011800_54_Admission_Notice_September_2027_2028.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.saintmarys.ie/documentlink/145/?open=true&download=true",
+      "final_url": "https://swdcache.b-cdn.net/773/docletter/20260922100022_95_Admission_Policy_Updated_April_2026_.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.saintmarys.ie/documentlink/145/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/773/docletter/20260922100022_95_Admission_Policy_Updated_April_2026_.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Admission Policy (Updated September 26-27)"
+    },
+    {
+      "url": "https://www.saintmarys.ie/documentlink/127/?open=true&download=true",
+      "final_url": "https://swdcache.b-cdn.net/773/docletter/20260505094539_19_Late_Admissions_Form_Junior_Infants_.docx",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.saintmarys.ie/about-st-marys/school-policies/",
+      "final_url": "https://www.saintmarys.ie/about-st-marys/school-policies/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Policies"
+    },
+    {
+      "url": "https://www.saintmarys.ie/documentlink/97/?open=true&download=true",
+      "final_url": "https://swdcache.b-cdn.net/773/docletter/20241202031407_89_Acceptable_Use_Policy_Updated_Nov_24_.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.saintmarys.ie/documentlink/96/?open=true&download=true",
+      "final_url": "https://www.saintmarys.ie/cmsfiles/items/downloads/1-ChildSafeguardingStatementandRiskAssessmentUpdatedSept25.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.saintmarys.ie/documentlink/79/?open=true&download=true",
+      "final_url": "https://swdcache.b-cdn.net/773/docletter/20240226112031_15_Safety_Statement_2023-2024.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.saintmarys.ie/documentlink/26/?open=true&download=true",
+      "final_url": "https://swdcache.b-cdn.net/773/docletter/20230328125602_66_jh33-fp25Remote_Learning_November.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.saintmarys.ie/documentlink/25/?open=true&download=true",
+      "final_url": "https://swdcache.b-cdn.net/773/docletter/20230328125559_18_gr26-Administration_of_Medicines.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.saintmarys.ie/documentlink/148/?open=true&download=true",
+      "final_url": "https://swdcache.b-cdn.net/773/docletter/20261005010855_90_20260918013813_46_Child_Safeguarding_Statement_and_Risk_Assessment_for_PA_.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.saintmarys.ie/documentlink/144/?open=true&download=true",
+      "final_url": "https://swdcache.b-cdn.net/773/docletter/20260920053114_41_Code_of_Behaviour_for_PA_Review_.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.saintmarys.ie/documentlink/141/?open=true&download=true",
+      "final_url": "https://swdcache.b-cdn.net/773/docletter/20260920051410_86_Critical_Incident_Policy_for_PA.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.saintmarys.ie/documentlink/121/?open=true&download=true",
+      "final_url": "https://swdcache.b-cdn.net/773/docletter/20260121034339_88_Substance_Use_Policy_-_Final_Updated_Oct._25_.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.saintmarys.ie/documentlink/120/?open=true&download=true",
+      "final_url": "https://swdcache.b-cdn.net/773/docletter/20260121034104_45_ICT_Policy_Updated_Jan_26_.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.saintmarys.ie/documentlink/113/?open=true&download=true",
+      "final_url": "https://swdcache.b-cdn.net/773/docletter/20250912100038_30_Data_Protection_Policy_St._Marys_NS_2019.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.saintmarys.ie/documentlink/112/?open=true&download=true",
+      "final_url": "https://swdcache.b-cdn.net/773/docletter/20250912095033_42_Protected_Disclosure_Policy_Feb_25_.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": ""
+    }
+  ],
+  "documents": [],
+  "pending_links": [
+    {
+      "url": "https://www.saintmarys.ie/documentlink/111/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.saintmarys.ie/documentlink/111/?open=true",
+      "label": "Parental Complaints Procedure",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.saintmarys.ie/documentlink/110/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.saintmarys.ie/documentlink/109/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.saintmarys.ie/documentlink/103/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.saintmarys.ie/admin/?open=/about-st-marys/school-policies/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.saintmarys.ie/about-st-marys/school-policies/?googletranslate=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.saintmarys.ie/about-st-marys/parents-assocation/",
+      "label": "Parent's Assocation",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.saintmarys.ie",
+      "label": "School homepage",
+      "via": "home"
+    },
+    {
+      "url": "https://www.saintmarys.ie/documentlink/113/?open=true",
+      "label": "Data Protection Policy (Updated March 2019)",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.saintmarys.ie/documentlink/97/?open=true",
+      "label": "Acceptable Use Policy (Updated Nov '24)",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.saintmarys.ie/documentlink/26/?open=true",
+      "label": "Remote Learning Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.saintmarys.ie/documentlink/141/?open=true",
+      "label": "Critical Incident Policy '26-27",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.saintmarys.ie/documentlink/121/?open=true",
+      "label": "Substance Use Policy (Updated Oct. '25)",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.saintmarys.ie/documentlink/120/?open=true",
+      "label": "ICT Policy (Updated Jan '26)",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.saintmarys.ie/documentlink/112/?open=true",
+      "label": "Protected Disclosures Policy (Updated Feb '25)",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.saintmarys.ie/documentlink/109/?open=true",
+      "label": "Bí Cineálta Policy (Updated June '25)",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.saintmarys.ie/documentlink/103/?open=true",
+      "label": "Supervision of Pupils Policy - (Updated May '25)",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.saintmarys.ie/cmsfiles/policies/privacy/",
+      "label": "Website Privacy Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.saintmarys.ie/cmsfiles/policies/cookie/",
+      "label": "Cookie Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 72.42,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:09:17+0000"
+}

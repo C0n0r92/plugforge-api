@@ -1,0 +1,129 @@
+{
+  "roll": "20425U",
+  "attempted_at": "2026-11-08T13:06:50+0000",
+  "method": "documented_public_WordPress_media_notice_and_Irish_title_gap_search",
+  "attempts": [
+    {
+      "url": "https://gaelscoilshliabhrua.ie/wp-json/wp/v2/media?search=notice&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok"
+    },
+    {
+      "url": "https://gaelscoilshliabhrua.ie/wp-json/wp/v2/media?search=f%C3%B3gra&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok"
+    },
+    {
+      "url": "https://gaelscoilshliabhrua.ie/wp-content/uploads/2024/02/2024.DESAdmissionNotice.docx.pdf",
+      "status": "ok",
+      "label": "2024.DESAdmissionNotice.docx"
+    },
+    {
+      "url": "https://gaelscoilshliabhrua.ie/wp-content/uploads/2024/09/2024.DESAdmissionNotice.docx-3.pdf",
+      "status": "ok",
+      "label": "2024.DESAdmissionNotice.docx (3)"
+    },
+    {
+      "url": "https://gaelscoilshliabhrua.ie/wp-content/uploads/2024/09/2025-2026.DESAdmissionNotice.docx.pdf",
+      "status": "ok",
+      "label": "2025-2026.DESAdmissionNotice.docx"
+    },
+    {
+      "url": "https://gaelscoilshliabhrua.ie/wp-content/uploads/2024/09/2024_25-Fogra-maidir-le-ligean-isteach-Gaeilge-1.docx-2.pdf",
+      "status": "ok",
+      "label": "2024_25 Fógra-maidir-le-ligean-isteach-Gaeilge (1).docx (2)"
+    },
+    {
+      "url": "https://gaelscoilshliabhrua.ie/wp-content/uploads/2024/09/2025_26-Fogra-maidir-le-ligean-isteach-Gaeilge-1.docx.pdf",
+      "status": "ok",
+      "label": "2025_26 Fógra-maidir-le-ligean-isteach-Gaeilge (1).docx"
+    },
+    {
+      "url": "https://gaelscoilshliabhrua.ie/wp-content/uploads/2025/09/2026-2027.DESAdmissionNotice.pdf",
+      "status": "ok",
+      "label": "2026-2027.DESAdmissionNotice"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "20425U",
+      "url": "https://gaelscoilshliabhrua.ie/wp-content/uploads/2024/02/2024.DESAdmissionNotice.docx.pdf",
+      "label": "2024.DESAdmissionNotice.docx",
+      "sha256": "61d1cb808ad62b5b0b2c0e310f53f03789f8de565dffda1e1bdd164c747a31db",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20425U_61d1cb808ad62b5b0b2c.txt",
+      "source_file": "database/milestone2/cache/61d1cb808ad62b5b0b2c0e310f53f03789f8de565dffda1e1bdd164c747a31db.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 2733,
+      "discovery_method": "documented_WP_notice_or_Irish_title_media_query",
+      "cms_media_date_as_printed_not_publication": "2024-02-15T22:01:10"
+    },
+    {
+      "roll": "20425U",
+      "url": "https://gaelscoilshliabhrua.ie/wp-content/uploads/2024/09/2024.DESAdmissionNotice.docx-3.pdf",
+      "label": "2024.DESAdmissionNotice.docx (3)",
+      "sha256": "01dd875bed457f688a5f2e8659db234ff69e950982ea0bf3300cbcbac7377afb",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20425U_01dd875bed457f688a5f.txt",
+      "source_file": "database/milestone2/cache/01dd875bed457f688a5f2e8659db234ff69e950982ea0bf3300cbcbac7377afb.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 2736,
+      "discovery_method": "documented_WP_notice_or_Irish_title_media_query",
+      "cms_media_date_as_printed_not_publication": "2024-09-09T12:22:58"
+    },
+    {
+      "roll": "20425U",
+      "url": "https://gaelscoilshliabhrua.ie/wp-content/uploads/2024/09/2025-2026.DESAdmissionNotice.docx.pdf",
+      "label": "2025-2026.DESAdmissionNotice.docx",
+      "sha256": "94f38e482f634e6233ebd64273d7742f7ca995f4cfd30ac33ac282c3ff565ed7",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20425U_94f38e482f634e6233eb.txt",
+      "source_file": "database/milestone2/cache/94f38e482f634e6233ebd64273d7742f7ca995f4cfd30ac33ac282c3ff565ed7.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 2736,
+      "discovery_method": "documented_WP_notice_or_Irish_title_media_query",
+      "cms_media_date_as_printed_not_publication": "2024-09-17T12:34:54"
+    },
+    {
+      "roll": "20425U",
+      "url": "https://gaelscoilshliabhrua.ie/wp-content/uploads/2024/09/2024_25-Fogra-maidir-le-ligean-isteach-Gaeilge-1.docx-2.pdf",
+      "label": "2024_25 Fógra-maidir-le-ligean-isteach-Gaeilge (1).docx (2)",
+      "sha256": "ab0f9ca85e0ada112cbb190b280c1d620a34eee05c709c955c1013c3d6657979",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20425U_ab0f9ca85e0ada112cbb.txt",
+      "source_file": "database/milestone2/cache/ab0f9ca85e0ada112cbb190b280c1d620a34eee05c709c955c1013c3d6657979.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 2615,
+      "discovery_method": "documented_WP_notice_or_Irish_title_media_query",
+      "cms_media_date_as_printed_not_publication": "2024-09-09T12:19:14"
+    },
+    {
+      "roll": "20425U",
+      "url": "https://gaelscoilshliabhrua.ie/wp-content/uploads/2024/09/2025_26-Fogra-maidir-le-ligean-isteach-Gaeilge-1.docx.pdf",
+      "label": "2025_26 Fógra-maidir-le-ligean-isteach-Gaeilge (1).docx",
+      "sha256": "e7a61954c3aeef12e64f958beef4f9099249dfa4ade72135960e5db2bedf075c",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20425U_e7a61954c3aeef12e64f.txt",
+      "source_file": "database/milestone2/cache/e7a61954c3aeef12e64f958beef4f9099249dfa4ade72135960e5db2bedf075c.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 2615,
+      "discovery_method": "documented_WP_notice_or_Irish_title_media_query",
+      "cms_media_date_as_printed_not_publication": "2024-09-17T12:34:22"
+    },
+    {
+      "roll": "20425U",
+      "url": "https://gaelscoilshliabhrua.ie/wp-content/uploads/2025/09/2026-2027.DESAdmissionNotice.pdf",
+      "label": "2026-2027.DESAdmissionNotice",
+      "sha256": "7a27b467e20f1b00aa259dc662602012d376ede6179ef2139cf9295cd6564a43",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20425U_7a27b467e20f1b00aa25.txt",
+      "source_file": "database/milestone2/cache/7a27b467e20f1b00aa259dc662602012d376ede6179ef2139cf9295cd6564a43.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 2891,
+      "discovery_method": "documented_WP_notice_or_Irish_title_media_query",
+      "cms_media_date_as_printed_not_publication": "2025-09-19T11:32:35"
+    }
+  ],
+  "pending_links": [],
+  "earliest_year_cutoff": null,
+  "status": "attempted_new_historical_notice_candidates",
+  "elapsed_seconds": 23.5
+}

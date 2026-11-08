@@ -1,0 +1,215 @@
+{
+  "roll": "17820J",
+  "status": "bounded_search_no_new_notice_found",
+  "attempts": [
+    {
+      "url": "https://www.rolestownns.ie/pages/enrolment.php?cookiereset",
+      "final_url": "https://www.rolestownns.ie/pages/enrolment.php",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Reset Cookie Permissions"
+    },
+    {
+      "url": "https://www.rolestownns.ie/pages/enrolment.php",
+      "final_url": "https://www.rolestownns.ie/pages/enrolment.php",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Click here for our online Enrolment Form"
+    },
+    {
+      "url": "http://rolestownns.ie/media/download_gallery/Privacy Statement_NoContactForm.pdf",
+      "final_url": "http://rolestownns.ie/media/download_gallery/Privacy Statement_NoContactForm.pdf",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "Privacy Statement"
+    },
+    {
+      "url": "https://www.rolestownns.ie/sitemap.xml",
+      "final_url": "https://www.rolestownns.ie/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.rolestownns.ie/pages/policiesinfo.php",
+      "final_url": "https://www.rolestownns.ie/pages/policiesinfo.php",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies/Info."
+    },
+    {
+      "url": "https://www.rolestownns.ie/modules/download_gallery/dlc.php?file=111&id=1714419570&sid=129",
+      "final_url": "https://www.rolestownns.ie/media/download_gallery/Report April.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Report 04/24"
+    },
+    {
+      "url": "https://www.rolestownns.ie/modules/download_gallery/dlc.php?file=130&id=1791399841&sid=129",
+      "final_url": "https://www.rolestownns.ie/media/download_gallery/Annual Admission Notice 27 28.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Annual Admissions Policy 27/28"
+    },
+    {
+      "url": "https://www.rolestownns.ie/modules/download_gallery/dlc.php?file=102&id=1709199957&sid=129",
+      "final_url": "https://www.rolestownns.ie/media/download_gallery/agreed report 26th feb 24.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Report 02/24"
+    },
+    {
+      "url": "https://www.rolestownns.ie/modules/download_gallery/dlc.php?file=124&id=1778020002&sid=129",
+      "final_url": "https://www.rolestownns.ie/media/download_gallery/Agreed Report 20.4.26.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Report 04/26"
+    },
+    {
+      "url": "https://www.rolestownns.ie/pages/policiesinfo.php?cookiereset",
+      "final_url": "https://www.rolestownns.ie/pages/policiesinfo.php",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Reset Cookie Permissions"
+    },
+    {
+      "url": "https://www.rolestownns.ie/pages/parents.php",
+      "final_url": "https://www.rolestownns.ie/pages/parents.php",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents"
+    },
+    {
+      "url": "https://www.rolestownns.ie/pages/parents.php?cookiereset",
+      "final_url": "https://www.rolestownns.ie/pages/parents.php",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Reset Cookie Permissions"
+    },
+    {
+      "url": "https://www.rolestownns.ie/modules/download_gallery/dlc.php?file=135&id=1791551799&sid=129",
+      "final_url": "https://www.rolestownns.ie/media/download_gallery/EpsonEileen_20261009_150845.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Review of Child Safeguarding"
+    },
+    {
+      "url": "https://www.rolestownns.ie/modules/download_gallery/dlc.php?file=134&id=1791400700&sid=129",
+      "final_url": "https://www.rolestownns.ie/media/download_gallery/Child_Safeguarding_Statement_Web.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Child Protection Statement and Risk Assessment"
+    },
+    {
+      "url": "https://www.rolestownns.ie/modules/download_gallery/dlc.php?file=128&id=1791274208&sid=129",
+      "final_url": "https://www.rolestownns.ie/media/download_gallery/BÃ­ CineÃ¡lta.pdf",
+      "status": "http_404",
+      "via": "school_public_link",
+      "label": "Bí Cineálta"
+    },
+    {
+      "url": "https://www.rolestownns.ie/modules/download_gallery/dlc.php?file=127&id=1790705427&sid=129",
+      "final_url": "https://www.rolestownns.ie/media/download_gallery/Agreed report 28.9.26.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Report 09/26"
+    },
+    {
+      "url": "https://www.rolestownns.ie/modules/download_gallery/dlc.php?file=126&id=1790705008&sid=129",
+      "final_url": "https://www.rolestownns.ie/media/download_gallery/School Calendar 2026-2027 .pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Closures 26/27"
+    },
+    {
+      "url": "https://www.rolestownns.ie/modules/download_gallery/dlc.php?file=123&id=1772439378&sid=129",
+      "final_url": "https://www.rolestownns.ie/media/download_gallery/Agreed Report 9.2.26.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Report 2/26"
+    },
+    {
+      "url": "https://www.rolestownns.ie/modules/download_gallery/dlc.php?file=122&id=1760015217&sid=129",
+      "final_url": "https://www.rolestownns.ie/media/download_gallery/Admissions Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions Policy"
+    },
+    {
+      "url": "https://www.rolestownns.ie/modules/download_gallery/dlc.php?file=118&id=1759930272&sid=129",
+      "final_url": "https://www.rolestownns.ie/media/download_gallery/Agreed Report 29.9.25.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Report 09/25"
+    },
+    {
+      "url": "https://www.rolestownns.ie/modules/download_gallery/dlc.php?file=112&id=1718651641&sid=129",
+      "final_url": "https://www.rolestownns.ie/media/download_gallery/Agreed report 10 th June 24.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Report 10/06"
+    },
+    {
+      "url": "https://www.rolestownns.ie/modules/download_gallery/dlc.php?file=107&id=1713189418&sid=129",
+      "final_url": "https://www.rolestownns.ie/media/download_gallery/Intimate Care.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Intimate Care"
+    },
+    {
+      "url": "https://www.rolestownns.ie/modules/download_gallery/dlc.php?file=106&id=1713189342&sid=129",
+      "final_url": "https://www.rolestownns.ie/media/download_gallery/RSE.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "RSE"
+    },
+    {
+      "url": "https://www.rolestownns.ie/modules/download_gallery/dlc.php?file=103&id=1710873549&sid=129",
+      "final_url": "https://www.rolestownns.ie/media/download_gallery/Code of Behaviour feb 24.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Code of Behaviour"
+    }
+  ],
+  "documents": [],
+  "pending_links": [
+    {
+      "url": "https://www.rolestownns.ie/modules/download_gallery/dlc.php?file=100&id=1708938709&sid=129",
+      "label": "Report 01/24",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.rolestownns.ie",
+      "label": "School homepage",
+      "via": "home"
+    },
+    {
+      "url": "https://www.rolestownns.ie/pages/cookiepolicy.php",
+      "label": "please click here.",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.rolestownns.ie/modules/download_gallery/dlc.php?file=86&id=1657702322&sid=129",
+      "label": "Homework Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.rolestownns.ie/modules/download_gallery/dlc.php?file=85&id=1657702321&sid=129",
+      "label": "Healthy Eating Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.rolestownns.ie/modules/download_gallery/dlc.php?file=71&id=1655387158&sid=129",
+      "label": "Medicine Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.rolestownns.ie/modules/download_gallery/dlc.php?file=104&id=1710873628&sid=129",
+      "label": "Voluntary Smartphone Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 127.14,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:52:58+0000"
+}

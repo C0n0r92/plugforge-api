@@ -1,0 +1,153 @@
+{
+  "roll": "19901T",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.booterstownnationalschool.ie/admissions",
+      "final_url": "https://www.booterstownnationalschool.ie/admissions",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://docs.google.com/document/d/1urdBLHSd4zprHWrlMcGNFTmZepXRQXZ7/edit?usp=drive_link&ouid=102525599644827641614&rtpof=true&sd=true",
+      "final_url": "https://docs.google.com/document/d/1urdBLHSd4zprHWrlMcGNFTmZepXRQXZ7/edit?usp=drive_link&ouid=102525599644827641614&rtpof=true&sd=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Annual Admission Notice"
+    },
+    {
+      "url": "https://drive.google.com/file/d/1fHJuTMa2HOD4z32CQqOKeE9rikoWrrGA/view",
+      "final_url": "https://drive.google.com/file/d/1fHJuTMa2HOD4z32CQqOKeE9rikoWrrGA/view",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admission Prodecdure"
+    },
+    {
+      "url": "https://www.booterstownnationalschool.ie/information-for-parents/school-calendar-2026-2027",
+      "final_url": "https://www.booterstownnationalschool.ie/information-for-parents/school-calendar-2026-2027",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Calendar 2026-2027"
+    },
+    {
+      "url": "https://www.booterstownnationalschool.ie/sitemap.xml",
+      "final_url": "https://www.booterstownnationalschool.ie/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.booterstownnationalschool.ie/information-for-parents/parents-association",
+      "final_url": "https://www.booterstownnationalschool.ie/information-for-parents/parents-association",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents' Association"
+    },
+    {
+      "url": "https://www.booterstownnationalschool.ie/information-for-parents/helpful-resources/numeracy",
+      "final_url": "https://www.booterstownnationalschool.ie/information-for-parents/helpful-resources/numeracy",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Numeracy"
+    },
+    {
+      "url": "https://www.booterstownnationalschool.ie/information-for-parents/helpful-resources/literacy",
+      "final_url": "https://www.booterstownnationalschool.ie/information-for-parents/helpful-resources/literacy",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Literacy"
+    },
+    {
+      "url": "https://www.booterstownnationalschool.ie/information-for-parents/helpful-resources/gaeilge",
+      "final_url": "https://www.booterstownnationalschool.ie/information-for-parents/helpful-resources/gaeilge",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Gaeilge"
+    },
+    {
+      "url": "https://www.booterstownnationalschool.ie/information-for-parents/helpful-resources",
+      "final_url": "https://www.booterstownnationalschool.ie/information-for-parents/helpful-resources",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Helpful Resources"
+    },
+    {
+      "url": "https://www.booterstownnationalschool.ie/information-for-parents/books-stationery",
+      "final_url": "https://www.booterstownnationalschool.ie/information-for-parents/books-stationery",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Books & Stationery"
+    },
+    {
+      "url": "https://www.booterstownnationalschool.ie/information-for-parents",
+      "final_url": "https://www.booterstownnationalschool.ie/information-for-parents",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Information for Parents"
+    },
+    {
+      "url": "https://www.booterstownnationalschool.ie/about-us/policies",
+      "final_url": "https://www.booterstownnationalschool.ie/about-us/policies",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.booterstownnationalschool.ie",
+      "final_url": "https://www.booterstownnationalschool.ie",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://drive.google.com/sitemap.xml",
+      "final_url": "https://drive.google.com/sitemap.xml",
+      "status": "robots_disallow",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://drive.google.com/file/d/1TPsnHgE-2nBHpXLx5WMJuZG2qHeQ1Plq/view",
+      "final_url": "https://drive.google.com/file/d/1TPsnHgE-2nBHpXLx5WMJuZG2qHeQ1Plq/view",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admission Policy"
+    },
+    {
+      "url": "https://docs.google.com/sitemap.xml",
+      "final_url": "https://docs.google.com/sitemap.xml",
+      "status": "robots_disallow",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19901T",
+      "url": "https://www.booterstownnationalschool.ie/admissions",
+      "label": "Admissions",
+      "sha256": "5989e3589fd785898487a418465db1e647ca905022507c007760be234a58e897",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19901T_5989e3589fd785898487.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 175
+    },
+    {
+      "roll": "19901T",
+      "url": "https://docs.google.com/document/d/1urdBLHSd4zprHWrlMcGNFTmZepXRQXZ7/edit?usp=drive_link&ouid=102525599644827641614&rtpof=true&sd=true",
+      "label": "Annual Admission Notice",
+      "sha256": "59aa797e916504f2b138012d15e64b9b6cd17f96fdd1a03c3bd1f64f09b01763",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19901T_59aa797e916504f2b138.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 328
+    }
+  ],
+  "pending_links": [],
+  "elapsed_seconds": 35.77,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:09:26+0000"
+}

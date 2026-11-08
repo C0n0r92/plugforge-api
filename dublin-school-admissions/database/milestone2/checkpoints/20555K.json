@@ -1,0 +1,109 @@
+{
+  "roll": "20555K",
+  "status": "bounded_search_no_new_notice_found",
+  "attempts": [
+    {
+      "url": "https://www.ourladyofhope.ie/admissions",
+      "final_url": "https://www.ourladyofhope.ie/admissions",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "ADMISSIONS"
+    },
+    {
+      "url": "https://www.ourladyofhope.ie/sitemap.xml",
+      "final_url": "https://www.ourladyofhope.ie/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.ourladyofhope.ie/policies",
+      "final_url": "https://www.ourladyofhope.ie/policies",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "POLICIES"
+    },
+    {
+      "url": "https://www.ourladyofhope.ie/_files/ugd/c0368b_17024045997a4d4aa7f05d20b55318ea.pdf",
+      "final_url": "https://b9ff0572-9b03-48f5-a6e6-9f10b98e3fda.filesusr.com/ugd/c0368b_17024045997a4d4aa7f05d20b55318ea.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "Parental Complaints Procedure"
+    },
+    {
+      "url": "https://www.ourladyofhope.ie/_files/ugd/4d0b36_c190c220a35344b7a804591b64962539.pdf",
+      "final_url": "https://www.ourladyofhope.ie/_files/ugd/4d0b36_c190c220a35344b7a804591b64962539.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parent/Legal Guardian Communication"
+    },
+    {
+      "url": "https://www.ourladyofhope.ie/pages-sitemap.xml",
+      "final_url": "https://www.ourladyofhope.ie/pages-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.ourladyofhope.ie/blog-posts-sitemap.xml",
+      "final_url": "https://www.ourladyofhope.ie/blog-posts-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.ourladyofhope.ie/blog-categories-sitemap.xml",
+      "final_url": "https://www.ourladyofhope.ie/blog-categories-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.ourladyofhope.ie",
+      "final_url": "https://www.ourladyofhope.ie",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.ourladyofhope.ie/_files/ugd/c0368b_56c04b8b5c6f41e4ab359863b9db808f.pdf",
+      "final_url": "https://b9ff0572-9b03-48f5-a6e6-9f10b98e3fda.filesusr.com/ugd/c0368b_56c04b8b5c6f41e4ab359863b9db808f.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "Bí Cinealta policy"
+    },
+    {
+      "url": "https://www.ourladyofhope.ie/_files/ugd/4d0b36_c6eda141550f4d44ae71a238d0edc590.pdf",
+      "final_url": "https://www.ourladyofhope.ie/_files/ugd/4d0b36_c6eda141550f4d44ae71a238d0edc590.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Protected Disclosures Policy"
+    },
+    {
+      "url": "https://www.ourladyofhope.ie/_files/ugd/4d0b36_c30456d2684244cb9b7da437c6946b1f.pdf",
+      "final_url": "https://www.ourladyofhope.ie/_files/ugd/4d0b36_c30456d2684244cb9b7da437c6946b1f.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Substance Use Policy"
+    },
+    {
+      "url": "https://www.ourladyofhope.ie/_files/ugd/4d0b36_90bfb89dc6e94edeb54438ad5a9d3031.pdf",
+      "final_url": "https://www.ourladyofhope.ie/_files/ugd/4d0b36_90bfb89dc6e94edeb54438ad5a9d3031.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Dignity in the Workplace Policy"
+    },
+    {
+      "url": "https://www.ourladyofhope.ie/_files/ugd/4d0b36_8696c5b1599d4d21bec1e5508145cf6b.pdf",
+      "final_url": "https://www.ourladyofhope.ie/_files/ugd/4d0b36_8696c5b1599d4d21bec1e5508145cf6b.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "CCTV Policy"
+    }
+  ],
+  "documents": [],
+  "pending_links": [],
+  "elapsed_seconds": 40.04,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:12:30+0000"
+}

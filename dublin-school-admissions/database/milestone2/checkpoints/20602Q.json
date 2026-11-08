@@ -1,0 +1,32 @@
+{
+  "roll": "20602Q",
+  "status": "access_or_infrastructure_deferred",
+  "attempts": [
+    {
+      "url": "https://www.ringsendns.ie/enrolment-policy-and-form/?googletranslate=true",
+      "final_url": "https://www.ringsendns.ie/enrolment-policy-and-form/?googletranslate=true",
+      "status": "http_access_denied_403",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "https://www.ringsendns.ie/enrolment-policy-and-form/",
+      "final_url": "https://www.ringsendns.ie/enrolment-policy-and-form/",
+      "status": "http_access_denied_403",
+      "via": "prior_public_admissions_landing",
+      "label": "Enrolment Policy and Form"
+    },
+    {
+      "url": "https://www.ringsendns.ie/",
+      "final_url": "https://www.ringsendns.ie/",
+      "status": "http_access_denied_403",
+      "via": "home",
+      "label": "School homepage"
+    }
+  ],
+  "documents": [],
+  "pending_links": [],
+  "elapsed_seconds": 0.0,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:11:53+0000"
+}

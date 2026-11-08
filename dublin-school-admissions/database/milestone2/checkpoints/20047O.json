@@ -1,0 +1,282 @@
+{
+  "roll": "20047O",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.gaelscoilbharra.net/cmsfiles/items/downloads/6583-1-fogra-maidir-le-ligean-isteach202324.docx",
+      "final_url": "https://www.gaelscoilbharra.net/cmsfiles/items/downloads/6583-1-fogra-maidir-le-ligean-isteach202324.docx",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://www.gaelscoilbharra.net",
+      "final_url": "https://www.gaelscoilbharra.net",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.gaelscoilbharra.net/tuismitheoir/parents-information/",
+      "final_url": "https://www.gaelscoilbharra.net/tuismitheoir/parents-information/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "x"
+    },
+    {
+      "url": "https://www.gaelscoilbharra.net/tuismitheoir/parents-information/?googletranslate=true",
+      "final_url": "https://www.gaelscoilbharra.net/tuismitheoir/parents-information/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.gaelscoilbharra.net/tuismitheoir/",
+      "final_url": "https://www.gaelscoilbharra.net/tuismitheoir/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Tuismitheoirí Parents"
+    },
+    {
+      "url": "https://www.gaelscoilbharra.net/sitemap.xml",
+      "final_url": "https://www.gaelscoilbharra.net/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.gaelscoilbharra.net/polasaithe/",
+      "final_url": "https://www.gaelscoilbharra.net/polasaithe/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Polasaithe & Foirmeacha Policies & Forms"
+    },
+    {
+      "url": "https://www.gaelscoilbharra.net/documentlink/67/?open=true",
+      "final_url": "https://view.officeapps.live.com/op/embed.aspx?src=https://www.gaelscoilbharra.net/cmsfiles/items/downloads/2020092410202478admissions-notice2.docx",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "admissions-notice"
+    },
+    {
+      "url": "https://www.gaelscoilbharra.net/documentlink/66/?open=true",
+      "final_url": "https://view.officeapps.live.com/op/embed.aspx?src=https://www.gaelscoilbharra.net/cmsfiles/items/downloads/6583-1-fogra-maidir-le-ligean-isteach202324.docx",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "fogra-maidir-le-ligean-isteach"
+    },
+    {
+      "url": "https://www.gaelscoilbharra.net/documentlink/180/?open=true",
+      "final_url": "https://view.officeapps.live.com/op/embed.aspx?src=https://www.gaelscoilbharra.net/cmsfiles/items/downloads/1140-admissions-notice.docx",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "admissions-notice.docx"
+    },
+    {
+      "url": "https://www.gaelscoilbharra.net/documentlink/138/?open=true",
+      "final_url": "https://view.officeapps.live.com/op/embed.aspx?src=https://swddoc.b-cdn.net/499/downloads/20230812053556_4_20220516092900_42_Polasaa_Iontr_la_Gaeilge_2022.DOCX",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Polasaí Iontrála Gaeilge 2022"
+    },
+    {
+      "url": "https://www.gaelscoilbharra.net/documentlink/281/?open=true",
+      "final_url": "https://view.officeapps.live.com/op/embed.aspx?src=https://swddoc.b-cdn.net/499/docletter/20260128102546_34_poalasa__iontr_la2026.docx",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "poalasa  iontr la2026.docx"
+    },
+    {
+      "url": "https://www.gaelscoilbharra.net/documentlink/215/?open=true",
+      "final_url": "https://view.officeapps.live.com/op/embed.aspx?src=https://www.gaelscoilbharra.net/cmsfiles/items/downloads/8649-FoirmIarrrataisRamh-chlraithe-Preenrolmentform.docx",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Foirm Iarrratais Réamh - chlaraithe - Pre enrolment form.docx"
+    },
+    {
+      "url": "https://www.gaelscoilbharra.net/documentlink/67/?open=true&download=true",
+      "final_url": "https://www.gaelscoilbharra.net/cmsfiles/items/downloads/2020092410202478admissions-notice2.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.gaelscoilbharra.net/documentlink/66/?open=true&download=true",
+      "final_url": "https://www.gaelscoilbharra.net/cmsfiles/items/downloads/6583-1-fogra-maidir-le-ligean-isteach202324.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.gaelscoilbharra.net/documentlink/45/?open=true&download=true",
+      "final_url": "https://swdcache.b-cdn.net/499/docletter/20200626110000_79_Inclusivity_2020-22.docx",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.gaelscoilbharra.net/documentlink/33/?open=true&download=true",
+      "final_url": "https://swdcache.b-cdn.net/499/docletter/GDPR_2020_GSB.docx",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.gaelscoilbharra.net/documentlink/281/?open=true&download=true",
+      "final_url": "https://swdcache.b-cdn.net/499/docletter/20260128102546_34_poalasa__iontr_la2026.docx",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.gaelscoilbharra.net/documentlink/280/?open=true&download=true",
+      "final_url": "https://swdcache.b-cdn.net/499/docletter/20260128102233_69_entrance_policy_2026.docx",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.gaelscoilbharra.net/documentlink/260/?open=true&download=true",
+      "final_url": "https://swdcache.b-cdn.net/499/docletter/20250626081447_44_bicinelta2.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.gaelscoilbharra.net/documentlink/26/?open=true&download=true",
+      "final_url": "https://swdcache.b-cdn.net/499/docletter/Plean_Deis_2020.docx",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.gaelscoilbharra.net/documentlink/215/?open=true&download=true",
+      "final_url": "https://www.gaelscoilbharra.net/cmsfiles/items/downloads/8649-FoirmIarrrataisRamh-chlraithe-Preenrolmentform.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.gaelscoilbharra.net/documentlink/204/?open=true&download=true",
+      "final_url": "https://swdcache.b-cdn.net/499/docletter/20240502102442_7_Polasa_Smacht_2024.docx",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.gaelscoilbharra.net/documentlink/192/?open=true&download=true",
+      "final_url": "https://www.gaelscoilbharra.net/cmsfiles/items/downloads/GaelscoilBharra2023RaiteasumChumhdachLeanaiagusTeimpleadMeasunaithe1.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    }
+  ],
+  "documents": [
+    {
+      "roll": "20047O",
+      "url": "https://www.gaelscoilbharra.net/cmsfiles/items/downloads/6583-1-fogra-maidir-le-ligean-isteach202324.docx",
+      "label": "Prior school admissions section",
+      "sha256": "3228fadd99c43c6668e2ca27265e6f4cad1e3743fef46d071e21e2c1bc21f0e1",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/20047O_3228fadd99c43c6668e2.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 3687
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.gaelscoilbharra.net/documentlink/180/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.gaelscoilbharra.net/documentlink/162/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.gaelscoilbharra.net/documentlink/147/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.gaelscoilbharra.net/documentlink/146/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.gaelscoilbharra.net/documentlink/144/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.gaelscoilbharra.net/documentlink/143/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.gaelscoilbharra.net/documentlink/142/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.gaelscoilbharra.net/documentlink/141/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.gaelscoilbharra.net/documentlink/140/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.gaelscoilbharra.net/documentlink/138/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.gaelscoilbharra.net/documentlink/137/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.gaelscoilbharra.net/documentlink/134/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.gaelscoilbharra.net/cmsfiles/policies/cookie/",
+      "label": "Learn More",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.gaelscoilbharra.net/admin/?open=/tuismitheoir/parents-information/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.gaelscoilbharra.net/admin/?open=/tuismitheoir/parents-information/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.gaelscoilbharra.net/documentlink/280/?open=true",
+      "label": "entrance policy 2026.docx",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.gaelscoilbharra.net/documentlink/137/?open=true",
+      "label": "Gaelscoil Bharra Online learning Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.gaelscoilbharra.net/cmsfiles/policies/privacy/",
+      "label": "Website Privacy Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 86.4,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:48:02+0000"
+}

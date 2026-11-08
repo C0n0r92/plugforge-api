@@ -1,0 +1,60 @@
+{
+  "roll": "19438W",
+  "status": "bounded_search_no_new_notice_found",
+  "attempts": [
+    {
+      "url": "https://www.scoilcholmcille.com",
+      "final_url": "https://www.scoilcholmcille.com",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.scoilcholmcille.com/school-news-1",
+      "final_url": "https://www.scoilcholmcille.com/school-news-1",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://www.scoilcholmcille.com/sitemap.xml",
+      "final_url": "https://www.scoilcholmcille.com/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.scoilcholmcille.com/school-policies",
+      "final_url": "https://www.scoilcholmcille.com/school-policies",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Policies"
+    },
+    {
+      "url": "https://www.scoilcholmcille.com/online-programs-sitemap.xml",
+      "final_url": "https://www.scoilcholmcille.com/online-programs-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.scoilcholmcille.com/group-posts-sitemap.xml",
+      "final_url": "https://www.scoilcholmcille.com/group-posts-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.scoilcholmcille.com/group-lists-sitemap.xml",
+      "final_url": "https://www.scoilcholmcille.com/group-lists-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    }
+  ],
+  "documents": [],
+  "pending_links": [],
+  "elapsed_seconds": 19.13,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:54:37+0000"
+}

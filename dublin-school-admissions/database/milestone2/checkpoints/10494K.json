@@ -1,0 +1,97 @@
+{
+  "roll": "10494K",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.allsaintsnsblackrock.com/admissions",
+      "final_url": "https://www.allsaintsnsblackrock.com/admissions",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://www.allsaintsnsblackrock.com/_files/ugd/a768b4_509b55271dcb4256a5771ac05d2b7e3a.pdf",
+      "final_url": "https://www.allsaintsnsblackrock.com/_files/ugd/a768b4_509b55271dcb4256a5771ac05d2b7e3a.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admission Policy ↓"
+    },
+    {
+      "url": "https://www.allsaintsnsblackrock.com/sitemap.xml",
+      "final_url": "https://www.allsaintsnsblackrock.com/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.allsaintsnsblackrock.com/school-policies",
+      "final_url": "https://www.allsaintsnsblackrock.com/school-policies",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Policies"
+    },
+    {
+      "url": "https://www.allsaintsnsblackrock.com/pages-sitemap.xml",
+      "final_url": "https://www.allsaintsnsblackrock.com/pages-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.allsaintsnsblackrock.com/member-profile_p_first-chunk-sitemap.xml",
+      "final_url": "https://www.allsaintsnsblackrock.com/member-profile_p_first-chunk-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.allsaintsnsblackrock.com/event-pages-sitemap.xml",
+      "final_url": "https://www.allsaintsnsblackrock.com/event-pages-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.allsaintsnsblackrock.com/",
+      "final_url": "https://www.allsaintsnsblackrock.com/",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.allsaintsnsblackrock.com/_files/ugd/a768b4_ec05b98b47db42859a2327c1b3d5585c.pdf",
+      "final_url": "https://www.allsaintsnsblackrock.com/_files/ugd/a768b4_ec05b98b47db42859a2327c1b3d5585c.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Application Form ↓"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "10494K",
+      "url": "https://www.allsaintsnsblackrock.com/admissions",
+      "label": "Admissions",
+      "sha256": "c73023d933915a543ccee60705356a5161dd8d0e817b5dd306d6d91ae40e481b",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/10494K_c73023d933915a543cce.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 942
+    },
+    {
+      "roll": "10494K",
+      "url": "https://www.allsaintsnsblackrock.com/_files/ugd/a768b4_509b55271dcb4256a5771ac05d2b7e3a.pdf",
+      "label": "Admission Policy ↓",
+      "sha256": "14919f675a754eff7573e450091773f901f35068f1c8c98b11447fd0126b00fd",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/10494K_14919f675a754eff7573.txt",
+      "source_file": "database/milestone2/cache/14919f675a754eff7573e450091773f901f35068f1c8c98b11447fd0126b00fd.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 26821
+    }
+  ],
+  "pending_links": [],
+  "elapsed_seconds": 24.02,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:00:42+0000"
+}

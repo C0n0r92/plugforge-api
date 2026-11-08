@@ -1,0 +1,271 @@
+{
+  "roll": "18843D",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.maryqueenofangels2.ie/school-policies.html",
+      "final_url": "https://www.maryqueenofangels2.ie/school-policies.html",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://www.maryqueenofangels2.ie/enrolment-forms.html",
+      "final_url": "https://www.maryqueenofangels2.ie/enrolment-forms.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Enrolment Forms"
+    },
+    {
+      "url": "https://www.maryqueenofangels2.ie/uploads/2/7/0/0/27005461/new_enrolment_form_early_start.doc",
+      "final_url": "https://www.maryqueenofangels2.ie/uploads/2/7/0/0/27005461/new_enrolment_form_early_start.doc",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: Early Start Enrolment Form"
+    },
+    {
+      "url": "https://www.maryqueenofangels2.ie/uploads/2/7/0/0/27005461/mary_queen_of_angels_2_-enrolment_form.pdf",
+      "final_url": "https://www.maryqueenofangels2.ie/uploads/2/7/0/0/27005461/mary_queen_of_angels_2_-enrolment_form.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: mary_queen_of_angels_2_-enrolment_form.pdf"
+    },
+    {
+      "url": "https://www.maryqueenofangels1.ie/enrollment",
+      "final_url": "https://www.maryqueenofangels1.ie/enrollment",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Mainstream Enrolment"
+    },
+    {
+      "url": "https://www.maryqueenofangels1.ie/_files/ugd/4bfaac_fde61bb198024fa696128b20f0785d14.pdf",
+      "final_url": "https://www.maryqueenofangels1.ie/_files/ugd/4bfaac_fde61bb198024fa696128b20f0785d14.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download"
+    },
+    {
+      "url": "https://www.maryqueenofangels1.ie/earlystartenrolment",
+      "final_url": "https://www.maryqueenofangels1.ie/earlystartenrolment",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Early Start Enrolment"
+    },
+    {
+      "url": "https://www.maryqueenofangels2.ie/uploads/2/7/0/0/27005461/mqacode_of_behaviour.doc",
+      "final_url": "https://www.maryqueenofangels2.ie/uploads/2/7/0/0/27005461/mqacode_of_behaviour.doc",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: MQA2 Code of Behaviour.doc"
+    },
+    {
+      "url": "https://www.maryqueenofangels2.ie/uploads/2/7/0/0/27005461/mqa2__admission_policy.pdf",
+      "final_url": "https://www.maryqueenofangels2.ie/uploads/2/7/0/0/27005461/mqa2__admission_policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: MQA2 Admission Policy.pdf"
+    },
+    {
+      "url": "https://www.maryqueenofangels2.ie/uploads/2/7/0/0/27005461/child_safeguarding_statement_and_risk_assessment_mqa2.pdf",
+      "final_url": "https://www.maryqueenofangels2.ie/uploads/2/7/0/0/27005461/child_safeguarding_statement_and_risk_assessment_mqa2.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: Child Safeguarding Statement and Risk Assessment.pdf"
+    },
+    {
+      "url": "https://www.maryqueenofangels2.ie/uploads/2/7/0/0/27005461/mqa2_child_protection_policy_2013.doc",
+      "final_url": "https://www.maryqueenofangels2.ie/uploads/2/7/0/0/27005461/mqa2_child_protection_policy_2013.doc",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: MQA2 Child Protection Policy.doc"
+    },
+    {
+      "url": "https://www.maryqueenofangels2.ie/sitemap.xml",
+      "final_url": "https://www.maryqueenofangels2.ie/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.maryqueenofangels2.ie/parents.html",
+      "final_url": "https://www.maryqueenofangels2.ie/parents.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents"
+    },
+    {
+      "url": "https://www.maryqueenofangels2.ie/information-for-parents1.html",
+      "final_url": "https://www.maryqueenofangels2.ie/information-for-parents1.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Information for Parents"
+    },
+    {
+      "url": "https://www.maryqueenofangels2.ie/uploads/2/7/0/0/27005461/hse-physical-activity-fact-sheet-for-parents.pdf",
+      "final_url": "https://www.maryqueenofangels2.ie/uploads/2/7/0/0/27005461/hse-physical-activity-fact-sheet-for-parents.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "here"
+    },
+    {
+      "url": "https://www.maryqueenofangels2.ie/information-for-parents.html",
+      "final_url": "https://www.maryqueenofangels2.ie/information-for-parents.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Information for parents"
+    },
+    {
+      "url": "https://www.maryqueenofangels2.ie/covid-19---parent-support.html",
+      "final_url": "https://www.maryqueenofangels2.ie/covid-19---parent-support.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Covid-19 - Parent Support"
+    },
+    {
+      "url": "https://www.maryqueenofangels2.ie/child-protection-policies.html",
+      "final_url": "https://www.maryqueenofangels2.ie/child-protection-policies.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Child Protection Policies"
+    },
+    {
+      "url": "https://www.maryqueenofangels2.ie/admissions-policy.html",
+      "final_url": "https://www.maryqueenofangels2.ie/admissions-policy.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions Policy"
+    },
+    {
+      "url": "https://www.maryqueenofangels2.ie/uploads/2/7/0/0/27005461/admission_policy_mary_queen_of_angels_2_sept_2025.pdf",
+      "final_url": "https://www.maryqueenofangels2.ie/uploads/2/7/0/0/27005461/admission_policy_mary_queen_of_angels_2_sept_2025.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: admission_policy_mary_queen_of_angels_2_sept_2025.pdf"
+    },
+    {
+      "url": "https://www.maryqueenofangels2.ie",
+      "final_url": "https://www.maryqueenofangels2.ie",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.maryqueenofangels1.ie/sitemap.xml",
+      "final_url": "https://www.maryqueenofangels1.ie/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.maryqueenofangels1.ie/pages-sitemap.xml",
+      "final_url": "https://www.maryqueenofangels1.ie/pages-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.maryqueenofangels2.ie/uploads/2/7/0/0/27005461/ict_policy.docx",
+      "final_url": "https://www.maryqueenofangels2.ie/uploads/2/7/0/0/27005461/ict_policy.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: MQA2 ICT Policy.docx"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "18843D",
+      "url": "https://www.maryqueenofangels2.ie/school-policies.html",
+      "label": "Prior school admissions section",
+      "sha256": "3046e81e790f9fcbd420f07cc4ba8389bdeed97366abcf0f465de4607f93884a",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/18843D_3046e81e790f9fcbd420.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 2539
+    },
+    {
+      "roll": "18843D",
+      "url": "https://www.maryqueenofangels1.ie/enrollment",
+      "label": "Mainstream Enrolment",
+      "sha256": "7f00c4415f1651aa6eb2048f9564a5a41339d8fa54b05553ec06c1177a88c271",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/18843D_7f00c4415f1651aa6eb2.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 647
+    },
+    {
+      "roll": "18843D",
+      "url": "https://www.maryqueenofangels1.ie/_files/ugd/4bfaac_fde61bb198024fa696128b20f0785d14.pdf",
+      "label": "Download",
+      "sha256": "715fb518b8cb1fe2adbc89ea70bc1c06bf7256848a3e28ec63b4f7fd6d3943f2",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/18843D_715fb518b8cb1fe2adbc.txt",
+      "source_file": "database/milestone2/cache/715fb518b8cb1fe2adbc89ea70bc1c06bf7256848a3e28ec63b4f7fd6d3943f2.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 11232
+    },
+    {
+      "roll": "18843D",
+      "url": "https://www.maryqueenofangels2.ie/uploads/2/7/0/0/27005461/mqa2__admission_policy.pdf",
+      "label": "Download file: MQA2 Admission Policy.pdf",
+      "sha256": "dcca257dcdbe4116600e6c842245c3174cec7d9f433e62cc991f5d53025e9206",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/18843D_dcca257dcdbe4116600e.txt",
+      "source_file": "database/milestone2/cache/dcca257dcdbe4116600e6c842245c3174cec7d9f433e62cc991f5d53025e9206.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 23082
+    },
+    {
+      "roll": "18843D",
+      "url": "https://www.maryqueenofangels2.ie/uploads/2/7/0/0/27005461/admission_policy_mary_queen_of_angels_2_sept_2025.pdf",
+      "label": "Download file: admission_policy_mary_queen_of_angels_2_sept_2025.pdf",
+      "sha256": "b4e6fd78f33409e863a96088b7aa842ba3633b0c37afde15949a3f839e826d65",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/18843D_b4e6fd78f33409e863a9.txt",
+      "source_file": "database/milestone2/cache/b4e6fd78f33409e863a96088b7aa842ba3633b0c37afde15949a3f839e826d65.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 27534
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.maryqueenofangels2.ie/uploads/2/7/0/0/27005461/home_school_community_liaison_policy.docx",
+      "label": "Download file: Home School Community Liaison_policy.docx",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.maryqueenofangels2.ie/uploads/2/7/0/0/27005461/bí_cineálta_policy.pdf",
+      "label": "Download file: Bí Cineálta Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.maryqueenofangels2.ie/uploads/2/7/0/0/27005461/attendance_policy.docx",
+      "label": "Download file: MQA2 Attendance Policy.docx",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.maryqueenofangels2.ie/ict-policy.html",
+      "label": "ICT Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.maryqueenofangels2.ie/home-school-community-liaison-policy.html",
+      "label": "Home School Community Liaison Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.maryqueenofangels2.ie/attendance-policy.html",
+      "label": "Attendance Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.maryqueenofangels2.ie/anti-bullying-policy.html",
+      "label": "Anti-Bullying Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 58.25,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:42:08+0000"
+}

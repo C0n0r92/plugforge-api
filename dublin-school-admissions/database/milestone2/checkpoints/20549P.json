@@ -1,0 +1,205 @@
+{
+  "roll": "20549P",
+  "status": "bounded_search_no_new_notice_found",
+  "attempts": [
+    {
+      "url": "https://www.rathcooleetns.ie/admissions",
+      "final_url": "https://www.rathcooleetns.ie/admissions",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://www.rathcooleetns.ie/_files/ugd/93d117_fefc1d20c6744eb8bda6576d2185b62a.pdf",
+      "final_url": "https://ff13272f-93ef-4f50-9c05-84e1ae50e7eb.filesusr.com/ugd/93d117_fefc1d20c6744eb8bda6576d2185b62a.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "27/28 Admissions Notice"
+    },
+    {
+      "url": "https://www.rathcooleetns.ie/_files/ugd/93d117_fad111ceb9884c5eb50a087a34d552ca.pdf",
+      "final_url": "https://ff13272f-93ef-4f50-9c05-84e1ae50e7eb.filesusr.com/ugd/93d117_fad111ceb9884c5eb50a087a34d552ca.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "24/25 Admissions Notice"
+    },
+    {
+      "url": "https://www.rathcooleetns.ie/_files/ugd/93d117_aa31436240ab424387dc4aa048f9bd8b.pdf",
+      "final_url": "https://ff13272f-93ef-4f50-9c05-84e1ae50e7eb.filesusr.com/ugd/93d117_aa31436240ab424387dc4aa048f9bd8b.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "26/27 Admissions Notice"
+    },
+    {
+      "url": "https://www.rathcooleetns.ie/_files/ugd/93d117_9ea7c63815114e27b2769e03178bc649.pdf",
+      "final_url": "https://ff13272f-93ef-4f50-9c05-84e1ae50e7eb.filesusr.com/ugd/93d117_9ea7c63815114e27b2769e03178bc649.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "22/23 Admissions Notice"
+    },
+    {
+      "url": "https://www.rathcooleetns.ie/_files/ugd/93d117_6f4a108ff9124aa8b3b3a74fa1cb2896.pdf",
+      "final_url": "https://ff13272f-93ef-4f50-9c05-84e1ae50e7eb.filesusr.com/ugd/93d117_6f4a108ff9124aa8b3b3a74fa1cb2896.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "25/26 Admissions Notice"
+    },
+    {
+      "url": "https://www.rathcooleetns.ie/_files/ugd/93d117_1af05ed3da484d288d7d65958461f8e2.pdf",
+      "final_url": "https://ff13272f-93ef-4f50-9c05-84e1ae50e7eb.filesusr.com/ugd/93d117_1af05ed3da484d288d7d65958461f8e2.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "21/22 Admissions Notice"
+    },
+    {
+      "url": "https://www.rathcooleetns.ie/_files/ugd/915c4e_de333e7df845445ebd9b874524aeefd8.pdf",
+      "final_url": "https://ff13272f-93ef-4f50-9c05-84e1ae50e7eb.filesusr.com/ugd/915c4e_de333e7df845445ebd9b874524aeefd8.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "23/24 Admissions Notice"
+    },
+    {
+      "url": "https://www.rathcooleetns.ie/_files/ugd/93d117_81ee482ce5804b9da4de50b455292d7c.docx?dn=RathcooleETNS_AdmissionsPolicy_Approved%20June%202026.docx",
+      "final_url": "https://ff13272f-93ef-4f50-9c05-84e1ae50e7eb.filesusr.com/ugd/93d117_81ee482ce5804b9da4de50b455292d7c.docx?dn=RathcooleETNS_AdmissionsPolicy_Approved%20June%202026.docx",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "Admissions Policy"
+    },
+    {
+      "url": "https://www.rathcooleetns.ie/_files/ugd/915c4e_e158b7c798974bed9471f3e63841a050.pdf",
+      "final_url": "https://ff13272f-93ef-4f50-9c05-84e1ae50e7eb.filesusr.com/ugd/915c4e_e158b7c798974bed9471f3e63841a050.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "Catchment Area Map - Click Here!"
+    },
+    {
+      "url": "https://www.rathcooleetns.ie/sitemap.xml",
+      "final_url": "https://www.rathcooleetns.ie/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.rathcooleetns.ie/policies",
+      "final_url": "https://www.rathcooleetns.ie/policies",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Mandatory Policies"
+    },
+    {
+      "url": "https://www.rathcooleetns.ie/pages-sitemap.xml",
+      "final_url": "https://www.rathcooleetns.ie/pages-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.rathcooleetns.ie/event-pages-sitemap.xml",
+      "final_url": "https://www.rathcooleetns.ie/event-pages-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.rathcooleetns.ie/covid-information",
+      "final_url": "https://www.rathcooleetns.ie/covid-information",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies & Reports"
+    },
+    {
+      "url": "https://www.rathcooleetns.ie/copy-of-mandatory-policies-2",
+      "final_url": "https://www.rathcooleetns.ie/copy-of-mandatory-policies-2",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Inspector Reports"
+    },
+    {
+      "url": "https://www.rathcooleetns.ie/copy-of-mandatory-policies-1",
+      "final_url": "https://www.rathcooleetns.ie/copy-of-mandatory-policies-1",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Curriculum Policies"
+    },
+    {
+      "url": "https://www.rathcooleetns.ie/copy-of-mandatory-policies",
+      "final_url": "https://www.rathcooleetns.ie/copy-of-mandatory-policies",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Other Policies"
+    },
+    {
+      "url": "https://www.rathcooleetns.ie/",
+      "final_url": "https://www.rathcooleetns.ie/",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.rathcooleetns.ie/_files/ugd/93d117_d312de7995664525b1dc19ffc31eb0bb.pdf",
+      "final_url": "https://ff13272f-93ef-4f50-9c05-84e1ae50e7eb.filesusr.com/ugd/93d117_d312de7995664525b1dc19ffc31eb0bb.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "Literacy Policy"
+    },
+    {
+      "url": "https://www.rathcooleetns.ie/_files/ugd/93d117_d0c7595950f44e3a813b7e30f6c05783.pdf",
+      "final_url": "https://ff13272f-93ef-4f50-9c05-84e1ae50e7eb.filesusr.com/ugd/93d117_d0c7595950f44e3a813b7e30f6c05783.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "Bí Cinealtas Policy"
+    },
+    {
+      "url": "https://www.rathcooleetns.ie/_files/ugd/93d117_a6d5151834ca40d8bd7845778331c949.pdf",
+      "final_url": "https://ff13272f-93ef-4f50-9c05-84e1ae50e7eb.filesusr.com/ugd/93d117_a6d5151834ca40d8bd7845778331c949.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "Acceptable Use Policy"
+    },
+    {
+      "url": "https://www.rathcooleetns.ie/_files/ugd/93d117_90e60b027f3844fc8517b21a91ce127d.pdf",
+      "final_url": "https://ff13272f-93ef-4f50-9c05-84e1ae50e7eb.filesusr.com/ugd/93d117_90e60b027f3844fc8517b21a91ce127d.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "History Policy"
+    },
+    {
+      "url": "https://www.rathcooleetns.ie/_files/ugd/93d117_77781e43d982483b85d657599eb26d9c.pdf",
+      "final_url": "https://ff13272f-93ef-4f50-9c05-84e1ae50e7eb.filesusr.com/ugd/93d117_77781e43d982483b85d657599eb26d9c.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "Communication Policy"
+    }
+  ],
+  "documents": [],
+  "pending_links": [
+    {
+      "url": "https://www.rathcooleetns.ie/_files/ugd/93d117_761514615bd543b9a250ac325c91bb04.pdf",
+      "label": "SPHE Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.rathcooleetns.ie/_files/ugd/93d117_5db9f0d5c2c64c8b89fd048dbeb738ba.pdf",
+      "label": "Science Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.rathcooleetns.ie/_files/ugd/93d117_56ce82ddaf1a418f87f95af12dea6b40.pdf",
+      "label": "Treasurer Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.rathcooleetns.ie/_files/ugd/93d117_2da828bc373f4b04a7adb91ac3c83e00.pdf",
+      "label": "Intimate Care Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.rathcooleetns.ie/_files/ugd/915c4e_43537f9dfd36460a991c7bef2c6ee14a.pdf",
+      "label": "Critical Incident Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 71.62,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:12:58+0000"
+}

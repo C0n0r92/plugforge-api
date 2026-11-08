@@ -1,0 +1,72 @@
+{
+  "roll": "17367P",
+  "original_url": "https://www.maryhelpofchristians.ie/page/Annual-School-Admissions-Notice/39820/Index.html",
+  "method": "documented_CDX_exact_URL_all_available_dates",
+  "attempted_at": "2026-11-08T12:42:05.588813+00:00",
+  "params": {
+    "url": "https://www.maryhelpofchristians.ie/page/Annual-School-Admissions-Notice/39820/Index.html",
+    "matchType": "exact",
+    "output": "json",
+    "fl": "timestamp,original,mimetype,statuscode,digest",
+    "filter": "statuscode:200",
+    "collapse": "digest",
+    "limit": "200",
+    "showResumeKey": "true"
+  },
+  "earliest_year_cutoff": null,
+  "captures": [
+    {
+      "timestamp": "20250623103913",
+      "original": "https://www.maryhelpofchristians.ie/page/Annual-School-Admissions-Notice/39820/Index.html",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "N377UQWNZ3XVQWAOVRD2CRWO65M3BQR4"
+    },
+    {
+      "timestamp": "20250718041240",
+      "original": "https://www.maryhelpofchristians.ie/Page/Annual-School-Admissions-Notice/39820/Index.html",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "23LBXGYXLUZXDCWVIJOBZMIR5TYCMFM2"
+    },
+    {
+      "timestamp": "20251113152212",
+      "original": "https://www.maryhelpofchristians.ie/page/Annual-School-Admissions-Notice/39820/Index.html",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "BFTH3UGLTG7CNJDZ32LNEPK2QYBOGRQM"
+    },
+    {
+      "timestamp": "20260311044607",
+      "original": "https://www.maryhelpofchristians.ie/page/Annual-School-Admissions-Notice/39820/Index.html",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "NLIXSVAG64MPDQIPC74XIMLGMPTDC5VX"
+    },
+    {
+      "timestamp": "20260609000936",
+      "original": "https://www.maryhelpofchristians.ie/page/Annual-School-Admissions-Notice/39820/Index.html",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "AJJDPTTYWJ7TY46YEFDTJVUCRCWZ7UQ4"
+    }
+  ],
+  "pages": [
+    {
+      "at": "2026-11-08T12:42:09.949570+00:00",
+      "http_status": 200,
+      "params": {
+        "url": "https://www.maryhelpofchristians.ie/page/Annual-School-Admissions-Notice/39820/Index.html",
+        "matchType": "exact",
+        "output": "json",
+        "fl": "timestamp,original,mimetype,statuscode,digest",
+        "filter": "statuscode:200",
+        "collapse": "digest",
+        "limit": "200",
+        "showResumeKey": "true"
+      }
+    }
+  ],
+  "status": "index_complete",
+  "capture_count": 5
+}

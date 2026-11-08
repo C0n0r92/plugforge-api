@@ -1,0 +1,368 @@
+{
+  "roll": "15995L",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://starofthesea.ie",
+      "final_url": "https://starofthesea.ie",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://starofthesea.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://starofthesea.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://starofthesea.ie/wp-content/uploads/2020/10/Star-of-the-Sea-Admissions-Notice.pdf",
+      "final_url": "https://starofthesea.ie/wp-content/uploads/2020/10/Star-of-the-Sea-Admissions-Notice.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Star of the Sea Admissions Notice"
+    },
+    {
+      "url": "https://starofthesea.ie/wp-content/uploads/2021/09/Admissions-Notice-2022-2023.pdf",
+      "final_url": "https://starofthesea.ie/wp-content/uploads/2021/09/Admissions-Notice-2022-2023.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Notice 2022 2023"
+    },
+    {
+      "url": "https://starofthesea.ie/wp-content/uploads/2021/09/Admissions-Notice-2022-2023-1.pdf",
+      "final_url": "https://starofthesea.ie/wp-content/uploads/2021/09/Admissions-Notice-2022-2023-1.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Notice 2022 2023"
+    },
+    {
+      "url": "https://starofthesea.ie/wp-content/uploads/2021/04/Admissions-Notice-Star-of-the-Sea-BNS-29.apr_.pdf",
+      "final_url": "https://starofthesea.ie/wp-content/uploads/2021/04/Admissions-Notice-Star-of-the-Sea-BNS-29.apr_.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions-Notice-Star-of-the-Sea-BNS 29.apr"
+    },
+    {
+      "url": "https://starofthesea.ie/wp-content/uploads/2021/03/Admissions-Notice-Star-of-the-Sea-BNS.pdf",
+      "final_url": "https://starofthesea.ie/wp-content/uploads/2021/03/Admissions-Notice-Star-of-the-Sea-BNS.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Notice Star of the Sea BNS"
+    },
+    {
+      "url": "https://starofthesea.ie/wp-content/uploads/2022/09/Admissions-Notice-2023-2024.pdf",
+      "final_url": "https://starofthesea.ie/wp-content/uploads/2022/09/Admissions-Notice-2023-2024.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Notice 2023 2024"
+    },
+    {
+      "url": "https://starofthesea.ie/wp-content/uploads/2023/09/Admissions-Notice-2024-2025-Star-of-the-Sea.pdf",
+      "final_url": "https://starofthesea.ie/wp-content/uploads/2023/09/Admissions-Notice-2024-2025-Star-of-the-Sea.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Notice 2024 2025 Star of the Sea"
+    },
+    {
+      "url": "https://starofthesea.ie/wp-content/uploads/2024/09/Admissions-Notice-2025-2026-Star-of-the-Sea.pdf",
+      "final_url": "https://starofthesea.ie/wp-content/uploads/2024/09/Admissions-Notice-2025-2026-Star-of-the-Sea.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Notice 2025 2026 Star of the Sea"
+    },
+    {
+      "url": "https://starofthesea.ie/wp-content/uploads/2025/10/Admissions-Notice-2026-2027.pdf",
+      "final_url": "https://starofthesea.ie/wp-content/uploads/2025/10/Admissions-Notice-2026-2027.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Notice 2026 2027"
+    },
+    {
+      "url": "https://starofthesea.ie/wp-content/uploads/2026/04/Admissions-Notice-2026-2027.pdf",
+      "final_url": "https://starofthesea.ie/wp-content/uploads/2026/04/Admissions-Notice-2026-2027.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Notice 2026 2027"
+    },
+    {
+      "url": "https://starofthesea.ie/wp-content/uploads/2021/03/Admissions-Aplication-Form-Star-of-the-Sea-BNS.pdf",
+      "final_url": "https://starofthesea.ie/wp-content/uploads/2021/03/Admissions-Aplication-Form-Star-of-the-Sea-BNS.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Aplication Form Star of the Sea BNS"
+    },
+    {
+      "url": "https://starofthesea.ie/wp-content/uploads/2024/10/Admission-Form-Autism-Specific-Special-Class-2025-2026.pdf",
+      "final_url": "https://starofthesea.ie/wp-content/uploads/2024/10/Admission-Form-Autism-Specific-Special-Class-2025-2026.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admission Form Autism Specific Special Class 2025 2026"
+    },
+    {
+      "url": "https://starofthesea.ie/wp-content/uploads/2024/09/Admission-Form-Autism-Specific-Special-Class-2025-2026.pdf",
+      "final_url": "https://starofthesea.ie/wp-content/uploads/2024/09/Admission-Form-Autism-Specific-Special-Class-2025-2026.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admission Form Autism Specific Special Class 2025 2026"
+    },
+    {
+      "url": "https://starofthesea.ie/wp-content/uploads/2020/10/Star-of-the-Sea-BNS-Admissions-Policy.pdf",
+      "final_url": "https://starofthesea.ie/wp-content/uploads/2020/10/Star-of-the-Sea-BNS-Admissions-Policy.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Star of the Sea BNS Admissions Policy"
+    },
+    {
+      "url": "https://starofthesea.ie/admissions/junior-infants/",
+      "final_url": "https://starofthesea.ie/admissions/junior-infants/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Junior Infants"
+    },
+    {
+      "url": "https://starofthesea.ie/wp-content/uploads/2021/05/Child-Safeguarding-Statement-and-Checklist-Sept-2020-Star-of-the-Sea.pdf",
+      "final_url": "https://starofthesea.ie/wp-content/uploads/2021/05/Child-Safeguarding-Statement-and-Checklist-Sept-2020-Star-of-the-Sea.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Child Protection"
+    },
+    {
+      "url": "https://starofthesea.ie/admissions/",
+      "final_url": "https://starofthesea.ie/admissions/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://starofthesea.ie/about/admissions/",
+      "final_url": "https://starofthesea.ie/admissions/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "ENROLMENT"
+    },
+    {
+      "url": "https://starofthesea.ie/wp-content/uploads/2021/09/Star_Of-The-Sea-Admissions-Policy_2022-2023.pdf",
+      "final_url": "https://starofthesea.ie/wp-content/uploads/2021/09/Star_Of-The-Sea-Admissions-Policy_2022-2023.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Star_Of The Sea Admissions Policy_2022 2023"
+    },
+    {
+      "url": "https://starofthesea.ie/wp-content/uploads/2021/09/Star_Of-The-Sea-Admissions-Policy_2022-2023-1.pdf",
+      "final_url": "https://starofthesea.ie/wp-content/uploads/2021/09/Star_Of-The-Sea-Admissions-Policy_2022-2023-1.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Star_Of The Sea Admissions Policy_2022 2023"
+    },
+    {
+      "url": "https://starofthesea.ie/wp-content/uploads/2021/03/Admissions-Policy-Star-of-the-Sea-BNS.pdf",
+      "final_url": "https://starofthesea.ie/wp-content/uploads/2021/03/Admissions-Policy-Star-of-the-Sea-BNS.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Policy Star of the Sea BNS"
+    },
+    {
+      "url": "https://starofthesea.ie/wp-content/uploads/2022/11/Admissions-Policy-2023-2024-School-Year.pdf",
+      "final_url": "https://starofthesea.ie/wp-content/uploads/2022/11/Admissions-Policy-2023-2024-School-Year.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Policy 2023 2024 School Year"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "15995L",
+      "url": "https://starofthesea.ie/wp-content/uploads/2020/10/Star-of-the-Sea-Admissions-Notice.pdf",
+      "label": "Star of the Sea Admissions Notice",
+      "sha256": "f925d93f52da8e9308764a83d1102b53ee9650cef30e8abdb9d163de2c79ffaa",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/15995L_f925d93f52da8e930876.txt",
+      "source_file": "database/milestone2/cache/f925d93f52da8e9308764a83d1102b53ee9650cef30e8abdb9d163de2c79ffaa.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 6441
+    },
+    {
+      "roll": "15995L",
+      "url": "https://starofthesea.ie/wp-content/uploads/2021/09/Admissions-Notice-2022-2023.pdf",
+      "label": "Admissions Notice 2022 2023",
+      "sha256": "e3ac1b69ef1f7dc0bbbb40588fc1c4fedd5874652fd42bb90c3caaca6f3b557e",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/15995L_e3ac1b69ef1f7dc0bbbb.txt",
+      "source_file": "database/milestone2/cache/e3ac1b69ef1f7dc0bbbb40588fc1c4fedd5874652fd42bb90c3caaca6f3b557e.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 9098
+    },
+    {
+      "roll": "15995L",
+      "url": "https://starofthesea.ie/wp-content/uploads/2021/09/Admissions-Notice-2022-2023-1.pdf",
+      "label": "Admissions Notice 2022 2023",
+      "sha256": "2320353c2da22ad4b580084a457f145413717a6a68e06a9dec6212dd68ea35b2",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/15995L_2320353c2da22ad4b580.txt",
+      "source_file": "database/milestone2/cache/2320353c2da22ad4b580084a457f145413717a6a68e06a9dec6212dd68ea35b2.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 9098
+    },
+    {
+      "roll": "15995L",
+      "url": "https://starofthesea.ie/wp-content/uploads/2021/04/Admissions-Notice-Star-of-the-Sea-BNS-29.apr_.pdf",
+      "label": "Admissions-Notice-Star-of-the-Sea-BNS 29.apr",
+      "sha256": "36e95e60a7c8f1d581cb3008046010da276a9e64790354399972630d757c017b",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/15995L_36e95e60a7c8f1d581cb.txt",
+      "source_file": "database/milestone2/cache/36e95e60a7c8f1d581cb3008046010da276a9e64790354399972630d757c017b.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 8249
+    },
+    {
+      "roll": "15995L",
+      "url": "https://starofthesea.ie/wp-content/uploads/2022/09/Admissions-Notice-2023-2024.pdf",
+      "label": "Admissions Notice 2023 2024",
+      "sha256": "e1dc4d0032d7f28f6abb484ee2f66bb23141d146e136a13c9383e6c4f512e3e5",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/15995L_e1dc4d0032d7f28f6abb.txt",
+      "source_file": "database/milestone2/cache/e1dc4d0032d7f28f6abb484ee2f66bb23141d146e136a13c9383e6c4f512e3e5.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 8729
+    },
+    {
+      "roll": "15995L",
+      "url": "https://starofthesea.ie/wp-content/uploads/2023/09/Admissions-Notice-2024-2025-Star-of-the-Sea.pdf",
+      "label": "Admissions Notice 2024 2025 Star of the Sea",
+      "sha256": "50edff1c304868bcf25d955cabdec8803a2d068483fb173d05d516e4e8fabcbb",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/15995L_50edff1c304868bcf25d.txt",
+      "source_file": "database/milestone2/cache/50edff1c304868bcf25d955cabdec8803a2d068483fb173d05d516e4e8fabcbb.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 8695
+    },
+    {
+      "roll": "15995L",
+      "url": "https://starofthesea.ie/wp-content/uploads/2024/09/Admissions-Notice-2025-2026-Star-of-the-Sea.pdf",
+      "label": "Admissions Notice 2025 2026 Star of the Sea",
+      "sha256": "ccc539fb16b4051b9ca86c39f0c886b97702b1b90ce78d34129891645ba21128",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/15995L_ccc539fb16b4051b9ca8.txt",
+      "source_file": "database/milestone2/cache/ccc539fb16b4051b9ca86c39f0c886b97702b1b90ce78d34129891645ba21128.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 8523
+    },
+    {
+      "roll": "15995L",
+      "url": "https://starofthesea.ie/wp-content/uploads/2025/10/Admissions-Notice-2026-2027.pdf",
+      "label": "Admissions Notice 2026 2027",
+      "sha256": "6e32f0478ab0df6d943dd7c6e78ec689f7fd5c3dddefce6d42e746495eeb59d7",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/15995L_6e32f0478ab0df6d943d.txt",
+      "source_file": "database/milestone2/cache/6e32f0478ab0df6d943dd7c6e78ec689f7fd5c3dddefce6d42e746495eeb59d7.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 8467
+    },
+    {
+      "roll": "15995L",
+      "url": "https://starofthesea.ie/wp-content/uploads/2020/10/Star-of-the-Sea-BNS-Admissions-Policy.pdf",
+      "label": "Star of the Sea BNS Admissions Policy",
+      "sha256": "12ad8e2c6e3cadfbb735f83cba7e857b4154cc4718bd47b92df9c28dbc5bf5c2",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/15995L_12ad8e2c6e3cadfbb735.txt",
+      "source_file": "database/milestone2/cache/12ad8e2c6e3cadfbb735f83cba7e857b4154cc4718bd47b92df9c28dbc5bf5c2.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 26050
+    },
+    {
+      "roll": "15995L",
+      "url": "https://starofthesea.ie/wp-content/uploads/2021/09/Star_Of-The-Sea-Admissions-Policy_2022-2023.pdf",
+      "label": "Star_Of The Sea Admissions Policy_2022 2023",
+      "sha256": "532db79b6e0264e54aa2a71f5e4e0e2e46d6e3dbaacb95425b90272ee4c77077",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/15995L_532db79b6e0264e54aa2.txt",
+      "source_file": "database/milestone2/cache/532db79b6e0264e54aa2a71f5e4e0e2e46d6e3dbaacb95425b90272ee4c77077.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 28865
+    },
+    {
+      "roll": "15995L",
+      "url": "https://starofthesea.ie/wp-content/uploads/2021/03/Admissions-Policy-Star-of-the-Sea-BNS.pdf",
+      "label": "Admissions Policy Star of the Sea BNS",
+      "sha256": "1fc375665ab3f26c849612445b6cd8419c2c7b075275ff6a2bb8900a431c8a96",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/15995L_1fc375665ab3f26c8496.txt",
+      "source_file": "database/milestone2/cache/1fc375665ab3f26c849612445b6cd8419c2c7b075275ff6a2bb8900a431c8a96.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 32882
+    },
+    {
+      "roll": "15995L",
+      "url": "https://starofthesea.ie/wp-content/uploads/2022/11/Admissions-Policy-2023-2024-School-Year.pdf",
+      "label": "Admissions Policy 2023 2024 School Year",
+      "sha256": "d0b41642e3104c6974a5105d02b397ca8b1a1899102a1cabf9f8786b4b8808be",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/15995L_d0b41642e3104c6974a5.txt",
+      "source_file": "database/milestone2/cache/d0b41642e3104c6974a5105d02b397ca8b1a1899102a1cabf9f8786b4b8808be.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 28271
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://starofthesea.ie/wp-content/uploads/2022/11/Admissions-Policy-2023-2024-School-Year-1.pdf",
+      "label": "Admissions Policy 2023 2024 School Year",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://starofthesea.ie/wp-content/uploads/2023/09/Admissions-Policy-2024-2025-Star-of-the-Sea.pdf",
+      "label": "Admissions Policy 2024 2025 Star of the Sea",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://starofthesea.ie/wp-content/uploads/2023/09/Admissions-Application-Form-Special-Class-2024-2025.pdf",
+      "label": "Admissions Application Form Special Class 2024 2025",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://starofthesea.ie/wp-content/uploads/2024/09/Admission-Policy-2025-2026.pdf",
+      "label": "Admission Policy 2025 2026",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://starofthesea.ie/wp-content/uploads/2025/10/Admissions-Policy-Star-of-the-Sea-2026-2027.pdf",
+      "label": "Admissions Policy Star of the Sea 2026 2027",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://starofthesea.ie/wp-content/uploads/2025/03/Admissions-Policy-2025-2026-Star-of-the-Sea-BNS.pdf",
+      "label": "Admissions Policy 2025 2026 Star of the Sea BNS",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://starofthesea.ie/wp-content/uploads/2025/03/Admission-Policy-2025-2026-Star.pdf",
+      "label": "Admission Policy 2025 2026 Star",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://starofthesea.ie/wp-content/uploads/2026/09/Admissions-Policy-Star-of-the-Sea-BNS-2027-2028.pdf",
+      "label": "Admissions Policy Star of the Sea BNS 2027 2028",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://starofthesea.ie/sitemap.xml",
+      "label": "Public sitemap",
+      "via": "sitemap_root"
+    },
+    {
+      "url": "https://starofthesea.ie/about/policies/",
+      "label": "Policies",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://starofthesea.ie/wp-content/uploads/2021/05/COVID-19-POLICY-STATEMENT.pdf",
+      "label": "COVID-19",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 86.38,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:50:49+0000"
+}

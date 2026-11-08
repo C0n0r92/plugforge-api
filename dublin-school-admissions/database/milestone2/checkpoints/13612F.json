@@ -1,0 +1,285 @@
+{
+  "roll": "13612F",
+  "status": "bounded_search_no_new_notice_found",
+  "attempts": [
+    {
+      "url": "https://www.presterenure.ie/admissions/?googletranslate=true",
+      "final_url": "https://www.presterenure.ie/admissions/?googletranslate=true",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "https://www.presterenure.ie/letterlink/6/?open=true",
+      "final_url": "https://view.officeapps.live.com/op/embed.aspx?src=https://swddoc.b-cdn.net/1057/docletter/20260923100229_96_Admissions-Notice_2027_-_2028.docx",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Admissions-Notice 2027 - 2028.docx"
+    },
+    {
+      "url": "https://www.presterenure.ie/admissions/",
+      "final_url": "https://www.presterenure.ie/admissions/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://www.presterenure.ie/admin/?open=/admissions/?googletranslate=true",
+      "final_url": "https://www.presterenure.ie/admin/?open=/admissions/?googletranslate=true",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.presterenure.ie/admin/?open=/admissions/",
+      "final_url": "https://www.presterenure.ie/admin/?open=/admissions/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.presterenure.ie/sitemap.xml",
+      "final_url": "https://www.presterenure.ie/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.presterenure.ie/letterlink/6/?open=true&download=true",
+      "final_url": "https://swdcache.b-cdn.net/1057/docletter/20260923100229_96_Admissions-Notice_2027_-_2028.docx",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.presterenure.ie/letterlink/5/?open=true&download=true",
+      "final_url": "https://swdcache.b-cdn.net/1057/docletter/20260708111014_91_e82ecf43-2b29-45be-8f52-b1548adef445.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.presterenure.ie/letterlink/5/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/1057/docletter/20260708111014_91_e82ecf43-2b29-45be-8f52-b1548adef445.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Admission Policy of Presentation Primary School Terenure"
+    },
+    {
+      "url": "https://www.presterenure.ie/for-parents/policies/",
+      "final_url": "https://www.presterenure.ie/for-parents/policies/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.presterenure.ie/for-parents/policies/?googletranslate=true",
+      "final_url": "https://www.presterenure.ie/for-parents/policies/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.presterenure.ie/for-parents/parents-association/",
+      "final_url": "https://www.presterenure.ie/for-parents/parents-association/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents Association"
+    },
+    {
+      "url": "https://www.presterenure.ie/for-parents/parents-association/?googletranslate=true",
+      "final_url": "https://www.presterenure.ie/for-parents/parents-association/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.presterenure.ie/for-parents/moving-on-to-secondary-school/",
+      "final_url": "https://www.presterenure.ie/for-parents/moving-on-to-secondary-school/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Feeder School Information"
+    },
+    {
+      "url": "https://www.presterenure.ie/for-parents/moving-on-to-secondary-school/?googletranslate=true",
+      "final_url": "https://www.presterenure.ie/for-parents/moving-on-to-secondary-school/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.presterenure.ie/for-parents/information/",
+      "final_url": "https://www.presterenure.ie/for-parents/information/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Information"
+    },
+    {
+      "url": "https://www.presterenure.ie/for-parents/information/?googletranslate=true",
+      "final_url": "https://www.presterenure.ie/for-parents/information/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.presterenure.ie/for-parents/calendar/",
+      "final_url": "https://www.presterenure.ie/for-parents/calendar/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Calendar"
+    },
+    {
+      "url": "https://www.presterenure.ie/for-parents/calendar/?googletranslate=true",
+      "final_url": "https://www.presterenure.ie/for-parents/calendar/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.presterenure.ie/for-parents/",
+      "final_url": "https://www.presterenure.ie/for-parents/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "For Parents"
+    },
+    {
+      "url": "https://www.presterenure.ie/for-parents/?googletranslate=true",
+      "final_url": "https://www.presterenure.ie/for-parents/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.presterenure.ie/documentlink/36/?open=true&download=true",
+      "final_url": "https://swdcache.b-cdn.net/1057/docletter/20261006011707_24_Healthy_Eating_Policy_Ratified_.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.presterenure.ie/documentlink/35/?open=true&download=true",
+      "final_url": "https://swdcache.b-cdn.net/1057/docletter/20261006011706_63_First_Aid_Policy_-Administration_of_Medication_Policy_Sept_2026_Ratified_.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.presterenure.ie/documentlink/33/?open=true&download=true",
+      "final_url": "https://swdcache.b-cdn.net/1057/docletter/20260923100557_24_Presentation_School_Calendar_2026_-_2027.docx",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": ""
+    }
+  ],
+  "documents": [],
+  "pending_links": [
+    {
+      "url": "https://www.presterenure.ie/documentlink/23/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.presterenure.ie/documentlink/22/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.presterenure.ie/admin/?open=/for-parents/policies/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.presterenure.ie/admin/?open=/for-parents/policies/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.presterenure.ie/admin/?open=/for-parents/parents-association/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.presterenure.ie/admin/?open=/for-parents/parents-association/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.presterenure.ie/admin/?open=/for-parents/moving-on-to-secondary-school/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.presterenure.ie/admin/?open=/for-parents/moving-on-to-secondary-school/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.presterenure.ie/admin/?open=/for-parents/information/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.presterenure.ie/admin/?open=/for-parents/information/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.presterenure.ie/admin/?open=/for-parents/calendar/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.presterenure.ie/admin/?open=/for-parents/calendar/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.presterenure.ie/admin/?open=/for-parents/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.presterenure.ie/admin/?open=/for-parents/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.presterenure.ie",
+      "label": "School homepage",
+      "via": "home"
+    },
+    {
+      "url": "https://www.presterenure.ie/documentlink/23/?open=true",
+      "label": "Homework Policy 2024.docx",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.presterenure.ie/documentlink/36/?open=true",
+      "label": "Healthy Eating Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.presterenure.ie/documentlink/35/?open=true",
+      "label": "First Aid Policy - Administration of Medication Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.presterenure.ie/documentlink/22/?open=true",
+      "label": "Bí Cineálta Policy Presentation.docx",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.presterenure.ie/cmsfiles/policies/privacy/",
+      "label": "Website Privacy Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.presterenure.ie/cmsfiles/policies/cookie/",
+      "label": "Cookie Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 76.06,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:01:58+0000"
+}

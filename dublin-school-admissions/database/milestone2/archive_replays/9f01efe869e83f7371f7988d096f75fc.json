@@ -1,0 +1,30 @@
+{
+  "task_id": "9f01efe869e83f7371f7988d096f75fc",
+  "roll": "00697S",
+  "capture": {
+    "digest": "BN4OYTPLQ6LKFEXMD6UGLL7SUEJXSA4V",
+    "mimetype": "text/html",
+    "original": "https://saintbrigids.ie/wp/pwa/admission-notice-2023-24/",
+    "statuscode": "200",
+    "timestamp": "20230101080055"
+  },
+  "original_url": "https://saintbrigids.ie/wp/pwa/admission-notice-2023-24/",
+  "archived_url": "https://web.archive.org/web/20230101080055/https://saintbrigids.ie/wp/pwa/admission-notice-2023-24/",
+  "attempted_at": "2026-11-08T12:32:50.320401+00:00",
+  "http_status": 200,
+  "headers": {
+    "Content-Type": "text/html; charset=UTF-8",
+    "memento-datetime": "Sun, 01 Jan 2023 08:00:55 GMT"
+  },
+  "payload_sha256": "215af675b79689ffe342b47b3044e99ec3472643f3104d727bdbd039601cd22f",
+  "bytes": 39695,
+  "format": "html",
+  "archive_link_candidates": [
+    {
+      "url": "https://web.archive.org/web/20230101080055/https://saintbrigids.ie/wp/pwa/wp-content/uploads/sites/15/2022/12/annual-admission-notice-23.24.pdf",
+      "label": "Click here for our \u00a0Annual Admissions Notice"
+    }
+  ],
+  "status": "archived_body_retrieved_requires_notice_evidence_review",
+  "text_file": "database/milestone2/evidence/archive_00697S_215af675b79689ffe342.txt"
+}

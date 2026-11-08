@@ -1,0 +1,300 @@
+{
+  "roll": "01170G",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.naulschool.ie/wp-content/uploads/2025/01/Annual-Admission-Notice-2025.26.docx",
+      "final_url": "https://www.naulschool.ie/wp-content/uploads/2025/01/Annual-Admission-Notice-2025.26.docx",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://www.naulschool.ie/wp-content/uploads/2025/01/Annual-Admission-Notice-2025.26-1.docx",
+      "final_url": "https://www.naulschool.ie/wp-content/uploads/2025/01/Annual-Admission-Notice-2025.26-1.docx",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://www.naulns.ie/admissions/enrolment-form-jinf-2526/?googletranslate=true",
+      "final_url": "https://www.naulns.ie/admissions/enrolment-form-jinf-2526/?googletranslate=true",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "https://www.naulns.ie/documentlink/90/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/936/docletter/20251006070328_35_Annual_Admissions_Notice_2026.27.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Annual Admissions Notice 2026.27.pdf"
+    },
+    {
+      "url": "https://www.naulns.ie/admissions/enrolment-form-jinf-2526/",
+      "final_url": "https://www.naulns.ie/admissions/enrolment-form-jinf-2526/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admission Forms and Info"
+    },
+    {
+      "url": "https://www.naulns.ie/admissions/childs-first-day-at-school/?googletranslate=true",
+      "final_url": "https://www.naulns.ie/admissions/childs-first-day-at-school/?googletranslate=true",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "https://www.naulns.ie/admissions/childs-first-day-at-school/",
+      "final_url": "https://www.naulns.ie/admissions/childs-first-day-at-school/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Child's First Day at School"
+    },
+    {
+      "url": "https://www.naulns.ie/admissions/?googletranslate=true",
+      "final_url": "https://www.naulns.ie/admissions/?googletranslate=true",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "https://www.naulns.ie/documentlink/128/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/936/docletter/20260319093748_34_Annual_Admissions_Notice_2026.27.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Annual Admissions Notice 2026.27.pdf"
+    },
+    {
+      "url": "https://www.naulns.ie/admissions/",
+      "final_url": "https://www.naulns.ie/admissions/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://www.naulns.ie/admin/?open=/admissions/enrolment-form-jinf-2526/?googletranslate=true",
+      "final_url": "https://www.naulns.ie/admin/?open=/admissions/enrolment-form-jinf-2526/?googletranslate=true",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.naulns.ie/admin/?open=/admissions/enrolment-form-jinf-2526/",
+      "final_url": "https://www.naulns.ie/admin/?open=/admissions/enrolment-form-jinf-2526/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.naulns.ie/admin/?open=/admissions/childs-first-day-at-school/?googletranslate=true",
+      "final_url": "https://www.naulns.ie/admin/?open=/admissions/childs-first-day-at-school/?googletranslate=true",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.naulns.ie/admin/?open=/admissions/childs-first-day-at-school/",
+      "final_url": "https://www.naulns.ie/admin/?open=/admissions/childs-first-day-at-school/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.naulns.ie/admin/?open=/admissions/?googletranslate=true",
+      "final_url": "https://www.naulns.ie/admin/?open=/admissions/?googletranslate=true",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.naulns.ie/admin/?open=/admissions/",
+      "final_url": "https://www.naulns.ie/admin/?open=/admissions/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.naulschool.ie/wp-content/uploads/2025/01/Admissions-Policy-Reviewed-2024.docx",
+      "final_url": "https://www.naulschool.ie/wp-content/uploads/2025/01/Admissions-Policy-Reviewed-2024.docx",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://www.naulschool.ie/wp-content/uploads/2024/11/Admissions-Policy-Reviewed-2024.docx",
+      "final_url": "https://www.naulschool.ie/wp-content/uploads/2024/11/Admissions-Policy-Reviewed-2024.docx",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://www.naulschool.ie/wp-content/uploads/2024/11/Admission-Policy-Reviewed-2024.docx",
+      "final_url": "https://www.naulschool.ie/wp-content/uploads/2024/11/Admission-Policy-Reviewed-2024.docx",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://www.naulschool.ie/2020/09/29/admissions-policy-and-pre-enrolment-forms/",
+      "final_url": "https://www.naulschool.ie/2020/09/29/admissions-policy-and-pre-enrolment-forms/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions/policy URL from public sitemap"
+    },
+    {
+      "url": "https://www.naulschool.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://www.naulschool.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://www.naulschool.ie/wp-content/uploads/2020/09/Admission-Policy-2020.pdf",
+      "final_url": "https://www.naulschool.ie/wp-content/uploads/2020/09/Admission-Policy-2020.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admission Policy 2020"
+    },
+    {
+      "url": "https://www.naulschool.ie/2021/09/29/enrolment-for-2022-23/",
+      "final_url": "https://www.naulschool.ie/2021/09/29/enrolment-for-2022-23/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions/policy URL from public sitemap"
+    },
+    {
+      "url": "https://www.naulschool.ie/wp-content/uploads/2021/09/Pre-Enrolment-Form-Mainstream-Class-2022.doc",
+      "final_url": "https://www.naulschool.ie/wp-content/uploads/2021/09/Pre-Enrolment-Form-Mainstream-Class-2022.doc",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Pre Enrolment Form – Mainstream Class 2022"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "01170G",
+      "url": "https://www.naulschool.ie/wp-content/uploads/2025/01/Annual-Admission-Notice-2025.26.docx",
+      "label": "Prior school admissions section",
+      "sha256": "d89cf40706b138e0c049e73a9534d6d45480651f9a55e68d1d4431a2324566c3",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/01170G_d89cf40706b138e0c049.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 2512
+    },
+    {
+      "roll": "01170G",
+      "url": "https://www.naulschool.ie/wp-content/uploads/2025/01/Annual-Admission-Notice-2025.26-1.docx",
+      "label": "Prior school admissions section",
+      "sha256": "ac6e0679e686963e1297500530c906685be30a74dd4630d3b25c4073e7b133a3",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/01170G_ac6e0679e686963e1297.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 2537
+    },
+    {
+      "roll": "01170G",
+      "url": "https://www.naulns.ie/admissions/enrolment-form-jinf-2526/?googletranslate=true",
+      "label": "",
+      "sha256": "2277936614d125146492f74541d8e59187d44807eeefb309d4628c4e28baf036",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/01170G_2277936614d125146492.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 404
+    },
+    {
+      "roll": "01170G",
+      "url": "https://www.naulns.ie/admissions/enrolment-form-jinf-2526/",
+      "label": "Admission Forms and Info",
+      "sha256": "feafaed88b81c5971dfad8a614343470c8dc739e9fc72b7cb1de77afddce96b5",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/01170G_feafaed88b81c5971dfa.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 404
+    },
+    {
+      "roll": "01170G",
+      "url": "https://www.naulns.ie/admissions/?googletranslate=true",
+      "label": "",
+      "sha256": "b36223519dc2073a049d7d64f7cea9dbc2352e6a8e65e67aacf7ae3c33d3ac94",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/01170G_b36223519dc2073a049d.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 340
+    },
+    {
+      "roll": "01170G",
+      "url": "https://www.naulns.ie/admissions/",
+      "label": "Admissions",
+      "sha256": "5897f1b99937863ecf44d7fa89366045ba5ee372246eb1ba39587642901f1199",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/01170G_5897f1b99937863ecf44.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 340
+    },
+    {
+      "roll": "01170G",
+      "url": "https://www.naulschool.ie/wp-content/uploads/2025/01/Admissions-Policy-Reviewed-2024.docx",
+      "label": "Prior school admissions section",
+      "sha256": "906e3020b236dd6f45670a8fcfeb8b9d43b4429066681bf120895fb7e018c01b",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/01170G_906e3020b236dd6f4567.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 22765
+    },
+    {
+      "roll": "01170G",
+      "url": "https://www.naulschool.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "label": "Oldest public admission media (all dates)",
+      "sha256": "ab8260b2f2eef39f3c2c50292b1252f4315692761a73cdde222dc10763d11b92",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/01170G_ab8260b2f2eef39f3c2c.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 621
+    },
+    {
+      "roll": "01170G",
+      "url": "https://www.naulschool.ie/wp-content/uploads/2020/09/Admission-Policy-2020.pdf",
+      "label": "Admission Policy 2020",
+      "sha256": "a6da39adbe68e041becaf435d4d6891d3619eb7193e5f505a7f997b34d045c9f",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/01170G_a6da39adbe68e041beca.txt",
+      "source_file": "database/milestone2/cache/a6da39adbe68e041becaf435d4d6891d3619eb7193e5f505a7f997b34d045c9f.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 24689
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.naulns.ie/documentlink/115/?open=true",
+      "label": "Naul National School Admissions Policy 2025.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.naulschool.ie/sitemap_index.xml",
+      "label": "Public sitemap",
+      "via": "sitemap_root"
+    },
+    {
+      "url": "https://www.naulschool.ie",
+      "label": "School homepage",
+      "via": "home"
+    },
+    {
+      "url": "https://www.naulns.ie/sitemap.xml",
+      "label": "Public sitemap",
+      "via": "sitemap_root"
+    }
+  ],
+  "elapsed_seconds": 55.93,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:00:57+0000"
+}

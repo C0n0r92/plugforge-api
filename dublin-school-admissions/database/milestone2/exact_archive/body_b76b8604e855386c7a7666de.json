@@ -1,0 +1,24 @@
+{
+  "roll": "09492W",
+  "capture": {
+    "original": "https://www.balscadden.com/news/admissions-notice-bns-ji-2027pdf/",
+    "timestamp": "20261002174259",
+    "availability_url": "http://web.archive.org/web/20261002174259/https://www.balscadden.com/news/admissions-notice-bns-ji-2027pdf/"
+  },
+  "original_url": "https://www.balscadden.com/news/admissions-notice-bns-ji-2027pdf/",
+  "archived_url": "https://web.archive.org/web/20261002174259/https://www.balscadden.com/news/admissions-notice-bns-ji-2027pdf/",
+  "attempted_at": "2026-11-08T13:24:19.567871+00:00",
+  "linked_from_capture": null,
+  "http_status": 200,
+  "headers": {
+    "Content-Type": "text/html; charset=UTF-8",
+    "memento-datetime": "Fri, 02 Oct 2026 17:42:59 GMT"
+  },
+  "bytes": 25208,
+  "payload_sha256": "8a4eac1388b10fcea574c622cc6cf025d0798fd53600484c601c2bd059aa14f2",
+  "source_file": "database/milestone2/cache/8a4eac1388b10fcea574c622cc6cf025d0798fd53600484c601c2bd059aa14f2.html",
+  "format": "html",
+  "status": "archived_body_retrieved_requires_manual_evidence_review",
+  "text_file": "database/milestone2/evidence/exact_09492W_8a4eac1388b10fcea574.txt",
+  "linked_document_candidates": []
+}

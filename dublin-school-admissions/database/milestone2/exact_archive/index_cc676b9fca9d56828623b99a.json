@@ -1,0 +1,114 @@
+{
+  "roll": "19302U",
+  "original_url": "https://www.virginmarybns.ie/enrolments.html",
+  "method": "documented_CDX_exact_URL_all_available_dates",
+  "attempted_at": "2026-11-08T12:42:38.115667+00:00",
+  "params": {
+    "url": "https://www.virginmarybns.ie/enrolments.html",
+    "matchType": "exact",
+    "output": "json",
+    "fl": "timestamp,original,mimetype,statuscode,digest",
+    "filter": "statuscode:200",
+    "collapse": "digest",
+    "limit": "200",
+    "showResumeKey": "true"
+  },
+  "earliest_year_cutoff": null,
+  "captures": [
+    {
+      "timestamp": "20230204013642",
+      "original": "https://www.virginmarybns.ie/enrolments.html",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "WTVG2V55LUFTADPAJBUAEUPBVU56FZD6"
+    },
+    {
+      "timestamp": "20230530132549",
+      "original": "https://www.virginmarybns.ie/enrolments.html",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "POTLR6TZQHSG7NJ2OWR6LJEKAYON52V5"
+    },
+    {
+      "timestamp": "20231203230112",
+      "original": "https://www.virginmarybns.ie/enrolments.html",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "FIH2YTD5BMUT2TTQJDQXWM7AZELR7SAW"
+    },
+    {
+      "timestamp": "20240412133910",
+      "original": "https://www.virginmarybns.ie/enrolments.html",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "XAIVXSXNX2ZC3COEWG663MEN5KWKPS2Z"
+    },
+    {
+      "timestamp": "20240911085122",
+      "original": "https://www.virginmarybns.ie/enrolments.html",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "YSWHI3ZHXDJNQNWAN4ZJG4BE6RCHCVYR"
+    },
+    {
+      "timestamp": "20241205181459",
+      "original": "https://www.virginmarybns.ie/enrolments.html",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "XKVPJTT52EJK7VHWRARKGSNTRYTXOWWF"
+    },
+    {
+      "timestamp": "20250423010443",
+      "original": "https://www.virginmarybns.ie/enrolments.html",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "OX3YBUXGSSDS7RD47CFUJ4QUM4XXZACM"
+    },
+    {
+      "timestamp": "20251008214656",
+      "original": "https://www.virginmarybns.ie/enrolments.html",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "PJJKIPPKJGT72QEQFJ53RA6OSAHCKY7V"
+    },
+    {
+      "timestamp": "20260117091426",
+      "original": "https://www.virginmarybns.ie/enrolments.html",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "UHZOWRXAFHU4EHK5NNNGOHIKA2DV7HGP"
+    },
+    {
+      "timestamp": "20260418190748",
+      "original": "https://www.virginmarybns.ie/enrolments.html",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "UQBIX7GEJNX7E2CUTDMHDWOGGSVVVTAY"
+    },
+    {
+      "timestamp": "20260714031143",
+      "original": "https://www.virginmarybns.ie/enrolments.html",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "ZRMJHB4BE6MKERZDSJOXUWGO4GOGIPTI"
+    }
+  ],
+  "pages": [
+    {
+      "at": "2026-11-08T12:42:42.522091+00:00",
+      "http_status": 200,
+      "params": {
+        "url": "https://www.virginmarybns.ie/enrolments.html",
+        "matchType": "exact",
+        "output": "json",
+        "fl": "timestamp,original,mimetype,statuscode,digest",
+        "filter": "statuscode:200",
+        "collapse": "digest",
+        "limit": "200",
+        "showResumeKey": "true"
+      }
+    }
+  ],
+  "status": "index_complete",
+  "capture_count": 11
+}

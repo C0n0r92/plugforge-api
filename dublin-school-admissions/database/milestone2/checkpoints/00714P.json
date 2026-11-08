@@ -1,0 +1,135 @@
+{
+  "roll": "00714P",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.stmarysbnslucan.com/page/Admissions/355589/Index.html",
+      "final_url": "https://www.stmarysbnslucan.com/page/Admissions/355589/Index.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://storage.googleapis.com/iclasscrm_files/4756/Content/2026/6/vr86-National_Primary_Survey_1.pdf",
+      "final_url": "https://storage.googleapis.com/iclasscrm_files/4756/Content/2026/6/vr86-National_Primary_Survey_1.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Results of Primary School Survey"
+    },
+    {
+      "url": "https://storage.googleapis.com/iclasscrm_files/4756/Content/2026/6/nr56-PA_BNS_Newsletter_Summer_2026.pdf?45258",
+      "final_url": "https://storage.googleapis.com/iclasscrm_files/4756/Content/2026/6/nr56-PA_BNS_Newsletter_Summer_2026.pdf?45258",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "PA News"
+    },
+    {
+      "url": "https://storage.googleapis.com/iclasscrm_files/4756/Content/2026/10/lk43-Calendar_20262027_4.pdf?6930",
+      "final_url": "https://storage.googleapis.com/iclasscrm_files/4756/Content/2026/10/lk43-Calendar_20262027_4.pdf?6930",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Holidays"
+    },
+    {
+      "url": "https://www.stmarysbnslucan.com/sitemap.xml",
+      "final_url": "https://www.stmarysbnslucan.com/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.stmarysbnslucan.com/page/Policies/26759/Index.html",
+      "final_url": "https://www.stmarysbnslucan.com/page/Policies/26759/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://storage.googleapis.com/iclasscrm_files/4756/Images/Content/2026/292/cl14-Admissions_Policy_2026_and_2027.pdf",
+      "final_url": "https://storage.googleapis.com/iclasscrm_files/4756/Images/Content/2026/292/cl14-Admissions_Policy_2026_and_2027.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions Policy"
+    },
+    {
+      "url": "https://www.stmarysbnslucan.com/page/Parents-Association/27632/Index.html",
+      "final_url": "https://www.stmarysbnslucan.com/page/Parents-Association/27632/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "About Us"
+    },
+    {
+      "url": "https://www.stmarysbnslucan.com/",
+      "final_url": "https://www.stmarysbnslucan.com/",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "http://www.stmarysbnslucan.com/Content/2022/2/uq76-COVIDPolicyStatement2021.pdf",
+      "final_url": "http://www.stmarysbnslucan.com/Content/2022/2/uq76-COVIDPolicyStatement2021.pdf",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "COVID-19 Policy Statement"
+    },
+    {
+      "url": "http://www.stmarysbnslucan.com/Content/2023/9/ap50-Acceptable_Usage_Policy_1.pdf",
+      "final_url": "http://www.stmarysbnslucan.com/Content/2023/9/ap50-Acceptable_Usage_Policy_1.pdf",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "Acceptable Use Policy"
+    },
+    {
+      "url": "https://www.stmarysbnslucan.com/Content/2025/5/fo25-Application_Form_1.pdf?30",
+      "final_url": "https://www.stmarysbnslucan.com/Content/2025/5/fo25-Application_Form_1.pdf?30",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Application Form for Mainstream"
+    },
+    {
+      "url": "http://www.stmarysbnslucan.com/Content/2025/6/jg32-Mobile_Phone_and_Electronic_Device_Policy2.pdf?14586",
+      "final_url": "http://www.stmarysbnslucan.com/Content/2025/6/jg32-Mobile_Phone_and_Electronic_Device_Policy2.pdf?14586",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "Mobile Phone and Electronic Device Policy"
+    },
+    {
+      "url": "http://www.stmarysbnslucan.com/Content/2025/10/ph52-Application_form_for_Autism_Class_pdf_1.pdf?0",
+      "final_url": "http://www.stmarysbnslucan.com/Content/2025/10/ph52-Application_form_for_Autism_Class_pdf_1.pdf?0",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "Application Form for ASD Class"
+    },
+    {
+      "url": "http://www.stmarysbnslucan.com/Page/Terms,-Conditions-and-Privacy-Policy/25886/Index.html",
+      "final_url": "http://www.stmarysbnslucan.com/Page/Terms,-Conditions-and-Privacy-Policy/25886/Index.html",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "Terms, Conditions and Privacy Policy"
+    },
+    {
+      "url": "http://www.stmarysbnslucan.com/Page/Cookie-Policy/25595/Index.html",
+      "final_url": "http://www.stmarysbnslucan.com/Page/Cookie-Policy/25595/Index.html",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "Cookie Policy"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "00714P",
+      "url": "https://www.stmarysbnslucan.com/page/Policies/26759/Index.html",
+      "label": "Policies",
+      "sha256": "e19e939e62737e1f01ec12e593d1b966686f4a7c8d2b9e4645b7248229c3feef",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/00714P_e19e939e62737e1f01ec.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 935
+    }
+  ],
+  "pending_links": [],
+  "elapsed_seconds": 35.95,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:48:12+0000"
+}

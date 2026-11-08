@@ -1,0 +1,1 @@
+CREATE TABLE IF NOT EXISTS notice_publication_assertion(assertion_id TEXT PRIMARY KEY,notice_id TEXT NOT NULL REFERENCES notice,publication_date TEXT NOT NULL,date_precision TEXT NOT NULL,source_printed_text TEXT NOT NULL,evidence_id TEXT REFERENCES evidence,raw_id TEXT REFERENCES raw_record);

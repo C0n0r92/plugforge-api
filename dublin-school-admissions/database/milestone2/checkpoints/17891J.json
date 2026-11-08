@@ -1,0 +1,88 @@
+{
+  "roll": "17891J",
+  "status": "bounded_search_no_new_notice_found",
+  "attempts": [
+    {
+      "url": "https://www.scoilmhuiremountsackville.ie",
+      "final_url": "https://www.scoilmhuiremountsackville.ie",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.scoilmhuiremountsackville.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://www.scoilmhuiremountsackville.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "http_access_denied_403",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://www.scoilmhuiremountsackville.ie/enrolment/",
+      "final_url": "https://www.scoilmhuiremountsackville.ie/enrolment/",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": "Enrolment"
+    },
+    {
+      "url": "https://www.scoilmhuiremountsackville.ie/sitemap_index.xml",
+      "final_url": "https://www.scoilmhuiremountsackville.ie/sitemap_index.xml",
+      "status": "http_access_denied_403",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.scoilmhuiremountsackville.ie/policies/",
+      "final_url": "https://www.scoilmhuiremountsackville.ie/policies/",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.scoilmhuiremountsackville.ie/parents/school-calendar/",
+      "final_url": "https://www.scoilmhuiremountsackville.ie/parents/school-calendar/",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": "School Calendar"
+    },
+    {
+      "url": "https://www.scoilmhuiremountsackville.ie/parents/primary-school-patronage-survey/",
+      "final_url": "https://www.scoilmhuiremountsackville.ie/parents/primary-school-patronage-survey/",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": "Primary School Patronage Survey"
+    },
+    {
+      "url": "https://www.scoilmhuiremountsackville.ie/parents/on-site-childcare-provision/",
+      "final_url": "https://www.scoilmhuiremountsackville.ie/parents/on-site-childcare-provision/",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": "On-Site Childcare Provision"
+    },
+    {
+      "url": "https://www.scoilmhuiremountsackville.ie/parents/curriculum/",
+      "final_url": "https://www.scoilmhuiremountsackville.ie/parents/curriculum/",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": "Curriculum"
+    },
+    {
+      "url": "https://www.scoilmhuiremountsackville.ie/parents/after-school-activities-clubs/",
+      "final_url": "https://www.scoilmhuiremountsackville.ie/parents/after-school-activities-clubs/",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": "After School Activities & Clubs"
+    },
+    {
+      "url": "https://www.scoilmhuiremountsackville.ie/parents/",
+      "final_url": "https://www.scoilmhuiremountsackville.ie/parents/",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": "Parents"
+    }
+  ],
+  "documents": [],
+  "pending_links": [],
+  "elapsed_seconds": 5.47,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:51:03+0000"
+}

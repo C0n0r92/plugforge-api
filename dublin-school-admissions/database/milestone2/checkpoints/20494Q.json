@@ -1,0 +1,53 @@
+{
+  "roll": "20494Q",
+  "status": "bounded_search_no_new_notice_found",
+  "attempts": [
+    {
+      "url": "https://www.rvetns.ie/enrollments/",
+      "final_url": "https://www.rvetns.ie/enrollments/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Enrollments"
+    },
+    {
+      "url": "https://ad7ced3050.clvaw-cdnwnd.com/1a384e38c8bd37a62a6ecd2c65cf3caf/200000016-8930e89310/Admissions%20notice%202027-2028%20website-3.pdf?ph=ad7ced3050",
+      "final_url": "https://ad7ced3050.clvaw-cdnwnd.com/1a384e38c8bd37a62a6ecd2c65cf3caf/200000016-8930e89310/Admissions%20notice%202027-2028%20website-3.pdf?ph=ad7ced3050",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "Admissions Statement, 2027/28"
+    },
+    {
+      "url": "https://www.rvetns.ie/sitemap.xml",
+      "final_url": "https://www.rvetns.ie/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.rvetns.ie/policies/",
+      "final_url": "https://www.rvetns.ie/policies/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://ad7ced3050.clvaw-cdnwnd.com/1a384e38c8bd37a62a6ecd2c65cf3caf/200000010-611bb611bd/Admissions%20Policy%2C%20ratified%2C%20May%202023.pdf?ph=ad7ced3050",
+      "final_url": "https://ad7ced3050.clvaw-cdnwnd.com/1a384e38c8bd37a62a6ecd2c65cf3caf/200000010-611bb611bd/Admissions%20Policy%2C%20ratified%2C%20May%202023.pdf?ph=ad7ced3050",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "Admissions Policy"
+    },
+    {
+      "url": "https://www.rvetns.ie/",
+      "final_url": "https://www.rvetns.ie/",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    }
+  ],
+  "documents": [],
+  "pending_links": [],
+  "elapsed_seconds": 11.09,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:11:41+0000"
+}

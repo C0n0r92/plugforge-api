@@ -1,0 +1,81 @@
+{
+  "roll": "15622S",
+  "status": "bounded_search_no_new_notice_found",
+  "attempts": [
+    {
+      "url": "https://www.stpatricksns.com",
+      "final_url": "https://www.stpatricksns.com",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.stpatricksns.com/sitemap.xml",
+      "final_url": "https://www.stpatricksns.com/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.stpatricksns.com/parents/staff",
+      "final_url": "https://www.stpatricksns.com/parents/staff",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Staff"
+    },
+    {
+      "url": "https://www.stpatricksns.com/parents/palmerstown-credit-union",
+      "final_url": "https://www.stpatricksns.com/parents/palmerstown-credit-union",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Palmerstown Credit Union"
+    },
+    {
+      "url": "https://www.stpatricksns.com/parents/lotto",
+      "final_url": "https://www.stpatricksns.com/parents/lotto",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Lotto"
+    },
+    {
+      "url": "https://www.stpatricksns.com/parents/extra-curricular",
+      "final_url": "https://www.stpatricksns.com/parents/extra-curricular",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Extra Curricular"
+    },
+    {
+      "url": "https://www.stpatricksns.com/parents/calendar",
+      "final_url": "https://www.stpatricksns.com/parents/calendar",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Calendar"
+    },
+    {
+      "url": "https://www.stpatricksns.com/parents/book-creator-codes",
+      "final_url": "https://www.stpatricksns.com/parents/book-creator-codes",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Book Creator Codes"
+    },
+    {
+      "url": "https://www.stpatricksns.com/parents",
+      "final_url": "https://www.stpatricksns.com/parents",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents"
+    },
+    {
+      "url": "https://www.stpatricksns.com/our-school/policies",
+      "final_url": "https://www.stpatricksns.com/our-school/policies",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    }
+  ],
+  "documents": [],
+  "pending_links": [],
+  "elapsed_seconds": 28.14,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:01:35+0000"
+}

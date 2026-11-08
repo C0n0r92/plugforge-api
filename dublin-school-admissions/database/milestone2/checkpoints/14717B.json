@@ -1,0 +1,188 @@
+{
+  "roll": "14717B",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://rathgarns.ie",
+      "final_url": "https://rathgarns.ie",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://rathgarns.ie/admissions",
+      "final_url": "https://rathgarns.ie/admissions",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://rathgarns.ie/s/RNS-Admissions-Notice-2027-2028.pdf",
+      "final_url": "https://static1.squarespace.com/static/52fa40cde4b0eea0230c1bd7/t/6aba496c251ca64a2ca7c722/1790593388302/RNS+Admissions+Notice+2027-2028.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions Notice 2027-2028"
+    },
+    {
+      "url": "https://rathgarns.ie/s/Admissions-Policy-2025-signed.pdf",
+      "final_url": "https://static1.squarespace.com/static/52fa40cde4b0eea0230c1bd7/t/68b1a8b8e9ef762c1bfc4e21/1756473528769/Admissions+Policy+2025+%28signed%29.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Current Admissions Policy"
+    },
+    {
+      "url": "https://rathgarns.ie/s/ApplicationProcedure.pdf",
+      "final_url": "https://static1.squarespace.com/static/52fa40cde4b0eea0230c1bd7/t/6033aa3eb065b425a5ea4642/1613998654286/ApplicationProcedure.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Applications Procedure"
+    },
+    {
+      "url": "https://rathgarns.ie/sitemap.xml",
+      "final_url": "https://rathgarns.ie/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://rathgarns.ie/policies",
+      "final_url": "https://rathgarns.ie/policies",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://rathgarns.ie/s/signed-safeguarding-2026.pdf",
+      "final_url": "https://static1.squarespace.com/static/52fa40cde4b0eea0230c1bd7/t/6abe194b19ec95799d6a8755/1790843211328/signed+safeguarding+2026.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download our Notification of Child Safeguarding Review"
+    },
+    {
+      "url": "https://rathgarns.ie/s/css1-safeguarding-2026.pdf",
+      "final_url": "https://static1.squarespace.com/static/52fa40cde4b0eea0230c1bd7/t/6abe1932ce079705dae5d0f2/1790843186948/css1+safeguarding+2026.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download our Child Safeguarding Statement"
+    },
+    {
+      "url": "https://rathgarns.ie/s/Code-of-Behaviour-msgh.pdf",
+      "final_url": "https://static1.squarespace.com/static/52fa40cde4b0eea0230c1bd7/t/66fcf3740e29c46dbece4198/1727853429484/Code+of+Behaviour.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download our Code of Behaviour Document"
+    },
+    {
+      "url": "https://rathgarns.ie/s/Acceptable-Usage-Policy-May-2020.pdf",
+      "final_url": "https://static1.squarespace.com/static/52fa40cde4b0eea0230c1bd7/t/628ce467460147774817caff/1653400682463/Acceptable+Usage+Policy+May+2020.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download our Acceptable Usage Policy"
+    },
+    {
+      "url": "https://rathgarns.ie/parents-committee",
+      "final_url": "https://rathgarns.ie/parents-committee",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents' Association"
+    },
+    {
+      "url": "https://rathgarns.ie/s/Attendance-Policy-2024.pdf",
+      "final_url": "https://static1.squarespace.com/static/52fa40cde4b0eea0230c1bd7/t/65e71f12ea8a30383ed7a2a8/1709645586974/Attendance+Policy+2024.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download our Attendance Policy"
+    },
+    {
+      "url": "https://rathgarns.ie/s/Anti-Bullying-Statement-2024-25.pdf",
+      "final_url": "https://static1.squarespace.com/static/52fa40cde4b0eea0230c1bd7/t/66fbb41c0e16e91ff17046a2/1727771676520/Anti+Bullying+Statement+2024+25.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download our Notification of Anti-Bullying Policy Review"
+    },
+    {
+      "url": "https://rathgarns.ie/s/Bi-Cinealtas-2025-signed.pdf",
+      "final_url": "https://static1.squarespace.com/static/52fa40cde4b0eea0230c1bd7/t/68b1a988011cac646af147db/1756473736247/Bi+Cinealtas+2025+%28signed%29.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download our Bí Cineálta Policy"
+    },
+    {
+      "url": "https://rathgarns.ie/s/RNS-Application-Form-Junior-Infants-2027.pdf",
+      "final_url": "https://static1.squarespace.com/static/52fa40cde4b0eea0230c1bd7/t/6aba49466b6e0560fb64bdba/1790593350475/RNS+Application+Form+Junior+Infants+2027.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Application Form Junior Infants 2027-28"
+    },
+    {
+      "url": "https://rathgarns.ie/s/Smartphone-Electronic-Device-Policy.pdf",
+      "final_url": "https://static1.squarespace.com/static/52fa40cde4b0eea0230c1bd7/t/651e6b7403af2010d7d6d7ac/1696492404699/Smartphone+%26+Electronic+Device+Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download our Phone and Electronic Devices Policy"
+    },
+    {
+      "url": "https://rathgarns.ie/s/RNS-Application-Form-Senior-Infants-to-6th-Class-20.pdf",
+      "final_url": "https://static1.squarespace.com/static/52fa40cde4b0eea0230c1bd7/t/68ca555e3cae9a3b32b1a679/1758090590132/RNS+Application+Form+Senior+Infants+to+6th+Class+2.0.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Application Form Senior Infants to 6th Class"
+    },
+    {
+      "url": "https://rathgarns.ie/s/Data_Protection_Policy_RevisedJun18.pdf",
+      "final_url": "https://static1.squarespace.com/static/52fa40cde4b0eea0230c1bd7/t/60227509d33b484d97e0e4cf/1612870921840/Data_Protection_Policy_RevisedJun18.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download our Data Protection Policy"
+    },
+    {
+      "url": "https://rathgarns.ie/s/Complaints-procedure.pdf",
+      "final_url": "https://static1.squarespace.com/static/52fa40cde4b0eea0230c1bd7/t/602275f4e4062e16d1193d5d/1612871156278/Complaints+procedure.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download our Complaints Procedure Policy"
+    },
+    {
+      "url": "https://rathgarns.ie/s/Child-Protection-Policy.pdf",
+      "final_url": "https://static1.squarespace.com/static/52fa40cde4b0eea0230c1bd7/t/571a42f21bbee032f7ae354d/1461338866951/Child-Protection-Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download our Child Protection Policy"
+    },
+    {
+      "url": "https://rathgarns.ie/s/Anti-Bullying-Policy.pdf",
+      "final_url": "https://static1.squarespace.com/static/52fa40cde4b0eea0230c1bd7/t/6193cd6f87a65d073bdb953a/1637076339314/Anti+Bullying+Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download our Anti-Bullying Policy"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "14717B",
+      "url": "https://static1.squarespace.com/static/52fa40cde4b0eea0230c1bd7/t/6033aa3eb065b425a5ea4642/1613998654286/ApplicationProcedure.pdf",
+      "label": "Applications Procedure",
+      "sha256": "0298229bf2898212c6c1ff1223cc68e9838ac51aa978dc4158a30465a1c28adf",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/14717B_0298229bf2898212c6c1.txt",
+      "source_file": "database/milestone2/cache/0298229bf2898212c6c1ff1223cc68e9838ac51aa978dc4158a30465a1c28adf.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 2620
+    },
+    {
+      "roll": "14717B",
+      "url": "https://static1.squarespace.com/static/52fa40cde4b0eea0230c1bd7/t/6aba49466b6e0560fb64bdba/1790593350475/RNS+Application+Form+Junior+Infants+2027.pdf",
+      "label": "Application Form Junior Infants 2027-28",
+      "sha256": "5a3d50f3a4062cecdb0554509854fdfc9e09ab79ec538b5f598dde37ea477c8a",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/14717B_5a3d50f3a4062cecdb05.txt",
+      "source_file": "database/milestone2/cache/5a3d50f3a4062cecdb0554509854fdfc9e09ab79ec538b5f598dde37ea477c8a.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 2232
+    }
+  ],
+  "pending_links": [],
+  "elapsed_seconds": 89.25,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:50:22+0000"
+}

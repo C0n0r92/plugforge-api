@@ -1,0 +1,79 @@
+{
+  "roll": "19872P",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.scoilcm.ie",
+      "final_url": "https://www.scoilcm.ie",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.scoilcm.ie/sitemap.xml",
+      "final_url": "https://www.scoilcm.ie/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.scoilcm.ie/policies.html",
+      "final_url": "https://www.scoilcm.ie/policies.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Polasaithe Scoile/Policies"
+    },
+    {
+      "url": "https://www.scoilcm.ie/uploads/8/4/9/1/8491921/css_3-2.pdf",
+      "final_url": "https://www.scoilcm.ie/uploads/8/4/9/1/8491921/css_3-2.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Fógra Athbhreithnithe"
+    },
+    {
+      "url": "https://www.scoilcm.ie/uploads/8/4/9/1/8491921/20260430_132044.pdf",
+      "final_url": "https://www.scoilcm.ie/uploads/8/4/9/1/8491921/20260430_132044.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Fógra faoi athbhreithniú bliantúil an Bhoird"
+    },
+    {
+      "url": "https://www.scoilcm.ie/uploads/8/4/9/1/8491921/parental-complaints-procedure_v4-final.pdf",
+      "final_url": "https://www.scoilcm.ie/uploads/8/4/9/1/8491921/parental-complaints-procedure_v4-final.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Nós imeachta maidir le gearáin a dhéanamh"
+    },
+    {
+      "url": "https://docs.google.com/document/d/1MI8lCs4kY1uwIGYMNNt1VHgJq3Is7w1QuiezMpuXlqE/edit?usp=sharing",
+      "final_url": "https://docs.google.com/document/d/1MI8lCs4kY1uwIGYMNNt1VHgJq3Is7w1QuiezMpuXlqE/edit?usp=sharing",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Polasaí Iontrála"
+    },
+    {
+      "url": "https://docs.google.com/sitemap.xml",
+      "final_url": "https://docs.google.com/sitemap.xml",
+      "status": "robots_disallow",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19872P",
+      "url": "https://www.scoilcm.ie",
+      "label": "School homepage",
+      "sha256": "cfe8b60785d63d20e7934ba04ce92b010f0d55636ac6c811b55021fa43f85fd5",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19872P_cfe8b60785d63d20e793.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 716
+    }
+  ],
+  "pending_links": [],
+  "elapsed_seconds": 15.86,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:57:16+0000"
+}

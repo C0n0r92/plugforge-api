@@ -1,0 +1,562 @@
+{
+  "roll": "09492W",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.balscadden.com/cmsfiles/items/downloads/9134-AdmissionsNoticeBNSJI2027.docx",
+      "final_url": "https://www.balscadden.com/cmsfiles/items/downloads/9134-AdmissionsNoticeBNSJI2027.docx",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://www.balscadden.com/news/admissions-notice-bns-ji-2027pdf/?googletranslate=true",
+      "final_url": "https://www.balscadden.com/news/admissions-notice-bns-ji-2027pdf/?googletranslate=true",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "https://view.officeapps.live.com/op/embed.aspx?src=https://www.balscadden.com/cmsfiles/items/downloads/9134-AdmissionsNoticeBNSJI2027.docx",
+      "final_url": "https://view.officeapps.live.com/op/embed.aspx?src=https://www.balscadden.com/cmsfiles/items/downloads/9134-AdmissionsNoticeBNSJI2027.docx",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "This is an embedded Microsoft Office document, powered by Office ."
+    },
+    {
+      "url": "https://www.balscadden.com/news/admissions-notice-bns-ji-2027pdf/",
+      "final_url": "https://www.balscadden.com/news/admissions-notice-bns-ji-2027pdf/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions Notice BNS JI 2027.pdf"
+    },
+    {
+      "url": "https://www.balscadden.com/documentlink/144/?open=true",
+      "final_url": "https://view.officeapps.live.com/op/embed.aspx?src=https://www.balscadden.com/cmsfiles/items/downloads/9134-AdmissionsNoticeBNSJI2027.docx",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Admissions Notice BNS JI 2027.pdf"
+    },
+    {
+      "url": "https://www.balscadden.com/admin/?open=/news/admissions-notice-bns-ji-2027pdf/?googletranslate=true",
+      "final_url": "https://www.balscadden.com/admin/?open=/news/admissions-notice-bns-ji-2027pdf/?googletranslate=true",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.balscadden.com/admin/?open=/news/admissions-notice-bns-ji-2027pdf/",
+      "final_url": "https://www.balscadden.com/admin/?open=/news/admissions-notice-bns-ji-2027pdf/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.balscadden.com/new-parents/admissions/?googletranslate=true",
+      "final_url": "https://www.balscadden.com/new-parents/admissions/?googletranslate=true",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "https://www.balscadden.com/documentlink/148/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/568/docletter/20261006014423_1_Admissions_2027_letter_inviting_applications_PDF.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Admissions 2027 letter inviting applications PDF.pdf"
+    },
+    {
+      "url": "https://www.balscadden.com/new-parents/admissions/",
+      "final_url": "https://www.balscadden.com/new-parents/admissions/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://www.balscadden.com/admin/?open=/new-parents/admissions/?googletranslate=true",
+      "final_url": "https://www.balscadden.com/admin/?open=/new-parents/admissions/?googletranslate=true",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.balscadden.com/admin/?open=/new-parents/admissions/",
+      "final_url": "https://www.balscadden.com/admin/?open=/new-parents/admissions/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.balscadden.com/documentlink/147/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/568/docletter/20261006014036_75_Admissions_Policy_BNS_2026_FINAL_PDF.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Admissions Policy BNS 2026 FINAL PDF.pdf"
+    },
+    {
+      "url": "https://www.balscadden.com/documentlink/149/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/568/docletter/20261102095930_22_Admissions_Application_Form_2027-28.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Admissions Application Form 2027-28.pdf"
+    },
+    {
+      "url": "https://www.balscadden.com/sitemap.xml",
+      "final_url": "https://www.balscadden.com/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.balscadden.com/policies/",
+      "final_url": "https://www.balscadden.com/policies/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies Polasaithe"
+    },
+    {
+      "url": "https://www.balscadden.com/documentlink/105/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/568/docletter/20230703120117_100_Admissions_Section62_Letter-patron.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Admissions Section62 Letter-patron"
+    },
+    {
+      "url": "https://www.balscadden.com/documentlink/66/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/568/docletter/20210909101855_52_Advice_for_Parents_September_2021.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Covid-19 Advice for Parents September 2021"
+    },
+    {
+      "url": "https://www.balscadden.com/documentlink/81/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/568/docletter/20220107010321_3_Advice_For_Parents_January22.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Covid-19 Updated Advice For Parents January2022_Symptoms"
+    },
+    {
+      "url": "https://www.balscadden.com/documentlink/114/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/568/docletter/20240304121212_72_Parental_Complaints_Procedure_Policy_BNS_2024.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Parental Complaints Procedure 2024.pdf"
+    },
+    {
+      "url": "https://www.balscadden.com/documentlink/140/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/568/docletter/20260611094309_57_Child_Safeguarding_Statement_Risk_Assessment_Review_documents_2025.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Child Safeguarding Statement Risk Assessment Review documents 2025.pdf"
+    },
+    {
+      "url": "https://www.balscadden.com/documentlink/135/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/568/docletter/20250930105752_41_Admissions_Policy_BNS_September_2025_FINAL.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Admissions Policy BNS September 2025 FINAL.pdf"
+    },
+    {
+      "url": "https://www.balscadden.com/policies/?googletranslate=true",
+      "final_url": "https://www.balscadden.com/policies/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.balscadden.com/our-school/parents-association/",
+      "final_url": "https://www.balscadden.com/our-school/parents-association/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents' Association"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "09492W",
+      "url": "https://www.balscadden.com/cmsfiles/items/downloads/9134-AdmissionsNoticeBNSJI2027.docx",
+      "label": "Prior school admissions section",
+      "sha256": "680768bc55a6557a9e053d78db33de8d39449b34366c8bbcd9bc04ca46c60bda",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/09492W_680768bc55a6557a9e05.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 3191
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.balscadden.com/our-school/parents-association/?googletranslate=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balscadden.com/new-parents/videos/",
+      "label": "Videos",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balscadden.com/new-parents/booklists/",
+      "label": "Stationery Lists",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balscadden.com/new-parents/afterschool-club/",
+      "label": "Afterschool Club",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balscadden.com/new-parents/",
+      "label": "New Parents Tuismitheoirí Nua",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balscadden.com/documentlink/99/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balscadden.com/documentlink/98/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balscadden.com/documentlink/81/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balscadden.com/documentlink/67/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balscadden.com/documentlink/66/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balscadden.com/documentlink/63/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balscadden.com/documentlink/63/?open=true",
+      "label": "Poster with tips for parents 3rd-6th class",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balscadden.com/documentlink/60/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balscadden.com/documentlink/52/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balscadden.com/documentlink/51/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balscadden.com/documentlink/50/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balscadden.com/documentlink/48/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balscadden.com/documentlink/47/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balscadden.com/documentlink/44/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balscadden.com/documentlink/42/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balscadden.com/documentlink/41/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balscadden.com/documentlink/38/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balscadden.com/documentlink/37/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balscadden.com/documentlink/35/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balscadden.com/documentlink/33/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balscadden.com/documentlink/31/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balscadden.com/documentlink/29/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balscadden.com/documentlink/24/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balscadden.com/documentlink/23/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balscadden.com/documentlink/149/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balscadden.com/documentlink/148/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balscadden.com/documentlink/147/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balscadden.com/documentlink/144/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balscadden.com/documentlink/143/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balscadden.com/documentlink/140/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balscadden.com/documentlink/135/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balscadden.com/documentlink/130/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balscadden.com/documentlink/128/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balscadden.com/documentlink/120/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balscadden.com/documentlink/118/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balscadden.com/documentlink/117/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balscadden.com/documentlink/116/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balscadden.com/documentlink/114/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balscadden.com/documentlink/113/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balscadden.com/documentlink/105/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balscadden.com/documentlink/100/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balscadden.com/admin/?open=/policies/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balscadden.com/admin/?open=/policies/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balscadden.com/admin/?open=/our-school/parents-association/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balscadden.com",
+      "label": "School homepage",
+      "via": "home"
+    },
+    {
+      "url": "https://www.balscadden.com/documentlink/60/?open=true",
+      "label": "AUP Internet Usage policy SBNS 2021",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balscadden.com/documentlink/99/?open=true",
+      "label": "Anti-Bullying Policy SBNS 2022",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balscadden.com/documentlink/100/?open=true",
+      "label": "Anti-Bullying Policy Notification-Review 2022",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balscadden.com/documentlink/113/?open=true",
+      "label": "Homework Policy BNS-2023.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balscadden.com/documentlink/128/?open=true",
+      "label": "Support Teaching and Special Needs Policy BNS 2024.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balscadden.com/documentlink/120/?open=true",
+      "label": "English as an Additional Language EAL BNS policy 2024.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balscadden.com/documentlink/118/?open=true",
+      "label": "Well Being Policy BNS 2024.docx",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balscadden.com/documentlink/117/?open=true",
+      "label": "Mobile Phone Policy BNS 2024.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balscadden.com/documentlink/116/?open=true",
+      "label": "Social Media Policy SBNS 2024.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balscadden.com/documentlink/130/?open=true",
+      "label": "Critical Incident Policy and Plan SBNS 2025.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balscadden.com/documentlink/52/?open=true",
+      "label": "Work Experience Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balscadden.com/documentlink/51/?open=true",
+      "label": "Induction Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balscadden.com/documentlink/48/?open=true",
+      "label": "Substance Misuse Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balscadden.com/documentlink/47/?open=true",
+      "label": "Sports Day Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balscadden.com/documentlink/42/?open=true",
+      "label": "Parents as Partners Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balscadden.com/documentlink/41/?open=true",
+      "label": "Healthy Eating Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balscadden.com/documentlink/38/?open=true",
+      "label": "Attendance Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balscadden.com/documentlink/37/?open=true",
+      "label": "School Uniform Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balscadden.com/documentlink/35/?open=true",
+      "label": "Data Protection Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balscadden.com/documentlink/33/?open=true",
+      "label": "Anti-Bullying Policy Appendices",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balscadden.com/documentlink/31/?open=true",
+      "label": "After School Sports Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balscadden.com/documentlink/29/?open=true",
+      "label": "Medication Administration,Illness and Accident Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balscadden.com/cmsfiles/policies/privacy/",
+      "label": "Website Privacy Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balscadden.com/cmsfiles/policies/cookie/",
+      "label": "Cookie Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 64.19,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:01:17+0000"
+}

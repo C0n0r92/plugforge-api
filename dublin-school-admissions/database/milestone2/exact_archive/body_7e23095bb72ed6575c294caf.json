@@ -1,0 +1,27 @@
+{
+  "roll": "04992R",
+  "capture": {
+    "timestamp": "20201028182150",
+    "original": "http://www.sacredheartballygall.ie/wp-content/uploads/2020/10/Annual-Admissions-Notice-2122.pdf",
+    "mimetype": "application/pdf",
+    "statuscode": "200",
+    "digest": "WDVOH3FSOWG727KDQJIUGDUJAYLUNI6T"
+  },
+  "original_url": "http://www.sacredheartballygall.ie/wp-content/uploads/2020/10/Annual-Admissions-Notice-2122.pdf",
+  "archived_url": "https://web.archive.org/web/20201028182150/http://www.sacredheartballygall.ie/wp-content/uploads/2020/10/Annual-Admissions-Notice-2122.pdf",
+  "attempted_at": "2026-11-08T13:01:14.445703+00:00",
+  "linked_from_capture": null,
+  "http_status": 200,
+  "headers": {
+    "Content-Type": "application/pdf",
+    "memento-datetime": "Wed, 28 Oct 2020 18:21:50 GMT"
+  },
+  "bytes": 139894,
+  "payload_sha256": "e7f9e653453e28def8b28a8a9208717a13991396a166cbfc84f7a0f54098792e",
+  "format": "pdf",
+  "source_file": "database/milestone2/cache/e7f9e653453e28def8b28a8a9208717a13991396a166cbfc84f7a0f54098792e.pdf",
+  "parse_stderr": "",
+  "status": "archived_body_retrieved_requires_manual_evidence_review",
+  "text_file": "database/milestone2/evidence/exact_04992R_e7f9e653453e28def8b2.txt",
+  "linked_document_candidates": []
+}

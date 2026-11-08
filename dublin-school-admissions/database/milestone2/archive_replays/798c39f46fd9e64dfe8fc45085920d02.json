@@ -1,0 +1,38 @@
+{
+  "task_id": "798c39f46fd9e64dfe8fc45085920d02",
+  "roll": "00697S",
+  "capture": {
+    "digest": "MTWOLIR476ZBWOGQ2HV622YM7I6JZUPG",
+    "mimetype": "text/html",
+    "original": "https://www.saintbrigids.ie/Special-Class-Admissions/Index.html",
+    "statuscode": "200",
+    "timestamp": "20251009144542"
+  },
+  "original_url": "https://www.saintbrigids.ie/Special-Class-Admissions/Index.html",
+  "archived_url": "https://web.archive.org/web/20251009144542/https://www.saintbrigids.ie/Special-Class-Admissions/Index.html",
+  "attempted_at": "2026-11-08T12:35:07.152316+00:00",
+  "http_status": 200,
+  "headers": {
+    "Content-Type": "text/html; charset=utf-8",
+    "memento-datetime": "Thu, 09 Oct 2025 14:45:42 GMT"
+  },
+  "payload_sha256": "866c68d1fce77d675011a1268ce29a998b6b950b85fdfcaca7933f222cde52a8",
+  "bytes": 46337,
+  "format": "html",
+  "archive_link_candidates": [
+    {
+      "url": "/web/20251009144542/https://www.saintbrigids.ie/Parent-Noticeboard/Index.html",
+      "label": "Parent Noticeboard"
+    },
+    {
+      "url": "/web/20251009144542/https://www.saintbrigids.ie/Mainstream-Admissions/Index.html",
+      "label": "Mainstream Admissions"
+    },
+    {
+      "url": "/web/20251009144542/https://www.saintbrigids.ie/Autism-Class-Admissions/Index.html",
+      "label": "Autism Class Admissions"
+    }
+  ],
+  "status": "archived_body_retrieved_requires_notice_evidence_review",
+  "text_file": "database/milestone2/evidence/archive_00697S_866c68d1fce77d675011.txt"
+}

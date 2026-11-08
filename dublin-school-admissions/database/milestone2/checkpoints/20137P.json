@@ -1,0 +1,262 @@
+{
+  "roll": "20137P",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.hopens.ie/mmohsns-annual-admissions-notice-26-27",
+      "final_url": "https://www.hopens.ie/mmohsns-annual-admissions-notice-26-27",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "MMOHSNS Annual Admissions Notice 26 27"
+    },
+    {
+      "url": "https://www.hopens.ie/copy-of-mmohsns-annual-admissions-not",
+      "final_url": "https://www.hopens.ie/copy-of-mmohsns-annual-admissions-not",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "MMOHSNS ACAT Admissions Not..."
+    },
+    {
+      "url": "https://www.hopens.ie/copy-of-child-safeguarding-annual-rev",
+      "final_url": "https://www.hopens.ie/copy-of-child-safeguarding-annual-rev",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "BOM MMOHSNS  Bí Cineálta Policy"
+    },
+    {
+      "url": "https://www.hopens.ie/admissions-2025-2026",
+      "final_url": "https://www.hopens.ie/admissions-2025-2026",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://www.hopens.ie/copy-of-mmohsns-acat-admissions-not",
+      "final_url": "https://www.hopens.ie/copy-of-mmohsns-acat-admissions-not",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "DI5 ACAT ApplicationTrial Process"
+    },
+    {
+      "url": "https://www.hopens.ie/single-post/enrolment-of-6th-class-pupils-in-post-primary-school-for-september-2023",
+      "final_url": "https://www.hopens.ie/single-post/enrolment-of-6th-class-pupils-in-post-primary-school-for-september-2023",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions/policy URL from public sitemap"
+    },
+    {
+      "url": "https://cpsetanta.ie/Content/2021/11/gt27-Annual_Admissions_Notice_2022202316256.pdf",
+      "final_url": "https://cpsetanta.ie/Content/2021/11/gt27-Annual_Admissions_Notice_2022202316256.pdf",
+      "status": "robots_permission_unestablished_http_301",
+      "via": "school_public_link",
+      "label": "https://cpsetanta.ie/Content/2021/11/gt27-Annual_Admissions_Notice_2022202316256.pdf"
+    },
+    {
+      "url": "https://hansfieldsecondary.ie/Content/2022/9/bk30-Annual_Admissions_Notice_2022_2023_W.pdf",
+      "final_url": "https://hansfieldsecondary.ie/Content/2022/9/bk30-Annual_Admissions_Notice_2022_2023_W.pdf",
+      "status": "robots_permission_unestablished_http_301",
+      "via": "school_public_link",
+      "label": "https://hansfieldsecondary.ie/Content/2022/9/bk30-Annual_Admissions_Notice_2022_2023_W.pdf"
+    },
+    {
+      "url": "https://www.hopens.ie/single-post/admissions-policy-for-the-2023-24-school-year",
+      "final_url": "https://www.hopens.ie/single-post/admissions-policy-for-the-2023-24-school-year",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions Policy for the 2023/24 school year"
+    },
+    {
+      "url": "https://www.hopens.ie/single-post/enrolment-of-6th-class-pupils-in-post-primary-school-for-september-2024",
+      "final_url": "https://www.hopens.ie/single-post/enrolment-of-6th-class-pupils-in-post-primary-school-for-september-2024",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions/policy URL from public sitemap"
+    },
+    {
+      "url": "https://www.hopens.ie/school-induction-booklet-2024",
+      "final_url": "https://www.hopens.ie/school-induction-booklet-2024",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Information Booklet"
+    },
+    {
+      "url": "https://www.hopens.ie/single-post/enrolment-of-6th-class-pupils-in-post-primary-school-for-september-2025",
+      "final_url": "https://www.hopens.ie/single-post/enrolment-of-6th-class-pupils-in-post-primary-school-for-september-2025",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions/policy URL from public sitemap"
+    },
+    {
+      "url": "https://hansfieldsecondary.ie/Page/Admissions-202425/39965/Index.html",
+      "final_url": "https://hansfieldsecondary.ie/Page/Admissions-202425/39965/Index.html",
+      "status": "robots_permission_unestablished_http_301",
+      "via": "school_public_link",
+      "label": "https://hansfieldsecondary.ie/Page/Admissions-202425/39965/Index.html"
+    },
+    {
+      "url": "https://cpsetanta.ie/page/Admissions/83837/Index.html",
+      "final_url": "https://cpsetanta.ie/page/Admissions/83837/Index.html",
+      "status": "robots_permission_unestablished_http_301",
+      "via": "school_public_link",
+      "label": "https://cpsetanta.ie/page/Admissions/83837/Index.html"
+    },
+    {
+      "url": "https://www.hopens.ie/copy-of-admissions-policy-2026-2027",
+      "final_url": "https://www.hopens.ie/copy-of-admissions-policy-2026-2027",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions Policy 2026 2027"
+    },
+    {
+      "url": "https://www.hopens.ie/admissions-3rd-class-2026-2072",
+      "final_url": "https://www.hopens.ie/admissions-3rd-class-2026-2072",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions/policy URL from public sitemap"
+    },
+    {
+      "url": "https://www.hopens.ie/sitemap.xml",
+      "final_url": "https://www.hopens.ie/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.hopens.ie/single-post/reminder-enrolment-mass-for-confirmation",
+      "final_url": "https://www.hopens.ie/single-post/reminder-enrolment-mass-for-confirmation",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions/policy URL from public sitemap"
+    },
+    {
+      "url": "https://www.hopens.ie/single-post/re-amendment-to-the-school-s-admission-policy",
+      "final_url": "https://www.hopens.ie/single-post/re-amendment-to-the-school-s-admission-policy",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions/policy URL from public sitemap"
+    },
+    {
+      "url": "https://www.into.ie/app/uploads/2022/11/Circulater-0075-2022.pdf",
+      "final_url": "https://www.into.ie/app/uploads/2022/11/Circulater-0075-2022.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "circular (0075/2022)"
+    },
+    {
+      "url": "https://www.hopens.ie/school-information-booklets",
+      "final_url": "https://www.hopens.ie/school-information-booklets",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Information Booklet"
+    },
+    {
+      "url": "https://www.hopens.ie/parental-complaints-procedure",
+      "final_url": "https://www.hopens.ie/parental-complaints-procedure",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parental Complaints Procedure"
+    },
+    {
+      "url": "https://www.hopens.ie/_files/ugd/214581_f1494e8d09f647458827653171190501.pdf",
+      "final_url": "https://www.hopens.ie/_files/ugd/214581_f1494e8d09f647458827653171190501.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parental Complaints Procedure.pdf"
+    },
+    {
+      "url": "https://www.hopens.ie/parent-helpers",
+      "final_url": "https://www.hopens.ie/parent-helpers",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parent Helpers"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "20137P",
+      "url": "https://www.hopens.ie/mmohsns-annual-admissions-notice-26-27",
+      "label": "MMOHSNS Annual Admissions Notice 26 27",
+      "sha256": "f33d075675344bac3b01697c6bb53585ac7bdb5433ecf45172c3ae2c79256ebe",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20137P_f33d075675344bac3b01.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 43
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.hopens.ie/parent-classes",
+      "label": "Parent Classes",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.hopens.ie/pages-sitemap.xml",
+      "label": "Public sitemap index child",
+      "via": "sitemap_child"
+    },
+    {
+      "url": "https://www.hopens.ie/pa-blog",
+      "label": "Parents' Association Blog",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.hopens.ie/pa",
+      "label": "Parents' Association",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.hopens.ie/blog-posts-sitemap.xml",
+      "label": "Public sitemap index child",
+      "via": "sitemap_child"
+    },
+    {
+      "url": "https://www.hopens.ie/blog-categories-sitemap.xml",
+      "label": "Public sitemap index child",
+      "via": "sitemap_child"
+    },
+    {
+      "url": "https://www.hopens.ie/admissions-policy",
+      "label": "https://www.hopens.ie/admissions-policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.hopens.ie",
+      "label": "School homepage",
+      "via": "home"
+    },
+    {
+      "url": "https://www.hopens.ie/uniform",
+      "label": "Uniform Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.hopens.ie/internet-usage",
+      "label": "Acceptable Use Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.hopens.ie/homework-policy",
+      "label": "Homework Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.hopens.ie/eatingpolicy",
+      "label": "Healthy Eating Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.hopens.ie/copy-of-mmoh-sns-covid-19",
+      "label": "Mobile Phone and Smart Device Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.hopens.ie/copy-of-code-of-behaviour",
+      "label": "Bí Cineálta Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 53.97,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:10:39+0000"
+}

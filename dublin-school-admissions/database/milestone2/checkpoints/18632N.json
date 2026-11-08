@@ -1,0 +1,250 @@
+{
+  "roll": "18632N",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.stjohnboscojbs.com/annual-admissions-notice-2026-2027/",
+      "final_url": "https://www.stjohnboscojbs.com/annual-admissions-notice-2026-2027/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Annual Admissions Notice 2026 – 2027"
+    },
+    {
+      "url": "https://www.stjohnboscojbs.com/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://www.stjohnboscojbs.com/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://www.stjohnboscojbs.com/wp-content/uploads/2018/11/Enrolment-Admissions-Policy-2012-updated-October-2018.pdf",
+      "final_url": "https://www.stjohnboscojbs.com/wp-content/uploads/2018/11/Enrolment-Admissions-Policy-2012-updated-October-2018.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Enrolment-Admissions Policy 2012 &#8211; updated October 2018"
+    },
+    {
+      "url": "https://www.stjohnboscojbs.com/wp-content/uploads/2018/09/Enrolment-Admissions-Policy-2012-updated-2018.pdf",
+      "final_url": "https://www.stjohnboscojbs.com/wp-content/uploads/2018/09/Enrolment-Admissions-Policy-2012-updated-2018.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Enrolment-Admissions Policy 2012 &#8211; updated 2018"
+    },
+    {
+      "url": "https://www.stjohnboscojbs.com/wp-content/uploads/2014/02/Enrolment-Admissions-Policy-2012.pdf",
+      "final_url": "https://www.stjohnboscojbs.com/wp-content/uploads/2014/02/Enrolment-Admissions-Policy-2012.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Enrolment-Admissions Policy 2012"
+    },
+    {
+      "url": "https://www.stjohnboscojbs.com/wp-content/uploads/2019/09/SI-Application-Form-September-2020-New-Admissions-Bill-05-11-2018.pdf",
+      "final_url": "https://www.stjohnboscojbs.com/wp-content/uploads/2019/09/SI-Application-Form-September-2020-New-Admissions-Bill-05-11-2018.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "SI Application Form September 2020 &#8211; New Admissions Bill 05 11 2018"
+    },
+    {
+      "url": "https://www.stjohnboscojbs.com/wp-content/uploads/2019/09/1st-C-Application-Form-September-2020-New-Admissions-Bill-05-11-2018.pdf",
+      "final_url": "https://www.stjohnboscojbs.com/wp-content/uploads/2019/09/1st-C-Application-Form-September-2020-New-Admissions-Bill-05-11-2018.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "1st C Application Form September 2020 &#8211; New Admissions Bill 05 11 2018"
+    },
+    {
+      "url": "https://www.stjohnboscojbs.com/wp-content/uploads/2018/11/SI-Application-Form-September-2019-New-Admissions-Bill-05-11-2018.pdf",
+      "final_url": "https://www.stjohnboscojbs.com/wp-content/uploads/2018/11/SI-Application-Form-September-2019-New-Admissions-Bill-05-11-2018.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "SI Application Form September 2019 &#8211; New Admissions Bill 05 11 2018"
+    },
+    {
+      "url": "https://www.stjohnboscojbs.com/wp-content/uploads/2018/11/SI-Application-Form-September-2019-New-Admissions-Bill-05-11-2018-1.pdf",
+      "final_url": "https://www.stjohnboscojbs.com/wp-content/uploads/2018/11/SI-Application-Form-September-2019-New-Admissions-Bill-05-11-2018-1.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "SI Application Form September 2019 &#8211; New Admissions Bill 05 11 2018"
+    },
+    {
+      "url": "https://www.stjohnboscojbs.com/wp-content/uploads/2018/11/Application-Form-September-2019-New-Admissions-Bill-05-11-2018.pdf",
+      "final_url": "https://www.stjohnboscojbs.com/wp-content/uploads/2018/11/Application-Form-September-2019-New-Admissions-Bill-05-11-2018.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Application Form September 2019 &#8211; New Admissions Bill 05 11 2018"
+    },
+    {
+      "url": "https://www.stjohnboscojbs.com/wp-content/uploads/2018/11/ASD-Class-Application-Form-New-Admissions-Bill-1.pdf",
+      "final_url": "https://www.stjohnboscojbs.com/wp-content/uploads/2018/11/ASD-Class-Application-Form-New-Admissions-Bill-1.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "ASD Class Application Form &#8211; New Admissions Bill"
+    },
+    {
+      "url": "https://www.stjohnboscojbs.com/wp-content/uploads/2018/11/1st-C-Application-Form-September-2019-New-Admissions-Bill-05-11-2018.pdf",
+      "final_url": "https://www.stjohnboscojbs.com/wp-content/uploads/2018/11/1st-C-Application-Form-September-2019-New-Admissions-Bill-05-11-2018.pdf",
+      "status": "transient_ReadTimeout",
+      "via": "public_wordpress_media_link",
+      "label": "1st C Application Form September 2019 &#8211; New Admissions Bill 05 11 2018"
+    },
+    {
+      "url": "https://www.stjohnboscojbs.com/wp-content/uploads/2018/11/1st-C-Application-Form-September-2019-New-Admissions-Bill-05-11-2018-1.pdf",
+      "final_url": "https://www.stjohnboscojbs.com/wp-content/uploads/2018/11/1st-C-Application-Form-September-2019-New-Admissions-Bill-05-11-2018-1.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "1st C Application Form September 2019 &#8211; New Admissions Bill 05 11 2018"
+    },
+    {
+      "url": "https://www.stjohnboscojbs.com/wp-content/uploads/2020/09/St-John-Bosco-JBS-Admission-Policy-2020.pdf",
+      "final_url": "https://www.stjohnboscojbs.com/wp-content/uploads/2020/09/St-John-Bosco-JBS-Admission-Policy-2020.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "St John Bosco JBS Admission Policy 2020"
+    },
+    {
+      "url": "https://www.stjohnboscojbs.com/enrol/",
+      "final_url": "https://www.stjohnboscojbs.com/enrol/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Enrolment"
+    },
+    {
+      "url": "https://www.stjohnboscojbs.com/wp-content/uploads/2023/03/St-John-Bosco-JBS-Admission-Policy-Updated-January-2023.pdf",
+      "final_url": "https://www.stjohnboscojbs.com/wp-content/uploads/2023/03/St-John-Bosco-JBS-Admission-Policy-Updated-January-2023.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "St John Bosco JBS Admission Policy Updated January 2023"
+    },
+    {
+      "url": "https://www.stjohnboscojbs.com/sitemap.xml",
+      "final_url": "https://www.stjohnboscojbs.com/sitemap_index.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.stjohnboscojbs.com/post-sitemap3.xml",
+      "final_url": "https://www.stjohnboscojbs.com/post-sitemap3.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.stjohnboscojbs.com/post-sitemap2.xml",
+      "final_url": "https://www.stjohnboscojbs.com/post-sitemap2.xml",
+      "status": "transient_ReadTimeout",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.stjohnboscojbs.com/post-sitemap.xml",
+      "final_url": "https://www.stjohnboscojbs.com/post-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.stjohnboscojbs.com/annual-admission-notice/",
+      "final_url": "https://www.stjohnboscojbs.com/annual-admission-notice/",
+      "status": "ok",
+      "via": "sitemap_link",
+      "label": "Admission URL from sitemap"
+    },
+    {
+      "url": "http://www.stjohnboscojbs.com/wp-content/uploads/2018/11/ASD-Class-Application-Form-New-Admissions-Bill-1.pdf",
+      "final_url": "http://www.stjohnboscojbs.com/wp-content/uploads/2018/11/ASD-Class-Application-Form-New-Admissions-Bill-1.pdf",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "sitemap_link",
+      "label": "Admission URL from sitemap"
+    },
+    {
+      "url": "https://www.stjohnboscojbs.com/parents-association/",
+      "final_url": "https://www.stjohnboscojbs.com/parents-association/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents’ Association"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "18632N",
+      "url": "https://www.stjohnboscojbs.com/annual-admissions-notice-2026-2027/",
+      "label": "Annual Admissions Notice 2026 – 2027",
+      "sha256": "1d7d5b93694b239891286ab600d0ef630df5ce4353a964714f11fbea75dd8abf",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/18632N_1d7d5b93694b23989128.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 3751
+    },
+    {
+      "roll": "18632N",
+      "url": "https://www.stjohnboscojbs.com/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "label": "Oldest public admission media (all dates)",
+      "sha256": "451544ee94bd7570eb53bad2201d51902d52bcc22e0d07e740e6f9cb97a16dd3",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/18632N_451544ee94bd7570eb53.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1715
+    },
+    {
+      "roll": "18632N",
+      "url": "https://www.stjohnboscojbs.com/wp-content/uploads/2020/09/St-John-Bosco-JBS-Admission-Policy-2020.pdf",
+      "label": "St John Bosco JBS Admission Policy 2020",
+      "sha256": "4d654e166a91040b9f9e8f1c42a5041f315e653fa96b9d9d24fdf49b32d878ea",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/18632N_4d654e166a91040b9f9e.txt",
+      "source_file": "database/milestone2/cache/4d654e166a91040b9f9e8f1c42a5041f315e653fa96b9d9d24fdf49b32d878ea.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 24412
+    },
+    {
+      "roll": "18632N",
+      "url": "https://www.stjohnboscojbs.com/enrol/",
+      "label": "Enrolment",
+      "sha256": "10168e44e6451edf65bb115c6c8d0e2884e26c5366ab2ae985ebb9ae3d169e1d",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/18632N_10168e44e6451edf65bb.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 4451
+    },
+    {
+      "roll": "18632N",
+      "url": "https://www.stjohnboscojbs.com/wp-content/uploads/2023/03/St-John-Bosco-JBS-Admission-Policy-Updated-January-2023.pdf",
+      "label": "St John Bosco JBS Admission Policy Updated January 2023",
+      "sha256": "c528b6eedac98b8b6b0dbc5140d2f532e90ff179742c01d2f9a8824850e2ae90",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/18632N_c528b6eedac98b8b6b0d.txt",
+      "source_file": "database/milestone2/cache/c528b6eedac98b8b6b0dbc5140d2f532e90ff179742c01d2f9a8824850e2ae90.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 25124
+    },
+    {
+      "roll": "18632N",
+      "url": "https://www.stjohnboscojbs.com/annual-admission-notice/",
+      "label": "Admission URL from sitemap",
+      "sha256": "c255853a6e16736a0ad37dbb42be3214e26919e625e6562a9aa722ac423e016b",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/18632N_c255853a6e16736a0ad3.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 3730
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.stjohnboscojbs.com/category/policies/",
+      "label": "Policies",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stjohnboscojbs.com/",
+      "label": "School homepage",
+      "via": "home"
+    }
+  ],
+  "elapsed_seconds": 157.16,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:38:12+0000"
+}

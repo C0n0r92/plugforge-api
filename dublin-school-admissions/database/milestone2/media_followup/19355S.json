@@ -1,0 +1,55 @@
+{
+  "roll": "19355S",
+  "attempted_at": "2026-11-08T12:51:43+0000",
+  "method": "documented_public_WordPress_media_notice_and_Irish_title_gap_search",
+  "attempts": [
+    {
+      "url": "https://www.bmss.ie/wp-json/wp/v2/media?search=notice&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.bmss.ie/wp-json/wp/v2/media?search=f%C3%B3gra&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.bmss.ie/wp-content/uploads/2020/09/ADMISSION-NOTICE-1.png",
+      "status": "ok",
+      "label": "ADMISSION NOTICE 1"
+    },
+    {
+      "url": "https://www.bmss.ie/wp-content/uploads/2020/09/ADMISSION-NOTICE-2.png",
+      "status": "ok",
+      "label": "ADMISSION NOTICE 2"
+    },
+    {
+      "url": "https://www.bmss.ie/wp-content/uploads/2020/09/ADMISSION-NOTICE-2.2.png",
+      "status": "ok",
+      "label": "ADMISSION NOTICE 2.2"
+    },
+    {
+      "url": "https://www.bmss.ie/wp-content/uploads/2020/09/ADMISSION-NOTICE-1.2.png",
+      "status": "ok",
+      "label": "ADMISSION NOTICE 1.2"
+    },
+    {
+      "url": "https://www.bmss.ie/wp-content/uploads/2021/09/admissions-notice-2022-23-page0001.jpg",
+      "status": "ok",
+      "label": "admissions-notice 2022 23-page0001"
+    },
+    {
+      "url": "https://www.bmss.ie/wp-content/uploads/2021/09/admissions-notice-2022-23-page2.jpg",
+      "status": "ok",
+      "label": "admissions-notice 2022 23-page2"
+    },
+    {
+      "url": "https://www.bmss.ie/wp-content/uploads/2021/09/admissions-notice-2022-23-page1.jpg",
+      "status": "ok",
+      "label": "admissions-notice 2022 23-page1"
+    }
+  ],
+  "documents": [],
+  "pending_links": [],
+  "earliest_year_cutoff": null,
+  "status": "attempted_no_new_notice_payload",
+  "elapsed_seconds": 32.3
+}

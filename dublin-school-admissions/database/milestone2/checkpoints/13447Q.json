@@ -1,0 +1,250 @@
+{
+  "roll": "13447Q",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.smgnslucan.com/Page/Admissions/47022/Index.html",
+      "final_url": "https://www.smgnslucan.com/Page/Admissions/47022/Index.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://www.smgnslucan.com/page/Admissions/47022/Index.html",
+      "final_url": "https://www.smgnslucan.com/page/Admissions/47022/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions 2027/28"
+    },
+    {
+      "url": "https://www.smgnslucan.com/Content/2025/9/ov58-Admissions_Policy_20252026.pdf",
+      "final_url": "https://www.smgnslucan.com/Content/2025/9/ov58-Admissions_Policy_20252026.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions Policy"
+    },
+    {
+      "url": "https://storage.googleapis.com/iclasscrm_files/4769/Content/2026/6/sc71-SCHOOL_CALENDAR_20262027_1.pdf?1030",
+      "final_url": "https://storage.googleapis.com/iclasscrm_files/4769/Content/2026/6/sc71-SCHOOL_CALENDAR_20262027_1.pdf?1030",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Calendar 2026/27"
+    },
+    {
+      "url": "https://www.smgnslucan.com/sitemap.xml",
+      "final_url": "https://www.smgnslucan.com/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.smgnslucan.com/page/School-Information/53908/Index.html",
+      "final_url": "https://www.smgnslucan.com/page/School-Information/53908/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Information"
+    },
+    {
+      "url": "https://www.smgnslucan.com/page/Enrolment/47022/Index.html",
+      "final_url": "https://www.smgnslucan.com/page/Enrolment/47022/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "here"
+    },
+    {
+      "url": "https://www.smgnslucan.com/page/Policies/46083/Index.html",
+      "final_url": "https://www.smgnslucan.com/page/Policies/46083/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.smgnslucan.com/Content/2025/10/mp45-Annual_Admissions_Notice__Junior_Infants_2026.2027.docx.pdf",
+      "final_url": "https://www.smgnslucan.com/Content/2025/10/mp45-Annual_Admissions_Notice__Junior_Infants_2026.2027.docx.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions Notice Junior Infants"
+    },
+    {
+      "url": "https://www.smgnslucan.com/Content/2025/1/ko35-AntiBullying_Policy__Annual_Review_Checklist_14.03.24.PDF",
+      "final_url": "https://www.smgnslucan.com/Content/2025/1/ko35-AntiBullying_Policy__Annual_Review_Checklist_14.03.24.PDF",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Anti-Bullying Policy Review - Checklist March 2024"
+    },
+    {
+      "url": "https://www.smgnslucan.com/Content/2025/10/ue71-Admissions_Policy_20252026.pdf",
+      "final_url": "https://www.smgnslucan.com/Content/2025/10/ue71-Admissions_Policy_20252026.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions Policy"
+    },
+    {
+      "url": "https://www.smgnslucan.com/page/Parents-Association/46396/Index.html",
+      "final_url": "https://www.smgnslucan.com/page/Parents-Association/46396/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents Association"
+    },
+    {
+      "url": "https://www.smgnslucan.com",
+      "final_url": "https://www.smgnslucan.com",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.smgnslucan.com/Content/2022/4/rj63-religious_education_policy.pdf",
+      "final_url": "https://www.smgnslucan.com/Content/2022/4/rj63-religious_education_policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Religious Education Policy"
+    },
+    {
+      "url": "https://www.smgnslucan.com/Content/2022/4/ov58-covid_19_policy_statement.pdf",
+      "final_url": "https://www.smgnslucan.com/Content/2022/4/ov58-covid_19_policy_statement.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "COVID Policy Statement"
+    },
+    {
+      "url": "https://www.smgnslucan.com/Content/2022/4/nw48-sphe_policy_.pdf",
+      "final_url": "https://www.smgnslucan.com/Content/2022/4/nw48-sphe_policy_.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Sphe Policy"
+    },
+    {
+      "url": "https://www.smgnslucan.com/Content/2022/4/mk43-healthy_eating_policy.pdf",
+      "final_url": "https://www.smgnslucan.com/Content/2022/4/mk43-healthy_eating_policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Healthy Eating Policy"
+    },
+    {
+      "url": "https://www.smgnslucan.com/Content/2022/4/lh42-parents_as_partners_policy.pdf",
+      "final_url": "https://www.smgnslucan.com/Content/2022/4/lh42-parents_as_partners_policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents as Partners Policy"
+    },
+    {
+      "url": "https://www.smgnslucan.com/Content/2022/4/aq60-rse_policy.pdf",
+      "final_url": "https://www.smgnslucan.com/Content/2022/4/aq60-rse_policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "RSE Policy"
+    },
+    {
+      "url": "https://www.smgnslucan.com/Content/2022/11/tl74-Child_Protection_Policy_2022.pdf",
+      "final_url": "https://www.smgnslucan.com/Content/2022/11/tl74-Child_Protection_Policy_2022.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Child Protection Policy"
+    },
+    {
+      "url": "https://www.smgnslucan.com/Content/2022/11/ks36-Code_of_Behaviour.pdf",
+      "final_url": "https://www.smgnslucan.com/Content/2022/11/ks36-Code_of_Behaviour.pdf",
+      "status": "public_document_size_bound",
+      "via": "school_public_link",
+      "label": "Code of Behaviour Policy"
+    },
+    {
+      "url": "https://www.smgnslucan.com/Content/2023/9/cz90-AUP_September_2023.pdf",
+      "final_url": "https://www.smgnslucan.com/Content/2023/9/cz90-AUP_September_2023.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Acceptable Use Policy"
+    },
+    {
+      "url": "https://www.smgnslucan.com/Content/2025/1/xy99-Attendance_Policy_Reviewed_March_2024.pdf",
+      "final_url": "https://www.smgnslucan.com/Content/2025/1/xy99-Attendance_Policy_Reviewed_March_2024.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Attendance Policy"
+    },
+    {
+      "url": "https://www.smgnslucan.com/Content/2025/1/xt87-Parents_Association_Notification_AntiBullying_Review_14.03.24.PDF",
+      "final_url": "https://www.smgnslucan.com/Content/2025/1/xt87-Parents_Association_Notification_AntiBullying_Review_14.03.24.PDF",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Anti-Bullying Policy Review - Notification March 2024"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "13447Q",
+      "url": "https://www.smgnslucan.com/Page/Admissions/47022/Index.html",
+      "label": "Admissions",
+      "sha256": "0c8922bef6db5f24e9f600c26b14eb8daf7926de26b8094080d96e5294a830af",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/13447Q_0c8922bef6db5f24e9f6.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1103
+    },
+    {
+      "roll": "13447Q",
+      "url": "https://www.smgnslucan.com/page/Admissions/47022/Index.html",
+      "label": "Admissions 2027/28",
+      "sha256": "d1903d890b1d5b89283161ca4c274037c948f53821797cebc2d2b7202cb2a364",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/13447Q_d1903d890b1d5b892831.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1103
+    },
+    {
+      "roll": "13447Q",
+      "url": "https://www.smgnslucan.com/page/Enrolment/47022/Index.html",
+      "label": "here",
+      "sha256": "996326cd5a1d3cffffba8bfe8ec370d057324bf95d70692a6eac1a9c96df07d3",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/13447Q_996326cd5a1d3cffffba.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1103
+    },
+    {
+      "roll": "13447Q",
+      "url": "https://www.smgnslucan.com/Content/2025/10/mp45-Annual_Admissions_Notice__Junior_Infants_2026.2027.docx.pdf",
+      "label": "Admissions Notice Junior Infants",
+      "sha256": "7f6809b127606bd81973c76e874901d00d3c40821cfeefec38b4e4ee88c69dc9",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/13447Q_7f6809b127606bd81973.txt",
+      "source_file": "database/milestone2/cache/7f6809b127606bd81973c76e874901d00d3c40821cfeefec38b4e4ee88c69dc9.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 2042
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.smgnslucan.com/Content/2025/10/ur76-Scoil_Mhuire_GNS_AntiBullying_Bi_Cinealta_Policy.PDF",
+      "label": "Anti-Bullying_Bí Cineálta Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://storage.googleapis.com/iclasscrm_files/4769/Images/Content/2026/273/sb60-Junior_Infants_2027_Application_Form.docx",
+      "label": "Junior Infants 2027 Application Form",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://storage.googleapis.com/iclasscrm_files/4769/Images/Content/2026/273/cv18-Sen.Inf__6th_Application2026_27_Form_.docx",
+      "label": "Senior Infants - Sixth Class Application Form School Year 2026-2027",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.smgnslucan.com/Page/Terms,-Conditions-and-Privacy-Policy/44831/Index.html",
+      "label": "Terms, Conditions and Privacy Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.smgnslucan.com/Page/Cookie-Policy/44518/Index.html",
+      "label": "Cookie Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 80.09,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:44:56+0000"
+}

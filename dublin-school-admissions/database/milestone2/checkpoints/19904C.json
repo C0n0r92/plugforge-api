@@ -1,0 +1,448 @@
+{
+  "roll": "19904C",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.holycrossschool.ie/information-for-parents/admissions/?googletranslate=true",
+      "final_url": "https://www.holycrossschool.ie/information-for-parents/admissions/?googletranslate=true",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "https://www.holycrossschool.ie/documentlink/30/?open=true",
+      "final_url": "https://www.holycrossschool.ie/cmsfiles/items/downloads/7934-AdmissionsNotice2027-2028.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Annual Admission Notice"
+    },
+    {
+      "url": "https://www.holycrossschool.ie/information-for-parents/admissions/",
+      "final_url": "https://www.holycrossschool.ie/information-for-parents/admissions/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://www.holycrossschool.ie/admin/?open=/information-for-parents/admissions/?googletranslate=true",
+      "final_url": "https://www.holycrossschool.ie/admin/?open=/information-for-parents/admissions/?googletranslate=true",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.holycrossschool.ie/admin/?open=/information-for-parents/admissions/",
+      "final_url": "https://www.holycrossschool.ie/admin/?open=/information-for-parents/admissions/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.holycrossschool.ie/sitemap.xml",
+      "final_url": "https://www.holycrossschool.ie/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.holycrossschool.ie/information-for-parents/secondary-schools/",
+      "final_url": "https://www.holycrossschool.ie/information-for-parents/secondary-schools/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Secondary Schools"
+    },
+    {
+      "url": "https://www.holycrossschool.ie/information-for-parents/secondary-schools/?googletranslate=true",
+      "final_url": "https://www.holycrossschool.ie/information-for-parents/secondary-schools/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.holycrossschool.ie/information-for-parents/school-uniform/",
+      "final_url": "https://www.holycrossschool.ie/information-for-parents/school-uniform/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Uniform"
+    },
+    {
+      "url": "https://www.holycrossschool.ie/information-for-parents/school-uniform/?googletranslate=true",
+      "final_url": "https://www.holycrossschool.ie/information-for-parents/school-uniform/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.holycrossschool.ie/information-for-parents/school-survey-results/",
+      "final_url": "https://www.holycrossschool.ie/information-for-parents/school-survey-results/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Survey Results"
+    },
+    {
+      "url": "https://www.holycrossschool.ie/information-for-parents/school-survey-results/?googletranslate=true",
+      "final_url": "https://www.holycrossschool.ie/information-for-parents/school-survey-results/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.holycrossschool.ie/information-for-parents/pupil-personal-accident-claims/",
+      "final_url": "https://www.holycrossschool.ie/information-for-parents/pupil-personal-accident-claims/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Pupil Personal Accident Claims"
+    },
+    {
+      "url": "https://www.holycrossschool.ie/information-for-parents/pupil-personal-accident-claims/?googletranslate=true",
+      "final_url": "https://www.holycrossschool.ie/information-for-parents/pupil-personal-accident-claims/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.holycrossschool.ie/information-for-parents/policies/",
+      "final_url": "https://www.holycrossschool.ie/information-for-parents/policies/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.holycrossschool.ie/information-for-parents/policies/?googletranslate=true",
+      "final_url": "https://www.holycrossschool.ie/information-for-parents/policies/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.holycrossschool.ie/information-for-parents/parents-association/",
+      "final_url": "https://www.holycrossschool.ie/information-for-parents/parents-association/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents' Association"
+    },
+    {
+      "url": "https://www.holycrossschool.ie/information-for-parents/parents-association/?googletranslate=true",
+      "final_url": "https://www.holycrossschool.ie/information-for-parents/parents-association/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.holycrossschool.ie/information-for-parents/cyber-smart-charter/",
+      "final_url": "https://www.holycrossschool.ie/information-for-parents/cyber-smart-charter/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Cyber Smart Charter"
+    },
+    {
+      "url": "https://www.holycrossschool.ie/information-for-parents/cyber-smart-charter/?googletranslate=true",
+      "final_url": "https://www.holycrossschool.ie/information-for-parents/cyber-smart-charter/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.holycrossschool.ie/information-for-parents/calendar/",
+      "final_url": "https://www.holycrossschool.ie/information-for-parents/calendar/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Events Calendar"
+    },
+    {
+      "url": "https://www.holycrossschool.ie/information-for-parents/calendar/?calyear=2026&calmonth=12&",
+      "final_url": "https://www.holycrossschool.ie/information-for-parents/calendar/?calyear=2026&calmonth=12&",
+      "status": "prior_exact_URL_access_denial_not_retried",
+      "via": "school_public_link",
+      "label": "December 2026"
+    },
+    {
+      "url": "https://www.holycrossschool.ie/information-for-parents/calendar/?calyear=2026&calmonth=10&",
+      "final_url": "https://www.holycrossschool.ie/information-for-parents/calendar/?calyear=2026&calmonth=10&",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": "October 2026"
+    },
+    {
+      "url": "https://www.holycrossschool.ie/information-for-parents/calendar/?googletranslate=true",
+      "final_url": "https://www.holycrossschool.ie/information-for-parents/calendar/?googletranslate=true",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": ""
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19904C",
+      "url": "https://www.holycrossschool.ie/information-for-parents/admissions/?googletranslate=true",
+      "label": "",
+      "sha256": "f2e4a88b952599ecf31754d5c3f37bec5d5dfb1579aee759b4337faa9b7182f0",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19904C_f2e4a88b952599ecf317.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 316
+    },
+    {
+      "roll": "19904C",
+      "url": "https://www.holycrossschool.ie/information-for-parents/admissions/",
+      "label": "Admissions",
+      "sha256": "e07754efebe736964a9e4557e73f87df4a75c775222cb8df17c1b32e47b43259",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19904C_e07754efebe736964a9e.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 316
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.holycrossschool.ie/information-for-parents/calendar/?calTable=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holycrossschool.ie/information-for-parents/activities/",
+      "label": "Activities",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holycrossschool.ie/information-for-parents/-learning-resources/",
+      "label": "Learning Resources",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holycrossschool.ie/information-for-parents/",
+      "label": "Information for Parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holycrossschool.ie/documentlink/41/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holycrossschool.ie/documentlink/40/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holycrossschool.ie/documentlink/39/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holycrossschool.ie/documentlink/38/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holycrossschool.ie/documentlink/37/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holycrossschool.ie/documentlink/37/?open=true",
+      "label": "Admissions Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holycrossschool.ie/documentlink/36/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holycrossschool.ie/documentlink/35/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holycrossschool.ie/documentlink/34/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holycrossschool.ie/documentlink/33/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holycrossschool.ie/documentlink/32/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holycrossschool.ie/documentlink/31/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holycrossschool.ie/documentlink/31/?open=true",
+      "label": "Admissions Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holycrossschool.ie/documentlink/30/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holycrossschool.ie/documentlink/119/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holycrossschool.ie/documentlink/114/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holycrossschool.ie/documentlink/113/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holycrossschool.ie/documentlink/112/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holycrossschool.ie/admin/?open=/information-for-parents/secondary-schools/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holycrossschool.ie/admin/?open=/information-for-parents/secondary-schools/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holycrossschool.ie/admin/?open=/information-for-parents/school-uniform/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holycrossschool.ie/admin/?open=/information-for-parents/school-uniform/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holycrossschool.ie/admin/?open=/information-for-parents/school-survey-results/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holycrossschool.ie/admin/?open=/information-for-parents/school-survey-results/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holycrossschool.ie/admin/?open=/information-for-parents/pupil-personal-accident-claims/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holycrossschool.ie/admin/?open=/information-for-parents/pupil-personal-accident-claims/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holycrossschool.ie/admin/?open=/information-for-parents/policies/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holycrossschool.ie/admin/?open=/information-for-parents/policies/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holycrossschool.ie/admin/?open=/information-for-parents/parents-association/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holycrossschool.ie/admin/?open=/information-for-parents/parents-association/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holycrossschool.ie/admin/?open=/information-for-parents/cyber-smart-charter/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holycrossschool.ie/admin/?open=/information-for-parents/cyber-smart-charter/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holycrossschool.ie/admin/?open=/information-for-parents/calendar/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holycrossschool.ie/",
+      "label": "School homepage",
+      "via": "home"
+    },
+    {
+      "url": "https://www.holycrossschool.ie/cmsfiles/items/downloads/9473-MobilePhonePolicy2025.pdf",
+      "label": "Holy Cross School’s Mobile Phone Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holycrossschool.ie/documentlink/41/?open=true",
+      "label": "Parental Complaints Policy.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holycrossschool.ie/documentlink/39/?open=true",
+      "label": "Mobile Phone Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holycrossschool.ie/documentlink/36/?open=true",
+      "label": "B Cine lta Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holycrossschool.ie/documentlink/35/?open=true",
+      "label": "Code of Conduct Policy.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holycrossschool.ie/documentlink/34/?open=true",
+      "label": "Uniform Policy.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holycrossschool.ie/documentlink/33/?open=true",
+      "label": "Healthy Eating Policy.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holycrossschool.ie/documentlink/114/?open=true",
+      "label": "Supervision Policy.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holycrossschool.ie/documentlink/112/?open=true",
+      "label": "Accident and Injury Policy.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holycrossschool.ie/cmsfiles/policies/privacy/",
+      "label": "Website Privacy Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holycrossschool.ie/cmsfiles/policies/cookie/",
+      "label": "Cookie Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 65.62,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:58:22+0000"
+}

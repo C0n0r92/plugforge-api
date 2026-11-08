@@ -1,0 +1,217 @@
+{
+  "roll": "19834H",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.staidanssns.ie/enrolment/",
+      "final_url": "https://www.staidanssns.ie/enrolment/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Enrolment"
+    },
+    {
+      "url": "https://www.staidanssns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://www.staidanssns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://www.staidanssns.ie/wp-content/uploads/2023/09/St-Aidans-SNS-Dublin-Diocesan-Admission-Policy-I.pdf",
+      "final_url": "https://www.staidanssns.ie/wp-content/uploads/2023/09/St-Aidans-SNS-Dublin-Diocesan-Admission-Policy-I.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "St Aidans SNS Dublin Diocesan Admission Policy I"
+    },
+    {
+      "url": "https://www.staidanssns.ie/sitemap_index.xml",
+      "final_url": "https://www.staidanssns.ie/sitemap_index.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.staidanssns.ie/post-sitemap.xml",
+      "final_url": "https://www.staidanssns.ie/post-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.staidanssns.ie/policies/",
+      "final_url": "https://www.staidanssns.ie/policies/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.staidanssns.ie/wp-content/uploads/2026/09/St-Aidans-Enrolment-Policy-for-ASD-Class-2026.pdf",
+      "final_url": "https://www.staidanssns.ie/wp-content/uploads/2026/09/St-Aidans-Enrolment-Policy-for-ASD-Class-2026.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Enrolment Policy for ASD Class"
+    },
+    {
+      "url": "https://www.staidanssns.ie/parents/supporting-numeracy-at-home/",
+      "final_url": "https://www.staidanssns.ie/parents/supporting-numeracy-at-home/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Supporting Numeracy at Home"
+    },
+    {
+      "url": "https://www.staidanssns.ie/parents/school-calendar/",
+      "final_url": "https://www.staidanssns.ie/parents/school-calendar/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Calendar"
+    },
+    {
+      "url": "https://www.staidanssns.ie/wp-content/uploads/2026/09/St.-Aidans-SNS-School-Calendar-2026_27-1.pdf",
+      "final_url": "https://www.staidanssns.ie/wp-content/uploads/2026/09/St.-Aidans-SNS-School-Calendar-2026_27-1.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "viewed and downloaded here."
+    },
+    {
+      "url": "https://www.staidanssns.ie/parents/right-book-for-your-child/",
+      "final_url": "https://www.staidanssns.ie/parents/right-book-for-your-child/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Right Book for Your Child"
+    },
+    {
+      "url": "https://www.staidanssns.ie/parents/new-primary-school-curriculum/",
+      "final_url": "https://www.staidanssns.ie/parents/new-primary-school-curriculum/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "New Primary School Curriculum"
+    },
+    {
+      "url": "https://www.staidanssns.ie/wp-content/uploads/2026/04/Parents-Guide.pdf",
+      "final_url": "https://www.staidanssns.ie/wp-content/uploads/2026/04/Parents-Guide.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents’ Guide"
+    },
+    {
+      "url": "https://www.staidanssns.ie/parents/literacy-tips-for-parents/",
+      "final_url": "https://www.staidanssns.ie/parents/literacy-tips-for-parents/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Literacy Tips for Parents"
+    },
+    {
+      "url": "https://www.staidanssns.ie/parents/homework-tips-for-parents/",
+      "final_url": "https://www.staidanssns.ie/parents/homework-tips-for-parents/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Homework Tips for Parents"
+    },
+    {
+      "url": "https://www.staidanssns.ie/parents/",
+      "final_url": "https://www.staidanssns.ie/parents/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents"
+    },
+    {
+      "url": "https://www.staidanssns.ie/page-sitemap.xml",
+      "final_url": "https://www.staidanssns.ie/page-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.staidanssns.ie/asd-enrolment-policy/",
+      "final_url": "https://www.staidanssns.ie/asd-enrolment-policy/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "https://staidanssns.ie/",
+      "final_url": "https://www.staidanssns.ie/",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.staidanssns.ie/wp-content/uploads/2026/10/Bi-Cinealta-Policy-St-Aidans-SNS-26_27.docx.pdf",
+      "final_url": "https://www.staidanssns.ie/wp-content/uploads/2026/10/Bi-Cinealta-Policy-St-Aidans-SNS-26_27.docx.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Bi Cinealta Policy"
+    },
+    {
+      "url": "https://www.staidanssns.ie/_anti-bullying-policy-st-aidans-sns-2/",
+      "final_url": "https://www.staidanssns.ie/wp-content/uploads/2026/06/Anti-bullying-policy-St-Aidans-SNS-.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Anti-Bullying Policy"
+    },
+    {
+      "url": "https://www.staidanssns.ie/22907-2/",
+      "final_url": "https://www.staidanssns.ie/22907-2/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Bí Cinealta Policy"
+    },
+    {
+      "url": "https://www.staidanssns.ie/wp-content/uploads/2026/04/Bi-Cinealta-Policy-St-Aidans-SNS-25-26.docx.pdf",
+      "final_url": "https://www.staidanssns.ie/wp-content/uploads/2026/04/Bi-Cinealta-Policy-St-Aidans-SNS-25-26.docx.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19834H",
+      "url": "https://www.staidanssns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "label": "Oldest public admission media (all dates)",
+      "sha256": "6be7aa4c7a346dd0657c35def5f88bd93c12825461257414e6130cac7a6ca4c4",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19834H_6be7aa4c7a346dd0657c.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 708
+    },
+    {
+      "roll": "19834H",
+      "url": "https://www.staidanssns.ie/wp-content/uploads/2023/09/St-Aidans-SNS-Dublin-Diocesan-Admission-Policy-I.pdf",
+      "label": "St Aidans SNS Dublin Diocesan Admission Policy I",
+      "sha256": "9a352830c1ff6dbdc99de2d15d90b1b7f401c5c2f4eb42550a08e84040f26d02",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19834H_9a352830c1ff6dbdc99d.txt",
+      "source_file": "database/milestone2/cache/9a352830c1ff6dbdc99de2d15d90b1b7f401c5c2f4eb42550a08e84040f26d02.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 21845
+    },
+    {
+      "roll": "19834H",
+      "url": "https://www.staidanssns.ie/policies/",
+      "label": "Policies",
+      "sha256": "c33e0529c03632df07bd376b7f68f459fcbe2d396a54ece1bfcc22702d3f8c67",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19834H_c33e0529c03632df07bd.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 498
+    },
+    {
+      "roll": "19834H",
+      "url": "https://www.staidanssns.ie/wp-content/uploads/2026/09/St-Aidans-Enrolment-Policy-for-ASD-Class-2026.pdf",
+      "label": "Enrolment Policy for ASD Class",
+      "sha256": "25c11544a69bd0d1c4cb91632a4f79daf4b71dae64a148a4dd8a0b86c3ce78e7",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19834H_25c11544a69bd0d1c4cb.txt",
+      "source_file": "database/milestone2/cache/25c11544a69bd0d1c4cb91632a4f79daf4b71dae64a148a4dd8a0b86c3ce78e7.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 20712
+    }
+  ],
+  "pending_links": [],
+  "elapsed_seconds": 78.29,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:43:45+0000"
+}

@@ -1,0 +1,168 @@
+{
+  "roll": "16629O",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.kcoins.ie/news/detail/important-news-re-enrolment-201920/",
+      "final_url": "https://www.kcoins.ie/news/detail/important-news-re-enrolment-201920/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions/policy URL from public sitemap"
+    },
+    {
+      "url": "https://kilternan-church-of-ireland-national-school.secure-primarysite.net/accounts/login/primarysite/?next=/news/detail/important-news-re-enrolment-201920/",
+      "final_url": "https://kilternan-church-of-ireland-national-school.secure-primarysite.net/accounts/login/primarysite/?next=/news/detail/important-news-re-enrolment-201920/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Log in"
+    },
+    {
+      "url": "https://www.kcoins.ie/news/detail/admissions-for-the-school-year-202223/",
+      "final_url": "https://www.kcoins.ie/news/detail/admissions-for-the-school-year-202223/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions/policy URL from public sitemap"
+    },
+    {
+      "url": "https://kilternan-church-of-ireland-national-school.secure-primarysite.net/accounts/login/primarysite/?next=/news/detail/admissions-for-the-school-year-202223/",
+      "final_url": "https://kilternan-church-of-ireland-national-school.secure-primarysite.net/accounts/login/primarysite/?next=/news/detail/admissions-for-the-school-year-202223/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Log in"
+    },
+    {
+      "url": "https://www.kcoins.ie/news/detail/admissions-for-the-school-year-202223-1/",
+      "final_url": "https://www.kcoins.ie/news/detail/admissions-for-the-school-year-202223-1/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions/policy URL from public sitemap"
+    },
+    {
+      "url": "https://kilternan-church-of-ireland-national-school.secure-primarysite.net/accounts/login/primarysite/?next=/news/detail/admissions-for-the-school-year-202223-1/",
+      "final_url": "https://kilternan-church-of-ireland-national-school.secure-primarysite.net/accounts/login/primarysite/?next=/news/detail/admissions-for-the-school-year-202223-1/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Log in"
+    },
+    {
+      "url": "https://www.kcoins.ie/news/detail/admissions-202324/",
+      "final_url": "https://www.kcoins.ie/news/detail/admissions-202324/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions/policy URL from public sitemap"
+    },
+    {
+      "url": "https://kilternan-church-of-ireland-national-school.secure-primarysite.net/accounts/login/primarysite/?next=/news/detail/admissions-202324/",
+      "final_url": "https://kilternan-church-of-ireland-national-school.secure-primarysite.net/accounts/login/primarysite/?next=/news/detail/admissions-202324/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Log in"
+    },
+    {
+      "url": "https://www.kcoins.ie/news/detail/admissions-202425/",
+      "final_url": "https://www.kcoins.ie/news/detail/admissions-202425/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions/policy URL from public sitemap"
+    },
+    {
+      "url": "https://kilternan-church-of-ireland-national-school.secure-primarysite.net/accounts/login/primarysite/?next=/news/detail/admissions-202425/",
+      "final_url": "https://kilternan-church-of-ireland-national-school.secure-primarysite.net/accounts/login/primarysite/?next=/news/detail/admissions-202425/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Log in"
+    },
+    {
+      "url": "https://www.kcoins.ie/topic/policies",
+      "final_url": "https://www.kcoins.ie/topic/policies",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.kcoins.ie/topic/parents",
+      "final_url": "https://www.kcoins.ie/topic/parents",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents"
+    },
+    {
+      "url": "https://www.kcoins.ie/sitemap.xml",
+      "final_url": "https://www.kcoins.ie/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.kcoins.ie/information-for-parents/",
+      "final_url": "https://www.kcoins.ie/information-for-parents/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Information for Parents"
+    },
+    {
+      "url": "https://www.kcoins.ie",
+      "final_url": "https://www.kcoins.ie",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.kcoins.ie/special/policy/",
+      "final_url": "https://www.kcoins.ie/special/policy/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Website Policy"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "16629O",
+      "url": "https://www.kcoins.ie/news/detail/admissions-for-the-school-year-202223/",
+      "label": "Admissions/policy URL from public sitemap",
+      "sha256": "ea736ce8c3cd111db12c2e7c26c8fa63e95dbe7216f7c09e4a6670368ef60d88",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/16629O_ea736ce8c3cd111db12c.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1786
+    },
+    {
+      "roll": "16629O",
+      "url": "https://www.kcoins.ie/news/detail/admissions-for-the-school-year-202223-1/",
+      "label": "Admissions/policy URL from public sitemap",
+      "sha256": "99070b4ea483fd68e305bedce13c7c6b69f49fbd834a09202bf83ca2a8ee7d6d",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/16629O_99070b4ea483fd68e305.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1887
+    },
+    {
+      "roll": "16629O",
+      "url": "https://www.kcoins.ie/news/detail/admissions-202324/",
+      "label": "Admissions/policy URL from public sitemap",
+      "sha256": "c85b309ab3e9f954bf3e59228aa934d3d9e96375b16d8ef9283d81b0b430e54b",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/16629O_c85b309ab3e9f954bf3e.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1887
+    },
+    {
+      "roll": "16629O",
+      "url": "https://www.kcoins.ie/news/detail/admissions-202425/",
+      "label": "Admissions/policy URL from public sitemap",
+      "sha256": "7996c054af8ca398323371f6fc3b81d598dab2f85f86b68f18e2eaf5cc2d8f71",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/16629O_7996c054af8ca3983233.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1951
+    }
+  ],
+  "pending_links": [],
+  "elapsed_seconds": 105.94,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:03:21+0000"
+}

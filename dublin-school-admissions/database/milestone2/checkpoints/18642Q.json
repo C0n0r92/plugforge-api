@@ -1,0 +1,250 @@
+{
+  "roll": "18642Q",
+  "status": "bounded_search_no_new_notice_found",
+  "attempts": [
+    {
+      "url": "https://www.stjohnsclondalkin.ie/news/admissions-notice-2027-2028-st-john-s-ns-docx-a/?googletranslate=true",
+      "final_url": "https://www.stjohnsclondalkin.ie/news/admissions-notice-2027-2028-st-john-s-ns-docx-a/?googletranslate=true",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "https://www.stjohnsclondalkin.ie/news/admissions-notice-2027-2028-st-john-s-ns-docx-a/",
+      "final_url": "https://www.stjohnsclondalkin.ie/news/admissions-notice-2027-2028-st-john-s-ns-docx-a/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions-notice. 2027 2028 St. John s NS .docx"
+    },
+    {
+      "url": "https://www.stjohnsclondalkin.ie/news/admissions-notice-2027-2028-st-john-s-ns-docx-a-a/?googletranslate=true",
+      "final_url": "https://www.stjohnsclondalkin.ie/news/admissions-notice-2027-2028-st-john-s-ns-docx-a-a/?googletranslate=true",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "https://www.stjohnsclondalkin.ie/news/admissions-notice-2027-2028-st-john-s-ns-docx-a-a/",
+      "final_url": "https://www.stjohnsclondalkin.ie/news/admissions-notice-2027-2028-st-john-s-ns-docx-a-a/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions-notice. 2027 2028 St. John s NS .docx"
+    },
+    {
+      "url": "https://www.stjohnsclondalkin.ie/news/admissions-notice-2027-2028-st-john-s-ns-docx-a-a-a/?googletranslate=true",
+      "final_url": "https://www.stjohnsclondalkin.ie/news/admissions-notice-2027-2028-st-john-s-ns-docx-a-a-a/?googletranslate=true",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "https://view.officeapps.live.com/op/embed.aspx?src=https://swddoc.b-cdn.net/775/docletter/20261015110228_74_Admissions-notice._2027_2028_St._John_s_NS_.docx",
+      "final_url": "https://view.officeapps.live.com/op/embed.aspx?src=https://swddoc.b-cdn.net/775/docletter/20261015110228_74_Admissions-notice._2027_2028_St._John_s_NS_.docx",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "This is an embedded Microsoft Office document, powered by Office ."
+    },
+    {
+      "url": "https://www.stjohnsclondalkin.ie/news/admissions-notice-2027-2028-st-john-s-ns-docx-a-a-a/",
+      "final_url": "https://www.stjohnsclondalkin.ie/news/admissions-notice-2027-2028-st-john-s-ns-docx-a-a-a/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions-notice. 2027 2028 St. John s NS .docx"
+    },
+    {
+      "url": "https://www.stjohnsclondalkin.ie/documentlink/42/?open=true",
+      "final_url": "https://view.officeapps.live.com/op/embed.aspx?src=https://swddoc.b-cdn.net/775/docletter/20261015110228_74_Admissions-notice._2027_2028_St._John_s_NS_.docx",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Admissions-notice. 2027 2028 St. John s NS .docx"
+    },
+    {
+      "url": "https://www.stjohnsclondalkin.ie/admin/?open=/news/admissions-notice-2027-2028-st-john-s-ns-docx-a/?googletranslate=true",
+      "final_url": "https://www.stjohnsclondalkin.ie/admin/?open=/news/admissions-notice-2027-2028-st-john-s-ns-docx-a/?googletranslate=true",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.stjohnsclondalkin.ie/admin/?open=/news/admissions-notice-2027-2028-st-john-s-ns-docx-a/",
+      "final_url": "https://www.stjohnsclondalkin.ie/admin/?open=/news/admissions-notice-2027-2028-st-john-s-ns-docx-a/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.stjohnsclondalkin.ie/admin/?open=/news/admissions-notice-2027-2028-st-john-s-ns-docx-a-a/?googletranslate=true",
+      "final_url": "https://www.stjohnsclondalkin.ie/admin/?open=/news/admissions-notice-2027-2028-st-john-s-ns-docx-a-a/?googletranslate=true",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.stjohnsclondalkin.ie/admin/?open=/news/admissions-notice-2027-2028-st-john-s-ns-docx-a-a/",
+      "final_url": "https://www.stjohnsclondalkin.ie/admin/?open=/news/admissions-notice-2027-2028-st-john-s-ns-docx-a-a/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.stjohnsclondalkin.ie/admin/?open=/news/admissions-notice-2027-2028-st-john-s-ns-docx-a-a-a/?googletranslate=true",
+      "final_url": "https://www.stjohnsclondalkin.ie/admin/?open=/news/admissions-notice-2027-2028-st-john-s-ns-docx-a-a-a/?googletranslate=true",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.stjohnsclondalkin.ie/admin/?open=/news/admissions-notice-2027-2028-st-john-s-ns-docx-a-a-a/",
+      "final_url": "https://www.stjohnsclondalkin.ie/admin/?open=/news/admissions-notice-2027-2028-st-john-s-ns-docx-a-a-a/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.stjohnsclondalkin.ie/admissions/?googletranslate=true",
+      "final_url": "https://www.stjohnsclondalkin.ie/admissions/?googletranslate=true",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "https://www.stjohnsclondalkin.ie/documentlink/12/?open=true",
+      "final_url": "https://view.officeapps.live.com/op/embed.aspx?src=https://swddoc.b-cdn.net/775/docletter/20231019014900_91_Application_for_admission_2023_2024_2_1_.docx",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Application for admission .docx"
+    },
+    {
+      "url": "https://www.stjohnsclondalkin.ie/admissions/",
+      "final_url": "https://www.stjohnsclondalkin.ie/admissions/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://www.stjohnsclondalkin.ie/admin/?open=/admissions/?googletranslate=true",
+      "final_url": "https://www.stjohnsclondalkin.ie/admin/?open=/admissions/?googletranslate=true",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.stjohnsclondalkin.ie/admin/?open=/admissions/",
+      "final_url": "https://www.stjohnsclondalkin.ie/admin/?open=/admissions/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.stjohnsclondalkin.ie/documentlink/11/?open=true",
+      "final_url": "https://view.officeapps.live.com/op/embed.aspx?src=https://swddoc.b-cdn.net/775/docletter/20231019014418_97_Admissions_policy_St._John_s_2022.docx",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Admissions policy St. John s 2022.docx"
+    },
+    {
+      "url": "https://www.stjohnsclondalkin.ie/sitemap.xml",
+      "final_url": "https://www.stjohnsclondalkin.ie/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.stjohnsclondalkin.ie/parents-area/school-letters/",
+      "final_url": "https://www.stjohnsclondalkin.ie/parents-area/school-letters/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Standardised Test Information"
+    },
+    {
+      "url": "https://www.stjohnsclondalkin.ie/cmsfiles/items/downloads/6581-englishtipsheetstenParentsInformation.pdf",
+      "final_url": "https://www.stjohnsclondalkin.ie/cmsfiles/items/downloads/6581-englishtipsheetstenParentsInformation.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stjohnsclondalkin.ie/parents-area/school-letters/?googletranslate=true",
+      "final_url": "https://www.stjohnsclondalkin.ie/parents-area/school-letters/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    }
+  ],
+  "documents": [],
+  "pending_links": [
+    {
+      "url": "https://www.stjohnsclondalkin.ie/parents-area/school-holidays/",
+      "label": "School Holidays",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stjohnsclondalkin.ie/parents-area/calendar/",
+      "label": "Calendar",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stjohnsclondalkin.ie/parents-area/booklists/",
+      "label": "Booklists",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stjohnsclondalkin.ie/parents-area/",
+      "label": "Parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stjohnsclondalkin.ie/our-school/school-information-booklet/",
+      "label": "School Information Booklet",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stjohnsclondalkin.ie/our-school/policies/",
+      "label": "Policies",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stjohnsclondalkin.ie/documentlink/42/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stjohnsclondalkin.ie/documentlink/12/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stjohnsclondalkin.ie/documentlink/11/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stjohnsclondalkin.ie/admin/?open=/parents-area/school-letters/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stjohnsclondalkin.ie/admin/?open=/parents-area/school-letters/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stjohnsclondalkin.ie/",
+      "label": "School homepage",
+      "via": "home"
+    },
+    {
+      "url": "https://www.stjohnsclondalkin.ie/cmsfiles/policies/privacy/",
+      "label": "Website Privacy Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stjohnsclondalkin.ie/cmsfiles/policies/cookie/",
+      "label": "Cookie Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 47.41,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:04:24+0000"
+}

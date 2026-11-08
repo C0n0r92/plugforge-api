@@ -1,0 +1,188 @@
+{
+  "roll": "19500B",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://phoenixparkschool.ie/wp-content/uploads/2026/05/PPSS_Admissions_Policy_September-_2025.docx",
+      "final_url": "https://phoenixparkschool.ie/wp-content/uploads/2026/05/PPSS_Admissions_Policy_September-_2025.docx",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://www.phoenixparkschool.ie",
+      "final_url": "https://phoenixparkschool.ie/",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://phoenixparkschool.ie/wp-content/uploads/2026/10/Admissions-Notice-27_28.pdf",
+      "final_url": "https://phoenixparkschool.ie/wp-content/uploads/2026/10/Admissions-Notice-27_28.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admission Policy and Application Form"
+    },
+    {
+      "url": "https://phoenixparkschool.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://phoenixparkschool.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://phoenixparkschool.ie/wp-content/uploads/2025/10/Admissions-Notice-25_26.pdf",
+      "final_url": "https://phoenixparkschool.ie/wp-content/uploads/2025/10/Admissions-Notice-25_26.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Notice 25_26"
+    },
+    {
+      "url": "https://phoenixparkschool.ie/wp-content/uploads/2025/07/Admission-Pol_20250620_0001.pdf",
+      "final_url": "https://phoenixparkschool.ie/wp-content/uploads/2025/07/Admission-Pol_20250620_0001.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admission Pol_20250620_0001"
+    },
+    {
+      "url": "https://phoenixparkschool.ie/wp-content/uploads/2021/11/Phoenix-Park-Admissions-Policy-May-2021.pdf",
+      "final_url": "https://phoenixparkschool.ie/wp-content/uploads/2021/11/Phoenix-Park-Admissions-Policy-May-2021.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Phoenix Park Admissions Policy May 2021!"
+    },
+    {
+      "url": "https://phoenixparkschool.ie/wp-sitemap.xml",
+      "final_url": "https://phoenixparkschool.ie/wp-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://phoenixparkschool.ie/wp-sitemap-posts-tbuilder_layout_part-1.xml",
+      "final_url": "https://phoenixparkschool.ie/wp-sitemap-posts-tbuilder_layout_part-1.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://phoenixparkschool.ie/wp-sitemap-posts-post-1.xml",
+      "final_url": "https://phoenixparkschool.ie/wp-sitemap-posts-post-1.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://phoenixparkschool.ie/wp-sitemap-posts-page-1.xml",
+      "final_url": "https://phoenixparkschool.ie/wp-sitemap-posts-page-1.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://phoenixparkschool.ie/policies/",
+      "final_url": "https://phoenixparkschool.ie/policies/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://phoenixparkschool.ie/admissions/",
+      "final_url": "https://phoenixparkschool.ie/admissions/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions/policy URL from public sitemap"
+    },
+    {
+      "url": "https://phoenixparkschool.ie/wp-content/uploads/2021/11/Critical-Incid.Pol_.pdf",
+      "final_url": "https://phoenixparkschool.ie/wp-content/uploads/2021/11/Critical-Incid.Pol_.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Critical Incident Policy"
+    },
+    {
+      "url": "https://phoenixparkschool.ie/wp-content/uploads/2021/11/C19-Policy-Statement.pdf",
+      "final_url": "https://phoenixparkschool.ie/wp-content/uploads/2021/11/C19-Policy-Statement.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "COVID-19 Policy"
+    },
+    {
+      "url": "https://phoenixparkschool.ie/wp-content/uploads/2021/11/Anti-Bullying-Policy-Sep-2021-PPSS.pdf",
+      "final_url": "https://phoenixparkschool.ie/wp-content/uploads/2021/11/Anti-Bullying-Policy-Sep-2021-PPSS.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Anti-Bullying Policy"
+    },
+    {
+      "url": "https://phoenixparkschool.ie/wp-content/uploads/2021/11/Acceptable-Use-Policy-2021.pdf",
+      "final_url": "https://phoenixparkschool.ie/wp-content/uploads/2021/11/Acceptable-Use-Policy-2021.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Phoenix Park Acceptable Use Policy"
+    },
+    {
+      "url": "https://phoenixparkschool.ie/wp-content/uploads/2022/03/SPHE-Policy.pdf",
+      "final_url": "https://phoenixparkschool.ie/wp-content/uploads/2022/03/SPHE-Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "SPHE Policy"
+    },
+    {
+      "url": "https://phoenixparkschool.ie/wp-content/uploads/2022/03/RSE-Policy.pdf",
+      "final_url": "https://phoenixparkschool.ie/wp-content/uploads/2022/03/RSE-Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "RSE Policy"
+    },
+    {
+      "url": "https://phoenixparkschool.ie/wp-content/uploads/2022/03/Job-Sharing-Policy.pdf",
+      "final_url": "https://phoenixparkschool.ie/wp-content/uploads/2022/03/Job-Sharing-Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Job Sharing Policy"
+    },
+    {
+      "url": "https://phoenixparkschool.ie/wp-content/uploads/2026/05/Relationship_and_Welbeing_2025.pdf",
+      "final_url": "https://phoenixparkschool.ie/wp-content/uploads/2026/05/Relationship_and_Welbeing_2025.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Relationship and Wellbeing Policy"
+    },
+    {
+      "url": "https://phoenixparkschool.ie/wp-content/uploads/2026/05/Code_o_fBehaviour_2025.pdf",
+      "final_url": "https://phoenixparkschool.ie/wp-content/uploads/2026/05/Code_o_fBehaviour_2025.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Code of Behaviour Policy"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19500B",
+      "url": "https://phoenixparkschool.ie/wp-content/uploads/2026/05/PPSS_Admissions_Policy_September-_2025.docx",
+      "label": "Prior school admissions section",
+      "sha256": "7cce3253a6b522b669ec60937e9699aaecb288319ef2d3e0bdef866e199a2940",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/19500B_7cce3253a6b522b669ec.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 50267
+    },
+    {
+      "roll": "19500B",
+      "url": "https://phoenixparkschool.ie/wp-content/uploads/2021/11/Phoenix-Park-Admissions-Policy-May-2021.pdf",
+      "label": "Phoenix Park Admissions Policy May 2021!",
+      "sha256": "300bddec5401f0c1f338fac41243d458010d17f9f1bfeedac9f4740aeb68706e",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19500B_300bddec5401f0c1f338.txt",
+      "source_file": "database/milestone2/cache/300bddec5401f0c1f338fac41243d458010d17f9f1bfeedac9f4740aeb68706e.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 55219
+    }
+  ],
+  "pending_links": [],
+  "elapsed_seconds": 70.65,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:07:05+0000"
+}

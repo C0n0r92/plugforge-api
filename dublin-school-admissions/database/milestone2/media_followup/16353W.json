@@ -1,0 +1,25 @@
+{
+  "roll": "16353W",
+  "attempted_at": "2026-11-08T13:02:04+0000",
+  "method": "documented_public_WordPress_media_notice_and_Irish_title_gap_search",
+  "attempts": [
+    {
+      "url": "https://www.stbrigidsgirlsschool.com/wp-json/wp/v2/media?search=notice&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.stbrigidsgirlsschool.com/wp-json/wp/v2/media?search=f%C3%B3gra&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.stbrigidsgirlsschool.com/wp-content/uploads/dlm_uploads/2026/09/Annual-Admission-Notice-Junior-Infants-2027-2028.pdf",
+      "status": "http_404",
+      "label": "Annual Admission Notice Junior Infants 2027-2028"
+    }
+  ],
+  "documents": [],
+  "pending_links": [],
+  "earliest_year_cutoff": null,
+  "status": "attempted_no_new_notice_payload",
+  "elapsed_seconds": 10.7
+}

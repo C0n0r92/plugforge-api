@@ -1,0 +1,22 @@
+{
+  "task_id": "521f9e1039d2c465701eb31bf6802378",
+  "roll": "00697S",
+  "capture": {
+    "digest": "F3YVQ3WPJW5SVIEZ7PNSWUHYOC4QO3TB",
+    "mimetype": "text/html",
+    "original": "https://www.saintbrigids.ie/News/Admissions-20252026/21459/Index.html",
+    "statuscode": "200",
+    "timestamp": "20241212140147"
+  },
+  "original_url": "https://www.saintbrigids.ie/News/Admissions-20252026/21459/Index.html",
+  "archived_url": "https://web.archive.org/web/20241212140147/https://www.saintbrigids.ie/News/Admissions-20252026/21459/Index.html",
+  "attempted_at": "2026-11-08T12:34:08.233034+00:00",
+  "http_status": 302,
+  "headers": {
+    "Content-Type": "text/plain; charset=utf-8",
+    "location": "https://web.archive.org/web/20241104042730/http://www.saintbrigids.ie/News/Admissions-20252026/21459/Index.html"
+  },
+  "payload_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "bytes": 0,
+  "status": "archive_replay_http_302"
+}

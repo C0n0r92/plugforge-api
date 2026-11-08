@@ -1,0 +1,3115 @@
+[
+  {
+    "roll": "19668Q",
+    "url": "https://stfrancissns.ie/st-francis-sns-annual-admission-notice-2020/",
+    "label": "Admissions/policy URL from public sitemap",
+    "sha256": "013fcf18b9351856ada9deef991afa546ab195e5959c0f8465a1668596893dc8",
+    "format": "html",
+    "text_file": "database/milestone2/evidence/19668Q_013fcf18b9351856ada9.txt",
+    "source_file": null,
+    "candidate_status": "notice_body_candidate_requires_evidence_review",
+    "text_length": 1379,
+    "groups": [
+      {
+        "title": "2020/2021",
+        "year": "2020/2021",
+        "cohort": "Third Class",
+        "metrics": {
+          "places": null,
+          "pupil_teacher_ratio_numerator": 24,
+          "pupil_teacher_ratio_denominator": 1
+        },
+        "lo": 20,
+        "hi": 36,
+        "notes": "Source says number per ThirdClass24:1: a ratio, not total new places. Exact intake total not published.",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high",
+        "metric_definitions": {
+          "pupil_teacher_ratio_numerator": "Literal pupil-to-teacher ratio numerator, not available intake places.",
+          "pupil_teacher_ratio_denominator": "Literal pupil-to-teacher ratio denominator, not intake places."
+        }
+      }
+    ],
+    "retrieval_url": "https://stfrancissns.ie/st-francis-sns-annual-admission-notice-2020/",
+    "retrieved_at": "2026-11-08T12:45:39+0000"
+  },
+  {
+    "roll": "19716B",
+    "url": "https://sasns.ie/wp-content/uploads/2022/02/Annual-Admissions-Notice-2022-2023.pdf",
+    "label": "Annual Admissions Notice 2022-2023",
+    "sha256": "2ebd947ccf875a5110f947acbe5b56c1363ea0eb127456698095e21970c1b45f",
+    "format": "pdf",
+    "text_file": "database/milestone2/evidence/19716B_2ebd947ccf875a5110f9.txt",
+    "source_file": "database/milestone2/cache/2ebd947ccf875a5110f947acbe5b56c1363ea0eb127456698095e21970c1b45f.pdf",
+    "candidate_status": "notice_body_candidate_requires_evidence_review",
+    "text_length": 3725,
+    "groups": [
+      {
+        "title": "2022/2023",
+        "year": "2022/2023",
+        "cohort": "Third Class",
+        "metrics": {
+          "places": 90
+        },
+        "lo": 58,
+        "hi": 61,
+        "notes": "",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2022/2023",
+        "year": "2021/2022",
+        "cohort": "Third Class",
+        "metrics": {
+          "places": 90,
+          "applications": 83,
+          "offers": 83,
+          "waiting_list_names_placed": 0
+        },
+        "lo": 63,
+        "hi": 99,
+        "notes": "Exact senior intake, not Junior Infants. No total accepted offers is printed; criteria not summed.",
+        "phase": "retrospective",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2022/2023",
+        "year": "2021/2022",
+        "cohort": "Third Class",
+        "metrics": {
+          "offers": 83,
+          "acceptances": 83
+        },
+        "lo": 78,
+        "hi": 85,
+        "notes": "Only this explicitly printed criterion; not whole-intake accepted offers.",
+        "phase": "retrospective",
+        "scope": "criterion_1",
+        "quality": "high"
+      },
+      {
+        "title": "2022/2023",
+        "year": "2021/2022",
+        "cohort": "Third Class",
+        "metrics": {
+          "offers": 0,
+          "acceptances": 0
+        },
+        "lo": 87,
+        "hi": 89,
+        "notes": "Only this explicitly printed criterion; not whole-intake accepted offers.",
+        "phase": "retrospective",
+        "scope": "criterion_2",
+        "quality": "high"
+      },
+      {
+        "title": "2022/2023",
+        "year": "2021/2022",
+        "cohort": "Third Class",
+        "metrics": {
+          "offers": 0,
+          "acceptances": 0
+        },
+        "lo": 91,
+        "hi": 93,
+        "notes": "Only this explicitly printed criterion; not whole-intake accepted offers.",
+        "phase": "retrospective",
+        "scope": "criterion_3",
+        "quality": "high"
+      }
+    ],
+    "retrieval_url": "https://sasns.ie/wp-content/uploads/2022/02/Annual-Admissions-Notice-2022-2023.pdf",
+    "retrieved_at": "2026-11-08T13:05:38+0000"
+  },
+  {
+    "roll": "19716B",
+    "url": "https://sasns.ie/wp-content/uploads/2023/01/Annual-Admissions-Notice-2023-2024.pdf",
+    "label": "Annual Admissions Notice 2023-2024",
+    "sha256": "070b4019e9e7475e7d2c616e1dfbea66dd16966e3736a38b7d5ecfd5aa02bc5f",
+    "format": "pdf",
+    "text_file": "database/milestone2/evidence/19716B_070b4019e9e7475e7d2c.txt",
+    "source_file": "database/milestone2/cache/070b4019e9e7475e7d2c616e1dfbea66dd16966e3736a38b7d5ecfd5aa02bc5f.pdf",
+    "candidate_status": "notice_body_candidate_requires_evidence_review",
+    "text_length": 3725,
+    "groups": [
+      {
+        "title": "2023/2024",
+        "year": "2023/2024",
+        "cohort": "Third Class",
+        "metrics": {
+          "places": 90
+        },
+        "lo": 58,
+        "hi": 61,
+        "notes": "",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2023/2024",
+        "year": "2022/2023",
+        "cohort": "Third Class",
+        "metrics": {
+          "places": 90,
+          "applications": 87,
+          "offers": 87,
+          "waiting_list_names_placed": 0
+        },
+        "lo": 63,
+        "hi": 99,
+        "notes": "Exact senior intake, not Junior Infants. No total accepted offers is printed; criteria not summed.",
+        "phase": "retrospective",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2023/2024",
+        "year": "2022/2023",
+        "cohort": "Third Class",
+        "metrics": {
+          "offers": 87,
+          "acceptances": 87
+        },
+        "lo": 78,
+        "hi": 85,
+        "notes": "Only this explicitly printed criterion; not whole-intake accepted offers.",
+        "phase": "retrospective",
+        "scope": "criterion_1",
+        "quality": "high"
+      },
+      {
+        "title": "2023/2024",
+        "year": "2022/2023",
+        "cohort": "Third Class",
+        "metrics": {
+          "offers": 0,
+          "acceptances": 0
+        },
+        "lo": 87,
+        "hi": 89,
+        "notes": "Only this explicitly printed criterion; not whole-intake accepted offers.",
+        "phase": "retrospective",
+        "scope": "criterion_2",
+        "quality": "high"
+      },
+      {
+        "title": "2023/2024",
+        "year": "2022/2023",
+        "cohort": "Third Class",
+        "metrics": {
+          "offers": 0,
+          "acceptances": 0
+        },
+        "lo": 91,
+        "hi": 93,
+        "notes": "Only this explicitly printed criterion; not whole-intake accepted offers.",
+        "phase": "retrospective",
+        "scope": "criterion_3",
+        "quality": "high"
+      }
+    ],
+    "retrieval_url": "https://sasns.ie/wp-content/uploads/2023/01/Annual-Admissions-Notice-2023-2024.pdf",
+    "retrieved_at": "2026-11-08T13:05:41+0000"
+  },
+  {
+    "roll": "19716B",
+    "url": "https://sasns.ie/wp-content/uploads/2024/01/Annual-Admissions-Notice-2024-2025.pdf",
+    "label": "Annual Admissions Notice 2024-2025",
+    "sha256": "26dcd2aef308dac56edce9a30abc62e1f2d62b9846658f886952944864072b96",
+    "format": "pdf",
+    "text_file": "database/milestone2/evidence/19716B_26dcd2aef308dac56edc.txt",
+    "source_file": "database/milestone2/cache/26dcd2aef308dac56edce9a30abc62e1f2d62b9846658f886952944864072b96.pdf",
+    "candidate_status": "notice_body_candidate_requires_evidence_review",
+    "text_length": 3725,
+    "groups": [
+      {
+        "title": "2024/2025",
+        "year": "2024/2025",
+        "cohort": "Third Class",
+        "metrics": {
+          "places": 90
+        },
+        "lo": 58,
+        "hi": 61,
+        "notes": "",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2024/2025",
+        "year": "2023/2024",
+        "cohort": "Third Class",
+        "metrics": {
+          "places": 90,
+          "applications": 89,
+          "offers": 89,
+          "waiting_list_names_placed": 0
+        },
+        "lo": 63,
+        "hi": 99,
+        "notes": "Exact senior intake, not Junior Infants. No total accepted offers is printed; criteria not summed.",
+        "phase": "retrospective",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2024/2025",
+        "year": "2023/2024",
+        "cohort": "Third Class",
+        "metrics": {
+          "offers": 89,
+          "acceptances": 89
+        },
+        "lo": 78,
+        "hi": 85,
+        "notes": "Only this explicitly printed criterion; not whole-intake accepted offers.",
+        "phase": "retrospective",
+        "scope": "criterion_1",
+        "quality": "high"
+      },
+      {
+        "title": "2024/2025",
+        "year": "2023/2024",
+        "cohort": "Third Class",
+        "metrics": {
+          "offers": 0,
+          "acceptances": 0
+        },
+        "lo": 87,
+        "hi": 89,
+        "notes": "Only this explicitly printed criterion; not whole-intake accepted offers.",
+        "phase": "retrospective",
+        "scope": "criterion_2",
+        "quality": "high"
+      },
+      {
+        "title": "2024/2025",
+        "year": "2023/2024",
+        "cohort": "Third Class",
+        "metrics": {
+          "offers": 0,
+          "acceptances": 0
+        },
+        "lo": 91,
+        "hi": 93,
+        "notes": "Only this explicitly printed criterion; not whole-intake accepted offers.",
+        "phase": "retrospective",
+        "scope": "criterion_3",
+        "quality": "high"
+      }
+    ],
+    "retrieval_url": "https://sasns.ie/wp-content/uploads/2024/01/Annual-Admissions-Notice-2024-2025.pdf",
+    "retrieved_at": "2026-11-08T13:05:45+0000"
+  },
+  {
+    "roll": "19716B",
+    "url": "https://sasns.ie/wp-content/uploads/2025/01/Annual-Admissions-Notice-Mainstream-and-ASD-Class-2025-2026.pdf",
+    "label": "Annual Admissions Notice Mainstream and ASD Class 2025-2026",
+    "sha256": "9bedf3df8d8c00fb6f486ecdff648ba54d8fee5dff6ab0f57d15ec4454c756e8",
+    "format": "pdf",
+    "text_file": "database/milestone2/evidence/19716B_9bedf3df8d8c00fb6f48.txt",
+    "source_file": "database/milestone2/cache/9bedf3df8d8c00fb6f486ecdff648ba54d8fee5dff6ab0f57d15ec4454c756e8.pdf",
+    "candidate_status": "notice_body_candidate_requires_evidence_review",
+    "text_length": 6185,
+    "groups": [
+      {
+        "title": "2025/2026",
+        "year": "2025/2026",
+        "cohort": "Third Class",
+        "metrics": {
+          "places": 90
+        },
+        "lo": 56,
+        "hi": 58,
+        "notes": "",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2025/2026",
+        "year": "2024/2025",
+        "cohort": "Third Class",
+        "metrics": {
+          "places": 90,
+          "applications": 90,
+          "offers": 90,
+          "waiting_list_names_placed": 0
+        },
+        "lo": 66,
+        "hi": 100,
+        "notes": "Exact senior intake, not Junior Infants. No total accepted offers is printed; criteria not summed.",
+        "phase": "retrospective",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2025/2026",
+        "year": "2024/2025",
+        "cohort": "Third Class",
+        "metrics": {
+          "offers": 90,
+          "acceptances": 90
+        },
+        "lo": 79,
+        "hi": 86,
+        "notes": "Only this explicitly printed criterion; not whole-intake accepted offers.",
+        "phase": "retrospective",
+        "scope": "criterion_1",
+        "quality": "high"
+      },
+      {
+        "title": "2025/2026",
+        "year": "2024/2025",
+        "cohort": "Third Class",
+        "metrics": {
+          "offers": 0,
+          "acceptances": 0
+        },
+        "lo": 88,
+        "hi": 90,
+        "notes": "Only this explicitly printed criterion; not whole-intake accepted offers.",
+        "phase": "retrospective",
+        "scope": "criterion_2",
+        "quality": "high"
+      },
+      {
+        "title": "2025/2026",
+        "year": "2024/2025",
+        "cohort": "Third Class",
+        "metrics": {
+          "offers": 0,
+          "acceptances": 0
+        },
+        "lo": 92,
+        "hi": 94,
+        "notes": "Only this explicitly printed criterion; not whole-intake accepted offers.",
+        "phase": "retrospective",
+        "scope": "criterion_3",
+        "quality": "high"
+      },
+      {
+        "title": "2025/2026",
+        "year": "2025/2026",
+        "cohort": "ASD special class",
+        "metrics": {
+          "places": 2
+        },
+        "lo": 62,
+        "hi": 64,
+        "notes": "",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2025/2026",
+        "year": "2024/2025",
+        "cohort": "ASD special class",
+        "metrics": {
+          "places": 6,
+          "applications": 4,
+          "offers": 4,
+          "waiting_list_names_placed": 0
+        },
+        "lo": 108,
+        "hi": 149,
+        "notes": "",
+        "phase": "retrospective",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2025/2026",
+        "year": "2024/2025",
+        "cohort": "ASD special class",
+        "metrics": {
+          "offers": 1,
+          "acceptances": 1
+        },
+        "lo": 121,
+        "hi": 123,
+        "notes": "Only this explicitly printed criterion; not whole-intake accepted offers.",
+        "phase": "retrospective",
+        "scope": "criterion_1",
+        "quality": "high"
+      },
+      {
+        "title": "2025/2026",
+        "year": "2024/2025",
+        "cohort": "ASD special class",
+        "metrics": {
+          "offers": 3,
+          "acceptances": 3
+        },
+        "lo": 125,
+        "hi": 127,
+        "notes": "Only this explicitly printed criterion; not whole-intake accepted offers.",
+        "phase": "retrospective",
+        "scope": "criterion_2",
+        "quality": "high"
+      },
+      {
+        "title": "2025/2026",
+        "year": "2024/2025",
+        "cohort": "ASD special class",
+        "metrics": {
+          "offers": 0,
+          "acceptances": 0
+        },
+        "lo": 129,
+        "hi": 133,
+        "notes": "Only this explicitly printed criterion; not whole-intake accepted offers.",
+        "phase": "retrospective",
+        "scope": "criterion_3",
+        "quality": "high"
+      },
+      {
+        "title": "2025/2026",
+        "year": "2024/2025",
+        "cohort": "ASD special class",
+        "metrics": {
+          "offers": 0,
+          "acceptances": 0
+        },
+        "lo": 135,
+        "hi": 137,
+        "notes": "Only this explicitly printed criterion; not whole-intake accepted offers.",
+        "phase": "retrospective",
+        "scope": "criterion_4",
+        "quality": "high"
+      },
+      {
+        "title": "2025/2026",
+        "year": "2024/2025",
+        "cohort": "ASD special class",
+        "metrics": {
+          "offers": 0,
+          "acceptances": 0
+        },
+        "lo": 139,
+        "hi": 140,
+        "notes": "Only this explicitly printed criterion; not whole-intake accepted offers.",
+        "phase": "retrospective",
+        "scope": "criterion_5",
+        "quality": "high"
+      },
+      {
+        "title": "2025/2026",
+        "year": "2024/2025",
+        "cohort": "ASD special class",
+        "metrics": {
+          "offers": 0,
+          "acceptances": 0
+        },
+        "lo": 142,
+        "hi": 143,
+        "notes": "Only this explicitly printed criterion; not whole-intake accepted offers.",
+        "phase": "retrospective",
+        "scope": "criterion_6",
+        "quality": "high"
+      }
+    ],
+    "retrieval_url": "https://sasns.ie/wp-content/uploads/2025/01/Annual-Admissions-Notice-Mainstream-and-ASD-Class-2025-2026.pdf",
+    "retrieved_at": "2026-11-08T13:05:57+0000"
+  },
+  {
+    "roll": "19716B",
+    "url": "https://sasns.ie/wp-content/uploads/2025/09/Annual-Admissions-Notice-Mainstream-and-ASD-Class-2026-27.pdf",
+    "label": "Annual Admissions Notice Mainstream and ASD Class 2026-27",
+    "sha256": "9453eadb8fcc46267ade0715e856db3326fce1d26c3bd5b3cbfdc1bc01d22d31",
+    "format": "pdf",
+    "text_file": "database/milestone2/evidence/19716B_9453eadb8fcc46267ade.txt",
+    "source_file": "database/milestone2/cache/9453eadb8fcc46267ade0715e856db3326fce1d26c3bd5b3cbfdc1bc01d22d31.pdf",
+    "candidate_status": "notice_body_candidate_requires_evidence_review",
+    "text_length": 6485,
+    "groups": [
+      {
+        "title": "2026/2027",
+        "year": "2026/2027",
+        "cohort": "Third Class",
+        "metrics": {
+          "places": 90
+        },
+        "lo": 58,
+        "hi": 60,
+        "notes": "",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2026/2027",
+        "year": "2025/2026",
+        "cohort": "Third Class",
+        "metrics": {
+          "places": 90,
+          "applications": 95,
+          "offers": 92,
+          "waiting_list_names_placed": 3
+        },
+        "lo": 68,
+        "hi": 102,
+        "notes": "Exact senior intake, not Junior Infants. No total accepted offers is printed; criteria not summed.",
+        "phase": "retrospective",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2026/2027",
+        "year": "2025/2026",
+        "cohort": "Third Class",
+        "metrics": {
+          "offers": 91,
+          "acceptances": 91
+        },
+        "lo": 81,
+        "hi": 88,
+        "notes": "Only this explicitly printed criterion; not whole-intake accepted offers.",
+        "phase": "retrospective",
+        "scope": "criterion_1",
+        "quality": "high"
+      },
+      {
+        "title": "2026/2027",
+        "year": "2025/2026",
+        "cohort": "Third Class",
+        "metrics": {
+          "offers": 0,
+          "acceptances": 0
+        },
+        "lo": 90,
+        "hi": 92,
+        "notes": "Only this explicitly printed criterion; not whole-intake accepted offers.",
+        "phase": "retrospective",
+        "scope": "criterion_2",
+        "quality": "high"
+      },
+      {
+        "title": "2026/2027",
+        "year": "2025/2026",
+        "cohort": "Third Class",
+        "metrics": {
+          "offers": 1,
+          "acceptances": 1
+        },
+        "lo": 94,
+        "hi": 96,
+        "notes": "Only this explicitly printed criterion; not whole-intake accepted offers.",
+        "phase": "retrospective",
+        "scope": "criterion_3",
+        "quality": "high"
+      },
+      {
+        "title": "2026/2027",
+        "year": "2026/2027",
+        "cohort": "Autism special class",
+        "metrics": {
+          "places": 0
+        },
+        "lo": 64,
+        "hi": 66,
+        "notes": "",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2026/2027",
+        "year": "2025/2026",
+        "cohort": "Autism special class",
+        "metrics": {
+          "places": 2,
+          "applications": 4,
+          "offers": 2,
+          "waiting_list_names_placed": 0
+        },
+        "lo": 110,
+        "hi": 152,
+        "notes": "Explicit special-class historical table, not ThirdClass totals.",
+        "phase": "retrospective",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2026/2027",
+        "year": "2025/2026",
+        "cohort": "Autism special class",
+        "metrics": {
+          "offers": 2,
+          "acceptances": 2
+        },
+        "lo": 124,
+        "hi": 126,
+        "notes": "Only this explicitly printed criterion; not whole-intake accepted offers.",
+        "phase": "retrospective",
+        "scope": "criterion_1",
+        "quality": "high"
+      },
+      {
+        "title": "2026/2027",
+        "year": "2025/2026",
+        "cohort": "Autism special class",
+        "metrics": {
+          "offers": 0,
+          "acceptances": 0
+        },
+        "lo": 128,
+        "hi": 130,
+        "notes": "Only this explicitly printed criterion; not whole-intake accepted offers.",
+        "phase": "retrospective",
+        "scope": "criterion_2",
+        "quality": "high"
+      },
+      {
+        "title": "2026/2027",
+        "year": "2025/2026",
+        "cohort": "Autism special class",
+        "metrics": {
+          "offers": 0,
+          "acceptances": 0
+        },
+        "lo": 132,
+        "hi": 136,
+        "notes": "Only this explicitly printed criterion; not whole-intake accepted offers.",
+        "phase": "retrospective",
+        "scope": "criterion_3",
+        "quality": "high"
+      },
+      {
+        "title": "2026/2027",
+        "year": "2025/2026",
+        "cohort": "Autism special class",
+        "metrics": {
+          "offers": 0,
+          "acceptances": 0
+        },
+        "lo": 138,
+        "hi": 140,
+        "notes": "Only this explicitly printed criterion; not whole-intake accepted offers.",
+        "phase": "retrospective",
+        "scope": "criterion_4",
+        "quality": "high"
+      },
+      {
+        "title": "2026/2027",
+        "year": "2025/2026",
+        "cohort": "Autism special class",
+        "metrics": {
+          "offers": 0,
+          "acceptances": 0
+        },
+        "lo": 142,
+        "hi": 143,
+        "notes": "Only this explicitly printed criterion; not whole-intake accepted offers.",
+        "phase": "retrospective",
+        "scope": "criterion_5",
+        "quality": "high"
+      },
+      {
+        "title": "2026/2027",
+        "year": "2025/2026",
+        "cohort": "Autism special class",
+        "metrics": {
+          "offers": 0,
+          "acceptances": 0
+        },
+        "lo": 145,
+        "hi": 146,
+        "notes": "Only this explicitly printed criterion; not whole-intake accepted offers.",
+        "phase": "retrospective",
+        "scope": "criterion_6",
+        "quality": "high"
+      }
+    ],
+    "retrieval_url": "https://sasns.ie/wp-content/uploads/2025/09/Annual-Admissions-Notice-Mainstream-and-ASD-Class-2026-27.pdf",
+    "retrieved_at": "2026-11-08T13:06:01+0000"
+  },
+  {
+    "roll": "19716B",
+    "url": "https://sasns.ie/wp-content/uploads/2025/09/Annual-Admissions-Notice-Mainstream-and-ASD-Class-2026-27-1.pdf",
+    "label": "Annual Admissions Notice Mainstream and ASD Class 2026-27",
+    "sha256": "8d92856b49fde5a02422d0da4c423d2345240c686b8f43de31265e70e5317a92",
+    "format": "pdf",
+    "text_file": "database/milestone2/evidence/19716B_8d92856b49fde5a02422.txt",
+    "source_file": "database/milestone2/cache/8d92856b49fde5a02422d0da4c423d2345240c686b8f43de31265e70e5317a92.pdf",
+    "candidate_status": "notice_body_candidate_requires_evidence_review",
+    "text_length": 6487,
+    "groups": [
+      {
+        "title": "2026/2027",
+        "year": "2026/2027",
+        "cohort": "Third Class",
+        "metrics": {
+          "places": 90
+        },
+        "lo": 58,
+        "hi": 60,
+        "notes": "",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2026/2027",
+        "year": "2025/2026",
+        "cohort": "Third Class",
+        "metrics": {
+          "places": 90,
+          "applications": 95,
+          "offers": 92,
+          "waiting_list_names_placed": 3
+        },
+        "lo": 68,
+        "hi": 102,
+        "notes": "Exact senior intake, not Junior Infants. No total accepted offers is printed; criteria not summed.",
+        "phase": "retrospective",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2026/2027",
+        "year": "2025/2026",
+        "cohort": "Third Class",
+        "metrics": {
+          "offers": 91,
+          "acceptances": 91
+        },
+        "lo": 81,
+        "hi": 88,
+        "notes": "Only this explicitly printed criterion; not whole-intake accepted offers.",
+        "phase": "retrospective",
+        "scope": "criterion_1",
+        "quality": "high"
+      },
+      {
+        "title": "2026/2027",
+        "year": "2025/2026",
+        "cohort": "Third Class",
+        "metrics": {
+          "offers": 0,
+          "acceptances": 0
+        },
+        "lo": 90,
+        "hi": 92,
+        "notes": "Only this explicitly printed criterion; not whole-intake accepted offers.",
+        "phase": "retrospective",
+        "scope": "criterion_2",
+        "quality": "high"
+      },
+      {
+        "title": "2026/2027",
+        "year": "2025/2026",
+        "cohort": "Third Class",
+        "metrics": {
+          "offers": 1,
+          "acceptances": 1
+        },
+        "lo": 94,
+        "hi": 96,
+        "notes": "Only this explicitly printed criterion; not whole-intake accepted offers.",
+        "phase": "retrospective",
+        "scope": "criterion_3",
+        "quality": "high"
+      },
+      {
+        "title": "2026/2027",
+        "year": "2026/2027",
+        "cohort": "Autism special class",
+        "metrics": {
+          "places": 0
+        },
+        "lo": 64,
+        "hi": 66,
+        "notes": "",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2026/2027",
+        "year": "2025/2026",
+        "cohort": "Autism special class",
+        "metrics": {
+          "places": 2,
+          "applications": 4,
+          "offers": 2,
+          "waiting_list_names_placed": 0
+        },
+        "lo": 110,
+        "hi": 152,
+        "notes": "Explicit special-class historical table, not ThirdClass totals.",
+        "phase": "retrospective",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2026/2027",
+        "year": "2025/2026",
+        "cohort": "Autism special class",
+        "metrics": {
+          "offers": 2,
+          "acceptances": 2
+        },
+        "lo": 124,
+        "hi": 126,
+        "notes": "Only this explicitly printed criterion; not whole-intake accepted offers.",
+        "phase": "retrospective",
+        "scope": "criterion_1",
+        "quality": "high"
+      },
+      {
+        "title": "2026/2027",
+        "year": "2025/2026",
+        "cohort": "Autism special class",
+        "metrics": {
+          "offers": 0,
+          "acceptances": 0
+        },
+        "lo": 128,
+        "hi": 130,
+        "notes": "Only this explicitly printed criterion; not whole-intake accepted offers.",
+        "phase": "retrospective",
+        "scope": "criterion_2",
+        "quality": "high"
+      },
+      {
+        "title": "2026/2027",
+        "year": "2025/2026",
+        "cohort": "Autism special class",
+        "metrics": {
+          "offers": 0,
+          "acceptances": 0
+        },
+        "lo": 132,
+        "hi": 136,
+        "notes": "Only this explicitly printed criterion; not whole-intake accepted offers.",
+        "phase": "retrospective",
+        "scope": "criterion_3",
+        "quality": "high"
+      },
+      {
+        "title": "2026/2027",
+        "year": "2025/2026",
+        "cohort": "Autism special class",
+        "metrics": {
+          "offers": 0,
+          "acceptances": 0
+        },
+        "lo": 138,
+        "hi": 140,
+        "notes": "Only this explicitly printed criterion; not whole-intake accepted offers.",
+        "phase": "retrospective",
+        "scope": "criterion_4",
+        "quality": "high"
+      },
+      {
+        "title": "2026/2027",
+        "year": "2025/2026",
+        "cohort": "Autism special class",
+        "metrics": {
+          "offers": 0,
+          "acceptances": 0
+        },
+        "lo": 142,
+        "hi": 143,
+        "notes": "Only this explicitly printed criterion; not whole-intake accepted offers.",
+        "phase": "retrospective",
+        "scope": "criterion_5",
+        "quality": "high"
+      },
+      {
+        "title": "2026/2027",
+        "year": "2025/2026",
+        "cohort": "Autism special class",
+        "metrics": {
+          "offers": 0,
+          "acceptances": 0
+        },
+        "lo": 145,
+        "hi": 146,
+        "notes": "Only this explicitly printed criterion; not whole-intake accepted offers.",
+        "phase": "retrospective",
+        "scope": "criterion_6",
+        "quality": "high"
+      }
+    ],
+    "retrieval_url": "https://sasns.ie/wp-content/uploads/2025/09/Annual-Admissions-Notice-Mainstream-and-ASD-Class-2026-27-1.pdf",
+    "retrieved_at": "2026-11-08T13:06:04+0000"
+  },
+  {
+    "roll": "19716B",
+    "url": "https://sasns.ie/wp-content/uploads/2024/04/ASD-Class-Annual-Admissions-Notice-2024-2025.pdf",
+    "label": "ASD Class Annual Admissions Notice 2024-2025",
+    "sha256": "136c8cae812c7508fb5175d886297529b7ae4d8a7e91b1d9aaad46d3a650d537",
+    "format": "pdf",
+    "text_file": "database/milestone2/evidence/19716B_136c8cae812c7508fb51.txt",
+    "source_file": "database/milestone2/cache/136c8cae812c7508fb5175d886297529b7ae4d8a7e91b1d9aaad46d3a650d537.pdf",
+    "candidate_status": "notice_body_candidate_requires_evidence_review",
+    "text_length": 2058,
+    "groups": [
+      {
+        "title": "2024/2025",
+        "year": "2024/2025",
+        "cohort": "ASD special class",
+        "metrics": {
+          "places": 6
+        },
+        "lo": 52,
+        "hi": 54,
+        "notes": "April edition explicitly ASD6; March edition ASD section title conflicts with capacity row naming ThirdClass. Distinct editions; March scope stays unmatched.",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      }
+    ],
+    "retrieval_url": "https://sasns.ie/wp-content/uploads/2024/04/ASD-Class-Annual-Admissions-Notice-2024-2025.pdf",
+    "retrieved_at": "2026-11-08T13:05:54+0000"
+  },
+  {
+    "roll": "19716B",
+    "url": "https://sasns.ie/wp-content/uploads/2024/03/ASD-Class-Annual-Admissions-Notice-2024-2025.pdf",
+    "label": "ASD Class Annual Admissions Notice 2024-2025",
+    "sha256": "00a67c851000e654fd2c8bb66f6318238d12b7342dc0a681d02b6dc03968520e",
+    "format": "pdf",
+    "text_file": "database/milestone2/evidence/19716B_00a67c851000e654fd2c.txt",
+    "source_file": "database/milestone2/cache/00a67c851000e654fd2c8bb66f6318238d12b7342dc0a681d02b6dc03968520e.pdf",
+    "candidate_status": "notice_body_candidate_requires_evidence_review",
+    "text_length": 2058,
+    "groups": [
+      {
+        "title": "2024/2025",
+        "year": "2024/2025",
+        "cohort": "Ambiguous ASD versus Third Class intake",
+        "metrics": {
+          "places": 6
+        },
+        "lo": 52,
+        "hi": 54,
+        "notes": "April edition explicitly ASD6; March edition ASD section title conflicts with capacity row naming ThirdClass. Distinct editions; March scope stays unmatched.",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      }
+    ],
+    "retrieval_url": "https://sasns.ie/wp-content/uploads/2024/03/ASD-Class-Annual-Admissions-Notice-2024-2025.pdf",
+    "retrieved_at": "2026-11-08T13:05:51+0000"
+  },
+  {
+    "roll": "20047O",
+    "url": "https://www.gaelscoilbharra.net/cmsfiles/items/downloads/6583-1-fogra-maidir-le-ligean-isteach202324.docx",
+    "label": "Prior school admissions section",
+    "sha256": "3228fadd99c43c6668e2ca27265e6f4cad1e3743fef46d071e21e2c1bc21f0e1",
+    "format": "docx",
+    "text_file": "database/milestone2/evidence/20047O_3228fadd99c43c6668e2.txt",
+    "source_file": null,
+    "candidate_status": "notice_body_candidate_requires_evidence_review",
+    "text_length": 3687,
+    "groups": [
+      {
+        "title": "2027/2028",
+        "year": "2027/2028",
+        "cohort": "Junior Infants",
+        "metrics": {
+          "places": 28
+        },
+        "lo": 26,
+        "hi": 35,
+        "notes": "Irish source NaíonáinShóisearacha=JuniorInfants; filename is not the academic year.",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2027/2028",
+        "year": "2026/2027",
+        "cohort": "Junior Infants",
+        "metrics": {
+          "places": 28,
+          "applications": 56,
+          "offers": 29,
+          "waiting_list_names_placed": 27
+        },
+        "lo": 41,
+        "hi": 63,
+        "notes": "Irish iarratas means applications, tairiscintí offers, glactha accepted. Aggregate acceptance not printed.",
+        "phase": "retrospective",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2027/2028",
+        "year": "2026/2027",
+        "cohort": "Junior Infants",
+        "metrics": {
+          "offers": 18,
+          "acceptances": 17
+        },
+        "lo": 54,
+        "hi": 54,
+        "notes": "Only this explicitly printed criterion; not whole-intake accepted offers.",
+        "phase": "retrospective",
+        "scope": "criterion_1_siblings",
+        "quality": "high"
+      },
+      {
+        "title": "2027/2028",
+        "year": "2026/2027",
+        "cohort": "Junior Infants",
+        "metrics": {
+          "offers": 1,
+          "acceptances": 1
+        },
+        "lo": 55,
+        "hi": 55,
+        "notes": "Only this explicitly printed criterion; not whole-intake accepted offers.",
+        "phase": "retrospective",
+        "scope": "criterion_2_irish_level3",
+        "quality": "high"
+      },
+      {
+        "title": "2027/2028",
+        "year": "2026/2027",
+        "cohort": "Junior Infants",
+        "metrics": {
+          "offers": 6,
+          "acceptances": 6
+        },
+        "lo": 56,
+        "hi": 56,
+        "notes": "Only this explicitly printed criterion; not whole-intake accepted offers.",
+        "phase": "retrospective",
+        "scope": "criterion_3_irish_level2",
+        "quality": "high"
+      },
+      {
+        "title": "2027/2028",
+        "year": "2026/2027",
+        "cohort": "Junior Infants",
+        "metrics": {
+          "offers": 3,
+          "acceptances": 3
+        },
+        "lo": 58,
+        "hi": 58,
+        "notes": "Only this explicitly printed criterion; not whole-intake accepted offers.",
+        "phase": "retrospective",
+        "scope": "criterion_5_past_pupil",
+        "quality": "high"
+      },
+      {
+        "title": "2027/2028",
+        "year": "2026/2027",
+        "cohort": "Junior Infants",
+        "metrics": {
+          "offers": 1,
+          "acceptances": 1
+        },
+        "lo": 59,
+        "hi": 59,
+        "notes": "Only this explicitly printed criterion; not whole-intake accepted offers.",
+        "phase": "retrospective",
+        "scope": "criterion_6_age",
+        "quality": "high"
+      }
+    ],
+    "retrieval_url": "https://www.gaelscoilbharra.net/cmsfiles/items/downloads/6583-1-fogra-maidir-le-ligean-isteach202324.docx",
+    "retrieved_at": "2026-11-08T12:46:36+0000"
+  },
+  {
+    "roll": "20161M",
+    "url": "https://www.dpetns.ie/wp-content/uploads/2020/09/Admissions-Notice.docx",
+    "label": "Admissions Notice",
+    "sha256": "c6d79c42448b76af808db9d8c7e72cac066547a6a33a04318453d4e236326139",
+    "format": "docx",
+    "text_file": "database/milestone2/evidence/20161M_c6d79c42448b76af808d.txt",
+    "source_file": null,
+    "candidate_status": "notice_body_candidate_requires_evidence_review",
+    "text_length": 5838,
+    "groups": [
+      {
+        "title": "2021/2022",
+        "year": null,
+        "cohort": "Junior Infants",
+        "metrics": {
+          "places": 52
+        },
+        "lo": 64,
+        "hi": 72,
+        "notes": "2021/22 title vs available places2020 conflict.",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "medium"
+      },
+      {
+        "title": "2021/2022",
+        "year": null,
+        "cohort": "Autism special class",
+        "metrics": {
+          "places": 2
+        },
+        "lo": 64,
+        "hi": 72,
+        "notes": "Title/capacity year conflict.",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "medium"
+      },
+      {
+        "title": "2021/2022",
+        "year": "2020/2021",
+        "cohort": "All listed intake groups combined: Junior Infants, Autism and other grades",
+        "metrics": {
+          "places": 52,
+          "applications": 178,
+          "offers": 99,
+          "waiting_list_post_allocation_opt_in": 15
+        },
+        "lo": 85,
+        "hi": 113,
+        "notes": "Source heading explicitly includes JuniorInfants, SpecialClasses and other grades. Waiting-list figure is after remaining families were contacted following allocation; not names ever placed throughout the process. No cross-cohort applications/places ratio.",
+        "phase": "retrospective",
+        "scope": "whole_table",
+        "quality": "high",
+        "metric_definitions": {
+          "waiting_list_post_allocation_opt_in": "Names explicitly opting onto list after allocation and subsequent contact with remaining families; not initial or cumulative-ever names."
+        }
+      },
+      {
+        "title": "2021/2022",
+        "year": "2020/2021",
+        "cohort": "All listed intake groups combined: Junior Infants, Autism and other grades",
+        "metrics": {
+          "offers": 28,
+          "acceptances": 22,
+          "offers_deferred_to_next_entry_year": 6
+        },
+        "lo": 99,
+        "hi": 102,
+        "notes": "Only this explicitly printed criterion; not whole-intake accepted offers.",
+        "phase": "retrospective",
+        "scope": "criterion_1_siblings",
+        "quality": "high",
+        "metric_definitions": {
+          "offers_deferred_to_next_entry_year": "Source-explicit offered places deferred to the named following intake calendar year; not this-year acceptance or admission."
+        }
+      },
+      {
+        "title": "2021/2022",
+        "year": "2020/2021",
+        "cohort": "All listed intake groups combined: Junior Infants, Autism and other grades",
+        "metrics": {
+          "offers": 69,
+          "acceptances": 30,
+          "offers_deferred_to_next_entry_year": 12,
+          "offer_rejections": 27
+        },
+        "lo": 104,
+        "hi": 108,
+        "notes": "Only this explicitly printed criterion; not whole-intake accepted offers.",
+        "phase": "retrospective",
+        "scope": "criterion_2_first_come",
+        "quality": "high",
+        "metric_definitions": {
+          "offers_deferred_to_next_entry_year": "Source-explicit offered places deferred to the named following intake calendar year; not this-year acceptance or admission."
+        }
+      }
+    ],
+    "retrieval_url": "https://www.dpetns.ie/wp-content/uploads/2020/09/Admissions-Notice.docx",
+    "retrieved_at": "2026-11-08T13:06:27+0000"
+  },
+  {
+    "roll": "20161M",
+    "url": "https://www.dpetns.ie/wp-content/uploads/2023/01/Annual-Admissions-Notice-Sept-2022-1.pdf",
+    "label": "Admissions Notice",
+    "sha256": "0b0b56c3f1cc4efd13a83a4a68d6dee72a5c52edf2737b089955ee61263852f6",
+    "format": "pdf",
+    "text_file": "database/milestone2/evidence/20161M_0b0b56c3f1cc4efd13a8.txt",
+    "source_file": "database/milestone2/cache/0b0b56c3f1cc4efd13a83a4a68d6dee72a5c52edf2737b089955ee61263852f6.pdf",
+    "candidate_status": "notice_body_candidate_requires_evidence_review",
+    "text_length": 7341,
+    "groups": [
+      {
+        "title": "2023/2024",
+        "year": "2023/2024",
+        "cohort": "Junior Infants",
+        "metrics": {
+          "places": 50
+        },
+        "lo": 85,
+        "hi": 97,
+        "notes": "",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2023/2024",
+        "year": "2023/2024",
+        "cohort": "Autism special class",
+        "metrics": {
+          "places": null
+        },
+        "lo": 85,
+        "hi": 97,
+        "notes": "Source unknown dependent on vacancies, not0.",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2023/2024",
+        "year": "2022/2023",
+        "cohort": "All listed intake groups combined: Junior Infants, Autism and other grades",
+        "metrics": {
+          "places": 53,
+          "applications": 157,
+          "offers": 157,
+          "waiting_list_post_allocation_opt_in": 0
+        },
+        "lo": 115,
+        "hi": 142,
+        "notes": "Source heading explicitly includes JuniorInfants, SpecialClasses and other grades. Waiting-list figure is after remaining families were contacted following allocation; not names ever placed throughout the process. No cross-cohort applications/places ratio.",
+        "phase": "retrospective",
+        "scope": "whole_table",
+        "quality": "high",
+        "metric_definitions": {
+          "waiting_list_post_allocation_opt_in": "Names explicitly opting onto list after allocation and subsequent contact with remaining families; not initial or cumulative-ever names."
+        }
+      },
+      {
+        "title": "2023/2024",
+        "year": "2022/2023",
+        "cohort": "All listed intake groups combined: Junior Infants, Autism and other grades",
+        "metrics": {
+          "offers": 28,
+          "acceptances": 26,
+          "offers_deferred_to_next_entry_year": 2
+        },
+        "lo": 127,
+        "hi": 130,
+        "notes": "Only this explicitly printed criterion; not whole-intake accepted offers.",
+        "phase": "retrospective",
+        "scope": "criterion_1_siblings",
+        "quality": "high",
+        "metric_definitions": {
+          "offers_deferred_to_next_entry_year": "Source-explicit offered places deferred to the named following intake calendar year; not this-year acceptance or admission."
+        }
+      },
+      {
+        "title": "2023/2024",
+        "year": "2022/2023",
+        "cohort": "All listed intake groups combined: Junior Infants, Autism and other grades",
+        "metrics": {
+          "offers": 129,
+          "acceptances": 27,
+          "offers_deferred_to_next_entry_year": 6,
+          "offer_rejections": 96
+        },
+        "lo": 132,
+        "hi": 136,
+        "notes": "Only this explicitly printed criterion; not whole-intake accepted offers.",
+        "phase": "retrospective",
+        "scope": "criterion_2_first_come",
+        "quality": "high",
+        "metric_definitions": {
+          "offers_deferred_to_next_entry_year": "Source-explicit offered places deferred to the named following intake calendar year; not this-year acceptance or admission."
+        }
+      },
+      {
+        "title": "2023/2024",
+        "year": "2022/2023",
+        "cohort": "Junior Infants",
+        "metrics": {
+          "places": 50
+        },
+        "lo": 123,
+        "hi": 123,
+        "notes": "Explicit retrospective place subgroup only; combined applications/offers never attached.",
+        "phase": "retrospective",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2023/2024",
+        "year": "2022/2023",
+        "cohort": "Autism special class",
+        "metrics": {
+          "places": 2
+        },
+        "lo": 124,
+        "hi": 124,
+        "notes": "Explicit retrospective place subgroup only; combined applications/offers never attached.",
+        "phase": "retrospective",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2023/2024",
+        "year": "2022/2023",
+        "cohort": "Fourth Class",
+        "metrics": {
+          "places": 1
+        },
+        "lo": 125,
+        "hi": 125,
+        "notes": "Explicit retrospective place subgroup only; combined applications/offers never attached.",
+        "phase": "retrospective",
+        "scope": "whole_table",
+        "quality": "high"
+      }
+    ],
+    "retrieval_url": "https://www.dpetns.ie/wp-content/uploads/2023/01/Annual-Admissions-Notice-Sept-2022-1.pdf",
+    "retrieved_at": "2026-11-08T13:06:32+0000"
+  },
+  {
+    "roll": "20161M",
+    "url": "https://www.dpetns.ie/wp-content/uploads/2022/09/Annual-Admissions-Notice-Sept-2022.pdf",
+    "label": "Admissions Notice",
+    "sha256": "0eff97e62225f28f3b42db745076667a97c5aca395943b891ed6e80e8e960a9a",
+    "format": "pdf",
+    "text_file": "database/milestone2/evidence/20161M_0eff97e62225f28f3b42.txt",
+    "source_file": "database/milestone2/cache/0eff97e62225f28f3b42db745076667a97c5aca395943b891ed6e80e8e960a9a.pdf",
+    "candidate_status": "notice_body_candidate_requires_evidence_review",
+    "text_length": 7340,
+    "groups": [
+      {
+        "title": "2023/2024",
+        "year": "2023/2024",
+        "cohort": "Junior Infants",
+        "metrics": {
+          "places": 50
+        },
+        "lo": 85,
+        "hi": 97,
+        "notes": "",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2023/2024",
+        "year": "2023/2024",
+        "cohort": "Autism special class",
+        "metrics": {
+          "places": null
+        },
+        "lo": 85,
+        "hi": 97,
+        "notes": "Source unknown dependent on vacancies, not0.",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2023/2024",
+        "year": "2022/2023",
+        "cohort": "All listed intake groups combined: Junior Infants, Autism and other grades",
+        "metrics": {
+          "places": 53,
+          "applications": 157,
+          "offers": 157,
+          "waiting_list_post_allocation_opt_in": 0
+        },
+        "lo": 115,
+        "hi": 142,
+        "notes": "Source heading explicitly includes JuniorInfants, SpecialClasses and other grades. Waiting-list figure is after remaining families were contacted following allocation; not names ever placed throughout the process. No cross-cohort applications/places ratio.",
+        "phase": "retrospective",
+        "scope": "whole_table",
+        "quality": "high",
+        "metric_definitions": {
+          "waiting_list_post_allocation_opt_in": "Names explicitly opting onto list after allocation and subsequent contact with remaining families; not initial or cumulative-ever names."
+        }
+      },
+      {
+        "title": "2023/2024",
+        "year": "2022/2023",
+        "cohort": "All listed intake groups combined: Junior Infants, Autism and other grades",
+        "metrics": {
+          "offers": 28,
+          "acceptances": 26,
+          "offers_deferred_to_next_entry_year": 2
+        },
+        "lo": 127,
+        "hi": 130,
+        "notes": "Only this explicitly printed criterion; not whole-intake accepted offers.",
+        "phase": "retrospective",
+        "scope": "criterion_1_siblings",
+        "quality": "high",
+        "metric_definitions": {
+          "offers_deferred_to_next_entry_year": "Source-explicit offered places deferred to the named following intake calendar year; not this-year acceptance or admission."
+        }
+      },
+      {
+        "title": "2023/2024",
+        "year": "2022/2023",
+        "cohort": "All listed intake groups combined: Junior Infants, Autism and other grades",
+        "metrics": {
+          "offers": 129,
+          "acceptances": 27,
+          "offers_deferred_to_next_entry_year": 6,
+          "offer_rejections": 96
+        },
+        "lo": 132,
+        "hi": 136,
+        "notes": "Only this explicitly printed criterion; not whole-intake accepted offers.",
+        "phase": "retrospective",
+        "scope": "criterion_2_first_come",
+        "quality": "high",
+        "metric_definitions": {
+          "offers_deferred_to_next_entry_year": "Source-explicit offered places deferred to the named following intake calendar year; not this-year acceptance or admission."
+        }
+      },
+      {
+        "title": "2023/2024",
+        "year": "2022/2023",
+        "cohort": "Junior Infants",
+        "metrics": {
+          "places": 50
+        },
+        "lo": 123,
+        "hi": 123,
+        "notes": "Explicit retrospective place subgroup only; combined applications/offers never attached.",
+        "phase": "retrospective",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2023/2024",
+        "year": "2022/2023",
+        "cohort": "Autism special class",
+        "metrics": {
+          "places": 2
+        },
+        "lo": 124,
+        "hi": 124,
+        "notes": "Explicit retrospective place subgroup only; combined applications/offers never attached.",
+        "phase": "retrospective",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2023/2024",
+        "year": "2022/2023",
+        "cohort": "Fourth Class",
+        "metrics": {
+          "places": 1
+        },
+        "lo": 125,
+        "hi": 125,
+        "notes": "Explicit retrospective place subgroup only; combined applications/offers never attached.",
+        "phase": "retrospective",
+        "scope": "whole_table",
+        "quality": "high"
+      }
+    ],
+    "retrieval_url": "https://www.dpetns.ie/wp-content/uploads/2022/09/Annual-Admissions-Notice-Sept-2022.pdf",
+    "retrieved_at": "2026-11-08T13:06:29+0000"
+  },
+  {
+    "roll": "20161M",
+    "url": "https://www.dpetns.ie/wp-content/uploads/2023/10/Annual-Admissions-Notice-Sept-2023.pdf",
+    "label": "Annual Admissions Notice",
+    "sha256": "0056253402347cd3cfed0388ef3ce214b7a15d0b9420f1ecd825ae38a4986b4c",
+    "format": "pdf",
+    "text_file": "database/milestone2/evidence/20161M_0056253402347cd3cfed.txt",
+    "source_file": "database/milestone2/cache/0056253402347cd3cfed0388ef3ce214b7a15d0b9420f1ecd825ae38a4986b4c.pdf",
+    "candidate_status": "notice_body_candidate_requires_evidence_review",
+    "text_length": 8081,
+    "groups": [
+      {
+        "title": "2024/2025",
+        "year": "2024/2025",
+        "cohort": "Junior Infants",
+        "metrics": {
+          "places": 50
+        },
+        "lo": 98,
+        "hi": 109,
+        "notes": "",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2024/2025",
+        "year": "2024/2025",
+        "cohort": "Autism special class",
+        "metrics": {
+          "places": null
+        },
+        "lo": 98,
+        "hi": 109,
+        "notes": "Source unknown dependent on vacancies, not0.",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2024/2025",
+        "year": "2023/2024",
+        "cohort": "All listed intake groups combined: Junior Infants, Autism and other grades",
+        "metrics": {
+          "places": 57,
+          "applications": 196,
+          "offers": 107,
+          "waiting_list_post_allocation_opt_in": 139
+        },
+        "lo": 127,
+        "hi": 154,
+        "notes": "Source heading explicitly includes JuniorInfants, SpecialClasses and other grades. Waiting-list figure is after remaining families were contacted following allocation; not names ever placed throughout the process. No cross-cohort applications/places ratio.",
+        "phase": "retrospective",
+        "scope": "whole_table",
+        "quality": "high",
+        "metric_definitions": {
+          "waiting_list_post_allocation_opt_in": "Names explicitly opting onto list after allocation and subsequent contact with remaining families; not initial or cumulative-ever names."
+        }
+      },
+      {
+        "title": "2024/2025",
+        "year": "2023/2024",
+        "cohort": "All listed intake groups combined: Junior Infants, Autism and other grades",
+        "metrics": {
+          "offers": 21,
+          "acceptances": 14,
+          "offer_rejections": 7
+        },
+        "lo": 141,
+        "hi": 144,
+        "notes": "Only this explicitly printed criterion; not whole-intake accepted offers.",
+        "phase": "retrospective",
+        "scope": "criterion_1_siblings",
+        "quality": "high"
+      },
+      {
+        "title": "2024/2025",
+        "year": "2023/2024",
+        "cohort": "All listed intake groups combined: Junior Infants, Autism and other grades",
+        "metrics": {
+          "offers": 86,
+          "acceptances": 36,
+          "offer_rejections": 50
+        },
+        "lo": 146,
+        "hi": 149,
+        "notes": "Only this explicitly printed criterion; not whole-intake accepted offers.",
+        "phase": "retrospective",
+        "scope": "criterion_2_first_come",
+        "quality": "high"
+      },
+      {
+        "title": "2024/2025",
+        "year": "2023/2024",
+        "cohort": "Junior Infants",
+        "metrics": {
+          "places": 50
+        },
+        "lo": 136,
+        "hi": 136,
+        "notes": "Explicit retrospective place subgroup only; combined applications/offers never attached.",
+        "phase": "retrospective",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2024/2025",
+        "year": "2023/2024",
+        "cohort": "Autism special class",
+        "metrics": {
+          "places": 3
+        },
+        "lo": 137,
+        "hi": 137,
+        "notes": "Explicit retrospective place subgroup only; combined applications/offers never attached.",
+        "phase": "retrospective",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2024/2025",
+        "year": "2023/2024",
+        "cohort": "Second Class",
+        "metrics": {
+          "places": 3
+        },
+        "lo": 138,
+        "hi": 138,
+        "notes": "Explicit retrospective place subgroup only; combined applications/offers never attached.",
+        "phase": "retrospective",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2024/2025",
+        "year": "2023/2024",
+        "cohort": "Fifth Class",
+        "metrics": {
+          "places": 1
+        },
+        "lo": 139,
+        "hi": 139,
+        "notes": "Explicit retrospective place subgroup only; combined applications/offers never attached.",
+        "phase": "retrospective",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2024/2025",
+        "year": "2023/2024",
+        "cohort": "Junior Infants",
+        "metrics": {
+          "pre_act_places_offered_and_accepted": 50
+        },
+        "lo": 116,
+        "hi": 121,
+        "notes": "Explicit pre-Section62 offered-and-accepted places for2023/24; not current2024/25 quota or all-intake acceptance total.",
+        "phase": "pre_commencement",
+        "scope": "pre_section_62_commencement",
+        "quality": "high",
+        "metric_definitions": {
+          "pre_act_places_offered_and_accepted": "Places explicitly offered and accepted before Section62 commencement for this printed intake year; not all-intake offers/acceptance totals."
+        }
+      },
+      {
+        "title": "2024/2025",
+        "year": "2023/2024",
+        "cohort": "Autism special class",
+        "metrics": {
+          "pre_act_places_offered_and_accepted": 3
+        },
+        "lo": 116,
+        "hi": 122,
+        "notes": "Explicit pre-Section62 offered-and-accepted places for2023/24; not current2024/25 quota or all-intake acceptance total.",
+        "phase": "pre_commencement",
+        "scope": "pre_section_62_commencement",
+        "quality": "high",
+        "metric_definitions": {
+          "pre_act_places_offered_and_accepted": "Places explicitly offered and accepted before Section62 commencement for this printed intake year; not all-intake offers/acceptance totals."
+        }
+      }
+    ],
+    "retrieval_url": "https://www.dpetns.ie/wp-content/uploads/2023/10/Annual-Admissions-Notice-Sept-2023.pdf",
+    "retrieved_at": "2026-11-08T13:06:35+0000"
+  },
+  {
+    "roll": "20161M",
+    "url": "https://www.dpetns.ie/wp-content/uploads/2023/10/Annual-Admissions-Notice-Sept-2023-Correct.pdf",
+    "label": "Annual Admissions Notice",
+    "sha256": "ea0159f5988c6c116e38404fe4c097b0b2abc5529f384f718d36d98d289d635d",
+    "format": "pdf",
+    "text_file": "database/milestone2/evidence/20161M_ea0159f5988c6c116e38.txt",
+    "source_file": "database/milestone2/cache/ea0159f5988c6c116e38404fe4c097b0b2abc5529f384f718d36d98d289d635d.pdf",
+    "candidate_status": "notice_body_candidate_requires_evidence_review",
+    "text_length": 8081,
+    "groups": [
+      {
+        "title": "2024/2025",
+        "year": "2024/2025",
+        "cohort": "Junior Infants",
+        "metrics": {
+          "places": 50
+        },
+        "lo": 98,
+        "hi": 109,
+        "notes": "",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2024/2025",
+        "year": "2024/2025",
+        "cohort": "Autism special class",
+        "metrics": {
+          "places": null
+        },
+        "lo": 98,
+        "hi": 109,
+        "notes": "Source unknown dependent on vacancies, not0.",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2024/2025",
+        "year": "2023/2024",
+        "cohort": "All listed intake groups combined: Junior Infants, Autism and other grades",
+        "metrics": {
+          "places": 57,
+          "applications": 196,
+          "offers": 107,
+          "waiting_list_post_allocation_opt_in": 139
+        },
+        "lo": 127,
+        "hi": 154,
+        "notes": "Source heading explicitly includes JuniorInfants, SpecialClasses and other grades. Waiting-list figure is after remaining families were contacted following allocation; not names ever placed throughout the process. No cross-cohort applications/places ratio.",
+        "phase": "retrospective",
+        "scope": "whole_table",
+        "quality": "high",
+        "metric_definitions": {
+          "waiting_list_post_allocation_opt_in": "Names explicitly opting onto list after allocation and subsequent contact with remaining families; not initial or cumulative-ever names."
+        }
+      },
+      {
+        "title": "2024/2025",
+        "year": "2023/2024",
+        "cohort": "All listed intake groups combined: Junior Infants, Autism and other grades",
+        "metrics": {
+          "offers": 21,
+          "acceptances": 14,
+          "offer_rejections": 7
+        },
+        "lo": 141,
+        "hi": 144,
+        "notes": "Only this explicitly printed criterion; not whole-intake accepted offers.",
+        "phase": "retrospective",
+        "scope": "criterion_1_siblings",
+        "quality": "high"
+      },
+      {
+        "title": "2024/2025",
+        "year": "2023/2024",
+        "cohort": "All listed intake groups combined: Junior Infants, Autism and other grades",
+        "metrics": {
+          "offers": 86,
+          "acceptances": 36,
+          "offer_rejections": 50
+        },
+        "lo": 146,
+        "hi": 149,
+        "notes": "Only this explicitly printed criterion; not whole-intake accepted offers.",
+        "phase": "retrospective",
+        "scope": "criterion_2_first_come",
+        "quality": "high"
+      },
+      {
+        "title": "2024/2025",
+        "year": "2023/2024",
+        "cohort": "Junior Infants",
+        "metrics": {
+          "places": 50
+        },
+        "lo": 136,
+        "hi": 136,
+        "notes": "Explicit retrospective place subgroup only; combined applications/offers never attached.",
+        "phase": "retrospective",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2024/2025",
+        "year": "2023/2024",
+        "cohort": "Autism special class",
+        "metrics": {
+          "places": 3
+        },
+        "lo": 137,
+        "hi": 137,
+        "notes": "Explicit retrospective place subgroup only; combined applications/offers never attached.",
+        "phase": "retrospective",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2024/2025",
+        "year": "2023/2024",
+        "cohort": "Second Class",
+        "metrics": {
+          "places": 3
+        },
+        "lo": 138,
+        "hi": 138,
+        "notes": "Explicit retrospective place subgroup only; combined applications/offers never attached.",
+        "phase": "retrospective",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2024/2025",
+        "year": "2023/2024",
+        "cohort": "Fifth Class",
+        "metrics": {
+          "places": 1
+        },
+        "lo": 139,
+        "hi": 139,
+        "notes": "Explicit retrospective place subgroup only; combined applications/offers never attached.",
+        "phase": "retrospective",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2024/2025",
+        "year": "2023/2024",
+        "cohort": "Junior Infants",
+        "metrics": {
+          "pre_act_places_offered_and_accepted": 50
+        },
+        "lo": 116,
+        "hi": 121,
+        "notes": "Explicit pre-Section62 offered-and-accepted places for2023/24; not current2024/25 quota or all-intake acceptance total.",
+        "phase": "pre_commencement",
+        "scope": "pre_section_62_commencement",
+        "quality": "high",
+        "metric_definitions": {
+          "pre_act_places_offered_and_accepted": "Places explicitly offered and accepted before Section62 commencement for this printed intake year; not all-intake offers/acceptance totals."
+        }
+      },
+      {
+        "title": "2024/2025",
+        "year": "2023/2024",
+        "cohort": "Autism special class",
+        "metrics": {
+          "pre_act_places_offered_and_accepted": 3
+        },
+        "lo": 116,
+        "hi": 122,
+        "notes": "Explicit pre-Section62 offered-and-accepted places for2023/24; not current2024/25 quota or all-intake acceptance total.",
+        "phase": "pre_commencement",
+        "scope": "pre_section_62_commencement",
+        "quality": "high",
+        "metric_definitions": {
+          "pre_act_places_offered_and_accepted": "Places explicitly offered and accepted before Section62 commencement for this printed intake year; not all-intake offers/acceptance totals."
+        }
+      }
+    ],
+    "retrieval_url": "https://www.dpetns.ie/wp-content/uploads/2023/10/Annual-Admissions-Notice-Sept-2023-Correct.pdf",
+    "retrieved_at": "2026-11-08T13:06:38+0000"
+  },
+  {
+    "roll": "20161M",
+    "url": "https://www.dpetns.ie/wp-content/uploads/2023/10/Annual-Admissions-Notice-Sept-2023-1.pdf",
+    "label": "Annual Admissions Notice &#8211; Sept 2023 (1)",
+    "sha256": "0f75073d35ff71d628cfb580e671c4aa4800ff12548507c3f918ac1c7ea1085f",
+    "format": "pdf",
+    "text_file": "database/milestone2/evidence/20161M_0f75073d35ff71d628cf.txt",
+    "source_file": "database/milestone2/cache/0f75073d35ff71d628cfb580e671c4aa4800ff12548507c3f918ac1c7ea1085f.pdf",
+    "candidate_status": "notice_body_candidate_requires_evidence_review",
+    "text_length": 8086,
+    "groups": [
+      {
+        "title": "2024/2025",
+        "year": "2024/2025",
+        "cohort": "Junior Infants",
+        "metrics": {
+          "places": 50
+        },
+        "lo": 98,
+        "hi": 109,
+        "notes": "",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2024/2025",
+        "year": "2024/2025",
+        "cohort": "Autism special class",
+        "metrics": {
+          "places": null
+        },
+        "lo": 98,
+        "hi": 109,
+        "notes": "Source unknown dependent on vacancies, not0.",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2024/2025",
+        "year": "2023/2024",
+        "cohort": "All listed intake groups combined: Junior Infants, Autism and other grades",
+        "metrics": {
+          "places": 57,
+          "applications": 196,
+          "offers": 107,
+          "waiting_list_post_allocation_opt_in": 139
+        },
+        "lo": 127,
+        "hi": 154,
+        "notes": "Source heading explicitly includes JuniorInfants, SpecialClasses and other grades. Waiting-list figure is after remaining families were contacted following allocation; not names ever placed throughout the process. No cross-cohort applications/places ratio.",
+        "phase": "retrospective",
+        "scope": "whole_table",
+        "quality": "high",
+        "metric_definitions": {
+          "waiting_list_post_allocation_opt_in": "Names explicitly opting onto list after allocation and subsequent contact with remaining families; not initial or cumulative-ever names."
+        }
+      },
+      {
+        "title": "2024/2025",
+        "year": "2023/2024",
+        "cohort": "All listed intake groups combined: Junior Infants, Autism and other grades",
+        "metrics": {
+          "offers": 21,
+          "acceptances": 14,
+          "offer_rejections": 7
+        },
+        "lo": 141,
+        "hi": 144,
+        "notes": "Only this explicitly printed criterion; not whole-intake accepted offers.",
+        "phase": "retrospective",
+        "scope": "criterion_1_siblings",
+        "quality": "high"
+      },
+      {
+        "title": "2024/2025",
+        "year": "2023/2024",
+        "cohort": "All listed intake groups combined: Junior Infants, Autism and other grades",
+        "metrics": {
+          "offers": 86,
+          "acceptances": 36,
+          "offer_rejections": 50
+        },
+        "lo": 146,
+        "hi": 149,
+        "notes": "Only this explicitly printed criterion; not whole-intake accepted offers.",
+        "phase": "retrospective",
+        "scope": "criterion_2_first_come",
+        "quality": "high"
+      },
+      {
+        "title": "2024/2025",
+        "year": "2023/2024",
+        "cohort": "Junior Infants",
+        "metrics": {
+          "places": 50
+        },
+        "lo": 136,
+        "hi": 136,
+        "notes": "Explicit retrospective place subgroup only; combined applications/offers never attached.",
+        "phase": "retrospective",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2024/2025",
+        "year": "2023/2024",
+        "cohort": "Autism special class",
+        "metrics": {
+          "places": 3
+        },
+        "lo": 137,
+        "hi": 137,
+        "notes": "Explicit retrospective place subgroup only; combined applications/offers never attached.",
+        "phase": "retrospective",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2024/2025",
+        "year": "2023/2024",
+        "cohort": "Second Class",
+        "metrics": {
+          "places": 3
+        },
+        "lo": 138,
+        "hi": 138,
+        "notes": "Explicit retrospective place subgroup only; combined applications/offers never attached.",
+        "phase": "retrospective",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2024/2025",
+        "year": "2023/2024",
+        "cohort": "Fifth Class",
+        "metrics": {
+          "places": 1
+        },
+        "lo": 139,
+        "hi": 139,
+        "notes": "Explicit retrospective place subgroup only; combined applications/offers never attached.",
+        "phase": "retrospective",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2024/2025",
+        "year": "2023/2024",
+        "cohort": "Junior Infants",
+        "metrics": {
+          "pre_act_places_offered_and_accepted": 50
+        },
+        "lo": 116,
+        "hi": 121,
+        "notes": "Explicit pre-Section62 offered-and-accepted places for2023/24; not current2024/25 quota or all-intake acceptance total.",
+        "phase": "pre_commencement",
+        "scope": "pre_section_62_commencement",
+        "quality": "high",
+        "metric_definitions": {
+          "pre_act_places_offered_and_accepted": "Places explicitly offered and accepted before Section62 commencement for this printed intake year; not all-intake offers/acceptance totals."
+        }
+      },
+      {
+        "title": "2024/2025",
+        "year": "2023/2024",
+        "cohort": "Autism special class",
+        "metrics": {
+          "pre_act_places_offered_and_accepted": 3
+        },
+        "lo": 116,
+        "hi": 122,
+        "notes": "Explicit pre-Section62 offered-and-accepted places for2023/24; not current2024/25 quota or all-intake acceptance total.",
+        "phase": "pre_commencement",
+        "scope": "pre_section_62_commencement",
+        "quality": "high",
+        "metric_definitions": {
+          "pre_act_places_offered_and_accepted": "Places explicitly offered and accepted before Section62 commencement for this printed intake year; not all-intake offers/acceptance totals."
+        }
+      }
+    ],
+    "retrieval_url": "https://www.dpetns.ie/wp-content/uploads/2023/10/Annual-Admissions-Notice-Sept-2023-1.pdf",
+    "retrieved_at": "2026-11-08T13:06:41+0000"
+  },
+  {
+    "roll": "20220C",
+    "url": "https://www.gsue.ie/uploads/5/5/0/0/5500604/fógra_iontrála_gsue_2022.pdf",
+    "label": "",
+    "sha256": "b975342b2d88e97c64f774bc6ad5f87694a7a0b95c37953c77d30283f5e14828",
+    "format": "pdf",
+    "text_file": "database/milestone2/evidence/20220C_b975342b2d88e97c64f7.txt",
+    "source_file": "database/milestone2/cache/b975342b2d88e97c64f774bc6ad5f87694a7a0b95c37953c77d30283f5e14828.pdf",
+    "candidate_status": "notice_body_candidate_requires_evidence_review",
+    "text_length": 4684,
+    "groups": [
+      {
+        "title": "2021/2022",
+        "year": null,
+        "cohort": "Junior Infants",
+        "metrics": {
+          "places": 52
+        },
+        "lo": 50,
+        "hi": 67,
+        "notes": "Irish title2021/22 versus English2020/21. Available-entryyear2021 does not remove conflicting language-edition year labels.",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "medium"
+      },
+      {
+        "title": "2021/2022",
+        "year": null,
+        "cohort": "Junior Infants",
+        "metrics": {
+          "pre_act_places_offered_and_accepted": 47
+        },
+        "lo": 55,
+        "hi": 63,
+        "notes": "Irish text explicitly says places offered and accepted before commencement; bilingual English says registrations. Do not silently merge definitions.",
+        "phase": "pre_commencement",
+        "scope": "Irish_source_wording",
+        "quality": "medium",
+        "metric_definitions": {
+          "pre_act_places_offered_and_accepted": "Explicit places offered and accepted before Section62 commencement, with source/year qualifiers retained."
+        }
+      },
+      {
+        "title": "2021/2022",
+        "year": null,
+        "cohort": "Junior Infants",
+        "metrics": {
+          "pre_act_registered_children": 47
+        },
+        "lo": 121,
+        "hi": 124,
+        "notes": "English source says children registered forJuniorInfants2021; not applications or necessarily accepted school-place offers.",
+        "phase": "pre_commencement",
+        "scope": "English_source_wording",
+        "quality": "medium",
+        "metric_definitions": {
+          "pre_act_registered_children": "Children explicitly registered on pre-commencement enrolment list; not applications or school-place offers/acceptances."
+        }
+      }
+    ],
+    "retrieval_url": "https://www.gsue.ie/uploads/5/5/0/0/5500604/fógra_iontrála_gsue_2022.pdf",
+    "retrieved_at": "2026-11-08T12:47:36+0000"
+  },
+  {
+    "roll": "20375I",
+    "url": "https://www.abacaskilbarrack.ie/_files/ugd/03b971_5edf306280a24474bfa4664fea50d915.docx?dn=School%20Admissions%20Notice%20Year%2026-27.docx",
+    "label": "here",
+    "sha256": "b299d5de6e5bc0cd5da330054a75806808c72bb5498d5d95c8a3f234b8b83657",
+    "format": "docx",
+    "text_file": "database/milestone2/evidence/20375I_b299d5de6e5bc0cd5da3.txt",
+    "source_file": null,
+    "candidate_status": "notice_body_candidate_requires_evidence_review",
+    "text_length": 2376,
+    "groups": [
+      {
+        "title": "2026/2027",
+        "year": "2026/2027",
+        "cohort": "All classes and ages: special-school intake",
+        "metrics": {
+          "places": 2
+        },
+        "lo": 9,
+        "hi": 36,
+        "notes": "",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2026/2027",
+        "year": "2025/2026",
+        "cohort": "All classes and ages: special-school intake",
+        "metrics": {
+          "places": 4,
+          "applications": 75,
+          "offers": 4,
+          "waiting_list_names_placed": 71,
+          "offers_made_and_accepted_joint_count": 4
+        },
+        "lo": 45,
+        "hi": 60,
+        "notes": "Criteria1 joint cell4 is not a separately printed aggregate acceptance-only total.",
+        "phase": "retrospective",
+        "scope": "whole_table",
+        "quality": "high"
+      }
+    ],
+    "retrieval_url": "https://www.abacaskilbarrack.ie/_files/ugd/03b971_5edf306280a24474bfa4664fea50d915.docx?dn=School%20Admissions%20Notice%20Year%2026-27.docx",
+    "retrieved_at": "2026-11-08T12:47:14+0000"
+  },
+  {
+    "roll": "20425U",
+    "url": "https://gaelscoilshliabhrua.ie/wp-content/uploads/2024/09/2025-2026.DESAdmissionNotice.docx.pdf",
+    "label": "2025-2026.DESAdmissionNotice.docx",
+    "sha256": "94f38e482f634e6233ebd64273d7742f7ca995f4cfd30ac33ac282c3ff565ed7",
+    "format": "pdf",
+    "text_file": "database/milestone2/evidence/20425U_94f38e482f634e6233eb.txt",
+    "source_file": "database/milestone2/cache/94f38e482f634e6233ebd64273d7742f7ca995f4cfd30ac33ac282c3ff565ed7.pdf",
+    "candidate_status": "notice_body_candidate_requires_evidence_review",
+    "text_length": 2736,
+    "groups": [
+      {
+        "title": "2025/2026",
+        "year": "2025/2026",
+        "cohort": "Junior Infants",
+        "metrics": {
+          "places": 62
+        },
+        "lo": 42,
+        "hi": 45,
+        "notes": "",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2025/2026",
+        "year": "2024/2025",
+        "cohort": "Junior Infants",
+        "metrics": {
+          "places": 62,
+          "applications": 87,
+          "offers": 87,
+          "acceptances": 47,
+          "waiting_list_names_placed": 0
+        },
+        "lo": 49,
+        "hi": 72,
+        "notes": "Accepted total is explicitly parenthesized beside totaloffers, not summed from criteria.2022/23 edition conflicts with Part2header2023/24.",
+        "phase": "retrospective",
+        "scope": "whole_table",
+        "quality": "high"
+      }
+    ],
+    "retrieval_url": "https://gaelscoilshliabhrua.ie/wp-content/uploads/2024/09/2025-2026.DESAdmissionNotice.docx.pdf",
+    "retrieved_at": "2026-11-08T13:07:04+0000"
+  },
+  {
+    "roll": "20425U",
+    "url": "https://gaelscoilshliabhrua.ie/wp-content/uploads/2024/09/2024.DESAdmissionNotice.docx-3.pdf",
+    "label": "2024.DESAdmissionNotice.docx (3)",
+    "sha256": "01dd875bed457f688a5f2e8659db234ff69e950982ea0bf3300cbcbac7377afb",
+    "format": "pdf",
+    "text_file": "database/milestone2/evidence/20425U_01dd875bed457f688a5f.txt",
+    "source_file": "database/milestone2/cache/01dd875bed457f688a5f2e8659db234ff69e950982ea0bf3300cbcbac7377afb.pdf",
+    "candidate_status": "notice_body_candidate_requires_evidence_review",
+    "text_length": 2736,
+    "groups": [
+      {
+        "title": "2024/2025",
+        "year": "2024/2025",
+        "cohort": "Junior Infants",
+        "metrics": {
+          "places": 62
+        },
+        "lo": 42,
+        "hi": 45,
+        "notes": "",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2024/2025",
+        "year": "2023/2024",
+        "cohort": "Junior Infants",
+        "metrics": {
+          "places": 62,
+          "applications": 87,
+          "offers": 87,
+          "acceptances": 47,
+          "waiting_list_names_placed": 0
+        },
+        "lo": 49,
+        "hi": 72,
+        "notes": "Accepted total is explicitly parenthesized beside totaloffers, not summed from criteria.2022/23 edition conflicts with Part2header2023/24.",
+        "phase": "retrospective",
+        "scope": "whole_table",
+        "quality": "high"
+      }
+    ],
+    "retrieval_url": "https://gaelscoilshliabhrua.ie/wp-content/uploads/2024/09/2024.DESAdmissionNotice.docx-3.pdf",
+    "retrieved_at": "2026-11-08T13:07:01+0000"
+  },
+  {
+    "roll": "20425U",
+    "url": "https://gaelscoilshliabhrua.ie/wp-content/uploads/2024/02/2024.DESAdmissionNotice.docx.pdf",
+    "label": "2024.DESAdmissionNotice.docx",
+    "sha256": "61d1cb808ad62b5b0b2c0e310f53f03789f8de565dffda1e1bdd164c747a31db",
+    "format": "pdf",
+    "text_file": "database/milestone2/evidence/20425U_61d1cb808ad62b5b0b2c.txt",
+    "source_file": "database/milestone2/cache/61d1cb808ad62b5b0b2c0e310f53f03789f8de565dffda1e1bdd164c747a31db.pdf",
+    "candidate_status": "notice_body_candidate_requires_evidence_review",
+    "text_length": 2733,
+    "groups": [
+      {
+        "title": "2024/2025",
+        "year": "2024/2025",
+        "cohort": "Junior Infants",
+        "metrics": {
+          "places": 62
+        },
+        "lo": 42,
+        "hi": 45,
+        "notes": "",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2024/2025",
+        "year": "2022/2023",
+        "cohort": "Junior Infants",
+        "metrics": {
+          "places": 62,
+          "applications": 102,
+          "offers": 102,
+          "acceptances": 50,
+          "waiting_list_names_placed": 0
+        },
+        "lo": 49,
+        "hi": 72,
+        "notes": "Accepted total is explicitly parenthesized beside totaloffers, not summed from criteria.2022/23 edition conflicts with Part2header2023/24.",
+        "phase": "retrospective",
+        "scope": "whole_table",
+        "quality": "high",
+        "year_status": "explicit_table_year_conflicting_section_header"
+      }
+    ],
+    "retrieval_url": "https://gaelscoilshliabhrua.ie/wp-content/uploads/2024/02/2024.DESAdmissionNotice.docx.pdf",
+    "retrieved_at": "2026-11-08T13:06:57+0000"
+  },
+  {
+    "roll": "20425U",
+    "url": "https://gaelscoilshliabhrua.ie/wp-content/uploads/2025/09/2026-2027.DESAdmissionNotice.pdf",
+    "label": "2026-2027.DESAdmissionNotice",
+    "sha256": "7a27b467e20f1b00aa259dc662602012d376ede6179ef2139cf9295cd6564a43",
+    "format": "pdf",
+    "text_file": "database/milestone2/evidence/20425U_7a27b467e20f1b00aa25.txt",
+    "source_file": "database/milestone2/cache/7a27b467e20f1b00aa259dc662602012d376ede6179ef2139cf9295cd6564a43.pdf",
+    "candidate_status": "notice_body_candidate_requires_evidence_review",
+    "text_length": 2891,
+    "groups": [
+      {
+        "title": "2026/2027",
+        "year": null,
+        "cohort": "Junior Infants",
+        "metrics": {
+          "places": 62
+        },
+        "lo": 42,
+        "hi": 45,
+        "notes": "2026/27 title conflicts with capacity2025/26.",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "medium"
+      },
+      {
+        "title": "2026/2027",
+        "year": "2025/2026",
+        "cohort": "Junior Infants",
+        "metrics": {
+          "places": 62,
+          "applications": 93,
+          "offers": 93,
+          "acceptances": 44,
+          "waiting_list_names_placed": 0
+        },
+        "lo": 47,
+        "hi": 75,
+        "notes": "Accepted total is explicitly parenthesized beside totaloffers, not summed from criteria.2022/23 edition conflicts with Part2header2023/24.",
+        "phase": "retrospective",
+        "scope": "whole_table",
+        "quality": "high"
+      }
+    ],
+    "retrieval_url": "https://gaelscoilshliabhrua.ie/wp-content/uploads/2025/09/2026-2027.DESAdmissionNotice.pdf",
+    "retrieved_at": "2026-11-08T13:07:13+0000"
+  },
+  {
+    "roll": "20453C",
+    "url": "https://broombridgeetns.ie/wp-content/uploads/2020/09/Annual-Admission-Notice.pdf",
+    "label": "Annual Admission Notice",
+    "sha256": "939b4fe56f9b802c4d6860c0cfc099f3bff7f2ac45b98b12406c12aca6b85b65",
+    "format": "pdf",
+    "text_file": "database/milestone2/evidence/20453C_939b4fe56f9b802c4d68.txt",
+    "source_file": "database/milestone2/cache/939b4fe56f9b802c4d6860c0cfc099f3bff7f2ac45b98b12406c12aca6b85b65.pdf",
+    "candidate_status": "notice_body_candidate_requires_evidence_review",
+    "text_length": 8695,
+    "groups": [
+      {
+        "title": "2021/2022",
+        "year": "2021/2022",
+        "cohort": "Junior Infants",
+        "metrics": {
+          "places": 60
+        },
+        "lo": 108,
+        "hi": 125,
+        "notes": "",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2021/2022",
+        "year": "2021/2022",
+        "cohort": "Autism special class",
+        "metrics": {
+          "places": 0
+        },
+        "lo": 108,
+        "hi": 125,
+        "notes": "Source revisions0 versus6 available2021/22 retained; no inferred transfer or list movement.",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2021/2022",
+        "year": "2020/2021",
+        "cohort": "Autism special class",
+        "metrics": {
+          "places": 0,
+          "applications": 1,
+          "offers": 0,
+          "offers_made_and_accepted_joint_count": 0,
+          "waiting_list_names_placed": 1
+        },
+        "lo": 132,
+        "hi": 148,
+        "notes": "Joint made-and-accepted count kept distinct from acceptance-only total; no conversion to admissions.",
+        "phase": "retrospective",
+        "scope": "whole_table",
+        "quality": "high"
+      }
+    ],
+    "retrieval_url": "https://broombridgeetns.ie/wp-content/uploads/2020/09/Annual-Admission-Notice.pdf",
+    "retrieved_at": "2026-11-08T12:59:05+0000"
+  },
+  {
+    "roll": "20453C",
+    "url": "https://broombridgeetns.ie/wp-content/uploads/2021/10/Broombridge-ETNS-Annual-Admissions-Notice-2022-2023.pdf",
+    "label": "Broombridge-ETNS-Annual-Admissions-Notice-2022-2023",
+    "sha256": "a4a341252ec4f145e3dda381911480c6144ba0ee9d190efc1d93a7572397e466",
+    "format": "pdf",
+    "text_file": "database/milestone2/evidence/20453C_a4a341252ec4f145e3dd.txt",
+    "source_file": "database/milestone2/cache/a4a341252ec4f145e3dda381911480c6144ba0ee9d190efc1d93a7572397e466.pdf",
+    "candidate_status": "notice_body_candidate_requires_evidence_review",
+    "text_length": 6985,
+    "groups": [
+      {
+        "title": "2022/2023",
+        "year": "2022/2023",
+        "cohort": "Junior Infants",
+        "metrics": {
+          "places": 60
+        },
+        "lo": 96,
+        "hi": 105,
+        "notes": "",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2022/2023",
+        "year": "2022/2023",
+        "cohort": "Autism special class",
+        "metrics": {
+          "places": 0
+        },
+        "lo": 96,
+        "hi": 105,
+        "notes": "Source revisions0 versus6 available2021/22 retained; no inferred transfer or list movement.",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2022/2023",
+        "year": "2021/2022",
+        "cohort": "Autism special class",
+        "metrics": {
+          "places": 6,
+          "applications": 16,
+          "offers": 7,
+          "offers_made_and_accepted_joint_count": 6,
+          "waiting_list_names_placed": 2
+        },
+        "lo": 112,
+        "hi": 128,
+        "notes": "Joint made-and-accepted count kept distinct from acceptance-only total; no conversion to admissions.",
+        "phase": "retrospective",
+        "scope": "whole_table",
+        "quality": "high"
+      }
+    ],
+    "retrieval_url": "https://broombridgeetns.ie/wp-content/uploads/2021/10/Broombridge-ETNS-Annual-Admissions-Notice-2022-2023.pdf",
+    "retrieved_at": "2026-11-08T12:59:15+0000"
+  },
+  {
+    "roll": "20453C",
+    "url": "https://broombridgeetns.ie/wp-content/uploads/2021/02/Broombridge-ETNS-2021-2022-annual-admissions-notice.pdf",
+    "label": "Broombridge-ETNS-2021-2022-annual-admissions-notice",
+    "sha256": "0f401e1322c2122b934f009fb37dd171ede9a8c719e6219aa4ed2fce698b81dc",
+    "format": "pdf",
+    "text_file": "database/milestone2/evidence/20453C_0f401e1322c2122b934f.txt",
+    "source_file": "database/milestone2/cache/0f401e1322c2122b934f009fb37dd171ede9a8c719e6219aa4ed2fce698b81dc.pdf",
+    "candidate_status": "notice_body_candidate_requires_evidence_review",
+    "text_length": 6978,
+    "groups": [
+      {
+        "title": "2021/2022",
+        "year": "2021/2022",
+        "cohort": "Junior Infants",
+        "metrics": {
+          "places": 60
+        },
+        "lo": 96,
+        "hi": 105,
+        "notes": "",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2021/2022",
+        "year": "2021/2022",
+        "cohort": "Autism special class",
+        "metrics": {
+          "places": 6
+        },
+        "lo": 96,
+        "hi": 105,
+        "notes": "Source revisions0 versus6 available2021/22 retained; no inferred transfer or list movement.",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2021/2022",
+        "year": "2020/2021",
+        "cohort": "Autism special class",
+        "metrics": {
+          "places": 0,
+          "applications": 1,
+          "offers": 0,
+          "offers_made_and_accepted_joint_count": 0,
+          "waiting_list_names_placed": 1
+        },
+        "lo": 112,
+        "hi": 128,
+        "notes": "Joint made-and-accepted count kept distinct from acceptance-only total; no conversion to admissions.",
+        "phase": "retrospective",
+        "scope": "whole_table",
+        "quality": "high"
+      }
+    ],
+    "retrieval_url": "https://broombridgeetns.ie/wp-content/uploads/2021/02/Broombridge-ETNS-2021-2022-annual-admissions-notice.pdf",
+    "retrieved_at": "2026-11-08T12:59:18+0000"
+  },
+  {
+    "roll": "20453C",
+    "url": "https://broombridgeetns.ie/wp-content/uploads/2022/10/Broombridge-ETNS-Annual-Admissions-Notice-2023-2024.pdf",
+    "label": "Broombridge-ETNS-Annual-Admissions-Notice-2023-2024",
+    "sha256": "f53c4af8d00a39fb8de3544843b860ce52ecab5ff52d1557e7909a4440212341",
+    "format": "pdf",
+    "text_file": "database/milestone2/evidence/20453C_f53c4af8d00a39fb8de3.txt",
+    "source_file": "database/milestone2/cache/f53c4af8d00a39fb8de3544843b860ce52ecab5ff52d1557e7909a4440212341.pdf",
+    "candidate_status": "notice_body_candidate_requires_evidence_review",
+    "text_length": 6986,
+    "groups": [
+      {
+        "title": "2023/2024",
+        "year": "2023/2024",
+        "cohort": "Junior Infants",
+        "metrics": {
+          "places": 60
+        },
+        "lo": 96,
+        "hi": 105,
+        "notes": "",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2023/2024",
+        "year": "2023/2024",
+        "cohort": "Autism special class",
+        "metrics": {
+          "places": 0
+        },
+        "lo": 96,
+        "hi": 105,
+        "notes": "Source revisions0 versus6 available2021/22 retained; no inferred transfer or list movement.",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2023/2024",
+        "year": "2022/2023",
+        "cohort": "Autism special class",
+        "metrics": {
+          "places": 0,
+          "applications": 6,
+          "offers": 0,
+          "offers_made_and_accepted_joint_count": 0,
+          "waiting_list_names_placed": 6
+        },
+        "lo": 112,
+        "hi": 128,
+        "notes": "Joint made-and-accepted count kept distinct from acceptance-only total; no conversion to admissions.",
+        "phase": "retrospective",
+        "scope": "whole_table",
+        "quality": "high",
+        "year_status": "explicit_table_year_conflicting_intake_or_section_header"
+      }
+    ],
+    "retrieval_url": "https://broombridgeetns.ie/wp-content/uploads/2022/10/Broombridge-ETNS-Annual-Admissions-Notice-2023-2024.pdf",
+    "retrieved_at": "2026-11-08T12:59:22+0000"
+  },
+  {
+    "roll": "20453C",
+    "url": "https://broombridgeetns.ie/wp-content/uploads/2023/10/Broombridge-ETNS-Annual-Admissions-Notice-2024-2025.docx.pdf",
+    "label": "Broombridge-ETNS-Annual-Admissions-Notice-2024-2025.docx",
+    "sha256": "c83245d6eec1d1c18a387e36108fb3fc3d2fbdaeeeda5efe3c9cb9c014dd7835",
+    "format": "pdf",
+    "text_file": "database/milestone2/evidence/20453C_c83245d6eec1d1c18a38.txt",
+    "source_file": "database/milestone2/cache/c83245d6eec1d1c18a387e36108fb3fc3d2fbdaeeeda5efe3c9cb9c014dd7835.pdf",
+    "candidate_status": "notice_body_candidate_requires_evidence_review",
+    "text_length": 6906,
+    "groups": [
+      {
+        "title": "2024/2025",
+        "year": "2024/2025",
+        "cohort": "Junior Infants",
+        "metrics": {
+          "places": 60
+        },
+        "lo": 109,
+        "hi": 120,
+        "notes": "",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2024/2025",
+        "year": "2024/2025",
+        "cohort": "Autism special class",
+        "metrics": {
+          "places": 1
+        },
+        "lo": 109,
+        "hi": 120,
+        "notes": "Source revisions0 versus6 available2021/22 retained; no inferred transfer or list movement.",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2024/2025",
+        "year": "2023/2024",
+        "cohort": "Unspecified historical intake (not inferred)",
+        "metrics": {
+          "places": 0,
+          "applications": 2,
+          "offers": 0,
+          "offers_made_and_accepted_joint_count": 0,
+          "waiting_list_names_placed": 2
+        },
+        "lo": 128,
+        "hi": 140,
+        "notes": "Joint made-and-accepted count kept distinct from acceptance-only total; no conversion to admissions.",
+        "phase": "retrospective",
+        "scope": "whole_table",
+        "quality": "high"
+      }
+    ],
+    "retrieval_url": "https://broombridgeetns.ie/wp-content/uploads/2023/10/Broombridge-ETNS-Annual-Admissions-Notice-2024-2025.docx.pdf",
+    "retrieved_at": "2026-11-08T12:59:27+0000"
+  },
+  {
+    "roll": "20453C",
+    "url": "https://broombridgeetns.ie/wp-content/uploads/2023/10/Broombridge-ETNS-Annual-Admissions-Notice-2024-2025-1.pdf",
+    "label": "Broombridge-ETNS-Annual-Admissions-Notice-2024-2025-1",
+    "sha256": "c7b6cf3b4ec8f3ca5f1ca67eb1675d82f2323570018e0a6020663de5d43fd24c",
+    "format": "pdf",
+    "text_file": "database/milestone2/evidence/20453C_c7b6cf3b4ec8f3ca5f1c.txt",
+    "source_file": "database/milestone2/cache/c7b6cf3b4ec8f3ca5f1ca67eb1675d82f2323570018e0a6020663de5d43fd24c.pdf",
+    "candidate_status": "notice_body_candidate_requires_evidence_review",
+    "text_length": 6986,
+    "groups": [
+      {
+        "title": "2024/2025",
+        "year": "2024/2025",
+        "cohort": "Junior Infants",
+        "metrics": {
+          "places": 60
+        },
+        "lo": 96,
+        "hi": 105,
+        "notes": "",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2024/2025",
+        "year": "2024/2025",
+        "cohort": "Autism special class",
+        "metrics": {
+          "places": 1
+        },
+        "lo": 96,
+        "hi": 105,
+        "notes": "Source revisions0 versus6 available2021/22 retained; no inferred transfer or list movement.",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2024/2025",
+        "year": "2023/2024",
+        "cohort": "Autism special class",
+        "metrics": {
+          "places": 0,
+          "applications": 2,
+          "offers": 0,
+          "offers_made_and_accepted_joint_count": 0,
+          "waiting_list_names_placed": 2
+        },
+        "lo": 112,
+        "hi": 128,
+        "notes": "Joint made-and-accepted count kept distinct from acceptance-only total; no conversion to admissions.",
+        "phase": "retrospective",
+        "scope": "whole_table",
+        "quality": "high"
+      }
+    ],
+    "retrieval_url": "https://broombridgeetns.ie/wp-content/uploads/2023/10/Broombridge-ETNS-Annual-Admissions-Notice-2024-2025-1.pdf",
+    "retrieved_at": "2026-11-08T12:59:31+0000"
+  },
+  {
+    "roll": "20453C",
+    "url": "https://broombridgeetns.ie/wp-content/uploads/2024/10/Broombridge-ETNS-Admissions-Notice-2025.2026.docx.pdf",
+    "label": "Broombridge ETNS Admissions Notice 2025.2026.docx",
+    "sha256": "40dddfc781cd1b5963e984a80ef7c0e6c84198a8a207035818c58c7d1da84501",
+    "format": "pdf",
+    "text_file": "database/milestone2/evidence/20453C_40dddfc781cd1b5963e9.txt",
+    "source_file": "database/milestone2/cache/40dddfc781cd1b5963e984a80ef7c0e6c84198a8a207035818c58c7d1da84501.pdf",
+    "candidate_status": "notice_body_candidate_requires_evidence_review",
+    "text_length": 6898,
+    "groups": [
+      {
+        "title": "2025/2026",
+        "year": "2025/2026",
+        "cohort": "Junior Infants",
+        "metrics": {
+          "places": 60
+        },
+        "lo": 112,
+        "hi": 123,
+        "notes": "",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2025/2026",
+        "year": "2025/2026",
+        "cohort": "Autism special class",
+        "metrics": {
+          "places": 0
+        },
+        "lo": 112,
+        "hi": 123,
+        "notes": "Source revisions0 versus6 available2021/22 retained; no inferred transfer or list movement.",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2025/2026",
+        "year": "2024/2025",
+        "cohort": "Unspecified historical intake (not inferred)",
+        "metrics": {
+          "places": 1,
+          "applications": 7,
+          "offers": 1,
+          "offers_made_and_accepted_joint_count": 1,
+          "waiting_list_names_placed": 5
+        },
+        "lo": 131,
+        "hi": 143,
+        "notes": "Joint made-and-accepted count kept distinct from acceptance-only total; no conversion to admissions.",
+        "phase": "retrospective",
+        "scope": "whole_table",
+        "quality": "high",
+        "year_status": "explicit_table_year_conflicting_intake_or_section_header"
+      }
+    ],
+    "retrieval_url": "https://broombridgeetns.ie/wp-content/uploads/2024/10/Broombridge-ETNS-Admissions-Notice-2025.2026.docx.pdf",
+    "retrieved_at": "2026-11-08T12:59:44+0000"
+  },
+  {
+    "roll": "20453C",
+    "url": "https://broombridgeetns.ie/wp-content/uploads/2025/10/Annual-Admission-Notice-2026.27.pdf",
+    "label": "Annual Admission Notice 2026.27",
+    "sha256": "8f906c57028dc60ac4cef4fbe53f4760064801a05b49333467de8e6290c393d0",
+    "format": "pdf",
+    "text_file": "database/milestone2/evidence/20453C_8f906c57028dc60ac4ce.txt",
+    "source_file": "database/milestone2/cache/8f906c57028dc60ac4cef4fbe53f4760064801a05b49333467de8e6290c393d0.pdf",
+    "candidate_status": "notice_body_candidate_requires_evidence_review",
+    "text_length": 9427,
+    "groups": [
+      {
+        "title": "2026/2027",
+        "year": "2026/2027",
+        "cohort": "Junior Infants",
+        "metrics": {
+          "places": 60
+        },
+        "lo": 127,
+        "hi": 131,
+        "notes": "",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2026/2027",
+        "year": "2026/2027",
+        "cohort": "Autism special class",
+        "metrics": {
+          "places": 1
+        },
+        "lo": 127,
+        "hi": 131,
+        "notes": "Source revisions0 versus6 available2021/22 retained; no inferred transfer or list movement.",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2026/2027",
+        "year": "2025/2026",
+        "cohort": "Junior Infants",
+        "metrics": {
+          "places": 60,
+          "applications": 177,
+          "offers": 60,
+          "waiting_list_names_placed": 0
+        },
+        "lo": 151,
+        "hi": 173,
+        "notes": "Printed totaloffers60 retained despite criterion18+42+2; no arithmetic correction or inferred acceptance total.",
+        "phase": "retrospective",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2026/2027",
+        "year": "2025/2026",
+        "cohort": "Junior Infants",
+        "metrics": {
+          "offers": 18,
+          "acceptances": 18
+        },
+        "lo": 163,
+        "hi": 165,
+        "notes": "Only this explicitly printed criterion; not whole-intake accepted offers.",
+        "phase": "retrospective",
+        "scope": "criterion_1_sibling",
+        "quality": "high"
+      },
+      {
+        "title": "2026/2027",
+        "year": "2025/2026",
+        "cohort": "Junior Infants",
+        "metrics": {
+          "offers": 42,
+          "acceptances": 22
+        },
+        "lo": 166,
+        "hi": 168,
+        "notes": "Only this explicitly printed criterion; not whole-intake accepted offers.",
+        "phase": "retrospective",
+        "scope": "criterion_2_catchment",
+        "quality": "high"
+      },
+      {
+        "title": "2026/2027",
+        "year": "2025/2026",
+        "cohort": "Junior Infants",
+        "metrics": {
+          "offers": 2,
+          "acceptances": 2
+        },
+        "lo": 169,
+        "hi": 171,
+        "notes": "Only this explicitly printed criterion; not whole-intake accepted offers.",
+        "phase": "retrospective",
+        "scope": "criterion_3_outside",
+        "quality": "high"
+      },
+      {
+        "title": "2026/2027",
+        "year": "2025/2026",
+        "cohort": "Autism special class",
+        "metrics": {
+          "places": 2,
+          "applications": 6,
+          "offers": 2,
+          "waiting_list_names_placed": 4
+        },
+        "lo": 175,
+        "hi": 195,
+        "notes": "",
+        "phase": "retrospective",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2026/2027",
+        "year": "2025/2026",
+        "cohort": "Autism special class",
+        "metrics": {
+          "offers_made_and_accepted_joint_count": 2
+        },
+        "lo": 185,
+        "hi": 186,
+        "notes": "Current-student CriterionOne joint row only; no aggregate acceptance-only claim.",
+        "phase": "retrospective",
+        "scope": "criterion_1_current_students",
+        "quality": "high"
+      }
+    ],
+    "retrieval_url": "https://broombridgeetns.ie/wp-content/uploads/2025/10/Annual-Admission-Notice-2026.27.pdf",
+    "retrieved_at": "2026-11-08T12:59:51+0000"
+  },
+  {
+    "roll": "20535E",
+    "url": "https://www.educatetogether.ie/app/uploads/2020/09/2021CETNSAdmissionsNoticeB.pdf",
+    "label": "2021CETNSAdmissionsNoticeB",
+    "sha256": "7194d46944b515d1ba2c8a3ec2f13b1fad048dfca286e3c946865f1036c8c8ca",
+    "format": "pdf",
+    "text_file": "database/milestone2/evidence/20525B_7194d46944b515d1ba2c.txt",
+    "source_file": "database/milestone2/cache/7194d46944b515d1ba2c8a3ec2f13b1fad048dfca286e3c946865f1036c8c8ca.pdf",
+    "candidate_status": "notice_body_candidate_requires_evidence_review",
+    "text_length": 2811,
+    "groups": [
+      {
+        "title": "2021/2022",
+        "year": "2021/2022",
+        "cohort": "Junior Infants",
+        "metrics": {
+          "places": 26
+        },
+        "lo": 56,
+        "hi": 60,
+        "notes": "Identity corrected to subject Cherrywood20535E; no admissions metrics attributed to discovery context20525B.",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2021/2022",
+        "year": "2021/2022",
+        "cohort": "Senior Infants",
+        "metrics": {
+          "places": 20
+        },
+        "lo": 36,
+        "hi": 60,
+        "notes": "Explicit separate Senior Infant quota, not additional Junior Infant places.",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      }
+    ],
+    "retrieval_url": "https://www.educatetogether.ie/app/uploads/2020/09/2021CETNSAdmissionsNoticeB.pdf",
+    "retrieved_at": "2026-11-08T12:59:09+0000",
+    "discovered_under_roll": "20525B",
+    "identity_review": "Printed Cherrywood ETNS name/address and roll20535E in2020 original; source subject independently matches roster. Patron-host discovery owner is not subject school."
+  },
+  {
+    "roll": "20535E",
+    "url": "https://www.educatetogether.ie/app/uploads/2020/03/20535E_CherrywoodETNS_AdmissionsNotice.pdf",
+    "label": "20535E_CherrywoodETNS_AdmissionsNotice",
+    "sha256": "1d5ce1e861289a564d3e0822c0ef184679e757267ceb56a50ae85c7d1bae518d",
+    "format": "pdf",
+    "text_file": "database/milestone2/evidence/20525B_1d5ce1e861289a564d3e.txt",
+    "source_file": "database/milestone2/cache/1d5ce1e861289a564d3e0822c0ef184679e757267ceb56a50ae85c7d1bae518d.pdf",
+    "candidate_status": "notice_body_candidate_requires_evidence_review",
+    "text_length": 1334,
+    "groups": [
+      {
+        "title": "2020/2021",
+        "year": "2020/2021",
+        "cohort": "Junior Infants",
+        "metrics": {
+          "places": 26
+        },
+        "lo": 1,
+        "hi": 25,
+        "notes": "Identity corrected to subject Cherrywood20535E; no admissions metrics attributed to discovery context20525B.",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      }
+    ],
+    "retrieval_url": "https://www.educatetogether.ie/app/uploads/2020/03/20535E_CherrywoodETNS_AdmissionsNotice.pdf",
+    "retrieved_at": "2026-11-08T12:59:13+0000",
+    "discovered_under_roll": "20525B",
+    "identity_review": "Printed Cherrywood ETNS name/address and roll20535E in2020 original; source subject independently matches roster. Patron-host discovery owner is not subject school."
+  },
+  {
+    "roll": "19723V",
+    "url": "https://www.qoa.ie/Admissions/Index.html",
+    "label": "Admissions",
+    "sha256": "d27ef7bc8f933c8e8a6a71d42fa79c93861de85ceac25f475a22382f5a3b9e49",
+    "format": "html",
+    "text_file": "database/milestone2/evidence/19723V_d27ef7bc8f933c8e8a6a.txt",
+    "source_file": null,
+    "candidate_status": "notice_body_candidate_requires_evidence_review",
+    "text_length": 641,
+    "groups": [],
+    "retrieval_url": "https://www.qoa.ie/Admissions/Index.html",
+    "retrieved_at": "2026-11-08T12:46:21+0000",
+    "exclusion_reason": "Landing-page excerpt/ReadMore, not notice body."
+  },
+  {
+    "roll": "19855P",
+    "url": "https://www.gscd.ie/",
+    "label": "School homepage",
+    "sha256": "9ea8825888edab877f0bc8fa07dc692d761a9746af42001d3de4a3ce2b782174",
+    "format": "html",
+    "text_file": "database/milestone2/evidence/19855P_9ea8825888edab877f0b.txt",
+    "source_file": null,
+    "candidate_status": "notice_body_candidate_requires_evidence_review",
+    "text_length": 3508,
+    "groups": [],
+    "retrieval_url": "https://www.gscd.ie/",
+    "retrieved_at": "2026-11-08T12:57:19+0000",
+    "exclusion_reason": "Notice announced for future publication; navigation only, not a numerical notice."
+  },
+  {
+    "roll": "20015B",
+    "url": "https://www.gaelscoilbhailemunna.ie/su_media/documents/o_1j71qvegl1bjsf30ktt2kdk0c.docx",
+    "label": "Prior school admissions section",
+    "sha256": "d0e5f00be17f5231cd554ed41eca3be9ac087d5fdf7ac685cef0ee6112a14e3d",
+    "format": "docx",
+    "text_file": "database/milestone2/evidence/20015B_d0e5f00be17f5231cd55.txt",
+    "source_file": null,
+    "candidate_status": "notice_body_candidate_requires_evidence_review",
+    "text_length": 24492,
+    "groups": [],
+    "retrieval_url": "https://www.gaelscoilbhailemunna.ie/su_media/documents/o_1j71qvegl1bjsf30ktt2kdk0c.docx",
+    "retrieved_at": "2026-11-08T12:46:43+0000",
+    "exclusion_reason": "Admission policy, not an annual numerical notice."
+  },
+  {
+    "roll": "20103V",
+    "url": "https://docs.google.com/document/d/e/2PACX-1vRc_8D83_mC4WAjB7L-dUdAmOND-tjYvJ6lmI-eKSBWZCIf4R53QQy5Z4O9dYZ3APMlg4qdljoJAOka/pub",
+    "label": "Admission Policy",
+    "sha256": "0d19ea678a6c536decdeb6d5c5ea39dc01c25a654898a06d37d2aaf155a1a39a",
+    "format": "html",
+    "text_file": "database/milestone2/evidence/20103V_0d19ea678a6c536decde.txt",
+    "source_file": null,
+    "candidate_status": "notice_body_candidate_requires_evidence_review",
+    "text_length": 18100,
+    "groups": [],
+    "retrieval_url": "https://docs.google.com/document/d/e/2PACX-1vRc_8D83_mC4WAjB7L-dUdAmOND-tjYvJ6lmI-eKSBWZCIf4R53QQy5Z4O9dYZ3APMlg4qdljoJAOka/pub",
+    "retrieved_at": "2026-11-08T12:58:39+0000",
+    "exclusion_reason": "Google-published admission policy, not a notice."
+  },
+  {
+    "roll": "20161M",
+    "url": "https://www.dpetns.ie/wp-content/uploads/2020/09/Admissions-Notice-1.docx",
+    "label": "Admissions Notice (1)",
+    "sha256": "63c274cac66f54a0c5e9a22494c08f816c699ac87bb75430c4b6a17beacf2a2d",
+    "format": "docx",
+    "text_file": "database/milestone2/evidence/20161M_63c274cac66f54a0c5e9.txt",
+    "source_file": null,
+    "candidate_status": "notice_body_candidate_requires_evidence_review",
+    "text_length": 5844,
+    "groups": [],
+    "retrieval_url": "https://www.dpetns.ie/wp-content/uploads/2020/09/Admissions-Notice-1.docx",
+    "retrieved_at": "2026-11-08T13:06:24+0000",
+    "exclusion_reason": "Explicit DRAFT notice; numeric claims duplicate non-draft source146. Retained as excluded draft source, not silently treated as final."
+  },
+  {
+    "roll": "20463F",
+    "url": "https://www.holyspiritjps.com/enrolment.html",
+    "label": "Prior school admissions section",
+    "sha256": "30446adfa0f9e784a15bd474de4ff52f256c2120e10b4b9997607f03e022b629",
+    "format": "html",
+    "text_file": "database/milestone2/evidence/20463F_30446adfa0f9e784a15b.txt",
+    "source_file": null,
+    "candidate_status": "notice_body_candidate_requires_evidence_review",
+    "text_length": 914,
+    "groups": [],
+    "retrieval_url": "https://www.holyspiritjps.com/enrolment.html",
+    "retrieved_at": "2026-11-08T12:58:48+0000",
+    "exclusion_reason": "Annual-notice download links, not numerical body."
+  },
+  {
+    "roll": "20468P",
+    "url": "https://stdominicsnationalschool.wordpress.com/enrolment/",
+    "label": "Admissions",
+    "sha256": "37e76cb7a5f9520311367694841803390c54af0bf9b670994f215ae2cb2b44fa",
+    "format": "html",
+    "text_file": "database/milestone2/evidence/20468P_37e76cb7a5f952031136.txt",
+    "source_file": null,
+    "candidate_status": "notice_body_candidate_requires_evidence_review",
+    "text_length": 5244,
+    "groups": [],
+    "retrieval_url": "https://stdominicsnationalschool.wordpress.com/enrolment/",
+    "retrieved_at": "2026-11-08T12:58:56+0000",
+    "exclusion_reason": "Annual-notice reference/navigation, not actual notice body."
+  }
+]

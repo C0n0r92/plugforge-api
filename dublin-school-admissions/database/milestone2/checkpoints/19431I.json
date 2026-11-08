@@ -1,0 +1,144 @@
+{
+  "roll": "19431I",
+  "status": "bounded_search_no_new_notice_found",
+  "attempts": [
+    {
+      "url": "https://www.stjosephsjuniorschool.com/enrolments.html",
+      "final_url": "https://www.stjosephsjuniorschool.com/enrolments.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Enrolments"
+    },
+    {
+      "url": "https://www.stjosephsjuniorschool.com/uploads/9/1/3/8/91382114/enrolment_application_no_date.docx",
+      "final_url": "https://www.stjosephsjuniorschool.com/uploads/9/1/3/8/91382114/enrolment_application_no_date.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: enrolment_application_StJosephs.docx"
+    },
+    {
+      "url": "https://www.stjosephsjuniorschool.com/uploads/9/1/3/8/91382114/admission_policy_july_2023.pdf",
+      "final_url": "https://www.stjosephsjuniorschool.com/uploads/9/1/3/8/91382114/admission_policy_july_2023.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: admission_policy_july_2023.pdf"
+    },
+    {
+      "url": "https://www.stjosephsjuniorschool.com/uploads/9/1/3/8/91382114/asd_class_enrolment_application_form.pdf",
+      "final_url": "https://www.stjosephsjuniorschool.com/uploads/9/1/3/8/91382114/asd_class_enrolment_application_form.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: asd_class_enrolment_application_form.pdf"
+    },
+    {
+      "url": "https://www.stjosephsjuniorschool.com/policies.html",
+      "final_url": "https://www.stjosephsjuniorschool.com/policies.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.stjosephsjuniorschool.com/uploads/9/1/3/8/91382114/anti-bullying_annual_review_2023.pdf",
+      "final_url": "https://www.stjosephsjuniorschool.com/uploads/9/1/3/8/91382114/anti-bullying_annual_review_2023.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: anti-bullying_annual_review_2023.pdf"
+    },
+    {
+      "url": "https://www.stjosephsjuniorschool.com/uploads/9/1/3/8/91382114/remote_teaching_learning_plan_october_2020_st._josephs_jns.pdf",
+      "final_url": "https://www.stjosephsjuniorschool.com/uploads/9/1/3/8/91382114/remote_teaching_learning_plan_october_2020_st._josephs_jns.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: remote_teaching_learning_plan_october_2020_st._josephs_jns.pdf"
+    },
+    {
+      "url": "https://www.stjosephsjuniorschool.com/uploads/9/1/3/8/91382114/updated_covid_response_plan_aug_2021.pdf",
+      "final_url": "https://www.stjosephsjuniorschool.com/uploads/9/1/3/8/91382114/updated_covid_response_plan_aug_2021.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: updated_covid_response_plan_aug_2021.pdf"
+    },
+    {
+      "url": "https://www.stjosephsjuniorschool.com/uploads/9/1/3/8/91382114/ict_plan_november_2021_aup.docx",
+      "final_url": "https://www.stjosephsjuniorschool.com/uploads/9/1/3/8/91382114/ict_plan_november_2021_aup.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: ict_plan_november_2021_aup.docx"
+    },
+    {
+      "url": "https://www.stjosephsjuniorschool.com/uploads/9/1/3/8/91382114/code_of_behaviour_updated_feb_2022.pdf",
+      "final_url": "https://www.stjosephsjuniorschool.com/uploads/9/1/3/8/91382114/code_of_behaviour_updated_feb_2022.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: code_of_behaviour_updated_feb_2022.pdf"
+    },
+    {
+      "url": "https://www.stjosephsjuniorschool.com/uploads/9/1/3/8/91382114/child_safeguarding_statement_2023.pdf",
+      "final_url": "https://www.stjosephsjuniorschool.com/uploads/9/1/3/8/91382114/child_safeguarding_statement_2023.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: child_safeguarding_statement_2023.pdf"
+    },
+    {
+      "url": "https://www.stjosephsjuniorschool.com/uploads/9/1/3/8/91382114/child_safeguarding_risk_assessment_2023.pdf",
+      "final_url": "https://www.stjosephsjuniorschool.com/uploads/9/1/3/8/91382114/child_safeguarding_risk_assessment_2023.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: child_safeguarding_risk_assessment_2023.pdf"
+    },
+    {
+      "url": "https://www.stjosephsjuniorschool.com/uploads/9/1/3/8/91382114/checklist_for_review_child_safeguarding_statement._2023.pdf",
+      "final_url": "https://www.stjosephsjuniorschool.com/uploads/9/1/3/8/91382114/checklist_for_review_child_safeguarding_statement._2023.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: checklist_for_review_child_safeguarding_statement._2023.pdf"
+    },
+    {
+      "url": "https://www.stjosephsjuniorschool.com",
+      "final_url": "https://www.stjosephsjuniorschool.com",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "http://www.stjosephsjuniorschool.com/sitemap.xml",
+      "final_url": "http://www.stjosephsjuniorschool.com/sitemap.xml",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.stjosephsjuniorschool.com/uploads/9/1/3/8/91382114/bike_policy_2021_st_josephs_jns.docx",
+      "final_url": "https://www.stjosephsjuniorschool.com/uploads/9/1/3/8/91382114/bike_policy_2021_st_josephs_jns.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: bike_policy_2021_st_josephs_jns.docx"
+    },
+    {
+      "url": "https://www.stjosephsjuniorschool.com/uploads/9/1/3/8/91382114/feb_2022_anti_bullying_full_policy_with_appendices_1_2_3_4_and_letter_for_patron.pdf",
+      "final_url": "https://www.stjosephsjuniorschool.com/uploads/9/1/3/8/91382114/feb_2022_anti_bullying_full_policy_with_appendices_1_2_3_4_and_letter_for_patron.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: feb_2022_anti_bullying_full_policy_with_appendices_1_2_3_4_and_letter_for_patron.pdf"
+    },
+    {
+      "url": "https://www.stjosephsjuniorschool.com/uploads/9/1/3/8/91382114/website_data_protection_policy_.docx",
+      "final_url": "https://www.stjosephsjuniorschool.com/uploads/9/1/3/8/91382114/website_data_protection_policy_.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: website_data_protection_policy_.docx"
+    },
+    {
+      "url": "https://www.stjosephsjuniorschool.com/uploads/9/1/3/8/91382114/healthyeatingpolicy.pdf",
+      "final_url": "https://www.stjosephsjuniorschool.com/uploads/9/1/3/8/91382114/healthyeatingpolicy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: healthyeatingpolicy.pdf"
+    }
+  ],
+  "documents": [],
+  "pending_links": [],
+  "elapsed_seconds": 52.59,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:45:29+0000"
+}

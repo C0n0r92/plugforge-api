@@ -1,0 +1,223 @@
+{
+  "roll": "17470I",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://straphaelasns.ie/wp-content/uploads/2021/02/admissions.jpg",
+      "final_url": "https://straphaelasns.ie/wp-content/uploads/2021/02/admissions.jpg",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "admissions"
+    },
+    {
+      "url": "https://straphaelasns.ie/wp-content/uploads/2025/09/School-Admission-Banner-3-scaled.jpg",
+      "final_url": "https://straphaelasns.ie/wp-content/uploads/2025/09/School-Admission-Banner-3-scaled.jpg",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "School Admission Banner (3)"
+    },
+    {
+      "url": "https://straphaelasns.ie/wp-content/uploads/2025/09/School-Admission-Banner-2-scaled.jpg",
+      "final_url": "https://straphaelasns.ie/wp-content/uploads/2025/09/School-Admission-Banner-2-scaled.jpg",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "School Admission Banner (2)"
+    },
+    {
+      "url": "https://straphaelasns.ie/wp-content/uploads/2025/09/School-Admission-Banner-1-scaled.jpg",
+      "final_url": "https://straphaelasns.ie/wp-content/uploads/2025/09/School-Admission-Banner-1-scaled.jpg",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "School Admission Banner (1)"
+    },
+    {
+      "url": "https://straphaelasns.ie/wp-content/uploads/2025/07/School-Admission-Banner-2-scaled.jpg",
+      "final_url": "https://straphaelasns.ie/wp-content/uploads/2025/07/School-Admission-Banner-2-scaled.jpg",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "School Admission Banner (2)"
+    },
+    {
+      "url": "https://straphaelasns.ie/admissions/",
+      "final_url": "https://straphaelasns.ie/admissions/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://straphaelasns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://straphaelasns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://straphaelasns.ie/wp-content/uploads/2018/06/Admission-Policy-St.-Raphaelas-Primary-School-Sept.-2020.pdf",
+      "final_url": "https://straphaelasns.ie/wp-content/uploads/2018/06/Admission-Policy-St.-Raphaelas-Primary-School-Sept.-2020.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admission Policy &#8211; St. Raphaela&#8217;s Primary School (Sept. 2020)"
+    },
+    {
+      "url": "https://straphaelasns.ie/wp-content/uploads/2018/06/Admission-Policy-Sept-2020.pdf",
+      "final_url": "https://straphaelasns.ie/wp-content/uploads/2018/06/Admission-Policy-Sept-2020.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admission Policy (Sept 2020)"
+    },
+    {
+      "url": "https://straphaelasns.ie/?s=admission",
+      "final_url": "https://straphaelasns.ie/?s=admission",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Public site search form"
+    },
+    {
+      "url": "https://straphaelasns.ie/wp-sitemap.xml",
+      "final_url": "https://straphaelasns.ie/wp-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://straphaelasns.ie/wp-sitemap-posts-shufflehound_header-1.xml",
+      "final_url": "https://straphaelasns.ie/wp-sitemap-posts-shufflehound_header-1.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://straphaelasns.ie/wp-sitemap-posts-post-1.xml",
+      "final_url": "https://straphaelasns.ie/wp-sitemap-posts-post-1.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://straphaelasns.ie/wp-sitemap-posts-page-1.xml",
+      "final_url": "https://straphaelasns.ie/wp-sitemap-posts-page-1.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://straphaelasns.ie/policies/",
+      "final_url": "https://straphaelasns.ie/policies/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://straphaelasns.ie/wp-content/uploads/2023/11/Parental-Complaints-Procedure_Jan-2024-1.pdf",
+      "final_url": "https://straphaelasns.ie/wp-content/uploads/2023/11/Parental-Complaints-Procedure_Jan-2024-1.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Complaints Procedure"
+    },
+    {
+      "url": "https://straphaelasns.ie/wp-content/uploads/2018/06/Homework-Policy.pdf",
+      "final_url": "https://straphaelasns.ie/wp-content/uploads/2018/06/Homework-Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Homework Policy"
+    },
+    {
+      "url": "https://straphaelasns.ie/wp-content/uploads/2018/06/Healthy-Eating-Policy.pdf",
+      "final_url": "https://straphaelasns.ie/wp-content/uploads/2018/06/Healthy-Eating-Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Healthy Eating Policy"
+    },
+    {
+      "url": "https://straphaelasns.ie/wp-content/uploads/2018/06/Critical-Incident-Policy.pdf",
+      "final_url": "https://straphaelasns.ie/wp-content/uploads/2018/06/Critical-Incident-Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Critical Incident Policy"
+    },
+    {
+      "url": "https://straphaelasns.ie/wp-content/uploads/2018/06/Child-Protection-Policy.pdf",
+      "final_url": "https://straphaelasns.ie/wp-content/uploads/2018/06/Child-Protection-Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Child Protection Policy"
+    },
+    {
+      "url": "https://straphaelasns.ie/wp-content/uploads/2018/06/Attendance-Policy.pdf",
+      "final_url": "https://straphaelasns.ie/wp-content/uploads/2018/06/Attendance-Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Attendance Policy"
+    },
+    {
+      "url": "https://straphaelasns.ie/wp-content/uploads/2018/06/Acceptable-Use-Policy.pdf",
+      "final_url": "https://straphaelasns.ie/wp-content/uploads/2018/06/Acceptable-Use-Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Acceptable Use Policy"
+    },
+    {
+      "url": "https://straphaelasns.ie/parents-association/",
+      "final_url": "https://straphaelasns.ie/parents-association/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents’ Association"
+    },
+    {
+      "url": "https://straphaelasns.ie/parent-information/",
+      "final_url": "https://straphaelasns.ie/parent-information/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parent Info"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "17470I",
+      "url": "https://straphaelasns.ie/wp-content/uploads/2018/06/Admission-Policy-St.-Raphaelas-Primary-School-Sept.-2020.pdf",
+      "label": "Admission Policy &#8211; St. Raphaela&#8217;s Primary School (Sept. 2020)",
+      "sha256": "87712492066f0c5737b354a06a8639ce6d6126aea942ddb811e85f716fe9c8fb",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/17470I_87712492066f0c5737b3.txt",
+      "source_file": "database/milestone2/cache/87712492066f0c5737b354a06a8639ce6d6126aea942ddb811e85f716fe9c8fb.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 37174
+    },
+    {
+      "roll": "17470I",
+      "url": "https://straphaelasns.ie/wp-content/uploads/2018/06/Admission-Policy-Sept-2020.pdf",
+      "label": "Admission Policy (Sept 2020)",
+      "sha256": "68b07029d02a6e94e4e437a2e522cea8f51314aab0c14f4e46add0c8694ecde5",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/17470I_68b07029d02a6e94e4e4.txt",
+      "source_file": "database/milestone2/cache/68b07029d02a6e94e4e437a2e522cea8f51314aab0c14f4e46add0c8694ecde5.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 37174
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://straphaelasns.ie/how-to-enroll/",
+      "label": "Admissions/policy URL from public sitemap",
+      "via": "prior_public_admissions_landing"
+    },
+    {
+      "url": "https://straphaelasns.ie/enrolment-policy/",
+      "label": "Admissions/policy URL from public sitemap",
+      "via": "prior_public_admissions_landing"
+    },
+    {
+      "url": "https://straphaelasns.ie/",
+      "label": "School homepage",
+      "via": "home"
+    },
+    {
+      "url": "https://straphaelasns.ie/wp-content/uploads/2021/11/Anti-Bullying-Policy2021.pdf",
+      "label": "Anti-Bullying Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 119.54,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:46:02+0000"
+}

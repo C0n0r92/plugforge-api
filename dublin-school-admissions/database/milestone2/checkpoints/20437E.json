@@ -1,0 +1,308 @@
+{
+  "roll": "20437E",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.stlaurencesbaldoyle.org/notes-to-parents/annual-admissions-notice",
+      "final_url": "https://www.stlaurencesbaldoyle.org/notes-to-parents/annual-admissions-notice",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions/policy URL from public sitemap"
+    },
+    {
+      "url": "https://www.stlaurencesbaldoyle.org/notes-to-parents/archives/12-2018",
+      "final_url": "https://www.stlaurencesbaldoyle.org/notes-to-parents/archives/12-2018",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "December 2018"
+    },
+    {
+      "url": "https://www.stlaurencesbaldoyle.org/uploads/1/1/6/4/116484431/christmas_newsletter_2018.pdf",
+      "final_url": "https://www.stlaurencesbaldoyle.org/uploads/1/1/6/4/116484431/christmas_newsletter_2018.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: christmas_newsletter_2018.pdf"
+    },
+    {
+      "url": "https://www.stlaurencesbaldoyle.org/notes-to-parents/17th-december-2018",
+      "final_url": "https://www.stlaurencesbaldoyle.org/notes-to-parents/17th-december-2018",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "17th December 2018"
+    },
+    {
+      "url": "https://www.stlaurencesbaldoyle.org/notes-to-parents/archives/12-2019",
+      "final_url": "https://www.stlaurencesbaldoyle.org/notes-to-parents/archives/12-2019",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "December 2019"
+    },
+    {
+      "url": "https://www.stlaurencesbaldoyle.org/notes-to-parents/archives/11-2019",
+      "final_url": "https://www.stlaurencesbaldoyle.org/notes-to-parents/archives/11-2019",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "November 2019"
+    },
+    {
+      "url": "https://www.stlaurencesbaldoyle.org/notes-to-parents/archives/10-2019",
+      "final_url": "https://www.stlaurencesbaldoyle.org/notes-to-parents/archives/10-2019",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "October 2019"
+    },
+    {
+      "url": "https://www.stlaurencesbaldoyle.org/uploads/1/1/6/4/116484431/_halloween_newsletter_2019_",
+      "final_url": "https://www.stlaurencesbaldoyle.org/uploads/1/1/6/4/116484431/_halloween_newsletter_2019_",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: Halloween Newsletter 2019"
+    },
+    {
+      "url": "https://www.stlaurencesbaldoyle.org/notes-to-parents/october-28th-2019",
+      "final_url": "https://www.stlaurencesbaldoyle.org/notes-to-parents/october-28th-2019",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Halloween Newsletter"
+    },
+    {
+      "url": "https://www.stlaurencesbaldoyle.org/notes-to-parents/archives/06-2019",
+      "final_url": "https://www.stlaurencesbaldoyle.org/notes-to-parents/archives/06-2019",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "June 2019"
+    },
+    {
+      "url": "https://www.stlaurencesbaldoyle.org/uploads/1/1/6/4/116484431/summer_newletter2019_v1.pdf",
+      "final_url": "https://www.stlaurencesbaldoyle.org/uploads/1/1/6/4/116484431/summer_newletter2019_v1.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: summer_newletter2019_v1.pdf"
+    },
+    {
+      "url": "https://www.stlaurencesbaldoyle.org/uploads/1/1/6/4/116484431/calendar_2019_2020.pdf",
+      "final_url": "https://www.stlaurencesbaldoyle.org/uploads/1/1/6/4/116484431/calendar_2019_2020.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: calendar_2019_2020.pdf"
+    },
+    {
+      "url": "https://www.stlaurencesbaldoyle.org/notes-to-parents/archives/05-2019",
+      "final_url": "https://www.stlaurencesbaldoyle.org/notes-to-parents/archives/05-2019",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "May 2019"
+    },
+    {
+      "url": "https://www.stlaurencesbaldoyle.org/notes-to-parents/archives/04-2019",
+      "final_url": "https://www.stlaurencesbaldoyle.org/notes-to-parents/archives/04-2019",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "April 2019"
+    },
+    {
+      "url": "https://www.stlaurencesbaldoyle.org/notes-to-parents/archives/03-2019",
+      "final_url": "https://www.stlaurencesbaldoyle.org/notes-to-parents/archives/03-2019",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "March 2019"
+    },
+    {
+      "url": "https://www.stlaurencesbaldoyle.org/notes-to-parents/march-notice",
+      "final_url": "https://www.stlaurencesbaldoyle.org/notes-to-parents/march-notice",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "March Notice"
+    },
+    {
+      "url": "https://www.stlaurencesbaldoyle.org/notes-to-parents/april-04th-2019",
+      "final_url": "https://www.stlaurencesbaldoyle.org/notes-to-parents/april-04th-2019",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Dress Up Day"
+    },
+    {
+      "url": "https://www.stlaurencesbaldoyle.org/notes-to-parents/201920-calendar",
+      "final_url": "https://www.stlaurencesbaldoyle.org/notes-to-parents/201920-calendar",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "2019/20 Calendar"
+    },
+    {
+      "url": "https://www.stlaurencesbaldoyle.org/uploads/1/1/6/4/116484431/in_service_note_dec18.pdf",
+      "final_url": "https://www.stlaurencesbaldoyle.org/uploads/1/1/6/4/116484431/in_service_note_dec18.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: in_service_note_dec18.pdf"
+    },
+    {
+      "url": "https://www.stlaurencesbaldoyle.org/notes-to-parents/archives/09-2020",
+      "final_url": "https://www.stlaurencesbaldoyle.org/notes-to-parents/archives/09-2020",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "September 2020"
+    },
+    {
+      "url": "https://www.stlaurencesbaldoyle.org/uploads/1/1/6/4/116484431/use-app-parents_updated.pdf",
+      "final_url": "https://www.stlaurencesbaldoyle.org/uploads/1/1/6/4/116484431/use-app-parents_updated.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: use-app-parents_updated.pdf"
+    },
+    {
+      "url": "https://www.stlaurencesbaldoyle.org/uploads/1/1/6/4/116484431/setup-app-parents-v4.pdf",
+      "final_url": "https://www.stlaurencesbaldoyle.org/uploads/1/1/6/4/116484431/setup-app-parents-v4.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: setup-app-parents-v4.pdf"
+    },
+    {
+      "url": "https://www.stlaurencesbaldoyle.org/uploads/1/1/6/4/116484431/password_reset_cheatsheet.pdf",
+      "final_url": "https://www.stlaurencesbaldoyle.org/uploads/1/1/6/4/116484431/password_reset_cheatsheet.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: password_reset_cheatsheet.pdf"
+    },
+    {
+      "url": "https://www.stlaurencesbaldoyle.org/uploads/1/1/6/4/116484431/homework_cheatsheet.pdf",
+      "final_url": "https://www.stlaurencesbaldoyle.org/uploads/1/1/6/4/116484431/homework_cheatsheet.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: homework_cheatsheet.pdf"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "20437E",
+      "url": "https://www.stlaurencesbaldoyle.org/notes-to-parents/annual-admissions-notice",
+      "label": "Admissions/policy URL from public sitemap",
+      "sha256": "73f0abb8f5cbc6065e7c32e51c0b0f28338cd91c5f772b65a7137b2d1b49b273",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20437E_73f0abb8f5cbc6065e7c.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1555
+    },
+    {
+      "roll": "20437E",
+      "url": "https://www.stlaurencesbaldoyle.org/notes-to-parents/archives/10-2019",
+      "label": "October 2019",
+      "sha256": "88cb2caca5d5bce1d9a4aafd4bffb30052988ed87069f2cca8bbb229b142dd08",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20437E_88cb2caca5d5bce1d9a4.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1167
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.stlaurencesbaldoyle.org/notes-to-parents/archives/03-2020",
+      "label": "March 2020",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stlaurencesbaldoyle.org/notes-to-parents/archives/02-2020",
+      "label": "February 2020",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stlaurencesbaldoyle.org/sitemap.xml",
+      "label": "Public sitemap",
+      "via": "sitemap_root"
+    },
+    {
+      "url": "https://www.stlaurencesbaldoyle.org/school-policies.html",
+      "label": "School Policies",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stlaurencesbaldoyle.org/parents-committee.html",
+      "label": "Parents' Committee",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stlaurencesbaldoyle.org/notes-to-parents/summer-newsletter",
+      "label": "Summer Newsletter",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stlaurencesbaldoyle.org/notes-to-parents/eu-local-elections",
+      "label": "EU & Local Elections",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stlaurencesbaldoyle.org/notes-to-parents/easter-raffle-cake-sale",
+      "label": "Easter Raffle & Cake Sale",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stlaurencesbaldoyle.org/notes-to-parents/easter-newsletter",
+      "label": "Easter Newsletter",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stlaurencesbaldoyle.org/notes-to-parents/christmas-raffle",
+      "label": "Christmas Raffle",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stlaurencesbaldoyle.org/notes-to-parents/christmas-newsletter",
+      "label": "Christmas Newsletter",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stlaurencesbaldoyle.org/notes-to-parents/christmas-carol-service",
+      "label": "Christmas Carol Service",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stlaurencesbaldoyle.org/notes-to-parents/category/all",
+      "label": "All",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stlaurencesbaldoyle.org/notes-to-parents/book-rentalpurchase-scheme",
+      "label": "Book Rental Scheme",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stlaurencesbaldoyle.org/notes-to-parents/book-rental",
+      "label": "Book Rental",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stlaurencesbaldoyle.org/notes-to-parents/board-of-management",
+      "label": "Board of Management",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stlaurencesbaldoyle.org/notes-to-parents.html",
+      "label": "Notes to Parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stlaurencesbaldoyle.org/admissions-policy.html",
+      "label": "Admissions Policy",
+      "via": "prior_public_admissions_landing"
+    },
+    {
+      "url": "https://www.stlaurencesbaldoyle.org/admissions-info-application-forms.html",
+      "label": "Admissions Info/ Application Forms",
+      "via": "prior_public_admissions_landing"
+    },
+    {
+      "url": "https://www.stlaurencesbaldoyle.org/",
+      "label": "School homepage",
+      "via": "home"
+    },
+    {
+      "url": "https://www.stlaurencesbaldoyle.org/privacy-policy.html",
+      "label": "Privacy Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 69.43,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:59:38+0000"
+}

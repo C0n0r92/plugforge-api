@@ -1,0 +1,280 @@
+{
+  "roll": "19601H",
+  "status": "bounded_search_no_new_notice_found",
+  "attempts": [
+    {
+      "url": "https://www.stphilipsjns.ie/admissions/admissions-20252026/?googletranslate=true",
+      "final_url": "https://www.stphilipsjns.ie/admissions/admissions-20252026/?googletranslate=true",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "https://www.stphilipsjns.ie/documentlink/245/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/496/docletter/20241010120915_41_Admissions_Notice_St._Philip_JNS_2025-2026.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Admissions Notice St. Philip JNS 2025-2026.pdf"
+    },
+    {
+      "url": "https://www.stphilipsjns.ie/admissions/admissions-20252026/",
+      "final_url": "https://www.stphilipsjns.ie/admissions/admissions-20252026/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions 2025/2026"
+    },
+    {
+      "url": "https://www.stphilipsjns.ie/admin/?open=/admissions/admissions-20252026/?googletranslate=true",
+      "final_url": "https://www.stphilipsjns.ie/admin/?open=/admissions/admissions-20252026/?googletranslate=true",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.stphilipsjns.ie/admin/?open=/admissions/admissions-20252026/",
+      "final_url": "https://www.stphilipsjns.ie/admin/?open=/admissions/admissions-20252026/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.stphilipsjns.ie/admissions/admissions-2627/",
+      "final_url": "https://www.stphilipsjns.ie/admissions/admissions-2627/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions 2026/2027"
+    },
+    {
+      "url": "https://www.stphilipsjns.ie/documentlink/260/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/496/docletter/20251003115857_67_Admission_Notice_2026-2027.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Admission Notice 2026-2027.pdf"
+    },
+    {
+      "url": "https://www.stphilipsjns.ie/admissions/admissions-20272028/?googletranslate=true",
+      "final_url": "https://www.stphilipsjns.ie/admissions/admissions-20272028/?googletranslate=true",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "https://www.stphilipsjns.ie/documentlink/276/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/496/docletter/20261005104417_78_Admissions_Notice_2027-2028.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Admissions Notice 2027-2028.pdf"
+    },
+    {
+      "url": "https://www.stphilipsjns.ie/admissions/admissions-20272028/",
+      "final_url": "https://www.stphilipsjns.ie/admissions/admissions-20272028/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions 2027/2028"
+    },
+    {
+      "url": "https://www.stphilipsjns.ie/admin/?open=/admissions/admissions-20272028/?googletranslate=true",
+      "final_url": "https://www.stphilipsjns.ie/admin/?open=/admissions/admissions-20272028/?googletranslate=true",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.stphilipsjns.ie/admin/?open=/admissions/admissions-20272028/",
+      "final_url": "https://www.stphilipsjns.ie/admin/?open=/admissions/admissions-20272028/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.stphilipsjns.ie/admissions/admissions-2627/?googletranslate=true",
+      "final_url": "https://www.stphilipsjns.ie/admissions/admissions-2627/?googletranslate=true",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "https://www.stphilipsjns.ie/admissions/?googletranslate=true",
+      "final_url": "https://www.stphilipsjns.ie/admissions/?googletranslate=true",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "https://www.stphilipsjns.ie/admissions/",
+      "final_url": "https://www.stphilipsjns.ie/admissions/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://www.stphilipsjns.ie/admin/?open=/admissions/admissions-2627/?googletranslate=true",
+      "final_url": "https://www.stphilipsjns.ie/admin/?open=/admissions/admissions-2627/?googletranslate=true",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.stphilipsjns.ie/admin/?open=/admissions/admissions-2627/",
+      "final_url": "https://www.stphilipsjns.ie/admin/?open=/admissions/admissions-2627/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.stphilipsjns.ie/admin/?open=/admissions/?googletranslate=true",
+      "final_url": "https://www.stphilipsjns.ie/admin/?open=/admissions/?googletranslate=true",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.stphilipsjns.ie/admin/?open=/admissions/",
+      "final_url": "https://www.stphilipsjns.ie/admin/?open=/admissions/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.stphilipsjns.ie/sitemap.xml",
+      "final_url": "https://www.stphilipsjns.ie/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.stphilipsjns.ie/parents-area/school-closures/",
+      "final_url": "https://www.stphilipsjns.ie/parents-area/school-closures/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Closures"
+    },
+    {
+      "url": "https://www.stphilipsjns.ie/parents-area/school-closures/?googletranslate=true",
+      "final_url": "https://www.stphilipsjns.ie/parents-area/school-closures/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stphilipsjns.ie/parents-area/primary-curriculum/",
+      "final_url": "https://www.stphilipsjns.ie/parents-area/primary-curriculum/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Primary Curriculum"
+    },
+    {
+      "url": "https://www.stphilipsjns.ie/parents-area/primary-curriculum/?googletranslate=true",
+      "final_url": "https://www.stphilipsjns.ie/parents-area/primary-curriculum/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    }
+  ],
+  "documents": [],
+  "pending_links": [
+    {
+      "url": "https://www.stphilipsjns.ie/parents-area/parents-information/",
+      "label": "Parents Information",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stphilipsjns.ie/parents-area/newsletters/",
+      "label": "Newsletters",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stphilipsjns.ie/parents-area/hscl/",
+      "label": "HSCL",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stphilipsjns.ie/parents-area/calendar/",
+      "label": "Calendar",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stphilipsjns.ie/parents-area/",
+      "label": "Parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stphilipsjns.ie/our-school/school-information/",
+      "label": "School Information",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stphilipsjns.ie/our-school/policies/",
+      "label": "Policies",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stphilipsjns.ie/letterlink/44/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stphilipsjns.ie/letterlink/34/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stphilipsjns.ie/letterlink/27/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stphilipsjns.ie/documentlink/276/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stphilipsjns.ie/documentlink/260/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stphilipsjns.ie/documentlink/245/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stphilipsjns.ie/admin/?open=/parents-area/school-closures/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stphilipsjns.ie/admin/?open=/parents-area/school-closures/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stphilipsjns.ie/admin/?open=/parents-area/primary-curriculum/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stphilipsjns.ie/admin/?open=/parents-area/primary-curriculum/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stphilipsjns.ie/",
+      "label": "School homepage",
+      "via": "home"
+    },
+    {
+      "url": "https://www.stphilipsjns.ie/cmsfiles/policies/privacy/",
+      "label": "Website Privacy Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stphilipsjns.ie/cmsfiles/policies/cookie/",
+      "label": "Cookie Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 51.02,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:07:53+0000"
+}

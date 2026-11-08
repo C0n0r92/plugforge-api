@@ -1,0 +1,245 @@
+{
+  "roll": "20528H",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://rivervalleycns.ie/wp-content/uploads/2022/10/Rivervalley-CNS-Admissions-2023-2024-LSSU-tracked.docx",
+      "final_url": "https://rivervalleycns.ie/wp-content/uploads/2022/10/Rivervalley-CNS-Admissions-2023-2024-LSSU-tracked.docx",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://rivervalleycns.ie/enrol/",
+      "final_url": "https://rivervalleycns.ie/enrol/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Enrolment"
+    },
+    {
+      "url": "https://rivervalleycns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://rivervalleycns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://rivervalleycns.ie/wp-content/uploads/2019/12/Revised-Admissions-Policy-River-Valley-CNS-2020-2021.pdf",
+      "final_url": "https://rivervalleycns.ie/wp-content/uploads/2019/12/Revised-Admissions-Policy-River-Valley-CNS-2020-2021.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Revised Admissions Policy River Valley CNS 2020-2021"
+    },
+    {
+      "url": "https://rivervalleycns.ie/wp-content/uploads/2019/11/Admissions-Policy-River-Valley-CNS-2020-2021.pdf",
+      "final_url": "https://rivervalleycns.ie/wp-content/uploads/2019/11/Admissions-Policy-River-Valley-CNS-2020-2021.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Policy River Valley CNS 2020-2021"
+    },
+    {
+      "url": "https://rivervalleycns.ie/wp-content/uploads/2019/11/Admissions-Policy-River-Valley-CNS-2020-2021-1.pdf",
+      "final_url": "https://rivervalleycns.ie/wp-content/uploads/2019/11/Admissions-Policy-River-Valley-CNS-2020-2021-1.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Policy River Valley CNS 2020-2021"
+    },
+    {
+      "url": "https://rivervalleycns.ie/wp-content/uploads/2019/07/Admissions-policy-2019-River-Valley.pdf",
+      "final_url": "https://rivervalleycns.ie/wp-content/uploads/2019/07/Admissions-policy-2019-River-Valley.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions policy 2019 River Valley"
+    },
+    {
+      "url": "https://rivervalleycns.ie/wp-content/uploads/2020/10/RVCNS-Revised-Application-Form-in-line-with-new-admissions-act.pdf",
+      "final_url": "https://rivervalleycns.ie/wp-content/uploads/2020/10/RVCNS-Revised-Application-Form-in-line-with-new-admissions-act.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "RVCNS Revised Application Form in line with new admissions act"
+    },
+    {
+      "url": "https://rivervalleycns.ie/wp-content/uploads/2020/10/RVCNS-Revised-Application-Form-in-line-with-new-admissions-act.docx",
+      "final_url": "https://rivervalleycns.ie/wp-content/uploads/2020/10/RVCNS-Revised-Application-Form-in-line-with-new-admissions-act.docx",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "RVCNS Revised Application Form in line with new admissions act"
+    },
+    {
+      "url": "https://rivervalleycns.ie/wp-content/uploads/2020/10/RVCNS-Revised-Admission-Policy-in-line-with-New-Admissions-Act-2021_22.pdf",
+      "final_url": "https://rivervalleycns.ie/wp-content/uploads/2020/10/RVCNS-Revised-Admission-Policy-in-line-with-New-Admissions-Act-2021_22.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "RVCNS Revised Admission Policy in line with New Admissions Act 2021_22"
+    },
+    {
+      "url": "https://rivervalleycns.ie/wp-content/uploads/2020/04/DRAFT-RVCNS-Revised-Admission-Policy-in-line-with-New-Admissions-Act.pdf",
+      "final_url": "https://rivervalleycns.ie/wp-content/uploads/2020/04/DRAFT-RVCNS-Revised-Admission-Policy-in-line-with-New-Admissions-Act.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "DRAFT RVCNS Revised Admission Policy in line with New Admissions Act"
+    },
+    {
+      "url": "https://rivervalleycns.ie/wp-content/uploads/2021/10/2022_23-RVCNS-Revised-Admission-Policy-in-line-with-New-Admissions-Act-2021_22.pdf",
+      "final_url": "https://rivervalleycns.ie/wp-content/uploads/2021/10/2022_23-RVCNS-Revised-Admission-Policy-in-line-with-New-Admissions-Act-2021_22.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "2022_23 RVCNS Revised Admission Policy in line with New Admissions Act 2021_22"
+    },
+    {
+      "url": "https://rivervalleycns.ie/wp-content/uploads/2022/12/Admissions-Policy-2023_24-Dec-22.pdf",
+      "final_url": "https://rivervalleycns.ie/wp-content/uploads/2022/12/Admissions-Policy-2023_24-Dec-22.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Policy 2023_24 Dec 22"
+    },
+    {
+      "url": "https://rivervalleycns.ie/wp-content/uploads/2022/10/Rivervalley-Admissions-Policy.pdf",
+      "final_url": "https://rivervalleycns.ie/wp-content/uploads/2022/10/Rivervalley-Admissions-Policy.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Rivervalley Admissions Policy"
+    },
+    {
+      "url": "https://rivervalleycns.ie/wp-content/uploads/2023/10/RVCNS-Revised-Admission-Policy-20242025.docx",
+      "final_url": "https://rivervalleycns.ie/wp-content/uploads/2023/10/RVCNS-Revised-Admission-Policy-20242025.docx",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "20528H",
+      "url": "https://rivervalleycns.ie/wp-content/uploads/2022/10/Rivervalley-CNS-Admissions-2023-2024-LSSU-tracked.docx",
+      "label": "Prior school admissions section",
+      "sha256": "7cb9386ba335c1f6bec3e4ade939c93fb0830394667f7300fdab0669d24e7c03",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/20528H_7cb9386ba335c1f6bec3.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 35649
+    },
+    {
+      "roll": "20528H",
+      "url": "https://rivervalleycns.ie/wp-content/uploads/2020/10/RVCNS-Revised-Admission-Policy-in-line-with-New-Admissions-Act-2021_22.pdf",
+      "label": "RVCNS Revised Admission Policy in line with New Admissions Act 2021_22",
+      "sha256": "4a674eeadd8c2fbea45bf0ec2d3930274ed57f58d61fe3bad52a9cb968186161",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20528H_4a674eeadd8c2fbea45b.txt",
+      "source_file": "database/milestone2/cache/4a674eeadd8c2fbea45bf0ec2d3930274ed57f58d61fe3bad52a9cb968186161.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 39706
+    },
+    {
+      "roll": "20528H",
+      "url": "https://rivervalleycns.ie/wp-content/uploads/2020/04/DRAFT-RVCNS-Revised-Admission-Policy-in-line-with-New-Admissions-Act.pdf",
+      "label": "DRAFT RVCNS Revised Admission Policy in line with New Admissions Act",
+      "sha256": "6ebd6bb12ecbd1aa1de8caa2fae011f661fc2797e403e9fedb31c2692443e4cb",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20528H_6ebd6bb12ecbd1aa1de8.txt",
+      "source_file": "database/milestone2/cache/6ebd6bb12ecbd1aa1de8caa2fae011f661fc2797e403e9fedb31c2692443e4cb.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 38955
+    },
+    {
+      "roll": "20528H",
+      "url": "https://rivervalleycns.ie/wp-content/uploads/2021/10/2022_23-RVCNS-Revised-Admission-Policy-in-line-with-New-Admissions-Act-2021_22.pdf",
+      "label": "2022_23 RVCNS Revised Admission Policy in line with New Admissions Act 2021_22",
+      "sha256": "6d9911d14d8dce5b80f4f107acafae4950c1552cc900ccada0002f4ccaa2622c",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20528H_6d9911d14d8dce5b80f4.txt",
+      "source_file": "database/milestone2/cache/6d9911d14d8dce5b80f4f107acafae4950c1552cc900ccada0002f4ccaa2622c.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 39652
+    },
+    {
+      "roll": "20528H",
+      "url": "https://rivervalleycns.ie/wp-content/uploads/2022/12/Admissions-Policy-2023_24-Dec-22.pdf",
+      "label": "Admissions Policy 2023_24 Dec 22",
+      "sha256": "5d1d5f6806701485b1cfbb3aebb0e869cf291d3dcf170c6eee5b07d10bfe49e5",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20528H_5d1d5f6806701485b1cf.txt",
+      "source_file": "database/milestone2/cache/5d1d5f6806701485b1cfbb3aebb0e869cf291d3dcf170c6eee5b07d10bfe49e5.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 39608
+    },
+    {
+      "roll": "20528H",
+      "url": "https://rivervalleycns.ie/wp-content/uploads/2022/10/Rivervalley-Admissions-Policy.pdf",
+      "label": "Rivervalley Admissions Policy",
+      "sha256": "80d0ffdb16af9716ebcdf22036efab2e02ba76b4ee07aa58bfd2f25a27ed76e1",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20528H_80d0ffdb16af9716ebcd.txt",
+      "source_file": "database/milestone2/cache/80d0ffdb16af9716ebcdf22036efab2e02ba76b4ee07aa58bfd2f25a27ed76e1.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 39480
+    },
+    {
+      "roll": "20528H",
+      "url": "https://rivervalleycns.ie/wp-content/uploads/2023/10/RVCNS-Revised-Admission-Policy-20242025.docx",
+      "label": "Prior school admissions section",
+      "sha256": "724e17db7898cc11302224f662ea87e18b1dcad7b033c832cc378b709cf13717",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/20528H_724e17db7898cc113022.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 35429
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://rivervalleycns.ie/wp-content/uploads/2023/10/RVCNS-Admission-Policy-20242025.docx",
+      "label": "Prior school admissions section",
+      "via": "prior_link"
+    },
+    {
+      "url": "https://rivervalleycns.ie/wp-content/uploads/2024/10/RVCNS-Admission-Policy-20252026.pdf",
+      "label": "RVCNS Admission Policy 2025:2026",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://rivervalleycns.ie/wp-content/uploads/2024/10/RVCNS-Admission-Policy-20252026-1.pdf",
+      "label": "RVCNS Admission Policy 2025:2026",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://rivervalleycns.ie/wp-content/uploads/2026/10/RVCNS-Admission-Policy-2027_2028-1.pdf",
+      "label": "Admissions Policy 2027_2028",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://rivervalleycns.ie/sitemap.xml",
+      "label": "Public sitemap",
+      "via": "sitemap_root"
+    },
+    {
+      "url": "https://rivervalleycns.ie/school-policies/",
+      "label": "School Policies",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://rivervalleycns.ie/resources-for-parents/",
+      "label": "Resources for Parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://rivervalleycns.ie/parents/school-calendar/",
+      "label": "School Calendar",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://rivervalleycns.ie/draft-policies/",
+      "label": "Draft Policies",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://rivervalleycns.ie",
+      "label": "School homepage",
+      "via": "home"
+    }
+  ],
+  "elapsed_seconds": 150.35,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:36:29+0000"
+}

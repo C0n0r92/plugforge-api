@@ -1,0 +1,220 @@
+{
+  "roll": "19594N",
+  "status": "bounded_search_no_new_notice_found",
+  "attempts": [
+    {
+      "url": "https://www.stpaulsyep.com/admissions",
+      "final_url": "https://www.stpaulsyep.com/admissions",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://www.stpaulsyep.com/s/Admission-Policy-St-Pauls-YEP-Sept-2023-ydnz.pdf",
+      "final_url": "https://static1.squarespace.com/static/607ff5bf70b39915225bce72/t/65a935764a63844d204dda28/1705588087146/Admission+Policy+St+Paul%27s+Y.E.P.+Sept+2023.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions Policy"
+    },
+    {
+      "url": "https://www.stpaulsyep.com/s/St-Pauls-Admissions-Application-Form-s2f3.docx",
+      "final_url": "https://static1.squarespace.com/static/607ff5bf70b39915225bce72/t/6662dbc34f6178002f4b2acf/1717754820090/St.+Paul%E2%80%99s+Admissions+Application+Form.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "click here"
+    },
+    {
+      "url": "https://www.stpaulsyep.com/s/St-Pauls-Admissions-Application-Form-68ka.docx",
+      "final_url": "https://static1.squarespace.com/static/607ff5bf70b39915225bce72/t/65a7c278334f47217c9e5a77/1705493112375/St.+Paul%E2%80%99s+Admissions+Application+Form.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stpaulsyep.com/sitemap.xml",
+      "final_url": "https://www.stpaulsyep.com/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.stpaulsyep.com/policies",
+      "final_url": "https://www.stpaulsyep.com/policies",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.stpaulsyep.com/s/Admission-Policy-St-Pauls-YEP-Sept-2023.pdf",
+      "final_url": "https://static1.squarespace.com/static/607ff5bf70b39915225bce72/t/65a8ec861585c8480f95fe41/1705569414610/Admission+Policy+St+Paul%27s+Y.E.P.+Sept+2023.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions policy"
+    },
+    {
+      "url": "https://www.stpaulsyep.com/s/St-Pauls-Covid-19-School-Response-Plan-and-Policy-Statement-August-2020.pdf",
+      "final_url": "https://static1.squarespace.com/static/607ff5bf70b39915225bce72/t/60929b51bffd03549def2f97/1620220754083/St+Paul%27s+Covid-19+School+Response+Plan+and+Policy+Statement+August+2020.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Covid Response Plan and Policy"
+    },
+    {
+      "url": "https://www.stpaulsyep.com/",
+      "final_url": "https://www.stpaulsyep.com/",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.stpaulsyep.com/s/re-engagement-policy.pdf",
+      "final_url": "https://static1.squarespace.com/static/607ff5bf70b39915225bce72/t/6352871e9a619d198d819804/1666352926382/re-engagement+policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Re-engagement Policy"
+    },
+    {
+      "url": "https://www.stpaulsyep.com/s/intenet-acceptable-use-policy-for-pupils.pdf",
+      "final_url": "https://static1.squarespace.com/static/607ff5bf70b39915225bce72/t/63525d8c3668926fd0d60350/1666342285146/intenet+acceptable+use+policy+for+pupils.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Internet acceptable use policy for pupils"
+    },
+    {
+      "url": "https://www.stpaulsyep.com/s/Woodwork-safety-policy.pdf",
+      "final_url": "https://static1.squarespace.com/static/607ff5bf70b39915225bce72/t/635284aa57958f372e822797/1666352298808/Woodwork+safety+policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Woodwork Safety Policy"
+    },
+    {
+      "url": "https://www.stpaulsyep.com/s/Wellbeing-Policy.pdf",
+      "final_url": "https://static1.squarespace.com/static/607ff5bf70b39915225bce72/t/63528491dcc9016c13e0c767/1666352273561/Wellbeing+Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Wellbeing Policy"
+    },
+    {
+      "url": "https://www.stpaulsyep.com/s/TCI-Schools-Behavioural-Management-Policy.pdf",
+      "final_url": "https://static1.squarespace.com/static/607ff5bf70b39915225bce72/t/6352847948c7e03076fbaa23/1666352251239/TCI+Schools+Behavioural+Management+Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "TCI Schools Behavioural Management Policy"
+    },
+    {
+      "url": "https://www.stpaulsyep.com/s/School_Data_Protection-and-GDPR_Policy.pdf",
+      "final_url": "https://static1.squarespace.com/static/607ff5bf70b39915225bce72/t/609276a24d4af26ab20dc2da/1620211363008/School_Data_Protection+and+GDPR_Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Data Protection and GDPR Policy"
+    },
+    {
+      "url": "https://www.stpaulsyep.com/s/School-Dog-Policy.pdf",
+      "final_url": "https://static1.squarespace.com/static/607ff5bf70b39915225bce72/t/618a89a08612361e86db2a4a/1636469153437/School+Dog+Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Dog Policy"
+    },
+    {
+      "url": "https://www.stpaulsyep.com/s/School-Attendance-Policy.pdf",
+      "final_url": "https://static1.squarespace.com/static/607ff5bf70b39915225bce72/t/6092765e5bbb0d325cfa152e/1620211294256/School+Attendance+Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Attendance Policy"
+    },
+    {
+      "url": "https://www.stpaulsyep.com/s/SPHE-Policy.pdf",
+      "final_url": "https://static1.squarespace.com/static/607ff5bf70b39915225bce72/t/635284605a0b8f501594a5bc/1666352225477/SPHE++Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "SPHE Policy"
+    },
+    {
+      "url": "https://www.stpaulsyep.com/s/Relationships-and-Sexuality-Education-RSE-Draft-Policy-lbbg.pdf",
+      "final_url": "https://static1.squarespace.com/static/607ff5bf70b39915225bce72/t/6352843be97b20473cff09a5/1666352187793/Relationships+and+Sexuality+Education+%28RSE%29+Draft+Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Relationships and Sexuality Education (RSE) Policy"
+    },
+    {
+      "url": "https://www.stpaulsyep.com/s/Lone-Working-Policy-and-Safe-Practice.pdf",
+      "final_url": "https://static1.squarespace.com/static/607ff5bf70b39915225bce72/t/63525dff85b45135b6c29682/1666342400217/Lone+Working+Policy+and+Safe+Practice.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Lone Working Policy and Safe Practice"
+    },
+    {
+      "url": "https://www.stpaulsyep.com/s/JCSP-Policy.pdf",
+      "final_url": "https://static1.squarespace.com/static/607ff5bf70b39915225bce72/t/63525dc60411dd54a0b66d53/1666342342639/JCSP+Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "JCSP Policy"
+    },
+    {
+      "url": "https://www.stpaulsyep.com/s/ICT-Policy.pdf",
+      "final_url": "https://static1.squarespace.com/static/607ff5bf70b39915225bce72/t/63525d786cedcd1b87abddd7/1666342264828/ICT+Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "ICT Policy"
+    },
+    {
+      "url": "https://www.stpaulsyep.com/s/Health-and-Safety-Policy-Statement.pdf",
+      "final_url": "https://static1.squarespace.com/static/607ff5bf70b39915225bce72/t/6098f8c42fd5a126608752d3/1620637893223/Health+and+Safety+Policy+%26+Statement.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Health and Safety Policy & Statement"
+    },
+    {
+      "url": "https://www.stpaulsyep.com/s/Garda-Vetting-Policy.pdf",
+      "final_url": "https://static1.squarespace.com/static/607ff5bf70b39915225bce72/t/63525d4bcb9ea04eeda8ea3f/1666342220132/Garda+Vetting+Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Garda Vetting Policy"
+    }
+  ],
+  "documents": [],
+  "pending_links": [
+    {
+      "url": "https://www.stpaulsyep.com/s/First-Aid-and-Administration-of-Medicines-Policy.pdf",
+      "label": "First Aid and Administration of Medicines Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stpaulsyep.com/s/Droichead-Induction-Policy.pdf",
+      "label": "Droichead Induction Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stpaulsyep.com/s/Child-Protection-Policy-9stx.pdf",
+      "label": "Child Protection Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stpaulsyep.com/s/CCTV-Policy.pdf",
+      "label": "CCTV Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stpaulsyep.com/s/Bullying-and-Harassment-Policy.pdf",
+      "label": "Bullying and Harassment Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stpaulsyep.com/s/Bi-Cinealta-policy.pdf",
+      "label": "Bí Cineálta Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stpaulsyep.com/s/Assessment-Policy.pdf",
+      "label": "Assessment Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stpaulsyep.com/s/1-Test-Policy-63kl.pdf",
+      "label": "",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 71.75,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:08:12+0000"
+}

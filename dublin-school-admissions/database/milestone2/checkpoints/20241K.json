@@ -1,0 +1,277 @@
+{
+  "roll": "20241K",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.scoilchoilmcns.ie",
+      "final_url": "https://www.scoilchoilmcns.ie",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.scoilchoilmcns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://www.scoilchoilmcns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://www.scoilchoilmcns.ie/wp-content/uploads/2024/12/Scoil-Choilm-CNS-Admissions-25-26.pdf",
+      "final_url": "https://www.scoilchoilmcns.ie/wp-content/uploads/2024/12/Scoil-Choilm-CNS-Admissions-25-26.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Scoil-Choilm-CNS-Admissions-25-26"
+    },
+    {
+      "url": "https://www.scoilchoilmcns.ie/wp-content/uploads/2025/11/Scoil-Choilm-Admissions-26-27-2.pdf",
+      "final_url": "https://www.scoilchoilmcns.ie/wp-content/uploads/2025/11/Scoil-Choilm-Admissions-26-27-2.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Scoil Choilm Admissions-26-27 (2)"
+    },
+    {
+      "url": "https://www.scoilchoilmcns.ie/wp-content/uploads/2025/10/Scoil-Choilm-Admissions-26-27.-Edited-Catchment.pdf",
+      "final_url": "https://www.scoilchoilmcns.ie/wp-content/uploads/2025/10/Scoil-Choilm-Admissions-26-27.-Edited-Catchment.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Scoil Choilm Admissions-26-27. Edited Catchment"
+    },
+    {
+      "url": "https://www.scoilchoilmcns.ie/wp-content/uploads/2025/10/Scoil-Choilm-Admission-26-27.pdf",
+      "final_url": "https://www.scoilchoilmcns.ie/wp-content/uploads/2025/10/Scoil-Choilm-Admission-26-27.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Scoil Choilm Admission 26 27"
+    },
+    {
+      "url": "https://www.scoilchoilmcns.ie/wp-content/uploads/2025/09/Scoil-Choilm-Admissions-26-27.pdf",
+      "final_url": "https://www.scoilchoilmcns.ie/wp-content/uploads/2025/09/Scoil-Choilm-Admissions-26-27.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Scoil Choilm Admissions-26-27"
+    },
+    {
+      "url": "https://www.scoilchoilmcns.ie/wp-content/uploads/2025/09/Scoil-Choilm-Admissions-26-27.-.pdf",
+      "final_url": "https://www.scoilchoilmcns.ie/wp-content/uploads/2025/09/Scoil-Choilm-Admissions-26-27.-.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Scoil Choilm Admissions-26-27."
+    },
+    {
+      "url": "https://www.scoilchoilmcns.ie/wp-content/uploads/2026/09/Scoil-Choilm-Admissions-27-28.pdf",
+      "final_url": "https://www.scoilchoilmcns.ie/wp-content/uploads/2026/09/Scoil-Choilm-Admissions-27-28.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Scoil Choilm Admissions-27-28"
+    },
+    {
+      "url": "https://www.scoilchoilmcns.ie/wp-content/uploads/2026/08/Scoil-Choilm-Admissions-27-28-1-1.pdf",
+      "final_url": "https://www.scoilchoilmcns.ie/wp-content/uploads/2026/08/Scoil-Choilm-Admissions-27-28-1-1.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Scoil Choilm Admissions-27-28 (1) (1)"
+    },
+    {
+      "url": "https://www.scoilchoilmcns.ie/wp-content/uploads/2026/05/Scoil-Choilm-Admissions-27-28.pdf",
+      "final_url": "https://www.scoilchoilmcns.ie/wp-content/uploads/2026/05/Scoil-Choilm-Admissions-27-28.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Scoil Choilm Admissions-27-28"
+    },
+    {
+      "url": "https://www.scoilchoilmcns.ie/enrol/",
+      "final_url": "https://www.scoilchoilmcns.ie/enrol/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Enrol"
+    },
+    {
+      "url": "https://eps.enrol.ie/scoilchoilmcns/Pages/Index.aspx",
+      "final_url": "https://eps.enrol.ie/scoilchoilmcns/Pages/Index.aspx",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": "MIT School Payments"
+    },
+    {
+      "url": "https://ams.enrol.ie/scoilchoilmcns/Index.aspx",
+      "final_url": "https://ams.enrol.ie/scoilchoilmcns/Index.aspx",
+      "status": "robots_transient_SSLError",
+      "via": "school_public_link",
+      "label": "MIT School Payments"
+    },
+    {
+      "url": "https://www.scoilchoilmcns.ie/wp-content/uploads/2025/09/Scoil-Choilm-CNS-25-26-Admissions-Policy.pdf",
+      "final_url": "https://www.scoilchoilmcns.ie/wp-content/uploads/2025/09/Scoil-Choilm-CNS-25-26-Admissions-Policy.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Scoil Choilm CNS 25 26 Admissions Policy"
+    },
+    {
+      "url": "https://www.scoilchoilmcns.ie/wp-content/uploads/2025/06/Scoil-Choilm-CNS-Admission-Policy.pdf",
+      "final_url": "https://www.scoilchoilmcns.ie/wp-content/uploads/2025/06/Scoil-Choilm-CNS-Admission-Policy.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Scoil Choilm CNS Admission Policy"
+    },
+    {
+      "url": "https://www.scoilchoilmcns.ie/sitemap.xml",
+      "final_url": "https://www.scoilchoilmcns.ie/sitemap_index.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "20241K",
+      "url": "https://www.scoilchoilmcns.ie/wp-content/uploads/2024/12/Scoil-Choilm-CNS-Admissions-25-26.pdf",
+      "label": "Scoil-Choilm-CNS-Admissions-25-26",
+      "sha256": "f290b84afb284c16ca5001e734eaf3fbb5e7aff459c54efa776681467370f0a2",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20241K_f290b84afb284c16ca50.txt",
+      "source_file": "database/milestone2/cache/f290b84afb284c16ca5001e734eaf3fbb5e7aff459c54efa776681467370f0a2.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 95469
+    },
+    {
+      "roll": "20241K",
+      "url": "https://www.scoilchoilmcns.ie/wp-content/uploads/2025/11/Scoil-Choilm-Admissions-26-27-2.pdf",
+      "label": "Scoil Choilm Admissions-26-27 (2)",
+      "sha256": "5a66a918c24063d8a70cc09db552ae9e03ddc34dc827ee201ac90b571df4dddd",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20241K_5a66a918c24063d8a70c.txt",
+      "source_file": "database/milestone2/cache/5a66a918c24063d8a70cc09db552ae9e03ddc34dc827ee201ac90b571df4dddd.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 101802
+    },
+    {
+      "roll": "20241K",
+      "url": "https://www.scoilchoilmcns.ie/wp-content/uploads/2025/10/Scoil-Choilm-Admission-26-27.pdf",
+      "label": "Scoil Choilm Admission 26 27",
+      "sha256": "7766c0fce40c60a22da1f4e4e9dd4eff6e223f826cf3c5cc56a03ca4757e095b",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20241K_7766c0fce40c60a22da1.txt",
+      "source_file": "database/milestone2/cache/7766c0fce40c60a22da1f4e4e9dd4eff6e223f826cf3c5cc56a03ca4757e095b.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 101825
+    },
+    {
+      "roll": "20241K",
+      "url": "https://www.scoilchoilmcns.ie/wp-content/uploads/2025/09/Scoil-Choilm-Admissions-26-27.pdf",
+      "label": "Scoil Choilm Admissions-26-27",
+      "sha256": "72a37b85187932cb7b440a7ee2e38ffab554784d2f75358172bef2e12bd1e897",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20241K_72a37b85187932cb7b44.txt",
+      "source_file": "database/milestone2/cache/72a37b85187932cb7b440a7ee2e38ffab554784d2f75358172bef2e12bd1e897.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 99145
+    },
+    {
+      "roll": "20241K",
+      "url": "https://www.scoilchoilmcns.ie/wp-content/uploads/2025/09/Scoil-Choilm-Admissions-26-27.-.pdf",
+      "label": "Scoil Choilm Admissions-26-27.",
+      "sha256": "a49b56b4ba26923e2d826ace4b9f4b0688ded929b17460abfb62d11ad23cc913",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20241K_a49b56b4ba26923e2d82.txt",
+      "source_file": "database/milestone2/cache/a49b56b4ba26923e2d826ace4b9f4b0688ded929b17460abfb62d11ad23cc913.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 101869
+    },
+    {
+      "roll": "20241K",
+      "url": "https://www.scoilchoilmcns.ie/wp-content/uploads/2026/09/Scoil-Choilm-Admissions-27-28.pdf",
+      "label": "Scoil Choilm Admissions-27-28",
+      "sha256": "1083bca72e50068c1db8e69039ce537eb3d5a59fabf0e360191be104a313d977",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20241K_1083bca72e50068c1db8.txt",
+      "source_file": "database/milestone2/cache/1083bca72e50068c1db8e69039ce537eb3d5a59fabf0e360191be104a313d977.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 102099
+    },
+    {
+      "roll": "20241K",
+      "url": "https://www.scoilchoilmcns.ie/wp-content/uploads/2026/08/Scoil-Choilm-Admissions-27-28-1-1.pdf",
+      "label": "Scoil Choilm Admissions-27-28 (1) (1)",
+      "sha256": "6fcd05d10d9f32c1ffee869d9c599daf4474ae9552e1e58bf24d7dbc59260316",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20241K_6fcd05d10d9f32c1ffee.txt",
+      "source_file": "database/milestone2/cache/6fcd05d10d9f32c1ffee869d9c599daf4474ae9552e1e58bf24d7dbc59260316.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 102211
+    },
+    {
+      "roll": "20241K",
+      "url": "https://www.scoilchoilmcns.ie/wp-content/uploads/2026/05/Scoil-Choilm-Admissions-27-28.pdf",
+      "label": "Scoil Choilm Admissions-27-28",
+      "sha256": "ff850a7d919665fa1532e8f57828666cab89456e3298624b658fc538a1271a26",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20241K_ff850a7d919665fa1532.txt",
+      "source_file": "database/milestone2/cache/ff850a7d919665fa1532e8f57828666cab89456e3298624b658fc538a1271a26.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 110997
+    },
+    {
+      "roll": "20241K",
+      "url": "https://www.scoilchoilmcns.ie/wp-content/uploads/2025/09/Scoil-Choilm-CNS-25-26-Admissions-Policy.pdf",
+      "label": "Scoil Choilm CNS 25 26 Admissions Policy",
+      "sha256": "490f7eef8fcd51de509eb1906732628b2741ef37a92affef6b487e1b2e7bb725",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20241K_490f7eef8fcd51de509e.txt",
+      "source_file": "database/milestone2/cache/490f7eef8fcd51de509eb1906732628b2741ef37a92affef6b487e1b2e7bb725.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 95538
+    },
+    {
+      "roll": "20241K",
+      "url": "https://www.scoilchoilmcns.ie/wp-content/uploads/2025/06/Scoil-Choilm-CNS-Admission-Policy.pdf",
+      "label": "Scoil Choilm CNS Admission Policy",
+      "sha256": "94aa0d5f71956f48424e130dbd951be51197a03f339043eae2ad6a6ba01b1928",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20241K_94aa0d5f71956f48424e.txt",
+      "source_file": "database/milestone2/cache/94aa0d5f71956f48424e130dbd951be51197a03f339043eae2ad6a6ba01b1928.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 98622
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.scoilchoilmcns.ie/tribe_events-sitemap.xml",
+      "label": "Public sitemap index child",
+      "via": "sitemap_child"
+    },
+    {
+      "url": "https://www.scoilchoilmcns.ie/school-policies/",
+      "label": "School Policies",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilchoilmcns.ie/parents/",
+      "label": "Parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilchoilmcns.ie/parents-queries/",
+      "label": "Parents Queries",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilchoilmcns.ie/page-sitemap.xml",
+      "label": "Public sitemap index child",
+      "via": "sitemap_child"
+    },
+    {
+      "url": "https://www.scoilchoilmcns.ie/information-for-parents/",
+      "label": "Information for Parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilchoilmcns.ie/wp-content/uploads/2026/06/Scoil-Choilm-CNS-Application-Form-27-28.pdf",
+      "label": "Scoil Choilm CNS Application Form 26/27 & 27/28",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 167.71,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:34:14+0000"
+}

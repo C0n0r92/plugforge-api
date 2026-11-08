@@ -1,0 +1,221 @@
+{
+  "roll": "01795A",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.centralmodelinfantschool.ie/Content/2023/1/wd81-Admission_Policy_2023.docx",
+      "final_url": "https://www.centralmodelinfantschool.ie/Content/2023/1/wd81-Admission_Policy_2023.docx",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://www.centralmodelinfantschool.ie",
+      "final_url": "https://www.centralmodelinfantschool.ie",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.centralmodelinfantschool.ie/sitemap.xml",
+      "final_url": "https://www.centralmodelinfantschool.ie/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.centralmodelinfantschool.ie/page/Policies/61757/Index.html",
+      "final_url": "https://www.centralmodelinfantschool.ie/page/Policies/61757/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.centralmodelinfantschool.ie/Content/2025/9/fa20-Notice_of_review_of_the_Child_Sage_Guarding_Statement_and_Risk_Assessment_to_Parents.doc",
+      "final_url": "https://www.centralmodelinfantschool.ie/Content/2025/9/fa20-Notice_of_review_of_the_Child_Sage_Guarding_Statement_and_Risk_Assessment_to_Parents.doc",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Notice of review of the Child Sage Guarding Statement and Risk Assessment to Parents.doc"
+    },
+    {
+      "url": "https://www.centralmodelinfantschool.ie/Content/2022/3/nw48-Checklist_for_annual_review_of_the_antibullying_policy_and_its_implementation._1.doc",
+      "final_url": "https://www.centralmodelinfantschool.ie/Content/2022/3/nw48-Checklist_for_annual_review_of_the_antibullying_policy_and_its_implementation._1.doc",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Checklist for annual review of the anti-bullying policy and its implementation. (1).doc"
+    },
+    {
+      "url": "https://www.centralmodelinfantschool.ie/Content/2020/9/qe61-Application_to_Enrol.doc",
+      "final_url": "https://www.centralmodelinfantschool.ie/Content/2020/9/qe61-Application_to_Enrol.doc",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "A"
+    },
+    {
+      "url": "https://www.centralmodelinfantschool.ie/Content/2023/9/la40-Parental_Complaints_Procedure.doc",
+      "final_url": "https://www.centralmodelinfantschool.ie/Content/2023/9/la40-Parental_Complaints_Procedure.doc",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parental Complaints Procedure.doc"
+    },
+    {
+      "url": "https://www.centralmodelinfantschool.ie/Content/2019/6/HealthyEatingPolicy20123.pdf",
+      "final_url": "https://www.centralmodelinfantschool.ie/Content/2019/6/HealthyEatingPolicy20123.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Healthy Eating Policy 2012"
+    },
+    {
+      "url": "https://www.centralmodelinfantschool.ie/Content/2022/10/yp95-Accident_and_Injury_Policy_2014.doc",
+      "final_url": "https://www.centralmodelinfantschool.ie/Content/2022/10/yp95-Accident_and_Injury_Policy_2014.doc",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Accident and Injury Policy 2014.doc"
+    },
+    {
+      "url": "https://www.centralmodelinfantschool.ie/Content/2019/6/P.E.Policy20141.pdf",
+      "final_url": "https://www.centralmodelinfantschool.ie/Content/2019/6/P.E.Policy20141.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "P.E. Policy 2014"
+    },
+    {
+      "url": "https://www.centralmodelinfantschool.ie/Content/2019/6/ATTENDANCEPOLICY2017.doc",
+      "final_url": "https://www.centralmodelinfantschool.ie/Content/2019/6/ATTENDANCEPOLICY2017.doc",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Attendance Policy 2017"
+    },
+    {
+      "url": "https://www.centralmodelinfantschool.ie/Content/2019/6/SwimmingPolicy20182.doc",
+      "final_url": "https://www.centralmodelinfantschool.ie/Content/2019/6/SwimmingPolicy20182.doc",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Swimming Policy 2018"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "01795A",
+      "url": "https://www.centralmodelinfantschool.ie/Content/2023/1/wd81-Admission_Policy_2023.docx",
+      "label": "Prior school admissions section",
+      "sha256": "53222b0d6da0833fd79e83336544b4ddada65c0ad97c17c45393d83958496069",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/01795A_53222b0d6da0833fd79e.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 18525
+    },
+    {
+      "roll": "01795A",
+      "url": "https://www.centralmodelinfantschool.ie/page/Policies/61757/Index.html",
+      "label": "Policies",
+      "sha256": "2ee40aad1647b27abd789e67f5e15ae2736d36857f1881415441380fc92ff4cf",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/01795A_2ee40aad1647b27abd78.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 2177
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.centralmodelinfantschool.ie/Content/2019/6/CCTVPOLICY2018.doc",
+      "label": "CCTV Policy 2018",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.centralmodelinfantschool.ie/Content/2019/10/Data_Protection_Policy.docx",
+      "label": "Data Protection Policy 2018",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.centralmodelinfantschool.ie/Content/2019/6/STAYSAFEPOLICY2019.doc",
+      "label": "Stay Safe Policy 2019",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.centralmodelinfantschool.ie/Content/2019/6/CODE_OF_BEHAVIOUR_2019.doc",
+      "label": "Code of Behaviour Policy 2019",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.centralmodelinfantschool.ie/Content/2019/11/Special_Educational_Needs_Policy_2019.doc",
+      "label": "Special Education Needs Policy 2019",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.centralmodelinfantschool.ie/Content/2019/11/SNA_Policy_2019.docx",
+      "label": "Special Needs Assistant Policy 2019",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.centralmodelinfantschool.ie/Content/2019/11/Assessment_Policy_2019.doc",
+      "label": "Assessment Policy 2019",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.centralmodelinfantschool.ie/Content/2019/11/Access_Policy_2019.docx",
+      "label": "Access Policy 2019",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.centralmodelinfantschool.ie/Content/2019/10/Protected_Disclosures_Policy_1.doc",
+      "label": "Protected Disclosures Policy 2019",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.centralmodelinfantschool.ie/School-Info/Index.html",
+      "label": "School Info",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.centralmodelinfantschool.ie/Content/2020/6/uy79-Acceptable_Use_Policy_2020.doc",
+      "label": "Acceptable Usage Policy 2020",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.centralmodelinfantschool.ie/Content/2020/11/kg32-Remote_Learning_Policy_2020.docx",
+      "label": "Remote Learning Policy 2020",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.centralmodelinfantschool.ie/Content/2022/5/sr66-Supervision_Policy.doc",
+      "label": "Supervision Policy.doc",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.centralmodelinfantschool.ie/Content/2024/1/gg22-Critical_Incident_Policy_2023.doc",
+      "label": "Critical Incident Policy 2023.doc",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.centralmodelinfantschool.ie/Content/2023/10/eh13-Administration_of_Medicines_Policy_2023.doc",
+      "label": "Administration of Medicines Policy 2023.doc",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.centralmodelinfantschool.ie/Content/2024/4/jn35-RSE_Policy_April_2024.docx",
+      "label": "RSE Policy April 2024.docx",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.centralmodelinfantschool.ie/Content/2024/2/vm84-Homework_Policy_2024.docx",
+      "label": "Homework Policy 2024.docx",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.centralmodelinfantschool.ie/Content/2024/10/hy39-Intimate_Care_and_Toileting_Policy_2024.docx",
+      "label": "Intimate Care and Toileting Policy 2024.docx",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.centralmodelinfantschool.ie/Content/2025/6/qx68-CMIS_Bi_Cinealta_Policy_2025.pdf",
+      "label": "Bi Cinealta Policy 2025.pdf",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 155.01,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:50:12+0000"
+}

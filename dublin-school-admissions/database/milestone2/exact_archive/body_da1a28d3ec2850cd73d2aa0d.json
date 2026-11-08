@@ -1,0 +1,25 @@
+{
+  "roll": "19574H",
+  "capture": {
+    "timestamp": "20230206130351",
+    "original": "https://www.divinewordns.ie/page/Admissions/16912/Index.html",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "digest": "VAC6QD4JMV3554RZB5CCCDQ2JGF5JFDQ"
+  },
+  "original_url": "https://www.divinewordns.ie/page/Admissions/16912/Index.html",
+  "archived_url": "https://web.archive.org/web/20230206130351/https://www.divinewordns.ie/page/Admissions/16912/Index.html",
+  "attempted_at": "2026-11-08T12:53:30.576628+00:00",
+  "linked_from_capture": null,
+  "http_status": 200,
+  "headers": {
+    "Content-Type": "text/html; charset=utf-8",
+    "memento-datetime": "Mon, 06 Feb 2023 13:03:51 GMT"
+  },
+  "bytes": 59372,
+  "payload_sha256": "d42c044bf5bb768e74bbd4730c7d2fdc85e50cbfc399f944f5cfe40faccf8b3c",
+  "format": "html",
+  "status": "archived_body_retrieved_requires_manual_evidence_review",
+  "text_file": "database/milestone2/evidence/exact_19574H_d42c044bf5bb768e74bb.txt",
+  "linked_document_candidates": []
+}

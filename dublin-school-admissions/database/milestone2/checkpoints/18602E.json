@@ -1,0 +1,168 @@
+{
+  "roll": "18602E",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://smclon.com",
+      "final_url": "https://smclon.com",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://smclon.com/files/Annual-Admissions-Notice.pdf",
+      "final_url": "https://smclon.com/files/Annual-Admissions-Notice.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Annual Admissions Notice"
+    },
+    {
+      "url": "https://smclon.com/sitemap.xml",
+      "final_url": "https://smclon.com/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://smclon.com/policies.html",
+      "final_url": "https://smclon.com/policies.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://smclon.com/files/Notification-of-BOM-Annual-Review-of-Anti-Bullying-Policy_g64l0000.pdf",
+      "final_url": "https://smclon.com/files/Notification-of-BOM-Annual-Review-of-Anti-Bullying-Policy_g64l0000.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Notification of BOM Annual Review of Anti Bullying Policy"
+    },
+    {
+      "url": "https://smclon.com/files/Admission-Policy-Oct-2025.pdf",
+      "final_url": "https://smclon.com/files/Admission-Policy-Oct-2025.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions Policy"
+    },
+    {
+      "url": "https://smclon.com/files/Revised-Parental-Complaints-Procedure_g64l0000.pdf",
+      "final_url": "https://smclon.com/files/Revised-Parental-Complaints-Procedure_g64l0000.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Revised Parental Complaints Procedure"
+    },
+    {
+      "url": "https://smclon.com/parents-association.html",
+      "final_url": "https://smclon.com/parents-association.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents Association"
+    },
+    {
+      "url": "https://smclon.com/files/PTA-Constitution.pdf",
+      "final_url": "https://smclon.com/files/PTA-Constitution.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "The Constitution of the Parent Association"
+    },
+    {
+      "url": "https://smclon.com/contact.html",
+      "final_url": "https://smclon.com/contact.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents"
+    },
+    {
+      "url": "https://smclon.com/files/School-Attendance-Policy_52441o71.pdf",
+      "final_url": "https://smclon.com/files/School-Attendance-Policy_52441o71.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Attendance Policy"
+    },
+    {
+      "url": "https://smclon.com/files/Health-and-Safety-Policy_g64l0000.pdf",
+      "final_url": "https://smclon.com/files/Health-and-Safety-Policy_g64l0000.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Health and Safety Policy"
+    },
+    {
+      "url": "https://smclon.com/files/Data-Protection-Policy_w8m32b3c.pdf",
+      "final_url": "https://smclon.com/files/Data-Protection-Policy_w8m32b3c.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Data Protection Policy"
+    },
+    {
+      "url": "https://smclon.com/files/Cyber-Bullying-Policy_52441o71.pdf",
+      "final_url": "https://smclon.com/files/Cyber-Bullying-Policy_52441o71.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Cyber Bullying Policy"
+    },
+    {
+      "url": "https://smclon.com/files/Bi-Cinealta-Policy.pdf",
+      "final_url": "https://smclon.com/files/Bi-Cinealta-Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Bí Cineálta Policy to Prevent and Address Bullying Behaviour"
+    },
+    {
+      "url": "https://smclon.com/files/Acceptable-Use-Policy-10Oct24.pdf",
+      "final_url": "https://smclon.com/files/Acceptable-Use-Policy-10Oct24.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Acceptable Use Policy"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "18602E",
+      "url": "https://smclon.com",
+      "label": "School homepage",
+      "sha256": "262a44c729c8ced46b821d5d3f7b6ee54b196dd761477e04cffe5fd5e8fdc7ef",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/18602E_262a44c729c8ced46b82.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 2436
+    },
+    {
+      "roll": "18602E",
+      "url": "https://smclon.com/policies.html",
+      "label": "Policies",
+      "sha256": "bfb7fe6c7aa7dd5f5f7bec3ab4cf834e26bdd9efa4034b0a8c4b4890cfe92b09",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/18602E_bfb7fe6c7aa7dd5f5f7b.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 923
+    },
+    {
+      "roll": "18602E",
+      "url": "https://smclon.com/parents-association.html",
+      "label": "Parents Association",
+      "sha256": "2b79ed9b891123500a85af391046c5d06fd8d50c0e7839fb8f4f19625bc3d73f",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/18602E_2b79ed9b891123500a85.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1216
+    },
+    {
+      "roll": "18602E",
+      "url": "https://smclon.com/contact.html",
+      "label": "Parents",
+      "sha256": "8fcb37cbc39709d4fa67c85b27a335f604ebd80a67c05e880d0cecae5d058f52",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/18602E_8fcb37cbc39709d4fa67.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 719
+    }
+  ],
+  "pending_links": [],
+  "elapsed_seconds": 53.73,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:53:16+0000"
+}

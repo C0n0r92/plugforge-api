@@ -1,0 +1,150 @@
+{
+  "roll": "19472W",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://stmarksjs.ie/wp-content/uploads/2025/09/stmarksjs-admissions.png",
+      "final_url": "https://stmarksjs.ie/wp-content/uploads/2025/09/stmarksjs-admissions.png",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "stmarksjs-admissions"
+    },
+    {
+      "url": "https://stmarksjs.ie/enrolment/",
+      "final_url": "https://stmarksjs.ie/enrolment/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Enrolment"
+    },
+    {
+      "url": "https://stmarksjs.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://stmarksjs.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://stmarksjs.ie/wp-content/uploads/2026/01/Admission-Policy-26_27-including-LC-V2.pdf",
+      "final_url": "https://stmarksjs.ie/wp-content/uploads/2026/01/Admission-Policy-26_27-including-LC-V2.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions Policy"
+    },
+    {
+      "url": "https://stmarksjs.ie/wp-content/uploads/2025/11/stmarksjs-enrolment.png",
+      "final_url": "https://stmarksjs.ie/wp-content/uploads/2025/11/stmarksjs-enrolment.png",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions/policy URL from public sitemap"
+    },
+    {
+      "url": "https://stmarksjs.ie/wp-content/uploads/2025/11/stmarksjs-enrolment-1024x683.jpg",
+      "final_url": "https://stmarksjs.ie/wp-content/uploads/2025/11/stmarksjs-enrolment-1024x683.jpg",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions/policy URL from public sitemap"
+    },
+    {
+      "url": "https://www.stmarksjs.ie",
+      "final_url": "https://stmarksjs.ie/",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://stmarksjs.ie/sitemap_index.xml",
+      "final_url": "https://stmarksjs.ie/sitemap_index.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://stmarksjs.ie/testimonials-sitemap.xml",
+      "final_url": "https://stmarksjs.ie/testimonials-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://stmarksjs.ie/school-info/",
+      "final_url": "https://stmarksjs.ie/school-info/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Info"
+    },
+    {
+      "url": "https://stmarksjs.ie/policies/",
+      "final_url": "https://stmarksjs.ie/policies/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://stmarksjs.ie/parents-info/",
+      "final_url": "https://stmarksjs.ie/parents-info/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents Info"
+    },
+    {
+      "url": "https://stmarksjs.ie/page-sitemap.xml",
+      "final_url": "https://stmarksjs.ie/page-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://stmarksjs.ie/events-sitemap.xml",
+      "final_url": "https://stmarksjs.ie/events-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://stmarksjs.ie/Users/principal/Desktop/Healthy%20Eating%20Policy%2025:26%20*.pdf",
+      "final_url": "https://stmarksjs.ie/Users/principal/Desktop/Healthy%20Eating%20Policy%2025:26%20*.pdf",
+      "status": "http_404",
+      "via": "school_public_link",
+      "label": "View / Download"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19472W",
+      "url": "https://stmarksjs.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "label": "Oldest public admission media (all dates)",
+      "sha256": "d6ffdb623857f72f2e110cbb26d4db7ab03e8d77f2dfec23f1a0a22caa6470db",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19472W_d6ffdb623857f72f2e11.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 727
+    },
+    {
+      "roll": "19472W",
+      "url": "https://stmarksjs.ie/wp-content/uploads/2026/01/Admission-Policy-26_27-including-LC-V2.pdf",
+      "label": "Admissions Policy",
+      "sha256": "291734e4deeee5240a874739825fca529428a103b2a6942dd4aacb3f022cff1c",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19472W_291734e4deeee5240a87.txt",
+      "source_file": "database/milestone2/cache/291734e4deeee5240a874739825fca529428a103b2a6942dd4aacb3f022cff1c.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 32022
+    },
+    {
+      "roll": "19472W",
+      "url": "https://stmarksjs.ie/policies/",
+      "label": "Policies",
+      "sha256": "10a97448ba2a993d2d1d3d5589effdb8158dc189662f24b8962b071ce5844d8b",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19472W_10a97448ba2a993d2d1d.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 693
+    }
+  ],
+  "pending_links": [],
+  "elapsed_seconds": 50.23,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:45:56+0000"
+}

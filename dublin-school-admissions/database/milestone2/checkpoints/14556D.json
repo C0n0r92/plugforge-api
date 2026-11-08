@@ -1,0 +1,184 @@
+{
+  "roll": "14556D",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.southcitycns.ie/admissions",
+      "final_url": "https://www.southcitycns.ie/admissions",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://www.southcitycns.ie/s/2-Admission-Notice-South-City-CNS.pdf",
+      "final_url": "https://static1.squarespace.com/static/6703eac3e9990d357ee3a58f/t/68d132b00bcc162d4dabcdbb/1758540464142/2.+Admission+Notice+South+City++CNS.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "ADMISSIONS NOTICE"
+    },
+    {
+      "url": "https://www.southcitycns.ie/s/South-City-CNS-Admissions-Policy-dw8s.pdf",
+      "final_url": "https://static1.squarespace.com/static/6703eac3e9990d357ee3a58f/t/67ac97b5470dd90c65abe24b/1739364277523/South+City+CNS+Admissions+Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "ADMISSIONS POLICY"
+    },
+    {
+      "url": "https://www.southcitycns.ie/sitemap.xml",
+      "final_url": "https://www.southcitycns.ie/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.southcitycns.ie/policies",
+      "final_url": "https://www.southcitycns.ie/policies",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.southcitycns.ie/s/South-City-CNS-Admissions-Policy.pdf",
+      "final_url": "https://static1.squarespace.com/static/6703eac3e9990d357ee3a58f/t/67ac9517aaa6f61530bdee6c/1739363607624/South+City+CNS+Admissions+Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "South City CNS Admissions Policy"
+    },
+    {
+      "url": "https://www.southcitycns.ie",
+      "final_url": "https://www.southcitycns.ie",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.southcitycns.ie/s/South-City-CNS-Behaviour-Policy-March-2023.pdf",
+      "final_url": "https://static1.squarespace.com/static/6703eac3e9990d357ee3a58f/t/67a9eb6c7388da69b2528f09/1739189101119/South+City+CNS+Behaviour+Policy+March+2023.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "South City CNS Behaviour Policy"
+    },
+    {
+      "url": "https://www.southcitycns.ie/s/South-City-CNS-RSE-POLICY-2024.pdf",
+      "final_url": "https://static1.squarespace.com/static/6703eac3e9990d357ee3a58f/t/67a9ec4c50263c432b531d5c/1739189324445/South+City+CNS+RSE+POLICY+2024.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "South City CNS RSE POLICY 2024"
+    },
+    {
+      "url": "https://www.southcitycns.ie/s/South-City-CNS-Wellbeing-policy.pdf",
+      "final_url": "https://static1.squarespace.com/static/6703eac3e9990d357ee3a58f/t/67a9ed10cd5d3c52c25d2e58/1739189520891/South+City+CNS+Wellbeing+policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "South City CNS Wellbeing policy"
+    },
+    {
+      "url": "https://www.southcitycns.ie/s/South-City-CNS-Substance-Use-Policy-Feb-25.pdf",
+      "final_url": "https://static1.squarespace.com/static/6703eac3e9990d357ee3a58f/t/67ac978f52a92632424a0b2d/1739364239517/South+City+CNS+Substance+Use+Policy+Feb+25.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "South City CNS Substance Use Policy"
+    },
+    {
+      "url": "https://www.southcitycns.ie/s/South-City-CNS-SEN-policy.pdf",
+      "final_url": "https://static1.squarespace.com/static/6703eac3e9990d357ee3a58f/t/67a9ecd2ba8ba97a43eba1d4/1739189459452/South+City+CNS+SEN+policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "South City CNS SEN policy"
+    },
+    {
+      "url": "https://www.southcitycns.ie/s/South-City-CNS-Respect-Dignity-in-the-Workplace-Policy.pdf",
+      "final_url": "https://static1.squarespace.com/static/6703eac3e9990d357ee3a58f/t/67ac9753342b2f02917b8f0c/1739364180260/South+City+CNS+Respect+%26+Dignity+in+the+Workplace+Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "South City CNS Respect & Dignity in the Workplace Policy"
+    },
+    {
+      "url": "https://www.southcitycns.ie/s/South-City-CNS-Protected-Disclosures-Policy.pdf",
+      "final_url": "https://static1.squarespace.com/static/6703eac3e9990d357ee3a58f/t/67ac96c2bbd28c6270c127e9/1739364035095/South+City+CNS+Protected+Disclosures+Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "South City CNS Protected Disclosures Policy"
+    },
+    {
+      "url": "https://www.southcitycns.ie/s/South-City-CNS-Mobile-Phone-and-Electronic-Device-Acceptable-Use-Policy.pdf",
+      "final_url": "https://static1.squarespace.com/static/6703eac3e9990d357ee3a58f/t/67ac96503eb1fc46b5a32c53/1739363920652/South+City+CNS+Mobile+Phone+and+Electronic+Device+Acceptable+Use+Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "South City CNS Mobile Phone and Electronic Device Acceptable Use Policy"
+    },
+    {
+      "url": "https://www.southcitycns.ie/s/South-City-CNS-Inclusion-Policy.pdf",
+      "final_url": "https://static1.squarespace.com/static/6703eac3e9990d357ee3a58f/t/67a9ec23f3637c18aac152ef/1739189283239/South+City+CNS+Inclusion+Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "South City CNS Inclusion Policy"
+    },
+    {
+      "url": "https://www.southcitycns.ie/s/South-City-CNS-Home-School-Community-Liaison-Policy.pdf",
+      "final_url": "https://static1.squarespace.com/static/6703eac3e9990d357ee3a58f/t/67a9ebf90a6f19322d67ead1/1739189241825/South+City+CNS+Home+School+Community+Liaison+Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "South City CNS Home School Community Liaison Policy"
+    },
+    {
+      "url": "https://www.southcitycns.ie/s/South-City-CNS-GDPR-Policy.pdf",
+      "final_url": "https://static1.squarespace.com/static/6703eac3e9990d357ee3a58f/t/67ac95a488fc3b5d6e763748/1739363749087/South+City+CNS+GDPR+Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "South City CNS GDPR Policy"
+    },
+    {
+      "url": "https://www.southcitycns.ie/s/South-City-CNS-EAL-policy.pdf",
+      "final_url": "https://static1.squarespace.com/static/6703eac3e9990d357ee3a58f/t/67a9ebcaa282765a4fe3e5b2/1739189195313/South+City+CNS+EAL+policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "South City CNS EAL policy"
+    },
+    {
+      "url": "https://www.southcitycns.ie/s/South-City-CNS-Critical-Incident-Policy.pdf",
+      "final_url": "https://static1.squarespace.com/static/6703eac3e9990d357ee3a58f/t/67ac955dbbcd136509c9b9cd/1739363678003/South+City+CNS+Critical+Incident+Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "South City CNS Critical Incident Policy"
+    },
+    {
+      "url": "https://www.southcitycns.ie/s/South-City-CNS-Anti-Bullying-Policy-May-24.pdf",
+      "final_url": "https://static1.squarespace.com/static/6703eac3e9990d357ee3a58f/t/67a9eb412d6a7f6e115aa75c/1739189057656/South+City+CNS+Anti+Bullying+Policy+May+24.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "South City CNS Anti Bullying Policy"
+    },
+    {
+      "url": "https://www.southcitycns.ie/s/Child-Safeguarding-Risk-Assessment-South-City-Community-School.pdf",
+      "final_url": "https://static1.squarespace.com/static/6703eac3e9990d357ee3a58f/t/6a2ffe11cb8e1c68319f552a/1781530129832/Child+Safeguarding+Risk+Assessment+South+City+Community+School.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "South City CNS Child Safeguarding Risk Assessment Policy"
+    },
+    {
+      "url": "https://www.southcitycns.ie/s/Bi-Cinealta-Policy-South-City-Community-National-School.pdf",
+      "final_url": "https://static1.squarespace.com/static/6703eac3e9990d357ee3a58f/t/6a2ffc1f1e04ce28e902b120/1781529631338/Bi+Cinealta+Policy+South+City+Community+National+School.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "South City CNS Bí Cineálta Policy"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "14556D",
+      "url": "https://static1.squarespace.com/static/6703eac3e9990d357ee3a58f/t/67ac97b5470dd90c65abe24b/1739364277523/South+City+CNS+Admissions+Policy.pdf",
+      "label": "ADMISSIONS POLICY",
+      "sha256": "894a4ed6a0eb80925283aae9d003bc48a9b5f28e2bef3e49df45d904a3b4c466",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/14556D_894a4ed6a0eb80925283.txt",
+      "source_file": "database/milestone2/cache/894a4ed6a0eb80925283aae9d003bc48a9b5f28e2bef3e49df45d904a3b4c466.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 17824
+    }
+  ],
+  "pending_links": [],
+  "elapsed_seconds": 87.34,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:49:39+0000"
+}

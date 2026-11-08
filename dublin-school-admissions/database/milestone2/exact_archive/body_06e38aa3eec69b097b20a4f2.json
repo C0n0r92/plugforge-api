@@ -1,0 +1,22 @@
+{
+  "roll": "15569R",
+  "capture": {
+    "timestamp": "20250716170846",
+    "original": "https://www.scoilmoibhi.ie/admissions-and-application-information/",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "digest": "W4BIC5FMYZXQ5MYQ6CAA2VIZRPIGAITA"
+  },
+  "original_url": "https://www.scoilmoibhi.ie/admissions-and-application-information/",
+  "archived_url": "https://web.archive.org/web/20250716170846/https://www.scoilmoibhi.ie/admissions-and-application-information/",
+  "attempted_at": "2026-11-08T12:59:29.656059+00:00",
+  "linked_from_capture": null,
+  "http_status": 302,
+  "headers": {
+    "Content-Type": "text/plain; charset=utf-8",
+    "location": "https://web.archive.org/web/20250421140423/https://www.scoilmoibhi.ie/admissions-and-application-information/"
+  },
+  "bytes": 0,
+  "status": "archive_redirect_pending",
+  "redirect_url": "https://web.archive.org/web/20250421140423/https://www.scoilmoibhi.ie/admissions-and-application-information/"
+}

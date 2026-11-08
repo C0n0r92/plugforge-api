@@ -1,0 +1,160 @@
+{
+  "roll": "20503O",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://dleducatetogether.ie/admissions",
+      "final_url": "https://dleducatetogether.ie/admissions",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/671634dd6d09272c9c76ebc6/c8896704-986b-4314-aa77-30461fab8b7e/admissions.JPG",
+      "final_url": "https://images.squarespace-cdn.com/content/v1/671634dd6d09272c9c76ebc6/c8896704-986b-4314-aa77-30461fab8b7e/admissions.JPG",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions/policy URL from public sitemap"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/sitemap.xml",
+      "final_url": "https://images.squarespace-cdn.com/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://dleducatetogether.ie/sitemap.xml",
+      "final_url": "https://dleducatetogether.ie/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://dleducatetogether.ie/parents-1",
+      "final_url": "https://dleducatetogether.ie/parents#policies",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Folder: Parents"
+    },
+    {
+      "url": "https://dleducatetogether.ie/s/DLETNS_Annual_Admissions_Notice_September_2026docx.pdf",
+      "final_url": "https://static1.squarespace.com/static/671634dd6d09272c9c76ebc6/t/6ab914b5b140a8106af61a84/1790514357573/DLETNS_Annual_Admissions_Notice_September_2026.docx.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "DLETNS Annual Admissions Notice"
+    },
+    {
+      "url": "https://dleducatetogether.ie/s/Data-Protection-Privacy-Statement-for-Parents-DLETNS-May-2018.pdf",
+      "final_url": "https://static1.squarespace.com/static/671634dd6d09272c9c76ebc6/t/678946d49d817924fb5bda44/1737049812889/Data+Protection+Privacy+Statement+for+Parents+DLETNS+May+2018.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Data Protection Privacy Statement"
+    },
+    {
+      "url": "https://dleducatetogether.ie/s/Admissions-Policy-DLETNS-September-2023.pdf",
+      "final_url": "https://static1.squarespace.com/static/671634dd6d09272c9c76ebc6/t/6789440db0338057600ffe98/1737049102315/Admissions+Policy+DLETNS+September+2023.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions Policy"
+    },
+    {
+      "url": "https://dleducatetogether.ie/s/Revised-Parental-Complaints-Procedures-November-2024.pdf",
+      "final_url": "https://static1.squarespace.com/static/671634dd6d09272c9c76ebc6/t/6789448b589fac3d45012442/1737049228758/Revised+Parental+Complaints+Procedures+November+2024.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://dleducatetogether.ie/s/Attendance-and-Punctuality-Policy-DLETNS-2017docx.pdf",
+      "final_url": "https://static1.squarespace.com/static/671634dd6d09272c9c76ebc6/t/678944405435bb28f349756d/1737049152816/Attendance+and+Punctuality+Policy+DLETNS+2017.docx.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Attendance and Punctuality Policy"
+    },
+    {
+      "url": "https://dleducatetogether.ie/s/School_Data_Protection_Policy-DLETNS-May-2018.pdf",
+      "final_url": "https://static1.squarespace.com/static/671634dd6d09272c9c76ebc6/t/6789470b2ca42647c539c0c5/1737049868465/School_Data_Protection_Policy+DLETNS+May+2018.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Data Protection Policy"
+    },
+    {
+      "url": "https://dleducatetogether.ie/s/Communication-Policy-DLETNS-2018-08-May-18docx.pdf",
+      "final_url": "https://static1.squarespace.com/static/671634dd6d09272c9c76ebc6/t/6789467e821be457163bc7f4/1737049727040/Communication+Policy+DLETNS+2018+08+May+18.docx.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Communication Policy"
+    },
+    {
+      "url": "https://dleducatetogether.ie/parents",
+      "final_url": "https://dleducatetogether.ie/parents",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://dleducatetogether.ie/",
+      "final_url": "https://dleducatetogether.ie/",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://dleducatetogether.ie/s/AEN-Policy-Ratified-7thFebruary2023-1.pdf",
+      "final_url": "https://static1.squarespace.com/static/671634dd6d09272c9c76ebc6/t/678946150f503019676aa2ad/1737049622815/AEN+Policy+Ratified+7thFebruary2023+%281%29.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Additional Educational Needs Policy"
+    },
+    {
+      "url": "https://dleducatetogether.ie/s/Sustainability-Policy-Statement-June-2025.pdf",
+      "final_url": "https://static1.squarespace.com/static/671634dd6d09272c9c76ebc6/t/68f0d77b397206754b47d9e6/1760614267610/Sustainability+Policy+Statement+June+2025.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Sustainability Policy Statement"
+    },
+    {
+      "url": "https://dleducatetogether.ie/s/Final-Version-Bi-Cinealta-Policy-June-2025docx-1.pdf",
+      "final_url": "https://static1.squarespace.com/static/671634dd6d09272c9c76ebc6/t/68db9cba67a5410f01c3392f/1759222970111/Final+Version+Bi%CC%81+Cinea%CC%81lta+Policy+June+2025.docx+%281%29.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Anti-Bullying Policy"
+    },
+    {
+      "url": "https://dleducatetogether.ie/s/Healthy-Eating-Policy-Ratified-18521.pdf",
+      "final_url": "https://static1.squarespace.com/static/671634dd6d09272c9c76ebc6/t/678946e497147c2ebf334ff9/1737049831857/Healthy+Eating+Policy+Ratified+18.5.21+.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Healthy Eating Policy"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "20503O",
+      "url": "https://dleducatetogether.ie/parents#policies",
+      "label": "Folder: Parents",
+      "sha256": "73986352c796f19ce0e71ae8225c569d977674c805239b95657792767a885aad",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20503O_73986352c796f19ce0e7.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1469
+    },
+    {
+      "roll": "20503O",
+      "url": "https://static1.squarespace.com/static/671634dd6d09272c9c76ebc6/t/6789440db0338057600ffe98/1737049102315/Admissions+Policy+DLETNS+September+2023.pdf",
+      "label": "Admissions Policy",
+      "sha256": "fbde156b68f7ccb39626f17ae8a2c4c9b6125893cd24bbb1cf7d7d22d84f3cf8",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20503O_fbde156b68f7ccb39626.txt",
+      "source_file": "database/milestone2/cache/fbde156b68f7ccb39626f17ae8a2c4c9b6125893cd24bbb1cf7d7d22d84f3cf8.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 24081
+    }
+  ],
+  "pending_links": [],
+  "elapsed_seconds": 66.02,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:00:01+0000"
+}

@@ -1,0 +1,134 @@
+{
+  "roll": "19855P",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.gscd.ie/uploads/2/4/4/6/24461864/polasaí_iontrála_2026-27.docx",
+      "final_url": "https://www.gscd.ie/uploads/2/4/4/6/24461864/polasaí_iontrála_2026-27.docx",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://www.gscd.ie/uploads/2/4/4/6/24461864/polasaí_cumarsáide_.docx",
+      "final_url": "https://www.gscd.ie/uploads/2/4/4/6/24461864/polasaí_cumarsáide_.docx",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://www.gscd.ie/beartas-iontraacutela.html",
+      "final_url": "https://www.gscd.ie/beartas-iontraacutela.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Beartas Iontrála"
+    },
+    {
+      "url": "https://www.gscd.ie/uploads/2/4/4/6/24461864/polasaí_iontrála_faomhaithe_23-24.pdf",
+      "final_url": "https://www.gscd.ie/uploads/2/4/4/6/24461864/polasaí_iontrála_faomhaithe_23-24.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: Polasaí Iontrála"
+    },
+    {
+      "url": "https://www.gscd.ie/uploads/2/4/4/6/24461864/admission_policy_2026-27.docx",
+      "final_url": "https://www.gscd.ie/uploads/2/4/4/6/24461864/admission_policy_2026-27.docx",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://www.gscd.ie/uploads/2/4/4/6/24461864/admission_policy_23-24__amendedfaomhaithe_.pdf",
+      "final_url": "https://www.gscd.ie/uploads/2/4/4/6/24461864/admission_policy_23-24__amendedfaomhaithe_.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: Admission Policy"
+    },
+    {
+      "url": "https://www.gscd.ie/sitemap.xml",
+      "final_url": "https://www.gscd.ie/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.gscd.ie/",
+      "final_url": "https://www.gscd.ie/",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19855P",
+      "url": "https://www.gscd.ie/uploads/2/4/4/6/24461864/polasaí_iontrála_2026-27.docx",
+      "label": "Prior school admissions section",
+      "sha256": "5d9bf8eecca6bbce6622d889793841d454b84058b41a2c8df5f107bc7e11b63d",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/19855P_5d9bf8eecca6bbce6622.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 27210
+    },
+    {
+      "roll": "19855P",
+      "url": "https://www.gscd.ie/beartas-iontraacutela.html",
+      "label": "Beartas Iontrála",
+      "sha256": "e279689c972d4ca68f2bd6972bc84d6eb1269a3431a3ac303c6d63e99526cf28",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19855P_e279689c972d4ca68f2b.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 581
+    },
+    {
+      "roll": "19855P",
+      "url": "https://www.gscd.ie/uploads/2/4/4/6/24461864/polasaí_iontrála_faomhaithe_23-24.pdf",
+      "label": "Download file: Polasaí Iontrála",
+      "sha256": "4f7b43464330aa86737cff547b5ff7f0c210b2da3543f24b77801c5369862262",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19855P_4f7b43464330aa86737c.txt",
+      "source_file": "database/milestone2/cache/4f7b43464330aa86737cff547b5ff7f0c210b2da3543f24b77801c5369862262.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 28749
+    },
+    {
+      "roll": "19855P",
+      "url": "https://www.gscd.ie/uploads/2/4/4/6/24461864/admission_policy_2026-27.docx",
+      "label": "Prior school admissions section",
+      "sha256": "60c70b9db00070e1fa6895998df0f249db1e8b7229e4f377762b27c04e3ae5f6",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/19855P_60c70b9db00070e1fa68.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 24182
+    },
+    {
+      "roll": "19855P",
+      "url": "https://www.gscd.ie/uploads/2/4/4/6/24461864/admission_policy_23-24__amendedfaomhaithe_.pdf",
+      "label": "Download file: Admission Policy",
+      "sha256": "a084917bf617069fc833f733ed1043c418a16cdfcc377d3b10f1e6eddaaae89d",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19855P_a084917bf617069fc833.txt",
+      "source_file": "database/milestone2/cache/a084917bf617069fc833f733ed1043c418a16cdfcc377d3b10f1e6eddaaae89d.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 25289
+    },
+    {
+      "roll": "19855P",
+      "url": "https://www.gscd.ie/",
+      "label": "School homepage",
+      "sha256": "9ea8825888edab877f0bc8fa07dc692d761a9746af42001d3de4a3ce2b782174",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19855P_9ea8825888edab877f0b.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 3508
+    }
+  ],
+  "pending_links": [],
+  "elapsed_seconds": 21.75,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:57:19+0000"
+}

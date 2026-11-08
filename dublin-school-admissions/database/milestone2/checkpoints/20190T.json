@@ -1,0 +1,177 @@
+{
+  "roll": "20190T",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.holytrinity.ie/admissions",
+      "final_url": "https://www.holytrinity.ie/admissions",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://www.holytrinity.ie/_files/ugd/8edfc9_5483db6f1c7f4c57aaed57419fce7498.pdf",
+      "final_url": "https://017a71de-7a42-49ce-8644-ad62b24cfc66.filesusr.com/ugd/8edfc9_5483db6f1c7f4c57aaed57419fce7498.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "Admissions Notice"
+    },
+    {
+      "url": "https://www.holytrinity.ie/_files/ugd/7cb51a_bc836d6cc8b14b0a87f7648d461a2597.pdf",
+      "final_url": "https://www.holytrinity.ie/_files/ugd/7cb51a_bc836d6cc8b14b0a87f7648d461a2597.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Code of Behaviour"
+    },
+    {
+      "url": "https://www.holytrinity.ie/_files/ugd/7cb51a_86351a1439a74d0396ea2c57dae977ba.pdf",
+      "final_url": "https://www.holytrinity.ie/_files/ugd/7cb51a_86351a1439a74d0396ea2c57dae977ba.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions to School Policy"
+    },
+    {
+      "url": "https://www.holytrinity.ie/sitemap.xml",
+      "final_url": "https://www.holytrinity.ie/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.holytrinity.ie/school-policies",
+      "final_url": "https://www.holytrinity.ie/school-policies",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Policies"
+    },
+    {
+      "url": "https://www.holytrinity.ie/_files/ugd/7cb51a_09c4d7cdff434877966008f0d3540a61.pdf",
+      "final_url": "https://www.holytrinity.ie/_files/ugd/7cb51a_09c4d7cdff434877966008f0d3540a61.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions to School Policy"
+    },
+    {
+      "url": "https://www.holytrinity.ie/parentsguardians",
+      "final_url": "https://www.holytrinity.ie/parentsguardians",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents/Guardians"
+    },
+    {
+      "url": "https://www.holytrinity.ie/parents-association",
+      "final_url": "https://www.holytrinity.ie/parents-association",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents Association"
+    },
+    {
+      "url": "https://www.holytrinity.ie/pages-sitemap.xml",
+      "final_url": "https://www.holytrinity.ie/pages-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.holytrinity.ie",
+      "final_url": "https://www.holytrinity.ie",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.holytrinity.ie/_files/ugd/8edfc9_d46a0e92aec74b08911e53fdf34f3b9a.pdf",
+      "final_url": "https://017a71de-7a42-49ce-8644-ad62b24cfc66.filesusr.com/ugd/8edfc9_d46a0e92aec74b08911e53fdf34f3b9a.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "Homework Policy"
+    },
+    {
+      "url": "https://www.holytrinity.ie/_files/ugd/8edfc9_ac631e247b054bc2b1dd5e4bcec405af.pdf",
+      "final_url": "https://017a71de-7a42-49ce-8644-ad62b24cfc66.filesusr.com/ugd/8edfc9_ac631e247b054bc2b1dd5e4bcec405af.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "Bi Cinealta Policy"
+    },
+    {
+      "url": "https://www.holytrinity.ie/_files/ugd/8edfc9_69ec5841227441c085ab1fcc80636f54.pdf",
+      "final_url": "https://017a71de-7a42-49ce-8644-ad62b24cfc66.filesusr.com/ugd/8edfc9_69ec5841227441c085ab1fcc80636f54.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "Uniform Policy"
+    },
+    {
+      "url": "https://www.holytrinity.ie/_files/ugd/7cb51a_f2ce426b3443425b83a24bead363fa9c.docx?dn=DataProtectionPolicyGDPR182.docx",
+      "final_url": "https://www.holytrinity.ie/_files/ugd/7cb51a_f2ce426b3443425b83a24bead363fa9c.docx?dn=DataProtectionPolicyGDPR182.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Data Protection"
+    },
+    {
+      "url": "https://www.holytrinity.ie/_files/ugd/7cb51a_e32cc69e62a4478d8f70bdcdb18222a5.pdf",
+      "final_url": "https://www.holytrinity.ie/_files/ugd/7cb51a_e32cc69e62a4478d8f70bdcdb18222a5.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Anti Bullying Policy"
+    },
+    {
+      "url": "https://www.holytrinity.ie/_files/ugd/7cb51a_d20f36f991df4016a49ce567c91a98b9.pdf",
+      "final_url": "https://www.holytrinity.ie/_files/ugd/7cb51a_d20f36f991df4016a49ce567c91a98b9.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Assesment & Reporting Policy"
+    },
+    {
+      "url": "https://www.holytrinity.ie/_files/ugd/7cb51a_ce47386e2bea4420bdeaa69cc2c4c75b.pdf",
+      "final_url": "https://www.holytrinity.ie/_files/ugd/7cb51a_ce47386e2bea4420bdeaa69cc2c4c75b.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Mobile Phone Policy"
+    },
+    {
+      "url": "https://www.holytrinity.ie/_files/ugd/7cb51a_9e95ce107cc84b2697197d66de1cf990.pdf",
+      "final_url": "https://www.holytrinity.ie/_files/ugd/7cb51a_9e95ce107cc84b2697197d66de1cf990.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Anti Bullying Policy"
+    },
+    {
+      "url": "https://www.holytrinity.ie/_files/ugd/7cb51a_98e84f4c288f4b1b9cdc21fc42d60bde.pdf",
+      "final_url": "https://www.holytrinity.ie/_files/ugd/7cb51a_98e84f4c288f4b1b9cdc21fc42d60bde.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "IT Acceptable Use Policy"
+    },
+    {
+      "url": "https://www.holytrinity.ie/_files/ugd/7cb51a_90dbb21a8f2c4f688ca22f8146b52ffd.pdf",
+      "final_url": "https://www.holytrinity.ie/_files/ugd/7cb51a_90dbb21a8f2c4f688ca22f8146b52ffd.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Anti Cyber Bullying Policy"
+    },
+    {
+      "url": "https://www.holytrinity.ie/_files/ugd/7cb51a_8590b2976ee4435d88285620926fd037.pdf",
+      "final_url": "https://www.holytrinity.ie/_files/ugd/7cb51a_8590b2976ee4435d88285620926fd037.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Critical Incident Policy"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "20190T",
+      "url": "https://www.holytrinity.ie/_files/ugd/7cb51a_86351a1439a74d0396ea2c57dae977ba.pdf",
+      "label": "Admissions to School Policy",
+      "sha256": "c80b4e4fb274840ac628d1c77c1a7039b88bc537f1a2cef47e404716ba8809c4",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20190T_c80b4e4fb274840ac628.txt",
+      "source_file": "database/milestone2/cache/c80b4e4fb274840ac628d1c77c1a7039b88bc537f1a2cef47e404716ba8809c4.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 27522
+    }
+  ],
+  "pending_links": [],
+  "elapsed_seconds": 63.57,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:11:12+0000"
+}

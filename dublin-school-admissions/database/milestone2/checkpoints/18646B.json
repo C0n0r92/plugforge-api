@@ -1,0 +1,393 @@
+{
+  "roll": "18646B",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.springdale.ie",
+      "final_url": "https://www.springdale.ie",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.springdale.ie/notification-regarding-the-board-of-managements-annual-review-of-the-anti-bullying-policy/",
+      "final_url": "https://www.springdale.ie/notification-regarding-the-board-of-managements-annual-review-of-the-anti-bullying-policy/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Notification regarding the Board of Management’s annual review of the school’s Bí Cineálta Policy"
+    },
+    {
+      "url": "https://www.springdale.ie/notification-regarding-the-board-of-managements-annual-review-of-the-anti-bullying-policy/contact-us",
+      "final_url": "https://www.springdale.ie/contact-us/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Email"
+    },
+    {
+      "url": "https://www.springdale.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://www.springdale.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://www.springdale.ie/wp-content/uploads/2022/09/Admissions-Notice.docx",
+      "final_url": "https://www.springdale.ie/wp-content/uploads/2022/09/Admissions-Notice.docx",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Notice"
+    },
+    {
+      "url": "https://www.springdale.ie/wp-content/uploads/2023/09/Admissions-Notice-2024-2025.pdf",
+      "final_url": "https://www.springdale.ie/wp-content/uploads/2023/09/Admissions-Notice-2024-2025.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Notice 2024 2025"
+    },
+    {
+      "url": "https://www.springdale.ie/wp-content/uploads/2024/09/Admissions-Notice-2025-2026.pdf",
+      "final_url": "https://www.springdale.ie/wp-content/uploads/2024/09/Admissions-Notice-2025-2026.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Notice 2025 2026"
+    },
+    {
+      "url": "https://www.springdale.ie/wp-content/uploads/2025/09/Annual-Admissions-Notice-2026-2027.pdf",
+      "final_url": "https://www.springdale.ie/wp-content/uploads/2025/09/Annual-Admissions-Notice-2026-2027.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Annual Admissions Notice 2026 2027"
+    },
+    {
+      "url": "https://www.springdale.ie/wp-content/uploads/2025/09/Annual-Admissions-Notice-2026-2027-1.pdf",
+      "final_url": "https://www.springdale.ie/wp-content/uploads/2025/09/Annual-Admissions-Notice-2026-2027-1.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Annual Admissions Notice 2026 2027"
+    },
+    {
+      "url": "https://www.springdale.ie/policies-enrolment/statement-strategy-school-attendance/",
+      "final_url": "https://www.springdale.ie/policies-enrolment/statement-strategy-school-attendance/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Statement of Strategy for School Attendance"
+    },
+    {
+      "url": "https://www.tusla.ie/uploads/content/Children_First_National_Guidance_2017.pdf",
+      "final_url": "https://www.tusla.ie/uploads/content/Children_First_National_Guidance_2017.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Children First National Guidance 2017"
+    },
+    {
+      "url": "https://www.springdale.ie/policies-enrolment/statement-strategy-school-attendance/contact-us",
+      "final_url": "https://www.springdale.ie/contact-us/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Email"
+    },
+    {
+      "url": "https://www.springdale.ie/policies-enrolment/school-website-privacy-statement/",
+      "final_url": "https://www.springdale.ie/policies-enrolment/school-website-privacy-statement/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Website Privacy Statement"
+    },
+    {
+      "url": "https://www.springdale.ie/policies-enrolment/school-website-privacy-statement/contact-us",
+      "final_url": "https://www.springdale.ie/contact-us/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Email"
+    },
+    {
+      "url": "https://www.springdale.ie/policies-enrolment/ethos-statement/",
+      "final_url": "https://www.springdale.ie/policies-enrolment/ethos-statement/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Ethos Statement"
+    },
+    {
+      "url": "https://www.springdale.ie/policies-enrolment/ethos-statement/contact-us",
+      "final_url": "https://www.springdale.ie/contact-us/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Email"
+    },
+    {
+      "url": "https://www.springdale.ie/policies-enrolment/code-of-behaviour/",
+      "final_url": "https://www.springdale.ie/policies-enrolment/code-of-behaviour/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Code of Behaviour"
+    },
+    {
+      "url": "https://www.springdale.ie/policies-enrolment/code-of-behaviour/contact-us",
+      "final_url": "https://www.springdale.ie/contact-us/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Email"
+    },
+    {
+      "url": "https://www.springdale.ie/policies-enrolment/board-of-management/",
+      "final_url": "https://www.springdale.ie/policies-enrolment/board-of-management/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Board of Management"
+    },
+    {
+      "url": "https://www.springdale.ie/policies-enrolment/board-of-management/contact-us",
+      "final_url": "https://www.springdale.ie/contact-us/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Email"
+    },
+    {
+      "url": "https://www.springdale.ie/policies-enrolment/administration-of-medicine/",
+      "final_url": "https://www.springdale.ie/policies-enrolment/administration-of-medicine/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Administration of Medication"
+    },
+    {
+      "url": "https://www.springdale.ie/policies-enrolment/administration-of-medicine/contact-us",
+      "final_url": "https://www.springdale.ie/contact-us/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Email"
+    },
+    {
+      "url": "https://www.springdale.ie/admissions/",
+      "final_url": "https://www.springdale.ie/admissions/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://www.springdale.ie/admissions/contact-us",
+      "final_url": "https://www.springdale.ie/contact-us/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Email"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "18646B",
+      "url": "https://www.springdale.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "label": "Oldest public admission media (all dates)",
+      "sha256": "3d5a67ca1bb3930b2f96678bbd9e6a6bb6b62e3a7c7f64009a19308df6c2646b",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/18646B_3d5a67ca1bb3930b2f96.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 963
+    },
+    {
+      "roll": "18646B",
+      "url": "https://www.springdale.ie/wp-content/uploads/2022/09/Admissions-Notice.docx",
+      "label": "Admissions Notice",
+      "sha256": "9076a6aaf95a79f07c32b50dac16e12a6a9f85415353c534d15fc0b6447392e2",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/18646B_9076a6aaf95a79f07c32.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 3220
+    },
+    {
+      "roll": "18646B",
+      "url": "https://www.springdale.ie/wp-content/uploads/2023/09/Admissions-Notice-2024-2025.pdf",
+      "label": "Admissions Notice 2024 2025",
+      "sha256": "5f3a76e6d26a6e066c29be8419b990bdebac6efcc88c4490a4b20408a53814da",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/18646B_5f3a76e6d26a6e066c29.txt",
+      "source_file": "database/milestone2/cache/5f3a76e6d26a6e066c29be8419b990bdebac6efcc88c4490a4b20408a53814da.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 3866
+    },
+    {
+      "roll": "18646B",
+      "url": "https://www.springdale.ie/wp-content/uploads/2024/09/Admissions-Notice-2025-2026.pdf",
+      "label": "Admissions Notice 2025 2026",
+      "sha256": "23c53500662b6e4d6a5461e44f23dd15d1ad5764fdcc332ef70f7f8f61663802",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/18646B_23c53500662b6e4d6a54.txt",
+      "source_file": "database/milestone2/cache/23c53500662b6e4d6a5461e44f23dd15d1ad5764fdcc332ef70f7f8f61663802.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 3882
+    },
+    {
+      "roll": "18646B",
+      "url": "https://www.springdale.ie/wp-content/uploads/2025/09/Annual-Admissions-Notice-2026-2027.pdf",
+      "label": "Annual Admissions Notice 2026 2027",
+      "sha256": "e83334714f84d4acc54d8842848df5502f8cf25d4c3257fc936e1fb235ce44da",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/18646B_e83334714f84d4acc54d.txt",
+      "source_file": "database/milestone2/cache/e83334714f84d4acc54d8842848df5502f8cf25d4c3257fc936e1fb235ce44da.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 3757
+    },
+    {
+      "roll": "18646B",
+      "url": "https://www.springdale.ie/wp-content/uploads/2025/09/Annual-Admissions-Notice-2026-2027-1.pdf",
+      "label": "Annual Admissions Notice 2026 2027",
+      "sha256": "b4ed6489f655c317d59e140a9baee57bdfb25b9b14d3859ed12cfe471a1c6c02",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/18646B_b4ed6489f655c317d59e.txt",
+      "source_file": "database/milestone2/cache/b4ed6489f655c317d59e140a9baee57bdfb25b9b14d3859ed12cfe471a1c6c02.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 3693
+    },
+    {
+      "roll": "18646B",
+      "url": "https://www.springdale.ie/admissions/",
+      "label": "Admissions",
+      "sha256": "aacd29861d5753e209030c13f81cfcd019ba357ebab0cbf90a61f9fea5241a3d",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/18646B_aacd29861d5753e20903.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 202
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.springdale.ie/wp-content/uploads/2026/09/Admissions-Policy-2022.pdf",
+      "label": "Admissions Policy 2022",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://www.springdale.ie/wp-content/uploads/2022/12/Admissions-Policy-2022-1.pdf",
+      "label": "Admissions Policy 2022",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://assets.gov.ie/static/documents/09fe3ad4/Child_Protection_Procedures_for_Schools_2025.pdf",
+      "label": "Child Protection Procedures for Schools 2025",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.springdale.ie/wp-content/uploads/2026/09/Statement-of-Strategy-for-School-Attendance.pdf",
+      "label": "Statement-of-Strategy-for-School-Attendance",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.springdale.ie/wp-content/uploads/2026/09/Code-of-Behaviour.pdf",
+      "label": "Code of Behaviour",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.curriculumonline.ie/getmedia/ecf240f0-47bf-4cea-a331-2f938716e25b/EverydayWaysToSupportYourChildWithMaths_1.pdf",
+      "label": "The Primary Mathematics Curriculum Supports",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://ncca.ie/media/5344/speaking-and-reading-in-irish_ag-labhairt-is-ag-l%C3%A9amh-as-gaeilge.pdf",
+      "label": "Supporting parents to help their children learn Irish",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://curriculumonline.ie/getattachment/a2f7dfae-bd66-4b94-9dc0-2482c86b1bc0/SuggestionsForLearningAtHome_Data.pdf",
+      "label": "Data at Home",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://curriculumonline.ie/getattachment/89087287-cba0-4079-b074-71ef1f2b4817/SuggestionsForLearningAtHome_PatternsRulesRelationships.pdf",
+      "label": "Algebra at Home- patterns, rules and relationships",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://curriculumonline.ie/getattachment/15f1e2ee-b5b2-4fbb-af99-8e60e496c3a9/PMC_SM_Chance_Suggestions-for-learning-at-home.pdf",
+      "label": "Chance at Home",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://assets.gov.ie/static/documents/Understanding_Standardised_Tests_-_Information_and_Supports_for_Parents_Guardians.pdf",
+      "label": "Standardised test results explained",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.springdale.ie/sitemap.xml",
+      "label": "Public sitemap",
+      "via": "sitemap_root"
+    },
+    {
+      "url": "https://www.springdale.ie/revised-parental-complaints-procedure/",
+      "label": "Revised Parental Complaints Procedure",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.springdale.ie/pta/",
+      "label": "Parent Teacher Association",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.springdale.ie/policies-enrolment/springdale-social-personal-health-education-policy/",
+      "label": "Springdale Social Personal and Health Education Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.springdale.ie/policies-enrolment/policy-child-protection-code-protection/",
+      "label": "Child Safeguarding Statement",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.springdale.ie/policies-enrolment/intercultural-inclusion-policy/",
+      "label": "Intercultural & Inclusion Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.springdale.ie/policies-enrolment/homework-policy/",
+      "label": "Homework Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.springdale.ie/policies-enrolment/healthy-eating/",
+      "label": "Healthy Eating Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.springdale.ie/policies-enrolment/data-protection-policy/",
+      "label": "Data-Protection Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.springdale.ie/policies-enrolment/anti-bullying-policy/",
+      "label": "Bí Cineálta Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.springdale.ie/contact-us/",
+      "label": "Policies",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.springdale.ie/wp-content/uploads/2026/10/Notification-of-the-Review-of-the-Bi-Cinealta-Policy-2027.pdf",
+      "label": "Notification of the Review of the Bí Cineálta Policy 2026",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.springdale.ie/wp-content/uploads/2026/09/Application-Form-for-September-2027.pdf",
+      "label": "Application Form for September 2027",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.springdale.ie/wp-content/uploads/2026/09/Adminstration-of-Medication-Policies.pdf",
+      "label": "Adminstration of Medication Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.springdale.ie/springdale-national-school-ict-acceptable-use-policy-aup/",
+      "label": "Springdale National School ICT Acceptable Use Policy (AUP)",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.springdale.ie/droichead-induction-policy/",
+      "label": "Droichead Induction Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 81.78,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:53:58+0000"
+}

@@ -1,0 +1,252 @@
+{
+  "roll": "16461C",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://stfiniansprimaryschool.ie/?s=admission",
+      "final_url": "https://stfiniansprimaryschool.ie/?s=admission",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Public site search form"
+    },
+    {
+      "url": "https://stfiniansprimaryschool.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://stfiniansprimaryschool.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://stfiniansprimaryschool.ie/wp-content/uploads/2020/10/Admissions-Policy-Sept-2020.pdf",
+      "final_url": "https://stfiniansprimaryschool.ie/wp-content/uploads/2020/10/Admissions-Policy-Sept-2020.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Policy Sept 2020"
+    },
+    {
+      "url": "https://stfiniansprimaryschool.ie/wp-content/uploads/2023/02/Approved-Admissions-Policy-Sept-2022-ammended-Dec-2022.pdf",
+      "final_url": "https://stfiniansprimaryschool.ie/wp-content/uploads/2023/02/Approved-Admissions-Policy-Sept-2022-ammended-Dec-2022.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Approved Admissions Policy Sept 2022 (ammended Dec 2022)"
+    },
+    {
+      "url": "https://stfiniansprimaryschool.ie/wp-content/uploads/2022/09/Approved-Admissions-Policy-Sept-2022.pdf",
+      "final_url": "https://stfiniansprimaryschool.ie/wp-content/uploads/2022/09/Approved-Admissions-Policy-Sept-2022.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Approved Admissions Policy Sept 2022"
+    },
+    {
+      "url": "https://stfiniansprimaryschool.ie/wp-content/uploads/2024/11/Admissions-Policy-2024.pdf",
+      "final_url": "https://stfiniansprimaryschool.ie/wp-content/uploads/2024/11/Admissions-Policy-2024.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Policy 2024"
+    },
+    {
+      "url": "https://stfiniansprimaryschool.ie/wp-content/uploads/2026/11/Admissions-Policy.pdf",
+      "final_url": "https://stfiniansprimaryschool.ie/wp-content/uploads/2026/11/Admissions-Policy.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Policy"
+    },
+    {
+      "url": "https://www.stfiniansprimaryschool.ie",
+      "final_url": "https://stfiniansprimaryschool.ie/",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://stfiniansprimaryschool.ie/wp-content/uploads/2026/11/Application-to-Enrol-2027-28.pdf",
+      "final_url": "https://stfiniansprimaryschool.ie/wp-content/uploads/2026/11/Application-to-Enrol-2027-28.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Application Form"
+    },
+    {
+      "url": "https://stfiniansprimaryschool.ie/sitemap_index.xml",
+      "final_url": "https://stfiniansprimaryschool.ie/sitemap_index.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://stfiniansprimaryschool.ie/slide-page-sitemap.xml",
+      "final_url": "https://stfiniansprimaryschool.ie/slide-page-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://stfiniansprimaryschool.ie/post-sitemap.xml",
+      "final_url": "https://stfiniansprimaryschool.ie/post-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://stfiniansprimaryschool.ie/policies-and-downloads/",
+      "final_url": "https://stfiniansprimaryschool.ie/policies-and-downloads/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies & Downloads"
+    },
+    {
+      "url": "https://stfiniansprimaryschool.ie/parents-association-st-finians-national-school/",
+      "final_url": "https://stfiniansprimaryschool.ie/parents-association-st-finians-national-school/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents’ Association"
+    },
+    {
+      "url": "https://stfiniansprimaryschool.ie/page-sitemap.xml",
+      "final_url": "https://stfiniansprimaryschool.ie/page-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://stfiniansprimaryschool.ie/information-for-parents/",
+      "final_url": "https://stfiniansprimaryschool.ie/information-for-parents/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Information"
+    },
+    {
+      "url": "https://stfiniansprimaryschool.ie/admission-policy/",
+      "final_url": "https://stfiniansprimaryschool.ie/admission-policy/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions Policy"
+    },
+    {
+      "url": "https://stfiniansprimaryschool.ie/wp-content/uploads/2025/11/Anti-Bullying-Policy-2023-24.pdf",
+      "final_url": "https://stfiniansprimaryschool.ie/wp-content/uploads/2025/11/Anti-Bullying-Policy-2023-24.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Anti-Bullying Policy"
+    },
+    {
+      "url": "https://stfiniansprimaryschool.ie/wp-content/uploads/2025/12/Code-of-Behaviour-Policy-25.11.25.pdf",
+      "final_url": "https://stfiniansprimaryschool.ie/wp-content/uploads/2025/12/Code-of-Behaviour-Policy-25.11.25.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Code of Behaviour"
+    },
+    {
+      "url": "https://stfiniansprimaryschool.ie/wp-content/uploads/2025/10/Bi-Cinealta-Policy-to-Prevent-and-Address-Bullying-Behaviour.pdf",
+      "final_url": "https://stfiniansprimaryschool.ie/wp-content/uploads/2025/10/Bi-Cinealta-Policy-to-Prevent-and-Address-Bullying-Behaviour.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Bí Cineálta Policy"
+    },
+    {
+      "url": "https://stfiniansprimaryschool.ie/wp-content/uploads/2025/09/Health-and-Safety-Doc-24_25.pdf",
+      "final_url": "https://stfiniansprimaryschool.ie/wp-content/uploads/2025/09/Health-and-Safety-Doc-24_25.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Health and Safety Policy"
+    },
+    {
+      "url": "https://stfiniansprimaryschool.ie/privacy-policy/",
+      "final_url": "https://stfiniansprimaryschool.ie/privacy-policy/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Privacy Policy"
+    },
+    {
+      "url": "https://stfiniansprimaryschool.ie/bi-cinealta-policy/",
+      "final_url": "https://stfiniansprimaryschool.ie/bi-cinealta-policy/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Bí Cineálta Policy"
+    },
+    {
+      "url": "https://stfiniansprimaryschool.ie/wp-content/uploads/2025/10/Bi-Cinealta-Pupil-Policy.pdf",
+      "final_url": "https://stfiniansprimaryschool.ie/wp-content/uploads/2025/10/Bi-Cinealta-Pupil-Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Bí Cineálta Pupil Policy"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "16461C",
+      "url": "https://stfiniansprimaryschool.ie/wp-content/uploads/2020/10/Admissions-Policy-Sept-2020.pdf",
+      "label": "Admissions Policy Sept 2020",
+      "sha256": "a9df9f072cc1dd44309f517d5c94c53b8f2d05ca71de90493ffb1b677239f1da",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/16461C_a9df9f072cc1dd44309f.txt",
+      "source_file": "database/milestone2/cache/a9df9f072cc1dd44309f517d5c94c53b8f2d05ca71de90493ffb1b677239f1da.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 24709
+    },
+    {
+      "roll": "16461C",
+      "url": "https://stfiniansprimaryschool.ie/wp-content/uploads/2023/02/Approved-Admissions-Policy-Sept-2022-ammended-Dec-2022.pdf",
+      "label": "Approved Admissions Policy Sept 2022 (ammended Dec 2022)",
+      "sha256": "998ab3614fb85bbfddc6cb6ebcf4a738502116f9401ac18d83eb1d3f877f616d",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/16461C_998ab3614fb85bbfddc6.txt",
+      "source_file": "database/milestone2/cache/998ab3614fb85bbfddc6cb6ebcf4a738502116f9401ac18d83eb1d3f877f616d.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 27380
+    },
+    {
+      "roll": "16461C",
+      "url": "https://stfiniansprimaryschool.ie/wp-content/uploads/2022/09/Approved-Admissions-Policy-Sept-2022.pdf",
+      "label": "Approved Admissions Policy Sept 2022",
+      "sha256": "420cb069f10041a41eac397eab1cab17b345608f29272883d072ef3295f80ce1",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/16461C_420cb069f10041a41eac.txt",
+      "source_file": "database/milestone2/cache/420cb069f10041a41eac397eab1cab17b345608f29272883d072ef3295f80ce1.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 26907
+    },
+    {
+      "roll": "16461C",
+      "url": "https://stfiniansprimaryschool.ie/wp-content/uploads/2024/11/Admissions-Policy-2024.pdf",
+      "label": "Admissions Policy 2024",
+      "sha256": "30561ccb72ec2443e51df9de2858bbdae5fdefe94c91aa063896b5cb7efdb40d",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/16461C_30561ccb72ec2443e51d.txt",
+      "source_file": "database/milestone2/cache/30561ccb72ec2443e51df9de2858bbdae5fdefe94c91aa063896b5cb7efdb40d.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 27380
+    },
+    {
+      "roll": "16461C",
+      "url": "https://stfiniansprimaryschool.ie/wp-content/uploads/2026/11/Admissions-Policy.pdf",
+      "label": "Admissions Policy",
+      "sha256": "bb49986583e541a8f3ed5178812bd91343fab2949b35026f470181265947517c",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/16461C_bb49986583e541a8f3ed.txt",
+      "source_file": "database/milestone2/cache/bb49986583e541a8f3ed5178812bd91343fab2949b35026f470181265947517c.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 32616
+    },
+    {
+      "roll": "16461C",
+      "url": "https://stfiniansprimaryschool.ie/",
+      "label": "School homepage",
+      "sha256": "e848b34c82dbd8040e9967d5289e6bade562990c52d1c0df742f19b62247bec1",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/16461C_e848b34c82dbd8040e99.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 6961
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://stfiniansprimaryschool.ie/anti-bullying-policy/",
+      "label": "Anti-Bullying Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 87.21,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:51:03+0000"
+}

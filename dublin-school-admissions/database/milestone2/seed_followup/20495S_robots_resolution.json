@@ -1,0 +1,17 @@
+{
+  "roll": "20495S",
+  "status": "robots_permission_unestablished_http_200",
+  "hops": [
+    {
+      "url": "https://holyfamilydeafschool.ie/robots.txt",
+      "status": 302,
+      "location": "/cgi-sys/suspendedpage.cgi"
+    },
+    {
+      "url": "https://holyfamilydeafschool.ie/cgi-sys/suspendedpage.cgi",
+      "status": 200,
+      "location": null
+    }
+  ],
+  "started_at": "2026-11-08T13:20:59+0000"
+}

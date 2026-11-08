@@ -1,0 +1,39 @@
+{
+  "roll": "18569J",
+  "attempted_at": "2026-11-08T13:02:40+0000",
+  "method": "documented_public_WordPress_media_notice_and_Irish_title_gap_search",
+  "attempts": [
+    {
+      "url": "https://stdeclans.ie/wp-json/wp/v2/media?search=notice&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok"
+    },
+    {
+      "url": "https://stdeclans.ie/wp-json/wp/v2/media?search=f%C3%B3gra&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok"
+    },
+    {
+      "url": "https://stdeclans.ie/wp-content/uploads/2021/02/Admissions-Notice.pdf",
+      "status": "ok",
+      "label": "Admissions Notice"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "18569J",
+      "url": "https://stdeclans.ie/wp-content/uploads/2021/02/Admissions-Notice.pdf",
+      "label": "Admissions Notice",
+      "sha256": "40f2afb24505d3eb21c35a9cb51d030524a83ed779773299b874f23d34e04ced",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/18569J_40f2afb24505d3eb21c3.txt",
+      "source_file": "database/milestone2/cache/40f2afb24505d3eb21c35a9cb51d030524a83ed779773299b874f23d34e04ced.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 3562,
+      "discovery_method": "documented_WP_notice_or_Irish_title_media_query",
+      "cms_media_date_as_printed_not_publication": "2021-02-17T13:04:10"
+    }
+  ],
+  "pending_links": [],
+  "earliest_year_cutoff": null,
+  "status": "attempted_new_historical_notice_candidates",
+  "elapsed_seconds": 8.3
+}

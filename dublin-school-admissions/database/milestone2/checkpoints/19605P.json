@@ -1,0 +1,410 @@
+{
+  "roll": "19605P",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.scoilmhuirejunior.ie/?s=admission",
+      "final_url": "https://www.scoilmhuirejunior.ie/?s=admission",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Public site search form"
+    },
+    {
+      "url": "https://www.scoilmhuirejunior.ie/?page_id=49051",
+      "final_url": "https://www.scoilmhuirejunior.ie/?page_id=49051",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Annual Admission Notice 2027 2028"
+    },
+    {
+      "url": "https://www.scoilmhuirejunior.ie/?p=49067",
+      "final_url": "https://www.scoilmhuirejunior.ie/?p=49067",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Annual Admission Notice 2027 2027"
+    },
+    {
+      "url": "https://www.scoilmhuirejunior.ie/?p=48028",
+      "final_url": "https://www.scoilmhuirejunior.ie/?p=48028",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Annual Admission Notice"
+    },
+    {
+      "url": "https://www.scoilmhuirejunior.ie/?p=44185",
+      "final_url": "https://www.scoilmhuirejunior.ie/?p=44185",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Annual Admissions Notice"
+    },
+    {
+      "url": "https://www.scoilmhuirejunior.ie/wp-content/uploads/2021/09/Annual-Admissions-Notice-2022-2023.pdf",
+      "final_url": "https://www.scoilmhuirejunior.ie/wp-content/uploads/2021/09/Annual-Admissions-Notice-2022-2023.pdf",
+      "status": "http_404",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.scoilmhuirejunior.ie/?p=43102",
+      "final_url": "https://www.scoilmhuirejunior.ie/?p=43102",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions Notice & Application Forms for Early Start, The ASD Class & Junior Infants for September 2021"
+    },
+    {
+      "url": "https://www.scoilmhuirejunior.ie/wp-content/uploads/2020/12/Admissions-Notice-2021-2022-1.pdf",
+      "final_url": "https://www.scoilmhuirejunior.ie/wp-content/uploads/2020/12/Admissions-Notice-2021-2022-1.pdf",
+      "status": "http_404",
+      "via": "school_public_link",
+      "label": "ADMISSIONS NOTICE 2021/2022"
+    },
+    {
+      "url": "https://www.scoilmhuirejunior.ie/?p=44251",
+      "final_url": "https://www.scoilmhuirejunior.ie/?p=44251",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Application for Admission to Junior Infants 2022/2023"
+    },
+    {
+      "url": "https://www.scoilmhuirejunior.ie/?p=47416",
+      "final_url": "https://www.scoilmhuirejunior.ie/?p=47416",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Application for Admission to Early Start, Junior Infants, ASD Class 2024/2025"
+    },
+    {
+      "url": "https://www.scoilmhuirejunior.ie/wp-content/uploads/2023/10/Admissions-Notice-24_25.pdf",
+      "final_url": "https://www.scoilmhuirejunior.ie/wp-content/uploads/2023/10/Admissions-Notice-24_25.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.scoilmhuirejunior.ie/?page_id=44265",
+      "final_url": "https://www.scoilmhuirejunior.ie/?page_id=44265",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Application for Admission to Scoil Mhuire Junior 2027/2028"
+    },
+    {
+      "url": "https://www.scoilmhuirejunior.ie/?p=49047",
+      "final_url": "https://www.scoilmhuirejunior.ie/?p=49047",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Application for Admission to Scoil Mhuire Junior 2027/2028"
+    },
+    {
+      "url": "https://www.scoilmhuirejunior.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://www.scoilmhuirejunior.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "http_404",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://www.scoilmhuirejunior.ie/wp-content/uploads/2020/12/Junior-Infants-Enrolment-Form-2021-2022.pdf",
+      "final_url": "https://www.scoilmhuirejunior.ie/wp-content/uploads/2020/12/Junior-Infants-Enrolment-Form-2021-2022.pdf",
+      "status": "http_404",
+      "via": "school_public_link",
+      "label": "JUNIOR INFANTS APPLICATION FORM 2021/2022"
+    },
+    {
+      "url": "https://www.scoilmhuirejunior.ie/wp-content/uploads/2020/12/Early-Start-Enrolment-Form-2021-2022.pdf",
+      "final_url": "https://www.scoilmhuirejunior.ie/wp-content/uploads/2020/12/Early-Start-Enrolment-Form-2021-2022.pdf",
+      "status": "http_404",
+      "via": "school_public_link",
+      "label": "EARLY START APPLICATION FORM 2021/2022"
+    },
+    {
+      "url": "https://www.scoilmhuirejunior.ie/wp-content/uploads/2020/12/ASD-Class-Enrolment-Form-2021-2022.pdf",
+      "final_url": "https://www.scoilmhuirejunior.ie/wp-content/uploads/2020/12/ASD-Class-Enrolment-Form-2021-2022.pdf",
+      "status": "http_404",
+      "via": "school_public_link",
+      "label": "ASD CLASS APPLICATION FORM 2021/2022"
+    },
+    {
+      "url": "https://www.scoilmhuirejunior.ie/wp-content/uploads/2026/09/Admission-Application-Form-2027-2028.pdf",
+      "final_url": "https://www.scoilmhuirejunior.ie/wp-content/uploads/2026/09/Admission-Application-Form-2027-2028.pdf",
+      "status": "http_404",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.scoilmhuirejunior.ie/sitemap.xml",
+      "final_url": "https://www.scoilmhuirejunior.ie/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.scoilmhuirejunior.ie/?page_id=39737",
+      "final_url": "https://www.scoilmhuirejunior.ie/?page_id=39737",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Internet Safety Advice for Parents"
+    },
+    {
+      "url": "https://www.scoilmhuirejunior.ie/?page_id=29470",
+      "final_url": "https://www.scoilmhuirejunior.ie/?page_id=29470",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions Policy"
+    },
+    {
+      "url": "https://www.scoilmhuirejunior.ie/wp-content/uploads/2026/09/Annual-Admissions-Notice-2026-2027.docx-1.pdf",
+      "final_url": "https://www.scoilmhuirejunior.ie/wp-content/uploads/2026/09/Annual-Admissions-Notice-2026-2027.docx-1.pdf",
+      "status": "http_404",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.scoilmhuirejunior.ie/?page_id=25949",
+      "final_url": "https://www.scoilmhuirejunior.ie/?page_id=25949",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.scoilmhuirejunior.ie/",
+      "final_url": "https://www.scoilmhuirejunior.ie/",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19605P",
+      "url": "https://www.scoilmhuirejunior.ie/?s=admission",
+      "label": "Public site search form",
+      "sha256": "59f2fb6294d6d50c5d369c129c8686e916c0e854b49f64d5952883d1fa464443",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19605P_59f2fb6294d6d50c5d36.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 4931
+    },
+    {
+      "roll": "19605P",
+      "url": "https://www.scoilmhuirejunior.ie/?page_id=49051",
+      "label": "Annual Admission Notice 2027 2028",
+      "sha256": "d8579bb37ecc6f0f5988f25f158291c2d96882fa3b8051ee6b2c29cd153ff102",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19605P_d8579bb37ecc6f0f5988.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 3602
+    },
+    {
+      "roll": "19605P",
+      "url": "https://www.scoilmhuirejunior.ie/?p=49067",
+      "label": "Annual Admission Notice 2027 2027",
+      "sha256": "59f16621f9cf30430c459fe8a733fc6838a663d36d4900d2a33903243278b2be",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19605P_59f16621f9cf30430c45.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 3750
+    },
+    {
+      "roll": "19605P",
+      "url": "https://www.scoilmhuirejunior.ie/?p=48028",
+      "label": "Annual Admission Notice",
+      "sha256": "57e761f8e889eb8ae988b6a8af7059dccdf6058e4a2a7f1dab81426491251b33",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19605P_57e761f8e889eb8ae988.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 3770
+    },
+    {
+      "roll": "19605P",
+      "url": "https://www.scoilmhuirejunior.ie/?p=44185",
+      "label": "Annual Admissions Notice",
+      "sha256": "97dfdf5a793fa200182b0b67eba547c2f2a5c7a1dd35b705c2a557c5ea21a8c6",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19605P_97dfdf5a793fa200182b.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 3759
+    },
+    {
+      "roll": "19605P",
+      "url": "https://www.scoilmhuirejunior.ie/?p=43102",
+      "label": "Admissions Notice & Application Forms for Early Start, The ASD Class & Junior Infants for September 2021",
+      "sha256": "d77d3939ddcf3fac6074b44e80ceffbeac850cee9a3303418f5892aeb757128c",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19605P_d77d3939ddcf3fac6074.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 3925
+    },
+    {
+      "roll": "19605P",
+      "url": "https://www.scoilmhuirejunior.ie/?p=44251",
+      "label": "Application for Admission to Junior Infants 2022/2023",
+      "sha256": "bfd03042a9ebe84cedd978aa1b61135f7a39351fe59ef8049f4067ef4aec0d17",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19605P_bfd03042a9ebe84cedd9.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 3628
+    },
+    {
+      "roll": "19605P",
+      "url": "https://www.scoilmhuirejunior.ie/?p=47416",
+      "label": "Application for Admission to Early Start, Junior Infants, ASD Class 2024/2025",
+      "sha256": "650dd5a078c7f1f5811e0be6fce135be00fd58230dc875901113c8b461e6baec",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19605P_650dd5a078c7f1f5811e.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 3894
+    },
+    {
+      "roll": "19605P",
+      "url": "https://www.scoilmhuirejunior.ie/?page_id=44265",
+      "label": "Application for Admission to Scoil Mhuire Junior 2027/2028",
+      "sha256": "49ddd5dd2057a4d355e1d6e3422e9cb1873859457e5d824794252df5a3c8e3c9",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19605P_49ddd5dd2057a4d355e1.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 3599
+    },
+    {
+      "roll": "19605P",
+      "url": "https://www.scoilmhuirejunior.ie/?p=49047",
+      "label": "Application for Admission to Scoil Mhuire Junior 2027/2028",
+      "sha256": "577236fee5544944c51ab298cc8236ad3d54386893ee0b21f0ef55c8628597a8",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19605P_577236fee5544944c51a.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 3748
+    },
+    {
+      "roll": "19605P",
+      "url": "https://www.scoilmhuirejunior.ie/?page_id=39737",
+      "label": "Internet Safety Advice for Parents",
+      "sha256": "bfad928fcd71d3d92e819d596275a1ae2e1c1cb2584767099b99bc1d32544835",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19605P_bfad928fcd71d3d92e81.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 4255
+    },
+    {
+      "roll": "19605P",
+      "url": "https://www.scoilmhuirejunior.ie/?page_id=29470",
+      "label": "Admissions Policy",
+      "sha256": "15ce61fc41436f4481ea97085bc6d2521c2e41d6f6dd8577bbfbaea9b069f36a",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19605P_15ce61fc41436f4481ea.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 3410
+    },
+    {
+      "roll": "19605P",
+      "url": "https://www.scoilmhuirejunior.ie/?page_id=25949",
+      "label": "Policies",
+      "sha256": "5576ca4080beb5c96576ffe9fe00c2671bf6912ef61f8d185f8bba32e2b1d283",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19605P_5576ca4080beb5c96576.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 3762
+    },
+    {
+      "roll": "19605P",
+      "url": "https://www.scoilmhuirejunior.ie/",
+      "label": "School homepage",
+      "sha256": "fed4b4b3879ab00afafcb10425d70df03ea444fec3c429f007237659a33640b3",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19605P_fed4b4b3879ab00afafc.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 3670
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://scoilmhuirejunior.ie/?page_id=10739",
+      "label": "Enrolement Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmhuirejunior.ie/?page_id=47999",
+      "label": "Bí Cineálta Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmhuirejunior.ie/?page_id=46525",
+      "label": "Health & Safety Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmhuirejunior.ie/?page_id=44316",
+      "label": "Anti-Bullying Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmhuirejunior.ie/?page_id=44313",
+      "label": "Intimate Care Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmhuirejunior.ie/?page_id=29490",
+      "label": "RSE Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmhuirejunior.ie/?page_id=29484",
+      "label": "Photograph Policy & Permission Form for Photos",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmhuirejunior.ie/?page_id=18397",
+      "label": "Homework Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmhuirejunior.ie/?page_id=10742",
+      "label": "Attendance Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilmhuirejunior.ie/?page_id=10734",
+      "label": "Code of Behaviour Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://scoilmhuirejunior.ie/?page_id=23259",
+      "label": "RSE Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://scoilmhuirejunior.ie/?page_id=18397",
+      "label": "Homework Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://scoilmhuirejunior.ie/?page_id=10746",
+      "label": "Anti-Bullying Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://scoilmhuirejunior.ie/?page_id=10742",
+      "label": "Attendance Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://scoilmhuirejunior.ie/?page_id=10734",
+      "label": "Code of Behaviour Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 90.02,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:46:53+0000"
+}

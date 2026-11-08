@@ -1,0 +1,18 @@
+{
+  "roll": "17507F",
+  "capture": {
+    "timestamp": "20240617045607",
+    "original": "https://www.glencullenschool.ie/wp-content/uploads/2022/09/Admissionsnotice.pdf",
+    "linked_from_capture": "https://web.archive.org/web/20230201054213/https://www.glencullenschool.ie/wp-content/uploads/2022/09/Admissionsnotice.pdf"
+  },
+  "original_url": "https://www.glencullenschool.ie/wp-content/uploads/2022/09/Admissionsnotice.pdf",
+  "archived_url": "https://web.archive.org/web/20240617045607/https://www.glencullenschool.ie/wp-content/uploads/2022/09/Admissionsnotice.pdf",
+  "attempted_at": "2026-11-08T12:47:31.182511+00:00",
+  "linked_from_capture": "https://web.archive.org/web/20230201054213/https://www.glencullenschool.ie/wp-content/uploads/2022/09/Admissionsnotice.pdf",
+  "http_status": 404,
+  "headers": {
+    "Content-Type": "text/html"
+  },
+  "bytes": 4712,
+  "status": "replay_http_404_or_missing_capture_header"
+}

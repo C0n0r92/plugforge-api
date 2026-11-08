@@ -1,0 +1,330 @@
+{
+  "roll": "19612M",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.dspns.ie",
+      "final_url": "https://www.dspns.ie",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.dspns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://www.dspns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://www.dspns.ie/wp-content/uploads/2022/05/Annual-Admission-Statement-2021-2022.pdf",
+      "final_url": "https://www.dspns.ie/wp-content/uploads/2022/05/Annual-Admission-Statement-2021-2022.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Annual-Admission-Statement-2021-2022"
+    },
+    {
+      "url": "https://www.dspns.ie/wp-content/uploads/2022/08/Annual-Admission-Statement-2023-2024.pdf",
+      "final_url": "https://www.dspns.ie/wp-content/uploads/2022/08/Annual-Admission-Statement-2023-2024.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Annual-Admission-Statement-2023-2024"
+    },
+    {
+      "url": "https://www.dspns.ie/wp-content/uploads/2022/05/Annual-Admission-Statement-2022-2023.pdf",
+      "final_url": "https://www.dspns.ie/wp-content/uploads/2022/05/Annual-Admission-Statement-2022-2023.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Annual-Admission-Statement-2022-2023"
+    },
+    {
+      "url": "https://www.dspns.ie/wp-content/uploads/2023/06/Annual-Admission-Statement-2024-2025.pdf",
+      "final_url": "https://www.dspns.ie/wp-content/uploads/2023/06/Annual-Admission-Statement-2024-2025.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Annual Admission Statement 2024-2025"
+    },
+    {
+      "url": "https://www.dspns.ie/wp-content/uploads/2024/07/Annual-Admission-Statement-2025-2026.pdf",
+      "final_url": "https://www.dspns.ie/wp-content/uploads/2024/07/Annual-Admission-Statement-2025-2026.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Annual Admission Statement 2025-2026"
+    },
+    {
+      "url": "https://www.dspns.ie/wp-content/uploads/2025/09/Annual-Admission-Statement-2026-2027.pdf",
+      "final_url": "https://www.dspns.ie/wp-content/uploads/2025/09/Annual-Admission-Statement-2026-2027.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Annual-Admission-Statement-2026-2027"
+    },
+    {
+      "url": "https://www.dspns.ie/wp-content/uploads/2023/06/Admission-Dates-2024-2025.png",
+      "final_url": "https://www.dspns.ie/wp-content/uploads/2023/06/Admission-Dates-2024-2025.png",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admission Dates 2024 2025"
+    },
+    {
+      "url": "https://www.dspns.ie/wp-content/uploads/2023/06/Admission-Dates-2024-2025-1.png",
+      "final_url": "https://www.dspns.ie/wp-content/uploads/2023/06/Admission-Dates-2024-2025-1.png",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admission Dates 2024 2025"
+    },
+    {
+      "url": "https://www.dspns.ie/wp-content/uploads/2024/07/admissions-dates-2025-2026.png",
+      "final_url": "https://www.dspns.ie/wp-content/uploads/2024/07/admissions-dates-2025-2026.png",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "admissions dates 2025 2026"
+    },
+    {
+      "url": "https://www.dspns.ie/wp-content/uploads/2025/09/JI-Admissions-2026-2027.png",
+      "final_url": "https://www.dspns.ie/wp-content/uploads/2025/09/JI-Admissions-2026-2027.png",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "JI Admissions 2026 2027"
+    },
+    {
+      "url": "https://www.dspns.ie/admissions-2/",
+      "final_url": "https://www.dspns.ie/admissions-2/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://www.dspns.ie/admissions",
+      "final_url": "https://www.dspns.ie/admissions-2/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.dspns.ie/about-us/admission/",
+      "final_url": "https://www.dspns.ie/about-us/admission/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Student Council"
+    },
+    {
+      "url": "https://www.dspns.ie/wp-content/uploads/2022/09/Admission-Policy-Final-26.06.20v2.pdf",
+      "final_url": "https://www.dspns.ie/wp-content/uploads/2022/09/Admission-Policy-Final-26.06.20v2.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admission-Policy-Final-26.06.20v2"
+    },
+    {
+      "url": "https://www.dspns.ie/wp-content/uploads/2022/05/Admission-Policy-Final-26.06.20.pdf",
+      "final_url": "https://www.dspns.ie/wp-content/uploads/2022/05/Admission-Policy-Final-26.06.20.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admission-Policy-Final-26.06.20"
+    },
+    {
+      "url": "https://www.dspns.ie/wp-content/uploads/2022/01/Parent-Helper-Guidelines-Sept-17.pdf",
+      "final_url": "https://www.dspns.ie/wp-content/uploads/2022/01/Parent-Helper-Guidelines-Sept-17.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "PARENT HELPER GUIDELINES INFO"
+    },
+    {
+      "url": "https://www.dspns.ie/wp-content/uploads/2026/08/Calendar-2026-27.pdf",
+      "final_url": "https://www.dspns.ie/wp-content/uploads/2026/08/Calendar-2026-27.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download PDF version"
+    },
+    {
+      "url": "https://www.dspns.ie/wp-content/uploads/2023/02/dspSignAdmissionPolicy.png",
+      "final_url": "https://www.dspns.ie/wp-content/uploads/2023/02/dspSignAdmissionPolicy.png",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "dspSignAdmissionPolicy"
+    },
+    {
+      "url": "https://www.dspns.ie/admissions-policy-january-2023/",
+      "final_url": "https://www.dspns.ie/admissions-policy-january-2023/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "DSP Admission Policy"
+    },
+    {
+      "url": "https://www.dspns.ie/wp-content/uploads/2022/01/Attendance-Policy-03.11.2015.pdf",
+      "final_url": "https://www.dspns.ie/wp-content/uploads/2022/01/Attendance-Policy-03.11.2015.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "CHILD ATTENDANCE"
+    },
+    {
+      "url": "https://www.dspns.ie/wp-content/uploads/2022/01/Anti-Bullying-October-2018.pdf",
+      "final_url": "https://www.dspns.ie/wp-content/uploads/2022/01/Anti-Bullying-October-2018.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "ANTI-BULLYING POLICY & PROCEDURES"
+    },
+    {
+      "url": "https://www.dspns.ie/wp-sitemap.xml",
+      "final_url": "https://www.dspns.ie/wp-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19612M",
+      "url": "https://www.dspns.ie/wp-content/uploads/2022/05/Annual-Admission-Statement-2021-2022.pdf",
+      "label": "Annual-Admission-Statement-2021-2022",
+      "sha256": "66558f0133d501d4c5f2335b655452d426bd60062f740690007d0e31487e86f0",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19612M_66558f0133d501d4c5f2.txt",
+      "source_file": "database/milestone2/cache/66558f0133d501d4c5f2335b655452d426bd60062f740690007d0e31487e86f0.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 3035
+    },
+    {
+      "roll": "19612M",
+      "url": "https://www.dspns.ie/wp-content/uploads/2022/08/Annual-Admission-Statement-2023-2024.pdf",
+      "label": "Annual-Admission-Statement-2023-2024",
+      "sha256": "7dd06643eae08b63bbe53474383c85ff52f5255af26f899e4298c42332a9195a",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19612M_7dd06643eae08b63bbe5.txt",
+      "source_file": "database/milestone2/cache/7dd06643eae08b63bbe53474383c85ff52f5255af26f899e4298c42332a9195a.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 3977
+    },
+    {
+      "roll": "19612M",
+      "url": "https://www.dspns.ie/wp-content/uploads/2022/05/Annual-Admission-Statement-2022-2023.pdf",
+      "label": "Annual-Admission-Statement-2022-2023",
+      "sha256": "3a280da2b43ae373eabd9b288755fb7d3717649074ce0372c56ae150448ef24c",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19612M_3a280da2b43ae373eabd.txt",
+      "source_file": "database/milestone2/cache/3a280da2b43ae373eabd9b288755fb7d3717649074ce0372c56ae150448ef24c.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 3667
+    },
+    {
+      "roll": "19612M",
+      "url": "https://www.dspns.ie/wp-content/uploads/2023/06/Annual-Admission-Statement-2024-2025.pdf",
+      "label": "Annual Admission Statement 2024-2025",
+      "sha256": "f4067f734271a944b40e54acb34b40b03222f52915a39c123ed8fdd6766ba137",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19612M_f4067f734271a944b40e.txt",
+      "source_file": "database/milestone2/cache/f4067f734271a944b40e54acb34b40b03222f52915a39c123ed8fdd6766ba137.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 3628
+    },
+    {
+      "roll": "19612M",
+      "url": "https://www.dspns.ie/wp-content/uploads/2024/07/Annual-Admission-Statement-2025-2026.pdf",
+      "label": "Annual Admission Statement 2025-2026",
+      "sha256": "0ce4957020c37c98d00d747c573173700faf5cc1e29c5e525365cbee8babaa7f",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19612M_0ce4957020c37c98d00d.txt",
+      "source_file": "database/milestone2/cache/0ce4957020c37c98d00d747c573173700faf5cc1e29c5e525365cbee8babaa7f.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 3411
+    },
+    {
+      "roll": "19612M",
+      "url": "https://www.dspns.ie/wp-content/uploads/2025/09/Annual-Admission-Statement-2026-2027.pdf",
+      "label": "Annual-Admission-Statement-2026-2027",
+      "sha256": "d4312c988fabd087077bb05ca07cd4d4f2ba5cfd1b6679d77c549424cf9b78fc",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19612M_d4312c988fabd087077b.txt",
+      "source_file": "database/milestone2/cache/d4312c988fabd087077bb05ca07cd4d4f2ba5cfd1b6679d77c549424cf9b78fc.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 3128
+    },
+    {
+      "roll": "19612M",
+      "url": "https://www.dspns.ie/wp-content/uploads/2022/09/Admission-Policy-Final-26.06.20v2.pdf",
+      "label": "Admission-Policy-Final-26.06.20v2",
+      "sha256": "e5a1743550b961a5911bf0e0ac4c9da9a5eb40c36c4fc850b92593895e624958",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19612M_e5a1743550b961a5911b.txt",
+      "source_file": "database/milestone2/cache/e5a1743550b961a5911bf0e0ac4c9da9a5eb40c36c4fc850b92593895e624958.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 25111
+    },
+    {
+      "roll": "19612M",
+      "url": "https://www.dspns.ie/wp-content/uploads/2022/05/Admission-Policy-Final-26.06.20.pdf",
+      "label": "Admission-Policy-Final-26.06.20",
+      "sha256": "fd9d0242589129b24bbcd365e67751dd7698d4555a131e98d7c5788b8b6463d9",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19612M_fd9d0242589129b24bbc.txt",
+      "source_file": "database/milestone2/cache/fd9d0242589129b24bbcd365e67751dd7698d4555a131e98d7c5788b8b6463d9.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 25007
+    },
+    {
+      "roll": "19612M",
+      "url": "https://www.dspns.ie/admissions-policy-january-2023/",
+      "label": "DSP Admission Policy",
+      "sha256": "32451bbc611510dc0929ebd66b853e054b4186a141f81f04ee053552b2e7a7a7",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19612M_32451bbc611510dc0929.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 18100
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.dspns.ie/wp-sitemap-posts-product-1.xml",
+      "label": "Public sitemap index child",
+      "via": "sitemap_child"
+    },
+    {
+      "url": "https://www.dspns.ie/wp-sitemap-posts-post-1.xml",
+      "label": "Public sitemap index child",
+      "via": "sitemap_child"
+    },
+    {
+      "url": "https://www.dspns.ie/wp-sitemap-posts-page-1.xml",
+      "label": "Public sitemap index child",
+      "via": "sitemap_child"
+    },
+    {
+      "url": "https://www.dspns.ie/school-information-for-parents-and-guardians/",
+      "label": "Info for Parents and Guardians",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.dspns.ie/policies/",
+      "label": "Policies",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.dspns.ie/category/policies/",
+      "label": "Policies",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.dspns.ie/category/policies",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.dspns.ie/rse-policy/",
+      "label": "Permalink to RSE Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.dspns.ie/privacy-policy/",
+      "label": "Privacy Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.dspns.ie/assessment-policy/",
+      "label": "Permalink to Assessment Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 91.65,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:57:22+0000"
+}

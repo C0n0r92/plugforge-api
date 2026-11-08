@@ -1,0 +1,129 @@
+{
+  "roll": "20375I",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.abacaskilbarrack.ie/copy-of-enrolment-1",
+      "final_url": "https://www.abacaskilbarrack.ie/copy-of-enrolment-1",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions Information"
+    },
+    {
+      "url": "https://www.abacaskilbarrack.ie/_files/ugd/03b971_3b9e1d00243348d2bfcb54ddbeb0a21e.docx?dn=Admission%20Policy",
+      "final_url": "https://www.abacaskilbarrack.ie/_files/ugd/03b971_3b9e1d00243348d2bfcb54ddbeb0a21e.docx?dn=Admission%20Policy",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://www.abacaskilbarrack.ie/sitemap.xml",
+      "final_url": "https://www.abacaskilbarrack.ie/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.abacaskilbarrack.ie/school-policies",
+      "final_url": "https://www.abacaskilbarrack.ie/school-policies",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Policies"
+    },
+    {
+      "url": "https://www.abacaskilbarrack.ie/parents",
+      "final_url": "https://www.abacaskilbarrack.ie/parents",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents' Association"
+    },
+    {
+      "url": "https://www.abacaskilbarrack.ie/pages-sitemap.xml",
+      "final_url": "https://www.abacaskilbarrack.ie/pages-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.abacaskilbarrack.ie/copy-of-enrolment",
+      "final_url": "https://www.abacaskilbarrack.ie/copy-of-enrolment",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions/policy URL from public sitemap"
+    },
+    {
+      "url": "https://www.abacaskilbarrack.ie/_files/ugd/03b971_5edf306280a24474bfa4664fea50d915.docx?dn=School%20Admissions%20Notice%20Year%2026-27.docx",
+      "final_url": "https://www.abacaskilbarrack.ie/_files/ugd/03b971_5edf306280a24474bfa4664fea50d915.docx?dn=School%20Admissions%20Notice%20Year%2026-27.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "here"
+    },
+    {
+      "url": "https://www.abacaskilbarrack.ie/_files/ugd/03b971_3b9e1d00243348d2bfcb54ddbeb0a21e.docx?dn=Admission%20Policy%20September%202025.docx",
+      "final_url": "https://www.abacaskilbarrack.ie/_files/ugd/03b971_3b9e1d00243348d2bfcb54ddbeb0a21e.docx?dn=Admission%20Policy%20September%202025.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "here"
+    },
+    {
+      "url": "https://www.abacaskilbarrack.ie/contact",
+      "final_url": "https://www.abacaskilbarrack.ie/contact",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Information"
+    },
+    {
+      "url": "https://www.abacaskilbarrack.ie/",
+      "final_url": "https://www.abacaskilbarrack.ie/",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.abacaskilbarrack.ie/_files/ugd/03b971_677effea0bb54b208a8345476647dd12.docx?dn=Code%20of%20Behaviour%20Policy",
+      "final_url": "https://www.abacaskilbarrack.ie/_files/ugd/03b971_677effea0bb54b208a8345476647dd12.docx?dn=Code%20of%20Behaviour%20Policy",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Code Of Behaviour"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "20375I",
+      "url": "https://www.abacaskilbarrack.ie/_files/ugd/03b971_3b9e1d00243348d2bfcb54ddbeb0a21e.docx?dn=Admission%20Policy",
+      "label": "Prior school admissions section",
+      "sha256": "8402d273b674db4017e6e9467e4a4f3463502ae42af555c2392bbcc78a778f91",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/20375I_8402d273b674db4017e6.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 27040
+    },
+    {
+      "roll": "20375I",
+      "url": "https://www.abacaskilbarrack.ie/copy-of-enrolment",
+      "label": "Admissions/policy URL from public sitemap",
+      "sha256": "d9bb1562e08c464d9b5756c3bf7087ccfffd23a4a683a41f7ca8b6c844a9dfbb",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20375I_d9bb1562e08c464d9b57.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 184
+    },
+    {
+      "roll": "20375I",
+      "url": "https://www.abacaskilbarrack.ie/_files/ugd/03b971_5edf306280a24474bfa4664fea50d915.docx?dn=School%20Admissions%20Notice%20Year%2026-27.docx",
+      "label": "here",
+      "sha256": "b299d5de6e5bc0cd5da330054a75806808c72bb5498d5d95c8a3f234b8b83657",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/20375I_b299d5de6e5bc0cd5da3.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 2376
+    }
+  ],
+  "pending_links": [],
+  "elapsed_seconds": 33.4,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:47:26+0000"
+}

@@ -1,5 +1,9 @@
 # PlugForge API
 
+## Dublin school admissions
+
+Completed milestone 2 materials are in [`dublin-school-admissions/`](dublin-school-admissions/). For resume, read [`dublin-school-admissions/CLAUDE_HANDOFF.md`](dublin-school-admissions/CLAUDE_HANDOFF.md), then [`dublin-school-admissions/RESUME_PROMPT.txt`](dublin-school-admissions/RESUME_PROMPT.txt). The populated database is `dublin-school-admissions/database/admissions.sqlite3`. Original public admission PDFs are already extracted on the relative paths recorded in the database. Archive.org collection is stopped after HTTP 429 and remains queued only. Layout and checksums: [`dublin-school-admissions/EVIDENCE_RESTORE.md`](dublin-school-admissions/EVIDENCE_RESTORE.md). Privacy check and omitted files: [`dublin-school-admissions/EXCLUSIONS.md`](dublin-school-admissions/EXCLUSIONS.md).
+
 A centralized Flask API backend for all PlugForge plugins (Bubble.io, Webflow, etc.).
 
 ## Architecture

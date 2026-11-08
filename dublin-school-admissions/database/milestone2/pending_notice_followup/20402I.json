@@ -1,0 +1,30 @@
+{
+  "roll": "20402I",
+  "started_at": "2026-11-08T13:20:26+0000",
+  "method": "previously_linked_explicit_annual_notice_gap_followup",
+  "attempts": [
+    {
+      "url": "https://www.citywestetns.ie/news/enrolment-update-at-19th-february-2018",
+      "final_url": "https://www.citywestetns.ie/news/enrolment-update-at-19th-february-2018",
+      "status": "ok",
+      "label": "Admission URL from sitemap"
+    },
+    {
+      "url": "https://www.citywestetns.ie/news/2021-admissions-are-now-open",
+      "final_url": "https://www.citywestetns.ie/news/2021-admissions-are-now-open",
+      "status": "ok",
+      "label": "Admission URL from sitemap"
+    },
+    {
+      "url": "https://www.citywestetns.ie/news/pre-enrolment-list-opened-for-2023",
+      "final_url": "https://www.citywestetns.ie/news/pre-enrolment-list-opened-for-2023",
+      "status": "ok",
+      "label": "Admission URL from sitemap"
+    }
+  ],
+  "documents": [],
+  "pending_links": [],
+  "earliest_year_cutoff": null,
+  "status": "attempted_no_new_numeric_notice_established",
+  "elapsed_seconds": 6.99
+}

@@ -1,0 +1,231 @@
+{
+  "roll": "20529J",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://broadmeadowcns.ie",
+      "final_url": "https://broadmeadowcns.ie",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.broadmeadowcns.ie/",
+      "final_url": "https://broadmeadowcns.ie/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Home About Comunity National Schools (CNS) Our School Vision Our History Aims and Objectives Board of Management School Staff Restorative Practice School Info School Policies School Calendar Inspector Reports & School Data Results Prospectus Parents Stationary List Insurance Child Protection Non Educational Complaint Procedure ETB Parent Information Seesaw Parent School Partnership Enrol Extra Curricular School Initiatives Student Council Green Schools Yellow Flag Wellbeing Active School Flag Food Dudes After School Clubs Contact Select Page"
+    },
+    {
+      "url": "https://eps.enrol.ie/broadmeadowcns/Pages/Index.aspx",
+      "final_url": "https://eps.enrol.ie/broadmeadowcns/Pages/Index.aspx",
+      "status": "prior_exact_URL_access_denial_not_retried",
+      "via": "school_public_link",
+      "label": "MIT School Payments"
+    },
+    {
+      "url": "https://broadmeadowcns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://broadmeadowcns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://broadmeadowcns.ie/wp-content/uploads/2020/09/Application-for-Admission-20212022.docx",
+      "final_url": "https://broadmeadowcns.ie/wp-content/uploads/2020/09/Application-for-Admission-20212022.docx",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Application for Admission 20212022"
+    },
+    {
+      "url": "https://broadmeadowcns.ie/wp-content/uploads/2021/09/Application-for-Admission-20212022.docx",
+      "final_url": "https://broadmeadowcns.ie/wp-content/uploads/2021/09/Application-for-Admission-20212022.docx",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Application for Admission 20212022"
+    },
+    {
+      "url": "https://broadmeadowcns.ie/wp-content/uploads/2021/05/Application-for-Admission-20212022.docx",
+      "final_url": "https://broadmeadowcns.ie/wp-content/uploads/2021/05/Application-for-Admission-20212022.docx",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Application for Admission 20212022"
+    },
+    {
+      "url": "https://broadmeadowcns.ie/wp-content/uploads/2022/10/ASDApplication-for-Admission-20232024.pdf",
+      "final_url": "https://broadmeadowcns.ie/wp-content/uploads/2022/10/ASDApplication-for-Admission-20232024.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "ASDApplication for Admission 20232024"
+    },
+    {
+      "url": "https://broadmeadowcns.ie/wp-content/uploads/2022/09/Application-for-Admission-20232024-1.pdf",
+      "final_url": "https://broadmeadowcns.ie/wp-content/uploads/2022/09/Application-for-Admission-20232024-1.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Application for Admission 20232024 (1)"
+    },
+    {
+      "url": "https://broadmeadowcns.ie/wp-content/uploads/2023/10/Application-for-Admission-20242025new.pdf",
+      "final_url": "https://broadmeadowcns.ie/wp-content/uploads/2023/10/Application-for-Admission-20242025new.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Application for Admission 20242025new"
+    },
+    {
+      "url": "https://broadmeadowcns.ie/wp-content/uploads/2023/09/Application-for-Admission-20242025.pdf",
+      "final_url": "https://broadmeadowcns.ie/wp-content/uploads/2023/09/Application-for-Admission-20242025.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Application for Admission 20242025"
+    },
+    {
+      "url": "https://broadmeadowcns.ie/wp-content/uploads/2024/09/Application-for-Admission-2024.pdf",
+      "final_url": "https://broadmeadowcns.ie/wp-content/uploads/2024/09/Application-for-Admission-2024.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Application for Admission 2024"
+    },
+    {
+      "url": "https://broadmeadowcns.ie/wp-content/uploads/2025/09/Admission-2026_2027.pdf",
+      "final_url": "https://broadmeadowcns.ie/wp-content/uploads/2025/09/Admission-2026_2027.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admission 2026_2027"
+    },
+    {
+      "url": "https://broadmeadowcns.ie/wp-content/uploads/2019/09/Admissions-policy-2019.2020-BMCNS.pdf",
+      "final_url": "https://broadmeadowcns.ie/wp-content/uploads/2019/09/Admissions-policy-2019.2020-BMCNS.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions policy 2019.2020 BMCNS"
+    },
+    {
+      "url": "https://broadmeadowcns.ie/wp-content/uploads/2019/09/Admissions-policy-2019-BMCNS.pdf",
+      "final_url": "https://broadmeadowcns.ie/wp-content/uploads/2019/09/Admissions-policy-2019-BMCNS.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions policy 2019 BMCNS"
+    },
+    {
+      "url": "https://broadmeadowcns.ie/wp-content/uploads/2019/07/Admissions-Policy-2019.2020.pdf",
+      "final_url": "https://broadmeadowcns.ie/wp-content/uploads/2019/07/Admissions-Policy-2019.2020.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Policy 2019.2020"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "20529J",
+      "url": "https://broadmeadowcns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "label": "Oldest public admission media (all dates)",
+      "sha256": "12d520854f8fb7a6f66f4361e9bcac7b08cda8bf92a2b41a5359dc15a806704b",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20529J_12d520854f8fb7a6f66f.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 771
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://broadmeadowcns.ie/wp-content/uploads/2020/09/Admission-Policy-2021.pdf",
+      "label": "Admission Policy 2021",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://broadmeadowcns.ie/parents/enrol/",
+      "label": "Enrol",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://broadmeadowcns.ie/enrol/",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://broadmeadowcns.ie/wp-content/uploads/2021/10/20212022POLICY-FOR-ADMISSION-BROADMEADOW-COMMUNITY-NATIONAL-SCHOOL.pdf",
+      "label": "20212022POLICY FOR ADMISSION BROADMEADOW COMMUNITY NATIONAL SCHOOL",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://broadmeadowcns.ie/wp-content/uploads/2021/09/20212022POLICY-FOR-ADMISSION-BROADMEADOW-COMMUNITY-NATIONAL-SCHOOL.docx",
+      "label": "ADMISSION POLICY",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://broadmeadowcns.ie/wp-content/uploads/2022/12/Broadmeadow-CNS-Admissions-Policy-2023-2024-LSSU-Tracked3.pdf",
+      "label": "Broadmeadow CNS Admissions Policy 2023-2024 LSSU Tracked[3]",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://broadmeadowcns.ie/wp-content/uploads/2022/12/Admission-Policy-2023_2024.pdf",
+      "label": "Admission Policy 2023_2024",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://broadmeadowcns.ie/wp-content/uploads/2022/11/Admission-Policy-2023_2024.pdf",
+      "label": "Admission Policy 2023_2024",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://broadmeadowcns.ie/wp-content/uploads/2022/10/20222023FINALPOLICY-FOR-ADMISSION-BROADMEADOW-COMMUNITY-NATIONAL-SCHOOL-.pdf",
+      "label": "20222023FINALPOLICY FOR ADMISSION BROADMEADOW COMMUNITY NATIONAL SCHOOL",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://broadmeadowcns.ie/wp-content/uploads/2023/10/Admission-Policy-2024_2025.pdf",
+      "label": "Admission Policy 2024_2025",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://broadmeadowcns.ie/wp-content/uploads/2024/10/Admission-Policy-2024-FINAL.pdf",
+      "label": "Admission Policy 2024 FINAL",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://broadmeadowcns.ie/wp-content/uploads/2024/09/Admission-Policy-2024-DRAFT.pdf",
+      "label": "Admission Policy 2024 DRAFT",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://broadmeadowcns.ie/wp-content/uploads/2026/10/Admissions-Policy-2026-2027.pdf",
+      "label": "Admissions Policy 2026 2027",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://broadmeadowcns.ie/sitemap.xml",
+      "label": "Public sitemap",
+      "via": "sitemap_root"
+    },
+    {
+      "url": "https://broadmeadowcns.ie/school-policies/",
+      "label": "School Policies",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://broadmeadowcns.ie/parents/parent-school-partnership/",
+      "label": "Parent School Partnership",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://broadmeadowcns.ie/parents/parent-information/",
+      "label": "Parent Information",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://broadmeadowcns.ie/parents/Extra-Curricular/",
+      "label": "Extra Curricular",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://broadmeadowcns.ie/",
+      "label": "School Info",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 151.85,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:35:30+0000"
+}

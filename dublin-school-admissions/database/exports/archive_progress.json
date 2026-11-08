@@ -1,0 +1,14 @@
+{
+  "as_of": "2026-11-08T13:46:06.480552+00:00",
+  "timezone": "Europe/Dublin",
+  "domains_checkpointed": 4,
+  "domain_statuses": {
+    "transient_or_unclassified_failure": 3,
+    "index_search_complete": 1
+  },
+  "schools_checkpointed": 4,
+  "indexed_candidate_captures": 59,
+  "new_archive_bodies_verified_in_this_expansion": 0,
+  "ongoing_worker_log": "checkpoints/archive_worker.log",
+  "note": "Pilot actual bodies are already imported separately. Index-only candidates require replay, document identity/year/cohort and numeric evidence review."
+}

@@ -1,0 +1,25 @@
+{
+  "task_id": "aed7554863f82878b37a313e04246f0e",
+  "roll": "00697S",
+  "capture": {
+    "digest": "WALJ6QNRVR77YXZR5GIFEY3MNXZVTUNA",
+    "mimetype": "application/pdf",
+    "original": "https://saintbrigids.ie/wp/pwa/wp-content/uploads/sites/15/2020/08/Yellow-Illustration-Volunteering-Infographic-2.pdf",
+    "statuscode": "200",
+    "timestamp": "20240423031110"
+  },
+  "original_url": "https://saintbrigids.ie/wp/pwa/wp-content/uploads/sites/15/2020/08/Yellow-Illustration-Volunteering-Infographic-2.pdf",
+  "archived_url": "https://web.archive.org/web/20240423031110/https://saintbrigids.ie/wp/pwa/wp-content/uploads/sites/15/2020/08/Yellow-Illustration-Volunteering-Infographic-2.pdf",
+  "attempted_at": "2026-11-08T12:32:22.632336+00:00",
+  "http_status": 200,
+  "headers": {
+    "Content-Type": "application/pdf",
+    "memento-datetime": "Tue, 23 Apr 2024 03:11:10 GMT"
+  },
+  "payload_sha256": "bd6ed9286d6e239c149635af559ef051c7eb6e5676f4126fedf03fe7db2f8332",
+  "bytes": 1507963,
+  "source_file": "database/milestone2/cache/bd6ed9286d6e239c149635af559ef051c7eb6e5676f4126fedf03fe7db2f8332.pdf",
+  "format": "pdf",
+  "status": "archived_body_retrieved_requires_notice_evidence_review",
+  "text_file": "database/milestone2/evidence/archive_00697S_bd6ed9286d6e239c1496.txt"
+}

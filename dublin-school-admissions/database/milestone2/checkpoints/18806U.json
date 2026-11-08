@@ -1,0 +1,220 @@
+{
+  "roll": "18806U",
+  "status": "bounded_search_no_new_notice_found",
+  "attempts": [
+    {
+      "url": "https://www.ourladyofthewaysidens.ie/",
+      "final_url": "https://www.ourladyofthewaysidens.ie/",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.ourladyofthewaysidens.ie/_files/ugd/d6a6cd_8a1d323366cb4cf2a168879800ee11fb.pdf",
+      "final_url": "https://www.ourladyofthewaysidens.ie/_files/ugd/d6a6cd_8a1d323366cb4cf2a168879800ee11fb.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admission Policy"
+    },
+    {
+      "url": "https://www.ourladyofthewaysidens.ie/uniform-1",
+      "final_url": "https://www.ourladyofthewaysidens.ie/uniform-1",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Information"
+    },
+    {
+      "url": "https://www.ourladyofthewaysidens.ie/sitemap.xml",
+      "final_url": "https://www.ourladyofthewaysidens.ie/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.ourladyofthewaysidens.ie/policies",
+      "final_url": "https://www.ourladyofthewaysidens.ie/policies",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Policies"
+    },
+    {
+      "url": "https://www.ourladyofthewaysidens.ie/_files/ugd/d6a6cd_fc20ee65006a497cb6432745b90e9cc0.pdf",
+      "final_url": "https://www.ourladyofthewaysidens.ie/_files/ugd/d6a6cd_fc20ee65006a497cb6432745b90e9cc0.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download"
+    },
+    {
+      "url": "https://www.ourladyofthewaysidens.ie/_files/ugd/d6a6cd_fa01576c97b74f0a84a314433c69ac55.pdf",
+      "final_url": "https://www.ourladyofthewaysidens.ie/_files/ugd/d6a6cd_fa01576c97b74f0a84a314433c69ac55.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download"
+    },
+    {
+      "url": "https://www.ourladyofthewaysidens.ie/_files/ugd/d6a6cd_f163612dbcc4461da6acbdd2b61a6e52.pdf",
+      "final_url": "https://www.ourladyofthewaysidens.ie/_files/ugd/d6a6cd_f163612dbcc4461da6acbdd2b61a6e52.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download"
+    },
+    {
+      "url": "https://www.ourladyofthewaysidens.ie/_files/ugd/d6a6cd_e755029289c044bf8bd05e6a4fc38049.pdf",
+      "final_url": "https://www.ourladyofthewaysidens.ie/_files/ugd/d6a6cd_e755029289c044bf8bd05e6a4fc38049.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download"
+    },
+    {
+      "url": "https://www.ourladyofthewaysidens.ie/_files/ugd/d6a6cd_e428a4c7f816449885e6f50aeeaebc7d.pdf",
+      "final_url": "https://www.ourladyofthewaysidens.ie/_files/ugd/d6a6cd_e428a4c7f816449885e6f50aeeaebc7d.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download"
+    },
+    {
+      "url": "https://www.ourladyofthewaysidens.ie/_files/ugd/d6a6cd_d869e268694d4e318ad83efa50705f9a.pdf",
+      "final_url": "https://www.ourladyofthewaysidens.ie/_files/ugd/d6a6cd_d869e268694d4e318ad83efa50705f9a.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download"
+    },
+    {
+      "url": "https://www.ourladyofthewaysidens.ie/_files/ugd/d6a6cd_b96459ee109e427db55bede4c5afd652.pdf",
+      "final_url": "https://www.ourladyofthewaysidens.ie/_files/ugd/d6a6cd_b96459ee109e427db55bede4c5afd652.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download"
+    },
+    {
+      "url": "https://www.ourladyofthewaysidens.ie/_files/ugd/d6a6cd_b876e1e420f74959b63b2fd52fa707c9.pdf",
+      "final_url": "https://www.ourladyofthewaysidens.ie/_files/ugd/d6a6cd_b876e1e420f74959b63b2fd52fa707c9.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download"
+    },
+    {
+      "url": "https://www.ourladyofthewaysidens.ie/_files/ugd/d6a6cd_a8bd17f064074c5a94c3cb172d1c8747.pdf",
+      "final_url": "https://www.ourladyofthewaysidens.ie/_files/ugd/d6a6cd_a8bd17f064074c5a94c3cb172d1c8747.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download"
+    },
+    {
+      "url": "https://www.ourladyofthewaysidens.ie/_files/ugd/d6a6cd_9ec66f29f13a45549c6478944aaae045.pdf",
+      "final_url": "https://www.ourladyofthewaysidens.ie/_files/ugd/d6a6cd_9ec66f29f13a45549c6478944aaae045.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download"
+    },
+    {
+      "url": "https://www.ourladyofthewaysidens.ie/_files/ugd/d6a6cd_9c0af264b73c478b9f45b11704d58f1c.pdf",
+      "final_url": "https://www.ourladyofthewaysidens.ie/_files/ugd/d6a6cd_9c0af264b73c478b9f45b11704d58f1c.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download"
+    },
+    {
+      "url": "https://www.ourladyofthewaysidens.ie/_files/ugd/d6a6cd_96d7dbf30695427b82387d985f64cfe3.pdf",
+      "final_url": "https://www.ourladyofthewaysidens.ie/_files/ugd/d6a6cd_96d7dbf30695427b82387d985f64cfe3.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download"
+    },
+    {
+      "url": "https://www.ourladyofthewaysidens.ie/_files/ugd/d6a6cd_8d3acba6b3f64cc49e4ed113359ce5c1.pdf",
+      "final_url": "https://www.ourladyofthewaysidens.ie/_files/ugd/d6a6cd_8d3acba6b3f64cc49e4ed113359ce5c1.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download"
+    },
+    {
+      "url": "https://www.ourladyofthewaysidens.ie/_files/ugd/d6a6cd_72e868f21c974441a918400839c92fa0.pdf",
+      "final_url": "https://www.ourladyofthewaysidens.ie/_files/ugd/d6a6cd_72e868f21c974441a918400839c92fa0.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download"
+    },
+    {
+      "url": "https://www.ourladyofthewaysidens.ie/_files/ugd/d6a6cd_6ef924c8ea954324b17116fe91bb5842.pdf",
+      "final_url": "https://www.ourladyofthewaysidens.ie/_files/ugd/d6a6cd_6ef924c8ea954324b17116fe91bb5842.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download"
+    },
+    {
+      "url": "https://www.ourladyofthewaysidens.ie/_files/ugd/d6a6cd_6d9765553ca442a8ab16452987a2c229.pdf",
+      "final_url": "https://www.ourladyofthewaysidens.ie/_files/ugd/d6a6cd_6d9765553ca442a8ab16452987a2c229.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download"
+    },
+    {
+      "url": "https://www.ourladyofthewaysidens.ie/_files/ugd/d6a6cd_5a073308607c488d8969bab091e4b6a8.pdf",
+      "final_url": "https://www.ourladyofthewaysidens.ie/_files/ugd/d6a6cd_5a073308607c488d8969bab091e4b6a8.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download"
+    },
+    {
+      "url": "https://www.ourladyofthewaysidens.ie/_files/ugd/d6a6cd_50655618536c4aaf9a6dd39aa3b981f4.pdf",
+      "final_url": "https://www.ourladyofthewaysidens.ie/_files/ugd/d6a6cd_50655618536c4aaf9a6dd39aa3b981f4.pdf",
+      "status": "public_document_size_bound",
+      "via": "school_public_link",
+      "label": "Download"
+    },
+    {
+      "url": "https://www.ourladyofthewaysidens.ie/_files/ugd/d6a6cd_4a66431de2854c4bae0f2a774215d948.pdf",
+      "final_url": "https://www.ourladyofthewaysidens.ie/_files/ugd/d6a6cd_4a66431de2854c4bae0f2a774215d948.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download"
+    }
+  ],
+  "documents": [],
+  "pending_links": [
+    {
+      "url": "https://www.ourladyofthewaysidens.ie/_files/ugd/d6a6cd_3eceadfee9f947c59998f4faaae90e2a.pdf",
+      "label": "Download",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ourladyofthewaysidens.ie/_files/ugd/d6a6cd_33fafd0f1324470e8d1ff3b8535f269a.pdf",
+      "label": "Download",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ourladyofthewaysidens.ie/_files/ugd/d6a6cd_33cff7696d1245e7b7b5e2f3d6bfdb60.pdf",
+      "label": "Download",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ourladyofthewaysidens.ie/_files/ugd/d6a6cd_336bf37c95d84f0a883c95e4fe67a5a2.pdf",
+      "label": "Download",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ourladyofthewaysidens.ie/_files/ugd/d6a6cd_12f4355542d5424c9da815ce87905a3f.pdf",
+      "label": "Download",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ourladyofthewaysidens.ie/parents-association",
+      "label": "Parents Association",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ourladyofthewaysidens.ie/pages-sitemap.xml",
+      "label": "Public sitemap index child",
+      "via": "sitemap_child"
+    },
+    {
+      "url": "https://www.ourladyofthewaysidens.ie/copy-of-school-information",
+      "label": "Survey",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 77.87,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:54:14+0000"
+}

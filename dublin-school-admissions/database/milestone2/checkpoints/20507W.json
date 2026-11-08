@@ -1,0 +1,102 @@
+{
+  "roll": "20507W",
+  "status": "bounded_search_no_new_notice_found",
+  "attempts": [
+    {
+      "url": "https://www.stlaurenceotoolesns.ie/admissions",
+      "final_url": "https://www.stlaurenceotoolesns.ie/admissions",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Now Enrolling! Click Here"
+    },
+    {
+      "url": "https://drive.google.com/open?id=1-MHQ_VfeOiUs-KRgEQOIx7XXbU_ZIOVUfZ5EZ7RLYkw",
+      "final_url": "https://drive.google.com/open?id=1-MHQ_VfeOiUs-KRgEQOIx7XXbU_ZIOVUfZ5EZ7RLYkw",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Open Document, Admissions Notice September 2025 in new window"
+    },
+    {
+      "url": "https://www.stlaurenceotoolesns.ie/sitemap.xml",
+      "final_url": "https://www.stlaurenceotoolesns.ie/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.stlaurenceotoolesns.ie/school-policies",
+      "final_url": "https://www.stlaurenceotoolesns.ie/school-policies",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Policies"
+    },
+    {
+      "url": "https://www.stlaurenceotoolesns.ie/parents-zone/internet-safety",
+      "final_url": "https://www.stlaurenceotoolesns.ie/parents-zone/internet-safety",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Internet Safety"
+    },
+    {
+      "url": "https://www.stlaurenceotoolesns.ie/parents-zone/bí-cineálta",
+      "final_url": "https://www.stlaurenceotoolesns.ie/parents-zone/bí-cineálta",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Bí Cineálta"
+    },
+    {
+      "url": "https://www.stlaurenceotoolesns.ie/general-school-information/uniform",
+      "final_url": "https://www.stlaurenceotoolesns.ie/general-school-information/uniform",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Uniform"
+    },
+    {
+      "url": "https://www.stlaurenceotoolesns.ie/general-school-information/staff",
+      "final_url": "https://www.stlaurenceotoolesns.ie/general-school-information/staff",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Staff"
+    },
+    {
+      "url": "https://www.stlaurenceotoolesns.ie/general-school-information/school-vision",
+      "final_url": "https://www.stlaurenceotoolesns.ie/general-school-information/school-vision",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Vision"
+    },
+    {
+      "url": "https://www.stlaurenceotoolesns.ie/general-school-information/school-mission-statement",
+      "final_url": "https://www.stlaurenceotoolesns.ie/general-school-information/school-mission-statement",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Mission Statement"
+    },
+    {
+      "url": "https://www.stlaurenceotoolesns.ie/general-school-information/school-history",
+      "final_url": "https://www.stlaurenceotoolesns.ie/general-school-information/school-history",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School History"
+    },
+    {
+      "url": "https://www.stlaurenceotoolesns.ie/general-school-information/day-to-day",
+      "final_url": "https://www.stlaurenceotoolesns.ie/general-school-information/day-to-day",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Day to Day"
+    },
+    {
+      "url": "https://www.stlaurenceotoolesns.ie",
+      "final_url": "https://www.stlaurenceotoolesns.ie",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    }
+  ],
+  "documents": [],
+  "pending_links": [],
+  "elapsed_seconds": 31.22,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:12:13+0000"
+}

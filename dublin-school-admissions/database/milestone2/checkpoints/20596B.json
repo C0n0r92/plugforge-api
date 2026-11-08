@@ -1,0 +1,102 @@
+{
+  "roll": "20596B",
+  "status": "access_or_infrastructure_deferred",
+  "attempts": [
+    {
+      "url": "https://www.ddletb.ie/wp-content/uploads/2024/09/DDLETB-In-Numbers-Infographic-Web-Irish.png",
+      "final_url": "https://www.ddletb.ie/wp-content/uploads/2024/09/DDLETB-In-Numbers-Infographic-Web-Irish.png",
+      "status": "transient_ReadTimeout",
+      "via": "prior_public_admissions_landing",
+      "label": "DDLETB In Numbers Infographic Web Irish"
+    },
+    {
+      "url": "https://www.ddletb.ie/wp-content/uploads/2024/06/DDLETB-In-Numbers-Infographic-colour-e1720704957510.jpg",
+      "final_url": "https://www.ddletb.ie/wp-content/uploads/2024/06/DDLETB-In-Numbers-Infographic-colour-e1720704957510.jpg",
+      "status": "transient_ReadTimeout",
+      "via": "prior_public_admissions_landing",
+      "label": "DDLETB In Numbers Infographic colour"
+    },
+    {
+      "url": "https://www.ddletb.ie/wp-content/uploads/2024/02/DDLETB-In-Numbers-Infographic.jpg",
+      "final_url": "https://www.ddletb.ie/wp-content/uploads/2024/02/DDLETB-In-Numbers-Infographic.jpg",
+      "status": "transient_ReadTimeout",
+      "via": "prior_public_admissions_landing",
+      "label": "DDLETB In Numbers Infographic"
+    },
+    {
+      "url": "https://www.ddletb.ie/wp-content/uploads/2024/02/DDLETB-In-Numbers-Infographic-1500.jpg",
+      "final_url": "https://www.ddletb.ie/wp-content/uploads/2024/02/DDLETB-In-Numbers-Infographic-1500.jpg",
+      "status": "transient_ReadTimeout",
+      "via": "prior_public_admissions_landing",
+      "label": "DDLETB In Numbers Infographic 1500"
+    },
+    {
+      "url": "https://www.ddletb.ie/wp-content/uploads/2025/02/DDLETB-In-Numbers-Infographic-2025.jpg",
+      "final_url": "https://www.ddletb.ie/wp-content/uploads/2025/02/DDLETB-In-Numbers-Infographic-2025.jpg",
+      "status": "transient_ReadTimeout",
+      "via": "prior_public_admissions_landing",
+      "label": "DDLETB In Numbers Infographic 2025"
+    }
+  ],
+  "documents": [],
+  "pending_links": [
+    {
+      "url": "https://www.ddletb.ie/wp-content/uploads/2026/05/DDLETB-Special-Schools-Admission-Notice-2026-Blog.jpg",
+      "label": "DDLETB Special Schools Admission Notice 2026 Blog",
+      "via": "prior_public_admissions_landing"
+    },
+    {
+      "url": "https://www.ddletb.ie/wp-content/uploads/2026/05/DDLETB-Lucan-And-Belmayne-Admission-Notice-26-27-scaled.jpg",
+      "label": "DDLETB Lucan And Belmayne Admission Notice 26 27",
+      "via": "prior_public_admissions_landing"
+    },
+    {
+      "url": "https://www.ddletb.ie/wp-content/uploads/2026/05/DDLETB-Lucan-And-Belmayne-Admission-Notice-26-27-1-scaled.jpg",
+      "label": "DDLETB Lucan And Belmayne Admission Notice 26 27",
+      "via": "prior_public_admissions_landing"
+    },
+    {
+      "url": "https://www.ddletb.ie/wp-content/uploads/2026/04/DDLETB-Special-Schools-Admission-Notice-2026.jpg",
+      "label": "DDLETB Special Schools Admission Notice 2026",
+      "via": "prior_public_admissions_landing"
+    },
+    {
+      "url": "https://www.ddletb.ie/new-community-special-schools-admissions-notice/",
+      "label": "New Community Special Schools Admissions Notice May 1, 2026 / by Jennifer Farley",
+      "via": "prior_public_admissions_landing"
+    },
+    {
+      "url": "https://www.ddletb.ie/new-community-special-schools-admissions-notice/?s=",
+      "label": "Search",
+      "via": "prior_public_admissions_landing"
+    },
+    {
+      "url": "https://www.ddletb.ie/wp-content/uploads/2020/01/ddletb-Blanchardstown-Admissions.jpg",
+      "label": "ddletb-Blanchardstown-Admissions",
+      "via": "prior_public_admissions_landing"
+    },
+    {
+      "url": "https://www.ddletb.ie/wp-content/uploads/2026/05/BelmayneCSSAdmissionsPolicy.docx",
+      "label": "Prior school admissions section",
+      "via": "prior_link"
+    },
+    {
+      "url": "https://www.ddletb.ie/wp-content/uploads/2026/05/BelmayneCSSAdmissionsPolicy-1.docx",
+      "label": "Prior school admissions section",
+      "via": "prior_link"
+    },
+    {
+      "url": "https://www.ddletb.ie/wp-content/uploads/2026/05/Admissions-Policy-LCSS-2026-2027.docx",
+      "label": "Prior school admissions section",
+      "via": "prior_link"
+    },
+    {
+      "url": "https://www.ddletb.ie/belmayne-community-special-school/",
+      "label": "School homepage",
+      "via": "home"
+    }
+  ],
+  "elapsed_seconds": 150.25,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:40:42+0000"
+}

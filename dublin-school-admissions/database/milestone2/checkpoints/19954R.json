@@ -1,0 +1,93 @@
+{
+  "roll": "19954R",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.northbayetns.com/enrolment",
+      "final_url": "https://www.northbayetns.com/enrolment",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://drive.google.com/file/d/19qAqNs2T7hlVIKijaUl_v4K2fUWnLNeH/view?usp=sharing",
+      "final_url": "https://drive.google.com/file/d/19qAqNs2T7hlVIKijaUl_v4K2fUWnLNeH/view?usp=sharing",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "2027-2028 Annual Admissions Notice"
+    },
+    {
+      "url": "https://www.northbayetns.com/sitemap.xml",
+      "final_url": "https://www.northbayetns.com/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.northbayetns.com/parent-teacher-association",
+      "final_url": "https://www.northbayetns.com/parent-teacher-association",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parent Association"
+    },
+    {
+      "url": "https://www.northbayetns.com/pages-sitemap.xml",
+      "final_url": "https://www.northbayetns.com/pages-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.northbayetns.com/our-policies",
+      "final_url": "https://www.northbayetns.com/our-policies",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Our Policies"
+    },
+    {
+      "url": "https://www.northbayetns.com",
+      "final_url": "https://www.northbayetns.com",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://drive.google.com/sitemap.xml",
+      "final_url": "https://drive.google.com/sitemap.xml",
+      "status": "robots_disallow",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://docs.google.com/document/d/1o_d9N7_TPfMjNovoOWu6hyy1Lqj5T9I7ZcXeWmPGWjw/edit?usp=sharing",
+      "final_url": "https://docs.google.com/document/d/1o_d9N7_TPfMjNovoOWu6hyy1Lqj5T9I7ZcXeWmPGWjw/edit?usp=sharing",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions Policy"
+    },
+    {
+      "url": "https://docs.google.com/sitemap.xml",
+      "final_url": "https://docs.google.com/sitemap.xml",
+      "status": "robots_disallow",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19954R",
+      "url": "https://www.northbayetns.com/enrolment",
+      "label": "Admissions",
+      "sha256": "8702d9b08820fa836da8414acdabf6697fd93d33e9818de9a48557d9b5ddfe6a",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19954R_8702d9b08820fa836da8.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 411
+    }
+  ],
+  "pending_links": [],
+  "elapsed_seconds": 18.16,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:09:37+0000"
+}

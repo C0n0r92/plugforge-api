@@ -1,0 +1,177 @@
+{
+  "roll": "19321B",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.johnstowngns.com/new-pupil-enrolments",
+      "final_url": "https://www.johnstowngns.com/new-pupil-enrolments",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Enrol here!"
+    },
+    {
+      "url": "https://www.johnstowngns.com/_files/ugd/1e5ea2_d8f061b58b1e434e865d3a5d655f8a66.pdf",
+      "final_url": "https://www.johnstowngns.com/_files/ugd/1e5ea2_d8f061b58b1e434e865d3a5d655f8a66.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "See the Parish Boundary here"
+    },
+    {
+      "url": "https://www.johnstowngns.com/_files/ugd/1e5ea2_64d8676a867f4f26883158409093bd18.pdf",
+      "final_url": "https://www.johnstowngns.com/_files/ugd/1e5ea2_64d8676a867f4f26883158409093bd18.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "ADMISSION POLICY"
+    },
+    {
+      "url": "https://www.johnstowngns.com/sitemap.xml",
+      "final_url": "https://www.johnstowngns.com/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.johnstowngns.com/services",
+      "final_url": "https://www.johnstowngns.com/services",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents Area+"
+    },
+    {
+      "url": "https://www.johnstowngns.com/pages-sitemap.xml",
+      "final_url": "https://www.johnstowngns.com/pages-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.johnstowngns.com/new-policies",
+      "final_url": "https://www.johnstowngns.com/new-policies",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.johnstowngns.com/_files/ugd/1e5ea2_650b914939e24914ad8144a6ceaaab28.pdf",
+      "final_url": "https://www.johnstowngns.com/_files/ugd/1e5ea2_650b914939e24914ad8144a6ceaaab28.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admission Policy"
+    },
+    {
+      "url": "https://www.johnstowngns.com/member-profile_p_first-chunk-sitemap.xml",
+      "final_url": "https://www.johnstowngns.com/member-profile_p_first-chunk-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.johnstowngns.com",
+      "final_url": "https://www.johnstowngns.com",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.johnstowngns.com/_files/ugd/1e5ea2_f84e66903383496abf98bf6f6edfb036.pdf",
+      "final_url": "https://www.johnstowngns.com/_files/ugd/1e5ea2_f84e66903383496abf98bf6f6edfb036.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parent-Teacher Communication Policy"
+    },
+    {
+      "url": "https://www.johnstowngns.com/_files/ugd/1e5ea2_f4544257d9254187b7fe7efa11827ad9.pdf",
+      "final_url": "https://www.johnstowngns.com/_files/ugd/1e5ea2_f4544257d9254187b7fe7efa11827ad9.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Head Lice Policy"
+    },
+    {
+      "url": "https://www.johnstowngns.com/_files/ugd/1e5ea2_f2827ea9f8b3408385dd174bb9404cce.pdf",
+      "final_url": "https://www.johnstowngns.com/_files/ugd/1e5ea2_f2827ea9f8b3408385dd174bb9404cce.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Substance Abuse Policy"
+    },
+    {
+      "url": "https://www.johnstowngns.com/_files/ugd/1e5ea2_d6610f739c4640df937581799f2894f3.pdf",
+      "final_url": "https://www.johnstowngns.com/_files/ugd/1e5ea2_d6610f739c4640df937581799f2894f3.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Homework Policy (Under review)"
+    },
+    {
+      "url": "https://www.johnstowngns.com/_files/ugd/1e5ea2_c42ed9aab880493baf3616cce0c146f3.pdf",
+      "final_url": "https://www.johnstowngns.com/_files/ugd/1e5ea2_c42ed9aab880493baf3616cce0c146f3.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Educational Technology Usage Policy (AUP)"
+    },
+    {
+      "url": "https://www.johnstowngns.com/_files/ugd/1e5ea2_a9b14cd2ba3e44f8a7815a6de418aa66.pdf",
+      "final_url": "https://www.johnstowngns.com/_files/ugd/1e5ea2_a9b14cd2ba3e44f8a7815a6de418aa66.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Whistleblowing (Protected Disclosures in the Workplace) Policy"
+    },
+    {
+      "url": "https://www.johnstowngns.com/_files/ugd/1e5ea2_a04b3a9aa9ae4fa9be55cb4d9a5bd856.pdf",
+      "final_url": "https://www.johnstowngns.com/_files/ugd/1e5ea2_a04b3a9aa9ae4fa9be55cb4d9a5bd856.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Healthy Living Policy"
+    },
+    {
+      "url": "https://www.johnstowngns.com/_files/ugd/1e5ea2_864ce1881b1a4000a93af7d9db593ed9.pdf",
+      "final_url": "https://www.johnstowngns.com/_files/ugd/1e5ea2_864ce1881b1a4000a93af7d9db593ed9.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Bí Cineálta Policy"
+    },
+    {
+      "url": "https://www.johnstowngns.com/_files/ugd/1e5ea2_5ad6094996264f0686bed971c541a784.pdf",
+      "final_url": "https://www.johnstowngns.com/_files/ugd/1e5ea2_5ad6094996264f0686bed971c541a784.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Child Safeguarding Statement & Risk Assessment Policy"
+    },
+    {
+      "url": "https://www.johnstowngns.com/_files/ugd/1e5ea2_4beac925073048b8b2c52bacaa6758d0.pdf",
+      "final_url": "https://www.johnstowngns.com/_files/ugd/1e5ea2_4beac925073048b8b2c52bacaa6758d0.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Attendance & Absence Policy"
+    },
+    {
+      "url": "https://www.johnstowngns.com/_files/ugd/1e5ea2_44f2d0114f4747f8a43f5b691888657f.pdf",
+      "final_url": "https://www.johnstowngns.com/_files/ugd/1e5ea2_44f2d0114f4747f8a43f5b691888657f.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "CCTV & Data Management Policy"
+    },
+    {
+      "url": "https://www.johnstowngns.com/_files/ugd/1e5ea2_2cb28b46961b436d934d3bc77afcb3ec.pdf",
+      "final_url": "https://www.johnstowngns.com/_files/ugd/1e5ea2_2cb28b46961b436d934d3bc77afcb3ec.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Health & Safety Policy"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19321B",
+      "url": "https://www.johnstowngns.com/new-pupil-enrolments",
+      "label": "Enrol here!",
+      "sha256": "9e085aeb5f37339666cf21d7bfe7e18e4d56e0a87c151d0e3727f258bd4a82e9",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19321B_9e085aeb5f37339666cf.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 439
+    }
+  ],
+  "pending_links": [],
+  "elapsed_seconds": 61.36,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:55:15+0000"
+}

@@ -1,0 +1,210 @@
+{
+  "roll": "20453C",
+  "attempted_at": "2026-11-08T13:07:13+0000",
+  "method": "documented_public_WordPress_media_notice_and_Irish_title_gap_search",
+  "attempts": [
+    {
+      "url": "https://broombridgeetns.ie/wp-json/wp/v2/media?search=notice&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok"
+    },
+    {
+      "url": "https://broombridgeetns.ie/wp-json/wp/v2/media?search=f%C3%B3gra&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok"
+    },
+    {
+      "url": "https://broombridgeetns.ie/wp-content/uploads/2020/09/Annual-Admission-Notice.pdf",
+      "status": "ok",
+      "label": "Annual Admission Notice"
+    },
+    {
+      "url": "https://broombridgeetns.ie/wp-content/uploads/2020/09/Annual-Admission-Notice-1.pdf",
+      "status": "ok",
+      "label": "Annual-Admission-Notice-1"
+    },
+    {
+      "url": "https://broombridgeetns.ie/wp-content/uploads/2021/02/Broombridge-ETNS-2021-2022-annual-admissions-notice.pdf",
+      "status": "ok",
+      "label": "Broombridge-ETNS-2021-2022-annual-admissions-notice"
+    },
+    {
+      "url": "https://broombridgeetns.ie/wp-content/uploads/2021/10/Broombridge-ETNS-Annual-Admissions-Notice-2022-2023.pdf",
+      "status": "ok",
+      "label": "Broombridge-ETNS-Annual-Admissions-Notice-2022-2023"
+    },
+    {
+      "url": "https://broombridgeetns.ie/wp-content/uploads/2021/10/Broombridge-ETNS-Annual-Admissions-Notice-2022-2023-1.pdf",
+      "status": "ok",
+      "label": "Broombridge-ETNS-Annual-Admissions-Notice-2022-2023-1"
+    },
+    {
+      "url": "https://broombridgeetns.ie/wp-content/uploads/2021/10/Broombridge-ETNS-Annual-Admissions-Notice-2022-2023-2.pdf",
+      "status": "ok",
+      "label": "Broombridge-ETNS-Annual-Admissions-Notice-2022-2023-2"
+    },
+    {
+      "url": "https://broombridgeetns.ie/wp-content/uploads/2022/10/Broombridge-ETNS-Annual-Admissions-Notice-2023-2024.pdf",
+      "status": "ok",
+      "label": "Broombridge-ETNS-Annual-Admissions-Notice-2023-2024"
+    },
+    {
+      "url": "https://broombridgeetns.ie/wp-content/uploads/2023/10/Broombridge-ETNS-Annual-Admissions-Notice-2024-2025-1.pdf",
+      "status": "ok",
+      "label": "Broombridge-ETNS-Annual-Admissions-Notice-2024-2025-1"
+    },
+    {
+      "url": "https://broombridgeetns.ie/wp-content/uploads/2023/10/Broombridge-ETNS-Annual-Admissions-Notice-2024-2025.docx.pdf",
+      "status": "ok",
+      "label": "Broombridge-ETNS-Annual-Admissions-Notice-2024-2025.docx"
+    },
+    {
+      "url": "https://broombridgeetns.ie/wp-content/uploads/2023/10/Broombridge-ETNS-Annual-Admissions-Notice-2024-2025.docx-1.pdf",
+      "status": "ok",
+      "label": "Broombridge-ETNS-Annual-Admissions-Notice-2024-2025.docx-1"
+    },
+    {
+      "url": "https://broombridgeetns.ie/wp-content/uploads/2024/10/Broombridge-ETNS-Admissions-Notice-2024.2025.docx.pdf",
+      "status": "ok",
+      "label": "Broombridge ETNS Admissions Notice 2024.2025.docx"
+    },
+    {
+      "url": "https://broombridgeetns.ie/wp-content/uploads/2024/10/Broombridge-ETNS-Admissions-Notice-2024.2025.docx-1.pdf",
+      "status": "ok",
+      "label": "Broombridge ETNS Admissions Notice 2024.2025.docx"
+    },
+    {
+      "url": "https://broombridgeetns.ie/wp-content/uploads/2024/10/Broombridge-ETNS-Admissions-Notice-2025.2026.docx.pdf",
+      "status": "ok",
+      "label": "Broombridge ETNS Admissions Notice 2025.2026.docx"
+    },
+    {
+      "url": "https://broombridgeetns.ie/wp-content/uploads/2024/10/Broombridge-ETNS-Admissions-Notice-2025.2026.docx-1.pdf",
+      "status": "ok",
+      "label": "Broombridge-ETNS-Admissions-Notice-2025.2026.docx"
+    },
+    {
+      "url": "https://broombridgeetns.ie/wp-content/uploads/2025/10/Annual-Admission-Notice-2026.27.pdf",
+      "status": "ok",
+      "label": "Annual Admission Notice 2026.27"
+    },
+    {
+      "url": "https://broombridgeetns.ie/wp-content/uploads/2025/10/Annual-Admission-Notice-2026.27-1.pdf",
+      "status": "ok",
+      "label": "Annual Admission Notice 2026.27"
+    },
+    {
+      "url": "https://broombridgeetns.ie/wp-content/uploads/2026/10/Annual-Admissions-Notice-2027.2028-1.pdf",
+      "status": "ok",
+      "label": "Annual Admissions Notice 2027.2028"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "20453C",
+      "url": "https://broombridgeetns.ie/wp-content/uploads/2020/09/Annual-Admission-Notice.pdf",
+      "label": "Annual Admission Notice",
+      "sha256": "939b4fe56f9b802c4d6860c0cfc099f3bff7f2ac45b98b12406c12aca6b85b65",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20453C_939b4fe56f9b802c4d68.txt",
+      "source_file": "database/milestone2/cache/939b4fe56f9b802c4d6860c0cfc099f3bff7f2ac45b98b12406c12aca6b85b65.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 8695,
+      "discovery_method": "documented_WP_notice_or_Irish_title_media_query",
+      "cms_media_date_as_printed_not_publication": "2020-09-01T16:30:59"
+    },
+    {
+      "roll": "20453C",
+      "url": "https://broombridgeetns.ie/wp-content/uploads/2021/02/Broombridge-ETNS-2021-2022-annual-admissions-notice.pdf",
+      "label": "Broombridge-ETNS-2021-2022-annual-admissions-notice",
+      "sha256": "0f401e1322c2122b934f009fb37dd171ede9a8c719e6219aa4ed2fce698b81dc",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20453C_0f401e1322c2122b934f.txt",
+      "source_file": "database/milestone2/cache/0f401e1322c2122b934f009fb37dd171ede9a8c719e6219aa4ed2fce698b81dc.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 6978,
+      "discovery_method": "documented_WP_notice_or_Irish_title_media_query",
+      "cms_media_date_as_printed_not_publication": "2021-02-15T21:02:05"
+    },
+    {
+      "roll": "20453C",
+      "url": "https://broombridgeetns.ie/wp-content/uploads/2021/10/Broombridge-ETNS-Annual-Admissions-Notice-2022-2023.pdf",
+      "label": "Broombridge-ETNS-Annual-Admissions-Notice-2022-2023",
+      "sha256": "a4a341252ec4f145e3dda381911480c6144ba0ee9d190efc1d93a7572397e466",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20453C_a4a341252ec4f145e3dd.txt",
+      "source_file": "database/milestone2/cache/a4a341252ec4f145e3dda381911480c6144ba0ee9d190efc1d93a7572397e466.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 6985,
+      "discovery_method": "documented_WP_notice_or_Irish_title_media_query",
+      "cms_media_date_as_printed_not_publication": "2021-10-08T13:03:22"
+    },
+    {
+      "roll": "20453C",
+      "url": "https://broombridgeetns.ie/wp-content/uploads/2022/10/Broombridge-ETNS-Annual-Admissions-Notice-2023-2024.pdf",
+      "label": "Broombridge-ETNS-Annual-Admissions-Notice-2023-2024",
+      "sha256": "f53c4af8d00a39fb8de3544843b860ce52ecab5ff52d1557e7909a4440212341",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20453C_f53c4af8d00a39fb8de3.txt",
+      "source_file": "database/milestone2/cache/f53c4af8d00a39fb8de3544843b860ce52ecab5ff52d1557e7909a4440212341.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 6986,
+      "discovery_method": "documented_WP_notice_or_Irish_title_media_query",
+      "cms_media_date_as_printed_not_publication": "2022-10-18T11:09:15"
+    },
+    {
+      "roll": "20453C",
+      "url": "https://broombridgeetns.ie/wp-content/uploads/2023/10/Broombridge-ETNS-Annual-Admissions-Notice-2024-2025-1.pdf",
+      "label": "Broombridge-ETNS-Annual-Admissions-Notice-2024-2025-1",
+      "sha256": "c7b6cf3b4ec8f3ca5f1ca67eb1675d82f2323570018e0a6020663de5d43fd24c",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20453C_c7b6cf3b4ec8f3ca5f1c.txt",
+      "source_file": "database/milestone2/cache/c7b6cf3b4ec8f3ca5f1ca67eb1675d82f2323570018e0a6020663de5d43fd24c.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 6986,
+      "discovery_method": "documented_WP_notice_or_Irish_title_media_query",
+      "cms_media_date_as_printed_not_publication": "2023-10-02T19:33:44"
+    },
+    {
+      "roll": "20453C",
+      "url": "https://broombridgeetns.ie/wp-content/uploads/2023/10/Broombridge-ETNS-Annual-Admissions-Notice-2024-2025.docx.pdf",
+      "label": "Broombridge-ETNS-Annual-Admissions-Notice-2024-2025.docx",
+      "sha256": "c83245d6eec1d1c18a387e36108fb3fc3d2fbdaeeeda5efe3c9cb9c014dd7835",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20453C_c83245d6eec1d1c18a38.txt",
+      "source_file": "database/milestone2/cache/c83245d6eec1d1c18a387e36108fb3fc3d2fbdaeeeda5efe3c9cb9c014dd7835.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 6906,
+      "discovery_method": "documented_WP_notice_or_Irish_title_media_query",
+      "cms_media_date_as_printed_not_publication": "2023-10-06T10:41:50"
+    },
+    {
+      "roll": "20453C",
+      "url": "https://broombridgeetns.ie/wp-content/uploads/2024/10/Broombridge-ETNS-Admissions-Notice-2024.2025.docx.pdf",
+      "label": "Broombridge ETNS Admissions Notice 2024.2025.docx",
+      "sha256": "40dddfc781cd1b5963e984a80ef7c0e6c84198a8a207035818c58c7d1da84501",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20453C_40dddfc781cd1b5963e9.txt",
+      "source_file": "database/milestone2/cache/40dddfc781cd1b5963e984a80ef7c0e6c84198a8a207035818c58c7d1da84501.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 6898,
+      "discovery_method": "documented_WP_notice_or_Irish_title_media_query",
+      "cms_media_date_as_printed_not_publication": "2024-10-05T06:50:17"
+    },
+    {
+      "roll": "20453C",
+      "url": "https://broombridgeetns.ie/wp-content/uploads/2025/10/Annual-Admission-Notice-2026.27.pdf",
+      "label": "Annual Admission Notice 2026.27",
+      "sha256": "8f906c57028dc60ac4cef4fbe53f4760064801a05b49333467de8e6290c393d0",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20453C_8f906c57028dc60ac4ce.txt",
+      "source_file": "database/milestone2/cache/8f906c57028dc60ac4cef4fbe53f4760064801a05b49333467de8e6290c393d0.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 9427,
+      "discovery_method": "documented_WP_notice_or_Irish_title_media_query",
+      "cms_media_date_as_printed_not_publication": "2025-10-06T13:54:00"
+    }
+  ],
+  "pending_links": [],
+  "earliest_year_cutoff": null,
+  "status": "attempted_new_historical_notice_candidates",
+  "elapsed_seconds": 64.5
+}

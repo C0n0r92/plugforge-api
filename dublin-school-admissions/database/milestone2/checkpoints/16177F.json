@@ -1,0 +1,142 @@
+{
+  "roll": "16177F",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.lrns.ie/admissions",
+      "final_url": "https://www.lrns.ie/admissions",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://www.lrns.ie/for-parents/lrns-community-events",
+      "final_url": "https://www.lrns.ie/for-parents/lrns-community-events",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Annual Events"
+    },
+    {
+      "url": "https://www.lrns.ie/sitemap.xml",
+      "final_url": "https://www.lrns.ie/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.lrns.ie/for-parents/pupil-insurance-claim-form",
+      "final_url": "https://www.lrns.ie/for-parents/pupil-insurance-claim-form",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Pupil Insurance Claim Form"
+    },
+    {
+      "url": "https://www.lrns.ie/for-parents/parental-complaints-procedure",
+      "final_url": "https://www.lrns.ie/for-parents/parental-complaints-procedure",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parental Complaints Procedure"
+    },
+    {
+      "url": "https://www.lrns.ie/for-parents/pa-smartphone-pact",
+      "final_url": "https://www.lrns.ie/for-parents/pa-smartphone-pact",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "PA Smartphone Pact"
+    },
+    {
+      "url": "https://www.lrns.ie/for-parents/p-a",
+      "final_url": "https://www.lrns.ie/for-parents/p-a",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "PA/News Letters"
+    },
+    {
+      "url": "https://www.lrns.ie/for-parents/hse-leaflet-about-headlice",
+      "final_url": "https://www.lrns.ie/for-parents/hse-leaflet-about-headlice",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "HSE leaflet about headlice"
+    },
+    {
+      "url": "https://www.lrns.ie/for-parents/cy-forms",
+      "final_url": "https://www.lrns.ie/for-parents/cy-forms",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "CY Forms"
+    },
+    {
+      "url": "https://www.lrns.ie/for-parents/code-of-behaviour",
+      "final_url": "https://www.lrns.ie/for-parents/code-of-behaviour",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Code of Behaviour"
+    },
+    {
+      "url": "https://www.lrns.ie/for-parents/calendar",
+      "final_url": "https://www.lrns.ie/for-parents/calendar",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Calendar"
+    },
+    {
+      "url": "https://www.lrns.ie/for-parents/booklists",
+      "final_url": "https://www.lrns.ie/for-parents/booklists",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Stationery List"
+    },
+    {
+      "url": "https://www.lrns.ie/for-parents",
+      "final_url": "https://www.lrns.ie/for-parents",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents"
+    },
+    {
+      "url": "https://www.lrns.ie/about-us/new-page",
+      "final_url": "https://www.lrns.ie/about-us/new-page",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.lrns.ie",
+      "final_url": "https://www.lrns.ie",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://drive.google.com/file/d/1UAbxwJI7-e0YPv-U2iTi9z48Qy3usevy/view?usp=share_link",
+      "final_url": "https://drive.google.com/file/d/1UAbxwJI7-e0YPv-U2iTi9z48Qy3usevy/view?usp=share_link",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admission Policy"
+    },
+    {
+      "url": "https://drive.google.com/sitemap.xml",
+      "final_url": "https://drive.google.com/sitemap.xml",
+      "status": "robots_disallow",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "16177F",
+      "url": "https://www.lrns.ie/admissions",
+      "label": "Admissions",
+      "sha256": "83827b37140ff4141585024b2667ca05e27401a375d28b225f945b9973552625",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/16177F_83827b37140ff4141585.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 652
+    }
+  ],
+  "pending_links": [],
+  "elapsed_seconds": 43.44,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:02:01+0000"
+}

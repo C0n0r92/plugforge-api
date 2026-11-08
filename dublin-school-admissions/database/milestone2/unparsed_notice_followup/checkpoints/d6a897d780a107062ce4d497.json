@@ -1,0 +1,36 @@
+{
+  "roll": "20384J",
+  "url": "https://www.powerstownet.com/wp-content/uploads/2022/09/St-Vincents-Castleknock-College-Admissions-2023-Notice.pdf",
+  "prior_sha256": "cbe0cc64b3730e24850da32f406d3b218d95a307b8fba21e4984c6050fe7513c",
+  "prior_status": "ok",
+  "prior_attempted_at": "2026-11-08T12:58:41+0000",
+  "started_at": "2026-11-08T13:29:46+0000",
+  "method": "recheck_prior_success_unparsed_notice_with_actual_OCR_if_needed",
+  "documents": [
+    {
+      "roll": "20384J",
+      "url": "https://www.powerstownet.com/wp-content/uploads/2022/09/St-Vincents-Castleknock-College-Admissions-2023-Notice.pdf",
+      "sha256": "cbe0cc64b3730e24850da32f406d3b218d95a307b8fba21e4984c6050fe7513c",
+      "format": "pdf",
+      "source_file": "database/milestone2/unparsed_notice_followup/cache/cbe0cc64b3730e24850da32f406d3b218d95a307b8fba21e4984c6050fe7513c.pdf",
+      "text_file": "database/milestone2/unparsed_notice_followup/evidence/20384J_cbe0cc64b3730e24850d.txt",
+      "candidate_status": "actual_body_requires_manual_review",
+      "ocr": false,
+      "retrieved_at": "2026-11-08T13:29:47+0000"
+    }
+  ],
+  "attempts": [
+    {
+      "url": "https://www.powerstownet.com/wp-content/uploads/2022/09/St-Vincents-Castleknock-College-Admissions-2023-Notice.pdf",
+      "final_url": "https://www.powerstownet.com/wp-content/uploads/2022/09/St-Vincents-Castleknock-College-Admissions-2023-Notice.pdf",
+      "status": "ok"
+    }
+  ],
+  "status": "body_retrieved_requires_manual_review",
+  "sha256": "cbe0cc64b3730e24850da32f406d3b218d95a307b8fba21e4984c6050fe7513c",
+  "same_payload_as_prior_success": true,
+  "format": "pdf",
+  "parse_stderr": "",
+  "text_length": 861,
+  "elapsed_seconds": 1.27
+}

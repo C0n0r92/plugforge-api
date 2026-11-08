@@ -1,0 +1,274 @@
+{
+  "roll": "20401G",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.stepasideetns.ie/page/Admissions/33551/Index.html",
+      "final_url": "https://www.stepasideetns.ie/page/Admissions/33551/Index.html",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://storage.googleapis.com/iclasscrm_files/6069/Images/Content/2026/267/ao50-Admissions_Notice_20272028_School_Year.pdf",
+      "final_url": "https://storage.googleapis.com/iclasscrm_files/6069/Images/Content/2026/267/ao50-Admissions_Notice_20272028_School_Year.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions Notice"
+    },
+    {
+      "url": "https://www.stepasideetns.ie/Content/2024/6/qw68-Admissions__Admissions_School_Area_Planning_Map.pdf?818",
+      "final_url": "https://www.stepasideetns.ie/Content/2024/6/qw68-Admissions__Admissions_School_Area_Planning_Map.pdf?818",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "here"
+    },
+    {
+      "url": "http://www.stepasideetns.ie/Content/2024/6/qw68-Admissions__Admissions_School_Area_Planning_Map.pdf?818",
+      "final_url": "http://www.stepasideetns.ie/Content/2024/6/qw68-Admissions__Admissions_School_Area_Planning_Map.pdf?818",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "School Area Planning Map"
+    },
+    {
+      "url": "https://www.stepasideetns.ie/Page/Admissions/33551/Index.html",
+      "final_url": "https://www.stepasideetns.ie/Page/Admissions/33551/Index.html",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://www.stepasideetns.ie/Admissions/Index.html",
+      "final_url": "https://www.stepasideetns.ie/Admissions/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://www.stepasideetns.ie/Content/2025/1/na50-CodeofBehaviour_2022_23.docx.pdf",
+      "final_url": "https://www.stepasideetns.ie/Content/2025/1/na50-CodeofBehaviour_2022_23.docx.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Code of Behaviour"
+    },
+    {
+      "url": "https://www.stepasideetns.ie/Content/2025/9/yp95-Admission_Policy_Updated_Sept_2025_Stepaside_ETNS.pdf",
+      "final_url": "https://www.stepasideetns.ie/Content/2025/9/yp95-Admission_Policy_Updated_Sept_2025_Stepaside_ETNS.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "here"
+    },
+    {
+      "url": "https://www.stepasideetns.ie/Content/2025/10/jn35-Admission_Policy_Updated_Sept_2025_Stepaside_ETNS.pdf",
+      "final_url": "https://www.stepasideetns.ie/Content/2025/10/jn35-Admission_Policy_Updated_Sept_2025_Stepaside_ETNS.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions Policy"
+    },
+    {
+      "url": "https://storage.googleapis.com/iclasscrm_files/6069/Content/2026/4/fq26-20262027_SETNS_School_Calendar.pdf?7930",
+      "final_url": "https://storage.googleapis.com/iclasscrm_files/6069/Content/2026/4/fq26-20262027_SETNS_School_Calendar.pdf?7930",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Calendar 2026-2027"
+    },
+    {
+      "url": "https://www.stepasideetns.ie/sitemap.xml",
+      "final_url": "https://www.stepasideetns.ie/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.stepasideetns.ie/page/Policies/32588/Index.html",
+      "final_url": "https://www.stepasideetns.ie/page/Policies/32588/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://storage.googleapis.com/iclasscrm_files/6069/Images/Content/2026/267/dm14-Admissions_Notice_20272028_School_Year.pdf",
+      "final_url": "https://storage.googleapis.com/iclasscrm_files/6069/Images/Content/2026/267/dm14-Admissions_Notice_20272028_School_Year.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions Notice 2027/2028"
+    },
+    {
+      "url": "https://www.stepasideetns.ie/Content/2025/9/dm14-Admission_Policy_Updated_Sept_2025_Stepaside_ETNS.pdf",
+      "final_url": "https://www.stepasideetns.ie/Content/2025/9/dm14-Admission_Policy_Updated_Sept_2025_Stepaside_ETNS.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions Policy"
+    },
+    {
+      "url": "https://www.stepasideetns.ie/Content/2024/6/np55-Policies__SETNSPACConstitution2.11.2019.pdf?1566",
+      "final_url": "https://www.stepasideetns.ie/Content/2024/6/np55-Policies__SETNSPACConstitution2.11.2019.pdf?1566",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "PAC Constitution Policy"
+    },
+    {
+      "url": "https://www.stepasideetns.ie/Policies/Index.html",
+      "final_url": "https://www.stepasideetns.ie/Policies/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.stepasideetns.ie/Parents/Index.html",
+      "final_url": "https://www.stepasideetns.ie/Parents/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents"
+    },
+    {
+      "url": "https://www.stepasideetns.ie/Page/Policies/32588/Index.html",
+      "final_url": "https://www.stepasideetns.ie/Page/Policies/32588/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.stepasideetns.ie",
+      "final_url": "https://www.stepasideetns.ie",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.stepasideetns.ie/Content/2025/1/bd10-CodeofBehaviour_2022_23.docx.pdf",
+      "final_url": "https://www.stepasideetns.ie/Content/2025/1/bd10-CodeofBehaviour_2022_23.docx.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Code of Behaviour Policy"
+    },
+    {
+      "url": "https://www.stepasideetns.ie/Content/2024/6/lx48-Policies__Arrival__Dismissal_Of_Pupils_2023.pdf?22708",
+      "final_url": "https://www.stepasideetns.ie/Content/2024/6/lx48-Policies__Arrival__Dismissal_Of_Pupils_2023.pdf?22708",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Arrival/Dismissal of Pupils Policy"
+    },
+    {
+      "url": "https://www.stepasideetns.ie/Content/2025/5/ka30-Communication_Policy_2024_25.pdf",
+      "final_url": "https://www.stepasideetns.ie/Content/2025/5/ka30-Communication_Policy_2024_25.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "2024/2025 Communications Policy"
+    },
+    {
+      "url": "https://www.stepasideetns.ie/Content/2024/6/zr96-Policies__Work_Experience_TY_policy.pdf?2860",
+      "final_url": "https://www.stepasideetns.ie/Content/2024/6/zr96-Policies__Work_Experience_TY_policy.pdf?2860",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Work Experience TY Policy"
+    },
+    {
+      "url": "https://www.stepasideetns.ie/Content/2024/6/zk93-Policies__Acceleration_or_retention_of_pupils_2024.pdf?29640",
+      "final_url": "https://www.stepasideetns.ie/Content/2024/6/zk93-Policies__Acceleration_or_retention_of_pupils_2024.pdf?29640",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Acceleration or Retentions of Pupils Policy 2024"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "20401G",
+      "url": "https://www.stepasideetns.ie/page/Admissions/33551/Index.html",
+      "label": "Prior school admissions section",
+      "sha256": "067ab544c8067ae3c36c05276eb523f6cd3b8b53b0af0fc38bd37c187a4bba84",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20401G_067ab544c8067ae3c36c.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1287
+    },
+    {
+      "roll": "20401G",
+      "url": "https://www.stepasideetns.ie/Page/Admissions/33551/Index.html",
+      "label": "Prior school admissions section",
+      "sha256": "be17b919bb667b0a6c3bbafed6ff16736ac8d10b6c84bf534a651c7075de42d0",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20401G_be17b919bb667b0a6c3b.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1287
+    },
+    {
+      "roll": "20401G",
+      "url": "https://www.stepasideetns.ie/Content/2025/9/yp95-Admission_Policy_Updated_Sept_2025_Stepaside_ETNS.pdf",
+      "label": "here",
+      "sha256": "b871f7ff153cc3b0742030dc9f7251aba26b3e59c2c03977b4dba9df5e1deee4",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20401G_b871f7ff153cc3b07420.txt",
+      "source_file": "database/milestone2/cache/b871f7ff153cc3b0742030dc9f7251aba26b3e59c2c03977b4dba9df5e1deee4.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 28370
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.stepasideetns.ie/Content/2024/6/wd81-Policies__2024_Custody_Access_Separation_Policy_.pdf?16302",
+      "label": "Custody and Access Separation Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stepasideetns.ie/Content/2024/6/tq76-Policies__2024_2025ContractforHireandUseofSchoolPremisesPolicyinStepasideEducateTogetherNS_1.pdf?18450",
+      "label": "Contract for Hire and Use of School Premises Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stepasideetns.ie/Content/2024/6/tj73-Policies__Homework_Policy.pdf?840",
+      "label": "Homework Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stepasideetns.ie/Content/2024/6/pw58-Policies__School_Area_Planning_Map.pdf?14336",
+      "label": "School Area Planning Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stepasideetns.ie/Content/2024/6/pc51-Policies__2024_Attendance_Policy_.pdf?42630",
+      "label": "Attendance Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stepasideetns.ie/Content/2024/6/mo45-Policies__AntiBullyingPolicy.pdf?621",
+      "label": "Antibullying Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stepasideetns.ie/Content/2024/6/ha20-Policies__2024_2025_Hire_and_Use_of_School_Premises_Policy_in_SETNS.pdf?5936",
+      "label": "Hire and use of School Premises Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stepasideetns.ie/Content/2024/6/fj23-Policies__Swimming_Policy.pdf?10674",
+      "label": "Swimming Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stepasideetns.ie/Content/2024/6/ea10-Policies_GardaVettingProceduresandpolicyforSETNS.pdf?16902",
+      "label": "Garda Vetting Procedures Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stepasideetns.ie/Content/2025/9/um74-Internet_Acceptable_Use_Policy_2025_.pdf",
+      "label": "Internet Acceptable Use Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stepasideetns.ie/Content/2025/11/rc60-2025_Mobile_Phone_Electronic_Device_Policy.pdf",
+      "label": "2025",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stepasideetns.ie/Content/2025/11/nf52-_2025_Administration_of_Medicines_Policy_.pdf",
+      "label": "Administration of Medicines Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 77.89,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:48:28+0000"
+}

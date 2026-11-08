@@ -1,0 +1,20 @@
+{
+  "roll": "20043G",
+  "capture": {
+    "timestamp": "20241213191149",
+    "original": "http://gaelscoilchnocliamhna.ie/wp-content/uploads/2024/11/Fogra-maidir-le-hathbhreithniu-an-Udarais-Bainistiochta-ar-an-Raiteas-um-Chumhdach-Leanai-24-25.pdf",
+    "mimetype": "application/pdf",
+    "statuscode": "200",
+    "digest": "3N5XDT4RTPHQJ6BMOHIQMH2D25ESHC3V"
+  },
+  "original_url": "http://gaelscoilchnocliamhna.ie/wp-content/uploads/2024/11/Fogra-maidir-le-hathbhreithniu-an-Udarais-Bainistiochta-ar-an-Raiteas-um-Chumhdach-Leanai-24-25.pdf",
+  "archived_url": "https://web.archive.org/web/20241213191149/http://gaelscoilchnocliamhna.ie/wp-content/uploads/2024/11/Fogra-maidir-le-hathbhreithniu-an-Udarais-Bainistiochta-ar-an-Raiteas-um-Chumhdach-Leanai-24-25.pdf",
+  "attempted_at": "2026-11-08T12:56:36.191225+00:00",
+  "linked_from_capture": null,
+  "http_status": 404,
+  "headers": {
+    "Content-Type": "text/html"
+  },
+  "bytes": 4791,
+  "status": "replay_http_404_or_missing_capture_header"
+}

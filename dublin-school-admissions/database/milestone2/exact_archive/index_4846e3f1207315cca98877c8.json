@@ -1,0 +1,93 @@
+{
+  "roll": "00714P",
+  "original_url": "https://www.stmarysbnslucan.com/page/Admissions/355589/Index.html",
+  "method": "documented_CDX_exact_URL_all_available_dates",
+  "attempted_at": "2026-11-08T13:23:45.909039+00:00",
+  "params": {
+    "url": "https://www.stmarysbnslucan.com/page/Admissions/355589/Index.html",
+    "matchType": "exact",
+    "output": "json",
+    "fl": "timestamp,original,mimetype,statuscode,digest",
+    "filter": "statuscode:200",
+    "collapse": "digest",
+    "limit": "200",
+    "showResumeKey": "true"
+  },
+  "earliest_year_cutoff": null,
+  "captures": [
+    {
+      "timestamp": "20251108063120",
+      "original": "https://stmarysbnslucan.com/page/Admissions/355589/Index.html",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "6RDB7BTFE42RSP74CDCX5EVUGBEPAU7Z"
+    },
+    {
+      "timestamp": "20251110010816",
+      "original": "https://www.stmarysbnslucan.com/page/Admissions/355589/Index.html",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "2H4XHGPEQWZ6WBVX3MKMWL4YBVUJXG3I"
+    },
+    {
+      "timestamp": "20251207092203",
+      "original": "https://stmarysbnslucan.com/Page/Admissions/355589/Index.html",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "35XCKQZ3GWA3PE4QVV6ML4YNRB24VNAG"
+    },
+    {
+      "timestamp": "20251211031056",
+      "original": "https://www.stmarysbnslucan.com/Page/Admissions/355589/Index.html",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "6NIVLOKZOMXZVYWDE2KLJQZE4MYZBEXA"
+    },
+    {
+      "timestamp": "20260124052432",
+      "original": "https://stmarysbnslucan.com/page/Admissions/355589/Index.html",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "ML7C4U5SCRXSS4VZX7XRNLTHLS7R4BZX"
+    },
+    {
+      "timestamp": "20260217235502",
+      "original": "https://www.stmarysbnslucan.com/page/Admissions/355589/Index.html",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "5FBYBE2U4W5AKI7SYSWNE7Q3GHVORIHT"
+    },
+    {
+      "timestamp": "20260514194512",
+      "original": "https://www.stmarysbnslucan.com/Page/Admissions/355589/Index.html",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "Z5U63BQW2VB5Y7UCVKPWXVI6CFY7CLNI"
+    },
+    {
+      "timestamp": "20260613181041",
+      "original": "https://www.stmarysbnslucan.com/Page/Admissions/355589/Index.html",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "NWVWFFAOATYWAUJDIWKHV6DCW5MK52XU"
+    }
+  ],
+  "pages": [
+    {
+      "at": "2026-11-08T13:23:54.215706+00:00",
+      "http_status": 200,
+      "params": {
+        "url": "https://www.stmarysbnslucan.com/page/Admissions/355589/Index.html",
+        "matchType": "exact",
+        "output": "json",
+        "fl": "timestamp,original,mimetype,statuscode,digest",
+        "filter": "statuscode:200",
+        "collapse": "digest",
+        "limit": "200",
+        "showResumeKey": "true"
+      }
+    }
+  ],
+  "status": "index_complete",
+  "capture_count": 8
+}

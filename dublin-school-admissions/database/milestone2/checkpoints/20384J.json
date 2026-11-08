@@ -1,0 +1,379 @@
+{
+  "roll": "20384J",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.powerstownet.com/wp-content/uploads/2020/10/whatsapp-infographic.png",
+      "final_url": "https://www.powerstownet.com/wp-content/uploads/2020/10/whatsapp-infographic.png",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "whatsapp infographic"
+    },
+    {
+      "url": "https://www.powerstownet.com/autism-class-admission-notice/",
+      "final_url": "https://www.powerstownet.com/autism-class-admission-notice/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Autism Class Admissions"
+    },
+    {
+      "url": "https://www.powerstownet.com/wp-content/uploads/2025/09/SI-6th-class-admission-2026.png",
+      "final_url": "https://www.powerstownet.com/wp-content/uploads/2025/09/SI-6th-class-admission-2026.png",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "SI-6th class admission 2026"
+    },
+    {
+      "url": "https://www.powerstownet.com/wp-content/uploads/2025/09/SI-6th-class-admission-2026-1.png",
+      "final_url": "https://www.powerstownet.com/wp-content/uploads/2025/09/SI-6th-class-admission-2026-1.png",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "SI-6th class admission 2026"
+    },
+    {
+      "url": "https://www.powerstownet.com/wp-content/uploads/2025/09/Insta-mainstream-admission-1.png",
+      "final_url": "https://www.powerstownet.com/wp-content/uploads/2025/09/Insta-mainstream-admission-1.png",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Insta mainstream admission (1)"
+    },
+    {
+      "url": "https://www.powerstownet.com/wp-content/uploads/2026/09/Insta-mainstream-admission-2027.png",
+      "final_url": "https://www.powerstownet.com/wp-content/uploads/2026/09/Insta-mainstream-admission-2027.png",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Insta mainstream admission 2027"
+    },
+    {
+      "url": "https://www.powerstownet.com/wp-content/uploads/2026/09/202728-admission-dates.png",
+      "final_url": "https://www.powerstownet.com/wp-content/uploads/2026/09/202728-admission-dates.png",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "202728 admission dates"
+    },
+    {
+      "url": "https://www.powerstownet.com/wp-content/uploads/2026/05/SI-6th-class-admission-2026-1.png",
+      "final_url": "https://www.powerstownet.com/wp-content/uploads/2026/05/SI-6th-class-admission-2026-1.png",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "SI-6th class admission 2026 (1)"
+    },
+    {
+      "url": "https://www.powerstownet.com/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://www.powerstownet.com/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://www.powerstownet.com/wp-content/uploads/2020/10/BCS-Admissions-Notice-3.pdf",
+      "final_url": "https://www.powerstownet.com/wp-content/uploads/2020/10/BCS-Admissions-Notice-3.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "BCS Admissions Notice (3)"
+    },
+    {
+      "url": "https://www.powerstownet.com/wp-content/uploads/2020/09/Le-Cheile-Secondary-School-Annual-Admissions-Notice-docx.pdf",
+      "final_url": "https://www.powerstownet.com/wp-content/uploads/2020/09/Le-Cheile-Secondary-School-Annual-Admissions-Notice-docx.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Le Cheile Secondary School Annual Admissions Notice docx"
+    },
+    {
+      "url": "https://www.powerstownet.com/wp-content/uploads/2020/09/Annual-Admissions-Hansfield-ETSS.pdf",
+      "final_url": "https://www.powerstownet.com/wp-content/uploads/2020/09/Annual-Admissions-Hansfield-ETSS.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Annual Admissions Hansfield ETSS"
+    },
+    {
+      "url": "https://www.powerstownet.com/wp-content/uploads/2020/09/Annual-Admissions-Hansfield-ETSS-1.pdf",
+      "final_url": "https://www.powerstownet.com/wp-content/uploads/2020/09/Annual-Admissions-Hansfield-ETSS-1.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Annual Admissions Hansfield ETSS"
+    },
+    {
+      "url": "https://www.powerstownet.com/wp-content/uploads/2020/09/Admissions-Notice.pdf",
+      "final_url": "https://www.powerstownet.com/wp-content/uploads/2020/09/Admissions-Notice.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Notice"
+    },
+    {
+      "url": "https://www.powerstownet.com/wp-content/uploads/2020/09/Admissions-Notice-Coolmine-CS-1.pdf",
+      "final_url": "https://www.powerstownet.com/wp-content/uploads/2020/09/Admissions-Notice-Coolmine-CS-1.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions-Notice-Coolmine-CS-1"
+    },
+    {
+      "url": "https://www.powerstownet.com/wp-content/uploads/2022/09/St-Vincents-Castleknock-College-Admissions-2023-Notice.pdf",
+      "final_url": "https://www.powerstownet.com/wp-content/uploads/2022/09/St-Vincents-Castleknock-College-Admissions-2023-Notice.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "St Vincents Castleknock College Admissions 2023 Notice"
+    },
+    {
+      "url": "https://www.powerstownet.com/wp-content/uploads/2023/09/Open-Evening-for-2023-6th-Class-boys-and-Admission-2024-details-1.pdf",
+      "final_url": "https://www.powerstownet.com/wp-content/uploads/2023/09/Open-Evening-for-2023-6th-Class-boys-and-Admission-2024-details-1.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Open Evening for 2023 6th Class boys and Admission 2024 details (1)"
+    },
+    {
+      "url": "https://www.powerstownet.com/wp-content/uploads/2022/09/PETNS_JI_admissions.png",
+      "final_url": "https://www.powerstownet.com/wp-content/uploads/2022/09/PETNS_JI_admissions.png",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "PETNS_JI_admissions"
+    },
+    {
+      "url": "https://www.powerstownet.com/wp-content/uploads/2022/04/ASD-admissions.jpg",
+      "final_url": "https://www.powerstownet.com/wp-content/uploads/2022/04/ASD-admissions.jpg",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "ASD-admissions"
+    },
+    {
+      "url": "https://www.powerstownet.com/wp-content/uploads/2022/04/ASD-admissions-2022.jpg",
+      "final_url": "https://www.powerstownet.com/wp-content/uploads/2022/04/ASD-admissions-2022.jpg",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "ASD-admissions-2022"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "20384J",
+      "url": "https://www.powerstownet.com/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "label": "Oldest public admission media (all dates)",
+      "sha256": "bcab74034473f4794198706f24ee26afdb03dbcb2daaa12edcd9145a79c9db6d",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20384J_bcab74034473f4794198.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 12601
+    },
+    {
+      "roll": "20384J",
+      "url": "https://www.powerstownet.com/wp-content/uploads/2020/10/BCS-Admissions-Notice-3.pdf",
+      "label": "BCS Admissions Notice (3)",
+      "sha256": "03a925cd3c70e0c62fb506a46dd798b5de75f0bf0bebb1e7521ebd664d081f2e",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20384J_03a925cd3c70e0c62fb5.txt",
+      "source_file": "database/milestone2/cache/03a925cd3c70e0c62fb506a46dd798b5de75f0bf0bebb1e7521ebd664d081f2e.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 6187
+    },
+    {
+      "roll": "20384J",
+      "url": "https://www.powerstownet.com/wp-content/uploads/2020/09/Le-Cheile-Secondary-School-Annual-Admissions-Notice-docx.pdf",
+      "label": "Le Cheile Secondary School Annual Admissions Notice docx",
+      "sha256": "c8053af47937b850ac19267d8948677f6cc2937fdf1247080b1026528a2d0443",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20384J_c8053af47937b850ac19.txt",
+      "source_file": "database/milestone2/cache/c8053af47937b850ac19267d8948677f6cc2937fdf1247080b1026528a2d0443.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 4964
+    },
+    {
+      "roll": "20384J",
+      "url": "https://www.powerstownet.com/wp-content/uploads/2020/09/Annual-Admissions-Hansfield-ETSS.pdf",
+      "label": "Annual Admissions Hansfield ETSS",
+      "sha256": "6cea4d393553e28591501ee508f54ec89ba861431f58c9a6b698403cf22c3a6a",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20384J_6cea4d393553e2859150.txt",
+      "source_file": "database/milestone2/cache/6cea4d393553e28591501ee508f54ec89ba861431f58c9a6b698403cf22c3a6a.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 5215
+    },
+    {
+      "roll": "20384J",
+      "url": "https://www.powerstownet.com/wp-content/uploads/2020/09/Admissions-Notice.pdf",
+      "label": "Admissions Notice",
+      "sha256": "97f9bd8e43016ec95f1a2d8053dfc724bb7e2f1d4f94aa0c08856a8b81a51f24",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20384J_97f9bd8e43016ec95f1a.txt",
+      "source_file": "database/milestone2/cache/97f9bd8e43016ec95f1a2d8053dfc724bb7e2f1d4f94aa0c08856a8b81a51f24.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 250
+    },
+    {
+      "roll": "20384J",
+      "url": "https://www.powerstownet.com/wp-content/uploads/2020/09/Admissions-Notice-Coolmine-CS-1.pdf",
+      "label": "Admissions-Notice-Coolmine-CS-1",
+      "sha256": "455c9a8452f3a249798ff60a8e1fb522363f7cb1b5f3c650269b7e710842847f",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20384J_455c9a8452f3a249798f.txt",
+      "source_file": "database/milestone2/cache/455c9a8452f3a249798ff60a8e1fb522363f7cb1b5f3c650269b7e710842847f.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 2204
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.powerstownet.com/wp-content/uploads/2023/10/PETNS-Admission-2024_2025.png",
+      "label": "PETNS-Admission-2024_2025",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://www.powerstownet.com/wp-content/uploads/2023/09/JUNIOR-INFANT-ADMISSION-20242025.png",
+      "label": "JUNIOR-INFANT-ADMISSION-20242025",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://www.powerstownet.com/wp-content/uploads/2023/09/DLD-class-admissions-1.png",
+      "label": "DLD class admissions (1)",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://www.powerstownet.com/wp-content/uploads/2023/09/Autism-class-Admissions-1.png",
+      "label": "Autism-class-Admissions-1",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://www.powerstownet.com/wp-content/uploads/2024/10/Insta-mainstream-admission.png",
+      "label": "Insta mainstream admission",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://www.powerstownet.com/wp-content/uploads/2024/10/Insta-mainstream-admission-1.png",
+      "label": "Insta mainstream admission",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://www.powerstownet.com/wp-content/uploads/2024/10/2025-DLD-Class-Admissions-1.webp",
+      "label": "2025-DLD-Class-Admissions-1",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://www.powerstownet.com/wp-content/uploads/2024/10/2025-DLD-Class-Admissions-1.png",
+      "label": "2025 DLD Class Admissions (1)",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://www.powerstownet.com/wp-content/uploads/2025/09/Insta-mainstream-admission-1-1.png",
+      "label": "Insta mainstream admission (1)",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://www.powerstownet.com/wp-content/uploads/2020/10/back-to-school-advice-for-parents.pdf",
+      "label": "Back to school advice for parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.powerstownet.com/wp-content/uploads/2020/10/BCS-Admissions-Policy-2020-1.pdf",
+      "label": "BCS Admissions Policy 2020 (1)",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://www.powerstownet.com/wp-content/uploads/2020/09/Powerstown-ETNS_AdmissionsPolicy_Sept2020-Approved.pdf",
+      "label": "Powerstown ETNS_AdmissionsPolicy_Sept2020 Approved",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://www.powerstownet.com/enrolment/",
+      "label": "ENROLMENT",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.powerstownet.com/enrolment-in-specialised-class-for-pupils-with-ssld-dld/",
+      "label": "DLD Class Admissions",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.powerstownet.com/wp-content/uploads/2022/02/PETNS_AdmissionsPolicy_Sept2021_Approved.pdf",
+      "label": "PETNS_AdmissionsPolicy_Sept2021_Approved",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://www.powerstownet.com/wp-content/uploads/2021/09/Powerstown-ETNS_AdmissionsPolicy_Sept2021_Approved.pdf",
+      "label": "Powerstown ETNS_AdmissionsPolicy_Sept2021_Approved",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://www.powerstownet.com/wp-content/uploads/2023/03/PETNS_AdmissionsPolicy_Jan2023_ET_APPROVED.pdf",
+      "label": "PETNS_AdmissionsPolicy_Jan2023_ET_APPROVED",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://www.powerstownet.com/wp-content/uploads/2024/10/PETNS_AdmissionsPolicy_Sept2025.pdf",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.powerstownet.com/wp-content/uploads/2024/10/PETNS_AdmissionsPolicy_ET_APPROVED_2024ASCAT.pdf",
+      "label": "PETNS_AdmissionsPolicy_ET_APPROVED_2024(ASCAT).",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://www.powerstownet.com/wp-content/uploads/2024/10/20241024-Powerstown-ETNS_AdmissionsPolicy_October_25.10.24-Approved.pdf",
+      "label": "20241024 Powerstown ETNS_AdmissionsPolicy_October_25.10.24 Approved",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://www.powerstownet.com/wp-content/uploads/2026/09/PETNS_AdmissionsPolicy_Sept2026FINAL.pdf",
+      "label": "PETNS_AdmissionsPolicy_Sept2026(FINAL)",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://www.powerstownet.com/wp-sitemap.xml",
+      "label": "Public sitemap",
+      "via": "sitemap_root"
+    },
+    {
+      "url": "https://www.powerstownet.com/school-attendance-what-every-parent-needs-to-know/",
+      "label": "School Attendance – What every parent needs to know",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.powerstownet.com/petnspolicies/",
+      "label": "Policies",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.powerstownet.com/parents/",
+      "label": "PARENTS",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.powerstownet.com/parent-teacher-association/",
+      "label": "Parent Teacher Association",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.powerstownet.com/parent-classes-information-meetings/",
+      "label": "Parent Classes & Information Meetings",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.powerstownet.com/parent-child-classes/",
+      "label": "Parent & Child Classes",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.powerstownet.com/november-parent-teacher-meetings/",
+      "label": "Next post November Parent Teacher Meetings",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.powerstownet.com/garda-vetting-for-parent-volunteers/",
+      "label": "Garda Vetting in PETNS",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.powerstownet.com",
+      "label": "School homepage",
+      "via": "home"
+    },
+    {
+      "url": "https://www.powerstownet.com/child-safeguarding-policy-risk-assessment/",
+      "label": "Child Safeguarding Policy & Risk Assessment",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 152.59,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:33:59+0000"
+}

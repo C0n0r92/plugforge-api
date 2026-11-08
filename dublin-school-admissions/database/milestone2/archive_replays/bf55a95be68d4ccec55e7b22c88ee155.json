@@ -1,0 +1,42 @@
+{
+  "task_id": "bf55a95be68d4ccec55e7b22c88ee155",
+  "roll": "00697S",
+  "capture": {
+    "digest": "MNF4BCX2WMQTM5BS2KKYHYO6MK3D2V3K",
+    "mimetype": "text/html",
+    "original": "http://www.saintbrigids.ie/News/Admissions-20252026/21459/Index.html",
+    "statuscode": "200",
+    "timestamp": "20241104042730"
+  },
+  "original_url": "http://www.saintbrigids.ie/News/Admissions-20252026/21459/Index.html",
+  "archived_url": "https://web.archive.org/web/20241104042730/http://www.saintbrigids.ie/News/Admissions-20252026/21459/Index.html",
+  "attempted_at": "2026-11-08T12:34:03.621544+00:00",
+  "http_status": 200,
+  "headers": {
+    "Content-Type": "text/html; charset=utf-8",
+    "memento-datetime": "Mon, 04 Nov 2024 04:27:30 GMT"
+  },
+  "payload_sha256": "92e5c970746104af5fb0e87a26823fe86d8ed875069dcc282448b698b4195703",
+  "bytes": 71544,
+  "format": "html",
+  "archive_link_candidates": [
+    {
+      "url": "https://web.archive.org/web/20241104042730/http://www.saintbrigids.ie/page/Admissions-20252026/19674/Index.html",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://web.archive.org/web/20241104042730/https://drive.google.com/file/d/1FkRGQVcHD_ceDW0vcwuHf9IK2KZgdagp/view?usp=sharing",
+      "label": "Admission Notice"
+    },
+    {
+      "url": "https://web.archive.org/web/20241104042730/https://drive.google.com/file/d/1_9y7LSJv2e4b0OxG_gQqGPErs35qEKj5/view?usp=sharing",
+      "label": "Admission Policy"
+    },
+    {
+      "url": "https://web.archive.org/web/20241104042730/https://drive.google.com/file/d/1fOuabw5R8M8ncNT2Vd-acu_fG2AkYA1I/view?usp=sharing",
+      "label": "Admission Notice for Autism Classes"
+    }
+  ],
+  "status": "archived_body_retrieved_requires_notice_evidence_review",
+  "text_file": "database/milestone2/evidence/archive_00697S_92e5c970746104af5fb0.txt"
+}

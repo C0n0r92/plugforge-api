@@ -1,0 +1,170 @@
+{
+  "roll": "19716B",
+  "attempted_at": "2026-11-08T13:05:30+0000",
+  "method": "documented_public_WordPress_media_notice_and_Irish_title_gap_search",
+  "attempts": [
+    {
+      "url": "https://sasns.ie/wp-json/wp/v2/media?search=notice&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok"
+    },
+    {
+      "url": "https://sasns.ie/wp-json/wp/v2/media?search=f%C3%B3gra&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok"
+    },
+    {
+      "url": "https://sasns.ie/wp-content/uploads/2022/02/Annual-Admissions-Notice-2022-2023.pdf",
+      "status": "ok",
+      "label": "Annual Admissions Notice 2022-2023"
+    },
+    {
+      "url": "https://sasns.ie/wp-content/uploads/2023/01/Annual-Admissions-Notice-2023-2024.pdf",
+      "status": "ok",
+      "label": "Annual Admissions Notice 2023-2024"
+    },
+    {
+      "url": "https://sasns.ie/wp-content/uploads/2024/01/Annual-Admissions-Notice-2024-2025.pdf",
+      "status": "ok",
+      "label": "Annual Admissions Notice 2024-2025"
+    },
+    {
+      "url": "https://sasns.ie/wp-content/uploads/2024/03/ASD-Class-Annual-Admissions-Notice-2024-2025.pdf",
+      "status": "ok",
+      "label": "ASD Class Annual Admissions Notice 2024-2025"
+    },
+    {
+      "url": "https://sasns.ie/wp-content/uploads/2024/03/ASD-Class-Annual-Admissions-Notice-2024-2025-1.pdf",
+      "status": "ok",
+      "label": "ASD Class Annual Admissions Notice 2024-2025"
+    },
+    {
+      "url": "https://sasns.ie/wp-content/uploads/2024/04/ASD-Class-Annual-Admissions-Notice-2024-2025.pdf",
+      "status": "ok",
+      "label": "ASD Class Annual Admissions Notice 2024-2025"
+    },
+    {
+      "url": "https://sasns.ie/wp-content/uploads/2025/01/Annual-Admissions-Notice-Mainstream-and-ASD-Class-2025-2026.pdf",
+      "status": "ok",
+      "label": "Annual Admissions Notice Mainstream and ASD Class 2025-2026"
+    },
+    {
+      "url": "https://sasns.ie/wp-content/uploads/2025/09/Annual-Admissions-Notice-Mainstream-and-ASD-Class-2026-27.pdf",
+      "status": "ok",
+      "label": "Annual Admissions Notice Mainstream and ASD Class 2026-27"
+    },
+    {
+      "url": "https://sasns.ie/wp-content/uploads/2025/09/Annual-Admissions-Notice-Mainstream-and-ASD-Class-2026-27-1.pdf",
+      "status": "ok",
+      "label": "Annual Admissions Notice Mainstream and ASD Class 2026-27"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19716B",
+      "url": "https://sasns.ie/wp-content/uploads/2022/02/Annual-Admissions-Notice-2022-2023.pdf",
+      "label": "Annual Admissions Notice 2022-2023",
+      "sha256": "2ebd947ccf875a5110f947acbe5b56c1363ea0eb127456698095e21970c1b45f",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19716B_2ebd947ccf875a5110f9.txt",
+      "source_file": "database/milestone2/cache/2ebd947ccf875a5110f947acbe5b56c1363ea0eb127456698095e21970c1b45f.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 3725,
+      "discovery_method": "documented_WP_notice_or_Irish_title_media_query",
+      "cms_media_date_as_printed_not_publication": "2022-02-02T14:25:47"
+    },
+    {
+      "roll": "19716B",
+      "url": "https://sasns.ie/wp-content/uploads/2023/01/Annual-Admissions-Notice-2023-2024.pdf",
+      "label": "Annual Admissions Notice 2023-2024",
+      "sha256": "070b4019e9e7475e7d2c616e1dfbea66dd16966e3736a38b7d5ecfd5aa02bc5f",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19716B_070b4019e9e7475e7d2c.txt",
+      "source_file": "database/milestone2/cache/070b4019e9e7475e7d2c616e1dfbea66dd16966e3736a38b7d5ecfd5aa02bc5f.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 3725,
+      "discovery_method": "documented_WP_notice_or_Irish_title_media_query",
+      "cms_media_date_as_printed_not_publication": "2023-01-09T11:58:13"
+    },
+    {
+      "roll": "19716B",
+      "url": "https://sasns.ie/wp-content/uploads/2024/01/Annual-Admissions-Notice-2024-2025.pdf",
+      "label": "Annual Admissions Notice 2024-2025",
+      "sha256": "26dcd2aef308dac56edce9a30abc62e1f2d62b9846658f886952944864072b96",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19716B_26dcd2aef308dac56edc.txt",
+      "source_file": "database/milestone2/cache/26dcd2aef308dac56edce9a30abc62e1f2d62b9846658f886952944864072b96.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 3725,
+      "discovery_method": "documented_WP_notice_or_Irish_title_media_query",
+      "cms_media_date_as_printed_not_publication": "2024-01-15T09:26:44"
+    },
+    {
+      "roll": "19716B",
+      "url": "https://sasns.ie/wp-content/uploads/2024/03/ASD-Class-Annual-Admissions-Notice-2024-2025.pdf",
+      "label": "ASD Class Annual Admissions Notice 2024-2025",
+      "sha256": "00a67c851000e654fd2c8bb66f6318238d12b7342dc0a681d02b6dc03968520e",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19716B_00a67c851000e654fd2c.txt",
+      "source_file": "database/milestone2/cache/00a67c851000e654fd2c8bb66f6318238d12b7342dc0a681d02b6dc03968520e.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 2058,
+      "discovery_method": "documented_WP_notice_or_Irish_title_media_query",
+      "cms_media_date_as_printed_not_publication": "2024-03-20T11:47:31"
+    },
+    {
+      "roll": "19716B",
+      "url": "https://sasns.ie/wp-content/uploads/2024/04/ASD-Class-Annual-Admissions-Notice-2024-2025.pdf",
+      "label": "ASD Class Annual Admissions Notice 2024-2025",
+      "sha256": "136c8cae812c7508fb5175d886297529b7ae4d8a7e91b1d9aaad46d3a650d537",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19716B_136c8cae812c7508fb51.txt",
+      "source_file": "database/milestone2/cache/136c8cae812c7508fb5175d886297529b7ae4d8a7e91b1d9aaad46d3a650d537.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 2058,
+      "discovery_method": "documented_WP_notice_or_Irish_title_media_query",
+      "cms_media_date_as_printed_not_publication": "2024-04-09T08:56:06"
+    },
+    {
+      "roll": "19716B",
+      "url": "https://sasns.ie/wp-content/uploads/2025/01/Annual-Admissions-Notice-Mainstream-and-ASD-Class-2025-2026.pdf",
+      "label": "Annual Admissions Notice Mainstream and ASD Class 2025-2026",
+      "sha256": "9bedf3df8d8c00fb6f486ecdff648ba54d8fee5dff6ab0f57d15ec4454c756e8",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19716B_9bedf3df8d8c00fb6f48.txt",
+      "source_file": "database/milestone2/cache/9bedf3df8d8c00fb6f486ecdff648ba54d8fee5dff6ab0f57d15ec4454c756e8.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 6185,
+      "discovery_method": "documented_WP_notice_or_Irish_title_media_query",
+      "cms_media_date_as_printed_not_publication": "2025-01-08T08:46:29"
+    },
+    {
+      "roll": "19716B",
+      "url": "https://sasns.ie/wp-content/uploads/2025/09/Annual-Admissions-Notice-Mainstream-and-ASD-Class-2026-27.pdf",
+      "label": "Annual Admissions Notice Mainstream and ASD Class 2026-27",
+      "sha256": "9453eadb8fcc46267ade0715e856db3326fce1d26c3bd5b3cbfdc1bc01d22d31",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19716B_9453eadb8fcc46267ade.txt",
+      "source_file": "database/milestone2/cache/9453eadb8fcc46267ade0715e856db3326fce1d26c3bd5b3cbfdc1bc01d22d31.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 6485,
+      "discovery_method": "documented_WP_notice_or_Irish_title_media_query",
+      "cms_media_date_as_printed_not_publication": "2025-09-15T09:12:42"
+    },
+    {
+      "roll": "19716B",
+      "url": "https://sasns.ie/wp-content/uploads/2025/09/Annual-Admissions-Notice-Mainstream-and-ASD-Class-2026-27-1.pdf",
+      "label": "Annual Admissions Notice Mainstream and ASD Class 2026-27",
+      "sha256": "8d92856b49fde5a02422d0da4c423d2345240c686b8f43de31265e70e5317a92",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19716B_8d92856b49fde5a02422.txt",
+      "source_file": "database/milestone2/cache/8d92856b49fde5a02422d0da4c423d2345240c686b8f43de31265e70e5317a92.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 6487,
+      "discovery_method": "documented_WP_notice_or_Irish_title_media_query",
+      "cms_media_date_as_printed_not_publication": "2025-09-15T09:40:18"
+    }
+  ],
+  "pending_links": [],
+  "earliest_year_cutoff": null,
+  "status": "attempted_new_historical_notice_candidates",
+  "elapsed_seconds": 34.1
+}

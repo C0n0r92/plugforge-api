@@ -1,0 +1,235 @@
+{
+  "roll": "20334R",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.gaelscoilroseo.com/page/Proiseas-Iontrala-Enrolment-Process/9800/Index.html",
+      "final_url": "https://www.gaelscoilroseo.com/page/Proiseas-Iontrala-Enrolment-Process/9800/Index.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Próiseas Iontrála Application Process"
+    },
+    {
+      "url": "http://www.gaelscoilroseo.com/Content/2024/12/lv48-Annual_Admissions_Notice_2025_2026_Bearla.pdf",
+      "final_url": "http://www.gaelscoilroseo.com/Content/2024/12/lv48-Annual_Admissions_Notice_2025_2026_Bearla.pdf",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "Annual Admissions Notice 2025 2026 Béarla.pdf"
+    },
+    {
+      "url": "http://www.gaelscoilroseo.com/Content/2024/12/gc20-Fogra_Maidir_le_Ligean_Isteach_2025_2026.pdf",
+      "final_url": "http://www.gaelscoilroseo.com/Content/2024/12/gc20-Fogra_Maidir_le_Ligean_Isteach_2025_2026.pdf",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "Fógra Maidir le Ligean Isteach 2025_2026.pdf"
+    },
+    {
+      "url": "http://www.gaelscoilroseo.com/Content/2024/12/uh73-Polasai_Iontrala_Gaelscoil_Ros_Eo_202526.pdf",
+      "final_url": "http://www.gaelscoilroseo.com/Content/2024/12/uh73-Polasai_Iontrala_Gaelscoil_Ros_Eo_202526.pdf",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "Polasaí Iontrála Gaelscoil Ros Eo 2025-26.pdf"
+    },
+    {
+      "url": "https://www.gaelscoilroseo.com/Page/Proiseas-Iontrala/9800/Index.html",
+      "final_url": "https://www.gaelscoilroseo.com/Page/Proiseas-Iontrala/9800/Index.html",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "http://www.gaelscoilroseo.com/Content/2024/12/jz39-Admission_Policy_of_Gaelscoil_Ros_Eo_2025_2026.pdf",
+      "final_url": "http://www.gaelscoilroseo.com/Content/2024/12/jz39-Admission_Policy_of_Gaelscoil_Ros_Eo_2025_2026.pdf",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "Admission Policy of Gaelscoil Ros Eo 2025 2026.pdf"
+    },
+    {
+      "url": "https://www.gaelscoilroseo.com/sitemap.xml",
+      "final_url": "https://www.gaelscoilroseo.com/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.gaelscoilroseo.com/page/Polasaithe-Policies/4/Index.html",
+      "final_url": "https://www.gaelscoilroseo.com/page/Polasaithe-Policies/4/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Polasaithe"
+    },
+    {
+      "url": "http://www.gaelscoilroseo.com/Content/2025/10/vc81-Fogra_Bliantuil_Maidir_Le_Ligean_Isteach_2026_2027.pdf",
+      "final_url": "http://www.gaelscoilroseo.com/Content/2025/10/vc81-Fogra_Bliantuil_Maidir_Le_Ligean_Isteach_2026_2027.pdf",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "Fógra Bliantúil Maidir Le Ligean Isteach 2026 2027.pdf"
+    },
+    {
+      "url": "http://www.gaelscoilroseo.com/Content/2025/10/rs66-Fogra_maidir_le_hathbhreithniu_Raiteas_um_Chumdach_Leanai_tuismitheoiri.pdf",
+      "final_url": "http://www.gaelscoilroseo.com/Content/2025/10/rs66-Fogra_maidir_le_hathbhreithniu_Raiteas_um_Chumdach_Leanai_tuismitheoiri.pdf",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "Fógra maidir le hathbhreithniú Ráiteas um Chumdach Leanaí (tuismitheoirí).pdf"
+    },
+    {
+      "url": "http://www.gaelscoilroseo.com/Content/2025/10/rj63-Annual_Admission_Notice_2026_2027.pdf",
+      "final_url": "http://www.gaelscoilroseo.com/Content/2025/10/rj63-Annual_Admission_Notice_2026_2027.pdf",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "Annual Admission Notice 2026 2027.pdf"
+    },
+    {
+      "url": "http://www.gaelscoilroseo.com/Content/2024/12/dl14-Polasai_Iontrala_Gaelscoil_Ros_Eo_202526.pdf",
+      "final_url": "http://www.gaelscoilroseo.com/Content/2024/12/dl14-Polasai_Iontrala_Gaelscoil_Ros_Eo_202526.pdf",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "Polasaí Iontrála Gaelscoil Ros Eo 2025-26.pdf"
+    },
+    {
+      "url": "http://www.gaelscoilroseo.com/Content/2024/12/cc10-Admission_Policy_of_Gaelscoil_Ros_Eo_2025_2026.pdf",
+      "final_url": "http://www.gaelscoilroseo.com/Content/2024/12/cc10-Admission_Policy_of_Gaelscoil_Ros_Eo_2025_2026.pdf",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "Admission Policy of Gaelscoil Ros Eo"
+    },
+    {
+      "url": "http://www.gaelscoilroseo.com/Content/2025/10/vu87-Notification_regarding_the_Board_of_Managements_review_of_Child_Safeguarding_Statement_parents.pdf",
+      "final_url": "http://www.gaelscoilroseo.com/Content/2025/10/vu87-Notification_regarding_the_Board_of_Managements_review_of_Child_Safeguarding_Statement_parents.pdf",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "Notification regarding the Board of Management's review of Child Safeguarding Statement (parents).pdf"
+    },
+    {
+      "url": "http://www.gaelscoilroseo.com/Content/2016/11/Irish Policy.pdf",
+      "final_url": "http://www.gaelscoilroseo.com/Content/2016/11/Irish Policy.pdf",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "Irish Policy"
+    },
+    {
+      "url": "http://www.gaelscoilroseo.com/Content/2016/11/Irish Policy (Irish).pdf",
+      "final_url": "http://www.gaelscoilroseo.com/Content/2016/11/Irish Policy (Irish).pdf",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "Irish Policy (Irish)"
+    },
+    {
+      "url": "http://www.gaelscoilroseo.com/Content/2016/11/Healthy Eating Policy.pdf",
+      "final_url": "http://www.gaelscoilroseo.com/Content/2016/11/Healthy Eating Policy.pdf",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "Healthy Eating Policy"
+    },
+    {
+      "url": "http://www.gaelscoilroseo.com/Content/2016/11/Healthy Eating Policy (Irish).pdf",
+      "final_url": "http://www.gaelscoilroseo.com/Content/2016/11/Healthy Eating Policy (Irish).pdf",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "Healthy Eating Policy (Irish)"
+    },
+    {
+      "url": "http://www.gaelscoilroseo.com/Content/2016/11/Acceptable Use Policy.pdf",
+      "final_url": "http://www.gaelscoilroseo.com/Content/2016/11/Acceptable Use Policy.pdf",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "Acceptable Use Policy"
+    },
+    {
+      "url": "http://www.gaelscoilroseo.com/Content/2016/11/Acceptable Use Policy (Irish).pdf",
+      "final_url": "http://www.gaelscoilroseo.com/Content/2016/11/Acceptable Use Policy (Irish).pdf",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "Acceptable Use Policy (Irish)"
+    },
+    {
+      "url": "https://www.gaelscoilroseo.com/Policies/Index.html",
+      "final_url": "https://www.gaelscoilroseo.com/Policies/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.gaelscoilroseo.com/Page/Polasaithe-Policies/4/Index.html",
+      "final_url": "https://www.gaelscoilroseo.com/Page/Polasaithe-Policies/4/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Polasaithe Policies"
+    },
+    {
+      "url": "https://www.gaelscoilroseo.com",
+      "final_url": "https://www.gaelscoilroseo.com",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "http://www.gaelscoilroseo.com/Content/2024/2/vn85-GSRE_First_Aid_and_Administration_of_Medicines_Policy_2023.pdf",
+      "final_url": "http://www.gaelscoilroseo.com/Content/2024/2/vn85-GSRE_First_Aid_and_Administration_of_Medicines_Policy_2023.pdf",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "GSRE First Aid and Administration of Medicines Policy 2023.pdf"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "20334R",
+      "url": "https://www.gaelscoilroseo.com/page/Proiseas-Iontrala-Enrolment-Process/9800/Index.html",
+      "label": "Próiseas Iontrála Application Process",
+      "sha256": "8f12257b348f794fecab2490177d80b0dff380f6ff6b0be2392a6c514eef60df",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20334R_8f12257b348f794fecab.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1026
+    },
+    {
+      "roll": "20334R",
+      "url": "https://www.gaelscoilroseo.com/Page/Proiseas-Iontrala/9800/Index.html",
+      "label": "Prior school admissions section",
+      "sha256": "4309eb11b271d9cd2721cafa66ab1e0fd7d2b332c1aab46884711bf18430e2c4",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20334R_4309eb11b271d9cd2721.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1026
+    },
+    {
+      "roll": "20334R",
+      "url": "https://www.gaelscoilroseo.com/page/Polasaithe-Policies/4/Index.html",
+      "label": "Polasaithe",
+      "sha256": "d1a22026755fd7a259a21d6fd9f4020d58f9963286f32dbc57263aafcc6c2a53",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20334R_d1a22026755fd7a259a2.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1374
+    },
+    {
+      "roll": "20334R",
+      "url": "https://www.gaelscoilroseo.com/Page/Polasaithe-Policies/4/Index.html",
+      "label": "Polasaithe Policies",
+      "sha256": "806a9e8f92a65eec8c4d2dc31d7b8120cccb585a532034cb239d9ab8ae66de45",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20334R_806a9e8f92a65eec8c4d.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1374
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "http://www.gaelscoilroseo.com/Content/2024/10/gb20-PersonalElectronicDevicePolicy_2024_1.pdf",
+      "label": "Personal Electronic Device Policy 2024",
+      "via": "school_public_link"
+    },
+    {
+      "url": "http://www.gaelscoilroseo.com/Content/2025/10/nx48-Bi_Cinealta_Policy.pdf",
+      "label": "Bí Cineálta Policy.pdf",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 23.8,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:11:28+0000"
+}

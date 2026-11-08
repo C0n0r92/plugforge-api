@@ -1,0 +1,496 @@
+{
+  "roll": "20348F",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.holywelletns.ie/enrolment/annual-admissions-notice/?googletranslate=true",
+      "final_url": "https://www.holywelletns.ie/enrolment/annual-admissions-notice/?googletranslate=true",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "https://www.holywelletns.ie/documentlink/148/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/901/docletter/20261012105713_5_2027-2028_Annual_Admissions_Notice_Senior_Inf_-_6th_Class.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "2027-2028 Annual Admissions Notice Senior Inf - 6th Class.pdf"
+    },
+    {
+      "url": "https://www.holywelletns.ie/documentlink/147/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/901/docletter/20261012105713_50_2027-2028_Annual_Admissions_Notice_-_ASD_Classes.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "2027-2028 Annual Admissions Notice - ASD Classes.pdf"
+    },
+    {
+      "url": "https://www.holywelletns.ie/documentlink/146/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/901/docletter/20261012105712_70_2027_-_2028_Annual_Admissions_Notice_-_Mainstream_Junior_Infants.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "2027 - 2028 Annual Admissions Notice - Mainstream Junior Infants.pdf"
+    },
+    {
+      "url": "https://www.holywelletns.ie/enrolment/annual-admissions-notice/",
+      "final_url": "https://www.holywelletns.ie/enrolment/annual-admissions-notice/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Annual Admissions Notice"
+    },
+    {
+      "url": "https://www.holywelletns.ie/admin/?open=/enrolment/annual-admissions-notice/?googletranslate=true",
+      "final_url": "https://www.holywelletns.ie/admin/?open=/enrolment/annual-admissions-notice/?googletranslate=true",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.holywelletns.ie/admin/?open=/enrolment/annual-admissions-notice/",
+      "final_url": "https://www.holywelletns.ie/admin/?open=/enrolment/annual-admissions-notice/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.holywelletns.ie/enrolment/enrolment-form/?googletranslate=true",
+      "final_url": "https://www.holywelletns.ie/enrolment/enrolment-form/?googletranslate=true",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "https://www.holywelletns.ie/documentlink/151/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/901/docletter/20261102024653_11_2027-2028_Annual_Admissions_Notice_Senior_Inf_-_6th_Class.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "2027-2028 Annual Admissions Notice Senior Inf - 6th Class.pdf"
+    },
+    {
+      "url": "https://www.holywelletns.ie/documentlink/150/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/901/docletter/20261102024653_18_2027-2028_Annual_Admissions_Notice_-_ASD_Classes.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "2027-2028 Annual Admissions Notice - ASD Classes.pdf"
+    },
+    {
+      "url": "https://www.holywelletns.ie/documentlink/149/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/901/docletter/20261102024652_86_2027_-_2028_Annual_Admissions_Notice_-_Mainstream_Junior_Infants.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "2027 - 2028 Annual Admissions Notice - Mainstream Junior Infants.pdf"
+    },
+    {
+      "url": "https://www.holywelletns.ie/enrolment/enrolment-form/",
+      "final_url": "https://www.holywelletns.ie/enrolment/enrolment-form/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Enrolment Form"
+    },
+    {
+      "url": "https://www.holywelletns.ie/enrolment/?googletranslate=true",
+      "final_url": "https://www.holywelletns.ie/enrolment/?googletranslate=true",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "https://www.holywelletns.ie/enrolment/",
+      "final_url": "https://www.holywelletns.ie/enrolment/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Enrolment"
+    },
+    {
+      "url": "https://www.holywelletns.ie/admin/?open=/enrolment/enrolment-form/?googletranslate=true",
+      "final_url": "https://www.holywelletns.ie/admin/?open=/enrolment/enrolment-form/?googletranslate=true",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.holywelletns.ie/admin/?open=/enrolment/enrolment-form/",
+      "final_url": "https://www.holywelletns.ie/admin/?open=/enrolment/enrolment-form/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.holywelletns.ie/admin/?open=/enrolment/?googletranslate=true",
+      "final_url": "https://www.holywelletns.ie/admin/?open=/enrolment/?googletranslate=true",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.holywelletns.ie/admin/?open=/enrolment/",
+      "final_url": "https://www.holywelletns.ie/admin/?open=/enrolment/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.holywelletns.ie/sitemap.xml",
+      "final_url": "https://www.holywelletns.ie/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.holywelletns.ie/parents-area/school-letters/",
+      "final_url": "https://www.holywelletns.ie/parents-area/school-letters/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Letters"
+    },
+    {
+      "url": "https://www.holywelletns.ie/parents-area/school-letters/?googletranslate=true",
+      "final_url": "https://www.holywelletns.ie/parents-area/school-letters/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.holywelletns.ie/parents-area/parents-information/",
+      "final_url": "https://www.holywelletns.ie/parents-area/parents-information/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents Information"
+    },
+    {
+      "url": "https://www.holywelletns.ie/documentlink/128/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/901/docletter/20260610104247_59_20260610105559924.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "FINANCIAL REPORT TO PARENTS Summary Financial Statement for the school financial year 2024/2025"
+    },
+    {
+      "url": "https://www.holywelletns.ie/parents-area/parents-information/?googletranslate=true",
+      "final_url": "https://www.holywelletns.ie/parents-area/parents-information/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    }
+  ],
+  "documents": [
+    {
+      "roll": "20348F",
+      "url": "https://www.holywelletns.ie/enrolment/annual-admissions-notice/?googletranslate=true",
+      "label": "",
+      "sha256": "85f2d4754c3f6a19d1f48b169766ada54dfa5ddce51164a9ed0a3ee6b09b0395",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20348F_85f2d4754c3f6a19d1f4.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1505
+    },
+    {
+      "roll": "20348F",
+      "url": "https://www.holywelletns.ie/enrolment/annual-admissions-notice/",
+      "label": "Annual Admissions Notice",
+      "sha256": "ba930937b47f7db419e167e7a3b65ed390ff79ab3a062ceaeca5e2b7797c3636",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20348F_ba930937b47f7db419e1.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1505
+    },
+    {
+      "roll": "20348F",
+      "url": "https://www.holywelletns.ie/enrolment/enrolment-form/?googletranslate=true",
+      "label": "",
+      "sha256": "b786296d6816440ff21ebfe5418284be181c92d9c8177c2505bd14f1b7ddd5ef",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20348F_b786296d6816440ff21e.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 2482
+    },
+    {
+      "roll": "20348F",
+      "url": "https://www.holywelletns.ie/enrolment/enrolment-form/",
+      "label": "Enrolment Form",
+      "sha256": "69827a06fed0a7693a69760907fbeacfbdbb0b52986b8f2b5b2e89e00642c550",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20348F_69827a06fed0a7693a69.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 2482
+    },
+    {
+      "roll": "20348F",
+      "url": "https://www.holywelletns.ie/enrolment/?googletranslate=true",
+      "label": "",
+      "sha256": "7843a07b21894ca1feab0f917029531b0a51dd71f4f04337f565bfaf42c1e523",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20348F_7843a07b21894ca1feab.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 709
+    },
+    {
+      "roll": "20348F",
+      "url": "https://www.holywelletns.ie/enrolment/",
+      "label": "Enrolment",
+      "sha256": "7f01993d3a9e8db74d5ff19cebb2458f822d5b1b365ba01d211ec6ea618a243c",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20348F_7f01993d3a9e8db74d5f.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 709
+    },
+    {
+      "roll": "20348F",
+      "url": "https://www.holywelletns.ie/parents-area/school-letters/",
+      "label": "School Letters",
+      "sha256": "7ab1f6e84ec422613fae398195194258b05b3c6bf40527e51d4a77a03bffd7b8",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20348F_7ab1f6e84ec422613fae.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1443
+    },
+    {
+      "roll": "20348F",
+      "url": "https://www.holywelletns.ie/parents-area/school-letters/?googletranslate=true",
+      "label": "",
+      "sha256": "e1baddfb273ba0dd719764161a653b6659dc629c4e89f06f3bc0b8862d1d440e",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20348F_e1baddfb273ba0dd7197.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1443
+    },
+    {
+      "roll": "20348F",
+      "url": "https://www.holywelletns.ie/parents-area/parents-information/",
+      "label": "Parents Information",
+      "sha256": "0d4bdd2b641c8977df3b2c079de461373e9a97dd60cc43392b911f585c847c36",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20348F_0d4bdd2b641c8977df3b.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 2483
+    },
+    {
+      "roll": "20348F",
+      "url": "https://www.holywelletns.ie/parents-area/parents-information/?googletranslate=true",
+      "label": "",
+      "sha256": "804cefb97682a08857171d5af65113a74709d79db13a3aa4af87207c5be8f301",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20348F_804cefb97682a0885717.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 2483
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.holywelletns.ie/parents-area/newsletters/",
+      "label": "Newsletters",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holywelletns.ie/parents-area/calendar/",
+      "label": "Calendar",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holywelletns.ie/parents-area/booklists/lunch-breaks-and-hot-food/",
+      "label": ".",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holywelletns.ie/parents-area/booklists/",
+      "label": "Booklists",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holywelletns.ie/parents-area/",
+      "label": "Parents Area",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holywelletns.ie/letterlink/27/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holywelletns.ie/letterlink/27/?open=true",
+      "label": "Information for parents of children aged 2-5 years on the early childhood care and education (ECCE) and primary school systems in Ireland",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holywelletns.ie/letterlink/25/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holywelletns.ie/letterlink/25/?open=true",
+      "label": "Tusla - Short guide for parents who are newly arrived in Ireland 1.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holywelletns.ie/letterlink/24/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holywelletns.ie/letterlink/24/?open=true",
+      "label": "KiVa and Bi Cinealta Parent Handout.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holywelletns.ie/letterlink/23/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holywelletns.ie/letterlink/22/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holywelletns.ie/letterlink/21/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holywelletns.ie/letterlink/20/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holywelletns.ie/letterlink/20/?open=true",
+      "label": "Information for parents on the new Primary Mathematics Curriculum",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holywelletns.ie/letterlink/19/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holywelletns.ie/letterlink/19/?open=true",
+      "label": "Information for Parents on the new Primary Language Curriculum",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holywelletns.ie/letterlink/17/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holywelletns.ie/letterlink/16/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holywelletns.ie/enrolment/admissions-policy-/?googletranslate=true",
+      "label": "",
+      "via": "prior_public_admissions_landing"
+    },
+    {
+      "url": "https://www.holywelletns.ie/enrolment/admissions-policy-/",
+      "label": "Admissions Policy",
+      "via": "prior_public_admissions_landing"
+    },
+    {
+      "url": "https://www.holywelletns.ie/documentlink/151/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holywelletns.ie/documentlink/150/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holywelletns.ie/documentlink/149/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holywelletns.ie/documentlink/148/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holywelletns.ie/documentlink/147/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holywelletns.ie/documentlink/146/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holywelletns.ie/documentlink/144/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holywelletns.ie/documentlink/138/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holywelletns.ie/documentlink/128/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holywelletns.ie/admin/?open=/parents-area/school-letters/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holywelletns.ie/admin/?open=/parents-area/school-letters/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holywelletns.ie/admin/?open=/parents-area/parents-information/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holywelletns.ie/admin/?open=/parents-area/parents-information/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holywelletns.ie/about/parent-association/",
+      "label": "Parent Teacher Guardian Association",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holywelletns.ie/about/our-policies/",
+      "label": "Our Policies",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holywelletns.ie",
+      "label": "School homepage",
+      "via": "home"
+    },
+    {
+      "url": "https://www.holywelletns.ie/letterlink/16/?open=true",
+      "label": "Smart phone voluntary opt in policy.docx",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holywelletns.ie/cmsfiles/policies/privacy/",
+      "label": "Website Privacy Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holywelletns.ie/cmsfiles/policies/cookie/",
+      "label": "Cookie Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 55.43,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:12:08+0000"
+}

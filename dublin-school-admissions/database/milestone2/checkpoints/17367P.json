@@ -1,0 +1,188 @@
+{
+  "roll": "17367P",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.maryhelpofchristians.ie",
+      "final_url": "https://www.maryhelpofchristians.ie",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.maryhelpofchristians.ie/page/Admissions/34204/Index.html",
+      "final_url": "https://www.maryhelpofchristians.ie/page/Admissions/34204/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://www.maryhelpofchristians.ie/Admissions/Index.html",
+      "final_url": "https://www.maryhelpofchristians.ie/Admissions/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://www.maryhelpofchristians.ie/Page/Admissions/34204/Index.html",
+      "final_url": "https://www.maryhelpofchristians.ie/Page/Admissions/34204/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://storage.googleapis.com/iclasscrm_files/5796/Content/2026/3/zm94-ParentalComplaintsProcedure_V4final_1.pdf",
+      "final_url": "https://storage.googleapis.com/iclasscrm_files/5796/Content/2026/3/zm94-ParentalComplaintsProcedure_V4final_1.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parental Complaints Procedure"
+    },
+    {
+      "url": "https://www.maryhelpofchristians.ie/sitemap.xml",
+      "final_url": "https://www.maryhelpofchristians.ie/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.maryhelpofchristians.ie/page/School-Policies/33736/Index.html",
+      "final_url": "https://www.maryhelpofchristians.ie/page/School-Policies/33736/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Policies"
+    },
+    {
+      "url": "https://www.maryhelpofchristians.ie//Content/2024/2/kv38-InfoBook2021.pdf",
+      "final_url": "https://www.maryhelpofchristians.ie//Content/2024/2/kv38-InfoBook2021.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Information Booklet for Parents/Guardians"
+    },
+    {
+      "url": "https://www.maryhelpofchristians.ie//Content/2024/2/wn85-MaryHelpofChristiansGNS17367PAdmissionsandEnrolmentPolicyJanuary2023.pdf",
+      "final_url": "https://www.maryhelpofchristians.ie//Content/2024/2/wn85-MaryHelpofChristiansGNS17367PAdmissionsandEnrolmentPolicyJanuary2023.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions and Enrolment Policy"
+    },
+    {
+      "url": "https://www.maryhelpofchristians.ie/page/Parents-Association/34672/Index.html",
+      "final_url": "https://www.maryhelpofchristians.ie/page/Parents-Association/34672/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents' Association"
+    },
+    {
+      "url": "https://www.maryhelpofchristians.ie//Content/2024/2/kd31-MHOCAssessmentPolicyJanuary2020.pdf",
+      "final_url": "https://www.maryhelpofchristians.ie//Content/2024/2/kd31-MHOCAssessmentPolicyJanuary2020.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Assessment Policy"
+    },
+    {
+      "url": "https://www.maryhelpofchristians.ie//Content/2024/2/lx48-AcceptableUsagePolicy2021.docx.pdf",
+      "final_url": "https://www.maryhelpofchristians.ie//Content/2024/2/lx48-AcceptableUsagePolicy2021.docx.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Acceptable Use Policy"
+    },
+    {
+      "url": "https://www.maryhelpofchristians.ie//Content/2024/10/vz89-Application_Form_New_Oct_2021.pdf",
+      "final_url": "https://www.maryhelpofchristians.ie//Content/2024/10/vz89-Application_Form_New_Oct_2021.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Application Form"
+    },
+    {
+      "url": "https://www.maryhelpofchristians.ie//Content/2024/2/qw68-RSEPolicyDecember2022.pdf",
+      "final_url": "https://www.maryhelpofchristians.ie//Content/2024/2/qw68-RSEPolicyDecember2022.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "RSE Policy"
+    },
+    {
+      "url": "https://www.maryhelpofchristians.ie//Content/2024/2/lq46-DataProtectionPolicyUpdateJune2022WebsiteVersion.pdf",
+      "final_url": "https://www.maryhelpofchristians.ie//Content/2024/2/lq46-DataProtectionPolicyUpdateJune2022WebsiteVersion.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Data Protection Policy"
+    },
+    {
+      "url": "https://www.maryhelpofchristians.ie//Content/2024/2/at70-AdministrationofMedicinePolicy2022.doc.pdf",
+      "final_url": "https://www.maryhelpofchristians.ie//Content/2024/2/at70-AdministrationofMedicinePolicy2022.doc.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Administration of Medicine Policy"
+    },
+    {
+      "url": "https://www.maryhelpofchristians.ie//Content/2024/2/mn44-MobilePhonesandElectronicDevicesPolicyUpdateSeptember2023.pdf",
+      "final_url": "https://www.maryhelpofchristians.ie//Content/2024/2/mn44-MobilePhonesandElectronicDevicesPolicyUpdateSeptember2023.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Policy on Mobile Phones and Electronic Devices"
+    },
+    {
+      "url": "https://www.maryhelpofchristians.ie//Content/2024/2/gg22-HomeworkPolicyReviewUpdateSeptember2023.pdf",
+      "final_url": "https://www.maryhelpofchristians.ie//Content/2024/2/gg22-HomeworkPolicyReviewUpdateSeptember2023.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Homework Policy"
+    },
+    {
+      "url": "https://www.maryhelpofchristians.ie//Content/2024/2/ev18-HealthandSafetyPolicyDecember2023PrintVersion.pdf",
+      "final_url": "https://www.maryhelpofchristians.ie//Content/2024/2/ev18-HealthandSafetyPolicyDecember2023PrintVersion.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Health and Safety Policy"
+    },
+    {
+      "url": "https://www.maryhelpofchristians.ie//Content/2024/2/sk73-AttendancePolicyMHOC.pdf",
+      "final_url": "https://www.maryhelpofchristians.ie//Content/2024/2/sk73-AttendancePolicyMHOC.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Attendance Policy"
+    },
+    {
+      "url": "https://www.maryhelpofchristians.ie//Content/2024/10/kl34-Healthy_Lunch_Policy_September_2024.doc.pdf",
+      "final_url": "https://www.maryhelpofchristians.ie//Content/2024/10/kl34-Healthy_Lunch_Policy_September_2024.doc.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Healthy Lunch Policy"
+    },
+    {
+      "url": "https://www.maryhelpofchristians.ie/Content/2025/2/bg20-Anti_Bullying_Review_Checklist_2025.pdf",
+      "final_url": "https://www.maryhelpofchristians.ie/Content/2025/2/bg20-Anti_Bullying_Review_Checklist_2025.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Anti-Bullying Policy Review"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "17367P",
+      "url": "https://www.maryhelpofchristians.ie//Content/2024/2/wn85-MaryHelpofChristiansGNS17367PAdmissionsandEnrolmentPolicyJanuary2023.pdf",
+      "label": "Admissions and Enrolment Policy",
+      "sha256": "76ed649785b37534b57e80719188c2ec68818311112814d8a917b557f06756f9",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/17367P_76ed649785b37534b57e.txt",
+      "source_file": "database/milestone2/cache/76ed649785b37534b57e80719188c2ec68818311112814d8a917b557f06756f9.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 23375
+    },
+    {
+      "roll": "17367P",
+      "url": "https://www.maryhelpofchristians.ie//Content/2024/10/vz89-Application_Form_New_Oct_2021.pdf",
+      "label": "Application Form",
+      "sha256": "6ee5e568626410823334a49267ec662f7b87d10bf4634d6a08ce79a40f47f224",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/17367P_6ee5e568626410823334.txt",
+      "source_file": "database/milestone2/cache/6ee5e568626410823334a49267ec662f7b87d10bf4634d6a08ce79a40f47f224.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 4550
+    }
+  ],
+  "pending_links": [],
+  "elapsed_seconds": 73.74,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:51:49+0000"
+}

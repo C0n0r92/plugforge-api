@@ -1,0 +1,245 @@
+{
+  "roll": "20464H",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.holyspiritsps.ie",
+      "final_url": "https://www.holyspiritsps.ie",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.holyspiritsps.ie/sitemap.xml",
+      "final_url": "https://www.holyspiritsps.ie/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.holyspiritsps.ie/page/Policies/77386/Index.html",
+      "final_url": "https://www.holyspiritsps.ie/page/Policies/77386/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.holyspiritsps.ie/Content/2023/12/nl44-Parental_Complaints_Procedure_final.pdf",
+      "final_url": "https://www.holyspiritsps.ie/Content/2023/12/nl44-Parental_Complaints_Procedure_final.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parental Complaints Procedure"
+    },
+    {
+      "url": "https://storage.googleapis.com/iclasscrm_files/3430/Images/Content/2026/265/fe21-Admissions_Policy_Holy_Spirit_SPS_2027_2028.docx_1.pdf",
+      "final_url": "https://storage.googleapis.com/iclasscrm_files/3430/Images/Content/2026/265/fe21-Admissions_Policy_Holy_Spirit_SPS_2027_2028.docx_1.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions Policy"
+    },
+    {
+      "url": "https://www.holyspiritsps.ie/Content/2021/11/ln45-Healthy_Eating_Policy_2016.docx.pdf",
+      "final_url": "https://www.holyspiritsps.ie/Content/2021/11/ln45-Healthy_Eating_Policy_2016.docx.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Healthy Eating Policy"
+    },
+    {
+      "url": "https://www.holyspiritsps.ie/News/Parents-Notify-20272028/109924/Index.html",
+      "final_url": "https://www.holyspiritsps.ie/News/Parents-Notify-20272028/109924/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents Notify 2027/2028"
+    },
+    {
+      "url": "https://www.holyspiritsps.ie/page/Parents-Association/79443/Index.html",
+      "final_url": "https://www.holyspiritsps.ie/page/Parents-Association/79443/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents' Association"
+    },
+    {
+      "url": "https://www.holyspiritsps.ie/page/Guide-for-ParentsGuardians-Special-Education-Teaching/106558/Index.html",
+      "final_url": "https://www.holyspiritsps.ie/page/Guide-for-ParentsGuardians-Special-Education-Teaching/106558/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Guide for Parents and Guardians: SEN Teaching"
+    },
+    {
+      "url": "https://www.holyspiritsps.ie/Content/2024/12/be10-Special_Education_Teaching_Support_in_Primary_and_Post_Primary_Schools_Quick_Reference_Guide_for_Parents_Guardians.pdf",
+      "final_url": "https://www.holyspiritsps.ie/Content/2024/12/be10-Special_Education_Teaching_Support_in_Primary_and_Post_Primary_Schools_Quick_Reference_Guide_for_Parents_Guardians.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "here"
+    },
+    {
+      "url": "https://www.holyspiritsps.ie/Policies/Index.html",
+      "final_url": "https://www.holyspiritsps.ie/Policies/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.holyspiritsps.ie/Parents/Index.html",
+      "final_url": "https://www.holyspiritsps.ie/Parents/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents"
+    },
+    {
+      "url": "https://www.holyspiritsps.ie/Parents-Notify/Index.html",
+      "final_url": "https://www.holyspiritsps.ie/Parents-Notify/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents Notify"
+    },
+    {
+      "url": "https://www.holyspiritsps.ie/Parent-Zone/Index.html",
+      "final_url": "https://www.holyspiritsps.ie/Parent-Zone/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parent Zone"
+    },
+    {
+      "url": "https://www.holyspiritsps.ie/Page/Policies/77386/Index.html",
+      "final_url": "https://www.holyspiritsps.ie/Page/Policies/77386/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.holyspiritsps.ie/Page/Parents-Association/79443/Index.html",
+      "final_url": "https://www.holyspiritsps.ie/Page/Parents-Association/79443/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents' Association"
+    },
+    {
+      "url": "https://www.holyspiritsps.ie/Page/Guide-for-ParentsGuardians-Special-Education-Teaching/106558/Index.html",
+      "final_url": "https://www.holyspiritsps.ie/Page/Guide-for-ParentsGuardians-Special-Education-Teaching/106558/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Guide for Parents/Guardians: Special Education Teaching"
+    },
+    {
+      "url": "https://www.holyspiritsps.ie/News/Using-Google-Classroom-for-Parents-and-Guardians/92907/Index.html",
+      "final_url": "https://www.holyspiritsps.ie/News/Using-Google-Classroom-for-Parents-and-Guardians/92907/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Using Google Classroom for Parents and Guardians"
+    },
+    {
+      "url": "https://www.holyspiritsps.ie/Content/2021/1/rp65-Google_Classroom_for_Parents.pdf",
+      "final_url": "https://www.holyspiritsps.ie/Content/2021/1/rp65-Google_Classroom_for_Parents.pdf",
+      "status": "http_404",
+      "via": "school_public_link",
+      "label": "here"
+    },
+    {
+      "url": "https://www.holyspiritsps.ie/News/Remote-Learning-Survey-for-Parents-and-Guardians/92346/Index.html",
+      "final_url": "https://www.holyspiritsps.ie/News/Remote-Learning-Survey-for-Parents-and-Guardians/92346/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Remote Learning Survey for Parents and Guardians"
+    },
+    {
+      "url": "https://www.holyspiritsps.ie/News/Parents-Guide-If-Your-Child-is-a-Close-Contact/90476/Index.html",
+      "final_url": "https://www.holyspiritsps.ie/News/Parents-Guide-If-Your-Child-is-a-Close-Contact/90476/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents' Guide: If Your Child is a Close Contact"
+    },
+    {
+      "url": "https://www.holyspiritsps.ie/News/Literacy-Support-for-ParentsGuardians--NALA-and-ETB/103005/Index.html",
+      "final_url": "https://www.holyspiritsps.ie/News/Literacy-Support-for-ParentsGuardians--NALA-and-ETB/103005/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Literacy Support for Parents/Guardians - NALA and ETB"
+    },
+    {
+      "url": "https://www.holyspiritsps.ie/News/Free-Online-Workshops-for-Parents/95525/Index.html",
+      "final_url": "https://www.holyspiritsps.ie/News/Free-Online-Workshops-for-Parents/95525/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Free Online Workshops for Parents"
+    },
+    {
+      "url": "https://www.holyspiritsps.ie/Content/2021/11/nt47-Data_Protection_Policy_2021.pdf",
+      "final_url": "https://www.holyspiritsps.ie/Content/2021/11/nt47-Data_Protection_Policy_2021.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Data Protection Policy"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "20464H",
+      "url": "https://www.holyspiritsps.ie/page/Policies/77386/Index.html",
+      "label": "Policies",
+      "sha256": "2ee9f6213e42f563e94ab6ff1833808568978f512f15d19d1f2921b035fa8f2a",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20464H_2ee9f6213e42f563e94a.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1208
+    },
+    {
+      "roll": "20464H",
+      "url": "https://storage.googleapis.com/iclasscrm_files/3430/Images/Content/2026/265/fe21-Admissions_Policy_Holy_Spirit_SPS_2027_2028.docx_1.pdf",
+      "label": "Admissions Policy",
+      "sha256": "10373f587c42c88760ea601b0744e6c604f0907d619cf6cf96a73163ba16c719",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20464H_10373f587c42c88760ea.txt",
+      "source_file": "database/milestone2/cache/10373f587c42c88760ea601b0744e6c604f0907d619cf6cf96a73163ba16c719.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 26219
+    },
+    {
+      "roll": "20464H",
+      "url": "https://www.holyspiritsps.ie/Policies/Index.html",
+      "label": "Policies",
+      "sha256": "e1a901c9677409a8865febe01e43f97ca068d294a4d1ed148f599d749c1d3eb8",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20464H_e1a901c9677409a8865f.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 511
+    },
+    {
+      "roll": "20464H",
+      "url": "https://www.holyspiritsps.ie/Page/Policies/77386/Index.html",
+      "label": "Policies",
+      "sha256": "84d1197981b3635b8ba4947af0f7cc7209132e115e0e5f170e24bbce62b4f86a",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20464H_84d1197981b3635b8ba4.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1208
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.holyspiritsps.ie/Content/2023/2/sd61-Holy_Spirit_Senior_Primary_School_Assessment_Policy1.pdf",
+      "label": "Assessment Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holyspiritsps.ie/Content/2023/12/lq46-Smartphone_and_Device_Policy.pdf",
+      "label": "Smartphone and Device Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holyspiritsps.ie/Content/2024/5/an40-Holy_Spirit_Senior_Primary_School_uniform_Policy.pdf",
+      "label": "Uniform Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.holyspiritsps.ie/Content/2025/6/gh22-Holy_Spirit_SPS_Student_AUP_2025_2026.docx.pdf",
+      "label": "Acceptable Use Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 84.36,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:00:13+0000"
+}

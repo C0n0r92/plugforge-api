@@ -1,0 +1,118 @@
+{
+  "roll": "15284B",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.taneyschool.ie/blank-3",
+      "final_url": "https://www.taneyschool.ie/blank-3",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://www.taneyschool.ie/_files/ugd/1c826f_70aa8247e84d4abaa3a18bce3b10391f.pdf",
+      "final_url": "https://www.taneyschool.ie/_files/ugd/1c826f_70aa8247e84d4abaa3a18bce3b10391f.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions Policy"
+    },
+    {
+      "url": "https://www.taneyschool.ie/sitemap.xml",
+      "final_url": "https://www.taneyschool.ie/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.taneyschool.ie/school-policies",
+      "final_url": "https://www.taneyschool.ie/school-policies",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Policies"
+    },
+    {
+      "url": "https://www.taneyschool.ie/_files/ugd/1c826f_ed35278d41954d29a894e429b8dc5390.pdf",
+      "final_url": "https://www.taneyschool.ie/_files/ugd/1c826f_ed35278d41954d29a894e429b8dc5390.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Administration of Medicine Policy"
+    },
+    {
+      "url": "https://www.taneyschool.ie/pages-sitemap.xml",
+      "final_url": "https://www.taneyschool.ie/pages-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.taneyschool.ie/blog-posts-sitemap.xml",
+      "final_url": "https://www.taneyschool.ie/blog-posts-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.taneyschool.ie/blog-categories-sitemap.xml",
+      "final_url": "https://www.taneyschool.ie/blog-categories-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.taneyschool.ie/",
+      "final_url": "https://www.taneyschool.ie/",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.taneyschool.ie/_files/ugd/1c826f_d941a6edc54741a39531b3541d1407b1.pdf",
+      "final_url": "https://www.taneyschool.ie/_files/ugd/1c826f_d941a6edc54741a39531b3541d1407b1.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Bí Cineálta Policy"
+    },
+    {
+      "url": "https://www.taneyschool.ie/_files/ugd/1c826f_9663562640cb4d6da4d7f21e48411519.pdf",
+      "final_url": "https://www.taneyschool.ie/_files/ugd/1c826f_9663562640cb4d6da4d7f21e48411519.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Internet Acceptable Use Policy"
+    },
+    {
+      "url": "https://www.taneyschool.ie/_files/ugd/1c826f_7805ba823602404d90ea32b423280745.pdf",
+      "final_url": "https://www.taneyschool.ie/_files/ugd/1c826f_7805ba823602404d90ea32b423280745.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Assessment Policy"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "15284B",
+      "url": "https://www.taneyschool.ie/blank-3",
+      "label": "Prior school admissions section",
+      "sha256": "8d80af9c6269764003f99a30ff7f60af6f4977861f318d471da7e9dfa7378afb",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/15284B_8d80af9c6269764003f9.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 243
+    },
+    {
+      "roll": "15284B",
+      "url": "https://www.taneyschool.ie/_files/ugd/1c826f_70aa8247e84d4abaa3a18bce3b10391f.pdf",
+      "label": "Admissions Policy",
+      "sha256": "bbce32934054eae6ce0aea668661d0b252e334cb2190be01f7782225aea2a6d6",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/15284B_bbce32934054eae6ce0a.txt",
+      "source_file": "database/milestone2/cache/bbce32934054eae6ce0aea668661d0b252e334cb2190be01f7782225aea2a6d6.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 28382
+    }
+  ],
+  "pending_links": [],
+  "elapsed_seconds": 40.31,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:49:41+0000"
+}

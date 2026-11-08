@@ -1,0 +1,25 @@
+{
+  "roll": "15132B",
+  "capture": {
+    "timestamp": "20240908040025",
+    "original": "https://www.haroldboysdalkey.ie/copy-of-teachers-2024-2025-1",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "digest": "MEIV5N7SKHBV436TOA6XTXG7KMMXE6CB"
+  },
+  "original_url": "https://www.haroldboysdalkey.ie/copy-of-teachers-2024-2025-1",
+  "archived_url": "https://web.archive.org/web/20240908040025/https://www.haroldboysdalkey.ie/copy-of-teachers-2024-2025-1",
+  "attempted_at": "2026-11-08T12:44:21.664737+00:00",
+  "linked_from_capture": null,
+  "http_status": 200,
+  "headers": {
+    "Content-Type": "text/html; charset=UTF-8",
+    "memento-datetime": "Sun, 08 Sep 2024 04:00:25 GMT"
+  },
+  "bytes": 541058,
+  "payload_sha256": "61dc14dcceb7cf387fc713ef75d14ce77c7e57a665851f41556f720b94b37ae4",
+  "format": "html",
+  "status": "archived_body_retrieved_requires_manual_evidence_review",
+  "text_file": "database/milestone2/evidence/exact_15132B_61dc14dcceb7cf387fc7.txt",
+  "linked_document_candidates": []
+}

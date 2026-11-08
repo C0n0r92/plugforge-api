@@ -1,0 +1,236 @@
+{
+  "roll": "20247W",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.scoilghrainnecns.ie/enrol/",
+      "final_url": "https://www.scoilghrainnecns.ie/enrol/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Enrol"
+    },
+    {
+      "url": "https://www.scoilghrainnecns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://www.scoilghrainnecns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://www.scoilghrainnecns.ie/wp-content/uploads/2021/09/Scoil-Ghráinne-CNS-Admissions-policy-2020-1.pdf",
+      "final_url": "https://www.scoilghrainnecns.ie/wp-content/uploads/2021/09/Scoil-Ghráinne-CNS-Admissions-policy-2020-1.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Scoil-Ghráinne-CNS-Admissions-policy-2020-1"
+    },
+    {
+      "url": "https://www.scoilghrainnecns.ie/wp-content/uploads/2021/10/Scoil-Ghráinne-CNS-Admissions-policy-2022.pdf",
+      "final_url": "https://www.scoilghrainnecns.ie/wp-content/uploads/2021/10/Scoil-Ghráinne-CNS-Admissions-policy-2022.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Scoil-Ghráinne-CNS-Admissions-policy-2022"
+    },
+    {
+      "url": "https://www.scoilghrainnecns.ie/wp-content/uploads/2021/10/Scoil-Ghráinne-CNS-Admissions-policy-2022-1.pdf",
+      "final_url": "https://www.scoilghrainnecns.ie/wp-content/uploads/2021/10/Scoil-Ghráinne-CNS-Admissions-policy-2022-1.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Scoil-Ghráinne-CNS-Admissions-policy-2022"
+    },
+    {
+      "url": "https://www.scoilghrainnecns.ie/wp-content/uploads/2022/12/Policy-for-Admission-23-24.docx",
+      "final_url": "https://www.scoilghrainnecns.ie/wp-content/uploads/2022/12/Policy-for-Admission-23-24.docx",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://www.scoilghrainnecns.ie/wp-content/uploads/2022/11/Policy-for-Admission-23-24.docx",
+      "final_url": "https://www.scoilghrainnecns.ie/wp-content/uploads/2022/11/Policy-for-Admission-23-24.docx",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://www.scoilghrainnecns.ie/wp-content/uploads/2022/10/Scoil-Ghrainne-Admission-policy.pdf",
+      "final_url": "https://www.scoilghrainnecns.ie/wp-content/uploads/2022/10/Scoil-Ghrainne-Admission-policy.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Scoil Ghrainne Admission policy"
+    },
+    {
+      "url": "https://www.scoilghrainnecns.ie/wp-content/uploads/2023/10/Policy-for-Admission-to-School-year-2024-2025.pdf",
+      "final_url": "https://www.scoilghrainnecns.ie/wp-content/uploads/2023/10/Policy-for-Admission-to-School-year-2024-2025.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Policy for Admission to School year 2024-2025"
+    },
+    {
+      "url": "https://www.scoilghrainnecns.ie/wp-content/uploads/2024/10/SG-Policy-for-Admission-24-25.docx",
+      "final_url": "https://www.scoilghrainnecns.ie/wp-content/uploads/2024/10/SG-Policy-for-Admission-24-25.docx",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://www.scoilghrainnecns.ie/wp-content/uploads/2024/10/Data-Protection-Statement.pdf",
+      "final_url": "https://www.scoilghrainnecns.ie/wp-content/uploads/2024/10/Data-Protection-Statement.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Data Protection Statement"
+    },
+    {
+      "url": "https://www.scoilghrainnecns.ie/wp-content/uploads/2025/10/26_27-Admissions-Policy-.pdf",
+      "final_url": "https://www.scoilghrainnecns.ie/wp-content/uploads/2025/10/26_27-Admissions-Policy-.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "26_27 Admissions Policy"
+    },
+    {
+      "url": "https://www.scoilghrainnecns.ie/wp-content/uploads/2026/10/Final-Draft-SG-Policy-for-Admission-27_28.docx",
+      "final_url": "https://www.scoilghrainnecns.ie/wp-content/uploads/2026/10/Final-Draft-SG-Policy-for-Admission-27_28.docx",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://www.scoilghrainnecns.ie/wp-content/uploads/2026/10/Admission-Policy-2026-2027.pdf",
+      "final_url": "https://www.scoilghrainnecns.ie/wp-content/uploads/2026/10/Admission-Policy-2026-2027.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admission Policy 2027 2028"
+    },
+    {
+      "url": "https://www.scoilghrainnecns.ie/wp-content/uploads/2026/09/Final-Draft-SG-Policy-for-Admission-27_28.docx",
+      "final_url": "https://www.scoilghrainnecns.ie/wp-content/uploads/2026/09/Final-Draft-SG-Policy-for-Admission-27_28.docx",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "20247W",
+      "url": "https://www.scoilghrainnecns.ie/enrol/",
+      "label": "Enrol",
+      "sha256": "6781323d22b3a690b1341270aa3d16a0658609b3bdcb65cfa3b5f6766f0d7a66",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20247W_6781323d22b3a690b134.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 123
+    },
+    {
+      "roll": "20247W",
+      "url": "https://www.scoilghrainnecns.ie/wp-content/uploads/2021/09/Scoil-Ghráinne-CNS-Admissions-policy-2020-1.pdf",
+      "label": "Scoil-Ghráinne-CNS-Admissions-policy-2020-1",
+      "sha256": "1345d61c4caa55b34cfab6b6a0d5dc4b7496a06e688efb1f7a27461f22245827",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20247W_1345d61c4caa55b34cfa.txt",
+      "source_file": "database/milestone2/cache/1345d61c4caa55b34cfab6b6a0d5dc4b7496a06e688efb1f7a27461f22245827.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 50108
+    },
+    {
+      "roll": "20247W",
+      "url": "https://www.scoilghrainnecns.ie/wp-content/uploads/2021/10/Scoil-Ghráinne-CNS-Admissions-policy-2022.pdf",
+      "label": "Scoil-Ghráinne-CNS-Admissions-policy-2022",
+      "sha256": "cd7aae4e5a36c4055139d5756a15008335df96ab11e524a767fd2dedbdf03ddb",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20247W_cd7aae4e5a36c4055139.txt",
+      "source_file": "database/milestone2/cache/cd7aae4e5a36c4055139d5756a15008335df96ab11e524a767fd2dedbdf03ddb.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 49989
+    },
+    {
+      "roll": "20247W",
+      "url": "https://www.scoilghrainnecns.ie/wp-content/uploads/2021/10/Scoil-Ghráinne-CNS-Admissions-policy-2022-1.pdf",
+      "label": "Scoil-Ghráinne-CNS-Admissions-policy-2022",
+      "sha256": "e17876562d3d217deac0393a4c0ac1ec8363bd1a3ef7a62d7a163f6e37943e96",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20247W_e17876562d3d217deac0.txt",
+      "source_file": "database/milestone2/cache/e17876562d3d217deac0393a4c0ac1ec8363bd1a3ef7a62d7a163f6e37943e96.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 49989
+    },
+    {
+      "roll": "20247W",
+      "url": "https://www.scoilghrainnecns.ie/wp-content/uploads/2022/12/Policy-for-Admission-23-24.docx",
+      "label": "Prior school admissions section",
+      "sha256": "6d3e9ece31ccb9a072ccd623e7fdb77c2d366dfa47d45a2f31b53bc8b10fa18c",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/20247W_6d3e9ece31ccb9a072cc.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 44043
+    },
+    {
+      "roll": "20247W",
+      "url": "https://www.scoilghrainnecns.ie/wp-content/uploads/2022/10/Scoil-Ghrainne-Admission-policy.pdf",
+      "label": "Scoil Ghrainne Admission policy",
+      "sha256": "22248ab31c3740fb9f9b742133bf40bdc5090209527989b42281e2f10fe8e66a",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20247W_22248ab31c3740fb9f9b.txt",
+      "source_file": "database/milestone2/cache/22248ab31c3740fb9f9b742133bf40bdc5090209527989b42281e2f10fe8e66a.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 50160
+    },
+    {
+      "roll": "20247W",
+      "url": "https://www.scoilghrainnecns.ie/wp-content/uploads/2024/10/SG-Policy-for-Admission-24-25.docx",
+      "label": "Prior school admissions section",
+      "sha256": "8648eb33aa8eff2f9419627ad9cd67603ed7ac1ca4508d7310b26ae877b6c491",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/20247W_8648eb33aa8eff2f9419.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 58671
+    },
+    {
+      "roll": "20247W",
+      "url": "https://www.scoilghrainnecns.ie/wp-content/uploads/2026/10/Final-Draft-SG-Policy-for-Admission-27_28.docx",
+      "label": "Prior school admissions section",
+      "sha256": "a181174d7e21946934582f0a629020ba697f76fb194d57cf8747c804ef7dc45c",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/20247W_a181174d7e2194693458.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 57937
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.scoilghrainnecns.ie/sitemap.xml",
+      "label": "Public sitemap",
+      "via": "sitemap_root"
+    },
+    {
+      "url": "https://www.scoilghrainnecns.ie/parents-resources/",
+      "label": "Other Resources",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilghrainnecns.ie/parents-association/",
+      "label": "Parents Association",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilghrainnecns.ie/about/school-policies/",
+      "label": "School Policies",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilghrainnecns.ie",
+      "label": "School homepage",
+      "via": "home"
+    },
+    {
+      "url": "https://www.scoilghrainnecns.ie/wp-content/uploads/2026/09/Application-form-27_28.docx",
+      "label": "Application form 2027-2028 (Word version)",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 150.95,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:38:36+0000"
+}

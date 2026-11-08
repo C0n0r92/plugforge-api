@@ -1,0 +1,308 @@
+{
+  "roll": "19066L",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://storage.googleapis.com/iclasscrm_files/2494/Images/Content/2026/285/wd81-Loreto_P.S.Dalkey_Admissions_Policy_2027.docx",
+      "final_url": "https://storage.googleapis.com/iclasscrm_files/2494/Images/Content/2026/285/wd81-Loreto_P.S.Dalkey_Admissions_Policy_2027.docx",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://www.loretopsdalkey.ie",
+      "final_url": "https://www.loretopsdalkey.ie",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.loretopsdalkey.ie/page/Admissions-2027/53815/Index.html",
+      "final_url": "https://www.loretopsdalkey.ie/page/Admissions-2027/53815/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions 2027"
+    },
+    {
+      "url": "https://www.loretopsdalkey.ie/Admissions-2027/Index.html",
+      "final_url": "https://www.loretopsdalkey.ie/Admissions-2027/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions 2027"
+    },
+    {
+      "url": "https://www.loretopsdalkey.ie/Page/Admissions-2027/53815/Index.html",
+      "final_url": "https://www.loretopsdalkey.ie/Page/Admissions-2027/53815/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions 2027"
+    },
+    {
+      "url": "https://www.loretopsdalkey.ie/Enrolment-forms/Index.html",
+      "final_url": "https://www.loretopsdalkey.ie/Enrolment-forms/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Enrolment forms"
+    },
+    {
+      "url": "https://www.loretopsdalkey.ie/sitemap.xml",
+      "final_url": "https://www.loretopsdalkey.ie/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.loretopsdalkey.ie/page/School-Information/41080/Index.html",
+      "final_url": "https://www.loretopsdalkey.ie/page/School-Information/41080/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Information"
+    },
+    {
+      "url": "https://www.loretopsdalkey.ie/Enrolment/Index.html",
+      "final_url": "https://www.loretopsdalkey.ie/Enrolment/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Enrolment"
+    },
+    {
+      "url": "https://www.loretopsdalkey.ie/Admission/Index.html",
+      "final_url": "https://www.loretopsdalkey.ie/Admission/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admission"
+    },
+    {
+      "url": "https://www.loretopsdalkey.ie/page/Policies/36527/Index.html",
+      "final_url": "https://www.loretopsdalkey.ie/page/Policies/36527/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.Loretopsdalkey.ie/Content/2024/8/dj13-ParentalComplaintsProcedure_V4final.pdf",
+      "final_url": "https://www.Loretopsdalkey.ie/Content/2024/8/dj13-ParentalComplaintsProcedure_V4final.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parental Complaints Procedure"
+    },
+    {
+      "url": "https://www.Loretopsdalkey.ie/Content/2025/10/cp50-Loreto_P.S.Dalkey_Admissions_Policy_2026.pdf",
+      "final_url": "https://www.Loretopsdalkey.ie/Content/2025/10/cp50-Loreto_P.S.Dalkey_Admissions_Policy_2026.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions policy.docx"
+    },
+    {
+      "url": "https://www.Loretopsdalkey.ie/Content/2019/8/RSE_POLICY_23_Jan_29th_2016.pdf",
+      "final_url": "https://www.Loretopsdalkey.ie/Content/2019/8/RSE_POLICY_23_Jan_29th_2016.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "RSE Policy"
+    },
+    {
+      "url": "https://www.Loretopsdalkey.ie/Content/2019/8/Data_protection_policy_2018.docx",
+      "final_url": "https://www.Loretopsdalkey.ie/Content/2019/8/Data_protection_policy_2018.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Data Protection Policy"
+    },
+    {
+      "url": "https://www.loretopsdalkey.ie/policies/Index.html",
+      "final_url": "https://www.loretopsdalkey.ie/policies/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "policies"
+    },
+    {
+      "url": "https://www.loretopsdalkey.ie/Parental-complaints/Index.html",
+      "final_url": "https://www.loretopsdalkey.ie/Parental-complaints/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parental complaints"
+    },
+    {
+      "url": "https://www.loretopsdalkey.ie/Page/School-Information/41080/Index.html",
+      "final_url": "https://www.loretopsdalkey.ie/Page/School-Information/41080/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Information"
+    },
+    {
+      "url": "https://www.loretopsdalkey.ie/Page/Policies/36527/Index.html",
+      "final_url": "https://www.loretopsdalkey.ie/Page/Policies/36527/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.loretopsdalkey.ie/Admissions-Policy/Index.html",
+      "final_url": "https://www.loretopsdalkey.ie/Admissions-Policy/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions Policy"
+    },
+    {
+      "url": "https://www.Loretopsdalkey.ie/Content/2024/8/vx88-Health_and_Safety_Policy_2022_002.docx",
+      "final_url": "https://www.Loretopsdalkey.ie/Content/2024/8/vx88-Health_and_Safety_Policy_2022_002.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Health and Safety Policy"
+    },
+    {
+      "url": "https://www.Loretopsdalkey.ie/Content/2023/7/qm64-Administration_of_Medication_Policy_2022.doc",
+      "final_url": "https://www.Loretopsdalkey.ie/Content/2023/7/qm64-Administration_of_Medication_Policy_2022.doc",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Administration of Medication Policy"
+    },
+    {
+      "url": "https://www.Loretopsdalkey.ie/sitemap.xml",
+      "final_url": "https://www.Loretopsdalkey.ie/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.Loretopsdalkey.ie/Content/2025/9/nl44-Substance_use_Policy.pdf",
+      "final_url": "https://www.Loretopsdalkey.ie/Content/2025/9/nl44-Substance_use_Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Substance Use Policy of Loreto Primary School"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19066L",
+      "url": "https://storage.googleapis.com/iclasscrm_files/2494/Images/Content/2026/285/wd81-Loreto_P.S.Dalkey_Admissions_Policy_2027.docx",
+      "label": "Prior school admissions section",
+      "sha256": "13d07e26f1cf58bad713390dc0f1662ad96a26478f6ee0c3dcf2424cad7c7c50",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/19066L_13d07e26f1cf58bad713.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 23309
+    },
+    {
+      "roll": "19066L",
+      "url": "https://www.loretopsdalkey.ie/page/Admissions-2027/53815/Index.html",
+      "label": "Admissions 2027",
+      "sha256": "d3f997ee90304c0581b239accbd59b70216cec3243a5b97e6f474f80a7bc78af",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19066L_d3f997ee90304c0581b2.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1124
+    },
+    {
+      "roll": "19066L",
+      "url": "https://www.loretopsdalkey.ie/Admissions-2027/Index.html",
+      "label": "Admissions 2027",
+      "sha256": "f82d44b80c7335cc37aedb4483820bd3ceaa690bc992ac73cf7a68622478faf5",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19066L_f82d44b80c7335cc37ae.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 383
+    },
+    {
+      "roll": "19066L",
+      "url": "https://www.loretopsdalkey.ie/Page/Admissions-2027/53815/Index.html",
+      "label": "Admissions 2027",
+      "sha256": "b795e792b310549ab907978ecdb43e06bff143e83f68c8c043d8885b81463a84",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19066L_b795e792b310549ab907.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1124
+    },
+    {
+      "roll": "19066L",
+      "url": "https://www.loretopsdalkey.ie/Enrolment-forms/Index.html",
+      "label": "Enrolment forms",
+      "sha256": "218baa50b506e0ec7c9bbf8f59c7e5ba013301b7de91590997eff9a589fddb58",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19066L_218baa50b506e0ec7c9b.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 383
+    },
+    {
+      "roll": "19066L",
+      "url": "https://www.Loretopsdalkey.ie/Content/2025/10/cp50-Loreto_P.S.Dalkey_Admissions_Policy_2026.pdf",
+      "label": "Admissions policy.docx",
+      "sha256": "d38b076b13d043105a6080a98e7b3a6d04a7f129ad3ca3a942aea4d73e1d0681",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19066L_d38b076b13d043105a60.txt",
+      "source_file": "database/milestone2/cache/d38b076b13d043105a6080a98e7b3a6d04a7f129ad3ca3a942aea4d73e1d0681.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 25885
+    },
+    {
+      "roll": "19066L",
+      "url": "https://www.loretopsdalkey.ie/Admissions-Policy/Index.html",
+      "label": "Admissions Policy",
+      "sha256": "4f007724ab45825b61b9ab78f975480abd229a829567ef7bdbcf766a24ac822e",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19066L_4f007724ab45825b61b9.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 546
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.Loretopsdalkey.ie/Content/2025/9/jq36-First_Aid_Policy.pdf",
+      "label": "First Aid",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.Loretopsdalkey.ie/Content/2025/9/dx18-SEN_and_Inclusion_Policy.pdf",
+      "label": "SEN and Inclusion Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.Loretopsdalkey.ie/Content/2025/9/bu70-Bi_Cinealta.pdf",
+      "label": "Bí Cineálta policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.Loretopsdalkey.ie/Content/2025/7/zt97-Acceptable_Use_Policy_2025.pdf",
+      "label": "Loreto Primary School Dalkey - AUP.docx",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.Loretopsdalkey.ie/Content/2025/7/yj93-Religious_Education_Policy_2025.pdf",
+      "label": "Religious Education Policy 2025",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.Loretopsdalkey.ie/Content/2025/7/kx39-Digital_learning04599320250618101734.pdf",
+      "label": "Digital learning policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.Loretopsdalkey.ie/Content/2025/7/hf32-Whistleblowing_Policy_24.pdf",
+      "label": "Whistleblowing (Protected Disclosures) Policy_.docx",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.Loretopsdalkey.ie/Content/2025/7/gf22-Assessment_Policy_24.pdf",
+      "label": "Assessment Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.Loretopsdalkey.ie/Content/2025/7/ez19-Intimate_Care_Policy_2025.pdf",
+      "label": "Intimate Care Policy 2025",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.loretopsdalkey.ie/AUP-policy/Index.html",
+      "label": "AUP policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 85.52,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:55:03+0000"
+}

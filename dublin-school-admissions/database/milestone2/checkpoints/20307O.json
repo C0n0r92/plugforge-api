@@ -1,0 +1,683 @@
+{
+  "roll": "20307O",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.skerrieseducatetogether.ie/admissions/?googletranslate=true",
+      "final_url": "https://www.skerrieseducatetogether.ie/admissions/?googletranslate=true",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/documentlink/122/?open=true",
+      "final_url": "https://view.officeapps.live.com/op/embed.aspx?src=https://swddoc.b-cdn.net/834/docletter/20260112092425_87_Skerries_ETNS_Admissions_Notice_2026-2027.docx",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Skerries ETNS Admissions Notice 2026-2027.docx"
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/documentlink/170/?open=true",
+      "final_url": "https://view.officeapps.live.com/op/embed.aspx?src=https://swddoc.b-cdn.net/834/docletter/20261104021716_57_Skerries_ETNS_Admissions_Notice_2027-28.docx",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Skerries ETNS Admissions Notice 2027-28.docx"
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/admissions/",
+      "final_url": "https://www.skerrieseducatetogether.ie/admissions/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/admin/?open=/admissions/?googletranslate=true",
+      "final_url": "https://www.skerrieseducatetogether.ie/admin/?open=/admissions/?googletranslate=true",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/admin/?open=/admissions/",
+      "final_url": "https://www.skerrieseducatetogether.ie/admin/?open=/admissions/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/documentlink/171/?open=true",
+      "final_url": "https://view.officeapps.live.com/op/embed.aspx?src=https://swddoc.b-cdn.net/834/docletter/20261104021847_29_Skerries_ETNS_Admissions_Policy_Updated_02.11.2026_Approved.docx",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Skerries ETNS Admissions Policy Updated 02.11.2026 Approved.docx"
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/documentlink/169/?open=true",
+      "final_url": "https://view.officeapps.live.com/op/embed.aspx?src=https://swddoc.b-cdn.net/834/docletter/20261104012656_23_Seolta_Admissions_Application_Form_2027-28.docx",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Seolta Admissions Application Form 2027-28.docx"
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/documentlink/168/?open=true",
+      "final_url": "https://view.officeapps.live.com/op/embed.aspx?src=https://swddoc.b-cdn.net/834/docletter/20261104012616_71_Skerries-ETNS-School-Age-Autism-Class-Admissions-Application-Form-2027-28.docx",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Skerries-ETNS-School-Age-Autism-Class-Admissions-Application-Form-2027-28.docx"
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/documentlink/167/?open=true",
+      "final_url": "https://view.officeapps.live.com/op/embed.aspx?src=https://swddoc.b-cdn.net/834/docletter/20261104012513_77_Application_form_for_Admission_to_Skerries_ETNS_for_the_2027-28_school_year.docx",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Application form for Admission to Skerries ETNS for the 2027-28 school year.docx"
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/sitemap.xml",
+      "final_url": "https://www.skerrieseducatetogether.ie/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/policies-and-reports/",
+      "final_url": "https://www.skerrieseducatetogether.ie/policies-and-reports/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/documentlink/120/?open=true",
+      "final_url": "https://view.officeapps.live.com/op/embed.aspx?src=https://swddoc.b-cdn.net/834/docletter/20260106093807_82_Admissions_Policy_Approved_15.09.2025.docx",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Admissions Policy Approved 15.09.2025.docx"
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/policies-and-reports/?googletranslate=true",
+      "final_url": "https://www.skerrieseducatetogether.ie/policies-and-reports/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/parents-area/useful-links/",
+      "final_url": "https://www.skerrieseducatetogether.ie/parents-area/useful-links/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Useful links"
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/parents-area/useful-links/?googletranslate=true",
+      "final_url": "https://www.skerrieseducatetogether.ie/parents-area/useful-links/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/parents-area/schools-newsletter/",
+      "final_url": "https://www.skerrieseducatetogether.ie/parents-area/schools-newsletter/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Schools Newsletter"
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/parents-area/schools-newsletter/?googletranslate=true",
+      "final_url": "https://www.skerrieseducatetogether.ie/parents-area/schools-newsletter/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/parents-area/school-letters/",
+      "final_url": "https://www.skerrieseducatetogether.ie/parents-area/school-letters/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Letters"
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/parents-area/school-letters/?googletranslate=true",
+      "final_url": "https://www.skerrieseducatetogether.ie/parents-area/school-letters/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/parents-area/pta/",
+      "final_url": "https://www.skerrieseducatetogether.ie/parents-area/pta/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "P.T.A."
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/parents-area/pta/?googletranslate=true",
+      "final_url": "https://www.skerrieseducatetogether.ie/parents-area/pta/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/parents-area/general-information/",
+      "final_url": "https://www.skerrieseducatetogether.ie/parents-area/general-information/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "General Information"
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/parents-area/general-information/?googletranslate=true",
+      "final_url": "https://www.skerrieseducatetogether.ie/parents-area/general-information/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    }
+  ],
+  "documents": [
+    {
+      "roll": "20307O",
+      "url": "https://www.skerrieseducatetogether.ie/admissions/?googletranslate=true",
+      "label": "",
+      "sha256": "a184abd7b9ffaa7cd84a709efb1cba1144dcae26dfd9fbe775d790ec3909d8f4",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20307O_a184abd7b9ffaa7cd84a.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1587
+    },
+    {
+      "roll": "20307O",
+      "url": "https://www.skerrieseducatetogether.ie/admissions/",
+      "label": "Admissions",
+      "sha256": "f60aaa2afe198ebee58740d92ce5cfc563c72475b1350312031b41bd41999ce4",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20307O_f60aaa2afe198ebee587.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1587
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.skerrieseducatetogether.ie/parents-area/faq/",
+      "label": "FAQ",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/parents-area/communications/",
+      "label": "Communications",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/parents-area/calendar/",
+      "label": "Calendar",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/parents-area/booklists/",
+      "label": "Booklists",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/parents-area/after-school-clubs/",
+      "label": "After School Clubs",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/parents-area/",
+      "label": "Parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/documentlink/88/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/documentlink/87/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/documentlink/85/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/documentlink/70/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/documentlink/66/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/documentlink/43/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/documentlink/42/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/documentlink/33/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/documentlink/32/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/documentlink/31/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/documentlink/29/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/documentlink/27/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/documentlink/26/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/documentlink/25/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/documentlink/24/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/documentlink/22/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/documentlink/20/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/documentlink/171/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/documentlink/170/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/documentlink/169/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/documentlink/168/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/documentlink/167/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/documentlink/166/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/documentlink/165/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/documentlink/164/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/documentlink/161/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/documentlink/16/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/documentlink/155/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/documentlink/154/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/documentlink/153/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/documentlink/152/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/documentlink/15/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/documentlink/142/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/documentlink/141/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/documentlink/140/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/documentlink/14/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/documentlink/133/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/documentlink/132/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/documentlink/13/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/documentlink/126/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/documentlink/122/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/documentlink/120/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/documentlink/12/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/documentlink/118/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/documentlink/117/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/documentlink/116/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/documentlink/115/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/documentlink/114/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/documentlink/112/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/documentlink/11/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/documentlink/107/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/documentlink/105/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/documentlink/10/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/admin/?open=/policies-and-reports/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/admin/?open=/policies-and-reports/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/admin/?open=/parents-area/useful-links/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/admin/?open=/parents-area/useful-links/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/admin/?open=/parents-area/schools-newsletter/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/admin/?open=/parents-area/schools-newsletter/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/admin/?open=/parents-area/school-letters/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/admin/?open=/parents-area/school-letters/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/admin/?open=/parents-area/pta/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/admin/?open=/parents-area/pta/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/admin/?open=/parents-area/general-information/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/admin/?open=/parents-area/general-information/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie",
+      "label": "School homepage",
+      "via": "home"
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/documentlink/25/?open=true",
+      "label": "Homework Policy June 2021",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/documentlink/43/?open=true",
+      "label": "Mobile Phone Policy 2022",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/documentlink/42/?open=true",
+      "label": "Healthy Eating Policy 2022",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/documentlink/31/?open=true",
+      "label": "Skerries ETNS Communications Policy 31.01.2023 (2)",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/documentlink/16/?open=true",
+      "label": "Skerries ETNS Dignity At Work Policy 31.01.2023 (2)",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/documentlink/88/?open=true",
+      "label": "Critical Incident Policy 2024-25.doc",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/documentlink/87/?open=true",
+      "label": "English Language Policy ratified November 2024.docx",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/documentlink/85/?open=true",
+      "label": "Positive handling policy ratified 04.09.2024.doc",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/documentlink/126/?open=true",
+      "label": "Policy on the Acceptance and Handover of Children - June 2025.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/documentlink/118/?open=true",
+      "label": "SEN Policy Skerries ETNS 2025.docx",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/documentlink/117/?open=true",
+      "label": "Learn Together Policy Skerries ETNS 2025.docx",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/documentlink/114/?open=true",
+      "label": "Administration of Medication Policy 2025.docx",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/documentlink/105/?open=true",
+      "label": "Bi Cinealta Policy (ratified) 2025-26.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/documentlink/154/?open=true",
+      "label": "Final Assessment Policy SETNS 2026.docx",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/documentlink/153/?open=true",
+      "label": "Child Protection Policy April2026.docx",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/documentlink/152/?open=true",
+      "label": "Healthy Eating Policy 2026 updated.docx",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/documentlink/133/?open=true",
+      "label": "SETNS Aladdin Policy Final February 2026.docx",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/documentlink/32/?open=true",
+      "label": "Data Protection Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/documentlink/29/?open=true",
+      "label": "Parking Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/documentlink/22/?open=true",
+      "label": "Vetting Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/documentlink/20/?open=true",
+      "label": "Acceptable Usage Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/documentlink/112/?open=true",
+      "label": "Bí Cineálta Child Friendly Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/cmsfiles/policies/privacy/",
+      "label": "Website Privacy Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.skerrieseducatetogether.ie/cmsfiles/policies/cookie/",
+      "label": "Cookie Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 67.49,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:12:10+0000"
+}

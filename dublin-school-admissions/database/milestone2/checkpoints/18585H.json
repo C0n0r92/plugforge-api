@@ -1,0 +1,83 @@
+{
+  "roll": "18585H",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.maryqueenofangels1.ie/enrollment",
+      "final_url": "https://www.maryqueenofangels1.ie/enrollment",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Mainstream Enrolment"
+    },
+    {
+      "url": "https://www.maryqueenofangels1.ie/_files/ugd/4bfaac_fde61bb198024fa696128b20f0785d14.pdf",
+      "final_url": "https://www.maryqueenofangels1.ie/_files/ugd/4bfaac_fde61bb198024fa696128b20f0785d14.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download"
+    },
+    {
+      "url": "https://www.maryqueenofangels1.ie/earlystartenrolment",
+      "final_url": "https://www.maryqueenofangels1.ie/earlystartenrolment",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Early Start Enrolment"
+    },
+    {
+      "url": "https://www.maryqueenofangels1.ie/sitemap.xml",
+      "final_url": "https://www.maryqueenofangels1.ie/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.maryqueenofangels1.ie/pages-sitemap.xml",
+      "final_url": "https://www.maryqueenofangels1.ie/pages-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.maryqueenofangels1.ie/mqa1-school-policies",
+      "final_url": "https://www.maryqueenofangels1.ie/mqa1-school-policies",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Policies"
+    },
+    {
+      "url": "https://www.maryqueenofangels1.ie/",
+      "final_url": "https://www.maryqueenofangels1.ie/",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "18585H",
+      "url": "https://www.maryqueenofangels1.ie/enrollment",
+      "label": "Mainstream Enrolment",
+      "sha256": "7f00c4415f1651aa6eb2048f9564a5a41339d8fa54b05553ec06c1177a88c271",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/18585H_7f00c4415f1651aa6eb2.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 647
+    },
+    {
+      "roll": "18585H",
+      "url": "https://www.maryqueenofangels1.ie/_files/ugd/4bfaac_fde61bb198024fa696128b20f0785d14.pdf",
+      "label": "Download",
+      "sha256": "715fb518b8cb1fe2adbc89ea70bc1c06bf7256848a3e28ec63b4f7fd6d3943f2",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/18585H_715fb518b8cb1fe2adbc.txt",
+      "source_file": "database/milestone2/cache/715fb518b8cb1fe2adbc89ea70bc1c06bf7256848a3e28ec63b4f7fd6d3943f2.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 11232
+    }
+  ],
+  "pending_links": [],
+  "elapsed_seconds": 3.17,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:52:23+0000"
+}

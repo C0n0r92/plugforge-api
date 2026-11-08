@@ -1,0 +1,3531 @@
+[
+  {
+    "roll": "00752A",
+    "document_id": "d799aca373d99cf5c1eca638bf29f6a5",
+    "source_url": "https://www.centralmodelseniorschool.ie/_files/ugd/edbbb3_ecb13e4c4ea6451daaac7096656671dc.pdf",
+    "group_id": "e6358da392e5c535af0aa9a21c2809fe",
+    "title": "2026/2027",
+    "phase": "upcoming",
+    "year": "2026/2027",
+    "cohort": "Second Class",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": null
+    },
+    "notes": "Capacity cell blank, not zero. Senior intake, not Junior Infants.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "03359N",
+    "document_id": "85a78c5fc44c84bd7497c54572338cc3",
+    "source_url": "https://www.ballyroanboysschool.ie/_files/ugd/bb788b_fefb45d98d754cb4a692fe162c291c66.pdf",
+    "group_id": "93b2142cdf2e5534e2c09163da9e4497",
+    "title": "2026/2027",
+    "phase": "upcoming",
+    "year": "2026/2027",
+    "cohort": "First Class",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": null
+    },
+    "notes": "Places depend on feeder school senior-infant cohort; no fixed number published.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "04992R",
+    "document_id": "6f1f512d4970cbc6ff07452a18ea44ec",
+    "source_url": "https://www.sacredheartballygall.ie/wp-content/uploads/2025/09/Admissions-Notice-2026-2027-School-Year.pdf",
+    "group_id": "550282b03123dc2592d98ff01dfed810",
+    "title": "2026/2027",
+    "phase": "upcoming",
+    "year": "2026/2027",
+    "cohort": "Junior Infants",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 54
+    },
+    "notes": "",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "04992R",
+    "document_id": "6f1f512d4970cbc6ff07452a18ea44ec",
+    "source_url": "https://www.sacredheartballygall.ie/wp-content/uploads/2025/09/Admissions-Notice-2026-2027-School-Year.pdf",
+    "group_id": "11c6d8ae36ef1939b96c8e946b796832",
+    "title": "2026/2027",
+    "phase": "upcoming",
+    "year": "2026/2027",
+    "cohort": "Autism special classes",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 0
+    },
+    "notes": "",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "04992R",
+    "document_id": "6f1f512d4970cbc6ff07452a18ea44ec",
+    "source_url": "https://www.sacredheartballygall.ie/wp-content/uploads/2025/09/Admissions-Notice-2026-2027-School-Year.pdf",
+    "group_id": "2bcb9f02e3ee502e8c80a830a6f2a847",
+    "title": "2026/2027",
+    "phase": "retrospective",
+    "year": "2025/2026",
+    "cohort": "Junior Infants",
+    "lo": 55,
+    "hi": 74,
+    "metrics": {
+      "places": 54,
+      "applications": 60,
+      "offers": 54,
+      "waiting_list_names_placed": 6
+    },
+    "notes": "Detailed table and narrative explicitly2025/26; Part2 heading2026/27 conflicts, retained as year-qualified detailed table.",
+    "scope": "whole_table",
+    "status": null,
+    "year_status": "explicit_table_year_conflicting_section_header"
+  },
+  {
+    "roll": "04992R",
+    "document_id": "6f1f512d4970cbc6ff07452a18ea44ec",
+    "source_url": "https://www.sacredheartballygall.ie/wp-content/uploads/2025/09/Admissions-Notice-2026-2027-School-Year.pdf",
+    "group_id": "6f98425275577d22b71a1a8ae1c473cf",
+    "title": "2026/2027",
+    "phase": "retrospective",
+    "year": "2025/2026",
+    "cohort": "Autism special classes",
+    "lo": 75,
+    "hi": 84,
+    "metrics": {
+      "places": 12,
+      "applications": 32,
+      "waiting_list_names_placed": 20
+    },
+    "notes": "Only criterion-level offers-and-accepted printed; no aggregate offers or acceptances inferred.",
+    "scope": "whole_table",
+    "status": null,
+    "year_status": "explicit_table_year_conflicting_section_header"
+  },
+  {
+    "roll": "11894I",
+    "document_id": "5701ca169936fcfb5ceadf7555ef4643",
+    "source_url": "https://www.scoilmhuiregns.ie/media/pages/enrolment/5faf3d0c37-1760005376/sm-gns-annual-admission-notice-2026-27.pdf",
+    "group_id": "2d27106569b150a759d7641f5168f1bb",
+    "title": "2026/2027",
+    "phase": "upcoming",
+    "year": "2026/2027",
+    "cohort": "Junior Infants",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 40
+    },
+    "notes": "",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "11894I",
+    "document_id": "5701ca169936fcfb5ceadf7555ef4643",
+    "source_url": "https://www.scoilmhuiregns.ie/media/pages/enrolment/5faf3d0c37-1760005376/sm-gns-annual-admission-notice-2026-27.pdf",
+    "group_id": "62c77b16d68e989ec3d2f39ab6c4079e",
+    "title": "2026/2027",
+    "phase": "upcoming",
+    "year": "2026/2027",
+    "cohort": "Autism special classes",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 0
+    },
+    "notes": "",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "11894I",
+    "document_id": "5701ca169936fcfb5ceadf7555ef4643",
+    "source_url": "https://www.scoilmhuiregns.ie/media/pages/enrolment/5faf3d0c37-1760005376/sm-gns-annual-admission-notice-2026-27.pdf",
+    "group_id": "9744b0c899a4da3ad912bbee05a1a1f8",
+    "title": "2026/2027",
+    "phase": "retrospective",
+    "year": "2025/2026",
+    "cohort": "Junior Infants",
+    "lo": 73,
+    "hi": 106,
+    "metrics": {
+      "places": 40,
+      "applications": 51,
+      "offers": 51,
+      "waiting_list_names_placed": 0
+    },
+    "notes": "",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "11894I",
+    "document_id": "5701ca169936fcfb5ceadf7555ef4643",
+    "source_url": "https://www.scoilmhuiregns.ie/media/pages/enrolment/5faf3d0c37-1760005376/sm-gns-annual-admission-notice-2026-27.pdf",
+    "group_id": "bccb3fb9ae5747ca10dfd25229e9de95",
+    "title": "2026/2027",
+    "phase": "retrospective",
+    "year": "2025/2026",
+    "cohort": "Autism special classes",
+    "lo": 109,
+    "hi": 129,
+    "metrics": {
+      "places": 0,
+      "applications": 5,
+      "offers": 0,
+      "waiting_list_names_placed": 5
+    },
+    "notes": "",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "14917J",
+    "document_id": "4d31d0908e26c92cc25cea4f3d1b4992",
+    "source_url": "https://static1.squarespace.com/static/5fe36092b746f750d4d47ef9/t/639c718cc02e8d28f0763a90/1671197068231/Admissions+details+2023-+2024.pdf",
+    "group_id": "33967c94519c8853fb8d1498a0ad7af8",
+    "title": "2023/2024",
+    "phase": "upcoming",
+    "year": "2023/2024",
+    "cohort": "Junior Infants",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 12
+    },
+    "notes": "",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "14917J",
+    "document_id": "4d31d0908e26c92cc25cea4f3d1b4992",
+    "source_url": "https://static1.squarespace.com/static/5fe36092b746f750d4d47ef9/t/639c718cc02e8d28f0763a90/1671197068231/Admissions+details+2023-+2024.pdf",
+    "group_id": "b28fcba37a9a43351a41482c81311b12",
+    "title": "2023/2024",
+    "phase": "retrospective",
+    "year": null,
+    "cohort": "Junior Infants",
+    "lo": 35,
+    "hi": 95,
+    "metrics": {
+      "places": 14,
+      "applications": 23,
+      "offers": 14,
+      "waiting_list_names_placed": 0
+    },
+    "notes": "Part2 heading/narrative2022/23 vs detailed breakdown2021/22; year unresolved.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "15132B",
+    "document_id": "6c5fccee30ce1c87ab58e54a42006517",
+    "source_url": "https://www.haroldboysdalkey.ie/_files/ugd/7ce6f8_c536f50f59b9483cadc1f263a2c399e0.pdf",
+    "group_id": "df21c9689ea988c77875564c184c1bf0",
+    "title": "2025/2026",
+    "phase": "upcoming",
+    "year": "2025/2026",
+    "cohort": "Second Class",
+    "lo": 22,
+    "hi": 52,
+    "metrics": {
+      "places": 26
+    },
+    "notes": "Explicit application/decision heading names admission to Second Class2025; identical archived PDF independently confirms intake.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "15132B",
+    "document_id": "6c5fccee30ce1c87ab58e54a42006517",
+    "source_url": "https://www.haroldboysdalkey.ie/_files/ugd/7ce6f8_c536f50f59b9483cadc1f263a2c399e0.pdf",
+    "group_id": "5a0cf4391fa695387ad31f8cdccbdd82",
+    "title": "2025/2026",
+    "phase": "retrospective",
+    "year": "2024/2025",
+    "cohort": "Second Class",
+    "lo": 25,
+    "hi": 48,
+    "metrics": {
+      "places": 26,
+      "applications": 20,
+      "offers": 20,
+      "waiting_list_names_placed": 0
+    },
+    "notes": "",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "15625B",
+    "document_id": "2e18959ffb13e0cb5482c77089dd8b71",
+    "source_url": "https://stcatherinesns.net/wp-content/uploads/2025/09/Annual-Admissions-Notice-2026-27.pdf",
+    "group_id": "2eac951881aee6cd60f6f89e4097cb1a",
+    "title": "2026/2027",
+    "phase": "upcoming",
+    "year": "2026/2027",
+    "cohort": "Junior Infants",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 26
+    },
+    "notes": "",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "15625B",
+    "document_id": "2e18959ffb13e0cb5482c77089dd8b71",
+    "source_url": "https://stcatherinesns.net/wp-content/uploads/2025/09/Annual-Admissions-Notice-2026-27.pdf",
+    "group_id": "10edb8f8a039ba5107332974e5ef5f43",
+    "title": "2026/2027",
+    "phase": "retrospective",
+    "year": "2025/2026",
+    "cohort": "Junior Infants",
+    "lo": 64,
+    "hi": 104,
+    "metrics": {
+      "places": 28,
+      "applications": 70,
+      "offers": 30,
+      "waiting_list_names_placed": 40
+    },
+    "notes": "Introductory narrative66 vs detailed applications70, unresolved source conflict; both retained in same group.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "15625B",
+    "document_id": "2e18959ffb13e0cb5482c77089dd8b71",
+    "source_url": "https://stcatherinesns.net/wp-content/uploads/2025/09/Annual-Admissions-Notice-2026-27.pdf",
+    "group_id": "10edb8f8a039ba5107332974e5ef5f43",
+    "title": "2026/2027",
+    "phase": "retrospective",
+    "year": "2025/2026",
+    "cohort": "Junior Infants",
+    "lo": 71,
+    "hi": 72,
+    "metrics": {
+      "applications": 66
+    },
+    "notes": "Introductory66 versus detailed70; consensus applications must remain NULL.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "16333Q",
+    "document_id": "a9d3647569f27cfe84e2073b648e7ddb",
+    "source_url": "https://stps.ie/wp-content/uploads/2024/01/2024-2025-School-Year-Admissions-Notice-1.docx",
+    "group_id": "feba5e89eb5e185453d3028f236514c0",
+    "title": "2023/2024",
+    "phase": "upcoming",
+    "year": null,
+    "cohort": "Junior Infants",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 72
+    },
+    "notes": "Title and capacity/Part1 give conflicting2023/24 and2024/25 labels. No guessed year.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "16333Q",
+    "document_id": "8cab1d20550f2ccabd10288347831230",
+    "source_url": "https://stps.ie/wp-content/uploads/2023/09/2024-2025-STPS-Annual-Admissions-Notice.pdf",
+    "group_id": "6aa9be429fd384706579250eea52caeb",
+    "title": "2024/2025",
+    "phase": "upcoming",
+    "year": null,
+    "cohort": "Junior Infants",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 72
+    },
+    "notes": "Title and capacity/Part1 give conflicting2023/24 and2024/25 labels. No guessed year.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "16695E",
+    "document_id": "79b1529229102b9978082a191483125c",
+    "source_url": "https://www.brunnerprimary.ie/_files/ugd/2d1e22_f1ffcffc42d647458121bb95a2d83bf2.docx?dn=_Admissions%20notice%202026-2027.docx",
+    "group_id": "b0252051f320e3901ef4f6f7ccc29913",
+    "title": "2027/2028",
+    "phase": "upcoming",
+    "year": null,
+    "cohort": "Junior Infants",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 19
+    },
+    "notes": "Title2027/28 vs capacity2026/27.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "16695E",
+    "document_id": "79b1529229102b9978082a191483125c",
+    "source_url": "https://www.brunnerprimary.ie/_files/ugd/2d1e22_f1ffcffc42d647458121bb95a2d83bf2.docx?dn=_Admissions%20notice%202026-2027.docx",
+    "group_id": "a7ee4d7847f2bdd080f1eaa6c372243b",
+    "title": "2027/2028",
+    "phase": "upcoming",
+    "year": null,
+    "cohort": "Autism special classes",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 1
+    },
+    "notes": "Title2027/28 vs capacity2026/27.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "16988T",
+    "document_id": "460a2d08e213d6b6bbde276beb97571b",
+    "source_url": "https://www.christthekingbns.ie/wp-content/uploads/2025/10/Admissions-notice-26-27.docx.pdf",
+    "group_id": "8349c35c7f466bebea85614f5c3734a5",
+    "title": "2026/2027",
+    "phase": "upcoming",
+    "year": "2026/2027",
+    "cohort": "Junior Infants",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 21
+    },
+    "notes": "",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "16988T",
+    "document_id": "460a2d08e213d6b6bbde276beb97571b",
+    "source_url": "https://www.christthekingbns.ie/wp-content/uploads/2025/10/Admissions-notice-26-27.docx.pdf",
+    "group_id": "f2b930b36ddc2d12639358191d24ca8f",
+    "title": "2026/2027",
+    "phase": "upcoming",
+    "year": "2026/2027",
+    "cohort": "Autism Le Cheile class",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 1
+    },
+    "notes": "",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "16988T",
+    "document_id": "460a2d08e213d6b6bbde276beb97571b",
+    "source_url": "https://www.christthekingbns.ie/wp-content/uploads/2025/10/Admissions-notice-26-27.docx.pdf",
+    "group_id": "fe3825416d5f80f3d0b9e5f94e696ef6",
+    "title": "2026/2027",
+    "phase": "retrospective",
+    "year": "2025/2026",
+    "cohort": "Unspecified historical intake (not inferred)",
+    "lo": 86,
+    "hi": 103,
+    "metrics": {
+      "places": 1,
+      "applications": 17,
+      "offers": 2,
+      "waiting_list_names_placed": 15
+    },
+    "notes": "Unlabelled historical table not forced into Junior Infants; aggregate acceptances not printed.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "17083B",
+    "document_id": "9d329d49e715e670e5f381253faa1b9c",
+    "source_url": "https://smgs.ie/wp-content/uploads/2023/11/Admissions-Notice-2024-25-1.pdf",
+    "group_id": "7adfd07912e74151b48529adfe72eda8",
+    "title": "2024/2025",
+    "phase": "upcoming",
+    "year": null,
+    "cohort": "Junior Infants",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 50
+    },
+    "notes": "Title2024/25 vs capacity heading2023. Explicit conflict retained.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "17148D",
+    "document_id": "a36096f906a2f0b4eb5cf4403ea7f752",
+    "source_url": "https://www.belgroveseniorgirls.ie/wp-content/uploads/2025/11/Annual-Admission-Notice-26-27.pdf",
+    "group_id": "304d294976d76f5dfb11e5aab4e647c1",
+    "title": "2026/2027",
+    "phase": "upcoming",
+    "year": "2026/2027",
+    "cohort": "Second Class",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places_conditional_reference": 78
+    },
+    "notes": "Conditional: printed number OR number of girls from Belgrove Infant Girls first classes seeking admission. Not a fixed available-place denominator.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "17148D",
+    "document_id": "2a67d0ccf0baeab7f302f722cd561ed1",
+    "source_url": "https://www.belgroveseniorgirls.ie/wp-content/uploads/2024/12/2025-26-BSGNS-Annual-Admission-Notice.pdf",
+    "group_id": "aedb553d305efe45cb56c1b2198d6ca2",
+    "title": "2025/2026",
+    "phase": "upcoming",
+    "year": "2025/2026",
+    "cohort": "Second Class",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places_conditional_reference": 75
+    },
+    "notes": "Conditional: printed number OR number of girls from Belgrove Infant Girls first classes seeking admission. Not a fixed available-place denominator.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "17148D",
+    "document_id": "f0ef17f4dc081c4570a5cd770234ed98",
+    "source_url": "https://www.belgroveseniorgirls.ie/wp-content/uploads/2023/12/2024-2025-BSGNS-Annual-Admission-Notice.pdf",
+    "group_id": "264bb1af4c5d450b9aaca13ef1e4f894",
+    "title": "2024/2025",
+    "phase": "upcoming",
+    "year": "2024/2025",
+    "cohort": "Second Class",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places_conditional_reference": 75
+    },
+    "notes": "Conditional: printed number OR number of girls from Belgrove Infant Girls first classes seeking admission. Not a fixed available-place denominator.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "17148D",
+    "document_id": "df14842ed09c91ea3331dac8164801db",
+    "source_url": "https://www.belgroveseniorgirls.ie/wp-content/uploads/2022/12/BSGNS-Annual-Admission-Notice-2023-24.pdf",
+    "group_id": "1b632677e1aae7ea4f08d68591342aed",
+    "title": "2023/2024",
+    "phase": "upcoming",
+    "year": "2023/2024",
+    "cohort": "Second Class",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places_conditional_reference": 75
+    },
+    "notes": "Conditional: printed number OR number of girls from Belgrove Infant Girls first classes seeking admission. Not a fixed available-place denominator.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "17148D",
+    "document_id": "493dd639ba34f85394eabf9b2f27f335",
+    "source_url": "https://www.belgroveseniorgirls.ie/wp-content/uploads/2022/07/2022-23-BSGNS-Annual-Admission-Notice_compressed.pdf",
+    "group_id": "fa2bab0801fd170b8e70c87f4fc1369f",
+    "title": "2022/2023",
+    "phase": "upcoming",
+    "year": "2022/2023",
+    "cohort": "Second Class",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places_conditional_reference": 78
+    },
+    "notes": "Conditional: printed number OR number of girls from Belgrove Infant Girls first classes seeking admission. Not a fixed available-place denominator.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "17148D",
+    "document_id": "a33cfaf24c4366ccc254410837cadb16",
+    "source_url": "https://www.belgroveseniorgirls.ie/wp-content/uploads/2021/12/2022-23-BSGNS-Annual-Admission-Notice.pdf",
+    "group_id": "226c617741d15b19468c178745ee6cd2",
+    "title": "2022/2023",
+    "phase": "upcoming",
+    "year": "2022/2023",
+    "cohort": "Second Class",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places_conditional_reference": 78
+    },
+    "notes": "Conditional: printed number OR number of girls from Belgrove Infant Girls first classes seeking admission. Not a fixed available-place denominator.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "17148D",
+    "document_id": "4e1714837327783ccd13ab8ea384a998",
+    "source_url": "https://www.belgroveseniorgirls.ie/wp-content/uploads/2020/12/2021-22-BSGNS-Annual-Admission-Notice.pdf",
+    "group_id": "b2e9886573918a6f49150c4f3e5c3215",
+    "title": "2021/2022",
+    "phase": "upcoming",
+    "year": "2021/2022",
+    "cohort": "Second Class",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places_conditional_reference": 78
+    },
+    "notes": "Conditional: printed number OR number of girls from Belgrove Infant Girls first classes seeking admission. Not a fixed available-place denominator.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "17507F",
+    "document_id": "2a1a73120a0419890f9bfcdeba28fb43",
+    "source_url": "https://www.glencullenschool.ie/wp-content/uploads/2021/10/Annual-Admission-Notice-20212022.pdf",
+    "group_id": "8d8ac29d707fe1761c52d2fa5354a92e",
+    "title": "2022/2023",
+    "phase": "upcoming",
+    "year": null,
+    "cohort": "Junior Infants",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 30
+    },
+    "notes": "Title2022/23 vs Part1/capacity2021/22.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "17507F",
+    "document_id": "2a1a73120a0419890f9bfcdeba28fb43",
+    "source_url": "https://www.glencullenschool.ie/wp-content/uploads/2021/10/Annual-Admission-Notice-20212022.pdf",
+    "group_id": "c0b89b9dbf9df0b5369516b865953d7f",
+    "title": "2022/2023",
+    "phase": "upcoming",
+    "year": null,
+    "cohort": "Special class (type unspecified)",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 6
+    },
+    "notes": "Conflicting printed years.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "17507F",
+    "document_id": "a7e85a0d8bf4e40bcf8df66e2c04162b",
+    "source_url": "https://www.glencullenschool.ie/wp-content/uploads/2020/09/Annual-Admission-Notice-2021.2022.pdf",
+    "group_id": "94e8e348922b8dbbcae29d0161960de8",
+    "title": "2021/2022",
+    "phase": "upcoming",
+    "year": "2021/2022",
+    "cohort": "Junior Infants",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": null
+    },
+    "notes": "Genuine dated notice but no numeric capacity published in retrieved PDF.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "17603B",
+    "document_id": "7a4891404d944dca96e17ef519f0e348",
+    "source_url": "https://scoiliosagain.com/wp-content/uploads/2025/11/Scoil-Iosagain-ANNUAL-ADMISSION-NOTICE-26-27.docx",
+    "group_id": "86068ac720ef2e3f001117a60c72acdf",
+    "title": "2026/2027",
+    "phase": "upcoming",
+    "year": null,
+    "cohort": "Second Class",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 22
+    },
+    "notes": "Capacity2023/24 conflicts with title2026/27.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "17603B",
+    "document_id": "7a4891404d944dca96e17ef519f0e348",
+    "source_url": "https://scoiliosagain.com/wp-content/uploads/2025/11/Scoil-Iosagain-ANNUAL-ADMISSION-NOTICE-26-27.docx",
+    "group_id": "6fa001eee43918e0916b44055c5d105f",
+    "title": "2026/2027",
+    "phase": "upcoming",
+    "year": null,
+    "cohort": "Autism special classes",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 2
+    },
+    "notes": "Conflicting capacity/title years.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "17899C",
+    "document_id": "1c80aba04d0dc8b6b32f116bbd52ee8b",
+    "source_url": "https://www.scoilcarmeljns.com/_files/ugd/02d54a_3ee3bae95b6e42d59244d91de613489e.pdf",
+    "group_id": "2c964fca20484167317a473089072242",
+    "title": "2027/2028",
+    "phase": "upcoming",
+    "year": "2027/2028",
+    "cohort": "Junior Infants",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 100
+    },
+    "notes": "",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "17899C",
+    "document_id": "1c80aba04d0dc8b6b32f116bbd52ee8b",
+    "source_url": "https://www.scoilcarmeljns.com/_files/ugd/02d54a_3ee3bae95b6e42d59244d91de613489e.pdf",
+    "group_id": "c1b976dd7ad430ba065c37d8915b8e20",
+    "title": "2027/2028",
+    "phase": "upcoming",
+    "year": "2027/2028",
+    "cohort": "Autism special classes",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 1
+    },
+    "notes": "",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "17899C",
+    "document_id": "1c80aba04d0dc8b6b32f116bbd52ee8b",
+    "source_url": "https://www.scoilcarmeljns.com/_files/ugd/02d54a_3ee3bae95b6e42d59244d91de613489e.pdf",
+    "group_id": "72b80466fe093257537f753eb48408b1",
+    "title": "2027/2028",
+    "phase": "retrospective",
+    "year": "2026/2027",
+    "cohort": "Autism special classes",
+    "lo": 68,
+    "hi": 80,
+    "metrics": {
+      "places": 5,
+      "applications": 43
+    },
+    "notes": "",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "17953F",
+    "document_id": "7a81e82c1b6fdc3a43b6dea690ee2b5f",
+    "source_url": "https://www.edmondstownns.ie/uploads/1/1/3/3/113387553/admissions_notice_for_2025_academic_year.pdf",
+    "group_id": "721f4a77bb93deebab5b858281a8d335",
+    "title": "2025/2026",
+    "phase": "upcoming",
+    "year": "2025/2026",
+    "cohort": "Junior Infants",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 25
+    },
+    "notes": "Source body year, not filename/upload year.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "17953F",
+    "document_id": "2696824b7c730b6098fbfcbc4837c4f0",
+    "source_url": "https://www.edmondstownns.ie/uploads/1/1/3/3/113387553/admissions_notice_for_2024_academic_year.pdf",
+    "group_id": "8e12c448a23e982fe5dc11c1b7284e32",
+    "title": "2025/2026",
+    "phase": "upcoming",
+    "year": "2025/2026",
+    "cohort": "Junior Infants",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 25
+    },
+    "notes": "Source body year, not filename/upload year.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "17953F",
+    "document_id": "e0244b90c7c428339ee0efd839c1f805",
+    "source_url": "https://www.edmondstownns.ie/uploads/1/1/3/3/113387553/admissions_notice_2022.pdf",
+    "group_id": "0492f3c001bf154d0b249fac271becd6",
+    "title": "2022/2023",
+    "phase": "upcoming",
+    "year": "2022/2023",
+    "cohort": "Junior Infants",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 16
+    },
+    "notes": "Source body year, not filename/upload year.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "17996A",
+    "document_id": "687483c9de6350a6266889e5b66d9c96",
+    "source_url": "https://glenasmolens.com/wp-content/uploads/2025/09/Admissions-notice-2026-2027.docx-1.pdf",
+    "group_id": "3a9af63d99dd32b9d251fee582f53cc9",
+    "title": "2026/2027",
+    "phase": "upcoming",
+    "year": null,
+    "cohort": "Junior Infants",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 24
+    },
+    "notes": "Capacity heading2025 conflicts with title/Part1; no inferred academic year.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "17996A",
+    "document_id": "a7a1b27f40556a3d66f9c1ce78c52f94",
+    "source_url": "https://glenasmolens.com/wp-content/uploads/2024/09/Admissions-notice-2025-2026.docx.pdf",
+    "group_id": "70e06fbf6d49d4cb1516cf469e8d2c5b",
+    "title": "2023/2024",
+    "phase": "upcoming",
+    "year": null,
+    "cohort": "Junior Infants",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 24
+    },
+    "notes": "Capacity heading2025 conflicts with title/Part1; no inferred academic year.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "18360G",
+    "document_id": "d559d34947ff1817261a671acc57e8f9",
+    "source_url": "https://www.stbrendansprimaryschool.org/wp-content/uploads/2023/10/Admissions-notice-September-2025.pdf",
+    "group_id": "95679dce37d35d271c076fa2808a3ce2",
+    "title": "2026/2027",
+    "phase": "upcoming",
+    "year": null,
+    "cohort": "Second Class",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 40
+    },
+    "notes": "Title2026/27 vs capacity2025/26.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "18360G",
+    "document_id": "d559d34947ff1817261a671acc57e8f9",
+    "source_url": "https://www.stbrendansprimaryschool.org/wp-content/uploads/2023/10/Admissions-notice-September-2025.pdf",
+    "group_id": "a330e8feecb589298fe5a7e8a7087b34",
+    "title": "2026/2027",
+    "phase": "upcoming",
+    "year": null,
+    "cohort": "Autism special classes",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 1
+    },
+    "notes": "Conflicting title/capacity years.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "18602E",
+    "document_id": "20b2ba1cf71270229391c145597f1c7a",
+    "source_url": "https://www.smclon.com/files/Annual-Admissions-Notice.pdf",
+    "group_id": "96cf9996b6d514b80f97649d02aaf2c5",
+    "title": "2027/2028",
+    "phase": "upcoming",
+    "year": null,
+    "cohort": "Junior Infants",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 54
+    },
+    "notes": "Title2027/28 vs capacity2026/27.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "18602E",
+    "document_id": "20b2ba1cf71270229391c145597f1c7a",
+    "source_url": "https://www.smclon.com/files/Annual-Admissions-Notice.pdf",
+    "group_id": "c828939f6fd09a917193b8d986a197d3",
+    "title": "2027/2028",
+    "phase": "upcoming",
+    "year": null,
+    "cohort": "Autism special classes",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 0
+    },
+    "notes": "Conflicting title/capacity years.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "18682F",
+    "document_id": "3a922fc252fd4596104d9d3aec632548",
+    "source_url": "https://stcanices.com/wp-content/uploads/2025/12/Admissions-Notice-26-27-Published-Version.pdf",
+    "group_id": "8c83835b04cadc0ce5c25047c080a05e",
+    "title": "2026/2027",
+    "phase": "upcoming",
+    "year": "2026/2027",
+    "cohort": "Junior Infants",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": null
+    },
+    "notes": "Genuine annual notice, capacity not printed in retrieved text.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "18817C",
+    "document_id": "81e940e7a5c9b32309ef69bf66d7f12d",
+    "source_url": "https://storage.googleapis.com/iclasscrm_files/2481/Images/Content/2026/264/bb00-ANNUAL_ADMISSION_NOTICE_Gaeilge_2027_gaeilge.pdf",
+    "group_id": "6b390d48f4e574111add3b53c2eedc9c",
+    "title": "2027/2028",
+    "phase": "upcoming",
+    "year": "2027/2028",
+    "cohort": "Junior Infants",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 56
+    },
+    "notes": "",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "18817C",
+    "document_id": "81e940e7a5c9b32309ef69bf66d7f12d",
+    "source_url": "https://storage.googleapis.com/iclasscrm_files/2481/Images/Content/2026/264/bb00-ANNUAL_ADMISSION_NOTICE_Gaeilge_2027_gaeilge.pdf",
+    "group_id": "97a25028ae69488a8c882af13b6fc935",
+    "title": "2027/2028",
+    "phase": "upcoming",
+    "year": "2027/2028",
+    "cohort": "Special class (type not specified in aggregate)",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 0
+    },
+    "notes": "",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "18817C",
+    "document_id": "81e940e7a5c9b32309ef69bf66d7f12d",
+    "source_url": "https://storage.googleapis.com/iclasscrm_files/2481/Images/Content/2026/264/bb00-ANNUAL_ADMISSION_NOTICE_Gaeilge_2027_gaeilge.pdf",
+    "group_id": "228bcbc428b5a4fb8f3f80bc137f08de",
+    "title": "2027/2028",
+    "phase": "retrospective",
+    "year": "2026/2027",
+    "cohort": "Junior Infants",
+    "lo": 48,
+    "hi": 87,
+    "metrics": {
+      "places": 60,
+      "applications": 128,
+      "offers": 106,
+      "waiting_list_names_placed": 22
+    },
+    "notes": "Irish original reviewed; criterion acceptances not summed.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "18817C",
+    "document_id": "81e940e7a5c9b32309ef69bf66d7f12d",
+    "source_url": "https://storage.googleapis.com/iclasscrm_files/2481/Images/Content/2026/264/bb00-ANNUAL_ADMISSION_NOTICE_Gaeilge_2027_gaeilge.pdf",
+    "group_id": "89bfc3241f6a5522e0ecf34ca6147439",
+    "title": "2027/2028",
+    "phase": "retrospective",
+    "year": "2026/2027",
+    "cohort": "Special class (type unspecified)",
+    "lo": 88,
+    "hi": 145,
+    "metrics": {
+      "places": 6,
+      "applications": 10,
+      "offers": 10,
+      "waiting_list_names_placed": 0
+    },
+    "notes": "CUID3 separate special-class intake; not merged with Junior Infants.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "18843D",
+    "document_id": "d65ed41ba3041af1da7404113137ecc5",
+    "source_url": "https://www.maryqueenofangels2.ie/uploads/2/7/0/0/27005461/annual_admission_notice_2023.pdf",
+    "group_id": "e2dc3912122966fd73b0de251498f462",
+    "title": "2023/2024",
+    "phase": "upcoming",
+    "year": "2023/2024",
+    "cohort": "Junior Infants",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 22
+    },
+    "notes": "",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "18843D",
+    "document_id": "d65ed41ba3041af1da7404113137ecc5",
+    "source_url": "https://www.maryqueenofangels2.ie/uploads/2/7/0/0/27005461/annual_admission_notice_2023.pdf",
+    "group_id": "dd9078ea1c59f09adb67f3790ff56c20",
+    "title": "2023/2024",
+    "phase": "upcoming",
+    "year": "2023/2024",
+    "cohort": "ASD special class",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 0
+    },
+    "notes": "",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "18843D",
+    "document_id": "d65ed41ba3041af1da7404113137ecc5",
+    "source_url": "https://www.maryqueenofangels2.ie/uploads/2/7/0/0/27005461/annual_admission_notice_2023.pdf",
+    "group_id": "a29d527ac7fdd68a8c0b6862b69463d1",
+    "title": "2023/2024",
+    "phase": "retrospective",
+    "year": "2022/2023",
+    "cohort": "ASD special class",
+    "lo": 114,
+    "hi": 134,
+    "metrics": {
+      "places": 0,
+      "applications": 6,
+      "offers": 0,
+      "waiting_list_names_placed": 6
+    },
+    "notes": "",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "18911R",
+    "document_id": "d17b6c5eabd24c078118b0e5f4c60c0e",
+    "source_url": "https://www.olvgns.ie/uploads/1/3/2/6/13264917/admissions_notice_2026.docx",
+    "group_id": "2dccbdb4e3539fd3e154f2ca22e0d84e",
+    "title": "2026/2027",
+    "phase": "upcoming",
+    "year": null,
+    "cohort": "Second Class",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 50
+    },
+    "notes": "Title2026/27 vs narrative2025/26; source publication05/01/2026 does not resolve academic-year conflict.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "18911R",
+    "document_id": "d17b6c5eabd24c078118b0e5f4c60c0e",
+    "source_url": "https://www.olvgns.ie/uploads/1/3/2/6/13264917/admissions_notice_2026.docx",
+    "group_id": "cb75f0b368bcd346710faa4f90545eda",
+    "title": "2026/2027",
+    "phase": "upcoming",
+    "year": null,
+    "cohort": "Special class (type unspecified)",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 0
+    },
+    "notes": "Conflicting title/narrative years.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "19007S",
+    "document_id": "8e7598dcb1b7744295bdb49b40d69572",
+    "source_url": "https://belgrove.ie/wp-content/uploads/2024/11/Annual-addmissions-notice-25-26.pdf",
+    "group_id": "765323cedb26f02ed6007714f957c04f",
+    "title": "2025/2026",
+    "phase": "upcoming",
+    "year": "2025/2026",
+    "cohort": "Junior Infants",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 84
+    },
+    "notes": "",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "19221U",
+    "document_id": "1dc5c6c77d4c0d3fd74bec872404bde8",
+    "source_url": "https://www.scoilaine.ie/admissions/?googletranslate=true",
+    "group_id": "cde206fa1e4fcbc68af81c5f6f809559",
+    "title": "2027/2028",
+    "phase": "upcoming",
+    "year": "2027/2028",
+    "cohort": "Junior Infants",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 50
+    },
+    "notes": "",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "19221U",
+    "document_id": "1dc5c6c77d4c0d3fd74bec872404bde8",
+    "source_url": "https://www.scoilaine.ie/admissions/?googletranslate=true",
+    "group_id": "c2cf6c4f06dd966408918e3ccbd67b1c",
+    "title": "2027/2028",
+    "phase": "upcoming",
+    "year": "2027/2028",
+    "cohort": "Autism special classes",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 2
+    },
+    "notes": "Source explicitly says2 available places, not the12 currently enrolled.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "19302U",
+    "document_id": "f5705fcf1acf5cab8fa4bf6cb3b765a0",
+    "source_url": "https://www.virginmarybns.ie/",
+    "group_id": "4cb58d88dd34c421f3b20f2683adac42",
+    "title": "2027/2028",
+    "phase": "upcoming",
+    "year": "2027/2028",
+    "cohort": "Early Start",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 30
+    },
+    "notes": "30 Early Start slots, not Junior Infant capacity.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "19302U",
+    "document_id": "f5705fcf1acf5cab8fa4bf6cb3b765a0",
+    "source_url": "https://www.virginmarybns.ie/",
+    "group_id": "6db8272ab8f92051ed3e01a27ef49e68",
+    "title": "2027/2028",
+    "phase": "upcoming",
+    "year": "2027/2028",
+    "cohort": "Senior Autism class",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 0
+    },
+    "notes": "Explicit zero available in existing class; not zero applications.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "19302U",
+    "document_id": "f5705fcf1acf5cab8fa4bf6cb3b765a0",
+    "source_url": "https://www.virginmarybns.ie/",
+    "group_id": "a5a1ed50a02b156c2cf1960be0463a3a",
+    "title": "2027/2028",
+    "phase": "upcoming",
+    "year": "2027/2028",
+    "cohort": "Junior Infants",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 20
+    },
+    "notes": "",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "19302U",
+    "document_id": "f5705fcf1acf5cab8fa4bf6cb3b765a0",
+    "source_url": "https://www.virginmarybns.ie/",
+    "group_id": "052fdb3952b6f149a3fd2deddf980542",
+    "title": "2027/2028",
+    "phase": "upcoming",
+    "year": "2027/2028",
+    "cohort": "Junior Autism class",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 0
+    },
+    "notes": "Distinct junior class available places0; not6 already enrolled.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "19302U",
+    "document_id": "166a66a8c2ed6e6c5731ed5e395ab0ac",
+    "source_url": "https://www.virginmarybns.ie/enrolments.html",
+    "group_id": "1463106e32abbd59de49bab7d02c18dd",
+    "title": "2023/2024",
+    "phase": "upcoming",
+    "year": "2023/2024",
+    "cohort": "Early Start",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 30
+    },
+    "notes": "30 Early Start slots, not Junior Infant capacity.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "19302U",
+    "document_id": "166a66a8c2ed6e6c5731ed5e395ab0ac",
+    "source_url": "https://www.virginmarybns.ie/enrolments.html",
+    "group_id": "7c296d67cd85fe8a2b422720da6bc08a",
+    "title": "2023/2024",
+    "phase": "upcoming",
+    "year": "2023/2024",
+    "cohort": "Autism special class",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 0
+    },
+    "notes": "Explicit zero available in existing class; not zero applications.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "19302U",
+    "document_id": "166a66a8c2ed6e6c5731ed5e395ab0ac",
+    "source_url": "https://www.virginmarybns.ie/enrolments.html",
+    "group_id": "a3d461db38bfbf9ee87a0369b919194b",
+    "title": "2023/2024",
+    "phase": "upcoming",
+    "year": "2023/2024",
+    "cohort": "Junior Infants",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 20
+    },
+    "notes": "",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "19303W",
+    "document_id": "9c0413e2533be4989330e1007af87148",
+    "source_url": "https://www.virginmarygns.ie/uploads/3/9/4/3/39434705/admission_notice_vmgns_26-27.pdf",
+    "group_id": "ca0471091fffb5d007dd744ccf097d25",
+    "title": "2027/2028",
+    "phase": "upcoming",
+    "year": null,
+    "cohort": "Junior Infants",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 20
+    },
+    "notes": "Title2027/28 vs capacity2025/26 and Part12024/25.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "19303W",
+    "document_id": "9c0413e2533be4989330e1007af87148",
+    "source_url": "https://www.virginmarygns.ie/uploads/3/9/4/3/39434705/admission_notice_vmgns_26-27.pdf",
+    "group_id": "c2c731f947ab995d2f164641f4234fc5",
+    "title": "2027/2028",
+    "phase": "upcoming",
+    "year": null,
+    "cohort": "Special class (type unspecified)",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 3
+    },
+    "notes": "Conflicting printed years.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "19303W",
+    "document_id": "9c0413e2533be4989330e1007af87148",
+    "source_url": "https://www.virginmarygns.ie/uploads/3/9/4/3/39434705/admission_notice_vmgns_26-27.pdf",
+    "group_id": "83d9582f02145fc26e4789773022b1f3",
+    "title": "2027/2028",
+    "phase": "retrospective",
+    "year": "2026/2027",
+    "cohort": "Junior Infants",
+    "lo": 52,
+    "hi": 68,
+    "metrics": {
+      "places": 19,
+      "applications": 20,
+      "offers": 19,
+      "acceptances": 19,
+      "waiting_list_names_placed": 1
+    },
+    "notes": "Explicitly printed aggregate offers19/accepted19, not actual admissions.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "19303W",
+    "document_id": "9c0413e2533be4989330e1007af87148",
+    "source_url": "https://www.virginmarygns.ie/uploads/3/9/4/3/39434705/admission_notice_vmgns_26-27.pdf",
+    "group_id": "2bba2f003c0c1762c88285e7f7288c3e",
+    "title": "2027/2028",
+    "phase": "retrospective",
+    "year": "2026/2027",
+    "cohort": "Special class (scope not distinguished in second historical table)",
+    "lo": 71,
+    "hi": 78,
+    "metrics": {
+      "places": 6,
+      "applications": 7,
+      "offers": 6,
+      "acceptances": 6,
+      "waiting_list_names_placed": 1
+    },
+    "notes": "Second table source does not uniquely distinguish cohort; comparative cohort matching disabled.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "19335M",
+    "document_id": "ab9f1f26ea04786ddc4f8dd3bb2579ec",
+    "source_url": "https://www.guardianangels.ie/wp-content/uploads/2020/09/Admissions-Notice-2021-22.pdf",
+    "group_id": "c0e902dcb87cdfcc31d47b2bbd16a97c",
+    "title": "2021/2022",
+    "phase": "upcoming",
+    "year": "2021/2022",
+    "cohort": "Junior Infants",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 48
+    },
+    "notes": "Source capacity heading malformed2021/20200; overall notice/Part1 explicitly2021/22.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "19390U",
+    "document_id": "17a011010e69379791478cec7749591c",
+    "source_url": "https://www.saintmarks.ie/Content/2024/11/aa00-ANNUAL_ADMISSION_NOTICE_Ver2_2025_26_school_year.pdf?1638",
+    "group_id": "3b2ba933446cde31c61daf30c8e4d93b",
+    "title": "2025/2026",
+    "phase": "upcoming",
+    "year": "2025/2026",
+    "cohort": "Third Class",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 127
+    },
+    "notes": "",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "19390U",
+    "document_id": "17a011010e69379791478cec7749591c",
+    "source_url": "https://www.saintmarks.ie/Content/2024/11/aa00-ANNUAL_ADMISSION_NOTICE_Ver2_2025_26_school_year.pdf?1638",
+    "group_id": "630c30e558d6b2ef208464aaf9627bb1",
+    "title": "2025/2026",
+    "phase": "upcoming",
+    "year": "2025/2026",
+    "cohort": "Mild General Learning Disability special class",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 2
+    },
+    "notes": "",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "19490B",
+    "document_id": "dfdadda8ffad3d8a14a20747e5682235",
+    "source_url": "https://scoilmhuireballyboden.weebly.com/uploads/2/4/2/0/24203565/admission_notice_to_early_intervention_class_2027_-28.pdf",
+    "group_id": "a092a4954ae0248bc1066f3e49cef4a6",
+    "title": "2027/2028",
+    "phase": "upcoming",
+    "year": "2027/2028",
+    "cohort": "Early Intervention ASD class",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 5
+    },
+    "notes": "",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "19505L",
+    "document_id": "fedec5acbe512a1f62b1774354ef82fe",
+    "source_url": "https://www.gaelscoiloilibheir.ie/uploads/1/9/5/3/19531207/f\u00d3gra.iontr\u00c1la.tiru.d15acat.annualadmissionnotice.27.28.pdf",
+    "group_id": "8455baff88f8924e50c76bcbd5012b9f",
+    "title": "2027/2028",
+    "phase": "upcoming",
+    "year": null,
+    "cohort": "ASD special class",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 1
+    },
+    "notes": "Bilingual capacity headers conflicting2026/27 vs2027/28.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "19505L",
+    "document_id": "fedec5acbe512a1f62b1774354ef82fe",
+    "source_url": "https://www.gaelscoiloilibheir.ie/uploads/1/9/5/3/19531207/f\u00d3gra.iontr\u00c1la.tiru.d15acat.annualadmissionnotice.27.28.pdf",
+    "group_id": "ed37f8e0b58d0b39f8eb69f8f72b4a89",
+    "title": "2027/2028",
+    "phase": "retrospective",
+    "year": null,
+    "cohort": "ASD special class",
+    "lo": 35,
+    "hi": 130,
+    "metrics": {
+      "places": 0,
+      "applications": 9,
+      "offers": 0,
+      "waiting_list_names_placed": 9
+    },
+    "notes": "Irish table2026/27, English Part2 header2025/26 and breakdown2026/27. Preserve unresolved bilingual year conflict.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "19510E",
+    "document_id": "713cde28fc3fbe3e49eaeda1a923c49a",
+    "source_url": "https://talbotsns.com/wp-content/uploads/2022/11/Admission-Notice-2022_2023-1.pdf",
+    "group_id": "c8cae99728f8c104387d83e0277456c4",
+    "title": "2023/2024",
+    "phase": "upcoming",
+    "year": null,
+    "cohort": "Third Class",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 70
+    },
+    "notes": "Title2023/24 vs capacity/Part12021/22.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "19542R",
+    "document_id": "f34ef7938ac2a61a3f4ab43e1460f9d4",
+    "source_url": "https://storage.googleapis.com/iclasscrm_files/55/Images/Content/2026/247/gd21-Dates_for_admission_2026.docx",
+    "group_id": "3b692145a2cc2cdba55cf17605d0f9e3",
+    "title": "2026/2027",
+    "phase": "upcoming",
+    "year": "2026/2027",
+    "cohort": "Junior Infants",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 130
+    },
+    "notes": "",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "19576L",
+    "document_id": "d8de46c8b21a028addfad0b03a137fb1",
+    "source_url": "https://storage.googleapis.com/iclasscrm_files/85/Content/2026/2/qz69-Admission_Notification2026.pdf?6894",
+    "group_id": "8b01a70193fadf13340cbf053a891041",
+    "title": "2026/2027",
+    "phase": "upcoming",
+    "year": "2026/2027",
+    "cohort": "Third Class",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": null
+    },
+    "notes": "Genuine senior-school notice; numeric capacity absent in retrieved source.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "19652B",
+    "document_id": "27d20d4d9ed75f9a1dd5c18e2f80e9dd",
+    "source_url": "https://www.sacredheartjns.ie/cmsfiles/items/securedocs/8724-Admissions-noticeSacredHeartJNS2728.docx.pdf",
+    "group_id": "4a7f72c8b22e0bef80416809d919f59a",
+    "title": "2027/2028",
+    "phase": "upcoming",
+    "year": null,
+    "cohort": "Junior Infants",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 34
+    },
+    "notes": "Title2027/28 vs capacity2026/27; unknown exact year.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "19652B",
+    "document_id": "27d20d4d9ed75f9a1dd5c18e2f80e9dd",
+    "source_url": "https://www.sacredheartjns.ie/cmsfiles/items/securedocs/8724-Admissions-noticeSacredHeartJNS2728.docx.pdf",
+    "group_id": "257d9abfabd66acc995a13016ace92a8",
+    "title": "2027/2028",
+    "phase": "upcoming",
+    "year": null,
+    "cohort": "Early Start",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 60
+    },
+    "notes": "Title2027/28 vs capacity2026/27; unknown exact year.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "19652B",
+    "document_id": "27d20d4d9ed75f9a1dd5c18e2f80e9dd",
+    "source_url": "https://www.sacredheartjns.ie/cmsfiles/items/securedocs/8724-Admissions-noticeSacredHeartJNS2728.docx.pdf",
+    "group_id": "2c7a807d752c4e97d8c27575052d7077",
+    "title": "2027/2028",
+    "phase": "upcoming",
+    "year": null,
+    "cohort": "ASD Den special class",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 3
+    },
+    "notes": "Title2027/28 vs capacity2026/27; unknown exact year.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "19668Q",
+    "document_id": "1caaaf8290777ac9ac7f73ddcdfe1782",
+    "source_url": "https://stfrancissns.ie/wp-content/uploads/2020/11/St-Francis-SNS-Annual-Admission-notice-2020-2.pdf",
+    "group_id": "b5259caeb20ccc343754bfdcc6993a84",
+    "title": "2020/2021",
+    "phase": "upcoming",
+    "year": "2020/2021",
+    "cohort": "Third Class",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": null
+    },
+    "notes": "24:1 is class/pupil-teacher ratio, not24 total intake places. No fixed total capacity published.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "19765O",
+    "document_id": "ed24d437f71f3918ef5a3b141b50feda",
+    "source_url": "https://www.stthomas.ie/wp-content/uploads/2026/01/Admission-Notice-2026-27.pdf",
+    "group_id": "429855ecad1a154cc8da38cf670c5b9e",
+    "title": "2026/2027",
+    "phase": "upcoming",
+    "year": null,
+    "cohort": "Third Class",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 96
+    },
+    "notes": "Title2026/27 vs capacity2025/26.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "19765O",
+    "document_id": "ed24d437f71f3918ef5a3b141b50feda",
+    "source_url": "https://www.stthomas.ie/wp-content/uploads/2026/01/Admission-Notice-2026-27.pdf",
+    "group_id": "6118db49e9b4804c6219c8829b222848",
+    "title": "2026/2027",
+    "phase": "upcoming",
+    "year": null,
+    "cohort": "Mild General Learning Disability special class",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 0
+    },
+    "notes": "Title2026/27 vs capacity2025/26.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "19765O",
+    "document_id": "ed24d437f71f3918ef5a3b141b50feda",
+    "source_url": "https://www.stthomas.ie/wp-content/uploads/2026/01/Admission-Notice-2026-27.pdf",
+    "group_id": "6711ebf336bb369b2febd32f9616a281",
+    "title": "2026/2027",
+    "phase": "upcoming",
+    "year": null,
+    "cohort": "Speech and Language Disorder special class",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 0
+    },
+    "notes": "Title2026/27 vs capacity2025/26.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "19782O",
+    "document_id": "8fc9cf3ad3b9a2e64f4fee192a11a259",
+    "source_url": "https://www.stbrigidsbrookfield.ie/_files/ugd/392cf2_f51acbecbc9d43abade3c3963c978aa9.docx?dn=St%20Brigid's%20J.N.S.%20-%20Annual%20Admissions%20Notice%20(5)%202027%20-%202028.docx",
+    "group_id": "cad0c2d3703abe36dfee597cb70f4cf6",
+    "title": "2027/2028",
+    "phase": "upcoming",
+    "year": null,
+    "cohort": "Junior Infants",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 51
+    },
+    "notes": "Title2027/28 vs capacity2026/27.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "19782O",
+    "document_id": "8fc9cf3ad3b9a2e64f4fee192a11a259",
+    "source_url": "https://www.stbrigidsbrookfield.ie/_files/ugd/392cf2_f51acbecbc9d43abade3c3963c978aa9.docx?dn=St%20Brigid's%20J.N.S.%20-%20Annual%20Admissions%20Notice%20(5)%202027%20-%202028.docx",
+    "group_id": "2c51c3d70245d982c95ba36829c533b1",
+    "title": "2027/2028",
+    "phase": "upcoming",
+    "year": null,
+    "cohort": "ASD special class",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 2
+    },
+    "notes": "Conflicting title/capacity years.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "19782O",
+    "document_id": "8fc9cf3ad3b9a2e64f4fee192a11a259",
+    "source_url": "https://www.stbrigidsbrookfield.ie/_files/ugd/392cf2_f51acbecbc9d43abade3c3963c978aa9.docx?dn=St%20Brigid's%20J.N.S.%20-%20Annual%20Admissions%20Notice%20(5)%202027%20-%202028.docx",
+    "group_id": "da0febc865dca89a02617fe9585812ca",
+    "title": "2027/2028",
+    "phase": "retrospective",
+    "year": null,
+    "cohort": "ASD special class",
+    "lo": 50,
+    "hi": 120,
+    "metrics": {
+      "places": 7,
+      "applications": 30,
+      "offers": 7,
+      "waiting_list_names_placed": 20
+    },
+    "notes": "Part2 heading2026/27 vs detailed2024/25; year unresolved.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "19785U",
+    "document_id": "04f068db9e031fddb1665a0314156230",
+    "source_url": "https://bernadettes.ie/wp-content/uploads/2025/11/Annual-Admissions-Notice-St.-Bernadettes-SNS-.2026-2027.pdf",
+    "group_id": "3f1e1844815dd402b6cc9f1768b730dc",
+    "title": "2026/2027",
+    "phase": "upcoming",
+    "year": "2026/2027",
+    "cohort": "Third Class",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 42
+    },
+    "notes": "",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "19785U",
+    "document_id": "04f068db9e031fddb1665a0314156230",
+    "source_url": "https://bernadettes.ie/wp-content/uploads/2025/11/Annual-Admissions-Notice-St.-Bernadettes-SNS-.2026-2027.pdf",
+    "group_id": "af5d7f66e09b3181d4e2fba3ebceb26b",
+    "title": "2026/2027",
+    "phase": "upcoming",
+    "year": "2026/2027",
+    "cohort": "ASD special classes",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 2
+    },
+    "notes": "",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "19785U",
+    "document_id": "04f068db9e031fddb1665a0314156230",
+    "source_url": "https://bernadettes.ie/wp-content/uploads/2025/11/Annual-Admissions-Notice-St.-Bernadettes-SNS-.2026-2027.pdf",
+    "group_id": "455cbc5d4f2ac16e50c767d743b8360d",
+    "title": "2026/2027",
+    "phase": "retrospective",
+    "year": null,
+    "cohort": "ASD special classes",
+    "lo": 55,
+    "hi": 140,
+    "metrics": {
+      "places": 1,
+      "applications": 4,
+      "offers": 1,
+      "waiting_list_names_placed": 3
+    },
+    "notes": "Part2 heading2025/26 vs detailed2024/25.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "19785U",
+    "document_id": "27fccf20ec1ef170a0957c9d4a5840da",
+    "source_url": "https://bernadettes.ie/wp-content/uploads/2024/11/Annual-Admissions-Notice-St.-Bernadettes-SNS-.2025-2026.pdf",
+    "group_id": "5b2ed42df1a511268a5e20eaccb4c67e",
+    "title": "2025/2026",
+    "phase": "upcoming",
+    "year": "2025/2026",
+    "cohort": "Third Class",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 54
+    },
+    "notes": "",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "19785U",
+    "document_id": "27fccf20ec1ef170a0957c9d4a5840da",
+    "source_url": "https://bernadettes.ie/wp-content/uploads/2024/11/Annual-Admissions-Notice-St.-Bernadettes-SNS-.2025-2026.pdf",
+    "group_id": "246e97b1b5d97273d4c77d5921299bb4",
+    "title": "2025/2026",
+    "phase": "upcoming",
+    "year": "2025/2026",
+    "cohort": "ASD special classes",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 1
+    },
+    "notes": "",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "19785U",
+    "document_id": "27fccf20ec1ef170a0957c9d4a5840da",
+    "source_url": "https://bernadettes.ie/wp-content/uploads/2024/11/Annual-Admissions-Notice-St.-Bernadettes-SNS-.2025-2026.pdf",
+    "group_id": "dc155657857c534b06de5a8f3b8eaa90",
+    "title": "2025/2026",
+    "phase": "retrospective",
+    "year": "2024/2025",
+    "cohort": "ASD special classes",
+    "lo": 63,
+    "hi": 115,
+    "metrics": {
+      "places": 12,
+      "applications": 16,
+      "offers": 14,
+      "waiting_list_names_placed": 2
+    },
+    "notes": "Detailed applications16 conflicts with introductory15; both retained; footnote list wording is not converted into inferred movement.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "19785U",
+    "document_id": "27fccf20ec1ef170a0957c9d4a5840da",
+    "source_url": "https://bernadettes.ie/wp-content/uploads/2024/11/Annual-Admissions-Notice-St.-Bernadettes-SNS-.2025-2026.pdf",
+    "group_id": "dc155657857c534b06de5a8f3b8eaa90",
+    "title": "2025/2026",
+    "phase": "retrospective",
+    "year": "2024/2025",
+    "cohort": "ASD special classes",
+    "lo": 63,
+    "hi": 66,
+    "metrics": {
+      "applications": 15
+    },
+    "notes": "Explicit introductory15 conflicts with detailed16; consensus applications suppressed.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "19837N",
+    "document_id": "f955371db7baf4c621a1ce215b510a2d",
+    "source_url": "https://drimnaghcastleprimary.ie/wp-content/uploads/2025/03/DCPS_2025_2026_ANNUAL-ADMISSION-NOTICE-new.pdf",
+    "group_id": "a5598d07fa1094afb68dc6389d92eec0",
+    "title": "2025/2026",
+    "phase": "upcoming",
+    "year": "2025/2026",
+    "cohort": "Second Class",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": null
+    },
+    "notes": "Genuine dated annual notice; retrieved edition publishes dates only, not capacity.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "19837N",
+    "document_id": "22c626c3086a521fd9461177ffcde106",
+    "source_url": "https://drimnaghcastleprimary.ie/wp-content/uploads/2025/02/DCPS_2025_2026_ANNUAL-ADMISSION-NOTICE.pdf",
+    "group_id": "addf15520678be4637a27ca6fa8f1ecd",
+    "title": "2025/2026",
+    "phase": "upcoming",
+    "year": "2025/2026",
+    "cohort": "Second Class",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": null
+    },
+    "notes": "Genuine dated annual notice; retrieved edition publishes dates only, not capacity.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "19837N",
+    "document_id": "6412f2f5e3ebccd72045d393c6270027",
+    "source_url": "https://drimnaghcastleprimary.ie/wp-content/uploads/2023/04/Drimnagh-Castle-Primary-School_Admissions-Notice_20232024.pdf",
+    "group_id": "add96f0006681b9d8103c01685341436",
+    "title": "2023/2024",
+    "phase": "upcoming",
+    "year": "2023/2024",
+    "cohort": "Second Class",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": null
+    },
+    "notes": "Genuine dated annual notice; retrieved edition publishes dates only, not capacity.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "19840C",
+    "document_id": "32469d95554dc468fd89ce7390ab2a0f",
+    "source_url": "https://www.holyfamilyschool.ie/cmsfiles/items/downloads/9496-AdmissionNotice20272028.pdf",
+    "group_id": "fcaf5f3c3dd7adbf2131b1df60bd5af1",
+    "title": "2027/2028",
+    "phase": "upcoming",
+    "year": null,
+    "cohort": "Junior Infants",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 19
+    },
+    "notes": "Title2027/28 vs capacity2026/27.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "19840C",
+    "document_id": "32469d95554dc468fd89ce7390ab2a0f",
+    "source_url": "https://www.holyfamilyschool.ie/cmsfiles/items/downloads/9496-AdmissionNotice20272028.pdf",
+    "group_id": "96712b68fc5e2d4a82290241bdd38db4",
+    "title": "2027/2028",
+    "phase": "upcoming",
+    "year": null,
+    "cohort": "Early Start",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 19
+    },
+    "notes": "Title2027/28 vs capacity2026/27.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "19840C",
+    "document_id": "32469d95554dc468fd89ce7390ab2a0f",
+    "source_url": "https://www.holyfamilyschool.ie/cmsfiles/items/downloads/9496-AdmissionNotice20272028.pdf",
+    "group_id": "f34c73300dd2e8ffdfeefe55cc85a779",
+    "title": "2027/2028",
+    "phase": "upcoming",
+    "year": null,
+    "cohort": "Horizons Junior Autism class",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 1
+    },
+    "notes": "Title2027/28 vs capacity2026/27.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "19840C",
+    "document_id": "32469d95554dc468fd89ce7390ab2a0f",
+    "source_url": "https://www.holyfamilyschool.ie/cmsfiles/items/downloads/9496-AdmissionNotice20272028.pdf",
+    "group_id": "6e06179ad5a8a27aeb185760da155272",
+    "title": "2027/2028",
+    "phase": "upcoming",
+    "year": null,
+    "cohort": "Horizons Senior Autism class",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 0
+    },
+    "notes": "Title2027/28 vs capacity2026/27.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "19865S",
+    "document_id": "5e68a963e26b718c67fd4be15e789609",
+    "source_url": "https://divinemercyjns.weebly.com/annual-admission-notice.html",
+    "group_id": "b816ec8c9fc780d75c78e457b6202cd4",
+    "title": "2023/2024",
+    "phase": "upcoming",
+    "year": null,
+    "cohort": "Junior Infants",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 68
+    },
+    "notes": "Title2023/24 vs capacity2024/25; no calendar-year inference.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "19872P",
+    "document_id": "2aa9bc9eb74d91df60bbde6eee51b4d7",
+    "source_url": "https://www.scoilcm.ie/uploads/8/4/9/1/8491921/f\u00f3gra-maidir-le-ligean-isteach.docx.pdf",
+    "group_id": "e9a1b5d25113a318082eec1cd69ba2c5",
+    "title": "2027/2028",
+    "phase": "upcoming",
+    "year": null,
+    "cohort": "Junior Infants",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": null
+    },
+    "notes": "Bilingual dates/section headings conflict with2027/28 title; numeric capacity absent.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "19877C",
+    "document_id": "f407a57f2b455496bcc8f6c98554fadf",
+    "source_url": "https://holyfamilysns.ie/wp-content/uploads/2025/11/HFSNS-Admissions-Notice-2026_27.pdf",
+    "group_id": "fdd6e13016bb29eac4a840c27d30e45e",
+    "title": "2026/2027",
+    "phase": "upcoming",
+    "year": "2026/2027",
+    "cohort": "Third Class",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 150
+    },
+    "notes": "",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "19877C",
+    "document_id": "f407a57f2b455496bcc8f6c98554fadf",
+    "source_url": "https://holyfamilysns.ie/wp-content/uploads/2025/11/HFSNS-Admissions-Notice-2026_27.pdf",
+    "group_id": "8eff4aca313ec8215f2fe64016fd1fc8",
+    "title": "2026/2027",
+    "phase": "upcoming",
+    "year": "2026/2027",
+    "cohort": "Reading Classes",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 12
+    },
+    "notes": "",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "19877C",
+    "document_id": "f407a57f2b455496bcc8f6c98554fadf",
+    "source_url": "https://holyfamilysns.ie/wp-content/uploads/2025/11/HFSNS-Admissions-Notice-2026_27.pdf",
+    "group_id": "260282e7e25ff4c830bc25a1f8189d82",
+    "title": "2026/2027",
+    "phase": "retrospective",
+    "year": "2025/2026",
+    "cohort": "Third Class",
+    "lo": 100,
+    "hi": 113,
+    "metrics": {
+      "places": 157,
+      "applications": 162,
+      "waiting_list_initial_snapshot": 162
+    },
+    "notes": "Original Waiting List162 is exact source as printed, not names ever placed; no total offers or acceptances printed.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "19877C",
+    "document_id": "f407a57f2b455496bcc8f6c98554fadf",
+    "source_url": "https://holyfamilysns.ie/wp-content/uploads/2025/11/HFSNS-Admissions-Notice-2026_27.pdf",
+    "group_id": "9d857f46edc4ca51c228b33927dc09bd",
+    "title": "2026/2027",
+    "phase": "criterion_detail",
+    "year": "2025/2026",
+    "cohort": "Third Class: Category1 feeder-school transfer",
+    "lo": 100,
+    "hi": 107,
+    "metrics": {
+      "offers": 150
+    },
+    "notes": "Only original Category1 offers; not all offers.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "19877C",
+    "document_id": "f407a57f2b455496bcc8f6c98554fadf",
+    "source_url": "https://holyfamilysns.ie/wp-content/uploads/2025/11/HFSNS-Admissions-Notice-2026_27.pdf",
+    "group_id": "f1d0e7bf1640da23f8e6b08a1233943d",
+    "title": "2026/2027",
+    "phase": "waiting_event",
+    "year": "2025/2026",
+    "cohort": "Third Class",
+    "lo": 109,
+    "hi": 113,
+    "metrics": {
+      "vacated_places_reoffered_to_waiting_list": 3
+    },
+    "notes": "Explicit3 originally accepted places vacated/change of mind/moved and offered to waiting list. Not3 acceptances or actual admissions.",
+    "scope": "explicit_vacated_place_reoffers",
+    "status": null
+  },
+  {
+    "roll": "19926M",
+    "document_id": "f8ea2a02e5606fa4cf8af5fb279b15c5",
+    "source_url": "https://storage.googleapis.com/iclasscrm_files/2858/Images/Content/2026/251/ng52-GCM_FogramaidirleLigeanIsteach_27_28.pdf",
+    "group_id": "561db8a119642ced7453be81381d2da2",
+    "title": "2027/2028",
+    "phase": "upcoming",
+    "year": "2027/2028",
+    "cohort": "Junior Infants",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 30
+    },
+    "notes": "",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "19979K",
+    "document_id": "b6a9f7c6edc76f6d2f4fb62550ea785e",
+    "source_url": "https://www.stkevinsns.net/wp-content/uploads/2022/09/Annual-Admissions-Notice_st_kevins_19979k_2023_2024.docx.pdf",
+    "group_id": "227df60bf37c0f493cc000ee9a519e38",
+    "title": "2023/2024",
+    "phase": "upcoming",
+    "year": null,
+    "cohort": "Junior Infants",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": null
+    },
+    "notes": "Genuine annual notice dates only; capacity not published. Conflicting Part1 year retained where applicable.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "19979K",
+    "document_id": "bbc21d2ab0e2c7705e9a1da2abc2fb15",
+    "source_url": "https://www.stkevinsns.net/wp-content/uploads/2021/09/Annual-Admissions-Notice_st_kevins_19979k_2022_2023.pdf",
+    "group_id": "cec7c815698b57e48ad513593e420d9b",
+    "title": "2022/2023",
+    "phase": "upcoming",
+    "year": "2022/2023",
+    "cohort": "Junior Infants",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": null
+    },
+    "notes": "Genuine annual notice dates only; capacity not published. Conflicting Part1 year retained where applicable.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "19979K",
+    "document_id": "2441f68d301875b2090e128f66c2833c",
+    "source_url": "https://www.stkevinsns.net/wp-content/uploads/2020/10/Annual-Admissions-Notice_st_kevins_19979k_2022_2022_website.pdf",
+    "group_id": "456a257cc6c53d238cf8cb0a68bb21df",
+    "title": "2021/2022",
+    "phase": "upcoming",
+    "year": "2021/2022",
+    "cohort": "Junior Infants",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": null
+    },
+    "notes": "Genuine annual notice dates only; capacity not published. Conflicting Part1 year retained where applicable.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "20029M",
+    "document_id": "9b8207bc5695c9307eb74f3f62cf8575",
+    "source_url": "https://stbrigidsinfantschool.ie/wp-content/uploads/2025/09/Annual-Admissions-Notice-2026-2027-School-Year.pdf",
+    "group_id": "9039c7763b945c1b2bacb80d675bd821",
+    "title": "2026/2027",
+    "phase": "upcoming",
+    "year": "2026/2027",
+    "cohort": "Junior Infants",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 68
+    },
+    "notes": "",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "20029M",
+    "document_id": "9b8207bc5695c9307eb74f3f62cf8575",
+    "source_url": "https://stbrigidsinfantschool.ie/wp-content/uploads/2025/09/Annual-Admissions-Notice-2026-2027-School-Year.pdf",
+    "group_id": "3d5d5ec316e6dcf9ad74162150301124",
+    "title": "2026/2027",
+    "phase": "upcoming",
+    "year": "2026/2027",
+    "cohort": "ASD special classes",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 3
+    },
+    "notes": "",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "20029M",
+    "document_id": "9b8207bc5695c9307eb74f3f62cf8575",
+    "source_url": "https://stbrigidsinfantschool.ie/wp-content/uploads/2025/09/Annual-Admissions-Notice-2026-2027-School-Year.pdf",
+    "group_id": "fe32c6bc12655e803edc0527a8650d13",
+    "title": "2026/2027",
+    "phase": "retrospective",
+    "year": null,
+    "cohort": "ASD special classes",
+    "lo": 45,
+    "hi": 110,
+    "metrics": {
+      "places": 4,
+      "applications": 29,
+      "offers": 4,
+      "waiting_list_names_placed": 22
+    },
+    "notes": "Part2 heading2025/26 vs detailed2024/25.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "20043G",
+    "document_id": "289a52891a63e2ab7900dcb4ffc875c0",
+    "source_url": "https://gaelscoilchnocliamhna.ie/wp-content/uploads/2026/01/Fogra-Iontrala-Bliantiuil-GA-ENG-26-27-1.pdf",
+    "group_id": "fc0f9da25b11d86227d45b9698867210",
+    "title": "2026/2027",
+    "phase": "upcoming",
+    "year": "2026/2027",
+    "cohort": "Junior Infants",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 28
+    },
+    "notes": "",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "20052H",
+    "document_id": "26679e26f419edf79ed763c38b1f62f9",
+    "source_url": "https://gaelscoilcholmcille.ie/wp-content/uploads/2025/10/admissions-notice-2026.pdf",
+    "group_id": "0b28bd6c5f5cdb6849b952526206cee0",
+    "title": "2026/2027",
+    "phase": "upcoming",
+    "year": "2026/2027",
+    "cohort": "Junior Infants",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 26
+    },
+    "notes": "",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "20052H",
+    "document_id": "26679e26f419edf79ed763c38b1f62f9",
+    "source_url": "https://gaelscoilcholmcille.ie/wp-content/uploads/2025/10/admissions-notice-2026.pdf",
+    "group_id": "2d3d72cae04a67d0ea91b517ddc3a0dd",
+    "title": "2026/2027",
+    "phase": "upcoming",
+    "year": "2026/2027",
+    "cohort": "ASD special classes",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 0
+    },
+    "notes": "",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "20056P",
+    "document_id": "c0de45a9206df12fdc455be38f0bdf4f",
+    "source_url": "https://gaelscoilphadraig.ie/wp-content/uploads/2025/09/Fogra-bliantuil-.pdf",
+    "group_id": "6fdc893e831d701f68d8ec293f0c47dd",
+    "title": "2026/2027",
+    "phase": "upcoming",
+    "year": null,
+    "cohort": "Junior Infants",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 26
+    },
+    "notes": "Title2026/27 vs capacity2025/26.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "20056P",
+    "document_id": "9d6b598d5babe184f0d0b44b14136644",
+    "source_url": "https://gaelscoilphadraig.ie/wp-content/uploads/2023/09/Fogra-Bliantuil-Iontrala-2024-2025-1.pdf",
+    "group_id": "d5405f4bc1161dcb554b3860149142c2",
+    "title": "2024/2025",
+    "phase": "upcoming",
+    "year": null,
+    "cohort": "Junior Infants",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": null
+    },
+    "notes": "Capacity TBC/Le Dearbhu, not numeric zero. Stale English capacity heading2021/22 retained as ambiguity where present.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "20056P",
+    "document_id": "9d6b598d5babe184f0d0b44b14136644",
+    "source_url": "https://gaelscoilphadraig.ie/wp-content/uploads/2023/09/Fogra-Bliantuil-Iontrala-2024-2025-1.pdf",
+    "group_id": "06147bca5ac3582b4dd2c781da66481f",
+    "title": "2024/2025",
+    "phase": "upcoming",
+    "year": null,
+    "cohort": "Special class (type unspecified)",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": null
+    },
+    "notes": "Source special-class field N/A/none, not zero applications.",
+    "scope": "whole_table",
+    "status": "not_applicable"
+  },
+  {
+    "roll": "20056P",
+    "document_id": "04f3bca3aa3ac05d7d8e64c75f014a2b",
+    "source_url": "https://gaelscoilphadraig.ie/wp-content/uploads/2023/09/Fogra-Bliantuil-Iontrala-2024-2025.pdf",
+    "group_id": "aca8bfb6e88e97c16d1d2712293fd905",
+    "title": "2024/2025",
+    "phase": "upcoming",
+    "year": "2024/2025",
+    "cohort": "Junior Infants",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": null
+    },
+    "notes": "Capacity TBC/Le Dearbhu, not numeric zero. Stale English capacity heading2021/22 retained as ambiguity where present.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "20056P",
+    "document_id": "04f3bca3aa3ac05d7d8e64c75f014a2b",
+    "source_url": "https://gaelscoilphadraig.ie/wp-content/uploads/2023/09/Fogra-Bliantuil-Iontrala-2024-2025.pdf",
+    "group_id": "bbe6209ecffa73dca978a144bdc56a31",
+    "title": "2024/2025",
+    "phase": "upcoming",
+    "year": "2024/2025",
+    "cohort": "Special class (type unspecified)",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": null
+    },
+    "notes": "Source special-class field N/A/none, not zero applications.",
+    "scope": "whole_table",
+    "status": "not_applicable"
+  },
+  {
+    "roll": "20056P",
+    "document_id": "a6793f40a81bd9fd26c7dab8fab68d09",
+    "source_url": "https://gaelscoilphadraig.ie/wp-content/uploads/2022/09/Fo\u0301gra-Bliantu\u0301il-Iontra\u0301la-Annual-Admission-Statement.pdf",
+    "group_id": "946a75dfafbeeda2dbaf77f4fca0ed7f",
+    "title": "2023/2024",
+    "phase": "upcoming",
+    "year": null,
+    "cohort": "Junior Infants",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": null
+    },
+    "notes": "Capacity TBC/Le Dearbhu, not numeric zero. Stale English capacity heading2021/22 retained as ambiguity where present.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "20056P",
+    "document_id": "a6793f40a81bd9fd26c7dab8fab68d09",
+    "source_url": "https://gaelscoilphadraig.ie/wp-content/uploads/2022/09/Fo\u0301gra-Bliantu\u0301il-Iontra\u0301la-Annual-Admission-Statement.pdf",
+    "group_id": "4522f66a02b614c287f093d3af4684cc",
+    "title": "2023/2024",
+    "phase": "upcoming",
+    "year": null,
+    "cohort": "Special class (type unspecified)",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": null
+    },
+    "notes": "Source special-class field N/A/none, not zero applications.",
+    "scope": "whole_table",
+    "status": "not_applicable"
+  },
+  {
+    "roll": "20056P",
+    "document_id": "9fcf6857a04993d69717a49c5e6710c7",
+    "source_url": "https://gaelscoilphadraig.ie/wp-content/uploads/2020/09/Fo\u0301gra-Bliantu\u0301il-Iontra\u0301la-2021-2022.pdf",
+    "group_id": "05b64dc6c10f4e7dc14c07fe651b42b7",
+    "title": "2021/2022",
+    "phase": "upcoming",
+    "year": "2021/2022",
+    "cohort": "Junior Infants",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": null
+    },
+    "notes": "Capacity TBC/Le Dearbhu, not numeric zero. Stale English capacity heading2021/22 retained as ambiguity where present.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "20056P",
+    "document_id": "9fcf6857a04993d69717a49c5e6710c7",
+    "source_url": "https://gaelscoilphadraig.ie/wp-content/uploads/2020/09/Fo\u0301gra-Bliantu\u0301il-Iontra\u0301la-2021-2022.pdf",
+    "group_id": "f1fb529cd2d21be7f3a022a5c7a9f8c0",
+    "title": "2021/2022",
+    "phase": "upcoming",
+    "year": "2021/2022",
+    "cohort": "Special class (type unspecified)",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": null
+    },
+    "notes": "Source special-class field N/A/none, not zero applications.",
+    "scope": "whole_table",
+    "status": "not_applicable"
+  },
+  {
+    "roll": "20056P",
+    "document_id": "7f707ba18bc3146cf5a171c08a0262e0",
+    "source_url": "https://gaelscoilphadraig.ie/wp-content/uploads/2020/09/Fo\u0301gra-Bliantu\u0301il-Iontra\u0301la-2021-2022-Gaeilge_-Be\u0301arla.pdf",
+    "group_id": "b3dc453c0ad207d26455987ce9a02529",
+    "title": "2021/2022",
+    "phase": "upcoming",
+    "year": "2021/2022",
+    "cohort": "Junior Infants",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": null
+    },
+    "notes": "Capacity TBC/Le Dearbhu, not numeric zero. Stale English capacity heading2021/22 retained as ambiguity where present.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "20056P",
+    "document_id": "7f707ba18bc3146cf5a171c08a0262e0",
+    "source_url": "https://gaelscoilphadraig.ie/wp-content/uploads/2020/09/Fo\u0301gra-Bliantu\u0301il-Iontra\u0301la-2021-2022-Gaeilge_-Be\u0301arla.pdf",
+    "group_id": "654fee8e971241c03e16eff56973a811",
+    "title": "2021/2022",
+    "phase": "upcoming",
+    "year": "2021/2022",
+    "cohort": "Special class (type unspecified)",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": null
+    },
+    "notes": "Source special-class field N/A/none, not zero applications.",
+    "scope": "whole_table",
+    "status": "not_applicable"
+  },
+  {
+    "roll": "20056P",
+    "document_id": "0738ea814a81cbdeec5c49537920efc4",
+    "source_url": "https://gaelscoilphadraig.ie/wp-content/uploads/2020/09/Annual-Admissions-Statement-2021-2022.pdf",
+    "group_id": "33c04a07220502eff6752345339083ad",
+    "title": "2021/2022",
+    "phase": "upcoming",
+    "year": "2021/2022",
+    "cohort": "Junior Infants",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": null
+    },
+    "notes": "Capacity TBC/Le Dearbhu, not numeric zero. Stale English capacity heading2021/22 retained as ambiguity where present.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "20056P",
+    "document_id": "0738ea814a81cbdeec5c49537920efc4",
+    "source_url": "https://gaelscoilphadraig.ie/wp-content/uploads/2020/09/Annual-Admissions-Statement-2021-2022.pdf",
+    "group_id": "7648b98ad3a1e1fb49db370cb2471d23",
+    "title": "2021/2022",
+    "phase": "upcoming",
+    "year": "2021/2022",
+    "cohort": "Special class (type unspecified)",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": null
+    },
+    "notes": "Source special-class field N/A/none, not zero applications.",
+    "scope": "whole_table",
+    "status": "not_applicable"
+  },
+  {
+    "roll": "20152L",
+    "document_id": "e8668da6d788363ec0d140047653135a",
+    "source_url": "https://www.ndmns.com/uploads/1/2/7/3/127348810/admissions_notice_2027-28.docx",
+    "group_id": "e7932f9860db56241e088aaaa69e7a9d",
+    "title": "2027/2028",
+    "phase": "upcoming",
+    "year": null,
+    "cohort": "Junior Infants",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 50
+    },
+    "notes": "Title2027/28 vs capacity2026/27.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "20152L",
+    "document_id": "e8668da6d788363ec0d140047653135a",
+    "source_url": "https://www.ndmns.com/uploads/1/2/7/3/127348810/admissions_notice_2027-28.docx",
+    "group_id": "3fddc61c755b852c1cb4654f33cdf74f",
+    "title": "2027/2028",
+    "phase": "upcoming",
+    "year": null,
+    "cohort": "Special class (type unspecified)",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 1
+    },
+    "notes": "Conflicting title/capacity years.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "20187H",
+    "document_id": "db3df4a4593ee70217c0d094e121a1b8",
+    "source_url": "https://www.dmbalgaddysns.ie/uploads/Divine%20Mercy%20SNS%20Admissions%20Notice.pdf",
+    "group_id": "b3e08fac00cba3f364f2b7f851552829",
+    "title": "2021/2022",
+    "phase": "upcoming",
+    "year": "2021/2022",
+    "cohort": "Third Class",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": null
+    },
+    "notes": "Senior-school notice says capacity varies by other class; no fixed numeric total.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "20241K",
+    "document_id": "c8348be5ba7365205a6bc55986bbb8be",
+    "source_url": "https://www.scoilchoilmcns.ie/wp-content/uploads/2026/09/Scoil-Choilm-Autism-Class-Admissions-Notice-26-27-1.pdf",
+    "group_id": "37da5f39a9e11c68db687c522173d4a0",
+    "title": "2026/2027",
+    "phase": "upcoming",
+    "year": null,
+    "cohort": "Autism special classes",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": null
+    },
+    "notes": "Title2026/27 vs Part12027/28; upcoming quota needs source conflict review.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "20241K",
+    "document_id": "c8348be5ba7365205a6bc55986bbb8be",
+    "source_url": "https://www.scoilchoilmcns.ie/wp-content/uploads/2026/09/Scoil-Choilm-Autism-Class-Admissions-Notice-26-27-1.pdf",
+    "group_id": "4b83ff4099fed05cd6476a532d9ffdb9",
+    "title": "2026/2027",
+    "phase": "retrospective",
+    "year": null,
+    "cohort": "Autism special classes",
+    "lo": 117,
+    "hi": 126,
+    "metrics": {
+      "places": 2,
+      "applications": 92,
+      "offers": 3,
+      "waiting_list_names_placed": 85
+    },
+    "notes": "Part2 header2025/26 vs detailed2026/27; exact year unresolved.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "20269J",
+    "document_id": "27d1cf3dc7521634c96fb518ac19f028",
+    "source_url": "https://scoilchormaiccns.ie/wp-content/uploads/2024/12/Annual-Admission-Notice-2025.26.pdf",
+    "group_id": "551dcf2bae4a6fcee4e7b2ac70a99da8",
+    "title": "2025/2026",
+    "phase": "upcoming",
+    "year": "2025/2026",
+    "cohort": "Junior Infants",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 48
+    },
+    "notes": "",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "20269J",
+    "document_id": "27d1cf3dc7521634c96fb518ac19f028",
+    "source_url": "https://scoilchormaiccns.ie/wp-content/uploads/2024/12/Annual-Admission-Notice-2025.26.pdf",
+    "group_id": "9c4e3f7afa53c79ebaeb578def5a4865",
+    "title": "2025/2026",
+    "phase": "upcoming",
+    "year": "2025/2026",
+    "cohort": "Special class (type not specified in aggregate)",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 0
+    },
+    "notes": "",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "20269J",
+    "document_id": "27d1cf3dc7521634c96fb518ac19f028",
+    "source_url": "https://scoilchormaiccns.ie/wp-content/uploads/2024/12/Annual-Admission-Notice-2025.26.pdf",
+    "group_id": "762c4cdcd09ca04d8c9536eb822e5a37",
+    "title": "2025/2026",
+    "phase": "retrospective",
+    "year": "2024/2025",
+    "cohort": "Junior Infants",
+    "lo": 65,
+    "hi": 71,
+    "metrics": {
+      "places": 50,
+      "applications": 60,
+      "offers": 48
+    },
+    "notes": "",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "20269J",
+    "document_id": "27d1cf3dc7521634c96fb518ac19f028",
+    "source_url": "https://scoilchormaiccns.ie/wp-content/uploads/2024/12/Annual-Admission-Notice-2025.26.pdf",
+    "group_id": "f33dc68d729f53a7ed2a17c16128c290",
+    "title": "2025/2026",
+    "phase": "retrospective",
+    "year": "2024/2025",
+    "cohort": "Autism special classes",
+    "lo": 74,
+    "hi": 79,
+    "metrics": {
+      "places": 1,
+      "applications": 30,
+      "offers": 2
+    },
+    "notes": "",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "20302E",
+    "document_id": "e4cb3f3962194aad9d58af983d7413b3",
+    "source_url": "https://www.thornleighet.com/uploads/5/3/6/0/53607961/annual_admissions_notice_2026-2027.pdf",
+    "group_id": "3de1eebb796c93aba88e92d4863cea29",
+    "title": "2026/2027",
+    "phase": "upcoming",
+    "year": "2026/2027",
+    "cohort": "Junior Infants",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 40
+    },
+    "notes": "",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "20302E",
+    "document_id": "e4cb3f3962194aad9d58af983d7413b3",
+    "source_url": "https://www.thornleighet.com/uploads/5/3/6/0/53607961/annual_admissions_notice_2026-2027.pdf",
+    "group_id": "3b3e6f0a7e8d8698f84521567de73179",
+    "title": "2026/2027",
+    "phase": "upcoming",
+    "year": "2026/2027",
+    "cohort": "Autism special classes",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 0
+    },
+    "notes": "Zero expected at publication; not a guarantee of no later vacancies.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "20302E",
+    "document_id": "e4cb3f3962194aad9d58af983d7413b3",
+    "source_url": "https://www.thornleighet.com/uploads/5/3/6/0/53607961/annual_admissions_notice_2026-2027.pdf",
+    "group_id": "a49bfc9f2ad52516faed79462807a890",
+    "title": "2026/2027",
+    "phase": "retrospective",
+    "year": "2025/2026",
+    "cohort": "Junior Infants",
+    "lo": 125,
+    "hi": 142,
+    "metrics": {
+      "places": 38,
+      "applications": 73,
+      "offers": 71,
+      "waiting_list_names_placed": 2
+    },
+    "notes": "Criteria16+22 not summed into aggregate acceptances.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "20383H",
+    "document_id": "4b524bf7b172fa0e502caac0c2ece6df",
+    "source_url": "https://www.hansfieldetns.com/uploads/1/3/2/2/132220631/admissions_notice_2022-23.pdf",
+    "group_id": "ddf1e9f1e3eed78f3b499782b2ac4f12",
+    "title": "2022/2023",
+    "phase": "upcoming",
+    "year": "2022/2023",
+    "cohort": "Junior Infants",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 75
+    },
+    "notes": "",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "20383H",
+    "document_id": "4b524bf7b172fa0e502caac0c2ece6df",
+    "source_url": "https://www.hansfieldetns.com/uploads/1/3/2/2/132220631/admissions_notice_2022-23.pdf",
+    "group_id": "666fc481a24e282cd2c14fd17b47e5cb",
+    "title": "2022/2023",
+    "phase": "retrospective",
+    "year": "2021/2022",
+    "cohort": "Unseparated Junior Infants / Special Class / other year groups",
+    "lo": 136,
+    "hi": 149,
+    "metrics": {
+      "places": 110,
+      "applications": 353,
+      "offers": 276,
+      "acceptances": 110,
+      "waiting_list_names_placed": 77
+    },
+    "notes": "Explicit aggregate offers276 accepted110; combined source scope, not asserted as JI-only.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "20401G",
+    "document_id": "7c7f71feb2474474e6451010a0acd395",
+    "source_url": "https://www.stepasideetns.ie/Content/2025/9/vg82-Admissions_Notice_20262027_School_Year.pdf",
+    "group_id": "fdedfb3ed8f265fdb8809bdc2b3b4187",
+    "title": "2026/2027",
+    "phase": "upcoming",
+    "year": "2026/2027",
+    "cohort": "Junior Infants",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 72
+    },
+    "notes": "",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "20401G",
+    "document_id": "7c7f71feb2474474e6451010a0acd395",
+    "source_url": "https://www.stepasideetns.ie/Content/2025/9/vg82-Admissions_Notice_20262027_School_Year.pdf",
+    "group_id": "b5bc37f8f654e1561b4794fc5566e2f2",
+    "title": "2026/2027",
+    "phase": "retrospective",
+    "year": "2025/2026",
+    "cohort": "Junior Infants",
+    "lo": 123,
+    "hi": 143,
+    "metrics": {
+      "places": 72,
+      "applications_excluding_late": 203,
+      "offers": 203,
+      "waiting_list_names_placed": 0
+    },
+    "notes": "Footnote excludes later applications;203 not unqualified total applications. Criteria27+115+1+3+55+2 not summed as acceptances.",
+    "scope": "October_2024_application_window_only",
+    "status": null
+  },
+  {
+    "roll": "20501K",
+    "document_id": "300f7a8d59b5f9cf09e4a36f5a28338a",
+    "source_url": "https://htetns.ie/wp-content/uploads/2026/10/Annual-Admissions-Notice-2027-2028.pdf",
+    "group_id": "388a158b423af7bcb115cba9e95632d8",
+    "title": "2027/2028",
+    "phase": "upcoming",
+    "year": null,
+    "cohort": "Junior Infants",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 75
+    },
+    "notes": "Title/Part1 academic year conflicts with capacity heading/September reference year.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "20501K",
+    "document_id": "300f7a8d59b5f9cf09e4a36f5a28338a",
+    "source_url": "https://htetns.ie/wp-content/uploads/2026/10/Annual-Admissions-Notice-2027-2028.pdf",
+    "group_id": "c2f2b8d05a605c08af9f41be23d6d794",
+    "title": "2027/2028",
+    "phase": "upcoming",
+    "year": null,
+    "cohort": "Autism Special Class A",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 0
+    },
+    "notes": "Conflicting capacity/title years; explicit class full zero, not no demand.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "20501K",
+    "document_id": "300f7a8d59b5f9cf09e4a36f5a28338a",
+    "source_url": "https://htetns.ie/wp-content/uploads/2026/10/Annual-Admissions-Notice-2027-2028.pdf",
+    "group_id": "f78b892f1f0ea30d77741717141401bd",
+    "title": "2027/2028",
+    "phase": "upcoming",
+    "year": null,
+    "cohort": "Autism Special Class B",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 0
+    },
+    "notes": "Conflicting capacity/title years; explicit class full zero, not no demand.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "20501K",
+    "document_id": "7c97766b053becb65830f9246a866469",
+    "source_url": "https://htetns.ie/wp-content/uploads/2022/09/Admissions-Notice-2022-2023-1.pdf",
+    "group_id": "47a182392f035c2213bad35a2e72a4da",
+    "title": "2023/2024",
+    "phase": "upcoming",
+    "year": null,
+    "cohort": "Junior Infants",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 28
+    },
+    "notes": "Title/Part1 academic year conflicts with capacity heading/September reference year.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "20501K",
+    "document_id": "7c97766b053becb65830f9246a866469",
+    "source_url": "https://htetns.ie/wp-content/uploads/2022/09/Admissions-Notice-2022-2023-1.pdf",
+    "group_id": "3da3acf43c7de8d5d742afcec7b06801",
+    "title": "2023/2024",
+    "phase": "upcoming",
+    "year": null,
+    "cohort": "Autism Special Class A",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 0
+    },
+    "notes": "Conflicting capacity/title years; explicit class full zero, not no demand.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "20501K",
+    "document_id": "7c97766b053becb65830f9246a866469",
+    "source_url": "https://htetns.ie/wp-content/uploads/2022/09/Admissions-Notice-2022-2023-1.pdf",
+    "group_id": "d429121881915907ce3d3daeb6b4860e",
+    "title": "2023/2024",
+    "phase": "upcoming",
+    "year": null,
+    "cohort": "Autism Special Class B",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 0
+    },
+    "notes": "Conflicting capacity/title years; explicit class full zero, not no demand.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "20501K",
+    "document_id": "e978858fb33e2cedbe51a469160c3b19",
+    "source_url": "https://htetns.ie/wp-content/uploads/2022/09/Admissions-Notice-2022-2023-1.docx",
+    "group_id": "bf9d680b1180794218aacb0d6f84a95f",
+    "title": "2023/2024",
+    "phase": "upcoming",
+    "year": null,
+    "cohort": "Junior Infants",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 28
+    },
+    "notes": "Title/Part1 academic year conflicts with capacity heading/September reference year.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "20501K",
+    "document_id": "e978858fb33e2cedbe51a469160c3b19",
+    "source_url": "https://htetns.ie/wp-content/uploads/2022/09/Admissions-Notice-2022-2023-1.docx",
+    "group_id": "adc02d557f5beebec0f08bd0a897d76c",
+    "title": "2023/2024",
+    "phase": "upcoming",
+    "year": null,
+    "cohort": "Autism Special Class A",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 0
+    },
+    "notes": "Conflicting capacity/title years; explicit class full zero, not no demand.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "20501K",
+    "document_id": "e978858fb33e2cedbe51a469160c3b19",
+    "source_url": "https://htetns.ie/wp-content/uploads/2022/09/Admissions-Notice-2022-2023-1.docx",
+    "group_id": "b8aac053f283dd44f2c6c8bfa474ba91",
+    "title": "2023/2024",
+    "phase": "upcoming",
+    "year": null,
+    "cohort": "Autism Special Class B",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 0
+    },
+    "notes": "Conflicting capacity/title years; explicit class full zero, not no demand.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "20528H",
+    "document_id": "05c18bf28c01ded8f8d2f4f86695cf08",
+    "source_url": "https://rivervalleycns.ie/wp-content/uploads/2025/10/RVCNS-Revised-Admission-Notice-in-line-with-New-Admissions-Act-2025_2026.pdf",
+    "group_id": "7a8e65b8f3e93bfed20cfbe511666fc7",
+    "title": "2026/2027",
+    "phase": "upcoming",
+    "year": "2026/2027",
+    "cohort": "Junior Infants",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 24
+    },
+    "notes": "",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "20535E",
+    "document_id": "c5d57fded047383d7abecfa22941da52",
+    "source_url": "https://www.cherrywoodetns.ie/_files/ugd/faab38_646be3e14131423a90f2ff2cab051c3f.pdf",
+    "group_id": "c98c45bce75aa2cee9cdc7e4ac89745c",
+    "title": "2026/2027",
+    "phase": "upcoming",
+    "year": null,
+    "cohort": "Junior Infants",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 23
+    },
+    "notes": "Public-reader transcript, original PDF payload hash unavailable. Title/capacity2026/27 vs Part12027/28; no guessed year.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "20535E",
+    "document_id": "c5d57fded047383d7abecfa22941da52",
+    "source_url": "https://www.cherrywoodetns.ie/_files/ugd/faab38_646be3e14131423a90f2ff2cab051c3f.pdf",
+    "group_id": "1d1c66e7a7c5391222cae3615d2ebae1",
+    "title": "2026/2027",
+    "phase": "retrospective",
+    "year": "2026/2027",
+    "cohort": "Junior Infants",
+    "lo": 13,
+    "hi": 22,
+    "metrics": {
+      "places": 46,
+      "applications": 148,
+      "offers": 75,
+      "actual_admissions": 47
+    },
+    "notes": "Exact historical table2026/27;47 explicitly children enrolled, not an inferred acceptance sum. Public-reader transcription; binary hash not available.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "18317F",
+    "document_id": "ed46665d50914fca46718cf9958f8d0a",
+    "source_url": "https://www.crcschool.ie/assets/files/pdf/admissions_notice_2025_-_2026.pdf",
+    "group_id": "76a5e836380e1b8bc5a10389fea2e415",
+    "title": "2025/2026",
+    "phase": "upcoming",
+    "year": "2025/2026",
+    "cohort": "Preschool Year1: special-school intake",
+    "lo": 18,
+    "hi": 39,
+    "metrics": {
+      "places": 9
+    },
+    "notes": "",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "18317F",
+    "document_id": "9b0db98ec0faa27145bb56e03e13caee",
+    "source_url": "https://www.crcschool.ie/assets/files/pdf/2023-2024_admissions_notice.pdf",
+    "group_id": "2eb0c340cd019c5e7dd1e62bfe17ef16",
+    "title": "2023/2024",
+    "phase": "upcoming",
+    "year": "2023/2024",
+    "cohort": "Preschool Year1: special-school intake",
+    "lo": 18,
+    "hi": 39,
+    "metrics": {
+      "places": 9
+    },
+    "notes": "",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "19355S",
+    "document_id": "40f698c7ec3b2b3b3c14df93cb5eff6a",
+    "source_url": "https://www.bmss.ie/wp-content/uploads/2026/09/Admissions-Notice-2027-28.pdf",
+    "group_id": "d13dddeb74e1b4c9cd918827fd4672b6",
+    "title": "2027/2028",
+    "phase": "upcoming",
+    "year": "2027/2028",
+    "cohort": "Early Intervention Classes",
+    "lo": 44,
+    "hi": 49,
+    "metrics": {
+      "places": 5
+    },
+    "notes": "",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "19355S",
+    "document_id": "40f698c7ec3b2b3b3c14df93cb5eff6a",
+    "source_url": "https://www.bmss.ie/wp-content/uploads/2026/09/Admissions-Notice-2027-28.pdf",
+    "group_id": "196d48a1b55352fd9994319184aff406",
+    "title": "2027/2028",
+    "phase": "upcoming",
+    "year": "2027/2028",
+    "cohort": "Primary classes: special-school intake",
+    "lo": 44,
+    "hi": 49,
+    "metrics": {
+      "places": 9
+    },
+    "notes": "",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "19355S",
+    "document_id": "40f698c7ec3b2b3b3c14df93cb5eff6a",
+    "source_url": "https://www.bmss.ie/wp-content/uploads/2026/09/Admissions-Notice-2027-28.pdf",
+    "group_id": "b2a70626edf4af2a59421f80430083df",
+    "title": "2027/2028",
+    "phase": "retrospective",
+    "year": "2026/2027",
+    "cohort": "Early Intervention Classes",
+    "lo": 51,
+    "hi": 70,
+    "metrics": {
+      "places": 7,
+      "applications": 12,
+      "offers": 7,
+      "waiting_list_names_placed": 0
+    },
+    "notes": "",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "19355S",
+    "document_id": "40f698c7ec3b2b3b3c14df93cb5eff6a",
+    "source_url": "https://www.bmss.ie/wp-content/uploads/2026/09/Admissions-Notice-2027-28.pdf",
+    "group_id": "72fdc58a391fa2897f4f984547246347",
+    "title": "2027/2028",
+    "phase": "retrospective",
+    "year": "2026/2027",
+    "cohort": "Primary classes: special-school intake",
+    "lo": 73,
+    "hi": 82,
+    "metrics": {
+      "places": 9,
+      "applications": 45,
+      "offers": 11,
+      "waiting_list_names_placed": 6
+    },
+    "notes": "Criteria diagnoses may overlap; no aggregate acceptance sum.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "19382V",
+    "document_id": "53c4e7766adb37251fea7cb597d01881",
+    "source_url": "https://www.scoileoin.ie/wp-content/uploads/2022/10/Admissions-Notice-2024.pdf",
+    "group_id": "51b22fb19d131d5752353ba40034d26d",
+    "title": "2021/2022",
+    "phase": "upcoming",
+    "year": null,
+    "cohort": "Special-school intake (class unspecified)",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 20
+    },
+    "notes": "Main title2021/22 vs Part1/capacity2023/24.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "20053J",
+    "document_id": "b56e8e2635b6257aa4ad984212e326ca",
+    "source_url": "https://www.cheeverstownschool.ie/_files/ugd/ed3463_e9e526fbe3164680a79b24df4a8df8f2.pdf",
+    "group_id": "54781903c84a128acc4dbfa8622bb65e",
+    "title": "2026/2027",
+    "phase": "upcoming",
+    "year": "2026/2027",
+    "cohort": "Severe and Profound Learning Disabilities",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 0
+    },
+    "notes": "",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "20053J",
+    "document_id": "b56e8e2635b6257aa4ad984212e326ca",
+    "source_url": "https://www.cheeverstownschool.ie/_files/ugd/ed3463_e9e526fbe3164680a79b24df4a8df8f2.pdf",
+    "group_id": "acfce40775c2801a9dd85f8268d3d569",
+    "title": "2026/2027",
+    "phase": "retrospective",
+    "year": "2025/2026",
+    "cohort": "Severe and Profound Learning Disabilities",
+    "lo": 47,
+    "hi": 60,
+    "metrics": {
+      "places": 2,
+      "eligible_applications": 8,
+      "offers": 4
+    },
+    "notes": "Eligible applications explicitly, not all applications.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "20375I",
+    "document_id": "78be7602c4adbe2c4fc87f18f63d02b5",
+    "source_url": "https://www.abacaskilbarrack.ie/_files/ugd/03b971_6ce0c2400289408f873d9cda04591460.pdf",
+    "group_id": "26d2d4a77886f238977f2189341db825",
+    "title": "2025/2026",
+    "phase": "upcoming",
+    "year": "2025/2026",
+    "cohort": "All classes and ages: special-school intake",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 4
+    },
+    "notes": "",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "20375I",
+    "document_id": "78be7602c4adbe2c4fc87f18f63d02b5",
+    "source_url": "https://www.abacaskilbarrack.ie/_files/ugd/03b971_6ce0c2400289408f873d9cda04591460.pdf",
+    "group_id": "9a8b97392602618098d72c336c45e227",
+    "title": "2025/2026",
+    "phase": "retrospective",
+    "year": "2024/2025",
+    "cohort": "All classes and ages: special-school intake",
+    "lo": 49,
+    "hi": 61,
+    "metrics": {
+      "places": 4,
+      "applications": 49,
+      "offers": 4,
+      "waiting_list_names_placed": 45
+    },
+    "notes": "",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "20595W",
+    "document_id": "a5e5722feaeac443c3eeb2eac47d70ef",
+    "source_url": "https://www.ddletb.ie/wp-content/uploads/2025/07/Updated-July-Admissions-Notice-Lucan-CSS-14.07.2025.docx",
+    "group_id": "687038ed603c79bf08b39d6e73a33274",
+    "title": "2025/2026",
+    "phase": "upcoming",
+    "year": "2025/2026",
+    "cohort": "Group 1: special-school intake",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 6
+    },
+    "notes": "Exact printed Group1 quota; no inferred JI equivalent.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "20595W",
+    "document_id": "a5e5722feaeac443c3eeb2eac47d70ef",
+    "source_url": "https://www.ddletb.ie/wp-content/uploads/2025/07/Updated-July-Admissions-Notice-Lucan-CSS-14.07.2025.docx",
+    "group_id": "c848675d1035268d84ea0094a70edd69",
+    "title": "2025/2026",
+    "phase": "upcoming",
+    "year": "2025/2026",
+    "cohort": "Group 2: special-school intake",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 6
+    },
+    "notes": "Exact printed Group2 quota; no inferred JI equivalent.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "20595W",
+    "document_id": "a5e5722feaeac443c3eeb2eac47d70ef",
+    "source_url": "https://www.ddletb.ie/wp-content/uploads/2025/07/Updated-July-Admissions-Notice-Lucan-CSS-14.07.2025.docx",
+    "group_id": "4cd486aadc40dbff486394f62f0f8e3c",
+    "title": "2025/2026",
+    "phase": "upcoming",
+    "year": "2025/2026",
+    "cohort": "Group 3: special-school intake",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 6
+    },
+    "notes": "Exact printed Group3 quota; no inferred JI equivalent.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "20595W",
+    "document_id": "a5e5722feaeac443c3eeb2eac47d70ef",
+    "source_url": "https://www.ddletb.ie/wp-content/uploads/2025/07/Updated-July-Admissions-Notice-Lucan-CSS-14.07.2025.docx",
+    "group_id": "c25272a9888e198e99c3e70f552cacd2",
+    "title": "2025/2026",
+    "phase": "upcoming",
+    "year": "2025/2026",
+    "cohort": "Group 4: special-school intake",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 6
+    },
+    "notes": "Exact printed Group4 quota; no inferred JI equivalent.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "20595W",
+    "document_id": "5d451c7f8fd532ac01f591f9703a7177",
+    "source_url": "https://www.ddletb.ie/wp-content/uploads/2026/05/15.5.26-Admissions-Notice-LCSS.docx",
+    "group_id": "91f3cac9a57497b90684b7f840f152c9",
+    "title": null,
+    "phase": "upcoming",
+    "year": null,
+    "cohort": "Destination Class1 age5-8",
+    "lo": 1,
+    "hi": 24,
+    "metrics": {
+      "places": 12
+    },
+    "notes": "Retrieved source fragment has no explicit academic year; URL/retrieval year not used.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "20595W",
+    "document_id": "5d451c7f8fd532ac01f591f9703a7177",
+    "source_url": "https://www.ddletb.ie/wp-content/uploads/2026/05/15.5.26-Admissions-Notice-LCSS.docx",
+    "group_id": "3252015d3e297fcb04515b503b3a32c2",
+    "title": null,
+    "phase": "upcoming",
+    "year": null,
+    "cohort": "Destination Class2 age9-12",
+    "lo": 1,
+    "hi": 24,
+    "metrics": {
+      "places": 6
+    },
+    "notes": "Retrieved source fragment has no explicit academic year; URL/retrieval year not used.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "20595W",
+    "document_id": "5d451c7f8fd532ac01f591f9703a7177",
+    "source_url": "https://www.ddletb.ie/wp-content/uploads/2026/05/15.5.26-Admissions-Notice-LCSS.docx",
+    "group_id": "3e4c8b705d3ca3c48342f3a7548ba3e9",
+    "title": null,
+    "phase": "upcoming",
+    "year": null,
+    "cohort": "Destination Class3 age13-15",
+    "lo": 1,
+    "hi": 24,
+    "metrics": {
+      "places": 0
+    },
+    "notes": "Retrieved source fragment has no explicit academic year; URL/retrieval year not used.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "20595W",
+    "document_id": "5d451c7f8fd532ac01f591f9703a7177",
+    "source_url": "https://www.ddletb.ie/wp-content/uploads/2026/05/15.5.26-Admissions-Notice-LCSS.docx",
+    "group_id": "355ec2ae70dc0b635b61b6dfe44dc3d3",
+    "title": null,
+    "phase": "upcoming",
+    "year": null,
+    "cohort": "Destination Class4 age16-18",
+    "lo": 1,
+    "hi": 24,
+    "metrics": {
+      "places": 0
+    },
+    "notes": "Retrieved source fragment has no explicit academic year; URL/retrieval year not used.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "20596B",
+    "document_id": "899d5d2c04f944698b80fe0fe2ec7b55",
+    "source_url": "https://www.ddletb.ie/wp-content/uploads/2025/07/Updated_JulyAdmissions-Notice-Belmayne-CSS-14.07.2025.docx",
+    "group_id": "c3a64fab8ab3b54e38a502ceb93d8c29",
+    "title": "2025/2026",
+    "phase": "upcoming",
+    "year": "2025/2026",
+    "cohort": "Group 1: special-school intake",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 6
+    },
+    "notes": "Exact printed Group1 quota; no inferred JI equivalent.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "20596B",
+    "document_id": "899d5d2c04f944698b80fe0fe2ec7b55",
+    "source_url": "https://www.ddletb.ie/wp-content/uploads/2025/07/Updated_JulyAdmissions-Notice-Belmayne-CSS-14.07.2025.docx",
+    "group_id": "c907f138b59cdcb4211d94fd3a5b30ba",
+    "title": "2025/2026",
+    "phase": "upcoming",
+    "year": "2025/2026",
+    "cohort": "Group 2: special-school intake",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 6
+    },
+    "notes": "Exact printed Group2 quota; no inferred JI equivalent.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "20596B",
+    "document_id": "899d5d2c04f944698b80fe0fe2ec7b55",
+    "source_url": "https://www.ddletb.ie/wp-content/uploads/2025/07/Updated_JulyAdmissions-Notice-Belmayne-CSS-14.07.2025.docx",
+    "group_id": "e81c173c6c4f8a4c9d0c39a8fba9520a",
+    "title": "2025/2026",
+    "phase": "upcoming",
+    "year": "2025/2026",
+    "cohort": "Group 3: special-school intake",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 6
+    },
+    "notes": "Exact printed Group3 quota; no inferred JI equivalent.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "20596B",
+    "document_id": "899d5d2c04f944698b80fe0fe2ec7b55",
+    "source_url": "https://www.ddletb.ie/wp-content/uploads/2025/07/Updated_JulyAdmissions-Notice-Belmayne-CSS-14.07.2025.docx",
+    "group_id": "68800ab36357123afb83174c169e0a6e",
+    "title": "2025/2026",
+    "phase": "upcoming",
+    "year": "2025/2026",
+    "cohort": "Group 4: special-school intake",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 6
+    },
+    "notes": "Exact printed Group4 quota; no inferred JI equivalent.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "20596B",
+    "document_id": "954c3fb011d72895c1d833b4c27098b1",
+    "source_url": "https://www.ddletb.ie/wp-content/uploads/2025/07/Updated_JulyAdmissions-Notice-Belmayne-CSS-040625.docx",
+    "group_id": "f301e9eae37dc5068d31543f7846ebba",
+    "title": "2025/2026",
+    "phase": "upcoming",
+    "year": "2025/2026",
+    "cohort": "Group 1: special-school intake",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 6
+    },
+    "notes": "Exact printed Group1 quota; no inferred JI equivalent.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "20596B",
+    "document_id": "954c3fb011d72895c1d833b4c27098b1",
+    "source_url": "https://www.ddletb.ie/wp-content/uploads/2025/07/Updated_JulyAdmissions-Notice-Belmayne-CSS-040625.docx",
+    "group_id": "864bae07f7089d67430ae2f8368d7560",
+    "title": "2025/2026",
+    "phase": "upcoming",
+    "year": "2025/2026",
+    "cohort": "Group 2: special-school intake",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 6
+    },
+    "notes": "Exact printed Group2 quota; no inferred JI equivalent.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "20596B",
+    "document_id": "954c3fb011d72895c1d833b4c27098b1",
+    "source_url": "https://www.ddletb.ie/wp-content/uploads/2025/07/Updated_JulyAdmissions-Notice-Belmayne-CSS-040625.docx",
+    "group_id": "c3a30c078939113ec1be45a4cf1175d5",
+    "title": "2025/2026",
+    "phase": "upcoming",
+    "year": "2025/2026",
+    "cohort": "Group 3: special-school intake",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 6
+    },
+    "notes": "Exact printed Group3 quota; no inferred JI equivalent.",
+    "scope": "whole_table",
+    "status": null
+  },
+  {
+    "roll": "20596B",
+    "document_id": "954c3fb011d72895c1d833b4c27098b1",
+    "source_url": "https://www.ddletb.ie/wp-content/uploads/2025/07/Updated_JulyAdmissions-Notice-Belmayne-CSS-040625.docx",
+    "group_id": "0598846a8676656ec7b6eb2d220a34b5",
+    "title": "2025/2026",
+    "phase": "upcoming",
+    "year": "2025/2026",
+    "cohort": "Group 4: special-school intake",
+    "lo": 1,
+    "hi": 99999,
+    "metrics": {
+      "places": 6
+    },
+    "notes": "Exact printed Group4 quota; no inferred JI equivalent.",
+    "scope": "whole_table",
+    "status": null
+  }
+]

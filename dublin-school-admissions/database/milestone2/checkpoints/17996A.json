@@ -1,0 +1,69 @@
+{
+  "roll": "17996A",
+  "status": "bounded_search_no_new_notice_found",
+  "attempts": [
+    {
+      "url": "https://glenasmolens.com/wp-content/uploads/2025/09/School-Admission-Flyer.png",
+      "final_url": "https://glenasmolens.com/wp-content/uploads/2025/09/School-Admission-Flyer.png",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "School Admission Flyer"
+    },
+    {
+      "url": "https://glenasmolens.com/wp-content/uploads/2025/09/School-Admission-Flyer.jpg",
+      "final_url": "https://glenasmolens.com/wp-content/uploads/2025/09/School-Admission-Flyer.jpg",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "School Admission Flyer"
+    },
+    {
+      "url": "https://glenasmolens.com/wp-content/uploads/2025/09/School-Admission-Flyer-149-x-212-px-149-x-212-mm.png",
+      "final_url": "https://glenasmolens.com/wp-content/uploads/2025/09/School-Admission-Flyer-149-x-212-px-149-x-212-mm.png",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "School Admission Flyer (149 x 212 px) (149 x 212 mm)"
+    },
+    {
+      "url": "https://glenasmolens.com/wp-content/uploads/2025/09/School-Admission-Flyer-109-x-152-mm-107-x-150-mm-150-x-210-mm.jpg",
+      "final_url": "https://glenasmolens.com/wp-content/uploads/2025/09/School-Admission-Flyer-109-x-152-mm-107-x-150-mm-150-x-210-mm.jpg",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "School Admission Flyer (109 x 152 mm) (107 x 150 mm) (150 x 210 mm)"
+    },
+    {
+      "url": "https://glenasmolens.com/wp-content/uploads/2025/09/School-Admission-Flyer-1.png",
+      "final_url": "https://glenasmolens.com/wp-content/uploads/2025/09/School-Admission-Flyer-1.png",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "School Admission Flyer"
+    },
+    {
+      "url": "https://glenasmolens.com/wp-content/uploads/2025/09/School-Admission-Flyer-1.jpg",
+      "final_url": "https://glenasmolens.com/wp-content/uploads/2025/09/School-Admission-Flyer-1.jpg",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "School Admission Flyer"
+    }
+  ],
+  "documents": [],
+  "pending_links": [
+    {
+      "url": "https://glenasmolens.com/enrolment-2/",
+      "label": "Enrolment",
+      "via": "prior_public_admissions_landing"
+    },
+    {
+      "url": "https://www.glenasmolens.com",
+      "label": "School homepage",
+      "via": "home"
+    },
+    {
+      "url": "https://glenasmolens.com/sitemap_index.xml",
+      "label": "Public sitemap",
+      "via": "sitemap_root"
+    }
+  ],
+  "elapsed_seconds": 152.18,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:33:59+0000"
+}

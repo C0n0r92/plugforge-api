@@ -1,0 +1,397 @@
+{
+  "roll": "19898K",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://scoiland.ie/category/fograi-on-oifig-school-notices/page/5/",
+      "final_url": "https://scoiland.ie/category/fograi-on-oifig-school-notices/page/5/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "5"
+    },
+    {
+      "url": "https://scoiland.ie/category/fograi-on-oifig-school-notices/page/4/",
+      "final_url": "https://scoiland.ie/category/fograi-on-oifig-school-notices/page/4/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Previous"
+    },
+    {
+      "url": "https://scoiland.ie/category/fograi-on-oifig-school-notices/page/3/",
+      "final_url": "https://scoiland.ie/category/fograi-on-oifig-school-notices/page/3/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Previous"
+    },
+    {
+      "url": "https://scoiland.ie/category/fograi-on-oifig-school-notices/page/2/",
+      "final_url": "https://scoiland.ie/category/fograi-on-oifig-school-notices/page/2/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "2"
+    },
+    {
+      "url": "https://scoiland.ie/category/fograi-on-oifig-school-notices/",
+      "final_url": "https://scoiland.ie/category/fograi-on-oifig-school-notices/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Fogra ón Oifig  – School Notices"
+    },
+    {
+      "url": "https://scoiland.ie/tv-an-d-fogra-on-ngairdin/",
+      "final_url": "https://scoiland.ie/tv-an-d-fogra-on-ngairdin/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions/policy URL from public sitemap"
+    },
+    {
+      "url": "https://www.youtube.com/embed/Ay66bcjI7hg?feature=oembed",
+      "final_url": "https://www.youtube.com/embed/Ay66bcjI7hg?feature=oembed",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "TV AN D ! Fógra Ón nGairdín"
+    },
+    {
+      "url": "https://scoiland.ie/fograi-is-deanai/fisean-videos/",
+      "final_url": "https://scoiland.ie/fograi-is-deanai/fisean-videos/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions/policy URL from public sitemap"
+    },
+    {
+      "url": "https://scoiland.ie/fograi-is-deanai/",
+      "final_url": "https://scoiland.ie/fograi-is-deanai/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions/policy URL from public sitemap"
+    },
+    {
+      "url": "https://scoiland.ie/fogra-tabhachtach/",
+      "final_url": "https://scoiland.ie/fogra-tabhachtach/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions/policy URL from public sitemap"
+    },
+    {
+      "url": "https://www.youtube.com/embed/GghSSU36y7U?feature=oembed",
+      "final_url": "https://www.youtube.com/embed/GghSSU36y7U?feature=oembed",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Fógra le haghaidh Scoil An D!!!"
+    },
+    {
+      "url": "https://scoiland.ie/fogra-on-scoil/",
+      "final_url": "https://scoiland.ie/fogra-on-scoil/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions/policy URL from public sitemap"
+    },
+    {
+      "url": "https://www.youtube.com/embed/xESRqO17_dI?feature=oembed",
+      "final_url": "https://www.youtube.com/embed/xESRqO17_dI?feature=oembed",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Fógra Ón Scoil !"
+    },
+    {
+      "url": "https://scoiland.ie/fogra-faoin-yoga/",
+      "final_url": "https://scoiland.ie/fogra-faoin-yoga/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions/policy URL from public sitemap"
+    },
+    {
+      "url": "https://scoiland.ie/fogra-don-deardaoin/",
+      "final_url": "https://scoiland.ie/fogra-don-deardaoin/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions/policy URL from public sitemap"
+    },
+    {
+      "url": "https://www.youtube.com/embed/jkBtvdZgfcM?feature=oembed",
+      "final_url": "https://www.youtube.com/embed/jkBtvdZgfcM?feature=oembed",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Fógra Don Déardaoin"
+    },
+    {
+      "url": "https://scoiland.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://scoiland.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://scoiland.ie/wp-content/uploads/2020/11/Admission-Policy-of-Scoil-an-Duinninigh.2020.pdf",
+      "final_url": "https://scoiland.ie/wp-content/uploads/2020/11/Admission-Policy-of-Scoil-an-Duinninigh.2020.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admission Policy of Scoil an Duinnínigh.2020"
+    },
+    {
+      "url": "https://scoiland.ie/wp-content/uploads/2020/11/Admission-Policy-of-Scoil-an-Duinninigh.2020.docx",
+      "final_url": "https://scoiland.ie/wp-content/uploads/2020/11/Admission-Policy-of-Scoil-an-Duinninigh.2020.docx",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://scoiland.ie/wp-content/uploads/2020/11/Admission-Policy-of-Scoil-an-Duinninigh..pdf",
+      "final_url": "https://scoiland.ie/wp-content/uploads/2020/11/Admission-Policy-of-Scoil-an-Duinninigh..pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admission Policy of Scoil an Duinnínigh."
+    },
+    {
+      "url": "https://scoiland.ie/fuinn-about-us/rollu-enrolment/",
+      "final_url": "https://scoiland.ie/fuinn-about-us/rollu-enrolment/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Rollú – Enrolment"
+    },
+    {
+      "url": "https://scoiland.ie/wp-content/uploads/2021/11/Admission-Policy-of-Scoil-an-Duinninigh.2021.pdf",
+      "final_url": "https://scoiland.ie/wp-content/uploads/2021/11/Admission-Policy-of-Scoil-an-Duinninigh.2021.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admission Policy of Scoil an Duinnínigh.2021"
+    },
+    {
+      "url": "https://scoiland.ie/wp-content/uploads/2023/10/2023-Admission-Policy-of-Scoil-an-Duinninigh-.pdf",
+      "final_url": "https://scoiland.ie/wp-content/uploads/2023/10/2023-Admission-Policy-of-Scoil-an-Duinninigh-.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "2023 Admission Policy of Scoil an Duinnínigh"
+    },
+    {
+      "url": "https://scoiland.ie/wp-content/uploads/2026/11/2027-28-Foirm-Iarratais-Scoil-an-Duinninigh.pdf",
+      "final_url": "https://scoiland.ie/wp-content/uploads/2026/11/2027-28-Foirm-Iarratais-Scoil-an-Duinninigh.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "2027-28-Foirm-Iarratais-Scoil-an-Duinninigh"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19898K",
+      "url": "https://scoiland.ie/wp-content/uploads/2020/11/Admission-Policy-of-Scoil-an-Duinninigh.2020.pdf",
+      "label": "Admission Policy of Scoil an Duinnínigh.2020",
+      "sha256": "908a9a80e396e61270bbaddf990866a4d3c918cea581f43e1292d460f6af9a97",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19898K_908a9a80e396e61270bb.txt",
+      "source_file": "database/milestone2/cache/908a9a80e396e61270bbaddf990866a4d3c918cea581f43e1292d460f6af9a97.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 27717
+    },
+    {
+      "roll": "19898K",
+      "url": "https://scoiland.ie/wp-content/uploads/2020/11/Admission-Policy-of-Scoil-an-Duinninigh.2020.docx",
+      "label": "Prior school admissions section",
+      "sha256": "f48afdcb87fa9331e001b41f7ba4a4bd866592d5007079cf5955997496cd82db",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/19898K_f48afdcb87fa9331e001.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 25740
+    },
+    {
+      "roll": "19898K",
+      "url": "https://scoiland.ie/wp-content/uploads/2020/11/Admission-Policy-of-Scoil-an-Duinninigh..pdf",
+      "label": "Admission Policy of Scoil an Duinnínigh.",
+      "sha256": "1d485a4890ad54e1c75f0ade513bb95072b0c483e1874697ac8b368627954771",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19898K_1d485a4890ad54e1c75f.txt",
+      "source_file": "database/milestone2/cache/1d485a4890ad54e1c75f0ade513bb95072b0c483e1874697ac8b368627954771.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 27712
+    },
+    {
+      "roll": "19898K",
+      "url": "https://scoiland.ie/fuinn-about-us/rollu-enrolment/",
+      "label": "Rollú – Enrolment",
+      "sha256": "a05717281daab845cfbb69bcbada8cb3c2693b782af6be627c9b84af6a6903c0",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19898K_a05717281daab845cfbb.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1513
+    },
+    {
+      "roll": "19898K",
+      "url": "https://scoiland.ie/wp-content/uploads/2021/11/Admission-Policy-of-Scoil-an-Duinninigh.2021.pdf",
+      "label": "Admission Policy of Scoil an Duinnínigh.2021",
+      "sha256": "9a7f25532cc125b6a0cd4a570009b7684c851dcdddc3e06b2e60bf42aa189c04",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19898K_9a7f25532cc125b6a0cd.txt",
+      "source_file": "database/milestone2/cache/9a7f25532cc125b6a0cd4a570009b7684c851dcdddc3e06b2e60bf42aa189c04.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 27723
+    },
+    {
+      "roll": "19898K",
+      "url": "https://scoiland.ie/wp-content/uploads/2023/10/2023-Admission-Policy-of-Scoil-an-Duinninigh-.pdf",
+      "label": "2023 Admission Policy of Scoil an Duinnínigh",
+      "sha256": "8c15cf1a3e7085f8c46075b58a0c29b96fa1a99f75ccdaf3837a1e400878ad74",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19898K_8c15cf1a3e7085f8c460.txt",
+      "source_file": "database/milestone2/cache/8c15cf1a3e7085f8c46075b58a0c29b96fa1a99f75ccdaf3837a1e400878ad74.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 28320
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://scoiland.ie/wp-content/uploads/2026/11/2027-28-Foirm-Iarratais-Scoil-an-Duinninigh.docx",
+      "label": "2027-28-Foirm-Iarratais-Scoil-an-Duinninigh",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://scoiland.ie/polasaithe-policies/curam-leanai/",
+      "label": "Cúram Leanaí – Ráiteas um Chumhdach Leanaí 2018",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.youtube.com/sitemap.xml",
+      "label": "Public sitemap",
+      "via": "sitemap_root"
+    },
+    {
+      "url": "https://www.scoiland.ie",
+      "label": "School homepage",
+      "via": "home"
+    },
+    {
+      "url": "https://scoiland.ie/wp-sitemap.xml",
+      "label": "Public sitemap",
+      "via": "sitemap_root"
+    },
+    {
+      "url": "https://scoiland.ie/sitemap.xml",
+      "label": "Public sitemap",
+      "via": "sitemap_root"
+    },
+    {
+      "url": "https://scoiland.ie/sitemap.html",
+      "label": "Public sitemap",
+      "via": "sitemap_root"
+    },
+    {
+      "url": "https://scoiland.ie/polasaithe-policies/tinreamh-scoile/",
+      "label": "Tinreamh Scoile",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://scoiland.ie/polasaithe-policies/tastail-chaighdeanaithe/",
+      "label": "Tastáil Chaighdeánaithe",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://scoiland.ie/polasaithe-policies/rollu/",
+      "label": "Rollú",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://scoiland.ie/polasaithe-policies/rochtana-agus-rannphairtiochta/",
+      "label": "Rochtain agus Rannpháirtíocht",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://scoiland.ie/polasaithe-policies/nos-imeachta-maidir-le-gearain/",
+      "label": "Teagmhas Criticiúil",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://scoiland.ie/polasaithe-policies/neamhlaithreacht/",
+      "label": "Neamhláithreacht",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://scoiland.ie/polasaithe-policies/nasc-idir-baile-scoil/",
+      "label": "Nasc Idir Baile agus Scoil",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://scoiland.ie/polasaithe-policies/measunu-agus-tuairisciu/",
+      "label": "Measúnú agus Tuairisciú",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://scoiland.ie/polasaithe-policies/lon/",
+      "label": "Bia ar Scoil",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://scoiland.ie/polasaithe-policies/labhairt-na-gaeilge/",
+      "label": "Labhairt na Gaeilge",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://scoiland.ie/polasaithe-policies/foin-poca/",
+      "label": "Fóin Póca",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://scoiland.ie/polasaithe-policies/covid-19/",
+      "label": "COVID-19",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://scoiland.ie/polasaithe-policies/cogas-a-riaradh/",
+      "label": "Cógas a Riaradh",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://scoiland.ie/polasaithe-policies/casaoide/",
+      "label": "Gnás casaoide",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://scoiland.ie/polasaithe-policies/caidreamh-agus-gneasacht/",
+      "label": "Caidreamh agus Gnéasacht",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://scoiland.ie/polasaithe-policies/bruscar/",
+      "label": "Bruscar",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://scoiland.ie/polasaithe-policies/an-cod-smachta/",
+      "label": "An Cód Iompair",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://scoiland.ie/polasaithe-policies/",
+      "label": "POLASAITHE – Policies",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://scoiland.ie/fuinn-about-us/coistenadtuismitheoiri-parentscommittee/",
+      "label": "Comhairle na dTuismitheoirí – Parents’ Committee",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://scoiland.ie/fiontrai-shoisearaigh-agus-cuairt-na-dragain/",
+      "label": "Admissions/policy URL from public sitemap",
+      "via": "prior_public_admissions_landing"
+    },
+    {
+      "url": "https://scoiland.ie/eolas-information/treoir-do-thuismitheoiri-parents-guide/",
+      "label": "Treoir do Thuismitheoirí – Parents’ Guide",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://scoiland.ie/polasaithe-policies/frith-bhulaiocht/",
+      "label": "Beartas Frithbhulaíochta – Anti-Bullying Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://scoiland.ie/polasai-scoile-covid-19-policy-statement/",
+      "label": "Polasaí Scoile Covid-19 / Policy Statement",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 66.75,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:40:08+0000"
+}

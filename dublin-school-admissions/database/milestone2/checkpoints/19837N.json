@@ -1,0 +1,246 @@
+{
+  "roll": "19837N",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://drimnaghcastleprimary.ie/wp-content/uploads/2024/01/DCPS_2425_Admission_Notice.docx",
+      "final_url": "https://drimnaghcastleprimary.ie/wp-content/uploads/2024/01/DCPS_2425_Admission_Notice.docx",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://drimnaghcastleprimary.ie/wp-content/uploads/2015/12/admissions_ptb_top_bg.jpg",
+      "final_url": "https://drimnaghcastleprimary.ie/wp-content/uploads/2015/12/admissions_ptb_top_bg.jpg",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "admissions_ptb_top_bg"
+    },
+    {
+      "url": "https://drimnaghcastleprimary.ie/admissions/",
+      "final_url": "https://drimnaghcastleprimary.ie/admissions/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "ADMISSIONS APPLY"
+    },
+    {
+      "url": "https://drimnaghcastleprimary.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://drimnaghcastleprimary.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://drimnaghcastleprimary.ie/wp-content/uploads/2023/04/SPHE.pdf",
+      "final_url": "https://drimnaghcastleprimary.ie/wp-content/uploads/2023/04/SPHE.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "S.P.H.E"
+    },
+    {
+      "url": "https://drimnaghcastleprimary.ie/wp-content/uploads/2023/04/Internet-Safety.pdf",
+      "final_url": "https://drimnaghcastleprimary.ie/wp-content/uploads/2023/04/Internet-Safety.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "INTERNET SAFETY"
+    },
+    {
+      "url": "https://drimnaghcastleprimary.ie/wp-content/uploads/2023/04/DCPS_Admissions_Policy_January_2023.pdf",
+      "final_url": "https://drimnaghcastleprimary.ie/wp-content/uploads/2023/04/DCPS_Admissions_Policy_January_2023.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "DCPS_Admissions_Policy_January_2023"
+    },
+    {
+      "url": "https://drimnaghcastleprimary.ie/wp-content/uploads/2024/10/OCT24_DCPS_ANTIBULLYING-P.pdf",
+      "final_url": "https://drimnaghcastleprimary.ie/wp-content/uploads/2024/10/OCT24_DCPS_ANTIBULLYING-P.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "ANTI-BULLYING"
+    },
+    {
+      "url": "https://drimnaghcastleprimary.ie/wp-content/uploads/2024/09/CP_JUN24_MANDATORY-TEMPLATE-3.pdf",
+      "final_url": "https://drimnaghcastleprimary.ie/wp-content/uploads/2024/09/CP_JUN24_MANDATORY-TEMPLATE-3.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "NOTIFICATION OF REVIEW"
+    },
+    {
+      "url": "https://drimnaghcastleprimary.ie/wp-content/uploads/2024/02/Revised-Parental-Complaints-Procedure.pdf",
+      "final_url": "https://drimnaghcastleprimary.ie/wp-content/uploads/2024/02/Revised-Parental-Complaints-Procedure.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "PARENTAL COMPLAINTS"
+    },
+    {
+      "url": "https://drimnaghcastleprimary.ie/wp-content/uploads/2026/06/17.06.25_CP.pdf",
+      "final_url": "https://drimnaghcastleprimary.ie/wp-content/uploads/2026/06/17.06.25_CP.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "SAFEGUARDING 2025/26"
+    },
+    {
+      "url": "https://drimnaghcastleprimary.ie/wp-content/uploads/2026/01/DCPS_Admissions_Policy_2025_2026_dc.pdf",
+      "final_url": "https://drimnaghcastleprimary.ie/wp-content/uploads/2026/01/DCPS_Admissions_Policy_2025_2026_dc.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions Policy"
+    },
+    {
+      "url": "https://drimnaghcastleprimary.ie/wp-content/uploads/2025/11/DCPS_-2526_DEIS-PLAN-DC.pdf",
+      "final_url": "https://drimnaghcastleprimary.ie/wp-content/uploads/2025/11/DCPS_-2526_DEIS-PLAN-DC.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "DEIS Plan 25/26"
+    },
+    {
+      "url": "https://drimnaghcastleprimary.ie/wp-content/uploads/2025/11/DCPS_-2425_DEIS-PLAN-DC.pdf",
+      "final_url": "https://drimnaghcastleprimary.ie/wp-content/uploads/2025/11/DCPS_-2425_DEIS-PLAN-DC.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "DEIS Plan 24/25"
+    },
+    {
+      "url": "https://drimnaghcastleprimary.ie/wp-content/uploads/2025/11/2425-Boys-Version-School-Plan-DC.pdf",
+      "final_url": "https://drimnaghcastleprimary.ie/wp-content/uploads/2025/11/2425-Boys-Version-School-Plan-DC.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Plan 24/25"
+    },
+    {
+      "url": "https://drimnaghcastleprimary.ie/wp-content/uploads/2025/08/Calendar-2025-26.pdf",
+      "final_url": "https://drimnaghcastleprimary.ie/wp-content/uploads/2025/08/Calendar-2025-26.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "2025/26 CALENDAR"
+    },
+    {
+      "url": "https://drimnaghcastleprimary.ie/wp-content/uploads/2025/01/DCPS_NOV24_CODE-OF-BEHAVIOUR.pdf",
+      "final_url": "https://drimnaghcastleprimary.ie/wp-content/uploads/2025/01/DCPS_NOV24_CODE-OF-BEHAVIOUR.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "DISCIPLINE CODE BEHAVIOUR"
+    },
+    {
+      "url": "https://drimnaghcastleprimary.ie/wp-sitemap.xml",
+      "final_url": "https://drimnaghcastleprimary.ie/wp-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://drimnaghcastleprimary.ie/wp-sitemap-posts-post-1.xml",
+      "final_url": "https://drimnaghcastleprimary.ie/wp-sitemap-posts-post-1.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://drimnaghcastleprimary.ie/wp-sitemap-posts-page-1.xml",
+      "final_url": "https://drimnaghcastleprimary.ie/wp-sitemap-posts-page-1.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://drimnaghcastleprimary.ie/wp-sitemap-posts-avada_portfolio-1.xml",
+      "final_url": "https://drimnaghcastleprimary.ie/wp-sitemap-posts-avada_portfolio-1.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://drimnaghcastleprimary.ie/",
+      "final_url": "https://drimnaghcastleprimary.ie/",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://drimnaghcastleprimary.ie/wp-content/uploads/2023/04/Data-Protection-Policy-2021.pdf",
+      "final_url": "https://drimnaghcastleprimary.ie/wp-content/uploads/2023/04/Data-Protection-Policy-2021.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "DATA PROTECTION"
+    },
+    {
+      "url": "https://drimnaghcastleprimary.ie/wp-content/uploads/2023/04/Relationships-Sexuality-Education-Policy.pdf",
+      "final_url": "https://drimnaghcastleprimary.ie/wp-content/uploads/2023/04/Relationships-Sexuality-Education-Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "RELATIONSHIPS & SEXUALITY EDUCATION"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19837N",
+      "url": "https://drimnaghcastleprimary.ie/wp-content/uploads/2024/01/DCPS_2425_Admission_Notice.docx",
+      "label": "Prior school admissions section",
+      "sha256": "298f9a4910b785f0ec2cbc77e523f6e80ebc182a28f77fb5ecf5cb3289378d01",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/19837N_298f9a4910b785f0ec2c.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1296
+    },
+    {
+      "roll": "19837N",
+      "url": "https://drimnaghcastleprimary.ie/admissions/",
+      "label": "ADMISSIONS APPLY",
+      "sha256": "b413bb5f860b889147cecb79370d88f776f8fec326657ccc7e2df015d9552253",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19837N_b413bb5f860b889147ce.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 299
+    },
+    {
+      "roll": "19837N",
+      "url": "https://drimnaghcastleprimary.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "label": "Oldest public admission media (all dates)",
+      "sha256": "8868849bc91a7087f8e494a07ce083300374a0f312dde251917e2a85512beb6c",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19837N_8868849bc91a7087f8e4.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1265
+    },
+    {
+      "roll": "19837N",
+      "url": "https://drimnaghcastleprimary.ie/wp-content/uploads/2023/04/DCPS_Admissions_Policy_January_2023.pdf",
+      "label": "DCPS_Admissions_Policy_January_2023",
+      "sha256": "156f566187ad4e6d0de7a0898d1ba9ecbc59fe1be4683cbe2d30c0f7716e8f17",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19837N_156f566187ad4e6d0de7.txt",
+      "source_file": "database/milestone2/cache/156f566187ad4e6d0de7a0898d1ba9ecbc59fe1be4683cbe2d30c0f7716e8f17.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 25098
+    },
+    {
+      "roll": "19837N",
+      "url": "https://drimnaghcastleprimary.ie/wp-content/uploads/2026/01/DCPS_Admissions_Policy_2025_2026_dc.pdf",
+      "label": "Admissions Policy",
+      "sha256": "a41468c131c883c73bf398ab5fe15819a4b76e45e403d836e768b481f52ed552",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19837N_a41468c131c883c73bf3.txt",
+      "source_file": "database/milestone2/cache/a41468c131c883c73bf398ab5fe15819a4b76e45e403d836e768b481f52ed552.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 29414
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://drimnaghcastleprimary.ie/wp-content/uploads/2023/04/Dignity-at-Work-Policy.pdf",
+      "label": "DIGNITY AT WORK POLICY",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://drimnaghcastleprimary.ie/wp-content/uploads/2025/11/DCPS_Bi-Cinealta_Approved-Policy-DC.pdf",
+      "label": "BÍ CINEÁLTA POLICY",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 77.81,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:40:04+0000"
+}

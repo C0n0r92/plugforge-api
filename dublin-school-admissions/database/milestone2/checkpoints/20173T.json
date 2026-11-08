@@ -1,0 +1,235 @@
+{
+  "roll": "20173T",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.stannesprimaryschool.ie/page/Annual-Admission-Notice/20096/Index.html",
+      "final_url": "https://www.stannesprimaryschool.ie/page/Annual-Admission-Notice/20096/Index.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Annual Admission Notice"
+    },
+    {
+      "url": "https://www.stannesprimaryschool.ie/Page/Annual-Admission-Notice/20096/Index.html",
+      "final_url": "https://www.stannesprimaryschool.ie/Page/Annual-Admission-Notice/20096/Index.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Annual Admission Notice"
+    },
+    {
+      "url": "https://www.stannesprimaryschool.ie/Annual-Admission-Notice/Index.html",
+      "final_url": "https://www.stannesprimaryschool.ie/Annual-Admission-Notice/Index.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Annual Admission Notice"
+    },
+    {
+      "url": "https://www.stannesprimaryschool.ie/page/Admission-Policy-2526/19660/Index.html",
+      "final_url": "https://www.stannesprimaryschool.ie/page/Admission-Policy-2526/19660/Index.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admission Policy 25/26"
+    },
+    {
+      "url": "https://www.stannesprimaryschool.ie/page/Autism-Class-Admission-Policy/19769/Index.html",
+      "final_url": "https://www.stannesprimaryschool.ie/page/Autism-Class-Admission-Policy/19769/Index.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admission Policy for Autism Class"
+    },
+    {
+      "url": "https://www.stannesprimaryschool.ie/page/Enrollment-form-2526/19987/Index.html",
+      "final_url": "https://www.stannesprimaryschool.ie/page/Enrollment-form-2526/19987/Index.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Enrollment Form"
+    },
+    {
+      "url": "https://www.stannesprimaryschool.ie/Page/Enrollment-form-2526/19987/Index.html",
+      "final_url": "https://www.stannesprimaryschool.ie/Page/Enrollment-form-2526/19987/Index.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Enrollment form 25/26"
+    },
+    {
+      "url": "https://www.stannesprimaryschool.ie/page/Enrolment/16826/Index.html",
+      "final_url": "https://www.stannesprimaryschool.ie/page/Enrolment/16826/Index.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Enrollment"
+    },
+    {
+      "url": "https://www.stannesprimaryschool.ie/Content/2024/2/gn24-ls47new_enrolement_form.docx",
+      "final_url": "https://www.stannesprimaryschool.ie/Content/2024/2/gn24-ls47new_enrolement_form.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "here"
+    },
+    {
+      "url": "https://www.stannesprimaryschool.ie/Page/Enrolment/16826/Index.html",
+      "final_url": "https://www.stannesprimaryschool.ie/Page/Enrolment/16826/Index.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Enrolment"
+    },
+    {
+      "url": "https://www.stannesprimaryschool.ie/Enrollment-Form/Index.html",
+      "final_url": "https://www.stannesprimaryschool.ie/Enrollment-Form/Index.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Enrollment Form"
+    },
+    {
+      "url": "https://www.stannesprimaryschool.ie/sitemap.xml",
+      "final_url": "https://www.stannesprimaryschool.ie/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.stannesprimaryschool.ie/page/School-Policies/12902/Index.html",
+      "final_url": "https://www.stannesprimaryschool.ie/page/School-Policies/12902/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Policies"
+    },
+    {
+      "url": "https://stannesprimaryschool.scoilnet.ie/blog/files/2021/05/Admission-Policy-2020-asd.docx",
+      "final_url": "https://stannesprimaryschool.scoilnet.ie/blog/files/2021/05/Admission-Policy-2020-asd.docx",
+      "status": "robots_permission_unestablished_http_301",
+      "via": "school_public_link",
+      "label": "Admission Policy 2020"
+    },
+    {
+      "url": "https://www.stannesprimaryschool.ie/page/Admin-Policies/17044/Index.html",
+      "final_url": "https://www.stannesprimaryschool.ie/page/Admin-Policies/17044/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admin policies"
+    },
+    {
+      "url": "https://www.stannesprimaryschool.ie/School-Policies/Index.html",
+      "final_url": "https://www.stannesprimaryschool.ie/School-Policies/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Policies"
+    },
+    {
+      "url": "https://www.stannesprimaryschool.ie/Page/School-Policies/12902/Index.html",
+      "final_url": "https://www.stannesprimaryschool.ie/Page/School-Policies/12902/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Policies"
+    },
+    {
+      "url": "https://www.stannesprimaryschool.ie/Admin-policies/Index.html",
+      "final_url": "https://www.stannesprimaryschool.ie/Admin-policies/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admin policies"
+    },
+    {
+      "url": "https://www.stannesprimaryschool.ie/Page/Admin-Policies/17044/Index.html",
+      "final_url": "https://www.stannesprimaryschool.ie/Page/Admin-Policies/17044/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admin Policies"
+    },
+    {
+      "url": "https://www.stannesprimaryschool.ie/",
+      "final_url": "https://www.stannesprimaryschool.ie/",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.stannesprimaryschool.ie/Autism-Class-Admin-Policy/Index.html",
+      "final_url": "https://www.stannesprimaryschool.ie/Autism-Class-Admin-Policy/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Autism Class Admin Policy"
+    },
+    {
+      "url": "https://www.stannesprimaryschool.ie/Page/Autism-Class-Admission-Policy/19769/Index.html",
+      "final_url": "https://www.stannesprimaryschool.ie/Page/Autism-Class-Admission-Policy/19769/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Autism Class Admission Policy"
+    },
+    {
+      "url": "https://www.stannesprimaryschool.ie/Admin-Policy/Index.html",
+      "final_url": "https://www.stannesprimaryschool.ie/Admin-Policy/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admin Policy"
+    },
+    {
+      "url": "https://www.stannesprimaryschool.ie/Page/Admission-Policy-2526/19660/Index.html",
+      "final_url": "https://www.stannesprimaryschool.ie/Page/Admission-Policy-2526/19660/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admission Policy 25/26"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "20173T",
+      "url": "https://www.stannesprimaryschool.ie/page/Annual-Admission-Notice/20096/Index.html",
+      "label": "Annual Admission Notice",
+      "sha256": "9afb049ef0b644c18cda040fe6e32907932adb9f3417edc51b27b5b0a1559f7a",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20173T_9afb049ef0b644c18cda.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 3126
+    },
+    {
+      "roll": "20173T",
+      "url": "https://www.stannesprimaryschool.ie/Page/Annual-Admission-Notice/20096/Index.html",
+      "label": "Annual Admission Notice",
+      "sha256": "883d7d271ad25494f06b98d2f171db203ec7d0135ecb587a13943430adc3305e",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20173T_883d7d271ad25494f06b.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 3126
+    },
+    {
+      "roll": "20173T",
+      "url": "https://www.stannesprimaryschool.ie/Annual-Admission-Notice/Index.html",
+      "label": "Annual Admission Notice",
+      "sha256": "51558aa624d1faea8ffef74cb8b2992e5fbbc0cc6b7d2585dec5fee7426292b2",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20173T_51558aa624d1faea8ffe.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 366
+    },
+    {
+      "roll": "20173T",
+      "url": "https://www.stannesprimaryschool.ie/page/Admission-Policy-2526/19660/Index.html",
+      "label": "Admission Policy 25/26",
+      "sha256": "9a10c1b25ae6b38a5e0b5b94d4049a7c9b9028435457a12cb2c7cbfd209fd423",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20173T_9a10c1b25ae6b38a5e0b.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 18100
+    },
+    {
+      "roll": "20173T",
+      "url": "https://www.stannesprimaryschool.ie/Page/Admission-Policy-2526/19660/Index.html",
+      "label": "Admission Policy 25/26",
+      "sha256": "b0549d764ff4676177fd0bb87a066579951c53ac4ea53a4c15e241ba30bd740d",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20173T_b0549d764ff4676177fd.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 18100
+    }
+  ],
+  "pending_links": [],
+  "elapsed_seconds": 86.01,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:11:30+0000"
+}

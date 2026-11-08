@@ -1,0 +1,88 @@
+{
+  "roll": "20488V",
+  "status": "bounded_search_no_new_notice_found",
+  "attempts": [
+    {
+      "url": "https://scoilunanaofa.com/enrolments",
+      "final_url": "https://scoilunanaofa.com/enrolments",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Enrolments"
+    },
+    {
+      "url": "https://scoilunanaofa.com/sitemap.xml",
+      "final_url": "https://scoilunanaofa.com/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://scoilunanaofa.com/policies",
+      "final_url": "https://scoilunanaofa.com/policies",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://drive.google.com/file/d/1e6xIawxrfXDlbtKmvpYcbI5qrGHkh1dc/view?usp=drive_link",
+      "final_url": "https://drive.google.com/file/d/1e6xIawxrfXDlbtKmvpYcbI5qrGHkh1dc/view?usp=drive_link",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admission Notice"
+    },
+    {
+      "url": "https://scoilunanaofa.com/parents-association",
+      "final_url": "https://scoilunanaofa.com/parents-association",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents Association"
+    },
+    {
+      "url": "https://scoilunanaofa.com/httpsscoilunanaofacomparentspre-enrolment-enrolment",
+      "final_url": "https://scoilunanaofa.com/httpsscoilunanaofacomparentspre-enrolment-enrolment",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions/policy URL from public sitemap"
+    },
+    {
+      "url": "https://drive.google.com/file/d/1iMzdp31l2b3gUqiukMchjrCmRa9H1hjK/view?usp=drive_link",
+      "final_url": "https://drive.google.com/file/d/1iMzdp31l2b3gUqiukMchjrCmRa9H1hjK/view?usp=drive_link",
+      "status": "http_404",
+      "via": "school_public_link",
+      "label": "Admission Notice"
+    },
+    {
+      "url": "https://drive.google.com/file/d/1dzTXMYKXOE9WcGdpibcDffQ4eyiJpSpR/view?usp=drive_link",
+      "final_url": "https://drive.google.com/file/d/1dzTXMYKXOE9WcGdpibcDffQ4eyiJpSpR/view?usp=drive_link",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Pre-Enrolment"
+    },
+    {
+      "url": "https://scoilunanaofa.com/",
+      "final_url": "https://scoilunanaofa.com/",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://drive.google.com/sitemap.xml",
+      "final_url": "https://drive.google.com/sitemap.xml",
+      "status": "robots_disallow",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://drive.google.com/file/d/1dgf2hOsYHxL0ZmpfnjPfcK9Ao7dlvTiK/view?usp=drive_link",
+      "final_url": "https://drive.google.com/file/d/1dgf2hOsYHxL0ZmpfnjPfcK9Ao7dlvTiK/view?usp=drive_link",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admission Policy"
+    }
+  ],
+  "documents": [],
+  "pending_links": [],
+  "elapsed_seconds": 24.35,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:11:53+0000"
+}

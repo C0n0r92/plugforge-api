@@ -1,0 +1,3642 @@
+[
+  {
+    "roll": "00697S",
+    "name": "St Brigid's NS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.saintbrigids.ie"
+  },
+  {
+    "roll": "00714P",
+    "name": "Lucan B N S",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.stmarysbnslucan.com/"
+  },
+  {
+    "roll": "00729F",
+    "name": "Loreto Primary School",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.loretograngeroad.ie/"
+  },
+  {
+    "roll": "00752A",
+    "name": "Central Senior NS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.centralmodelseniorschool.ie"
+  },
+  {
+    "roll": "01170G",
+    "name": "S N Na H-Aille / The Naul",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.naulschool.ie"
+  },
+  {
+    "roll": "01795A",
+    "name": "Central Infants School",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.centralmodelinfantschool.ie"
+  },
+  {
+    "roll": "02872U",
+    "name": "St Marys Woodside National School",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.stmarysnssandyford.ie"
+  },
+  {
+    "roll": "03359N",
+    "name": "Ballyroan BNS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.ballyroanboysschool.ie"
+  },
+  {
+    "roll": "03917V",
+    "name": "NAOMH PADRAIG BOYS",
+    "roster_status": "historical_predecessor_amalgamated_2026_verified_school_and_directory",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.ringsendns.ie/"
+  },
+  {
+    "roll": "04992R",
+    "name": "Sacred Heart NS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.sacredheartballygall.ie"
+  },
+  {
+    "roll": "05600C",
+    "name": "Dominican Primary School",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.dominicandunlaoghaire.ie/"
+  },
+  {
+    "roll": "05933G",
+    "name": "Presentation Primary",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.georgeshillschool.ie"
+  },
+  {
+    "roll": "06200O",
+    "name": "St. Mary's Boys National School",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.stmarysbooterstown.ie"
+  },
+  {
+    "roll": "07546J",
+    "name": "Our Lady of Lourdes NS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.ourladyoflourdesns.ie"
+  },
+  {
+    "roll": "09492W",
+    "name": "St Benignus National School ",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.balscadden.com"
+  },
+  {
+    "roll": "09642P",
+    "name": "Burrows NS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.burrowschool.ie"
+  },
+  {
+    "roll": "09750S",
+    "name": "St Josephs Boys N S",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.stjosephsterenure.ie"
+  },
+  {
+    "roll": "09932B",
+    "name": "Stanhope Street Primary School",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.stanhopestreetprimary.ie"
+  },
+  {
+    "roll": "10296G",
+    "name": "St Marnock's NS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.stmarnocksns.ie/"
+  },
+  {
+    "roll": "10494K",
+    "name": "All Saints N S",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.allsaintsnsblackrock.com/"
+  },
+  {
+    "roll": "10653E",
+    "name": "St Laurence's National School",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.stlaurenceschapelizod.com/"
+  },
+  {
+    "roll": "11525A",
+    "name": "St Patricks NS ",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://saintpats.ie/"
+  },
+  {
+    "roll": "11578V",
+    "name": "City Quay NS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.cityquayns.ie"
+  },
+  {
+    "roll": "11583O",
+    "name": "St Andrews N S",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.standrewsns.ie/"
+  },
+  {
+    "roll": "11638N",
+    "name": "Whitechurch NS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.whitechurchns.biz/"
+  },
+  {
+    "roll": "11873A",
+    "name": "Rathmichael N S",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://rathmichaelschool.com/"
+  },
+  {
+    "roll": "11894I",
+    "name": "Scoil Mhuire",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.scoilmhuiregns.ie/"
+  },
+  {
+    "roll": "12014D",
+    "name": "St Andrews N S",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.standrewsnslucan.scoilnet.ie"
+  },
+  {
+    "roll": "12358M",
+    "name": "Old Borough National School",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.oldboroughschool.ie/"
+  },
+  {
+    "roll": "12448N",
+    "name": "Gardiner Street Convent",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.gardinerstreetschool.ie"
+  },
+  {
+    "roll": "12755W",
+    "name": "Kildare Place  N S",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.kildareplace.ie/"
+  },
+  {
+    "roll": "13217W",
+    "name": "Holy Family Nat School",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://holyfamilyns.ie/"
+  },
+  {
+    "roll": "13447Q",
+    "name": "Scoil Mhuire GNS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.smgnslucan.com"
+  },
+  {
+    "roll": "13611D",
+    "name": "Presentation Primary School ",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.warrenmountprimary.com"
+  },
+  {
+    "roll": "13612F",
+    "name": "Presentation Primary School",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.presterenure.ie"
+  },
+  {
+    "roll": "13815T",
+    "name": "Howth Rd Mxd N S",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://howthroadns.ie"
+  },
+  {
+    "roll": "14180H",
+    "name": "Holmpatrick National School",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.holmpatrickns.ie/"
+  },
+  {
+    "roll": "14463T",
+    "name": "St Columbas N S Mxd",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.stcolumbasns.com"
+  },
+  {
+    "roll": "14556D",
+    "name": "South City CNS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.southcitycns.ie"
+  },
+  {
+    "roll": "14586M",
+    "name": "Carysfort Ns",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.carysfortns.ie"
+  },
+  {
+    "roll": "14647G",
+    "name": "St. Patrick's NS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.stpatricksnsdalkey.ie"
+  },
+  {
+    "roll": "14717B",
+    "name": "Rathgar N S",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://rathgarns.ie"
+  },
+  {
+    "roll": "14917J",
+    "name": "Zion Parish Primary School",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.zionparishschool.ie"
+  },
+  {
+    "roll": "14939T",
+    "name": "Rathfarnham Parish NS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.rpns.ie"
+  },
+  {
+    "roll": "14980Q",
+    "name": "Glasnevin N S",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.glasnevinns.ie"
+  },
+  {
+    "roll": "15056L",
+    "name": "St Vincents Girls NS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://stvincentsgns.weebly.com"
+  },
+  {
+    "roll": "15132B",
+    "name": "Harold Boys' N S",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.haroldboysdalkey.ie/"
+  },
+  {
+    "roll": "15253N",
+    "name": "ST PATRICKS GIRLS NS",
+    "roster_status": "historical_predecessor_amalgamated_2026_verified_school_and_directory",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.ringsendns.ie/"
+  },
+  {
+    "roll": "15284B",
+    "name": "Taney Parish School",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.taneyschool.ie/"
+  },
+  {
+    "roll": "15315J",
+    "name": "St Georges National School",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.stgeorgesns.com"
+  },
+  {
+    "roll": "15569R",
+    "name": "Scoil Moibhi / Milverton National School",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.scoilmoibhi.ie"
+  },
+  {
+    "roll": "15618E",
+    "name": "Sandford N S",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.sandfordparishns.com"
+  },
+  {
+    "roll": "15622S",
+    "name": "St Patrick's National School",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.stpatricksns.com"
+  },
+  {
+    "roll": "15625B",
+    "name": "St Catherines N S",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://stcatherinesns.net/"
+  },
+  {
+    "roll": "15650A",
+    "name": "Corduff  National School",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.corduffns.ie"
+  },
+  {
+    "roll": "15816I",
+    "name": "St Vincents Inf Boys",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.stvincentsboysschool.ie"
+  },
+  {
+    "roll": "15895H",
+    "name": "Drumcondra N S",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.drumcondrans.ie"
+  },
+  {
+    "roll": "15995L",
+    "name": "Canon O Hanlon Memorial N S",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://starofthesea.ie"
+  },
+  {
+    "roll": "16177F",
+    "name": "Lindsay Road N S",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.lrns.ie"
+  },
+  {
+    "roll": "16267G",
+    "name": "Portrane Boys National School",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.stpatsbns.ie/"
+  },
+  {
+    "roll": "16332O",
+    "name": "St Patricks Senior National School",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.stpatssns.ie"
+  },
+  {
+    "roll": "16333Q",
+    "name": "St . Patricks Junior National School",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://stps.ie"
+  },
+  {
+    "roll": "16352U",
+    "name": "St Brigids Boys N S",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.stbrigids.ie"
+  },
+  {
+    "roll": "16353W",
+    "name": "St Brigids Girls N S",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.stbrigidsgirlsschool.com"
+  },
+  {
+    "roll": "16461C",
+    "name": "St. Finian's NS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.stfiniansprimaryschool.ie"
+  },
+  {
+    "roll": "16577V",
+    "name": "St Brigids Convent",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.stbrigid.ie"
+  },
+  {
+    "roll": "16629O",
+    "name": "Kilternan Church Of Ireland NS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.kcoins.ie"
+  },
+  {
+    "roll": "16651H",
+    "name": "St Clares Convent N S",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.stclares.ie"
+  },
+  {
+    "roll": "16659A",
+    "name": "St Columbas Con G & I",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.ionaroadschool.ie/"
+  },
+  {
+    "roll": "16675V",
+    "name": "St Luke's Ns",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://stlukesns.ie/"
+  },
+  {
+    "roll": "16695E",
+    "name": "St Paul's Primary School",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.brunnerprimary.ie/"
+  },
+  {
+    "roll": "16753P",
+    "name": "St Vincent De Pauls Senior School",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.svdpseniormarino.ie/"
+  },
+  {
+    "roll": "16754R",
+    "name": "St Vincents Convent Inf N S",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.stvincentdepauljuniorschool.ie/"
+  },
+  {
+    "roll": "16759E",
+    "name": "S N Mhuire Na Mbrathar",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.scoilmhuire.org"
+  },
+  {
+    "roll": "16786H",
+    "name": "St Brigids Primary School",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.stbrigidsthecoombe.ie"
+  },
+  {
+    "roll": "16792C",
+    "name": "St Brigids Road NS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.stbrigidsgns.ie"
+  },
+  {
+    "roll": "16794G",
+    "name": "St Brigids Church of Ireland NS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.stbrigidstillorgan.com"
+  },
+  {
+    "roll": "16844S",
+    "name": "Scoil N. Breandan / St. Brendan's National School",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.loughshinnyns.ie"
+  },
+  {
+    "roll": "16860Q",
+    "name": "Corpus Christi N S",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.corpuschristi.ie"
+  },
+  {
+    "roll": "16893I",
+    "name": "St Laurences Boys NS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.stlaurencesbns.ie/"
+  },
+  {
+    "roll": "16964F",
+    "name": "Loreto Senior Primary ",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.loretoseniorprimarycrumlin.ie"
+  },
+  {
+    "roll": "16966J",
+    "name": "Scoil Naisiunta Stratford",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.stratfordns.ie"
+  },
+  {
+    "roll": "16970A",
+    "name": "St Molaga's Senior National School",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://stmolaga.scoilnet.ie/"
+  },
+  {
+    "roll": "16972E",
+    "name": "S N Peadar Agus Pol N / SS Peter and Paul N. S.",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://sspeterandpauljns.ie/"
+  },
+  {
+    "roll": "16983J",
+    "name": "S N Naomh Cillin",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.stcilliansns.ie"
+  },
+  {
+    "roll": "16988T",
+    "name": "Christ the King Boys NS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.christthekingbns.ie"
+  },
+  {
+    "roll": "16989V",
+    "name": "Christ the King Senior Girls NS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://christthekingsenior.com"
+  },
+  {
+    "roll": "17055T",
+    "name": "S N  Naomh Mhuire",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.saggartns.ie"
+  },
+  {
+    "roll": "17083B",
+    "name": "Scoil Mhuire Gan Smal ",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://smgs.ie/"
+  },
+  {
+    "roll": "17104G",
+    "name": "St Francis Junior National School",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://stfrancisjs.com"
+  },
+  {
+    "roll": "17110B",
+    "name": "St Laurence O'Tooles Senior Boys NS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.larriers.ie"
+  },
+  {
+    "roll": "17148D",
+    "name": "Belgrove Senior Girls NS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.belgroveseniorgirls.ie/"
+  },
+  {
+    "roll": "17210F",
+    "name": "CLOCHAR LUGHAIDH CAILIN",
+    "roster_status": "historical_predecessor_amalgamated_2023_verified_announcement",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://stlouisschool.net"
+  },
+  {
+    "roll": "17211H",
+    "name": "CLOCHAR LUGHAIDH NAOIDH",
+    "roster_status": "historical_predecessor_amalgamated_2023_verified_announcement",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://stlouis.ie"
+  },
+  {
+    "roll": "17214N",
+    "name": "St Vincent's Primary School Christian Brothers",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.vincentsprimary.com"
+  },
+  {
+    "roll": "17263D",
+    "name": "St Mary's Oldtown NS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.oldtownns.ie/"
+  },
+  {
+    "roll": "17318C",
+    "name": "Holy Child Boys SNS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.holychildbns.ie"
+  },
+  {
+    "roll": "17355I",
+    "name": "Our Lady of Good Counsel GNS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.olgcgns.ie"
+  },
+  {
+    "roll": "17356K",
+    "name": "Our Lady of Good Counsel JNS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://infantschoolmourneroad.ie"
+  },
+  {
+    "roll": "17367P",
+    "name": "Mary Help of Christians GNS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.maryhelpofchristians.ie"
+  },
+  {
+    "roll": "17459U",
+    "name": "Christ the King Junior Girls NS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://christthekingjuniorgirls.scoilnet.ie"
+  },
+  {
+    "roll": "17464N",
+    "name": "St. Finbarrs Boys NS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.stfinbarrsbns.ie"
+  },
+  {
+    "roll": "17465P",
+    "name": "St Catherines's Senior Girls NS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.stcatherinessenior.com"
+  },
+  {
+    "roll": "17466R",
+    "name": "St Catherine's Infants' School",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.stcatherinesinfants.com"
+  },
+  {
+    "roll": "17470I",
+    "name": "St Raphaelas National School",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://straphaelasns.ie/"
+  },
+  {
+    "roll": "17472M",
+    "name": "Scoil Baile Falbach / Hedgestown",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.hedgestownns.com"
+  },
+  {
+    "roll": "17507F",
+    "name": "St. Patricks National School",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.glencullenschool.ie/"
+  },
+  {
+    "roll": "17559B",
+    "name": "S N Mhuire / St. Mary's National School",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.garristownns.ie"
+  },
+  {
+    "roll": "17569E",
+    "name": "St. Oliver Plunkett  National School",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.balrotheryns.com"
+  },
+  {
+    "roll": "17595F",
+    "name": "Kilcoskan National School",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.kilcoskanns.ie/"
+  },
+  {
+    "roll": "17603B",
+    "name": "Scoil Iosagain",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://scoiliosagain.com/"
+  },
+  {
+    "roll": "17683C",
+    "name": "Loreto Junior School ",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.loretojuniorprimarycrumlin.ie/"
+  },
+  {
+    "roll": "17730I",
+    "name": "Greenlanes NS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.greenlanes.ie"
+  },
+  {
+    "roll": "17732M",
+    "name": "Scoil Chiarain CBS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.scoilchiarain.org"
+  },
+  {
+    "roll": "17785K",
+    "name": "St Nicholas of Myra NS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.kinsealyns.ie"
+  },
+  {
+    "roll": "17820J",
+    "name": "Rolestown NS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.rolestownns.ie"
+  },
+  {
+    "roll": "17881G",
+    "name": "Scoil Ui Chonaill",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.oconnellprimary.ie"
+  },
+  {
+    "roll": "17890H",
+    "name": "Hospital School CHI at Temple Street",
+    "roster_status": "official_doe_school_directory_2026_supplement",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://templestreethospitalschool.com/"
+  },
+  {
+    "roll": "17891J",
+    "name": "Scoil Mhuire",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.scoilmhuiremountsackville.ie"
+  },
+  {
+    "roll": "17893N",
+    "name": "Bunscoil Sancta Maria ",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.bunscoilsynge.ie"
+  },
+  {
+    "roll": "17899C",
+    "name": "Scoil Carmel",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.scoilcarmeljns.com"
+  },
+  {
+    "roll": "17912O",
+    "name": "St. John Bosco Senior BNS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.stjohnboscosbs.ie"
+  },
+  {
+    "roll": "17914S",
+    "name": "St Oliver Plunkett",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.stops.ie"
+  },
+  {
+    "roll": "17928G",
+    "name": "St Sylvester's Infant School",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.stsylvestersinfantschool.com"
+  },
+  {
+    "roll": "17936F",
+    "name": "Belgrove Senior Boys NS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.belgroveseniorboys.com/"
+  },
+  {
+    "roll": "17953F",
+    "name": "Edmondstown NS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.edmondstownns.ie"
+  },
+  {
+    "roll": "17954H",
+    "name": "Oatlands Primary school",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.oatlandsprimaryschool.ie/"
+  },
+  {
+    "roll": "17961E",
+    "name": "Lusk Senior NS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://lusksns.ie/"
+  },
+  {
+    "roll": "17970F",
+    "name": "Our Lady of Mercy National School",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.ourladyofmercy.ie"
+  },
+  {
+    "roll": "17971H",
+    "name": "St Michael's Holy Angels Special School",
+    "roster_status": "ncse_2024_dublin_and_2026_27_special_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.stmichaelsholyangels.com"
+  },
+  {
+    "roll": "17976R",
+    "name": "Scoil Assaim BNS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.scoilassaim.com/"
+  },
+  {
+    "roll": "17977T",
+    "name": "Scoil Aine GNS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.scoilaineraheny.ie/"
+  },
+  {
+    "roll": "17978V",
+    "name": "Naiscoil Ide",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.naiscoilide.ie"
+  },
+  {
+    "roll": "17979A",
+    "name": "Mount Anville Primary School",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.mountanvilleprimaryschool.com"
+  },
+  {
+    "roll": "17996A",
+    "name": "Glenasmole National School",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.glenasmolens.com"
+  },
+  {
+    "roll": "18038B",
+    "name": "St Margarets N S",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://stmargaretsns.ie"
+  },
+  {
+    "roll": "18046A",
+    "name": "Scoil Bride Buachaili",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://scoilbhrideb.com/"
+  },
+  {
+    "roll": "18047C",
+    "name": "Scoil Bhride Cailini",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.scoilbhridecailini.ie"
+  },
+  {
+    "roll": "18080A",
+    "name": "Howth National School",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://howthprimaryschool.ie/"
+  },
+  {
+    "roll": "18137D",
+    "name": "S N Naomh Feargal",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.stfergalsbns.ie/"
+  },
+  {
+    "roll": "18170B",
+    "name": "Assumption Senior Girls NS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.assumptionseniorgns.ie"
+  },
+  {
+    "roll": "18173H",
+    "name": "St Martin's NS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://stmartinsbrittas.ie/"
+  },
+  {
+    "roll": "18205R",
+    "name": "Finglas Parochial NS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.finglasparochialns.ie"
+  },
+  {
+    "roll": "18210K",
+    "name": "St Michaels House Special School ",
+    "roster_status": "ncse_2024_dublin_and_2026_27_special_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.smhbaldoyleschool.ie"
+  },
+  {
+    "roll": "18282M",
+    "name": "Sn Paroiste Maitiu Nfa",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.stmatts.ie/"
+  },
+  {
+    "roll": "18317F",
+    "name": "Central Remedial Clinic",
+    "roster_status": "ncse_2024_dublin_and_2026_27_special_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.crcschool.ie/"
+  },
+  {
+    "roll": "18323A",
+    "name": "Scoil Lorcain BNS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.stlorcans.com/"
+  },
+  {
+    "roll": "18324C",
+    "name": "Scoil Bride ",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.stbrigidspalmerstown.com/"
+  },
+  {
+    "roll": "18360G",
+    "name": "Scoil Bhreandain",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.stbrendansprimaryschool.org"
+  },
+  {
+    "roll": "18361I",
+    "name": "S N Caitriona C",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.scoilchaitriona.info"
+  },
+  {
+    "roll": "18362K",
+    "name": "S N Caitriona Naionain",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://scinfantsp.ie/"
+  },
+  {
+    "roll": "18370J",
+    "name": "Enable Ireland Sandymount School",
+    "roster_status": "ncse_2024_dublin_and_2026_27_special_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.sandymountschool.ie/"
+  },
+  {
+    "roll": "18386B",
+    "name": "Marist National School",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://maristprimaryschool.ie/"
+  },
+  {
+    "roll": "18411U",
+    "name": "St Marys School",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://stmarystallaght.ie/"
+  },
+  {
+    "roll": "18412W",
+    "name": "St. Patrick's Girls NS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.scoilphadraiccailini.com"
+  },
+  {
+    "roll": "18417J",
+    "name": "St Joseph's PS for Children with Visual Impairment",
+    "roster_status": "ncse_2024_dublin_and_2026_27_special_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://stjosephsprimaryvi.ie"
+  },
+  {
+    "roll": "18451J",
+    "name": "Scoil Lorcain",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.scoillorcain.ie/"
+  },
+  {
+    "roll": "18477E",
+    "name": "Francis St. CBS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.francisstcbs.ie"
+  },
+  {
+    "roll": "18499O",
+    "name": "St Augustines Special School",
+    "roster_status": "ncse_2024_dublin_and_2026_27_special_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.saintaugustines.ie"
+  },
+  {
+    "roll": "18569J",
+    "name": "St Declans Special Sch",
+    "roster_status": "ncse_2024_dublin_and_2026_27_special_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://stdeclans.ie"
+  },
+  {
+    "roll": "18585H",
+    "name": "Mary Queen of Angels  BNS 1",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.maryqueenofangels1.ie/"
+  },
+  {
+    "roll": "18602E",
+    "name": "Scoil Mhuire",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://smclon.com"
+  },
+  {
+    "roll": "18623M",
+    "name": "Castleknock NS ",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://castleknocknationalschool.ie"
+  },
+  {
+    "roll": "18632N",
+    "name": "St. John Bosco Junior Boys NS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.stjohnboscojbs.com/"
+  },
+  {
+    "roll": "18642Q",
+    "name": "St Johns NS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.stjohnsclondalkin.ie/"
+  },
+  {
+    "roll": "18646B",
+    "name": "Springdale N S",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.springdale.ie"
+  },
+  {
+    "roll": "18647D",
+    "name": "Scoil San Treasa",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://sstreasa.ie"
+  },
+  {
+    "roll": "18655C",
+    "name": "St. Joseph's Boys' School",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.stjosephsbns.ie"
+  },
+  {
+    "roll": "18671A",
+    "name": "St Michaels Hse Spec Sc",
+    "roster_status": "ncse_2024_dublin_and_2026_27_special_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.stmichaelsgrosvenor.ie"
+  },
+  {
+    "roll": "18682F",
+    "name": "St Canice's B N S",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://stcanices.com/"
+  },
+  {
+    "roll": "18683H",
+    "name": "St Canices G N S",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.stcanicesgns.ie"
+  },
+  {
+    "roll": "18726W",
+    "name": "St Josephs CBS National School",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.stjosephsps.ie"
+  },
+  {
+    "roll": "18763F",
+    "name": "St Michaels House Special School Ballymun Road",
+    "roster_status": "ncse_2024_dublin_and_2026_27_special_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.smhballymunschool.ie"
+  },
+  {
+    "roll": "18778S",
+    "name": "S N Naomh Mochta",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://stmochtas.ie/"
+  },
+  {
+    "roll": "18788V",
+    "name": "Solas Hospital School",
+    "roster_status": "official_doe_school_directory_2026_supplement",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.olhs.ie"
+  },
+  {
+    "roll": "18806U",
+    "name": "Our Lady of the Wayside NS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.ourladyofthewaysidens.ie/"
+  },
+  {
+    "roll": "18815V",
+    "name": "Our Lady of Lourdes School (National Rehabilitation Hospital)",
+    "roster_status": "official_doe_school_directory_2026_supplement",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.nrh.ie/"
+  },
+  {
+    "roll": "18817C",
+    "name": "S N Brighde",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.scoilbhride1917.ie"
+  },
+  {
+    "roll": "18843D",
+    "name": "Mary Queen of Angel's BNS  2",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.maryqueenofangels2.ie"
+  },
+  {
+    "roll": "18863J",
+    "name": "Benincasa Special School",
+    "roster_status": "ncse_2024_dublin_and_2026_27_special_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://benincasa.ie"
+  },
+  {
+    "roll": "18886V",
+    "name": "Kill O' The Grange N S",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.kogrange.com/"
+  },
+  {
+    "roll": "18904U",
+    "name": "St Peters Special Sch",
+    "roster_status": "ncse_2024_dublin_and_2026_27_special_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://stpeterssch.ie"
+  },
+  {
+    "roll": "18910P",
+    "name": "Our Lady of Victories BNS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.olvboys.com"
+  },
+  {
+    "roll": "18911R",
+    "name": "Our Lady of Victories GNS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.olvgns.ie"
+  },
+  {
+    "roll": "18968A",
+    "name": "St Malachys B N S",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.stmalachysbns.ie"
+  },
+  {
+    "roll": "18969C",
+    "name": "St Eithnes Senior G N S",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://steithnes.com/"
+  },
+  {
+    "roll": "18976W",
+    "name": "S N Cholmille B / St. Colmcille's Boys' N.S.",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.colmcilles.net"
+  },
+  {
+    "roll": "18977B",
+    "name": "S N Cholmcille C / St. Colmcille's Girls' N. S.",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.colmcillesgns.com"
+  },
+  {
+    "roll": "19001G",
+    "name": "Ballyboughal NS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.ballyboughalns.ie"
+  },
+  {
+    "roll": "19006Q",
+    "name": "Belgrove Junior Boys NS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.belgrovejbs.ie"
+  },
+  {
+    "roll": "19007S",
+    "name": "Belgrove Junior Girls NS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://belgrove.ie"
+  },
+  {
+    "roll": "19015R",
+    "name": "St Josephs G N S",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.stjosephsfinglas.net"
+  },
+  {
+    "roll": "19032R",
+    "name": "Stewarts Special School",
+    "roster_status": "ncse_2024_dublin_and_2026_27_special_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://stewartsschool.ie/"
+  },
+  {
+    "roll": "19037E",
+    "name": "St Monicas N S",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.scoilmonica.com/"
+  },
+  {
+    "roll": "19039I",
+    "name": "St Vincent's Special School",
+    "roster_status": "ncse_2024_dublin_and_2026_27_special_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://stvincentsspecialschool.ie"
+  },
+  {
+    "roll": "19066L",
+    "name": "Loreto Primary School",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.loretopsdalkey.ie"
+  },
+  {
+    "roll": "19114T",
+    "name": "Scoil Naomh Padraig",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://snp.ie/"
+  },
+  {
+    "roll": "19151C",
+    "name": "St John Of God Sp Sch",
+    "roster_status": "ncse_2024_dublin_and_2026_27_special_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.stjohnofgodschool.com"
+  },
+  {
+    "roll": "19177U",
+    "name": "St Pius X N S Boys",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://piusxbns.ie/"
+  },
+  {
+    "roll": "19178W",
+    "name": "St Pius X GNS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.piusxgns.ie"
+  },
+  {
+    "roll": "19197D",
+    "name": "St Kevins B N S",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://stkevinsbns.scoilnet.ie/"
+  },
+  {
+    "roll": "19207D",
+    "name": "The Adelaide and Meath Hospital School",
+    "roster_status": "official_doe_school_directory_2026_supplement",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://theadelaideamh.com/"
+  },
+  {
+    "roll": "19208F",
+    "name": "Holy Spirit B N S",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.holyspiritbns.com"
+  },
+  {
+    "roll": "19209H",
+    "name": "Holy Spirit GNS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.holyspiritgns.ie"
+  },
+  {
+    "roll": "19220S",
+    "name": "Scoil  Ide",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.scoilideclondalkin.com"
+  },
+  {
+    "roll": "19221U",
+    "name": "Scoil Naomh Aine",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.scoilaine.ie/"
+  },
+  {
+    "roll": "19242F",
+    "name": "Our Lady Of Victories Infant N S",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.olvinfants.com/"
+  },
+  {
+    "roll": "19258U",
+    "name": "St Patrick's BNS ",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://hollyparkbns.ie/"
+  },
+  {
+    "roll": "19259W",
+    "name": "St Patrick's GNS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.hollyparkgns.ie/"
+  },
+  {
+    "roll": "19297H",
+    "name": "Scoil Fhursa BNS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.scoilfhursa.ie"
+  },
+  {
+    "roll": "19298J",
+    "name": "Scoil  Ide GNS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.scoilidegns.ie"
+  },
+  {
+    "roll": "19302U",
+    "name": "Virgin Mary BNS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.virginmarybns.ie/"
+  },
+  {
+    "roll": "19303W",
+    "name": "Virgin Mary Girls NS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.virginmarygns.ie/"
+  },
+  {
+    "roll": "19308J",
+    "name": "St Brigids Boys N S",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.stbrigidsnskillester.ie/"
+  },
+  {
+    "roll": "19309L",
+    "name": "Scoil Neasain",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.scoilneasain.ie"
+  },
+  {
+    "roll": "19314E",
+    "name": "Our Lady's BNS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.olbns.com/"
+  },
+  {
+    "roll": "19316I",
+    "name": "St Pauls Hospital Special School",
+    "roster_status": "ncse_2024_dublin_and_2026_27_special_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://stpaulsspecialschool.ie"
+  },
+  {
+    "roll": "19319O",
+    "name": "St Olaf's N S",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://stolafs.ie"
+  },
+  {
+    "roll": "19320W",
+    "name": "Our Lady Of Good Counsel Boy's N S",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.olgc.ie"
+  },
+  {
+    "roll": "19321B",
+    "name": "Our Lady of Good Counsel G N S",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.johnstowngns.com"
+  },
+  {
+    "roll": "19325J",
+    "name": "St Ciarans Spec Sch",
+    "roster_status": "ncse_2024_dublin_and_2026_27_special_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.scoilchiarain.ie/"
+  },
+  {
+    "roll": "19335M",
+    "name": "Guardian Angels P S",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.guardianangels.ie"
+  },
+  {
+    "roll": "19355S",
+    "name": "Ballyowen Meadows Special School",
+    "roster_status": "ncse_2024_dublin_and_2026_27_special_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.bmss.ie"
+  },
+  {
+    "roll": "19361N",
+    "name": "An Taonad Reamhscoile",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://rutlandstreetproject.ie/"
+  },
+  {
+    "roll": "19373U",
+    "name": "St Michaels House Special School Raheny",
+    "roster_status": "ncse_2024_dublin_and_2026_27_special_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.smhraheny.net/"
+  },
+  {
+    "roll": "19374W",
+    "name": "Our Lady's Grove Primary School",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.ourladysgrove.ie"
+  },
+  {
+    "roll": "19382V",
+    "name": "Scoil Eoin/ Colaiste Eoin Special School",
+    "roster_status": "ncse_2024_dublin_and_2026_27_special_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.scoileoin.ie"
+  },
+  {
+    "roll": "19390U",
+    "name": "St Mark's Senior NS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.saintmarks.ie"
+  },
+  {
+    "roll": "19393D",
+    "name": "Bayside Junior NS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.baysidejunior.ie"
+  },
+  {
+    "roll": "19395H",
+    "name": "Scoil Mobhi",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://scoilmobhi.ie/"
+  },
+  {
+    "roll": "19396J",
+    "name": "Our Lady's GNS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.ourladysgns.ie/"
+  },
+  {
+    "roll": "19400U",
+    "name": "Glenageary Killiney N S",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.gkns.ie"
+  },
+  {
+    "roll": "19406J",
+    "name": "Holy Trinity SNS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.holytrinitysns.ie/"
+  },
+  {
+    "roll": "19409P",
+    "name": "Casa Caterina  Special school",
+    "roster_status": "ncse_2024_dublin_and_2026_27_special_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.casacaterinaschool.ie"
+  },
+  {
+    "roll": "19430G",
+    "name": "Scoil An Tseachtar Laoch",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://scoilantseachtarlaoch.ie/"
+  },
+  {
+    "roll": "19431I",
+    "name": "St Josephs Junior NS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.stjosephsjuniorschool.com"
+  },
+  {
+    "roll": "19435Q",
+    "name": "St Francis Xavier Junior NS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.sfxjunior.com"
+  },
+  {
+    "roll": "19437U",
+    "name": "Scoil Naithi",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.scoilnaithi.com"
+  },
+  {
+    "roll": "19438W",
+    "name": "Scoil Cholmcille SNS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.scoilcholmcille.com"
+  },
+  {
+    "roll": "19446V",
+    "name": "St. Mary's BNS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.marysbns.ie"
+  },
+  {
+    "roll": "19454U",
+    "name": "Our Lady Immaculate JNS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.ourladyimmaculatejns.ie"
+  },
+  {
+    "roll": "19456B",
+    "name": "St Cronan's Junior National School",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.stcronansjns.ie"
+  },
+  {
+    "roll": "19462T",
+    "name": "Naomh Maolruain Junior School",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.scoilmaelruainjunior.org"
+  },
+  {
+    "roll": "19463V",
+    "name": "Naomh Maolruain Senior",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.scoilmaelruainsenior.ie"
+  },
+  {
+    "roll": "19465C",
+    "name": "St Kevins Boys",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.stkevinskilnamanagh.ie/"
+  },
+  {
+    "roll": "19466E",
+    "name": "St Kevin's Girls School",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://stkevinsgns.com"
+  },
+  {
+    "roll": "19470S",
+    "name": "St Francis Xavier Senior N S",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://sfxsenior.com/"
+  },
+  {
+    "roll": "19471U",
+    "name": "St Pauls Junior National School",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.stpaulsjns.ie/"
+  },
+  {
+    "roll": "19472W",
+    "name": "St Marks Junior N S",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.stmarksjs.ie"
+  },
+  {
+    "roll": "19473B",
+    "name": "Scoil Bhride JNS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://scoilbhridedonaghmede.ie/"
+  },
+  {
+    "roll": "19474D",
+    "name": "Scoil Cholmcille Naofa",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.stcolmcillesjns.ie"
+  },
+  {
+    "roll": "19480V",
+    "name": "St Patricks Cathedral Choir Sch",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://stpatrickscathedralchoirschool.eschools.co.uk/web"
+  },
+  {
+    "roll": "19489Q",
+    "name": "St Finian's NS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://saintfinians.ie/"
+  },
+  {
+    "roll": "19490B",
+    "name": "Scoil Mhuire",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://scoilmhuireballyboden.weebly.com/"
+  },
+  {
+    "roll": "19494J",
+    "name": "Bishop Galvin NS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://bishopgalvin.ie"
+  },
+  {
+    "roll": "19496N",
+    "name": "St Fiachra's Junior NS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.stfiachrasjns.com"
+  },
+  {
+    "roll": "19497P",
+    "name": "Scoil Mhuire",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.primaryschoolshankill.ie"
+  },
+  {
+    "roll": "19499T",
+    "name": "St Oliver Plunkett Special School",
+    "roster_status": "ncse_2024_dublin_and_2026_27_special_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://stoliverplunkett.ie/"
+  },
+  {
+    "roll": "19500B",
+    "name": "Phoenix Park Special School",
+    "roster_status": "ncse_2024_dublin_and_2026_27_special_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.phoenixparkschool.ie"
+  },
+  {
+    "roll": "19502F",
+    "name": "Scoil Aonghusa JNS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.scoilaonghusajnr.com/"
+  },
+  {
+    "roll": "19503H",
+    "name": "Scoil Chronain",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.scoilchronain.ie"
+  },
+  {
+    "roll": "19505L",
+    "name": "Scoil Oilibheir",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.gaelscoiloilibheir.ie"
+  },
+  {
+    "roll": "19509T",
+    "name": "Scoil Nano Nagle",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://nanonaglejuniorschool.com/"
+  },
+  {
+    "roll": "19510E",
+    "name": "Talbot Senior Ns",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://talbotsns.com/"
+  },
+  {
+    "roll": "19515O",
+    "name": "Sn Naomh Treasa / St. Teresa's National School",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.stteresasps.org"
+  },
+  {
+    "roll": "19520H",
+    "name": "St Josephs Special Sch",
+    "roster_status": "ncse_2024_dublin_and_2026_27_special_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://sjss.ie"
+  },
+  {
+    "roll": "19524P",
+    "name": "Our Lady Immaculate Senior N S",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.olidarndale.scoilnet.ie/blog"
+  },
+  {
+    "roll": "19533Q",
+    "name": "Bayside Senior NS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.baysidesns.ie"
+  },
+  {
+    "roll": "19535U",
+    "name": "St Cronan's Senior National School",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.stcronanssns.ie"
+  },
+  {
+    "roll": "19537B",
+    "name": "St. Attracta's JNS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.stattractasjns.ie"
+  },
+  {
+    "roll": "19538D",
+    "name": "St Kevins Junior N S",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.stkevinsjns.ie/"
+  },
+  {
+    "roll": "19541P",
+    "name": "Scoil Solas Chriost",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.solaschriost.ie"
+  },
+  {
+    "roll": "19542R",
+    "name": "St Thomas NS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.stthomasjns.com"
+  },
+  {
+    "roll": "19543T",
+    "name": "Sacred Heart SNS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.sacredheartsns.net/web/"
+  },
+  {
+    "roll": "19545A",
+    "name": "St Patrick's JNS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.stpatricksjns.ie/"
+  },
+  {
+    "roll": "19546C",
+    "name": "St Oliver Plunkett N S",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.ollies11.ie"
+  },
+  {
+    "roll": "19549I",
+    "name": "St Fintans NS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.stfintansns.ie"
+  },
+  {
+    "roll": "19556F",
+    "name": "St Killians N.S",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.stkiliansjns.ie/"
+  },
+  {
+    "roll": "19565G",
+    "name": "Scoil Treasa SNS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.scoiltreasa.ie/"
+  },
+  {
+    "roll": "19566I",
+    "name": "Our Lady Queen Of Apostles",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.clonburrisns.ie"
+  },
+  {
+    "roll": "19569O",
+    "name": "St. Peter Apostle Junior N S",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.stpeterapostlejns.ie/"
+  },
+  {
+    "roll": "19574H",
+    "name": "Divine Word  NS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.divinewordns.ie"
+  },
+  {
+    "roll": "19575J",
+    "name": "St Marys Junior N S",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.stmarysjunior.ie"
+  },
+  {
+    "roll": "19576L",
+    "name": "Scoil Aonghusa SNS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.scoilaonghusasnr.ie/"
+  },
+  {
+    "roll": "19577N",
+    "name": "Scoil Íosa",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.scoiliosa.ie"
+  },
+  {
+    "roll": "19578P",
+    "name": "St Helens Junior N S",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.sthelensjunior.com/"
+  },
+  {
+    "roll": "19582G",
+    "name": "Tallaght CNS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://tallaghtcns.ie/"
+  },
+  {
+    "roll": "19583I",
+    "name": "St Josephs Senior N S",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.stjosephssnsballymun.ie/"
+  },
+  {
+    "roll": "19589U",
+    "name": "Gaelscoil Inse Chor",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://gaelscoilinsechor.ie/"
+  },
+  {
+    "roll": "19590F",
+    "name": "Scoil Mochua",
+    "roster_status": "ncse_2024_dublin_and_2026_27_special_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.scoilmochua.org/"
+  },
+  {
+    "roll": "19594N",
+    "name": "Youth Encounter Project",
+    "roster_status": "official_doe_school_directory_2026_supplement",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.stpaulsyep.com/"
+  },
+  {
+    "roll": "19599A",
+    "name": "St Kierans Special School",
+    "roster_status": "official_gis_2026_local_authority_match_county_conflict",
+    "geographic_scope": "outside_strict_county_dublin_extended_authority_only",
+    "website_url": null
+  },
+  {
+    "roll": "19601H",
+    "name": "St Philip The Apostle Junior N S",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.stphilipsjns.ie/"
+  },
+  {
+    "roll": "19605P",
+    "name": "Scoil Nais Mhuire Sois",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.scoilmhuirejunior.ie/"
+  },
+  {
+    "roll": "19611K",
+    "name": "Scoil Cholmcille SNS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.scoilcholmcillesns.ie"
+  },
+  {
+    "roll": "19612M",
+    "name": "Dalkey School Project",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.dspns.ie"
+  },
+  {
+    "roll": "19613O",
+    "name": "Cnoc Mhuire SNS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.cmsenior.com/"
+  },
+  {
+    "roll": "19617W",
+    "name": "St Martin De Porres NS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.smdpns.com"
+  },
+  {
+    "roll": "19618B",
+    "name": "St Pauls Senior National School",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.stpaulsnsayrfield.ie"
+  },
+  {
+    "roll": "19619D",
+    "name": "St Malachys SNS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.stmalachysmns.ie"
+  },
+  {
+    "roll": "19624T",
+    "name": "Scoil Nais Caitriona / St. Catherine's N. S.",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.stcatherinesns.ie"
+  },
+  {
+    "roll": "19625V",
+    "name": "Realt Na Mara National School",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.realtnamara.ie"
+  },
+  {
+    "roll": "19627C",
+    "name": "Pope John Paul II ",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.pjp.ie"
+  },
+  {
+    "roll": "19628E",
+    "name": "St Fiachras Senior N S",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.fiachras.ie/"
+  },
+  {
+    "roll": "19630O",
+    "name": "Linn Dara Schools",
+    "roster_status": "official_doe_school_directory_2026_supplement",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.linndaraschools.ie"
+  },
+  {
+    "roll": "19636D",
+    "name": "St Patricks Senior School",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.stpatrickscorduff.ie/"
+  },
+  {
+    "roll": "19641T",
+    "name": "Scoil Cholmcille JNS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.colmcillejunior.com"
+  },
+  {
+    "roll": "19642V",
+    "name": "St Peter Apostle Senior NS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.stpeterapostlesns.ie"
+  },
+  {
+    "roll": "19643A",
+    "name": "St Philips  Senior N S",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://stphilips.ie/"
+  },
+  {
+    "roll": "19644C",
+    "name": "St Ciarans N S",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.stciarans.com"
+  },
+  {
+    "roll": "19646G",
+    "name": "Scoil Santain",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.scoilsantain.com"
+  },
+  {
+    "roll": "19647I",
+    "name": "St Marys Sen N S",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.stmarysrowlagh.ie/"
+  },
+  {
+    "roll": "19652B",
+    "name": "Sacred Heart JNS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.sacredheartjns.ie/"
+  },
+  {
+    "roll": "19658N",
+    "name": "Bishop Shanahan NS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.bishopshanahan.ie/"
+  },
+  {
+    "roll": "19660A",
+    "name": "Rush National School",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://rushnationalschool.ie"
+  },
+  {
+    "roll": "19661C",
+    "name": "St Gabriel's National School D10",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://stgabrielsprimary.ie"
+  },
+  {
+    "roll": "19662E",
+    "name": "St Michael's National School",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://stmichaelsns.blogspot.com"
+  },
+  {
+    "roll": "19663G",
+    "name": "St Raphael's National School",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.straphaels.ie"
+  },
+  {
+    "roll": "19668Q",
+    "name": "St Francis Senior N S",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.stfrancissns.ie"
+  },
+  {
+    "roll": "19669S",
+    "name": "Our Lady Of Good Counsel BNS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.olgcbnsdrimnagh.com"
+  },
+  {
+    "roll": "19676P",
+    "name": "Scoil Aine Naofa",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://scoilaine.com"
+  },
+  {
+    "roll": "19693P",
+    "name": "Mary Queen Of Ireland National  School",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.maryqueenofireland.com"
+  },
+  {
+    "roll": "19694R",
+    "name": "Scoil Mhuire Sin (Senior)",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.scoilmhuiresenior.ie"
+  },
+  {
+    "roll": "19702N",
+    "name": "St Thomas Junior N S",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.stthomasjns.ie"
+  },
+  {
+    "roll": "19705T",
+    "name": "Catherine Mc Auley NS",
+    "roster_status": "ncse_2024_dublin_and_2026_27_special_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.catherinemcauleyns.ie"
+  },
+  {
+    "roll": "19707A",
+    "name": "St Ronans N S",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.stronans.ie"
+  },
+  {
+    "roll": "19716B",
+    "name": "St. Attracta's SNS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://sasns.ie/"
+  },
+  {
+    "roll": "19721R",
+    "name": "Holy Family Junior National School",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.holyfamilyjns.ie"
+  },
+  {
+    "roll": "19723V",
+    "name": "Queen Of Angels Primary Sch",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.qoa.ie"
+  },
+  {
+    "roll": "19727G",
+    "name": "St Marys Central N S",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.saintmarys.ie"
+  },
+  {
+    "roll": "19742C",
+    "name": "St Colmcille Senior N S",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.stcolmcilles.org"
+  },
+  {
+    "roll": "19743E",
+    "name": "St Bernadettes Junior N S",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://stbernadettesjns.com/"
+  },
+  {
+    "roll": "19755L",
+    "name": "Sacred Heart N S",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://sacredhearthuntstown.weebly.com"
+  },
+  {
+    "roll": "19757P",
+    "name": "St. Michael's House Special National School",
+    "roster_status": "ncse_2024_dublin_and_2026_27_special_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.smhskerries.ie/"
+  },
+  {
+    "roll": "19762I",
+    "name": "St Helens Senior N S",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.helens.ie/"
+  },
+  {
+    "roll": "19764M",
+    "name": "Our Lady Of Wayside N S",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://olwie.wordpress.com"
+  },
+  {
+    "roll": "19765O",
+    "name": "St Thomas Senior N S",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.stthomas.ie"
+  },
+  {
+    "roll": "19769W",
+    "name": "Scoil Thomais",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.scoilthomais.ie"
+  },
+  {
+    "roll": "19774P",
+    "name": "St Josephs Mxd N S",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.stjosephscoed.ie"
+  },
+  {
+    "roll": "19775R",
+    "name": "Cnoc Mhuire JNS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.knockmorejns.ie"
+  },
+  {
+    "roll": "19777V",
+    "name": "Gaelscoil Mide",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.gaelscoilmide.com/"
+  },
+  {
+    "roll": "19782O",
+    "name": "St Brigids N S",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.stbrigidsbrookfield.ie"
+  },
+  {
+    "roll": "19785U",
+    "name": "St Bernadettes Senior N S",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://bernadettes.ie"
+  },
+  {
+    "roll": "19799I",
+    "name": "Sacred Heart N S",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.sruleenns.com"
+  },
+  {
+    "roll": "19817H",
+    "name": "St Marys N S",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.scoilmhuire.ie"
+  },
+  {
+    "roll": "19819L",
+    "name": "St L O Tooles 2 Spec",
+    "roster_status": "official_doe_school_directory_2026_supplement",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.stlaurenceotooless.ie/"
+  },
+  {
+    "roll": "19831B",
+    "name": "Scoil Chaoimhin",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://scoilchaoimhin.ie"
+  },
+  {
+    "roll": "19834H",
+    "name": "St. Aidans NS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://staidanssns.ie/"
+  },
+  {
+    "roll": "19837N",
+    "name": "Drimnagh Castle CBS  ",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://drimnaghcastleprimary.ie/"
+  },
+  {
+    "roll": "19840C",
+    "name": "Holy Family School",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.holyfamilyschool.ie"
+  },
+  {
+    "roll": "19845M",
+    "name": "North Dublin Project",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://ndnsp.ie/"
+  },
+  {
+    "roll": "19850F",
+    "name": "Ladyswell N S",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.ladyswellns.ie/"
+  },
+  {
+    "roll": "19855P",
+    "name": "Gaelscoil Chluain Dolcain",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.gscd.ie/"
+  },
+  {
+    "roll": "19865S",
+    "name": "Divine Mercy JN S",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://divinemercyjns.weebly.com/"
+  },
+  {
+    "roll": "19872P",
+    "name": "Scoil Chaitlin Maude",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.scoilcm.ie"
+  },
+  {
+    "roll": "19877C",
+    "name": "Holy Family Senior National  School",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://holyfamilysns.ie"
+  },
+  {
+    "roll": "19878E",
+    "name": "Holy Rosary Primary School",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://holyrosaryps.ie"
+  },
+  {
+    "roll": "19888H",
+    "name": "St Annes Mxd N S",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://stannesshankill.com/"
+  },
+  {
+    "roll": "19893A",
+    "name": "St Kilians Senior N S",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.st-kilians.com"
+  },
+  {
+    "roll": "19896G",
+    "name": "Scoil Chaitriona Baggot Street",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.scoilchaitrionabaggotstreet.ie"
+  },
+  {
+    "roll": "19898K",
+    "name": "Gaelscoil An Duinninigh",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.scoiland.ie"
+  },
+  {
+    "roll": "19901T",
+    "name": "Booterstown N S",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.booterstownnationalschool.ie"
+  },
+  {
+    "roll": "19904C",
+    "name": "Holy Cross School",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.holycrossschool.ie/"
+  },
+  {
+    "roll": "19907I",
+    "name": "Gaelscoil Mologa",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://scoilmologa.com/"
+  },
+  {
+    "roll": "19913D",
+    "name": "St Josephs NS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.stjosephscoolock.scoilnet.ie"
+  },
+  {
+    "roll": "19919P",
+    "name": "St Davids  Boys NS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://stdavidsbns.ie/"
+  },
+  {
+    "roll": "19920A",
+    "name": "St John Of God N S",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.stjohnofgodartane.com/"
+  },
+  {
+    "roll": "19922E",
+    "name": "Our Lady's N S",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.ourladysclonskeagh.ie"
+  },
+  {
+    "roll": "19924I",
+    "name": "Harolds Cross N S",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.haroldscrossns.ie/"
+  },
+  {
+    "roll": "19926M",
+    "name": "Gaelscoil Cholaiste Mhuire",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.gaelscoilcm.ie"
+  },
+  {
+    "roll": "19928Q",
+    "name": "Ranelagh Multi Denom Ns",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://rmds.ie/"
+  },
+  {
+    "roll": "19929S",
+    "name": "St Brigids Senior Girls",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://stbrigidsschool.com"
+  },
+  {
+    "roll": "19933J",
+    "name": "Scoil Treasa Naofa",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.scoiltreasanaofa.ie"
+  },
+  {
+    "roll": "19935N",
+    "name": "Scoil Eoin",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.scoileoinns.com"
+  },
+  {
+    "roll": "19938T",
+    "name": "St Joseph's National School",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.dunlaoghairens.ie"
+  },
+  {
+    "roll": "19939V",
+    "name": "Good Shepherd NS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.goodshepherd.ie/web/"
+  },
+  {
+    "roll": "19940G",
+    "name": "Gaelscoil Naomh Padraig",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.gsnp.ie"
+  },
+  {
+    "roll": "19943M",
+    "name": "St Damiens Ns",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.scoildamian.scoilnet.ie"
+  },
+  {
+    "roll": "19945Q",
+    "name": "Rathfarnham Educate Together",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://retns.ie/"
+  },
+  {
+    "roll": "19946S",
+    "name": "Rutland National  School",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.rutlandns.ie"
+  },
+  {
+    "roll": "19949B",
+    "name": "Muslim National School",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.muslimns.ie"
+  },
+  {
+    "roll": "19954R",
+    "name": "North Bay Educate Together N.S.",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.northbayetns.com"
+  },
+  {
+    "roll": "19960M",
+    "name": "St Johns N S",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.stjohnsns.ie"
+  },
+  {
+    "roll": "19979K",
+    "name": "St Kevins N S",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.stkevinsns.net"
+  },
+  {
+    "roll": "19981U",
+    "name": "St Marys N S",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.stmarysfairview.ie/"
+  },
+  {
+    "roll": "19991A",
+    "name": "Gaelscoil Na Camoige",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.gaelscoilnacamoige.ie"
+  },
+  {
+    "roll": "20010O",
+    "name": "St Roses Special School",
+    "roster_status": "ncse_2024_dublin_and_2026_27_special_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.stroses.ie"
+  },
+  {
+    "roll": "20012S",
+    "name": "Griffith Barracks N S",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.griffithbarracks.ie"
+  },
+  {
+    "roll": "20015B",
+    "name": "Gaelscoil Bhaile Munna",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.gaelscoilbhailemunna.ie"
+  },
+  {
+    "roll": "20020R",
+    "name": "Gaelscoil Thaobh Na Coille",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.taobhnacoille.ie"
+  },
+  {
+    "roll": "20021T",
+    "name": "Henrietta Street School",
+    "roster_status": "official_doe_school_directory_2026_supplement",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.henriettass.com/"
+  },
+  {
+    "roll": "20028K",
+    "name": "Setanta Special School",
+    "roster_status": "ncse_2024_dublin_and_2026_27_special_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.setantaschool.ie/"
+  },
+  {
+    "roll": "20029M",
+    "name": "St Brigids Infant N S",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://stbrigidsinfantschool.ie/"
+  },
+  {
+    "roll": "20035H",
+    "name": "St Gabriel's NS   D7",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://stgabrielsns.ie"
+  },
+  {
+    "roll": "20043G",
+    "name": "Gaelscoil Chnoc Liamhna",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://gaelscoilchnocliamhna.ie/ga/baile/"
+  },
+  {
+    "roll": "20047O",
+    "name": "Gaelscoil Bharra",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.gaelscoilbharra.net"
+  },
+  {
+    "roll": "20048Q",
+    "name": "Gaelscoil Lios Na Nog",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.liosnanog.com"
+  },
+  {
+    "roll": "20052H",
+    "name": "Gaelscoil Cholmcille",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://gaelscoilcholmcille.ie"
+  },
+  {
+    "roll": "20053J",
+    "name": "Cheeverstown Sp Sch",
+    "roster_status": "ncse_2024_dublin_and_2026_27_special_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.cheeverstownschool.ie/"
+  },
+  {
+    "roll": "20056P",
+    "name": "Gaelscoil Phadraig",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://gaelscoilphadraig.ie/"
+  },
+  {
+    "roll": "20059V",
+    "name": "Mother Of Divine Grace",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.mdgballygall.com"
+  },
+  {
+    "roll": "20060G",
+    "name": "Monkstown Educate Together N S",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://metns.ie"
+  },
+  {
+    "roll": "20064O",
+    "name": "Our Lady Of Consolation NS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.olocschool.ie"
+  },
+  {
+    "roll": "20066S",
+    "name": "Lucan Educate Together NS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.letns.org/"
+  },
+  {
+    "roll": "20091R",
+    "name": "St Peter's National School",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.stpetersns.net/"
+  },
+  {
+    "roll": "20092T",
+    "name": "St Ultan's Primary School",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://stultans.ie"
+  },
+  {
+    "roll": "20095C",
+    "name": "Gaelscoil Bhrian Boroimhe",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.gsbb.ie"
+  },
+  {
+    "roll": "20098I",
+    "name": "Castleknock Educate Together NS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.cetns.ie/"
+  },
+  {
+    "roll": "20103V",
+    "name": "John Scottus Ns",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://johnscottusns.ie/"
+  },
+  {
+    "roll": "20104A",
+    "name": "St Audoens Ns",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://staudoens.ie/"
+  },
+  {
+    "roll": "20121A",
+    "name": "Carmona School (St John Of God Sp School) ",
+    "roster_status": "ncse_2024_dublin_and_2026_27_special_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.carmonaschool.ie"
+  },
+  {
+    "roll": "20130B",
+    "name": "St Patricks NS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://stpatricksns.ie"
+  },
+  {
+    "roll": "20131D",
+    "name": "Dublin 7 Educate Together NS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://d7educatetogether.com"
+  },
+  {
+    "roll": "20136N",
+    "name": "Crannog Nua Special School",
+    "roster_status": "official_doe_school_directory_2026_supplement",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": null
+  },
+  {
+    "roll": "20137P",
+    "name": "Mary  Mother Of Hope Snr Ns",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.hopens.ie"
+  },
+  {
+    "roll": "20139T",
+    "name": "Inchicore Ns",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.inchicorens.ie"
+  },
+  {
+    "roll": "20141G",
+    "name": "The Harold School",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.theharoldschool.ie"
+  },
+  {
+    "roll": "20145O",
+    "name": "Swords Educate Together NS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.swordseducatetogether.ie"
+  },
+  {
+    "roll": "20152L",
+    "name": "North Dublin Muslim NS ",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.ndmns.com"
+  },
+  {
+    "roll": "20153N",
+    "name": "St Joseph's Adolescent School",
+    "roster_status": "official_doe_school_directory_2026_supplement",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.stjosephsadolescentschool.ie/"
+  },
+  {
+    "roll": "20154P",
+    "name": "Beaumont Hospital Special School",
+    "roster_status": "official_doe_school_directory_2026_supplement",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://beaumonthospitalschool.ie"
+  },
+  {
+    "roll": "20161M",
+    "name": "Donabate Portrane Educate Together National School",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.dpetns.ie/"
+  },
+  {
+    "roll": "20166W",
+    "name": "Griffeen Valley ETNS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.gvet.ie"
+  },
+  {
+    "roll": "20168D",
+    "name": "Glasnevin Educate together",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.get.ie"
+  },
+  {
+    "roll": "20173T",
+    "name": "St Annes Primary School",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.stannesprimaryschool.ie/"
+  },
+  {
+    "roll": "20176C",
+    "name": "Rush Lusk Educate Together National School",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.ralet.ie"
+  },
+  {
+    "roll": "20186F",
+    "name": "Castaheany Educate Together NS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.castaheanyetns.ie"
+  },
+  {
+    "roll": "20187H",
+    "name": "Divine Mercy  Senior N S",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.dmbalgaddysns.ie"
+  },
+  {
+    "roll": "20190T",
+    "name": "Holy Trinity N S",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.holytrinity.ie"
+  },
+  {
+    "roll": "20194E",
+    "name": "St John the Evangelist National School",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://stjohntheevangelistnationalschool.com/"
+  },
+  {
+    "roll": "20201V",
+    "name": "Tyrrelstown Educate Together",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.tetns.ie"
+  },
+  {
+    "roll": "20202A",
+    "name": "Balbriggan Educate Together National School",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.balbrigganetns.com"
+  },
+  {
+    "roll": "20218P",
+    "name": "St Columbanus NS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://stcolumbanus.ie"
+  },
+  {
+    "roll": "20220C",
+    "name": "Gaelscoil Ui Earcain",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.gsue.ie/"
+  },
+  {
+    "roll": "20223I",
+    "name": "Gaelscoil Esker Riada",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://gser.ie"
+  },
+  {
+    "roll": "20231H",
+    "name": "St Benedict's NS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.stbenedictsongar.ie"
+  },
+  {
+    "roll": "20241K",
+    "name": "Scoil Choilm Community National School",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.scoilchoilmcns.ie"
+  },
+  {
+    "roll": "20247W",
+    "name": "Scoil Ghráinne",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.scoilghrainnecns.ie"
+  },
+  {
+    "roll": "20252P",
+    "name": "Gaelscoil Bhaile BrigIn",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.gsbhailebrigin.ie"
+  },
+  {
+    "roll": "20268H",
+    "name": "Adamstown Castle Educate Together National School",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://acetns.ie/"
+  },
+  {
+    "roll": "20269J",
+    "name": "Scoil Chormaic Community National School",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://scoilchormaiccns.ie/"
+  },
+  {
+    "roll": "20274C",
+    "name": "Esker Educate Together NS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.eskeretns.ie"
+  },
+  {
+    "roll": "20279M",
+    "name": "St Michael's House Special School Foxfield",
+    "roster_status": "ncse_2024_dublin_and_2026_27_special_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.foxfieldsmh.ie"
+  },
+  {
+    "roll": "20281W",
+    "name": "St Benedict's & St Mary's NS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.stbenedictsandstmarys.com/"
+  },
+  {
+    "roll": "20282B",
+    "name": "Bracken Educate Together National School",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://brackenetns.com/"
+  },
+  {
+    "roll": "20302E",
+    "name": "Thornleigh Educate Together NS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.thornleighet.com/"
+  },
+  {
+    "roll": "20303G",
+    "name": "Lucan East ETNS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.lucaneastet.ie"
+  },
+  {
+    "roll": "20304I",
+    "name": "St Francis of Assisi NS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.stfrancispsbelmayne.com"
+  },
+  {
+    "roll": "20307O",
+    "name": "Skerries Educate Together NS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.skerrieseducatetogether.ie"
+  },
+  {
+    "roll": "20308Q",
+    "name": "Belmayne ETNS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.belmayne-etns.ie"
+  },
+  {
+    "roll": "20309S",
+    "name": "Mary Mother of Hope Junior School",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.hopejns.ie"
+  },
+  {
+    "roll": "20334R",
+    "name": "Gaelscoil Ros Eo (Rush)",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.gaelscoilroseo.com"
+  },
+  {
+    "roll": "20338C",
+    "name": "Holy Child NS / GNS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.holychildns.ie"
+  },
+  {
+    "roll": "20348F",
+    "name": "Holywell Educate Together NS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.holywelletns.ie"
+  },
+  {
+    "roll": "20372C",
+    "name": "Saplings Rathfarnham Special School",
+    "roster_status": "ncse_2024_dublin_and_2026_27_special_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://saplingsdublin.ie/"
+  },
+  {
+    "roll": "20375I",
+    "name": "ABACAS Special School ",
+    "roster_status": "ncse_2024_dublin_and_2026_27_special_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.abacaskilbarrack.ie/"
+  },
+  {
+    "roll": "20378O",
+    "name": "St Kevin's Special School",
+    "roster_status": "ncse_2024_dublin_and_2026_27_special_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.abacasspecialschool.ie"
+  },
+  {
+    "roll": "20381D",
+    "name": "The Red Door Special School",
+    "roster_status": "ncse_2024_dublin_and_2026_27_special_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.thereddoorschool.com"
+  },
+  {
+    "roll": "20383H",
+    "name": "Hansfield Educate Together NS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.hansfieldetns.com"
+  },
+  {
+    "roll": "20384J",
+    "name": "Powerstown Educate Together",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.powerstownet.com"
+  },
+  {
+    "roll": "20390E",
+    "name": "Ballydowd High Support Special School",
+    "roster_status": "official_doe_school_directory_2026_supplement",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://ballydowdschool.ie"
+  },
+  {
+    "roll": "20392I",
+    "name": "Pelletstown EducateTogether NS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.pelletstownetns.ie/"
+  },
+  {
+    "roll": "20394M",
+    "name": "Gaelscoil an Chuilinn",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.gsch.ie"
+  },
+  {
+    "roll": "20397S",
+    "name": "St Louise de Marillac Primary School",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://stlouisesprimaryschool.ie/"
+  },
+  {
+    "roll": "20398U",
+    "name": "Citywest & Saggart CNS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://cscns.ie/"
+  },
+  {
+    "roll": "20400E",
+    "name": "Ballinteer Educate Together NS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://ballinteeretns.ie"
+  },
+  {
+    "roll": "20401G",
+    "name": "Stepaside Educate Together NS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.stepasideetns.ie"
+  },
+  {
+    "roll": "20402I",
+    "name": "Citywest Educate Together NS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.citywestetns.ie"
+  },
+  {
+    "roll": "20411J",
+    "name": "Firhouse Educate Together National School",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.firhouseetns.ie"
+  },
+  {
+    "roll": "20412L",
+    "name": "Gaelscoil na Giuise",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.gaelscoilnagiuise.ie"
+  },
+  {
+    "roll": "20422O",
+    "name": "Scoil Aoife  ",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.scoilaoifecns.ie"
+  },
+  {
+    "roll": "20425U",
+    "name": "Gaelscoil Shliabh Rua",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://gaelscoilshliabhrua.ie/"
+  },
+  {
+    "roll": "20426W",
+    "name": "Lucan Community NS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://lucancns.ie"
+  },
+  {
+    "roll": "20429F",
+    "name": "St James's Primary School",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.saintjamessps.com"
+  },
+  {
+    "roll": "20430N",
+    "name": "Canal Way Educate Together",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://canalwayetns.org"
+  },
+  {
+    "roll": "20436C",
+    "name": "Paradise Place  ETNS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.ppetns.ie"
+  },
+  {
+    "roll": "20437E",
+    "name": "St Laurences NS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.stlaurencesbaldoyle.org/"
+  },
+  {
+    "roll": "20441S",
+    "name": "Shellybanks Educate Together NS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.shellybanksetns.ie"
+  },
+  {
+    "roll": "20445D",
+    "name": "Malahide Portmarnock ETNS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.mpetns.ie/"
+  },
+  {
+    "roll": "20450T",
+    "name": "Assumption Junior School",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.assumptionjns.com/"
+  },
+  {
+    "roll": "20453C",
+    "name": "Broombridge ETNS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://broombridgeetns.ie/"
+  },
+  {
+    "roll": "20463F",
+    "name": "Holy Spirit JPS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.holyspiritjps.com"
+  },
+  {
+    "roll": "20464H",
+    "name": "Holy Spirit SPS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.holyspiritsps.ie"
+  },
+  {
+    "roll": "20468P",
+    "name": "St Dominics NS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://stdominicsnationalschool.wordpress.com"
+  },
+  {
+    "roll": "20486R",
+    "name": "Gracepark Educate Together",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.graceparketns.com/"
+  },
+  {
+    "roll": "20487T",
+    "name": "Gaelscoil na Fuinseoige",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.gsnafuinseoige.ie"
+  },
+  {
+    "roll": "20488V",
+    "name": "Scoil Una Naofa",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://scoilunanaofa.com/"
+  },
+  {
+    "roll": "20494Q",
+    "name": "Riverview Educate Together NS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.rvetns.ie/"
+  },
+  {
+    "roll": "20495S",
+    "name": "Holy Family School for the Deaf",
+    "roster_status": "ncse_2024_dublin_and_2026_27_special_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://holyfamilydeafschool.ie/"
+  },
+  {
+    "roll": "20501K",
+    "name": "Harcourt Terrace Educate Together NS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.htetns.ie"
+  },
+  {
+    "roll": "20502M",
+    "name": "Scoil Sinead Pelletstown",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://scoilsineadfinglas.ie"
+  },
+  {
+    "roll": "20503O",
+    "name": "Dun Laoghaire Educate Together NS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://dleducatetogether.ie/"
+  },
+  {
+    "roll": "20507W",
+    "name": "St Laurence O'Toole's Girls NS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.stlaurenceotoolesns.ie"
+  },
+  {
+    "roll": "20509D",
+    "name": "Lusk Junior NS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.luskjns.ie"
+  },
+  {
+    "roll": "20517C",
+    "name": "Gaelscoil Áine",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.gaelscoilaine.com/"
+  },
+  {
+    "roll": "20518E",
+    "name": "Gaelscoil Laighean",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.gaelscoillaighean.com"
+  },
+  {
+    "roll": "20519G",
+    "name": "Stapolin ETNS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.stapolinetns.ie"
+  },
+  {
+    "roll": "20520O",
+    "name": "Harold's Cross Educate Together NS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.haroldscrossetns.com/"
+  },
+  {
+    "roll": "20523U",
+    "name": "Goatstown Stillorgan ETNS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.goatstownstillorganetns.com"
+  },
+  {
+    "roll": "20525B",
+    "name": "Killester Raheny Clontarf ETNS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.educatetogether.ie"
+  },
+  {
+    "roll": "20528H",
+    "name": "Rivervalley Community National School",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://rivervalleycns.ie"
+  },
+  {
+    "roll": "20529J",
+    "name": "Broadmeadows CNS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://broadmeadowcns.ie"
+  },
+  {
+    "roll": "20530R",
+    "name": "Gaelscoil na Mara (Donabate)",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.gaelscoilnamara.ie"
+  },
+  {
+    "roll": "20531T",
+    "name": "Gaelscoil Lír ",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://gslir.ie"
+  },
+  {
+    "roll": "20535E",
+    "name": "Cherrywood ETNS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.cherrywoodetns.ie"
+  },
+  {
+    "roll": "20538K",
+    "name": "GAELSCOIL GHRÁINNE MHAOL ",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.gsgm.ie"
+  },
+  {
+    "roll": "20539M",
+    "name": "Gaelscoil Eoin",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://gaelscoileoin.ie"
+  },
+  {
+    "roll": "20543D",
+    "name": "Sallynoggin Killiney ETNS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://sallynogginkillineyetns.wordpress.com"
+  },
+  {
+    "roll": "20545H",
+    "name": "St. Christopher's Primary ",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.scps.ie"
+  },
+  {
+    "roll": "20548N",
+    "name": "Danu Community Special School",
+    "roster_status": "ncse_2024_dublin_and_2026_27_special_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://danucss.ie"
+  },
+  {
+    "roll": "20549P",
+    "name": "Rathcoole Educate Together NS",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.rathcooleetns.ie/"
+  },
+  {
+    "roll": "20555K",
+    "name": "Our Lady of Hope School",
+    "roster_status": "ncse_2024_dublin_and_2026_27_special_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.ourladyofhope.ie"
+  },
+  {
+    "roll": "20563J",
+    "name": "Libermann Spiritan School",
+    "roster_status": "ncse_2024_dublin_and_2026_27_special_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://libermannschool.ie/wp/"
+  },
+  {
+    "roll": "20571I",
+    "name": "St Louis National School",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://stlouis.ie/"
+  },
+  {
+    "roll": "20572K",
+    "name": "An Cosan Community Special School",
+    "roster_status": "ncse_2024_dublin_and_2026_27_special_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.ancosancss.ie/"
+  },
+  {
+    "roll": "20595W",
+    "name": "Lucan Community Special School",
+    "roster_status": "ncse_2026_27_special_dublin_location_name_requires_verification",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.ddletb.ie/lucan-community-special-school/"
+  },
+  {
+    "roll": "20596B",
+    "name": "Belmayne Community Special School",
+    "roster_status": "ncse_2026_27_special_dublin_location_name_requires_verification",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.ddletb.ie/belmayne-community-special-school/"
+  },
+  {
+    "roll": "20602Q",
+    "name": "St Patricks National School",
+    "roster_status": "in_2026_27_ncse_primary_allocations",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.ringsendns.ie/"
+  },
+  {
+    "roll": "20607D",
+    "name": "City West Community Special School",
+    "roster_status": "ncse_2026_27_special_dublin_location_name_requires_verification",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.ddletb.ie/citywest-community-special-school/"
+  },
+  {
+    "roll": "20608F",
+    "name": "Balbriggan Community Special School",
+    "roster_status": "ncse_2026_27_special_dublin_location_name_requires_verification",
+    "geographic_scope": "strict_county_dublin",
+    "website_url": "https://www.ddletb.ie/balbriggan-community-special-school/"
+  }
+]

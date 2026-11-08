@@ -1,0 +1,121 @@
+{
+  "roll": "20412L",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.gaelscoilnagiuise.ie/foacutegra-bliantuacuteil--annual-admission-notice.html",
+      "final_url": "https://www.gaelscoilnagiuise.ie/foacutegra-bliantuacuteil--annual-admission-notice.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions/policy URL from public sitemap"
+    },
+    {
+      "url": "https://www.gaelscoilnagiuise.ie/sitemap.xml",
+      "final_url": "https://www.gaelscoilnagiuise.ie/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.gaelscoilnagiuise.ie/polasaithe--policies.html",
+      "final_url": "https://www.gaelscoilnagiuise.ie/polasaithe--policies.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Polasaithe / Policies"
+    },
+    {
+      "url": "https://www.gaelscoilnagiuise.ie/uploads/2/5/9/8/25980118/polasaí_iontrála_2025-26_gaelscoil_na_giúise__2_.pdf",
+      "final_url": "https://www.gaelscoilnagiuise.ie/uploads/2/5/9/8/25980118/polasaí_iontrála_2025-26_gaelscoil_na_giúise__2_.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: Polasaí Iontrála"
+    },
+    {
+      "url": "https://www.gaelscoilnagiuise.ie/uploads/2/5/9/8/25980118/cód_iompair_gaelscoil_na_giúise_2019.pdf",
+      "final_url": "https://www.gaelscoilnagiuise.ie/uploads/2/5/9/8/25980118/cód_iompair_gaelscoil_na_giúise_2019.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: Cód Iompair Gaelscoil na Giúise"
+    },
+    {
+      "url": "https://www.gaelscoilnagiuise.ie/uploads/2/5/9/8/25980118/polasaí_bí_cineálta_2025__1___3_.pdf",
+      "final_url": "https://www.gaelscoilnagiuise.ie/uploads/2/5/9/8/25980118/polasaí_bí_cineálta_2025__1___3_.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: Polasaí Bí Cineálta 2025"
+    },
+    {
+      "url": "https://www.gaelscoilnagiuise.ie/uploads/2/5/9/8/25980118/ráiteas_um_chumhdach_leanaí_agus_teimpléad_measúnaithe_riosca.pdf",
+      "final_url": "https://www.gaelscoilnagiuise.ie/uploads/2/5/9/8/25980118/ráiteas_um_chumhdach_leanaí_agus_teimpléad_measúnaithe_riosca.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: Ráiteas um Chumhdach Leanaí agus Teimpléad Measúnaithe Riosca"
+    },
+    {
+      "url": "https://www.gaelscoilnagiuise.ie/uploads/2/5/9/8/25980118/polasai-um-ranganna-ilghradacha.docx.pdf",
+      "final_url": "https://www.gaelscoilnagiuise.ie/uploads/2/5/9/8/25980118/polasai-um-ranganna-ilghradacha.docx.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: Polasaí um Ranganna Ilghrádacha"
+    },
+    {
+      "url": "https://www.gaelscoilnagiuise.ie/uploads/2/5/9/8/25980118/parental-complaints-procedure_v4-final.pdf",
+      "final_url": "https://www.gaelscoilnagiuise.ie/uploads/2/5/9/8/25980118/parental-complaints-procedure_v4-final.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: Parental Complaints Procedure"
+    },
+    {
+      "url": "https://www.gaelscoilnagiuise.ie/uploads/2/5/9/8/25980118/fórgra_faoi_athbhreithniú_bliaintiúil_ar_pholasaí_bí_cineálta_na_scoile.pdf",
+      "final_url": "https://www.gaelscoilnagiuise.ie/uploads/2/5/9/8/25980118/fórgra_faoi_athbhreithniú_bliaintiúil_ar_pholasaí_bí_cineálta_na_scoile.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: Fórgra faoi Athbhreithniú Bliaintiúil ar Pholasaí Bí Cineálta na Scoile"
+    },
+    {
+      "url": "https://www.gaelscoilnagiuise.ie/uploads/2/5/9/8/25980118/bí_cineálta__1_.pdf",
+      "final_url": "https://www.gaelscoilnagiuise.ie/uploads/2/5/9/8/25980118/bí_cineálta__1_.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file:  Polasaí Oiriúnaithe do Dhaltaí"
+    },
+    {
+      "url": "https://www.gaelscoilnagiuise.ie/uploads/2/5/9/8/25980118/an-nos-imeachta-athbhreithnithe-maidir-le-gearain-o-thuismitheoiri__1_.pdf",
+      "final_url": "https://www.gaelscoilnagiuise.ie/uploads/2/5/9/8/25980118/an-nos-imeachta-athbhreithnithe-maidir-le-gearain-o-thuismitheoiri__1_.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: An Nós Imeachta Athbhreithnithe Maidir Le Gearáin ó Thuismitheoirí"
+    },
+    {
+      "url": "https://www.gaelscoilnagiuise.ie",
+      "final_url": "https://www.gaelscoilnagiuise.ie",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.gaelscoilnagiuise.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://www.gaelscoilnagiuise.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "http_404",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "20412L",
+      "url": "https://www.gaelscoilnagiuise.ie/uploads/2/5/9/8/25980118/polasaí_iontrála_2025-26_gaelscoil_na_giúise__2_.pdf",
+      "label": "Download file: Polasaí Iontrála",
+      "sha256": "17c7748d1edff7a5b80abe3ae6174583fa9b37e5f752d9dbcd57f0b072b2f1dd",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20412L_17c7748d1edff7a5b80a.txt",
+      "source_file": "database/milestone2/cache/17c7748d1edff7a5b80abe3ae6174583fa9b37e5f752d9dbcd57f0b072b2f1dd.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 49159
+    }
+  ],
+  "pending_links": [],
+  "elapsed_seconds": 40.18,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:12:00+0000"
+}

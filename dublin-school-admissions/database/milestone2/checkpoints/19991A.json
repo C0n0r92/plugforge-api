@@ -1,0 +1,46 @@
+{
+  "roll": "19991A",
+  "status": "bounded_search_no_new_notice_found",
+  "attempts": [
+    {
+      "url": "https://www.gaelscoilnacamoige.ie",
+      "final_url": "https://www.gaelscoilnacamoige.ie",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "http://www.gaelscoilnacamoige.ie/wp-content/uploads/2026/05/Raiteas-iontrala-Rang-Speisialta-2026_2027.docx.pdf",
+      "final_url": "http://www.gaelscoilnacamoige.ie/wp-content/uploads/2026/05/Raiteas-iontrala-Rang-Speisialta-2026_2027.docx.pdf",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "Ráiteas iontrála Rang Speisialta 2026 - 2027"
+    },
+    {
+      "url": "http://www.gaelscoilnacamoige.ie/wp-content/uploads/2026/05/Raiteas-Iontrala-25-26-ceart-1.docx.pdf",
+      "final_url": "http://www.gaelscoilnacamoige.ie/wp-content/uploads/2026/05/Raiteas-Iontrala-25-26-ceart-1.docx.pdf",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "Ráiteas Iontrála 2026 - 2027"
+    },
+    {
+      "url": "https://www.gaelscoilnacamoige.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://www.gaelscoilnacamoige.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "http://www.gaelscoilnacamoige.ie/sitemap_index.xml",
+      "final_url": "http://www.gaelscoilnacamoige.ie/sitemap_index.xml",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    }
+  ],
+  "documents": [],
+  "pending_links": [],
+  "elapsed_seconds": 4.83,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:09:26+0000"
+}

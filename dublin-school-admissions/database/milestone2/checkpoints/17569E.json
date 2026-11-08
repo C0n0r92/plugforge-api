@@ -1,0 +1,1305 @@
+{
+  "roll": "17569E",
+  "status": "bounded_search_no_new_notice_found",
+  "attempts": [
+    {
+      "url": "https://www.balrotheryns.com/admissions/admissions-notice/",
+      "final_url": "https://www.balrotheryns.com/admissions/admissions-notice/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions Notice"
+    },
+    {
+      "url": "https://www.balrotheryns.com/documentlink/409/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/607/docletter/20261002044629_92_Admission_Notice_2027.2028.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Admission Notice 2027.2028.pdf"
+    },
+    {
+      "url": "https://www.balrotheryns.com/admin/?open=/admissions/admissions-notice/",
+      "final_url": "https://www.balrotheryns.com/admin/?open=/admissions/admissions-notice/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.balrotheryns.com/our-school/admission/",
+      "final_url": "https://www.balrotheryns.com/our-school/admission/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://www.balrotheryns.com/admissions/",
+      "final_url": "https://www.balrotheryns.com/admissions/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions Admissions"
+    },
+    {
+      "url": "https://www.balrotheryns.com/admin/?open=/our-school/admission/",
+      "final_url": "https://www.balrotheryns.com/admin/?open=/our-school/admission/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.balrotheryns.com/admin/?open=/admissions/",
+      "final_url": "https://www.balrotheryns.com/admin/?open=/admissions/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.balrotheryns.com/admissions/admissions-application-form-/",
+      "final_url": "https://www.balrotheryns.com/admissions/admissions-application-form-/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions Application Form 2027.2028"
+    },
+    {
+      "url": "https://www.balrotheryns.com/sitemap.xml",
+      "final_url": "https://www.balrotheryns.com/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.balrotheryns.com/policies/",
+      "final_url": "https://www.balrotheryns.com/policies/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies Polasaithe"
+    },
+    {
+      "url": "https://www.balrotheryns.com/documentlink/410/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/607/docletter/20261002051101_32_Admission_Policy_February_2026_1_.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Admission Policy February 2026 1 .pdf"
+    },
+    {
+      "url": "https://www.balrotheryns.com/documentlink/402/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/607/docletter/20260703120233_81_Notification_of_review_of_child_safeguarding_statement_and_risk_assessment_-_parents_18.06.2026.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Notification of review of child safeguarding statement and risk assessment - parents 18.06.2026.pdf"
+    },
+    {
+      "url": "https://www.balrotheryns.com/documentlink/395/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/607/docletter/20260703115420_57_Notification_of_BOM_s_Review_of_Child_safeguarding_Statement_Juune_2026_-_Parents_Assocation_1_.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Notification of BOM s Review of Child safeguarding Statement Juune 2026 - Parents Assocation 1 .pdf"
+    },
+    {
+      "url": "https://www.balrotheryns.com/parents-area/voluntary-contribution/",
+      "final_url": "https://www.balrotheryns.com/parents-area/voluntary-contribution/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Voluntary Contribution"
+    },
+    {
+      "url": "https://www.balrotheryns.com/parents-area/school-attendance/",
+      "final_url": "https://www.balrotheryns.com/parents-area/school-attendance/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Attendance"
+    },
+    {
+      "url": "https://www.balrotheryns.com/parents-area/newsletters/",
+      "final_url": "https://www.balrotheryns.com/parents-area/newsletters/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Newsletters"
+    },
+    {
+      "url": "https://www.balrotheryns.com/parents-area/newsletters/?schoolletterarchive=185",
+      "final_url": "https://www.balrotheryns.com/parents-area/newsletters/?schoolletterarchive=185",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Archive"
+    },
+    {
+      "url": "https://www.balrotheryns.com/parents-area/child-safeguarding-/",
+      "final_url": "https://www.balrotheryns.com/parents-area/child-safeguarding-/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Child Safeguarding"
+    },
+    {
+      "url": "https://www.balrotheryns.com/documentlink/311/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/607/docletter/20241125045907_88_Notification_to_Parents_-_Childsafeguarding_Review_and_Anti-bullying-Positive_Behaviour_Review_2024.2025.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Notification to Parents - Childsafeguarding Review and Anti-bullying-Positive Behaviour Review 2024.2025.pdf"
+    },
+    {
+      "url": "https://www.balrotheryns.com/documentlink/335/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/607/docletter/20250701120718_4_Child_safeguarding_notification_-_parents_June_2025.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Child safeguarding notification - parents June 2025.pdf"
+    },
+    {
+      "url": "https://www.balrotheryns.com/parents-area/calendar/",
+      "final_url": "https://www.balrotheryns.com/parents-area/calendar/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Calendar Féilire"
+    },
+    {
+      "url": "https://www.balrotheryns.com/parents-area/calendar/?calyear=2026&calmonth=12&",
+      "final_url": "https://www.balrotheryns.com/parents-area/calendar/?calyear=2026&calmonth=12&",
+      "status": "prior_exact_URL_access_denial_not_retried",
+      "via": "school_public_link",
+      "label": "December 2026"
+    },
+    {
+      "url": "https://www.balrotheryns.com/parents-area/calendar/?calyear=2026&calmonth=10&",
+      "final_url": "https://www.balrotheryns.com/parents-area/calendar/?calyear=2026&calmonth=10&",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": "October 2026"
+    },
+    {
+      "url": "https://www.balrotheryns.com/parents-area/calendar/?calTable=true",
+      "final_url": "https://www.balrotheryns.com/parents-area/calendar/?calTable=true",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": ""
+    }
+  ],
+  "documents": [],
+  "pending_links": [
+    {
+      "url": "https://www.balrotheryns.com/parents-area/booklists/",
+      "label": "Booklists",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/parents-area/book-grant-form/",
+      "label": "Book Grant & Book Rental",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/parents-area/",
+      "label": "Parents Area Tuismitheoirí",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/letterlink/84/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/letterlink/83/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/letterlink/82/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/letterlink/81/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/letterlink/80/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/letterlink/79/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/letterlink/78/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/letterlink/77/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/letterlink/76/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/letterlink/75/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/letterlink/74/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/letterlink/73/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/letterlink/72/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/letterlink/71/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/letterlink/70/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/letterlink/69/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/letterlink/68/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/letterlink/67/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/letterlink/66/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/letterlink/65/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/letterlink/64/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/letterlink/63/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/letterlink/62/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/letterlink/61/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/letterlink/60/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/letterlink/59/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/letterlink/58/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/letterlink/57/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/letterlink/56/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/letterlink/55/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/letterlink/54/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/letterlink/53/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/letterlink/52/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/letterlink/51/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/letterlink/50/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/letterlink/5/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/letterlink/49/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/letterlink/48/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/letterlink/47/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/letterlink/46/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/letterlink/45/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/letterlink/44/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/letterlink/43/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/letterlink/42/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/letterlink/41/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/letterlink/40/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/letterlink/4/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/letterlink/39/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/letterlink/38/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/letterlink/37/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/letterlink/36/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/letterlink/35/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/letterlink/34/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/letterlink/33/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/letterlink/32/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/letterlink/31/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/letterlink/30/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/letterlink/29/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/letterlink/28/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/letterlink/27/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/letterlink/26/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/letterlink/25/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/letterlink/24/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/letterlink/23/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/letterlink/22/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/letterlink/181/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/letterlink/180/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/letterlink/179/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/letterlink/176/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/letterlink/174/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/letterlink/172/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/letterlink/171/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/letterlink/170/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/letterlink/168/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/letterlink/167/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/letterlink/164/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/letterlink/163/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/letterlink/161/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/letterlink/158/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/letterlink/157/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/letterlink/155/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/letterlink/154/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/letterlink/153/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/letterlink/152/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/letterlink/151/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/letterlink/150/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/letterlink/148/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/letterlink/147/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/letterlink/146/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/letterlink/145/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/letterlink/144/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/letterlink/143/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/letterlink/141/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/letterlink/140/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/letterlink/136/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/letterlink/135/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/letterlink/134/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/letterlink/133/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/letterlink/109/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/letterlink/107/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/letterlink/106/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/letterlink/105/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/letterlink/104/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/letterlink/103/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/letterlink/102/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/learning-zone/new-primary-curriculum/",
+      "label": "New Primary Curriculum Information for parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/documentlink/429/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/documentlink/428/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/documentlink/427/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/documentlink/426/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/documentlink/425/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/documentlink/417/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/documentlink/416/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/documentlink/414/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/documentlink/413/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/documentlink/412/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/documentlink/411/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/documentlink/410/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/documentlink/409/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/documentlink/407/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/documentlink/406/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/documentlink/405/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/documentlink/404/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/documentlink/402/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/documentlink/401/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/documentlink/400/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/documentlink/398/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/documentlink/397/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/documentlink/395/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/documentlink/392/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/documentlink/39/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/documentlink/389/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/documentlink/388/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/documentlink/387/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/documentlink/38/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/documentlink/377/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/documentlink/376/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/documentlink/375/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/documentlink/374/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/documentlink/37/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/documentlink/369/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/documentlink/361/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/documentlink/358/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/documentlink/357/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/documentlink/35/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/documentlink/344/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/documentlink/342/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/documentlink/338/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/documentlink/337/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/documentlink/336/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/documentlink/335/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/documentlink/323/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/documentlink/322/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/documentlink/32/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/documentlink/311/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/documentlink/310/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/documentlink/309/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/documentlink/308/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/documentlink/307/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/documentlink/29/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/documentlink/287/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/documentlink/286/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/documentlink/281/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/documentlink/280/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/documentlink/279/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/documentlink/274/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/documentlink/274/?open=true",
+      "label": "RSE - Stay Safe - letter to parents.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/documentlink/273/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/documentlink/261/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/documentlink/260/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/documentlink/26/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/documentlink/26/?open=true",
+      "label": "Admission Policy Map",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/documentlink/259/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/documentlink/257/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/documentlink/244/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/documentlink/24/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/documentlink/198/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/documentlink/192/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/documentlink/169/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/documentlink/152/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/admissions/admissions-policy-map/",
+      "label": "Admissions Policy Map",
+      "via": "prior_public_admissions_landing"
+    },
+    {
+      "url": "https://www.balrotheryns.com/admissions/admissions-policy-/",
+      "label": "Admissions Policy",
+      "via": "prior_public_admissions_landing"
+    },
+    {
+      "url": "https://www.balrotheryns.com/admin/?open=/policies/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/admin/?open=/parents-area/voluntary-contribution/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/admin/?open=/parents-area/school-attendance/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/admin/?open=/parents-area/newsletters/?schoolletterarchive=185",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/admin/?open=/parents-area/newsletters/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/admin/?open=/parents-area/child-safeguarding-/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/admin/?open=/parents-area/calendar/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/admin/?open=/admissions/admissions-application-form-/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com",
+      "label": "School homepage",
+      "via": "home"
+    },
+    {
+      "url": "https://www.balrotheryns.com/documentlink/169/?open=true",
+      "label": "RSE Policy 2019",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/documentlink/192/?open=true",
+      "label": "St Oliver Plunketts Communication Policy Dec 2020",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/documentlink/244/?open=true",
+      "label": "Healthy Eating Policy St Oliver Plunkett November 2022",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/documentlink/387/?open=true",
+      "label": "Mobile Phone Policy 15.09.2023 updated 20.09.2023 - reviewed 19.03.2026 1 .docx.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/documentlink/261/?open=true",
+      "label": "School Tours and Excursion Policy - 28.09.2023.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/documentlink/259/?open=true",
+      "label": "Safety Statement Policy - 28.09.2023.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/documentlink/257/?open=true",
+      "label": "Acceptable Use Policy - 28.09.2023.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/documentlink/308/?open=true",
+      "label": "Antibullying - Positive Behaviour Policy and Review checklists 2024.2025.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/documentlink/307/?open=true",
+      "label": "School Data Protection Policy September 2024.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/documentlink/287/?open=true",
+      "label": "School uniform Policy May 2024.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/documentlink/281/?open=true",
+      "label": "St Oliver Plunkett s NS Custody and Separation Policy 2024.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/documentlink/280/?open=true",
+      "label": "Social Media Policy - February 2024.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/documentlink/279/?open=true",
+      "label": "Fundraising from the Public Policy - February 2024.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/documentlink/273/?open=true",
+      "label": "Parental Complaints Policy 25.01.2024.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/documentlink/392/?open=true",
+      "label": "Code of Behaviour Statement of Ethos - Positive Behaviour Policy September 2025.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/documentlink/357/?open=true",
+      "label": "Wellbeing Policy June 2025 -.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/documentlink/323/?open=true",
+      "label": "Equal Opportunities Policy February 2025.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/documentlink/322/?open=true",
+      "label": "Anti- Racist Policy February 2025.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/documentlink/413/?open=true",
+      "label": "Supervision Policy - September 2026.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/documentlink/411/?open=true",
+      "label": "Homework policy October 2026.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/documentlink/405/?open=true",
+      "label": "Bí Cineálta - anti- Bullying Policy June 2026.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/documentlink/389/?open=true",
+      "label": "St Oliver Plunketts - Behaviours of concern policy - 2026.docx.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/documentlink/388/?open=true",
+      "label": "Integration and Inclusion Policy March 2026 2 .docx.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/documentlink/344/?open=true",
+      "label": "Bi Cineálta Child Friendly Policy - 2026.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/documentlink/37/?open=true",
+      "label": "School data protection policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/documentlink/29/?open=true",
+      "label": "Stay Safe policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/documentlink/286/?open=true",
+      "label": "Splitting Classes Policy.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/documentlink/198/?open=true",
+      "label": "St Oliver Plunkett Anti-Racism child friendly policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/documentlink/152/?open=true",
+      "label": "Critical Incident Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/cmsfiles/policies/privacy/",
+      "label": "Website Privacy Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.balrotheryns.com/cmsfiles/policies/cookie/",
+      "label": "Cookie Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 59.54,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:03:32+0000"
+}

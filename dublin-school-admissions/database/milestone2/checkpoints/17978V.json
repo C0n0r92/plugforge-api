@@ -1,0 +1,212 @@
+{
+  "roll": "17978V",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.naiscoilide.ie/admission.html",
+      "final_url": "https://www.naiscoilide.ie/admission.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admission"
+    },
+    {
+      "url": "https://www.naiscoilide.ie/uploads/2/2/9/9/22993376/enrolment_application_form_27-28__4_.pdf",
+      "final_url": "https://www.naiscoilide.ie/uploads/2/2/9/9/22993376/enrolment_application_form_27-28__4_.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admission Form for Mainstream Class"
+    },
+    {
+      "url": "https://www.naiscoilide.ie/uploads/2/2/9/9/22993376/application_form_asd_class_27-28.pdf",
+      "final_url": "https://www.naiscoilide.ie/uploads/2/2/9/9/22993376/application_form_asd_class_27-28.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admission form for ASD class"
+    },
+    {
+      "url": "https://www.naiscoilide.ie/uploads/2/2/9/9/22993376/admission_policy_naiscoil_ide_110__17978v_.pdf",
+      "final_url": "https://www.naiscoilide.ie/uploads/2/2/9/9/22993376/admission_policy_naiscoil_ide_110__17978v_.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admission Policy"
+    },
+    {
+      "url": "https://www.naiscoilide.ie/sitemap.xml",
+      "final_url": "https://www.naiscoilide.ie/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.naiscoilide.ie/parents.html",
+      "final_url": "https://www.naiscoilide.ie/parents.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents"
+    },
+    {
+      "url": "https://www.naiscoilide.ie/parents-association.html",
+      "final_url": "https://www.naiscoilide.ie/parents-association.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents' Association"
+    },
+    {
+      "url": "https://www.naiscoilide.ie/npc-training-courses.html",
+      "final_url": "https://www.naiscoilide.ie/npc-training-courses.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "National Parents Council"
+    },
+    {
+      "url": "https://www.naiscoilide.ie/grandparents-day-room-9.html",
+      "final_url": "https://www.naiscoilide.ie/grandparents-day-room-9.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Grandparents Day Room 9"
+    },
+    {
+      "url": "https://www.naiscoilide.ie",
+      "final_url": "https://www.naiscoilide.ie",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.naiscoilide.ie/uploads/2/2/9/9/22993376/leaflet-for-parents-english-933ba203-13b8-4123-9fe7-ffa1411231f1.pdf",
+      "final_url": "https://www.naiscoilide.ie/uploads/2/2/9/9/22993376/leaflet-for-parents-english-933ba203-13b8-4123-9fe7-ffa1411231f1.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "here."
+    },
+    {
+      "url": "https://www.naiscoilide.ie/",
+      "final_url": "https://www.naiscoilide.ie/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies and Statements"
+    },
+    {
+      "url": "https://www.naiscoilide.ie/uploads/2/2/9/9/22993376/anti_bullying_policy_naiscoil_ide__2__october_2024.pdf",
+      "final_url": "https://www.naiscoilide.ie/uploads/2/2/9/9/22993376/anti_bullying_policy_naiscoil_ide__2__october_2024.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "anti_bullying_policy"
+    },
+    {
+      "url": "https://www.naiscoilide.ie/privacy-policy.html",
+      "final_url": "https://www.naiscoilide.ie/privacy-policy.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Privacy Policy"
+    },
+    {
+      "url": "https://www.naiscoilide.ie/policy-and-statements.html",
+      "final_url": "https://www.naiscoilide.ie/policy-and-statements.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policy and Statements"
+    },
+    {
+      "url": "https://www.naiscoilide.ie/uploads/2/2/9/9/22993376/2023_pdf_admission_policy_of_naíscoil_Íde__1__october_2024.pdf",
+      "final_url": "https://www.naiscoilide.ie/uploads/2/2/9/9/22993376/2023_pdf_admission_policy_of_naíscoil_Íde__1__october_2024.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://www.naiscoilide.ie/uploads/2/2/9/9/22993376/revised_parental_complaints_procedure.pdf",
+      "final_url": "https://www.naiscoilide.ie/uploads/2/2/9/9/22993376/revised_parental_complaints_procedure.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parental Complaints"
+    },
+    {
+      "url": "https://www.naiscoilide.ie/uploads/2/2/9/9/22993376/homework_policy2020__1__ocotber_2024.pdf",
+      "final_url": "https://www.naiscoilide.ie/uploads/2/2/9/9/22993376/homework_policy2020__1__ocotber_2024.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Homework Policy"
+    },
+    {
+      "url": "https://www.naiscoilide.ie/uploads/2/2/9/9/22993376/parental_involvement_policy__2__october_2024.pdf",
+      "final_url": "https://www.naiscoilide.ie/uploads/2/2/9/9/22993376/parental_involvement_policy__2__october_2024.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parental Involvement"
+    },
+    {
+      "url": "https://www.naiscoilide.ie/uploads/2/2/9/9/22993376/mobile_phone_and_devices_policy__1__october_2024.pdf",
+      "final_url": "https://www.naiscoilide.ie/uploads/2/2/9/9/22993376/mobile_phone_and_devices_policy__1__october_2024.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Mobile Phones and Devices"
+    },
+    {
+      "url": "https://www.naiscoilide.ie/uploads/2/2/9/9/22993376/healthy_eating_policy22_final__1__october_2024.pdf",
+      "final_url": "https://www.naiscoilide.ie/uploads/2/2/9/9/22993376/healthy_eating_policy22_final__1__october_2024.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Healthy Eating Policy"
+    },
+    {
+      "url": "https://www.naiscoilide.ie/uploads/2/2/9/9/22993376/data_protection_policygdpr23__ocotber_2024.pdf",
+      "final_url": "https://www.naiscoilide.ie/uploads/2/2/9/9/22993376/data_protection_policygdpr23__ocotber_2024.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Data Protection"
+    },
+    {
+      "url": "https://www.naiscoilide.ie/uploads/2/2/9/9/22993376/cctv_policynov21_october_2024.pdf",
+      "final_url": "https://www.naiscoilide.ie/uploads/2/2/9/9/22993376/cctv_policynov21_october_2024.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "CCTV"
+    },
+    {
+      "url": "https://www.naiscoilide.ie/uploads/2/2/9/9/22993376/administrationofmedicinespolicy_nov21_october_2024.pdf",
+      "final_url": "https://www.naiscoilide.ie/uploads/2/2/9/9/22993376/administrationofmedicinespolicy_nov21_october_2024.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Administration of Medicine"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "17978V",
+      "url": "https://www.naiscoilide.ie/uploads/2/2/9/9/22993376/2023_pdf_admission_policy_of_naíscoil_Íde__1__october_2024.pdf",
+      "label": "Admissions",
+      "sha256": "fd7d0035c399aabdc4e7cefdcf14a6f1e9914e7d55aee588ee2c7929b3031f72",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/17978V_fd7d0035c399aabdc4e7.txt",
+      "source_file": "database/milestone2/cache/fd7d0035c399aabdc4e7cefdcf14a6f1e9914e7d55aee588ee2c7929b3031f72.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 20480
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.naiscoilide.ie/uploads/2/2/9/9/22993376/rse_policy_nov21.pdf",
+      "label": "RSE",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.naiscoilide.ie/uploads/2/2/9/9/22993376/pdf_acceptable_use_policy.pdf",
+      "label": "Internet Acceptable Use",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.naiscoilide.ie/uploads/2/2/9/9/22993376/behaviours_of_concern_policy.pdf",
+      "label": "Behaviour of Concern",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.naiscoilide.ie/uploads/2/2/9/9/22993376/attendance_policy.pdf",
+      "label": "Attendance Policy and Strategy Statement",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 70.76,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:52:20+0000"
+}

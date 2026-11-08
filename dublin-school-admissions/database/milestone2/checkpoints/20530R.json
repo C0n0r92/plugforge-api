@@ -1,0 +1,102 @@
+{
+  "roll": "20530R",
+  "status": "bounded_search_no_new_notice_found",
+  "attempts": [
+    {
+      "url": "https://www.gaelscoilnamara.ie/page/Na-Blianta-Tosaigh/7827/Index.html",
+      "final_url": "https://www.gaelscoilnamara.ie/page/Na-Blianta-Tosaigh/7827/Index.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Na Blianta Tosaigh"
+    },
+    {
+      "url": "https://www.gaelscoilnamara.ie/page/Fogra-Tuismitheoiri/8062/Index.html",
+      "final_url": "https://www.gaelscoilnamara.ie/page/Fogra-Tuismitheoiri/8062/Index.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Fógra Tuismitheoirí"
+    },
+    {
+      "url": "https://www.gaelscoilnamara.ie/Nuacht/Rollu-do-Rang-na-Naionain-Shoisearacha-don-scoilbhliain-202728-Enrolment-for-Junior-Infants-202728/10553/Index.html",
+      "final_url": "https://www.gaelscoilnamara.ie/Nuacht/Rollu-do-Rang-na-Naionain-Shoisearacha-don-scoilbhliain-202728-Enrolment-for-Junior-Infants-202728/10553/Index.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Rollú do Rang na Naíonáin Shóisearacha don scoilbhliain 2027/28 / Enrolment for Junior Infants 2027/28"
+    },
+    {
+      "url": "https://www.into.ie/app/uploads/2018/05/2019_Tips_GA.pdf",
+      "final_url": "https://www.into.ie/app/uploads/2018/05/2019_Tips_GA.pdf",
+      "status": "http_404",
+      "via": "school_public_link",
+      "label": "Do Leanbh sa Bhunscoil"
+    },
+    {
+      "url": "https://gaeloideachas.ie/wp-content/uploads/2018/11/Bunscoil-BILINGUAL.pdf",
+      "final_url": "https://gaeloideachas.ie/wp-content/uploads/2018/11/Bunscoil-BILINGUAL.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "Tumoideachas sa Bhunscoil / Immersion Education in Primary School"
+    },
+    {
+      "url": "https://www.into.ie/app/uploads/2019/09/2020_Tips_Eng_V2.pdf",
+      "final_url": "https://www.into.ie/app/uploads/2019/09/2020_Tips_Eng_V2.pdf",
+      "status": "http_404",
+      "via": "school_public_link",
+      "label": "Your Child in the Primary School"
+    },
+    {
+      "url": "https://www.gaelscoilnamara.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://www.gaelscoilnamara.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "http_404",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://www.gaelscoilnamara.ie/Enrolment/Index.html",
+      "final_url": "https://www.gaelscoilnamara.ie/Enrolment/Index.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Enrolment"
+    },
+    {
+      "url": "https://www.gaelscoilnamara.ie/Enrolement/Index.html",
+      "final_url": "https://www.gaelscoilnamara.ie/Enrolement/Index.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Enrolement"
+    },
+    {
+      "url": "https://gaeloideachas.ie/wp-content/uploads/2020/05/Ag-Tos%C3%BA-sa-Scoil-Mh%C3%B3r.pdf",
+      "final_url": "https://gaeloideachas.ie/wp-content/uploads/2020/05/Ag-Tos%C3%BA-sa-Scoil-Mh%C3%B3r.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "Ag tosú sa scoil mhór"
+    },
+    {
+      "url": "https://ncca.ie/media/1425/the_what-_why_and_how_of_childrens_learning_in_primary_school_overview.pdf",
+      "final_url": "https://ncca.ie/media/1425/the_what-_why_and_how_of_childrens_learning_in_primary_school_overview.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "The What, Why and How of Children’s Learning"
+    },
+    {
+      "url": "https://www.gaelscoilnamara.ie/sitemap.xml",
+      "final_url": "https://www.gaelscoilnamara.ie/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.gaelscoilnamara.ie",
+      "final_url": "https://www.gaelscoilnamara.ie",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    }
+  ],
+  "documents": [],
+  "pending_links": [],
+  "elapsed_seconds": 30.86,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:47:41+0000"
+}

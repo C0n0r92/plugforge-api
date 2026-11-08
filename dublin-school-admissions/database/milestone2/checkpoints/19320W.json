@@ -1,0 +1,205 @@
+{
+  "roll": "19320W",
+  "status": "bounded_search_no_new_notice_found",
+  "attempts": [
+    {
+      "url": "https://www.olgc.ie/enrolment",
+      "final_url": "https://www.olgc.ie/enrolment",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://www.olgc.ie/_files/ugd/df34b3_d4f3da926a7a400c84db96ae24df960d.docx?dn=Annual%20Admission%20Notice%20%202026-2027%20-%203-9-2026%20(2).docx",
+      "final_url": "https://b4e45d69-e288-4fd4-ab60-ee871a072a06.filesusr.com/ugd/df34b3_d4f3da926a7a400c84db96ae24df960d.docx?dn=Annual%20Admission%20Notice%20%202026-2027%20-%203-9-2026%20(2).docx",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "Admission Notice"
+    },
+    {
+      "url": "https://www.olgc.ie/_files/ugd/df34b3_866ca6ad0f6a45d1bab887df89400fe2.pdf",
+      "final_url": "https://b4e45d69-e288-4fd4-ab60-ee871a072a06.filesusr.com/ugd/df34b3_866ca6ad0f6a45d1bab887df89400fe2.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "Admission Notice for Special Class for Children with Autism 2026/2027"
+    },
+    {
+      "url": "https://www.olgc.ie/_files/ugd/df34b3_7999560612754c58accf2c72b05572d2.pdf",
+      "final_url": "https://b4e45d69-e288-4fd4-ab60-ee871a072a06.filesusr.com/ugd/df34b3_7999560612754c58accf2c72b05572d2.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "Admission Policy 2026 ​"
+    },
+    {
+      "url": "https://www.olgc.ie/copy-of-teachers-2025-2026",
+      "final_url": "https://www.olgc.ie/copy-of-teachers-2025-2026",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parent Survey Results"
+    },
+    {
+      "url": "https://www.olgc.ie/sitemap.xml",
+      "final_url": "https://www.olgc.ie/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.olgc.ie/parentsurveyresults",
+      "final_url": "https://www.olgc.ie/parentsurveyresults",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parent Survey Results"
+    },
+    {
+      "url": "https://www.olgc.ie/pages-sitemap.xml",
+      "final_url": "https://www.olgc.ie/pages-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.olgc.ie/jpa",
+      "final_url": "https://www.olgc.ie/jpa",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "JPA - Parents Association"
+    },
+    {
+      "url": "https://www.olgc.ie",
+      "final_url": "https://www.olgc.ie",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.olgc.ie/policy",
+      "final_url": "https://www.olgc.ie/policy",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.olgc.ie/_files/ugd/4d0b36_6f73d2733a7247c98c5409f223cd85d6.pdf",
+      "final_url": "https://www.olgc.ie/_files/ugd/4d0b36_6f73d2733a7247c98c5409f223cd85d6.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parental Complaints Procedure 2024"
+    },
+    {
+      "url": "https://www.olgc.ie/_files/ugd/4d0b36_a8eb2f8c4c5a4f1a8e763ce405e8e9e8.pdf",
+      "final_url": "https://www.olgc.ie/_files/ugd/4d0b36_a8eb2f8c4c5a4f1a8e763ce405e8e9e8.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Assessment policy June 2019"
+    },
+    {
+      "url": "https://www.olgc.ie/_files/ugd/df34b3_70e73f30e87f4169b0894e8b6514b9fb.docx?dn=B%C3%AD%20Cine%C3%A1lta%20Policy%20to%20Prevent%20and%20Address%20Bullying%20Behaviour%20FINAL%202026%20(1).docx",
+      "final_url": "https://b4e45d69-e288-4fd4-ab60-ee871a072a06.filesusr.com/ugd/df34b3_70e73f30e87f4169b0894e8b6514b9fb.docx?dn=B%C3%AD%20Cine%C3%A1lta%20Policy%20to%20Prevent%20and%20Address%20Bullying%20Behaviour%20FINAL%202026%20(1).docx",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "Bí Cineálta Policy to Prevent and Address Bullying Behaviour September 2026"
+    },
+    {
+      "url": "https://www.olgc.ie/_files/ugd/df34b3_5aada0c1158347e7a3b4671bb242b257.docx?dn=Dignity%20in%20Our%20Work%20Policy%202026.docx",
+      "final_url": "https://b4e45d69-e288-4fd4-ab60-ee871a072a06.filesusr.com/ugd/df34b3_5aada0c1158347e7a3b4671bb242b257.docx?dn=Dignity%20in%20Our%20Work%20Policy%202026.docx",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "Dignity in the Workplace Policy 2026"
+    },
+    {
+      "url": "https://www.olgc.ie/_files/ugd/df34b3_3400759bcb6945db9b193ab104a09b1c.docx?dn=Health%20and%20Safety%20Statement%202026.docx",
+      "final_url": "https://b4e45d69-e288-4fd4-ab60-ee871a072a06.filesusr.com/ugd/df34b3_3400759bcb6945db9b193ab104a09b1c.docx?dn=Health%20and%20Safety%20Statement%202026.docx",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "Safety, Health and Welfare Policy 2026"
+    },
+    {
+      "url": "https://www.olgc.ie/_files/ugd/4d0b36_ba9f290b05d444129f5bc0a21730d4a2.pdf",
+      "final_url": "https://www.olgc.ie/_files/ugd/4d0b36_ba9f290b05d444129f5bc0a21730d4a2.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Substance Use Policy March 2021"
+    },
+    {
+      "url": "https://www.olgc.ie/_files/ugd/4d0b36_13d18a55de224bdabc1b8287c860115e.pdf",
+      "final_url": "https://www.olgc.ie/_files/ugd/4d0b36_13d18a55de224bdabc1b8287c860115e.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "RSE Policy 2021"
+    },
+    {
+      "url": "https://www.olgc.ie/_files/ugd/4d0b36_d10e3db36d894e3f88580f170431f6ea.pdf",
+      "final_url": "https://www.olgc.ie/_files/ugd/4d0b36_d10e3db36d894e3f88580f170431f6ea.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Cursive Handwriting Policy September 2022"
+    },
+    {
+      "url": "https://www.olgc.ie/_files/ugd/4d0b36_399e067e4dec47ba8d2d26c77895a087.pdf",
+      "final_url": "https://www.olgc.ie/_files/ugd/4d0b36_399e067e4dec47ba8d2d26c77895a087.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Homework policy January 2023"
+    },
+    {
+      "url": "https://www.olgc.ie/_files/ugd/4d0b36_13dfa0f39b67486f97ce4939ba5b1049.pdf",
+      "final_url": "https://www.olgc.ie/_files/ugd/4d0b36_13dfa0f39b67486f97ce4939ba5b1049.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Reconstitution of Classes Policy February 2023"
+    },
+    {
+      "url": "https://www.olgc.ie/_files/ugd/df34b3_1fb659f293e04a48bfa858119f0dbc95.pdf",
+      "final_url": "https://b4e45d69-e288-4fd4-ab60-ee871a072a06.filesusr.com/ugd/df34b3_1fb659f293e04a48bfa858119f0dbc95.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "Attendance & Absence Policy February 2024"
+    },
+    {
+      "url": "https://www.olgc.ie/_files/ugd/4d0b36_f801dc9f4aeb4667b8b32ba8be9800b3.pdf",
+      "final_url": "https://www.olgc.ie/_files/ugd/4d0b36_f801dc9f4aeb4667b8b32ba8be9800b3.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Whistleblowing (Protected Disclosures) Policy 2024"
+    },
+    {
+      "url": "https://www.olgc.ie/_files/ugd/df34b3_c3b33df0fe8e40eb87d065f98c7e7eac.pdf",
+      "final_url": "https://b4e45d69-e288-4fd4-ab60-ee871a072a06.filesusr.com/ugd/df34b3_c3b33df0fe8e40eb87d065f98c7e7eac.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "Data Protection Policy 2025"
+    }
+  ],
+  "documents": [],
+  "pending_links": [
+    {
+      "url": "https://www.olgc.ie/_files/ugd/df34b3_a19ec3f93b4c4a9498721234f6e1cea7.pdf",
+      "label": "Sustainability in Education Policy 2025",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.olgc.ie/_files/ugd/df34b3_105a72fb6d88446e84146801c682ea97.pdf",
+      "label": "Healthy Lunch Policy February 2025",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.olgc.ie/_files/ugd/df34b3_e3ceb24d578047deb51f5de1df3f0901.docx?dn=AUP2026%20(1).docx",
+      "label": "Acceptable User Policy  Sept 2026",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.olgc.ie/_files/ugd/df34b3_7adbb2900ee649c394352fb729c79ad5.pdf",
+      "label": "Administration of Medicine policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.olgc.ie/_files/ugd/4d0b36_d79aef08af3345148855a742d394d4b5.pdf",
+      "label": "Remote Teaching and Continuity of Learning Policy and Plan",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 70.84,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:05:54+0000"
+}

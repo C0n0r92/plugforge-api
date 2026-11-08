@@ -1,0 +1,326 @@
+{
+  "roll": "20268H",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://acetns.ie/policies/annual-admissions-notice-2020-2022/",
+      "final_url": "https://acetns.ie/policies/annual-admissions-notice-2020-2022/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "ACETNS Admissions Policy"
+    },
+    {
+      "url": "https://acetns.ie/2020/09/23/annual-admissions-notice-2020/",
+      "final_url": "https://acetns.ie/2020/09/23/annual-admissions-notice-2020/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions/policy URL from public sitemap"
+    },
+    {
+      "url": "https://dochub.com/acetns/qd0E4NeKg2max4kRJ9LYyj/annual-admissions-notice-2020-pdf?dt=yA9ziP-ddXKLgcByBRfr",
+      "final_url": "https://dochub.com/acetns/qd0E4NeKg2max4kRJ9LYyj/annual-admissions-notice-2020-pdf?dt=yA9ziP-ddXKLgcByBRfr",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "https://dochub.com/acetns/qd0E4NeKg2max4kRJ9LYyj/annual-admissions-notice-2020-pdf?dt=yA9ziP-ddXKLgcByBRfr"
+    },
+    {
+      "url": "https://acetns.ie/wp-content/uploads/2021/01/asd-admission.png",
+      "final_url": "https://acetns.ie/wp-content/uploads/2021/01/asd-admission.png",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "ASD admission"
+    },
+    {
+      "url": "https://acetns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://acetns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://acetns.ie/wp-content/uploads/2024/04/Admission-Form-ASD-Class.docx-1.pdf",
+      "final_url": "https://acetns.ie/wp-content/uploads/2024/04/Admission-Form-ASD-Class.docx-1.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admission-Form-ASD-Class.docx-1"
+    },
+    {
+      "url": "https://acetns.ie/wp-content/uploads/2024/04/Admission-Form-ASD-Class.doc.pdf",
+      "final_url": "https://acetns.ie/wp-content/uploads/2024/04/Admission-Form-ASD-Class.doc.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admission-Form-ASD-Class.doc"
+    },
+    {
+      "url": "https://acetns.ie/wp-content/uploads/2024/04/Admission-Form-ASD-Class.doc-1.pdf",
+      "final_url": "https://acetns.ie/wp-content/uploads/2024/04/Admission-Form-ASD-Class.doc-1.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admission-Form-ASD-Class.doc-1"
+    },
+    {
+      "url": "https://acetns.ie/wp-content/uploads/2025/04/Admission-Form-2025_26-ASD-Class.docx.pdf",
+      "final_url": "https://acetns.ie/wp-content/uploads/2025/04/Admission-Form-2025_26-ASD-Class.docx.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "_Admission Form 2025_26 ASD Class.docx"
+    },
+    {
+      "url": "https://acetns.ie/wp-content/uploads/2026/04/Admission-Form-2026_27-ASD-Class.docx.pdf",
+      "final_url": "https://acetns.ie/wp-content/uploads/2026/04/Admission-Form-2026_27-ASD-Class.docx.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "_Admission Form 2026_27 ASD Class.docx"
+    },
+    {
+      "url": "https://acetns.ie/wp-content/uploads/2026/04/Admission-Form-2026_27-ASD-Class.docx-1.pdf",
+      "final_url": "https://acetns.ie/wp-content/uploads/2026/04/Admission-Form-2026_27-ASD-Class.docx-1.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "_Admission Form 2026_27 ASD Class.docx (1)"
+    },
+    {
+      "url": "https://acetns.ie/enrolment/",
+      "final_url": "https://acetns.ie/enrolment/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Enrolment Info"
+    },
+    {
+      "url": "https://acetns.ie/wp-content/uploads/2022/10/12092022-Adamstown-Castle-ETNS-Schools-Admission-Policy-Updated-Marked-Up.docx.pdf",
+      "final_url": "https://acetns.ie/wp-content/uploads/2022/10/12092022-Adamstown-Castle-ETNS-Schools-Admission-Policy-Updated-Marked-Up.docx.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://acetns.ie/wp-content/uploads/2023/03/Adamstown-Castle-ETNS-Schools-Admission-Policy.docx",
+      "final_url": "https://acetns.ie/wp-content/uploads/2023/03/Adamstown-Castle-ETNS-Schools-Admission-Policy.docx",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://acetns.ie/wp-content/uploads/2025/09/20250922_AdamstownCastleETNS_-Admission-Policy_Approved.docx.pdf",
+      "final_url": "https://acetns.ie/wp-content/uploads/2025/09/20250922_AdamstownCastleETNS_-Admission-Policy_Approved.docx.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "20250922_AdamstownCastleETNS_ Admission Policy_Approved.docx"
+    },
+    {
+      "url": "https://acetns.ie/wp-content/uploads/2025/09/20250922_AdamstownCastleETNS_-Admission-Policy_Approved.docx-1.pdf",
+      "final_url": "https://acetns.ie/wp-content/uploads/2025/09/20250922_AdamstownCastleETNS_-Admission-Policy_Approved.docx-1.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "20250922_AdamstownCastleETNS_ Admission Policy_Approved.docx"
+    },
+    {
+      "url": "https://acetns.ie/2020/10/01/admissions-policy/",
+      "final_url": "https://acetns.ie/2020/10/01/admissions-policy/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions/policy URL from public sitemap"
+    },
+    {
+      "url": "https://acetns.ie/tag/admissions/",
+      "final_url": "https://acetns.ie/tag/admissions/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://dochub.com/acetns/P0B76b3K6xPPgn1wn2y1Gg/20201001-v2-adamstown-castle-etns-schools-admission-policy-pdf?dt=DdKdu4MYvV4bYWp6SouP",
+      "final_url": "https://dochub.com/acetns/P0B76b3K6xPPgn1wn2y1Gg/20201001-v2-adamstown-castle-etns-schools-admission-policy-pdf?dt=DdKdu4MYvV4bYWp6SouP",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "https://dochub.com/acetns/P0B76b3K6xPPgn1wn2y1Gg/20201001-v2-adamstown-castle-etns-schools-admission-policy-pdf?dt=DdKdu4MYvV4bYWp6SouP"
+    },
+    {
+      "url": "https://acetns.ie/2020/03/27/enrollment/",
+      "final_url": "https://acetns.ie/2020/03/27/enrollment/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions/policy URL from public sitemap"
+    },
+    {
+      "url": "https://acetns.ie/2023/09/29/admissions-for-the-2024-25-school-year/",
+      "final_url": "https://acetns.ie/2023/09/29/admissions-for-the-2024-25-school-year/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions/policy URL from public sitemap"
+    },
+    {
+      "url": "https://acetns.ie/policies/digital-strategy-2024-25/",
+      "final_url": "https://acetns.ie/policies/digital-strategy-2024-25/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Digital Strategy 2024/25"
+    },
+    {
+      "url": "https://acetns.ie/wp-content/uploads/2025/03/Digital-Strategy_ACETNS_2024.pdf",
+      "final_url": "https://acetns.ie/wp-content/uploads/2025/03/Digital-Strategy_ACETNS_2024.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download"
+    },
+    {
+      "url": "https://acetns.ie/2024/04/10/enrolment-for-asd-class/",
+      "final_url": "https://acetns.ie/2024/04/10/enrolment-for-asd-class/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions/policy URL from public sitemap"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "20268H",
+      "url": "https://acetns.ie/2020/09/23/annual-admissions-notice-2020/",
+      "label": "Admissions/policy URL from public sitemap",
+      "sha256": "a086d0745eb0176e33b9a0b13d4e0f825b0ac97268940d44beed2872f0ee1ce5",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20268H_a086d0745eb0176e33b9.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 2625
+    },
+    {
+      "roll": "20268H",
+      "url": "https://dochub.com/acetns/qd0E4NeKg2max4kRJ9LYyj/annual-admissions-notice-2020-pdf?dt=yA9ziP-ddXKLgcByBRfr",
+      "label": "https://dochub.com/acetns/qd0E4NeKg2max4kRJ9LYyj/annual-admissions-notice-2020-pdf?dt=yA9ziP-ddXKLgcByBRfr",
+      "sha256": "fb1c3b13a38045c867fec237853fb7f9a4337294e04a16a0f421c49e5ca03866",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20268H_fb1c3b13a38045c867fe.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 3233
+    },
+    {
+      "roll": "20268H",
+      "url": "https://acetns.ie/wp-content/uploads/2022/10/12092022-Adamstown-Castle-ETNS-Schools-Admission-Policy-Updated-Marked-Up.docx.pdf",
+      "label": "",
+      "sha256": "07dcafd05a6bb4418c062292c2c1e20773f1a26633424d8336e4f1b6f9d5260b",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20268H_07dcafd05a6bb4418c06.txt",
+      "source_file": "database/milestone2/cache/07dcafd05a6bb4418c062292c2c1e20773f1a26633424d8336e4f1b6f9d5260b.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 29020
+    },
+    {
+      "roll": "20268H",
+      "url": "https://acetns.ie/wp-content/uploads/2023/03/Adamstown-Castle-ETNS-Schools-Admission-Policy.docx",
+      "label": "Prior school admissions section",
+      "sha256": "a5d086b948a02ecd545d764c631fbfaefa6164f383ced916ead293b7bbb44f79",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/20268H_a5d086b948a02ecd545d.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 27233
+    },
+    {
+      "roll": "20268H",
+      "url": "https://acetns.ie/wp-content/uploads/2025/09/20250922_AdamstownCastleETNS_-Admission-Policy_Approved.docx.pdf",
+      "label": "20250922_AdamstownCastleETNS_ Admission Policy_Approved.docx",
+      "sha256": "be9e6785d8b8dfe41ee1c0c405e8dbb9a9455464012b5f38077c65e185be9019",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20268H_be9e6785d8b8dfe41ee1.txt",
+      "source_file": "database/milestone2/cache/be9e6785d8b8dfe41ee1c0c405e8dbb9a9455464012b5f38077c65e185be9019.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 28726
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://dochub.com/sitemap.xml",
+      "label": "Public sitemap",
+      "via": "sitemap_root"
+    },
+    {
+      "url": "https://acetns.ie/wp-sitemap.xml",
+      "label": "Public sitemap",
+      "via": "sitemap_root"
+    },
+    {
+      "url": "https://acetns.ie/tag/policies/",
+      "label": "Policies",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://acetns.ie/policies/school-improvement-plan-24-25/",
+      "label": "School Improvement Plan 24/25",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://acetns.ie/policies/hall-rental/",
+      "label": "Hall Rental",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://acetns.ie/policies/curriculum-subject-policies/",
+      "label": "Curriculum Subject Policies",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://acetns.ie/policies/covid-19-response-plan/",
+      "label": "Covid 19 Response Plan",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://acetns.ie/policies/code-of-discipline/",
+      "label": "Code of discipline",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://acetns.ie/policies/child-safeguarding-statement-and-risk-assessment/",
+      "label": "Child Safeguarding Statement and Risk Assessment",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://acetns.ie/policies/admissions/",
+      "label": "Enrollment policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://acetns.ie/policies/",
+      "label": "Policies",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://acetns.ie/parents-corner/",
+      "label": "Parents Corner",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://acetns.ie/enrolment-3/",
+      "label": "Admissions/policy URL from public sitemap",
+      "via": "prior_public_admissions_landing"
+    },
+    {
+      "url": "https://acetns.ie/",
+      "label": "School homepage",
+      "via": "home"
+    },
+    {
+      "url": "https://acetns.ie/policies/individual-education-plan-policy/",
+      "label": "Individual Education Plan Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://acetns.ie/policies/healthy-eating-policy/",
+      "label": "Acceptable Usage Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://acetns.ie/policies/communication-policy/",
+      "label": "Communication Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://acetns.ie/policies/anti-bullying-policy/",
+      "label": "Bí Cinéalta (Anti- Bullying) Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 66.24,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:36:02+0000"
+}

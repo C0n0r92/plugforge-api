@@ -1,0 +1,408 @@
+{
+  "roll": "14463T",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.stcolumbasns.com/news-and-events/news/junior-infants-enrolment---9th-november/?googletranslate=true",
+      "final_url": "https://www.stcolumbasns.com/news-and-events/news/junior-infants-enrolment---9th-november/?googletranslate=true",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "https://www.stcolumbasns.com/news-and-events/news/junior-infants-enrolment---9th-november/",
+      "final_url": "https://www.stcolumbasns.com/news-and-events/news/junior-infants-enrolment---9th-november/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Junior Infants Enrolment - 9th November"
+    },
+    {
+      "url": "https://www.stcolumbasns.com/enrolment/?googletranslate=true",
+      "final_url": "https://www.stcolumbasns.com/enrolment/?googletranslate=true",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "https://www.stcolumbasns.com/documentlink/79/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/987/docletter/20261007015833_72_Annual_Admissions_Notice_for_2027.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Annual Admission Notice for 2027.pdf"
+    },
+    {
+      "url": "https://www.stcolumbasns.com/enrolment/",
+      "final_url": "https://www.stcolumbasns.com/enrolment/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Enrolment"
+    },
+    {
+      "url": "https://www.stcolumbasns.com/documentlink/60/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/987/docletter/20251218023637_39_NIE-Form-V.2018.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Notification of Intention to Apply to Enrol (NIE)"
+    },
+    {
+      "url": "https://www.stcolumbasns.com/admin/?open=/news-and-events/news/junior-infants-enrolment---9th-november/?googletranslate=true",
+      "final_url": "https://www.stcolumbasns.com/admin/?open=/news-and-events/news/junior-infants-enrolment---9th-november/?googletranslate=true",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.stcolumbasns.com/admin/?open=/news-and-events/news/junior-infants-enrolment---9th-november/",
+      "final_url": "https://www.stcolumbasns.com/admin/?open=/news-and-events/news/junior-infants-enrolment---9th-november/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.stcolumbasns.com/admin/?open=/enrolment/?googletranslate=true",
+      "final_url": "https://www.stcolumbasns.com/admin/?open=/enrolment/?googletranslate=true",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.stcolumbasns.com/admin/?open=/enrolment/",
+      "final_url": "https://www.stcolumbasns.com/admin/?open=/enrolment/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://peterpanchildcare.com/enrollment/enrollment-dublin-3",
+      "final_url": "https://peterpanchildcare.com/enrollment/enrollment-dublin-3",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "here"
+    },
+    {
+      "url": "https://peterpanchildcare.com/enrollment",
+      "final_url": "https://peterpanchildcare.com/enrollment",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "OUR CENTRES"
+    },
+    {
+      "url": "https://peterpanchildcare.com/images/enrollment/policy-website.pdf",
+      "final_url": "https://peterpanchildcare.com/images/enrollment/policy-website.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Complaints"
+    },
+    {
+      "url": "https://peterpanchildcare.com/images/enrollment/policy-website-3.pdf",
+      "final_url": "https://peterpanchildcare.com/images/enrollment/policy-website-3.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Drop-off & Collection"
+    },
+    {
+      "url": "https://peterpanchildcare.com/images/enrollment/policy-website-2.pdf",
+      "final_url": "https://peterpanchildcare.com/images/enrollment/policy-website-2.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Behaviour Management"
+    },
+    {
+      "url": "https://www.stcolumbasns.com/documentlink/55/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/987/docletter/20251218022856_18_Admissions-Policy-2026-2027_1_.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "St. Columba’s NS Admission Policy 2026"
+    },
+    {
+      "url": "https://www.stcolumbasns.com/documentlink/83/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/987/docletter/20261020111932_95_Admissions_Policy_for_2027.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Admission Policy for 2027.pdf"
+    },
+    {
+      "url": "https://www.stcolumbasns.com/documentlink/82/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/987/docletter/20261020111901_94_Enrolment_Application_form_for_2027.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Enrolment Application form for 2027.pdf"
+    },
+    {
+      "url": "https://www.stcolumbasns.com/sitemap.xml",
+      "final_url": "https://www.stcolumbasns.com/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.stcolumbasns.com/our-school/policies/",
+      "final_url": "https://www.stcolumbasns.com/our-school/policies/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.stcolumbasns.com/our-school/policies/?googletranslate=true",
+      "final_url": "https://www.stcolumbasns.com/our-school/policies/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stcolumbasns.com/for-parents/the-school-day/",
+      "final_url": "https://www.stcolumbasns.com/for-parents/the-school-day/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "The School Day"
+    },
+    {
+      "url": "https://www.stcolumbasns.com/for-parents/the-school-day/?googletranslate=true",
+      "final_url": "https://www.stcolumbasns.com/for-parents/the-school-day/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stcolumbasns.com/for-parents/school-activities/student-council-792/",
+      "final_url": "https://www.stcolumbasns.com/for-parents/school-activities/student-council-792/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Student Council"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "14463T",
+      "url": "https://www.stcolumbasns.com/enrolment/?googletranslate=true",
+      "label": "",
+      "sha256": "4937051db9e7648c753220fce4d788d60d142fb3f8021020e5f34d05131f2ac5",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/14463T_4937051db9e7648c7532.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 2015
+    },
+    {
+      "roll": "14463T",
+      "url": "https://www.stcolumbasns.com/enrolment/",
+      "label": "Enrolment",
+      "sha256": "5f5528f3e6adc7b85df39f37bd6970824d4b1f475a71bb6195881fb48e7e45a6",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/14463T_5f5528f3e6adc7b85df3.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 2015
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.stcolumbasns.com/for-parents/school-activities/student-council-792/?googletranslate=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stcolumbasns.com/for-parents/school-activities/sport/",
+      "label": "Sport",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stcolumbasns.com/for-parents/school-activities/music-ukulele/",
+      "label": "Music (Ukulele)",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stcolumbasns.com/for-parents/school-activities/green-schools/",
+      "label": "Green Schools",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stcolumbasns.com/for-parents/school-activities/gaelbhratach/",
+      "label": "Gaelbhratach",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stcolumbasns.com/for-parents/school-activities/",
+      "label": "School Activities",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stcolumbasns.com/for-parents/pta/",
+      "label": "PTA",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stcolumbasns.com/for-parents/peter-pan-afterschool-service/",
+      "label": "Peter Pan Afterschool Service",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stcolumbasns.com/for-parents/irishgaeilge-for-parents/",
+      "label": "Irish/Gaeilge for parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stcolumbasns.com/for-parents/hot-lunches/",
+      "label": "Hot Lunches",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stcolumbasns.com/for-parents/calendar-465/",
+      "label": "Calendar",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stcolumbasns.com/for-parents/booklists/",
+      "label": "Booklists",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stcolumbasns.com/for-parents/",
+      "label": "For Parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stcolumbasns.com/documentlink/93/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stcolumbasns.com/documentlink/92/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stcolumbasns.com/documentlink/89/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stcolumbasns.com/documentlink/88/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stcolumbasns.com/documentlink/87/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stcolumbasns.com/documentlink/86/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stcolumbasns.com/documentlink/85/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stcolumbasns.com/documentlink/84/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stcolumbasns.com/documentlink/83/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stcolumbasns.com/documentlink/82/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stcolumbasns.com/documentlink/79/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stcolumbasns.com/documentlink/60/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stcolumbasns.com/documentlink/55/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stcolumbasns.com/documentlink/54/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stcolumbasns.com/documentlink/53/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stcolumbasns.com/documentlink/44/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stcolumbasns.com/admin/?open=/our-school/policies/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stcolumbasns.com/admin/?open=/our-school/policies/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stcolumbasns.com/admin/?open=/for-parents/the-school-day/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stcolumbasns.com/admin/?open=/for-parents/the-school-day/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stcolumbasns.com/admin/?open=/for-parents/school-activities/student-council-792/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stcolumbasns.com",
+      "label": "School homepage",
+      "via": "home"
+    },
+    {
+      "url": "https://peterpanchildcare.com/sitemap.xml",
+      "label": "Public sitemap",
+      "via": "sitemap_root"
+    },
+    {
+      "url": "https://www.stcolumbasns.com/documentlink/92/?open=true",
+      "label": "Child Protection Policy Sept2026",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stcolumbasns.com/documentlink/85/?open=true",
+      "label": "Bí Cineálta policy to prevent and address bullying behaviour Sept2026",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stcolumbasns.com/documentlink/93/?open=true",
+      "label": "School Attendance Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stcolumbasns.com/cmsfiles/policies/privacy/",
+      "label": "Website Privacy Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stcolumbasns.com/cmsfiles/policies/cookie/",
+      "label": "Cookie Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 61.41,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:01:58+0000"
+}

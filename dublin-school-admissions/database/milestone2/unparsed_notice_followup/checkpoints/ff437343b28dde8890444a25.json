@@ -1,0 +1,36 @@
+{
+  "roll": "19556F",
+  "url": "https://www.stkiliansjns.ie/assets/uploads/Autism-Class-Enrolment-2027-28.pdf",
+  "prior_sha256": "81eb6b962e5c508c84aaec2774ab492a6ba7fda1c4ea83ebce58ad4e8a263bb3",
+  "prior_status": "ok",
+  "prior_attempted_at": "2026-11-08T12:55:30+0000",
+  "started_at": "2026-11-08T13:29:48+0000",
+  "method": "recheck_prior_success_unparsed_notice_with_actual_OCR_if_needed",
+  "documents": [
+    {
+      "roll": "19556F",
+      "url": "https://www.stkiliansjns.ie/assets/uploads/Autism-Class-Enrolment-2027-28.pdf",
+      "sha256": "81eb6b962e5c508c84aaec2774ab492a6ba7fda1c4ea83ebce58ad4e8a263bb3",
+      "format": "pdf",
+      "source_file": "database/milestone2/unparsed_notice_followup/cache/81eb6b962e5c508c84aaec2774ab492a6ba7fda1c4ea83ebce58ad4e8a263bb3.pdf",
+      "text_file": "database/milestone2/unparsed_notice_followup/evidence/19556F_81eb6b962e5c508c84aa.txt",
+      "candidate_status": "actual_body_requires_manual_review",
+      "ocr": false,
+      "retrieved_at": "2026-11-08T13:29:50+0000"
+    }
+  ],
+  "attempts": [
+    {
+      "url": "https://www.stkiliansjns.ie/assets/uploads/Autism-Class-Enrolment-2027-28.pdf",
+      "final_url": "https://www.stkiliansjns.ie/assets/uploads/Autism-Class-Enrolment-2027-28.pdf",
+      "status": "ok"
+    }
+  ],
+  "status": "body_retrieved_requires_manual_review",
+  "sha256": "81eb6b962e5c508c84aaec2774ab492a6ba7fda1c4ea83ebce58ad4e8a263bb3",
+  "same_payload_as_prior_success": true,
+  "format": "pdf",
+  "parse_stderr": "",
+  "text_length": 4778,
+  "elapsed_seconds": 1.3
+}

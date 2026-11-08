@@ -1,0 +1,630 @@
+{
+  "roll": "20176C",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.ralet.ie/admissions/annual-admissions-notice/?googletranslate=true",
+      "final_url": "https://www.ralet.ie/admissions/annual-admissions-notice/?googletranslate=true",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "https://www.ralet.ie/documentlink/182/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/821/docletter/20260930041840_4_RaLET_Annual_Admissions_Notice_for_2027_2028.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "RaLET Annual Admissions Notice for 2027 2028.pdf"
+    },
+    {
+      "url": "https://www.ralet.ie/admissions/annual-admissions-notice/",
+      "final_url": "https://www.ralet.ie/admissions/annual-admissions-notice/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Annual Admissions Notice"
+    },
+    {
+      "url": "https://www.ralet.ie/admin/?open=/admissions/annual-admissions-notice/?googletranslate=true",
+      "final_url": "https://www.ralet.ie/admin/?open=/admissions/annual-admissions-notice/?googletranslate=true",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.ralet.ie/admin/?open=/admissions/annual-admissions-notice/",
+      "final_url": "https://www.ralet.ie/admin/?open=/admissions/annual-admissions-notice/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.ralet.ie/admissions/special-classes-for-children-with-autism-form/?googletranslate=true",
+      "final_url": "https://www.ralet.ie/admissions/special-classes-for-children-with-autism-form/?googletranslate=true",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "https://www.ralet.ie/admissions/special-classes-for-children-with-autism-form/",
+      "final_url": "https://www.ralet.ie/admissions/special-classes-for-children-with-autism-form/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Special Classes for Children with Autism Form"
+    },
+    {
+      "url": "https://www.ralet.ie/admissions/admissions-form/?googletranslate=true",
+      "final_url": "https://www.ralet.ie/admissions/admissions-form/?googletranslate=true",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "https://www.ralet.ie/admissions/admissions-form/",
+      "final_url": "https://www.ralet.ie/admissions/admissions-form/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions Form"
+    },
+    {
+      "url": "https://www.ralet.ie/admissions/?googletranslate=true",
+      "final_url": "https://www.ralet.ie/admissions/?googletranslate=true",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "https://www.ralet.ie/admissions/",
+      "final_url": "https://www.ralet.ie/admissions/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions Iontrála"
+    },
+    {
+      "url": "https://www.ralet.ie/admin/?open=/admissions/special-classes-for-children-with-autism-form/?googletranslate=true",
+      "final_url": "https://www.ralet.ie/admin/?open=/admissions/special-classes-for-children-with-autism-form/?googletranslate=true",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.ralet.ie/admin/?open=/admissions/special-classes-for-children-with-autism-form/",
+      "final_url": "https://www.ralet.ie/admin/?open=/admissions/special-classes-for-children-with-autism-form/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.ralet.ie/admin/?open=/admissions/admissions-form/?googletranslate=true",
+      "final_url": "https://www.ralet.ie/admin/?open=/admissions/admissions-form/?googletranslate=true",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.ralet.ie/admin/?open=/admissions/admissions-form/",
+      "final_url": "https://www.ralet.ie/admin/?open=/admissions/admissions-form/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.ralet.ie/admin/?open=/admissions/?googletranslate=true",
+      "final_url": "https://www.ralet.ie/admin/?open=/admissions/?googletranslate=true",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.ralet.ie/admin/?open=/admissions/",
+      "final_url": "https://www.ralet.ie/admin/?open=/admissions/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.ralet.ie/sitemap.xml",
+      "final_url": "https://www.ralet.ie/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.ralet.ie/policies/",
+      "final_url": "https://www.ralet.ie/policies/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies Polasaithe"
+    },
+    {
+      "url": "https://www.ralet.ie/documentlink/40/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/821/docletter/20231023101518_97_Rush-Lusk-ETNS-Admissions-Policy-January-2023.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Rush & Lusk ETNS Admissions Policy January 2023"
+    },
+    {
+      "url": "https://www.ralet.ie/policies/?googletranslate=true",
+      "final_url": "https://www.ralet.ie/policies/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.ralet.ie/parents-/transition-to-secondary-school-/",
+      "final_url": "https://www.ralet.ie/parents-/transition-to-secondary-school-/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Transition to Secondary School"
+    },
+    {
+      "url": "https://www.ralet.ie/parents-/transition-to-secondary-school-/?googletranslate=true",
+      "final_url": "https://www.ralet.ie/parents-/transition-to-secondary-school-/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.ralet.ie/parents-/reading-tips/",
+      "final_url": "https://www.ralet.ie/parents-/reading-tips/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Reading Tips"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "20176C",
+      "url": "https://www.ralet.ie/admissions/annual-admissions-notice/?googletranslate=true",
+      "label": "",
+      "sha256": "c5710feed0daaad80fff6b496580d67276839ef914455e4c31575429b0cfcb9a",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20176C_c5710feed0daaad80fff.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 78
+    },
+    {
+      "roll": "20176C",
+      "url": "https://www.ralet.ie/admissions/annual-admissions-notice/",
+      "label": "Annual Admissions Notice",
+      "sha256": "9b83c79f6a11ff769665ed82ad7ac015203c9a0ddea79a63eefaab85abcb4cef",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20176C_9b83c79f6a11ff769665.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 78
+    },
+    {
+      "roll": "20176C",
+      "url": "https://www.ralet.ie/admissions/?googletranslate=true",
+      "label": "",
+      "sha256": "541d5ec839fa6dabc56733bfaed04567521be5f833368bb0d106872e131ae86e",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20176C_541d5ec839fa6dabc567.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 104
+    },
+    {
+      "roll": "20176C",
+      "url": "https://www.ralet.ie/admissions/",
+      "label": "Admissions Iontrála",
+      "sha256": "d3d0b7ff7f17ccd9ac110c422e4e10df4c9e8569122ae64de9eeeed02797ff56",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20176C_d3d0b7ff7f17ccd9ac11.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 104
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.ralet.ie/parents-/reading-tips/?googletranslate=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ralet.ie/parents-/pgta/",
+      "label": "PGTA",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ralet.ie/parents-/parentsguardiansteachers-association/",
+      "label": "Parents/Guardians/Teachers Association",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ralet.ie/parents-/nrrp/",
+      "label": "NRRP",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ralet.ie/parents-/new-primary-curriculum-framework-/",
+      "label": "New Primary Curriculum Framework",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ralet.ie/parents-/new-maths-curriculum-/",
+      "label": "New Maths Curriculum",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ralet.ie/parents-/introductory-booklet-for-parentsguardians/",
+      "label": "Introductory Booklet for Parents/Guardians",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ralet.ie/parents-/internet-safety/",
+      "label": "Internet Safety",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ralet.ie/parents-/healthy-lunch/",
+      "label": "Healthy Lunch",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ralet.ie/parents-/general-tips/",
+      "label": "General Information",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ralet.ie/parents-/general-tips-for-parents/",
+      "label": "General Tips for Parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ralet.ie/parents-/english-as-an-addtional-language/",
+      "label": "English as an Addtional Language",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ralet.ie/parents-/communications/",
+      "label": "Communications",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ralet.ie/parents-/calendar/",
+      "label": "Calendar",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ralet.ie/parents-/a-guide-to-aistear/",
+      "label": "A Guide to Aistear",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ralet.ie/parents-/",
+      "label": "Parents Tuismitheoirí",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ralet.ie/documentlink/98/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ralet.ie/documentlink/94/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ralet.ie/documentlink/90/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ralet.ie/documentlink/84/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ralet.ie/documentlink/80/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ralet.ie/documentlink/77/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ralet.ie/documentlink/74/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ralet.ie/documentlink/73/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ralet.ie/documentlink/72/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ralet.ie/documentlink/72/?open=true",
+      "label": "Parental Complaints Procedure",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ralet.ie/documentlink/47/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ralet.ie/documentlink/46/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ralet.ie/documentlink/45/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ralet.ie/documentlink/41/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ralet.ie/documentlink/40/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ralet.ie/documentlink/39/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ralet.ie/documentlink/36/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ralet.ie/documentlink/35/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ralet.ie/documentlink/33/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ralet.ie/documentlink/32/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ralet.ie/documentlink/28/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ralet.ie/documentlink/27/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ralet.ie/documentlink/24/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ralet.ie/documentlink/23/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ralet.ie/documentlink/20/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ralet.ie/documentlink/182/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ralet.ie/documentlink/153/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ralet.ie/documentlink/150/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ralet.ie/documentlink/150/?open=true",
+      "label": "Transition to Secondary School-Guide for Parents.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ralet.ie/documentlink/12/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ralet.ie/documentlink/11/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ralet.ie/documentlink/102/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ralet.ie/documentlink/10/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ralet.ie/admissions/admissions-policy/?googletranslate=true",
+      "label": "",
+      "via": "prior_public_admissions_landing"
+    },
+    {
+      "url": "https://www.ralet.ie/admissions/admissions-policy/",
+      "label": "Admissions Policy",
+      "via": "prior_public_admissions_landing"
+    },
+    {
+      "url": "https://www.ralet.ie/admin/?open=/policies/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ralet.ie/admin/?open=/policies/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ralet.ie/admin/?open=/parents-/transition-to-secondary-school-/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ralet.ie/admin/?open=/parents-/transition-to-secondary-school-/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ralet.ie/admin/?open=/parents-/reading-tips/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ralet.ie",
+      "label": "School homepage",
+      "via": "home"
+    },
+    {
+      "url": "https://www.ralet.ie/documentlink/36/?open=true",
+      "label": "Attendance & Absence Policy (April 2021)",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ralet.ie/documentlink/41/?open=true",
+      "label": "Intimate Care Policy October 2023.docx.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ralet.ie/documentlink/24/?open=true",
+      "label": "Healthy Eating Policy 2023",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ralet.ie/documentlink/20/?open=true",
+      "label": "Learn Together Policy 2023",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ralet.ie/documentlink/84/?open=true",
+      "label": "RSE Policy 2024.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ralet.ie/documentlink/77/?open=true",
+      "label": "Parental Involvement Policy 2024.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ralet.ie/documentlink/73/?open=true",
+      "label": "Critical Incident Management Policy January 2024 .pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ralet.ie/documentlink/98/?open=true",
+      "label": "Internet Acceptable Use Policy 2025.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ralet.ie/documentlink/94/?open=true",
+      "label": "ICT Policy 2025.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ralet.ie/documentlink/90/?open=true",
+      "label": "Communications Policy 2025.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ralet.ie/documentlink/102/?open=true",
+      "label": "B Cine lta Policy September 2025.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ralet.ie/documentlink/153/?open=true",
+      "label": "Safety Health and Welfare Policy 2026.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ralet.ie/documentlink/80/?open=true",
+      "label": "Equality Policy.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ralet.ie/documentlink/74/?open=true",
+      "label": "Managing Health Conditions and Administration of Medicines Policy.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ralet.ie/documentlink/39/?open=true",
+      "label": "Anti-Bullying Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ralet.ie/documentlink/32/?open=true",
+      "label": "Behaviours of Concern (Addendum to Code of Behaviour Policy)",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ralet.ie/documentlink/28/?open=true",
+      "label": "Data Protection Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ralet.ie/documentlink/27/?open=true",
+      "label": "Distance Learning Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ralet.ie/documentlink/23/?open=true",
+      "label": "Homework Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ralet.ie/documentlink/12/?open=true",
+      "label": "Separation and Custody Policy April 12",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ralet.ie/documentlink/11/?open=true",
+      "label": "Special Education Needs Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ralet.ie/documentlink/10/?open=true",
+      "label": "Substance Use Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ralet.ie/cmsfiles/policies/privacy/",
+      "label": "Website Privacy Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ralet.ie/cmsfiles/policies/cookie/",
+      "label": "Cookie Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 49.24,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:10:54+0000"
+}

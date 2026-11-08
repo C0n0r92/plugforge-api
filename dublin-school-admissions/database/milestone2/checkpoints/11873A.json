@@ -1,0 +1,175 @@
+{
+  "roll": "11873A",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://rathmichaelschool.com/wp-content/uploads/2026/10/admissions-2027.jpg",
+      "final_url": "https://rathmichaelschool.com/wp-content/uploads/2026/10/admissions-2027.jpg",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "admissions-2027"
+    },
+    {
+      "url": "https://rathmichaelschool.com/admission/",
+      "final_url": "https://rathmichaelschool.com/admission/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admission"
+    },
+    {
+      "url": "https://rathmichaelschool.com/wp-content/uploads/2026/10/Rathmichael-Parish-National-School-Admissions-2027.pdf",
+      "final_url": "https://rathmichaelschool.com/wp-content/uploads/2026/10/Rathmichael-Parish-National-School-Admissions-2027.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Down Down Click here to Donload"
+    },
+    {
+      "url": "https://rathmichaelschool.com/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://rathmichaelschool.com/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://rathmichaelschool.com/wp-content/uploads/2026/10/Rathmichael-Parish-National-School-2023-Admissions-Policy-7-1.pdf",
+      "final_url": "https://rathmichaelschool.com/wp-content/uploads/2026/10/Rathmichael-Parish-National-School-2023-Admissions-Policy-7-1.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Rathmichael Parish National School 2023 Admissions Policy (7) (1)"
+    },
+    {
+      "url": "https://rathmichaelschool.com/sitemap_index.xml",
+      "final_url": "https://rathmichaelschool.com/sitemap_index.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://rathmichaelschool.com/portfolio_entries-sitemap.xml",
+      "final_url": "https://rathmichaelschool.com/portfolio_entries-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://rathmichaelschool.com/portfolio-sitemap.xml",
+      "final_url": "https://rathmichaelschool.com/portfolio-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://rathmichaelschool.com/parent-teacher-association/",
+      "final_url": "https://rathmichaelschool.com/parent-teacher-association/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parent Teacher Association"
+    },
+    {
+      "url": "https://rathmichaelschool.com/page-sitemap.xml",
+      "final_url": "https://rathmichaelschool.com/page-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://rathmichaelschool.com/key-policies/",
+      "final_url": "https://rathmichaelschool.com/key-policies/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Key Policies"
+    },
+    {
+      "url": "https://rathmichaelschool.com/wp-content/uploads/2026/10/Parental-Complaints-Procedure-Jan-2024.pdf",
+      "final_url": "https://rathmichaelschool.com/wp-content/uploads/2026/10/Parental-Complaints-Procedure-Jan-2024.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Down Down Click here to Donload"
+    },
+    {
+      "url": "https://rathmichaelschool.com/",
+      "final_url": "https://rathmichaelschool.com/",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://rathmichaelschool.com/wp-content/uploads/2026/11/Whatsapp-etiquette-policy.pdf",
+      "final_url": "https://rathmichaelschool.com/wp-content/uploads/2026/11/Whatsapp-etiquette-policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Down Down Click here to Donload"
+    },
+    {
+      "url": "https://rathmichaelschool.com/wp-content/uploads/2026/11/Bi-Cinealta-Policy.pdf",
+      "final_url": "https://rathmichaelschool.com/wp-content/uploads/2026/11/Bi-Cinealta-Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Down Down Click here to Donload"
+    },
+    {
+      "url": "https://rathmichaelschool.com/wp-content/uploads/2026/10/Junior-Infant-Application-Form.pdf",
+      "final_url": "https://rathmichaelschool.com/wp-content/uploads/2026/10/Junior-Infant-Application-Form.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Down Down Click here to Donload"
+    },
+    {
+      "url": "https://rathmichaelschool.com/privacy-policy/",
+      "final_url": "https://rathmichaelschool.com/privacy-policy/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Privacy Policy"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "11873A",
+      "url": "https://rathmichaelschool.com/admission/",
+      "label": "Admission",
+      "sha256": "a7470442f0493a7ac33b22b516a95e213307ba7f05bd2e6bf3be6235ba37511e",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/11873A_a7470442f0493a7ac33b.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 235
+    },
+    {
+      "roll": "11873A",
+      "url": "https://rathmichaelschool.com/wp-content/uploads/2026/10/Rathmichael-Parish-National-School-Admissions-2027.pdf",
+      "label": "Down Down Click here to Donload",
+      "sha256": "07afb04c83dcfc76f804ece320d83fc3993393973825acac8abbdda4ea2f2519",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/11873A_07afb04c83dcfc76f804.txt",
+      "source_file": "database/milestone2/cache/07afb04c83dcfc76f804ece320d83fc3993393973825acac8abbdda4ea2f2519.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 25770
+    },
+    {
+      "roll": "11873A",
+      "url": "https://rathmichaelschool.com/wp-content/uploads/2026/10/Rathmichael-Parish-National-School-2023-Admissions-Policy-7-1.pdf",
+      "label": "Rathmichael Parish National School 2023 Admissions Policy (7) (1)",
+      "sha256": "131a13221424cadddca065e9a781d6c0b71a4a207e4f6f98dc83c7c54f933d3f",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/11873A_131a13221424cadddca0.txt",
+      "source_file": "database/milestone2/cache/131a13221424cadddca065e9a781d6c0b71a4a207e4f6f98dc83c7c54f933d3f.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 25951
+    },
+    {
+      "roll": "11873A",
+      "url": "https://rathmichaelschool.com/wp-content/uploads/2026/10/Junior-Infant-Application-Form.pdf",
+      "label": "Down Down Click here to Donload",
+      "sha256": "aee2360fdbad0d6f36cde8b13474e5b514ce98d58062f1453dd3682a52ebab96",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/11873A_aee2360fdbad0d6f36cd.txt",
+      "source_file": "database/milestone2/cache/aee2360fdbad0d6f36cde8b13474e5b514ce98d58062f1453dd3682a52ebab96.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 3535
+    }
+  ],
+  "pending_links": [],
+  "elapsed_seconds": 56.72,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:49:01+0000"
+}

@@ -1,0 +1,80 @@
+{
+  "roll": "04992R",
+  "original_prefix": "https://www.sacredheartballygall.ie/wp-content/uploads/",
+  "method": "documented_CDX_source_derived_upload_prefix_all_available_dates",
+  "earliest_year_cutoff": null,
+  "attempted_at": "2026-11-08T13:00:43.556710+00:00",
+  "pages": [
+    {
+      "at": "2026-11-08T13:01:14.444035+00:00",
+      "params": {
+        "url": "https://www.sacredheartballygall.ie/wp-content/uploads/",
+        "matchType": "prefix",
+        "output": "json",
+        "fl": "timestamp,original,mimetype,statuscode,digest",
+        "filter": [
+          "statuscode:200",
+          "mimetype:application/pdf",
+          "original:(?i).*(admi|fogra|fógra|iontr|bliant|enrol).*"
+        ],
+        "collapse": "urlkey",
+        "limit": "200",
+        "showResumeKey": "true"
+      },
+      "http_status": 200
+    }
+  ],
+  "captures": [
+    {
+      "timestamp": "20241104045536",
+      "original": "https://www.sacredheartballygall.ie/wp-content/uploads/2020/10/Admission-Policy.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "XRH3BRMWNJXOVW2JRT55QCWOC34EDHPD"
+    },
+    {
+      "timestamp": "20201028182150",
+      "original": "http://www.sacredheartballygall.ie/wp-content/uploads/2020/10/Annual-Admissions-Notice-2122.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "WDVOH3FSOWG727KDQJIUGDUJAYLUNI6T"
+    },
+    {
+      "timestamp": "20201202084620",
+      "original": "http://www.sacredheartballygall.ie/wp-content/uploads/2020/11/Annual-Admissions-Notice-SHBNS-2122.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "F4W65ZMSK54W2J7OVJUDG2O5W2N3RB4D"
+    },
+    {
+      "timestamp": "20241104041816",
+      "original": "https://www.sacredheartballygall.ie/wp-content/uploads/2024/10/Admissions-Notice-2025-2026-School-Year.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "IEPWXJNFPUBCQ324R6NIC2ANGI5GXHRJ"
+    },
+    {
+      "timestamp": "20250525020958",
+      "original": "https://www.sacredheartballygall.ie/wp-content/uploads/2025/05/Admissions-Notice.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "NP4HYAKNB57LXDGFQR5RPAFUZ4AR7IXA"
+    },
+    {
+      "timestamp": "20250723181509",
+      "original": "https://www.sacredheartballygall.ie/wp-content/uploads/2025/07/Admissions-Policy-2025.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "6A5LJWB73O42WWCFWPO6W2NWZT42P4YB"
+    },
+    {
+      "timestamp": "20260420064633",
+      "original": "https://www.sacredheartballygall.ie/wp-content/uploads/2025/09/Admissions-Notice-2026-2027-School-Year.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "4C6MSBEXP4ITO7SF6VDQHYQZN3SR4524"
+    }
+  ],
+  "status": "index_complete",
+  "capture_count": 7
+}

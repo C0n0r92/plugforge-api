@@ -1,0 +1,46 @@
+{
+  "roll": "20252P",
+  "status": "bounded_search_no_new_notice_found",
+  "attempts": [
+    {
+      "url": "https://www.gsbhailebrigin.ie/enrolment",
+      "final_url": "https://www.gsbhailebrigin.ie/enrolment",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Tuilleadh eolais"
+    },
+    {
+      "url": "https://www.gsbhailebrigin.ie/sitemap.xml",
+      "final_url": "https://www.gsbhailebrigin.ie/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.gsbhailebrigin.ie",
+      "final_url": "https://www.gsbhailebrigin.ie",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://gsbhailebrigin.ie/enrolment",
+      "final_url": "https://gsbhailebrigin.ie/enrolment",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions/policy URL from public sitemap"
+    },
+    {
+      "url": "https://gsbhailebrigin.ie/sitemap.xml",
+      "final_url": "https://gsbhailebrigin.ie/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    }
+  ],
+  "documents": [],
+  "pending_links": [],
+  "elapsed_seconds": 15.68,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:10:54+0000"
+}

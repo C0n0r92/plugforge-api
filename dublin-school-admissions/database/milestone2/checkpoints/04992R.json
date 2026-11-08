@@ -1,0 +1,270 @@
+{
+  "roll": "04992R",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.sacredheartballygall.ie/wp-content/uploads/2020/09/Admission-Policy-of-Sacred-Heart-Boys-National-School.docx",
+      "final_url": "https://www.sacredheartballygall.ie/wp-content/uploads/2020/09/Admission-Policy-of-Sacred-Heart-Boys-National-School.docx",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://www.sacredheartballygall.ie/enrolment/",
+      "final_url": "https://www.sacredheartballygall.ie/enrolment/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Enrolment Form"
+    },
+    {
+      "url": "https://www.sacredheartballygall.ie/wp-content/uploads/2020/11/SacredHeart_blank_registration_form.pdf",
+      "final_url": "https://www.sacredheartballygall.ie/wp-content/uploads/2020/11/SacredHeart_blank_registration_form.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "enrolment form here"
+    },
+    {
+      "url": "https://www.sacredheartballygall.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://www.sacredheartballygall.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://www.sacredheartballygall.ie/wp-content/uploads/2020/10/Admission-Policy.pdf",
+      "final_url": "https://www.sacredheartballygall.ie/wp-content/uploads/2020/10/Admission-Policy.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admission Policy"
+    },
+    {
+      "url": "https://www.sacredheartballygall.ie/?s=admission",
+      "final_url": "https://www.sacredheartballygall.ie/?s=admission",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Public site search form"
+    },
+    {
+      "url": "https://www.sacredheartballygall.ie/wp-content/uploads/2025/04/UTF-8Admission-Policy-of-Sacred-Heart-Boys-National-School-2024-2.pdf",
+      "final_url": "https://www.sacredheartballygall.ie/wp-content/uploads/2025/04/UTF-8Admission-Policy-of-Sacred-Heart-Boys-National-School-2024-2.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admission Policy of Sacred Heart Boys National School 2024"
+    },
+    {
+      "url": "https://www.sacredheartballygall.ie/wp-content/uploads/2025/07/Admissions-Policy-2025.pdf",
+      "final_url": "https://www.sacredheartballygall.ie/wp-content/uploads/2025/07/Admissions-Policy-2025.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Policy 2025"
+    },
+    {
+      "url": "https://www.sacredheartballygall.ie/wp-content/uploads/2026/06/admission_policy_2026.pdf",
+      "final_url": "https://www.sacredheartballygall.ie/wp-content/uploads/2026/06/admission_policy_2026.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "admission_policy_2026"
+    },
+    {
+      "url": "https://www.sacredheartballygall.ie/wp-sitemap.xml",
+      "final_url": "https://www.sacredheartballygall.ie/wp-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.sacredheartballygall.ie/wp-sitemap-posts-page-1.xml",
+      "final_url": "https://www.sacredheartballygall.ie/wp-sitemap-posts-page-1.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.sacredheartballygall.ie/enrolment/thank-you/",
+      "final_url": "https://www.sacredheartballygall.ie/enrolment/thank-you/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions/policy URL from public sitemap"
+    },
+    {
+      "url": "https://www.sacredheartballygall.ie/documents-and-policies/",
+      "final_url": "https://www.sacredheartballygall.ie/documents-and-policies/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Documents & Policies"
+    },
+    {
+      "url": "https://www.sacredheartballygall.ie/wp-content/uploads/2024/07/Parents-and-the-Curriculum.docx",
+      "final_url": "https://www.sacredheartballygall.ie/wp-content/uploads/2024/07/Parents-and-the-Curriculum.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents and the Curriculum"
+    },
+    {
+      "url": "https://www.sacredheartballygall.ie/about/parent-association/",
+      "final_url": "https://www.sacredheartballygall.ie/about/parent-association/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parent Association"
+    },
+    {
+      "url": "https://www.sacredheartballygall.ie",
+      "final_url": "https://www.sacredheartballygall.ie",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.sacredheartballygall.ie/wp-content/uploads/2024/07/Substance-Use-Policy-2022-FINAL.docx",
+      "final_url": "https://www.sacredheartballygall.ie/wp-content/uploads/2024/07/Substance-Use-Policy-2022-FINAL.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Multicultural Policy Statement"
+    },
+    {
+      "url": "https://www.sacredheartballygall.ie/wp-content/uploads/2022/06/Parent-Staff-Communication-Policy.pdf",
+      "final_url": "https://www.sacredheartballygall.ie/wp-content/uploads/2022/06/Parent-Staff-Communication-Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parent Staff Communication Policy"
+    },
+    {
+      "url": "https://www.sacredheartballygall.ie/wp-content/uploads/2022/06/Child-Protection-Policy-2022.pdf",
+      "final_url": "https://www.sacredheartballygall.ie/wp-content/uploads/2022/06/Child-Protection-Policy-2022.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Child Protection Policy"
+    },
+    {
+      "url": "https://www.sacredheartballygall.ie/wp-content/uploads/2023/02/Code-of-Behaviour-2023.pdf",
+      "final_url": "https://www.sacredheartballygall.ie/wp-content/uploads/2023/02/Code-of-Behaviour-2023.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Code of Behaviour Policy"
+    },
+    {
+      "url": "https://www.sacredheartballygall.ie/wp-content/uploads/2024/07/Visitors-Policy.docx",
+      "final_url": "https://www.sacredheartballygall.ie/wp-content/uploads/2024/07/Visitors-Policy.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Tours/Excursions Policy"
+    },
+    {
+      "url": "https://www.sacredheartballygall.ie/wp-content/uploads/2024/07/TY-Work-Experience-Policy.docx",
+      "final_url": "https://www.sacredheartballygall.ie/wp-content/uploads/2024/07/TY-Work-Experience-Policy.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "TY Work Experience Policy"
+    },
+    {
+      "url": "https://www.sacredheartballygall.ie/wp-content/uploads/2024/07/Protected-Disclosures-Whistleblowers-Policy.docx",
+      "final_url": "https://www.sacredheartballygall.ie/wp-content/uploads/2024/07/Protected-Disclosures-Whistleblowers-Policy.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Protected Disclosures (Whistleblowers) Policy"
+    },
+    {
+      "url": "https://www.sacredheartballygall.ie/wp-content/uploads/2024/07/Homework-.docx",
+      "final_url": "https://www.sacredheartballygall.ie/wp-content/uploads/2024/07/Homework-.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Homework Policy"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "04992R",
+      "url": "https://www.sacredheartballygall.ie/wp-content/uploads/2020/09/Admission-Policy-of-Sacred-Heart-Boys-National-School.docx",
+      "label": "Prior school admissions section",
+      "sha256": "761dd0692f0e24cd6832b065138fd489e75a984dc160ccf13ff2cfdae9803d5a",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/04992R_761dd0692f0e24cd6832.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 21614
+    },
+    {
+      "roll": "04992R",
+      "url": "https://www.sacredheartballygall.ie/enrolment/",
+      "label": "Enrolment Form",
+      "sha256": "05766c278a43e457f50af103a2b36d572509c3a8cd6646a98eb1a7a551b8651c",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/04992R_05766c278a43e457f50a.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 335
+    },
+    {
+      "roll": "04992R",
+      "url": "https://www.sacredheartballygall.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "label": "Oldest public admission media (all dates)",
+      "sha256": "6673a30413a5e4882d4b127568013d0b0c0a9603235e1d7a695426e3e0bd7a15",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/04992R_6673a30413a5e4882d4b.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 4159
+    },
+    {
+      "roll": "04992R",
+      "url": "https://www.sacredheartballygall.ie/wp-content/uploads/2025/04/UTF-8Admission-Policy-of-Sacred-Heart-Boys-National-School-2024-2.pdf",
+      "label": "Admission Policy of Sacred Heart Boys National School 2024",
+      "sha256": "3894ad97309d92efa68032bc3cf5d3d05ba7b375c80c7bcef0d36e9edb33ba2e",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/04992R_3894ad97309d92efa680.txt",
+      "source_file": "database/milestone2/cache/3894ad97309d92efa68032bc3cf5d3d05ba7b375c80c7bcef0d36e9edb33ba2e.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 25074
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.sacredheartballygall.ie/wp-content/uploads/2024/07/Assessment.docx",
+      "label": "Assessment Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sacredheartballygall.ie/wp-content/uploads/2024/07/Administration-of-Medicine.docx",
+      "label": "Administration of Medicine Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sacredheartballygall.ie/wp-content/uploads/2024/05/Healthy-Lunches.pdf",
+      "label": "Healthy Lunches Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sacredheartballygall.ie/wp-content/uploads/2025/06/Child-Friendly-Bi-Cinealta-Policy.pdf",
+      "label": "Child Friendly Bi Cinealta Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sacredheartballygall.ie/wp-content/uploads/2025/06/Bi-Cinealta-Policy.pdf",
+      "label": "Bi Cinealta Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sacredheartballygall.ie/wp-content/uploads/2025/02/Data-Protection.pdf",
+      "label": "Data Protection Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sacredheartballygall.ie/wp-content/uploads/2025/02/Acceptable-Use-Policy.pdf",
+      "label": "Acceptable Use of Technology Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sacredheartballygall.ie/privacy-policy/",
+      "label": "Privacy Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sacredheartballygall.ie/cookie-policy/",
+      "label": "Cookie Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 83.8,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:32:50+0000"
+}

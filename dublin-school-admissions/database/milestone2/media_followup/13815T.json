@@ -1,0 +1,111 @@
+{
+  "roll": "13815T",
+  "attempted_at": "2026-11-08T13:01:02+0000",
+  "method": "documented_public_WordPress_media_notice_and_Irish_title_gap_search",
+  "attempts": [
+    {
+      "url": "https://howthroadns.ie/wp-json/wp/v2/media?search=notice&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok"
+    },
+    {
+      "url": "https://howthroadns.ie/wp-json/wp/v2/media?search=f%C3%B3gra&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok"
+    },
+    {
+      "url": "https://howthroadns.ie/wp-content/uploads/2020/10/2021-22-Annual-Admissions-Notice.pdf",
+      "status": "ok",
+      "label": "2021-22 Annual Admissions Notice"
+    },
+    {
+      "url": "https://howthroadns.ie/wp-content/uploads/2021/07/Admissions-notice-for-2022-23-School-Year.pdf",
+      "status": "ok",
+      "label": "Admissions-notice for 2022-23 School Year"
+    },
+    {
+      "url": "https://howthroadns.ie/wp-content/uploads/2022/08/Annual-Admissions-Notice-2023-24.doc.pdf",
+      "status": "ok",
+      "label": "Annual Admissions Notice 2023 &#8211; 24.doc"
+    },
+    {
+      "url": "https://howthroadns.ie/wp-content/uploads/2023/09/Annual-Admission-Notice-2024-25.pdf",
+      "status": "ok",
+      "label": "Annual Admission Notice &#8211; 2024 25"
+    },
+    {
+      "url": "https://howthroadns.ie/wp-content/uploads/2025/09/Annual-Admission-Notice-2026-27-1.pdf",
+      "status": "ok",
+      "label": "Annual Admission Notice 2026 -27 (1)"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "13815T",
+      "url": "https://howthroadns.ie/wp-content/uploads/2020/10/2021-22-Annual-Admissions-Notice.pdf",
+      "label": "2021-22 Annual Admissions Notice",
+      "sha256": "d08bbc5d879b2b29cf1cd431118f1b4ebab1487c6741f29216fa558331a542ca",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/13815T_d08bbc5d879b2b29cf1c.txt",
+      "source_file": "database/milestone2/cache/d08bbc5d879b2b29cf1cd431118f1b4ebab1487c6741f29216fa558331a542ca.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 4593,
+      "discovery_method": "documented_WP_notice_or_Irish_title_media_query",
+      "cms_media_date_as_printed_not_publication": "2020-10-30T11:46:14"
+    },
+    {
+      "roll": "13815T",
+      "url": "https://howthroadns.ie/wp-content/uploads/2021/07/Admissions-notice-for-2022-23-School-Year.pdf",
+      "label": "Admissions-notice for 2022-23 School Year",
+      "sha256": "e3676342b169d5121d68aef69242f6981c6c3e973b06aab1272cbfa6c7f08be3",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/13815T_e3676342b169d5121d68.txt",
+      "source_file": "database/milestone2/cache/e3676342b169d5121d68aef69242f6981c6c3e973b06aab1272cbfa6c7f08be3.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 4214,
+      "discovery_method": "documented_WP_notice_or_Irish_title_media_query",
+      "cms_media_date_as_printed_not_publication": "2021-07-13T13:41:33"
+    },
+    {
+      "roll": "13815T",
+      "url": "https://howthroadns.ie/wp-content/uploads/2022/08/Annual-Admissions-Notice-2023-24.doc.pdf",
+      "label": "Annual Admissions Notice 2023 &#8211; 24.doc",
+      "sha256": "9c7471660ce9718ca3499d9034ef02bbf24a2cb49694b5e8fd70b79d3d8198a9",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/13815T_9c7471660ce9718ca349.txt",
+      "source_file": "database/milestone2/cache/9c7471660ce9718ca3499d9034ef02bbf24a2cb49694b5e8fd70b79d3d8198a9.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 4268,
+      "discovery_method": "documented_WP_notice_or_Irish_title_media_query",
+      "cms_media_date_as_printed_not_publication": "2022-08-03T14:57:39"
+    },
+    {
+      "roll": "13815T",
+      "url": "https://howthroadns.ie/wp-content/uploads/2023/09/Annual-Admission-Notice-2024-25.pdf",
+      "label": "Annual Admission Notice &#8211; 2024 25",
+      "sha256": "c7990f2dca99dd33f1a12ab5418fedd54cb421207ef686b67aaacc89498f944e",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/13815T_c7990f2dca99dd33f1a1.txt",
+      "source_file": "database/milestone2/cache/c7990f2dca99dd33f1a12ab5418fedd54cb421207ef686b67aaacc89498f944e.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 4425,
+      "discovery_method": "documented_WP_notice_or_Irish_title_media_query",
+      "cms_media_date_as_printed_not_publication": "2023-09-26T12:47:39"
+    },
+    {
+      "roll": "13815T",
+      "url": "https://howthroadns.ie/wp-content/uploads/2025/09/Annual-Admission-Notice-2026-27-1.pdf",
+      "label": "Annual Admission Notice 2026 -27 (1)",
+      "sha256": "e63166b2a7e41e5a00c2d213598dd907dd209aebf646a5a3bbc44f4305336f0d",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/13815T_e63166b2a7e41e5a00c2.txt",
+      "source_file": "database/milestone2/cache/e63166b2a7e41e5a00c2d213598dd907dd209aebf646a5a3bbc44f4305336f0d.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 4434,
+      "discovery_method": "documented_WP_notice_or_Irish_title_media_query",
+      "cms_media_date_as_printed_not_publication": "2025-09-02T11:12:14"
+    }
+  ],
+  "pending_links": [],
+  "earliest_year_cutoff": null,
+  "status": "attempted_new_historical_notice_candidates",
+  "elapsed_seconds": 20.6
+}

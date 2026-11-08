@@ -1,0 +1,324 @@
+{
+  "roll": "18671A",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.stmichaelsgrosvenor.ie/pages/admissions.php",
+      "final_url": "https://www.stmichaelsgrosvenor.ie/pages/admissions.php",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://www.stmichaelsgrosvenor.ie/pages/enrolmentform.php",
+      "final_url": "https://www.stmichaelsgrosvenor.ie/pages/enrolmentform.php",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Click here for our Online Enrolment Form"
+    },
+    {
+      "url": "https://www.stmichaelsgrosvenor.ie/pages/enrolmentform.php?cookiereset",
+      "final_url": "https://www.stmichaelsgrosvenor.ie/pages/enrolmentform.php",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Reset Cookie Permissions"
+    },
+    {
+      "url": "https://www.stmichaelsgrosvenor.ie/pages/admissions.php?cookiereset",
+      "final_url": "https://www.stmichaelsgrosvenor.ie/pages/admissions.php",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Reset Cookie Permissions"
+    },
+    {
+      "url": "https://plus.google.com/share?url=https%3A%2F%2Fwww.stmichaelsgrosvenor.ie%2Fpages%2Fenrolmentform.php",
+      "final_url": "https://plus.google.com/share?url=https%3A%2F%2Fwww.stmichaelsgrosvenor.ie%2Fpages%2Fenrolmentform.php",
+      "status": "robots_permission_unestablished_http_301",
+      "via": "school_public_link",
+      "label": "GooglePlus"
+    },
+    {
+      "url": "https://plus.google.com/share?url=https%3A%2F%2Fwww.stmichaelsgrosvenor.ie%2Fpages%2Fadmissions.php",
+      "final_url": "https://plus.google.com/share?url=https%3A%2F%2Fwww.stmichaelsgrosvenor.ie%2Fpages%2Fadmissions.php",
+      "status": "robots_permission_unestablished_http_301",
+      "via": "school_public_link",
+      "label": "GooglePlus"
+    },
+    {
+      "url": "https://form.enrolmychild.ie?embed=eQ9AbnchwFm8Z5vRrRb3KgYMzhmBuHOe",
+      "final_url": "https://form.enrolmychild.ie?embed=eQ9AbnchwFm8Z5vRrRb3KgYMzhmBuHOe",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://form.enrolmychild.ie/sitemap.xml",
+      "final_url": "https://form.enrolmychild.ie/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.stmichaelsgrosvenor.ie/media/download_gallery/2025_26/admissionsPolicy.pdf",
+      "final_url": "https://www.stmichaelsgrosvenor.ie/media/download_gallery/2025_26/admissionsPolicy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Click here to view our Admission Policy"
+    },
+    {
+      "url": "https://www.stmichaelsgrosvenor.ie/media/download_gallery/Privacy%20Statement_NoContactForm.pdf",
+      "final_url": "https://www.stmichaelsgrosvenor.ie/media/download_gallery/Privacy%20Statement_NoContactForm.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Privacy Statement"
+    },
+    {
+      "url": "https://www.stmichaelsgrosvenor.ie/sitemap.xml",
+      "final_url": "https://www.stmichaelsgrosvenor.ie/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.stmichaelsgrosvenor.ie/pages/parents.php",
+      "final_url": "https://www.stmichaelsgrosvenor.ie/pages/parents.php",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents"
+    },
+    {
+      "url": "https://www.stmichaelsgrosvenor.ie/media/download_gallery/Financial%20Report%202023-2024.pdf",
+      "final_url": "https://www.stmichaelsgrosvenor.ie/media/download_gallery/Financial%20Report%202023-2024.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Summary Financial Statement for the 2023-2024 school year please click on this link."
+    },
+    {
+      "url": "https://www.stmichaelsgrosvenor.ie/pages/parents.php?cookiereset",
+      "final_url": "https://www.stmichaelsgrosvenor.ie/pages/parents.php",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Reset Cookie Permissions"
+    },
+    {
+      "url": "https://www.stmichaelsgrosvenor.ie/pages/about-us/policies.php",
+      "final_url": "https://www.stmichaelsgrosvenor.ie/pages/about-us/policies.php",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.stmichaelsgrosvenor.ie/modules/download_gallery/dlc.php?file=41&id=1759751968&sid=394",
+      "final_url": "https://www.stmichaelsgrosvenor.ie/media/download_gallery/2025_26/Annual Admission Notice 2026 2027.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Annual Admission Notice 2026/2027"
+    },
+    {
+      "url": "https://www.stmichaelsgrosvenor.ie/modules/download_gallery/dlc.php?file=44&id=1704981906&sid=394",
+      "final_url": "https://www.stmichaelsgrosvenor.ie/media/download_gallery/20240111141545156.pdf",
+      "status": "public_document_size_bound",
+      "via": "school_public_link",
+      "label": "Child Safeguarding Statement and Risk Assessment"
+    },
+    {
+      "url": "https://www.stmichaelsgrosvenor.ie/modules/download_gallery/dlc.php?file=46&id=1719399156&sid=394",
+      "final_url": "https://www.stmichaelsgrosvenor.ie/media/download_gallery/Agreed minutes 2024.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Agreed Report 2024"
+    },
+    {
+      "url": "https://www.stmichaelsgrosvenor.ie/modules/download_gallery/dlc.php?file=48&id=1727961492&sid=394",
+      "final_url": "https://www.stmichaelsgrosvenor.ie/media/download_gallery/2024_25/Annual Admission Notice 2025 2026 SMH Grosvenor School Leopardstown.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Annual Admission Notice 2025 2026"
+    },
+    {
+      "url": "https://www.stmichaelsgrosvenor.ie/modules/download_gallery/dlc.php?file=8&id=1670935954&sid=394",
+      "final_url": "http://www.stmichaelsgrosvenor.ie/media/download_gallery/Code of Behaviour SMH Grosvenor School updated.pdf",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "Code of Behaviour 2021"
+    },
+    {
+      "url": "https://www.stmichaelsgrosvenor.ie/modules/download_gallery/dlc.php?file=3&id=1670935954&sid=394",
+      "final_url": "http://www.stmichaelsgrosvenor.ie/media/download_gallery/COVID-19 Response Plan.pdf",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "Covid-19 Response Plan 2021"
+    },
+    {
+      "url": "https://www.stmichaelsgrosvenor.ie/modules/download_gallery/dlc.php?file=2&id=1670935955&sid=394",
+      "final_url": "http://www.stmichaelsgrosvenor.ie/media/download_gallery/Grosvenor School Covid 19 Risk Assessments.pdf",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "Covid-19 Risk Assessment 2021"
+    },
+    {
+      "url": "https://www.stmichaelsgrosvenor.ie/modules/download_gallery/dlc.php?file=43&id=1701870962&sid=394",
+      "final_url": "https://www.stmichaelsgrosvenor.ie/media/download_gallery/AGREED REPORT NOVEMBER 2023.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Agreed Report November 2023"
+    },
+    {
+      "url": "https://www.stmichaelsgrosvenor.ie/modules/download_gallery/dlc.php?file=51&id=1755703157&sid=394",
+      "final_url": "https://www.stmichaelsgrosvenor.ie/media/download_gallery/2024_25/School_Calendar_2025-26_.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Calendar 2025-2026"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "18671A",
+      "url": "https://www.stmichaelsgrosvenor.ie/pages/admissions.php",
+      "label": "Prior school admissions section",
+      "sha256": "b79425001e14f7059eda25a66cbad179ee78af1db1860fbda32bb1a1cbb44522",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/18671A_b79425001e14f7059eda.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 243
+    },
+    {
+      "roll": "18671A",
+      "url": "https://www.stmichaelsgrosvenor.ie/pages/about-us/policies.php",
+      "label": "Policies",
+      "sha256": "13b3bac876ece081594fff490bf9fc430b6472d052539a92198057b142c2fbd2",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/18671A_13b3bac876ece081594f.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 433
+    },
+    {
+      "roll": "18671A",
+      "url": "https://www.stmichaelsgrosvenor.ie/media/download_gallery/2024_25/Annual Admission Notice 2025 2026 SMH Grosvenor School Leopardstown.pdf",
+      "label": "Annual Admission Notice 2025 2026",
+      "sha256": "1ae88efe28b1755d4e4ec8a0a46815a79b44846c341cc5ebd9cef57b1a7814f8",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/18671A_1ae88efe28b1755d4e4e.txt",
+      "source_file": "database/milestone2/cache/1ae88efe28b1755d4e4ec8a0a46815a79b44846c341cc5ebd9cef57b1a7814f8.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 2571
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.stmichaelsgrosvenor.ie/modules/download_gallery/dlc.php?file=47&id=1759932964&sid=394",
+      "label": "Admission Policy 2025",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmichaelsgrosvenor.ie/pages/about-us/policies.php?cookiereset",
+      "label": "Reset Cookie Permissions",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmichaelsgrosvenor.ie/modules/download_gallery/dlc.php?file=53&id=1759932962&sid=394",
+      "label": "BOM Review of Child Safeguarding Statement",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmichaelsgrosvenor.ie/modules/download_gallery/dlc.php?file=4&id=1670935956&sid=394",
+      "label": "Covid-19 Safety Statement",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmichaelsgrosvenor.ie/modules/download_gallery/dlc.php?file=38&id=1675337074&sid=394",
+      "label": "Review of the Child Safeguarding Statement",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmichaelsgrosvenor.ie/modules/download_gallery/dlc.php?file=33&id=1759932964&sid=394",
+      "label": "Child Safeguarding Statement and Risk Assessement",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmichaelsgrosvenor.ie/modules/download_gallery/dlc.php?file=31&id=1670935955&sid=394",
+      "label": "Review of Safeguarding Statement & Risk Assessment Letter",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmichaelsgrosvenor.ie/modules/download_gallery/dlc.php?file=21&id=1670935955&sid=394",
+      "label": "Guidelines for Parent Associations and Schools -'Supporting Each Other'",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmichaelsgrosvenor.ie/modules/download_gallery/dlc.php?file=15&id=1670935956&sid=394",
+      "label": "Catchment area part 2",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmichaelsgrosvenor.ie/modules/download_gallery/dlc.php?file=14&id=1670935955&sid=394",
+      "label": "Catchment area part 1",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmichaelsgrosvenor.ie",
+      "label": "School homepage",
+      "via": "home"
+    },
+    {
+      "url": "https://www.stmichaelsgrosvenor.ie/media/download_gallery/Application%20form.doc",
+      "label": "Application Form",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmichaelsgrosvenor.ie/modules/download_gallery/dlc.php?file=36&id=1670935954&sid=394",
+      "label": "Application Form 2023",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmichaelsgrosvenor.ie/modules/download_gallery/dlc.php?file=57&id=1768488345&sid=394",
+      "label": "Attendance Policy 2025",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmichaelsgrosvenor.ie/modules/download_gallery/dlc.php?file=56&id=1768488345&sid=394",
+      "label": "Assessment Policy 2025",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmichaelsgrosvenor.ie/modules/download_gallery/dlc.php?file=50&id=1751031271&sid=394",
+      "label": "Bí Cinéalta Policy 2025 - 2026",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmichaelsgrosvenor.ie/modules/download_gallery/dlc.php?file=49&id=1727961896&sid=394",
+      "label": "Application form 2025 2026",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmichaelsgrosvenor.ie/pages/cookiepolicy.php",
+      "label": "please click here.",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmichaelsgrosvenor.ie/modules/download_gallery/dlc.php?file=9&id=1670935956&sid=394",
+      "label": "Positive Behaviour Support & Use of Restrictive Practices Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmichaelsgrosvenor.ie/modules/download_gallery/dlc.php?file=54&id=1759932962&sid=394",
+      "label": "BOM Reivew of Child Afeguarding Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmichaelsgrosvenor.ie/modules/download_gallery/dlc.php?file=52&id=1759932963&sid=394",
+      "label": "Illness and Infection Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmichaelsgrosvenor.ie/modules/download_gallery/dlc.php?file=32&id=1670935953&sid=394",
+      "label": "Acceptable Use Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 90.13,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:54:18+0000"
+}

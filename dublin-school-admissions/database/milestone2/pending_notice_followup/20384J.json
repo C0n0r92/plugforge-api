@@ -1,0 +1,42 @@
+{
+  "roll": "20384J",
+  "started_at": "2026-11-08T13:20:22+0000",
+  "method": "previously_linked_explicit_annual_notice_gap_followup",
+  "attempts": [
+    {
+      "url": "https://www.powerstownet.com/wp-content/uploads/2023/09/DLD-class-admissions-1.png",
+      "final_url": "https://www.powerstownet.com/wp-content/uploads/2023/09/DLD-class-admissions-1.png",
+      "status": "ok",
+      "label": "DLD class admissions (1)"
+    },
+    {
+      "url": "https://www.powerstownet.com/wp-content/uploads/2023/09/JUNIOR-INFANT-ADMISSION-20242025.png",
+      "final_url": "https://www.powerstownet.com/wp-content/uploads/2023/09/JUNIOR-INFANT-ADMISSION-20242025.png",
+      "status": "ok",
+      "label": "JUNIOR-INFANT-ADMISSION-20242025"
+    },
+    {
+      "url": "https://www.powerstownet.com/wp-content/uploads/2023/10/PETNS-Admission-2024_2025.png",
+      "final_url": "https://www.powerstownet.com/wp-content/uploads/2023/10/PETNS-Admission-2024_2025.png",
+      "status": "ok",
+      "label": "PETNS-Admission-2024_2025"
+    },
+    {
+      "url": "https://www.powerstownet.com/wp-content/uploads/2024/10/2025-DLD-Class-Admissions-1.png",
+      "final_url": "https://www.powerstownet.com/wp-content/uploads/2024/10/2025-DLD-Class-Admissions-1.png",
+      "status": "ok",
+      "label": "2025 DLD Class Admissions (1)"
+    },
+    {
+      "url": "https://www.powerstownet.com/wp-content/uploads/2024/10/2025-DLD-Class-Admissions-1.webp",
+      "final_url": "https://www.powerstownet.com/wp-content/uploads/2024/10/2025-DLD-Class-Admissions-1.webp",
+      "status": "ok",
+      "label": "2025-DLD-Class-Admissions-1"
+    }
+  ],
+  "documents": [],
+  "pending_links": [],
+  "earliest_year_cutoff": null,
+  "status": "attempted_no_new_numeric_notice_established",
+  "elapsed_seconds": 37.97
+}

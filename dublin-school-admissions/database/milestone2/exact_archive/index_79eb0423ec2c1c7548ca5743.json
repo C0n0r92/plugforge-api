@@ -1,0 +1,562 @@
+{
+  "roll": "19302U",
+  "original_url": "https://www.virginmarybns.ie",
+  "method": "documented_CDX_exact_URL_all_available_dates",
+  "attempted_at": "2026-11-08T12:42:31.434505+00:00",
+  "params": {
+    "url": "https://www.virginmarybns.ie",
+    "matchType": "exact",
+    "output": "json",
+    "fl": "timestamp,original,mimetype,statuscode,digest",
+    "filter": "statuscode:200",
+    "collapse": "digest",
+    "limit": "200",
+    "showResumeKey": "true"
+  },
+  "earliest_year_cutoff": null,
+  "captures": [
+    {
+      "timestamp": "20130422223627",
+      "original": "http://virginmarybns.ie",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "4CTTPLKKACWWVZNS55N3DUNSZMXOX4I5"
+    },
+    {
+      "timestamp": "20140127021335",
+      "original": "http://virginmarybns.ie:80/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "G7Y6GKWCAI4GO72F2ZPWMFBGTWCV6ZWQ"
+    },
+    {
+      "timestamp": "20141218131302",
+      "original": "http://virginmarybns.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "KLNLQXDOHIWWMNWW4NFO37EUWDIVRRLA"
+    },
+    {
+      "timestamp": "20160111110254",
+      "original": "http://virginmarybns.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "POAQ3KFKGBH5N3W65X3USMZZJJTKJAFV"
+    },
+    {
+      "timestamp": "20160305034352",
+      "original": "http://virginmarybns.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "43D2MYRCGQ3CRVJIOZOBG3ISYVKLYDVU"
+    },
+    {
+      "timestamp": "20161006212532",
+      "original": "http://virginmarybns.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "6BCYICMUDUQK7THOFOAU6ODZPSXXHFGV"
+    },
+    {
+      "timestamp": "20171024090110",
+      "original": "http://www.virginmarybns.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "CFWOUMRVDL7HLELRU7OXSLNQMF3I7W56"
+    },
+    {
+      "timestamp": "20171029094242",
+      "original": "http://www.virginmarybns.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "IXUK7CAEEJIPEVX26MRX6TPBDWJ6VTMS"
+    },
+    {
+      "timestamp": "20171116222348",
+      "original": "http://www.virginmarybns.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "STIKH76ZCLF5GRMZ7HVHL62RXGKYLCED"
+    },
+    {
+      "timestamp": "20180110064456",
+      "original": "http://www.virginmarybns.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "K65CVI4Q5FCXJIL4IOBPEWH2EIEZXVO4"
+    },
+    {
+      "timestamp": "20180419130522",
+      "original": "http://www.virginmarybns.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "M5MUXZ75S7P6LJYC23HP6HQUMG3BJWON"
+    },
+    {
+      "timestamp": "20180518022834",
+      "original": "http://www.virginmarybns.ie:80/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "45BJ5MMJKN3QEKXHH4NETTZO4WAZOQFR"
+    },
+    {
+      "timestamp": "20180619050846",
+      "original": "http://www.virginmarybns.ie:80/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "XRJHEJTZIJSCRR2A4NMANTH6HW4CE7HQ"
+    },
+    {
+      "timestamp": "20180724173516",
+      "original": "http://www.virginmarybns.ie:80/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "IOW2ZZEBRU2RDFHTRZCN6CURCB26ED5G"
+    },
+    {
+      "timestamp": "20180829083204",
+      "original": "http://www.virginmarybns.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "FRXG3SV756OYJNC3HEI7FKS6Y5SCS46O"
+    },
+    {
+      "timestamp": "20180910150824",
+      "original": "http://www.virginmarybns.ie:80/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "XVTDR5RPY6MDOKRFL2NCP5NHQPNHPVMY"
+    },
+    {
+      "timestamp": "20190124083909",
+      "original": "http://www.virginmarybns.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "BVG2AUZGQKK6TONOWT42G53UBVGKIDMH"
+    },
+    {
+      "timestamp": "20190511221743",
+      "original": "http://www.virginmarybns.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "XKX25WOBRQAWXZZAFUDXQBTFK4727F5H"
+    },
+    {
+      "timestamp": "20190716233117",
+      "original": "http://www.virginmarybns.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "TMNPPFUJ3XTDXUAJH2ESASNDB6IVWKZY"
+    },
+    {
+      "timestamp": "20190823015944",
+      "original": "http://www.virginmarybns.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "2FC26KF2A6BZYT7VEMWDY33IFIVJD7WT"
+    },
+    {
+      "timestamp": "20190921221932",
+      "original": "https://www.virginmarybns.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "XV5KE7WCDV6ZMCGTJY67COLNVOQZA4MU"
+    },
+    {
+      "timestamp": "20191018101141",
+      "original": "https://www.virginmarybns.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "I27QAFGPDPZVROSR2DTAX3RYK7O7OXOI"
+    },
+    {
+      "timestamp": "20191111233641",
+      "original": "https://www.virginmarybns.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "UFSMNPR6HMYKTR4N62RNG42GNDNUHVZN"
+    },
+    {
+      "timestamp": "20191216085744",
+      "original": "https://www.virginmarybns.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "PQSU2FZJYGNMNS3XXATPOXYL4DASYXZQ"
+    },
+    {
+      "timestamp": "20200811040905",
+      "original": "https://www.virginmarybns.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "Y4TASSI3K7NM5S6CPJDRYVPNKS6YLCGX"
+    },
+    {
+      "timestamp": "20200926023706",
+      "original": "https://www.virginmarybns.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "Q3VQILSOTMJD2GUU76YCXUG43G2CKMBL"
+    },
+    {
+      "timestamp": "20201024063138",
+      "original": "https://www.virginmarybns.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "4QDKTVWZO7SCCDFCXGV532NHV3ZTT6IT"
+    },
+    {
+      "timestamp": "20201201212159",
+      "original": "https://www.virginmarybns.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "TBLFHY5N2LR3E6JKQO6UH3447MSHHZOM"
+    },
+    {
+      "timestamp": "20201218082453",
+      "original": "https://www.virginmarybns.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "QBYGS632YA3KROHHOXJFK5LDSFVSSRNJ"
+    },
+    {
+      "timestamp": "20210125105815",
+      "original": "https://www.virginmarybns.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "BKKLYT2KJ6YVOVUEFBNJEIBSHWTCSCTU"
+    },
+    {
+      "timestamp": "20210417054509",
+      "original": "https://www.virginmarybns.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "QGW443YESKUXP6EKABXOSHD7V7OYLXD6"
+    },
+    {
+      "timestamp": "20210920023325",
+      "original": "https://www.virginmarybns.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "J7NEKTKPHKHIDPHTUUYQSPEVAVIYMDGA"
+    },
+    {
+      "timestamp": "20211021183830",
+      "original": "https://www.virginmarybns.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "TABFPUE5CCNFYLTJASNMQFY3M4CLTUIS"
+    },
+    {
+      "timestamp": "20211207032627",
+      "original": "https://www.virginmarybns.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "WYXHGMEZXCJU3JAQH3CO656K5IT6QMI7"
+    },
+    {
+      "timestamp": "20220123062753",
+      "original": "https://www.virginmarybns.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "CKTPCKLPHCLJG72NLWGBBR6YWXUQTWXN"
+    },
+    {
+      "timestamp": "20220626144409",
+      "original": "https://www.virginmarybns.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "OJZVQPSFY446UCNNVYP6B62WW6AYWAH2"
+    },
+    {
+      "timestamp": "20220813092925",
+      "original": "https://www.virginmarybns.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "KO3HHLGRPOEXIUG47PHYY727DGW5FVBF"
+    },
+    {
+      "timestamp": "20221003120257",
+      "original": "https://www.virginmarybns.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "R73CS3CZSINNPFPWY2WSOHJWV5KZO7PC"
+    },
+    {
+      "timestamp": "20221208165902",
+      "original": "https://www.virginmarybns.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "ZWQHHQZISXC3VPOTARFTRTNSRCPCZ67B"
+    },
+    {
+      "timestamp": "20230204030350",
+      "original": "https://www.virginmarybns.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "FS3ZTNZKSLXWVG4JWNV4SNZ62HHSIUTS"
+    },
+    {
+      "timestamp": "20230530150204",
+      "original": "https://www.virginmarybns.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "FWRRRDHOYOZLRRY5GN7FBEKJRTA4KQNU"
+    },
+    {
+      "timestamp": "20230923113320",
+      "original": "https://www.virginmarybns.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "6RYOPZFGJN3HACJBW3PCX3JSE455NEOD"
+    },
+    {
+      "timestamp": "20231204003426",
+      "original": "https://www.virginmarybns.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "BRMLDDNE6DLZUUDMS3ESPNQL5YL4BE4Y"
+    },
+    {
+      "timestamp": "20240304184343",
+      "original": "https://www.virginmarybns.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "ZS56XKLJX3DCZVF6LVZ6KW5GFBFWR6AA"
+    },
+    {
+      "timestamp": "20240419183419",
+      "original": "https://www.virginmarybns.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "Q4RY7QXYNLO2PJODMK46SH5HWJNKA7UH"
+    },
+    {
+      "timestamp": "20240423101254",
+      "original": "https://www.virginmarybns.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "MYLQUAKNGBONK7YCZFCAJ3K2HQSVMWPF"
+    },
+    {
+      "timestamp": "20240721140321",
+      "original": "https://www.virginmarybns.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "ZIBO3CVA4GKCSFKXUS4SFULB7YDVPDUZ"
+    },
+    {
+      "timestamp": "20240911103417",
+      "original": "https://www.virginmarybns.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "DTQHU246L4SWHEMMYF7EFGZHNFHXISNH"
+    },
+    {
+      "timestamp": "20240913090646",
+      "original": "https://www.virginmarybns.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "2FEMPQJUFKBV5MAHKKH233GXEYGLAUWA"
+    },
+    {
+      "timestamp": "20240913113349",
+      "original": "https://www.virginmarybns.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "DWEX2PGC7WCQ4R6EU3X4LRDJ35P4GKDI"
+    },
+    {
+      "timestamp": "20240917122736",
+      "original": "https://www.virginmarybns.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "RQVZCWUKVE24HZV5SMPN2YJ7VCCQCUV3"
+    },
+    {
+      "timestamp": "20240917122739",
+      "original": "https://www.virginmarybns.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "XWAJOZAFRLNPP7WPDHSY22LJHABGVWPY"
+    },
+    {
+      "timestamp": "20240917122820",
+      "original": "https://www.virginmarybns.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "GVOCC7RDTDJ5KXGAC7KC46WSZ5EYZQW4"
+    },
+    {
+      "timestamp": "20241009230242",
+      "original": "https://www.virginmarybns.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "MSRD4BEZWT7MBBVLLVA2ADQI772OVVUF"
+    },
+    {
+      "timestamp": "20241115042303",
+      "original": "https://www.virginmarybns.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "XH6XWSRAQKWWHGE7HRXIRFNGQIK4WNHF"
+    },
+    {
+      "timestamp": "20241123183558",
+      "original": "https://www.virginmarybns.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "7C3C4VIXBKTWIRCGVYS6KWQD4REMMB27"
+    },
+    {
+      "timestamp": "20241123183558",
+      "original": "https://www.virginmarybns.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "GVT7CRQM6OK2JWFCP4XICWWZSIGHU7UC"
+    },
+    {
+      "timestamp": "20241123183558",
+      "original": "https://www.virginmarybns.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "WYLQBE2XIPJ3JYELDK6YXEJECVHSLDNK"
+    },
+    {
+      "timestamp": "20241205194018",
+      "original": "https://www.virginmarybns.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "GIYGYFV3Y7OTTINKWYMJSRHFEUBRNLC6"
+    },
+    {
+      "timestamp": "20250120162017",
+      "original": "https://www.virginmarybns.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "QFJ2R2DY4XUIZRWZB7E44ZVCR5IEJ7DV"
+    },
+    {
+      "timestamp": "20250206164849",
+      "original": "https://www.virginmarybns.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "IIRVVGFHPD27Q5GSR2NIAMJHKSQAZ63K"
+    },
+    {
+      "timestamp": "20250208213023",
+      "original": "https://www.virginmarybns.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "XUHK4L3NMVBBLRGSJAZPWGV2AXK6BPPO"
+    },
+    {
+      "timestamp": "20250224153414",
+      "original": "https://www.virginmarybns.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "QRPXPKSKQXV6EEQHVA2AKPEMPZ3HIFSL"
+    },
+    {
+      "timestamp": "20250415163655",
+      "original": "https://www.virginmarybns.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "LDEGVT5QXSITQMLGKIHAUIZ2EOYFW5M2"
+    },
+    {
+      "timestamp": "20250416094754",
+      "original": "https://www.virginmarybns.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "TKAURKHISV5Y6GTTKMIX4HEWCPL7VGA3"
+    },
+    {
+      "timestamp": "20250423022751",
+      "original": "https://www.virginmarybns.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "GYJ3KI3GRAMSOQDXFCXJZK55H6NDMQBB"
+    },
+    {
+      "timestamp": "20251008230942",
+      "original": "https://www.virginmarybns.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "WWNCPLYUYQ7GUKYOWYDTXPGEZPSJUR6A"
+    },
+    {
+      "timestamp": "20251113053128",
+      "original": "https://www.virginmarybns.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "CYWQZGCPRZHNEDMLJQCNC6PRIO567AF2"
+    },
+    {
+      "timestamp": "20251117040223",
+      "original": "https://www.virginmarybns.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "7VQOW524EEQERPS2X2FJ63B4JRSV3744"
+    },
+    {
+      "timestamp": "20251206033301",
+      "original": "https://www.virginmarybns.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "XNS4KVQN7CEHWCA3OKDFOAQUCLDSVV7M"
+    },
+    {
+      "timestamp": "20260117103912",
+      "original": "https://www.virginmarybns.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "X7GU3FGFS5L4HVF6AYM7ZGBGQHLQPSUA"
+    },
+    {
+      "timestamp": "20260216090125",
+      "original": "https://www.virginmarybns.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "QK3CPOZ3WYKQBNJ2CMOUGOBM6MBB5YIO"
+    },
+    {
+      "timestamp": "20260313143948",
+      "original": "https://www.virginmarybns.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "HROO2PPFUEZAOVN3P4TCOIIGUAKEELG4"
+    },
+    {
+      "timestamp": "20260418201901",
+      "original": "https://www.virginmarybns.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "VG667ZZLDYEIRXELHPXIUMMYS4OD7OLQ"
+    },
+    {
+      "timestamp": "20260714042119",
+      "original": "https://www.virginmarybns.ie/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "V25Z65PZVO54FLG4JMQYYR6YBEYAO7E5"
+    }
+  ],
+  "pages": [
+    {
+      "at": "2026-11-08T12:42:38.114253+00:00",
+      "http_status": 200,
+      "params": {
+        "url": "https://www.virginmarybns.ie",
+        "matchType": "exact",
+        "output": "json",
+        "fl": "timestamp,original,mimetype,statuscode,digest",
+        "filter": "statuscode:200",
+        "collapse": "digest",
+        "limit": "200",
+        "showResumeKey": "true"
+      }
+    }
+  ],
+  "status": "index_complete",
+  "capture_count": 75
+}

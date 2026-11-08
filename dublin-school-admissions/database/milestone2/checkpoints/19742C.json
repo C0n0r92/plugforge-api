@@ -1,0 +1,163 @@
+{
+  "roll": "19742C",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://stcolmcilles.org/admissions-notice/",
+      "final_url": "https://stcolmcilles.org/admissions-notice/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions Notice"
+    },
+    {
+      "url": "https://stcolmcilles.org/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://stcolmcilles.org/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://stcolmcilles.org/wp-content/uploads/2024/10/admission_policy_2025_2026.pdf",
+      "final_url": "https://stcolmcilles.org/wp-content/uploads/2024/10/admission_policy_2025_2026.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "admission_policy_2025_2026"
+    },
+    {
+      "url": "https://www.stcolmcilles.org",
+      "final_url": "https://stcolmcilles.org/",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://stcolmcilles.org/wp-sitemap.xml",
+      "final_url": "https://stcolmcilles.org/wp-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://stcolmcilles.org/wp-sitemap-users-1.xml",
+      "final_url": "https://stcolmcilles.org/wp-sitemap-users-1.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://stcolmcilles.org/wp-sitemap-posts-pgc_simply_gallery-1.xml",
+      "final_url": "https://stcolmcilles.org/wp-sitemap-posts-pgc_simply_gallery-1.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://stcolmcilles.org/wp-sitemap-posts-page-1.xml",
+      "final_url": "https://stcolmcilles.org/wp-sitemap-posts-page-1.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://stcolmcilles.org/school-policies/",
+      "final_url": "https://stcolmcilles.org/school-policies/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Policies"
+    },
+    {
+      "url": "https://stcolmcilles.org/information-for-parents/",
+      "final_url": "https://stcolmcilles.org/information-for-parents/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Information for Parents"
+    },
+    {
+      "url": "https://stcolmcilles.org/enrolment-policy/",
+      "final_url": "https://stcolmcilles.org/enrolment-policy/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Enrolment Policy"
+    },
+    {
+      "url": "https://stcolmcilles.org/admissions-policy/",
+      "final_url": "https://stcolmcilles.org/admissions-policy/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions Policy"
+    },
+    {
+      "url": "https://stcolmcilles.org/relationships-and-sexuality-education-policy/",
+      "final_url": "https://stcolmcilles.org/relationships-and-sexuality-education-policy/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "RSE Policy"
+    },
+    {
+      "url": "https://stcolmcilles.org/promotion-of-attendance-policy/",
+      "final_url": "https://stcolmcilles.org/promotion-of-attendance-policy/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Promotion of Attendance Policy"
+    },
+    {
+      "url": "https://stcolmcilles.org/policy-on-the-use-of-mobile-phones-by-pupils/",
+      "final_url": "https://stcolmcilles.org/policy-on-the-use-of-mobile-phones-by-pupils/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policy on the Use of Mobile Phones by Pupils"
+    },
+    {
+      "url": "https://stcolmcilles.org/health-and-safety-policy/",
+      "final_url": "https://stcolmcilles.org/health-and-safety-policy/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Health and Safety Policy"
+    },
+    {
+      "url": "https://stcolmcilles.org/dignity-at-work-policy/",
+      "final_url": "https://stcolmcilles.org/dignity-at-work-policy/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Dignity at Work Policy"
+    },
+    {
+      "url": "https://stcolmcilles.org/critical-incident-policy/",
+      "final_url": "https://stcolmcilles.org/critical-incident-policy/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Critical Incident Policy"
+    },
+    {
+      "url": "https://stcolmcilles.org/anti-bullying-policy/",
+      "final_url": "https://stcolmcilles.org/anti-bullying-policy/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Bí Cineálta"
+    },
+    {
+      "url": "https://stcolmcilles.org/acceptable-usage-policy-for-internet-and-technology/",
+      "final_url": "https://stcolmcilles.org/acceptable-usage-policy-for-internet-and-technology/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Acceptable Usage Policy for Internet and Technology"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19742C",
+      "url": "https://stcolmcilles.org/wp-content/uploads/2024/10/admission_policy_2025_2026.pdf",
+      "label": "admission_policy_2025_2026",
+      "sha256": "83f3102d9b314957b4a8c25093a3103f55aa6c29eb4dc4f91b335108f75db73a",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19742C_83f3102d9b314957b4a8.txt",
+      "source_file": "database/milestone2/cache/83f3102d9b314957b4a8c25093a3103f55aa6c29eb4dc4f91b335108f75db73a.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 25497
+    }
+  ],
+  "pending_links": [],
+  "elapsed_seconds": 66.37,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:46:52+0000"
+}

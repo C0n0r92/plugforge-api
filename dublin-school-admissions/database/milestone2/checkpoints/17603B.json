@@ -1,0 +1,240 @@
+{
+  "roll": "17603B",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://scoiliosagain.com/enrolment/",
+      "final_url": "https://scoiliosagain.com/enrolment/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Enrolment"
+    },
+    {
+      "url": "https://scoiliosagain.com/wp-content/uploads/2020/06/ScoilIosagain-Enrolment-Form-mainstream.pdf",
+      "final_url": "https://scoiliosagain.com/wp-content/uploads/2020/06/ScoilIosagain-Enrolment-Form-mainstream.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "VIEW / DOWNLOAD"
+    },
+    {
+      "url": "https://scoiliosagain.com/wp-content/uploads/2025/11/Enrolment-form-Autism-class-26-27.doc",
+      "final_url": "https://scoiliosagain.com/wp-content/uploads/2025/11/Enrolment-form-Autism-class-26-27.doc",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Enrolment form Autism class 26-27"
+    },
+    {
+      "url": "https://scoiliosagain.com/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://scoiliosagain.com/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://scoiliosagain.com/wp-content/uploads/2020/10/AdmissionPolicyScoilÍosagáin-final2020.pdf",
+      "final_url": "https://scoiliosagain.com/wp-content/uploads/2020/10/AdmissionPolicyScoilÍosagáin-final2020.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "AdmissionPolicyScoilÍosagáin final2020"
+    },
+    {
+      "url": "https://scoiliosagain.com/wp-content/uploads/2020/05/enrolmentpolicy.pdf",
+      "final_url": "https://scoiliosagain.com/wp-content/uploads/2020/05/enrolmentpolicy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "VIEW / DOWNLOAD"
+    },
+    {
+      "url": "https://scoiliosagain.com/?s=admission",
+      "final_url": "https://scoiliosagain.com/?s=admission",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Public site search form"
+    },
+    {
+      "url": "https://scoiliosagain.com/wp-sitemap.xml",
+      "final_url": "https://scoiliosagain.com/wp-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://scoiliosagain.com/wp-sitemap-posts-post-1.xml",
+      "final_url": "https://scoiliosagain.com/wp-sitemap-posts-post-1.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://scoiliosagain.com/wp-sitemap-posts-page-1.xml",
+      "final_url": "https://scoiliosagain.com/wp-sitemap-posts-page-1.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://scoiliosagain.com/wp-sitemap-posts-cpt_services-1.xml",
+      "final_url": "https://scoiliosagain.com/wp-sitemap-posts-cpt_services-1.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://scoiliosagain.com/school-policies/",
+      "final_url": "https://scoiliosagain.com/school-policies/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://scoiliosagain.com/wp-content/uploads/2021/06/Child-Protection-2020.pdf",
+      "final_url": "https://scoiliosagain.com/wp-content/uploads/2021/06/Child-Protection-2020.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "VIEW / DOWNLOAD"
+    },
+    {
+      "url": "https://scoiliosagain.com/wp-content/uploads/2021/09/SI-CovidResponsePlan.pdf",
+      "final_url": "https://scoiliosagain.com/wp-content/uploads/2021/09/SI-CovidResponsePlan.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "VIEW / DOWNLOAD"
+    },
+    {
+      "url": "https://scoiliosagain.com/wp-content/uploads/2025/10/Child-Safeguarding2526.pdf",
+      "final_url": "https://scoiliosagain.com/wp-content/uploads/2025/10/Child-Safeguarding2526.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "VIEW / DOWNLOAD"
+    },
+    {
+      "url": "https://scoiliosagain.com/wp-content/uploads/2025/10/Bi-Cinealta.pdf",
+      "final_url": "https://scoiliosagain.com/wp-content/uploads/2025/10/Bi-Cinealta.pdf",
+      "status": "public_document_size_bound",
+      "via": "school_public_link",
+      "label": "VIEW / DOWNLOAD"
+    },
+    {
+      "url": "https://scoiliosagain.com/wp-content/uploads/2020/09/AUPpolicy2020.pdf",
+      "final_url": "https://scoiliosagain.com/wp-content/uploads/2020/09/AUPpolicy2020.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "VIEW / DOWNLOAD"
+    },
+    {
+      "url": "https://scoiliosagain.com/wp-content/uploads/2020/05/homeworkpolicy.pdf",
+      "final_url": "https://scoiliosagain.com/wp-content/uploads/2020/05/homeworkpolicy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "VIEW / DOWNLOAD"
+    },
+    {
+      "url": "https://scoiliosagain.com/wp-content/uploads/2020/05/grievancepolicy.pdf",
+      "final_url": "https://scoiliosagain.com/wp-content/uploads/2020/05/grievancepolicy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "VIEW / DOWNLOAD"
+    },
+    {
+      "url": "https://scoiliosagain.com/wp-content/uploads/2020/05/Support-Policy-For-Special-Needs-Pupils.pdf",
+      "final_url": "https://scoiliosagain.com/wp-content/uploads/2020/05/Support-Policy-For-Special-Needs-Pupils.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "VIEW / DOWNLOAD"
+    },
+    {
+      "url": "https://scoiliosagain.com/wp-content/uploads/2020/05/AssessmentandrecordingPolicy.pdf",
+      "final_url": "https://scoiliosagain.com/wp-content/uploads/2020/05/AssessmentandrecordingPolicy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "VIEW / DOWNLOAD"
+    },
+    {
+      "url": "https://scoiliosagain.com/parents-association/",
+      "final_url": "https://scoiliosagain.com/parents-association/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents’ Association"
+    },
+    {
+      "url": "https://scoiliosagain.com/",
+      "final_url": "https://scoiliosagain.com/",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://scoiliosagain.com/wp-content/uploads/2025/10/Amission-Policy-1.pdf",
+      "final_url": "https://scoiliosagain.com/wp-content/uploads/2025/10/Amission-Policy-1.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "VIEW / DOWNLOAD"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "17603B",
+      "url": "https://scoiliosagain.com/enrolment/",
+      "label": "Enrolment",
+      "sha256": "20989982b4bc78264b7438d81b766bd8319a5da48bc7216165f7614e09a0cd21",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/17603B_20989982b4bc78264b74.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 225
+    },
+    {
+      "roll": "17603B",
+      "url": "https://scoiliosagain.com/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "label": "Oldest public admission media (all dates)",
+      "sha256": "96e2b891e6a83005b31785b8667c4396984e401e5b0cf2914a5e353c782798dd",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/17603B_96e2b891e6a83005b317.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 956
+    },
+    {
+      "roll": "17603B",
+      "url": "https://scoiliosagain.com/wp-content/uploads/2020/10/AdmissionPolicyScoilÍosagáin-final2020.pdf",
+      "label": "AdmissionPolicyScoilÍosagáin final2020",
+      "sha256": "d9fee05aa950679be8bd316a71e34972432144413b7efe26cff192596b00c176",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/17603B_d9fee05aa950679be8bd.txt",
+      "source_file": "database/milestone2/cache/d9fee05aa950679be8bd316a71e34972432144413b7efe26cff192596b00c176.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 24316
+    },
+    {
+      "roll": "17603B",
+      "url": "https://scoiliosagain.com/school-policies/",
+      "label": "Policies",
+      "sha256": "0cb31a4c1f682610ad76debf3ad1af164621955981c78a62d39b3d670b8f42d4",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/17603B_0cb31a4c1f682610ad76.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 709
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://scoiliosagain.com/wp-content/uploads/2026/10/CP-2026.pdf",
+      "label": "Child Protection Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://scoiliosagain.com/privacy-policy/",
+      "label": "Privacy Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://scoiliosagain.com/cookie-policy-eu/",
+      "label": "Cookie policy (EU)",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 113.45,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:42:45+0000"
+}

@@ -1,0 +1,251 @@
+{
+  "roll": "18569J",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://stdeclans.ie?s=admission",
+      "final_url": "https://stdeclans.ie?s=admission",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Public site search form"
+    },
+    {
+      "url": "https://stdeclans.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://stdeclans.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://stdeclans.ie/wp-content/uploads/2021/02/Admissions-Notice.pdf",
+      "final_url": "https://stdeclans.ie/wp-content/uploads/2021/02/Admissions-Notice.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Notice"
+    },
+    {
+      "url": "https://stdeclans.ie/category/admissions/",
+      "final_url": "https://stdeclans.ie/category/admissions/",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://stdeclans.ie/admissions-enrolment/",
+      "final_url": "https://stdeclans.ie/admissions-enrolment/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions / Enrolment"
+    },
+    {
+      "url": "https://stdeclans.ie/wp-content/uploads/2021/02/Admission-Policy-2021.pdf",
+      "final_url": "https://stdeclans.ie/wp-content/uploads/2021/02/Admission-Policy-2021.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admission Policy 2021"
+    },
+    {
+      "url": "https://stdeclans.ie/wp-content/uploads/2026/09/St_Declans_Enrolment_Policy_V1.pdf",
+      "final_url": "https://stdeclans.ie/wp-content/uploads/2026/09/St_Declans_Enrolment_Policy_V1.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Enrolment and Participation Policy PDF viewer"
+    },
+    {
+      "url": "https://stdeclans.ie/wp-content/uploads/2026/09/St_Declans_Admissions_Policy_2026.pdf",
+      "final_url": "https://stdeclans.ie/wp-content/uploads/2026/09/St_Declans_Admissions_Policy_2026.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "St_Declans_Admissions_Policy_2026"
+    },
+    {
+      "url": "https://stdeclans.ie/sitemap_index.xml",
+      "final_url": "https://stdeclans.ie/sitemap_index.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://stdeclans.ie/post-sitemap.xml",
+      "final_url": "https://stdeclans.ie/post-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://stdeclans.ie/policies/st-declans-school-code-of-behaviour/",
+      "final_url": "https://stdeclans.ie/policies/st-declans-school-code-of-behaviour/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "St. Declans School Code of Behaviour"
+    },
+    {
+      "url": "https://stdeclans.ie/policies/child-safeguarding-statement-2018/",
+      "final_url": "https://stdeclans.ie/policies/child-safeguarding-statement-2018/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Previous"
+    },
+    {
+      "url": "https://stdeclans.ie/policies/",
+      "final_url": "https://stdeclans.ie/policies/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://stdeclans.ie/page-sitemap.xml",
+      "final_url": "https://stdeclans.ie/page-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://stdeclans.ie/child-protection-2/",
+      "final_url": "https://stdeclans.ie/child-protection-2/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "View documents →"
+    },
+    {
+      "url": "https://stdeclans.ie/wp-content/uploads/2026/09/St_Declans_Child_Safeguarding_Statement_and_Risk_Assessment.pdf",
+      "final_url": "https://stdeclans.ie/wp-content/uploads/2026/09/St_Declans_Child_Safeguarding_Statement_and_Risk_Assessment.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download PDF"
+    },
+    {
+      "url": "https://stdeclans.ie/wp-content/uploads/2026/09/St_Declans_Child_Protection_Statement_2026.pdf",
+      "final_url": "https://stdeclans.ie/wp-content/uploads/2026/09/St_Declans_Child_Protection_Statement_2026.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download PDF"
+    },
+    {
+      "url": "https://stdeclans.ie/wp-content/uploads/2026/09/AD-Student-Friendly-Child-Safeguarding-Statement-Primary1.pdf",
+      "final_url": "https://stdeclans.ie/wp-content/uploads/2026/09/AD-Student-Friendly-Child-Safeguarding-Statement-Primary1.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download PDF"
+    },
+    {
+      "url": "https://stdeclans.ie/admissions/application-form/",
+      "final_url": "https://stdeclans.ie/admissions/application-form/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Application Form"
+    },
+    {
+      "url": "https://stdeclans.ie/admissions/admissions-policy-of-st-declans-special-school/",
+      "final_url": "https://stdeclans.ie/admissions/admissions-policy-of-st-declans-special-school/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions Policy of St. Declan’s Special School"
+    },
+    {
+      "url": "https://stdeclans.ie/admissions-policy/",
+      "final_url": "https://stdeclans.ie/admissions-policy/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Enrolment Policy"
+    },
+    {
+      "url": "https://stdeclans.ie",
+      "final_url": "https://stdeclans.ie",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "http://stdeclans.ie/wp-content/uploads/2026/02/Application-Form-2026-2027-1-2.pdf",
+      "final_url": "http://stdeclans.ie/wp-content/uploads/2026/02/Application-Form-2026-2027-1-2.pdf",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "Application Form 2026/2027"
+    },
+    {
+      "url": "https://stdeclans.ie/policies/child-protection-policy/",
+      "final_url": "https://stdeclans.ie/policies/child-protection-policy/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Previous"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "18569J",
+      "url": "https://stdeclans.ie/wp-content/uploads/2021/02/Admissions-Notice.pdf",
+      "label": "Admissions Notice",
+      "sha256": "40f2afb24505d3eb21c35a9cb51d030524a83ed779773299b874f23d34e04ced",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/18569J_40f2afb24505d3eb21c3.txt",
+      "source_file": "database/milestone2/cache/40f2afb24505d3eb21c35a9cb51d030524a83ed779773299b874f23d34e04ced.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 3562
+    },
+    {
+      "roll": "18569J",
+      "url": "https://stdeclans.ie/category/admissions/",
+      "label": "Prior school admissions section",
+      "sha256": "1143138655586a3d9e5153d99f0b467b4837c8591809ff764bcceaceb634f28b",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/18569J_1143138655586a3d9e51.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 217
+    },
+    {
+      "roll": "18569J",
+      "url": "https://stdeclans.ie/admissions-enrolment/",
+      "label": "Admissions / Enrolment",
+      "sha256": "a0a59d640a7a62629361113149d00150d5b64a2f26b538c64a7d4d0fa7ca38f3",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/18569J_a0a59d640a7a62629361.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 917
+    },
+    {
+      "roll": "18569J",
+      "url": "https://stdeclans.ie/wp-content/uploads/2021/02/Admission-Policy-2021.pdf",
+      "label": "Admission Policy 2021",
+      "sha256": "be39018e8f9898d290133357948e83aaadd42b29f7e7b7b131a57e4e006b963a",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/18569J_be39018e8f9898d29013.txt",
+      "source_file": "database/milestone2/cache/be39018e8f9898d290133357948e83aaadd42b29f7e7b7b131a57e4e006b963a.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 23907
+    },
+    {
+      "roll": "18569J",
+      "url": "https://stdeclans.ie/wp-content/uploads/2026/09/St_Declans_Admissions_Policy_2026.pdf",
+      "label": "St_Declans_Admissions_Policy_2026",
+      "sha256": "4c38d8472e4e39c98b71dad6438fb904f4e5f82efc0b81c71226d94ebaf406da",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/18569J_4c38d8472e4e39c98b71.txt",
+      "source_file": "database/milestone2/cache/4c38d8472e4e39c98b71dad6438fb904f4e5f82efc0b81c71226d94ebaf406da.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 23200
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://stdeclans.ie/cookie-policy/",
+      "label": "Next",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stdeclans.ie/code-of-behaviour-2/",
+      "label": "View policy →",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stdeclans.ie/bi-cinealta-policy/",
+      "label": "Bí Cineálta Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 82.84,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:53:37+0000"
+}

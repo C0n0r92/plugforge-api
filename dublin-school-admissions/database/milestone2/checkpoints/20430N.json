@@ -1,0 +1,317 @@
+{
+  "roll": "20430N",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://canalwayetns.org/wp-content/uploads/2025/10/Canal-Way-Fundraising-Infographic-Pie-Chart-Graph-1.jpg",
+      "final_url": "https://canalwayetns.org/wp-content/uploads/2025/10/Canal-Way-Fundraising-Infographic-Pie-Chart-Graph-1.jpg",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Canal Way Fundraising Infographic Pie Chart Graph (1)"
+    },
+    {
+      "url": "https://canalwayetns.org/enrolment-news-11-09-2020/",
+      "final_url": "https://canalwayetns.org/enrolment-news-11-09-2020/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Link to: Enrolment News 11.09.2020"
+    },
+    {
+      "url": "https://api.whatsapp.com/send?text=https://canalwayetns.org/enrolment-news-11-09-2020/",
+      "final_url": "https://api.whatsapp.com/send?text=https://canalwayetns.org/enrolment-news-11-09-2020/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Share on WhatsApp"
+    },
+    {
+      "url": "https://canalwayetns.org/enrolments-open-01-10-2021/",
+      "final_url": "https://canalwayetns.org/enrolments-open-01-10-2021/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Link to: Enrolments open 01.10.2021"
+    },
+    {
+      "url": "https://canalwayetns.org/enrolment-junior-infants-2021/",
+      "final_url": "https://canalwayetns.org/enrolment-junior-infants-2021/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Link to: 2021 Link to: 2021 2021"
+    },
+    {
+      "url": "https://api.whatsapp.com/send?text=https://canalwayetns.org/enrolments-open-01-10-2021/",
+      "final_url": "https://api.whatsapp.com/send?text=https://canalwayetns.org/enrolments-open-01-10-2021/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Share on WhatsApp"
+    },
+    {
+      "url": "https://api.whatsapp.com/send?text=https://canalwayetns.org/enrolment-junior-infants-2021/",
+      "final_url": "https://api.whatsapp.com/send?text=https://canalwayetns.org/enrolment-junior-infants-2021/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Share on WhatsApp"
+    },
+    {
+      "url": "https://canalwayetns.org/enrolments-2023-2024/",
+      "final_url": "https://canalwayetns.org/enrolments-2023-2024/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Link to: Enrolments 2023 / 2024"
+    },
+    {
+      "url": "https://api.whatsapp.com/send?text=https://canalwayetns.org/enrolments-2023-2024/",
+      "final_url": "https://api.whatsapp.com/send?text=https://canalwayetns.org/enrolments-2023-2024/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Share on WhatsApp"
+    },
+    {
+      "url": "https://canalwayetns.org/enrolment/admissions-statements-2027-2028-docx/",
+      "final_url": "https://canalwayetns.org/wp-content/uploads/2026/09/Admissions-statements-2027-2028.docx.pdf",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions statements 2027 2028"
+    },
+    {
+      "url": "https://canalwayetns.org/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://canalwayetns.org/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://canalwayetns.org/enrolment/",
+      "final_url": "https://canalwayetns.org/enrolment/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Enrolment"
+    },
+    {
+      "url": "https://www.education.ie/en/Press-Events/Press-Releases/2020-press-releases/20-01-15.html",
+      "final_url": "https://www.education.ie/en/Press-Events/Press-Releases/2020-press-releases/20-01-15.html",
+      "status": "prior_exact_URL_access_denial_not_retried",
+      "via": "school_public_link",
+      "label": "Admissions to School Act 2018"
+    },
+    {
+      "url": "https://canalwayetns.org/category/enrolment-news/",
+      "final_url": "https://canalwayetns.org/category/enrolment-news/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Enrolment News"
+    },
+    {
+      "url": "https://canalwayetns.org/wp-content/uploads/2024/11/Admissions-Policy-01.2023.pdf",
+      "final_url": "https://canalwayetns.org/wp-content/uploads/2024/11/Admissions-Policy-01.2023.pdf",
+      "status": "http_404",
+      "via": "school_public_link",
+      "label": "here."
+    },
+    {
+      "url": "https://canalwayetns.org/sitemap_index.xml",
+      "final_url": "https://canalwayetns.org/sitemap_index.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://canalwayetns.org/role-of-the-patron-board-of-management-and-parents-association/",
+      "final_url": "https://canalwayetns.org/role-of-the-patron-board-of-management-and-parents-association/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Role of the Patron, Board of Management, and Parents Association"
+    },
+    {
+      "url": "https://canalwayetns.org/post-sitemap.xml",
+      "final_url": "https://canalwayetns.org/post-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://canalwayetns.org/wp-content/uploads/2024/09/enrolment.jpg",
+      "final_url": "https://canalwayetns.org/wp-content/uploads/2024/09/enrolment.jpg",
+      "status": "ok",
+      "via": "sitemap_link",
+      "label": "Admission URL from sitemap"
+    },
+    {
+      "url": "https://canalwayetns.org/policies/",
+      "final_url": "https://canalwayetns.org/policies/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Publications"
+    },
+    {
+      "url": "https://canalwayetns.org/wp-content/uploads/2023/09/primary-school-parents-guardians-letter-2021.pdf",
+      "final_url": "https://canalwayetns.org/wp-content/uploads/2023/09/primary-school-parents-guardians-letter-2021.pdf",
+      "status": "http_404",
+      "via": "school_public_link",
+      "label": "primary-school-parents-guardians-letter-2021"
+    },
+    {
+      "url": "https://canalwayetns.org/wp-content/uploads/2022/05/Ukranian-_ver_information-for-parent_guardian.pdf",
+      "final_url": "https://canalwayetns.org/wp-content/uploads/2022/05/Ukranian-_ver_information-for-parent_guardian.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Ukranian _ver_info for parent"
+    },
+    {
+      "url": "https://canalwayetns.org/wp-content/uploads/2022/05/Russian-_ver_information-for-parent_guardian.pdf",
+      "final_url": "https://canalwayetns.org/wp-content/uploads/2022/05/Russian-_ver_information-for-parent_guardian.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Russian _ver_info for parent"
+    },
+    {
+      "url": "https://canalwayetns.org/wp-content/uploads/2022/05/Information_for_parents_language_instruction_28April2022.pdf",
+      "final_url": "https://canalwayetns.org/wp-content/uploads/2022/05/Information_for_parents_language_instruction_28April2022.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Info for"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "20430N",
+      "url": "https://canalwayetns.org/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "label": "Oldest public admission media (all dates)",
+      "sha256": "61e7913ccf7b7e0c697cfcce32f93461d1b96d94a15969917e8e2b86fedea289",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20430N_61e7913ccf7b7e0c697c.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 2015
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://canalwayetns.org/wp-content/uploads/2022/05/IV_information-for-parent_guardian.pdf",
+      "label": "IV_information for parent",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://canalwayetns.org/wp-content/uploads/2023/11/Admissions-Policy-01.2023.pdf",
+      "label": "Admissions Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://canalwayetns.org/wp-content/uploads/2023/06/Letter-for-parents-New-Drumcondra-tests.pdf",
+      "label": "Letter-for-parents-New-Drumcondra-tests",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://canalwayetns.org/wp-content/uploads/2024/02/Parental-Complaints-Procedure.pdf",
+      "label": "Parental Complaints Procedure 2024",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://canalwayetns.org/policies/sagiarding-statement-2026/",
+      "label": "Safegug",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://canalwayetns.org/policies/code-of-behaviour-2026/",
+      "label": "Code of Behaviour – 2026",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://canalwayetns.org/policies/rse-cwetns-docx/",
+      "label": "RSE CWETNS",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://canalwayetns.org/parents-association/http://www.npc.ie/primary/parents-associations/role-of-a-parents-association",
+      "label": "click here",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://canalwayetns.org/parents-association/after-school-activities/",
+      "label": "After School Activities",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://canalwayetns.org/parents-association/",
+      "label": "Parents Association",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://canalwayetns.org/page-sitemap.xml",
+      "label": "Public sitemap index child",
+      "via": "sitemap_child"
+    },
+    {
+      "url": "https://canalwayetns.org/category/parents-association/",
+      "label": "Parents Association",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://canalwayetns.org/category/downloads/",
+      "label": "Downloads",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://canalwayetns.org",
+      "label": "School homepage",
+      "via": "home"
+    },
+    {
+      "url": "https://canalwayetns.org/wp-content/uploads/2023/11/Swimming-Policy-2022.pdf",
+      "label": "Swimming Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://canalwayetns.org/wp-content/uploads/2023/11/Substance-Use-Policy-2023.pdf",
+      "label": "Substance Use Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://canalwayetns.org/wp-content/uploads/2023/11/Homework-Policy.docx.pdf",
+      "label": "Homework Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://canalwayetns.org/wp-content/uploads/2023/11/Garda-Vetting-Policy.pdf",
+      "label": "Garda Vetting Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://canalwayetns.org/wp-content/uploads/2023/11/Dignity-in-the-Workplace-Policy-cwetns.pdf",
+      "label": "Dignity in the Workplace Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://canalwayetns.org/wp-content/uploads/2023/11/Digital-Technology-Policy.pdf",
+      "label": "Digital Technology Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://canalwayetns.org/wp-content/uploads/2023/11/CWETNS-ETNS-HEALTHY-EATING-POLICY.pdf",
+      "label": "Healthy Eating Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://canalwayetns.org/wp-content/uploads/2023/11/COMMUNICATIONS-POLICY-CANAL-WAY-ETNS-1.pdf",
+      "label": "Communication Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://canalwayetns.org/policies/hot-lunch-policy/",
+      "label": "Hot Lunch Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://canalwayetns.org/policies/hot-lunch-policy-2/",
+      "label": "Hot Lunch Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://canalwayetns.org/policies/bi-cinealta-anti-bullying-policy-2/",
+      "label": "Bí Cineálta Anti-bullying Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 61.79,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:35:58+0000"
+}

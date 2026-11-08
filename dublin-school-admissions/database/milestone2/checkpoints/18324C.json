@@ -1,0 +1,328 @@
+{
+  "roll": "18324C",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.stbrigidspalmerstown.com/admissions",
+      "final_url": "https://www.stbrigidspalmerstown.com/admissions",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://www.stbrigidspalmerstown.com/_files/ugd/b26270_dce077e18b3f42aab482a0e89fb533ac.pdf",
+      "final_url": "https://www.stbrigidspalmerstown.com/_files/ugd/b26270_dce077e18b3f42aab482a0e89fb533ac.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Calendar 2026-2027"
+    },
+    {
+      "url": "https://www.stbrigidspalmerstown.com/_files/ugd/b26270_e0287f1ac1b24a8f9dcf3589bb29fa45.pdf",
+      "final_url": "https://www.stbrigidspalmerstown.com/_files/ugd/b26270_e0287f1ac1b24a8f9dcf3589bb29fa45.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "English Curriculum Evaluation Report"
+    },
+    {
+      "url": "https://www.stbrigidspalmerstown.com/_files/ugd/b26270_b93bf3c6008d40ba9773fa1382ba0694.pdf",
+      "final_url": "https://www.stbrigidspalmerstown.com/_files/ugd/b26270_b93bf3c6008d40ba9773fa1382ba0694.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Yard Line Up"
+    },
+    {
+      "url": "https://www.stbrigidspalmerstown.com/sitemap.xml",
+      "final_url": "https://www.stbrigidspalmerstown.com/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.stbrigidspalmerstown.com/parents-1",
+      "final_url": "https://www.stbrigidspalmerstown.com/parents-1",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parent's Association"
+    },
+    {
+      "url": "https://www.stbrigidspalmerstown.com/parents",
+      "final_url": "https://www.stbrigidspalmerstown.com/parents",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Rules"
+    },
+    {
+      "url": "https://www.stbrigidspalmerstown.com/parental-responsibility",
+      "final_url": "https://www.stbrigidspalmerstown.com/parental-responsibility",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents/Guardians"
+    },
+    {
+      "url": "https://www.stbrigidspalmerstown.com/pages-sitemap.xml",
+      "final_url": "https://www.stbrigidspalmerstown.com/pages-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.stbrigidspalmerstown.com/home-cyf2",
+      "final_url": "https://www.stbrigidspalmerstown.com/home-cyf2",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.stbrigidspalmerstown.com/_files/ugd/b26270_c247356b699e4330999c7164545bee69.pdf",
+      "final_url": "https://www.stbrigidspalmerstown.com/_files/ugd/b26270_c247356b699e4330999c7164545bee69.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download Checklist"
+    },
+    {
+      "url": "https://www.stbrigidspalmerstown.com/copy-of-policies",
+      "final_url": "https://www.stbrigidspalmerstown.com/copy-of-policies",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Data Protection Policies"
+    },
+    {
+      "url": "https://www.stbrigidspalmerstown.com/",
+      "final_url": "https://www.stbrigidspalmerstown.com/",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.stbrigidspalmerstown.com/_files/ugd/b26270_b7f373d522e44f16a5834fe70c08d594.pdf",
+      "final_url": "https://www.stbrigidspalmerstown.com/_files/ugd/b26270_b7f373d522e44f16a5834fe70c08d594.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Application Form 2026-2027"
+    },
+    {
+      "url": "https://www.stbrigidspalmerstown.com/_files/ugd/b26270_fb3e993e01d34ebcb3f2a9ebfbd343f2.pdf",
+      "final_url": "https://www.stbrigidspalmerstown.com/_files/ugd/b26270_fb3e993e01d34ebcb3f2a9ebfbd343f2.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download Policy"
+    },
+    {
+      "url": "https://www.stbrigidspalmerstown.com/_files/ugd/b26270_f505f116580f45e2857593648a57f19e.pdf",
+      "final_url": "https://www.stbrigidspalmerstown.com/_files/ugd/b26270_f505f116580f45e2857593648a57f19e.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download Policy"
+    },
+    {
+      "url": "https://www.stbrigidspalmerstown.com/_files/ugd/b26270_f494c5fcba9240a8b305eac8e0bf7cd7.pdf",
+      "final_url": "https://www.stbrigidspalmerstown.com/_files/ugd/b26270_f494c5fcba9240a8b305eac8e0bf7cd7.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download Policy"
+    },
+    {
+      "url": "https://www.stbrigidspalmerstown.com/_files/ugd/b26270_f38a53f52f2548a2b230d9f15692d62c.pdf",
+      "final_url": "https://www.stbrigidspalmerstown.com/_files/ugd/b26270_f38a53f52f2548a2b230d9f15692d62c.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download Policy"
+    },
+    {
+      "url": "https://www.stbrigidspalmerstown.com/_files/ugd/b26270_e8cc7bad43624b66a5ba30486083ca69.pdf",
+      "final_url": "https://www.stbrigidspalmerstown.com/_files/ugd/b26270_e8cc7bad43624b66a5ba30486083ca69.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download Policy"
+    },
+    {
+      "url": "https://www.stbrigidspalmerstown.com/_files/ugd/b26270_e51034a413254a4aa077069bab605a88.pdf",
+      "final_url": "https://www.stbrigidspalmerstown.com/_files/ugd/b26270_e51034a413254a4aa077069bab605a88.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download Policy"
+    },
+    {
+      "url": "https://www.stbrigidspalmerstown.com/_files/ugd/b26270_dfc6fe91e6df4ee7a7851412f9db9c7a.pdf",
+      "final_url": "https://www.stbrigidspalmerstown.com/_files/ugd/b26270_dfc6fe91e6df4ee7a7851412f9db9c7a.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download Policy"
+    },
+    {
+      "url": "https://www.stbrigidspalmerstown.com/_files/ugd/b26270_d93db5ae7e1c4a9c9b63b9d2b49753c5.pdf",
+      "final_url": "https://www.stbrigidspalmerstown.com/_files/ugd/b26270_d93db5ae7e1c4a9c9b63b9d2b49753c5.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download Policy"
+    },
+    {
+      "url": "https://www.stbrigidspalmerstown.com/_files/ugd/b26270_cc2eb80b448e4347932080b7d9752bf2.pdf",
+      "final_url": "https://www.stbrigidspalmerstown.com/_files/ugd/b26270_cc2eb80b448e4347932080b7d9752bf2.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download Policy"
+    },
+    {
+      "url": "https://www.stbrigidspalmerstown.com/_files/ugd/b26270_bee306899c6f4023ab5e6476d77a70cd.pdf",
+      "final_url": "https://www.stbrigidspalmerstown.com/_files/ugd/b26270_bee306899c6f4023ab5e6476d77a70cd.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download Policy"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "18324C",
+      "url": "https://www.stbrigidspalmerstown.com/admissions",
+      "label": "Admissions",
+      "sha256": "136f1047c16658cc185741067e60553c8360b54afd191cd07b37ddedba5f9992",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/18324C_136f1047c16658cc1857.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 406
+    },
+    {
+      "roll": "18324C",
+      "url": "https://www.stbrigidspalmerstown.com/home-cyf2",
+      "label": "Policies",
+      "sha256": "ef12ce347b1c6f4ba51f69a3b1c031421b68f468046217a91d1780172e1d4907",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/18324C_ef12ce347b1c6f4ba51f.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1270
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.stbrigidspalmerstown.com/_files/ugd/b26270_bb5a770aaee34c0f979d7182da627e59.pdf",
+      "label": "Download Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stbrigidspalmerstown.com/_files/ugd/b26270_acfd76d0e7f840a2b5b150c95220a74c.pdf",
+      "label": "Download Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stbrigidspalmerstown.com/_files/ugd/b26270_ab7881ebff314f6e98e14dc3e08b24b6.pdf",
+      "label": "Download Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stbrigidspalmerstown.com/_files/ugd/b26270_a78eb6e3253d4109b0b815d79d202f2d.pdf",
+      "label": "Download Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stbrigidspalmerstown.com/_files/ugd/b26270_a5ff4b36ddb245758bed498a7bf93141.pdf",
+      "label": "Download Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stbrigidspalmerstown.com/_files/ugd/b26270_9b31d45563944bbf81137f01bcbea718.pdf",
+      "label": "Download Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stbrigidspalmerstown.com/_files/ugd/b26270_94a5560aa3084f76b395ea3e291bb9bb.pdf",
+      "label": "Download Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stbrigidspalmerstown.com/_files/ugd/b26270_8ff15beda80e4867b15ceef6c11ecc59.pdf",
+      "label": "Download Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stbrigidspalmerstown.com/_files/ugd/b26270_8e34c388efb646c2a87b410e7d0cd5c4.pdf",
+      "label": "Download Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stbrigidspalmerstown.com/_files/ugd/b26270_8c3beca7a4da44c8b0e5e775830f7a90.pdf",
+      "label": "Download Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stbrigidspalmerstown.com/_files/ugd/b26270_889e7bbe071549b789889e70ac40780c.pdf",
+      "label": "Download Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stbrigidspalmerstown.com/_files/ugd/b26270_842b297e48ff4f3d9ee42b1bda433f0c.pdf",
+      "label": "Download Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stbrigidspalmerstown.com/_files/ugd/b26270_828acfcd7b72454bbaa1c96eeffeb6b7.pdf",
+      "label": "Download Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stbrigidspalmerstown.com/_files/ugd/b26270_7269eb41a2ca449a880114d4a3788e19.pdf",
+      "label": "Download Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stbrigidspalmerstown.com/_files/ugd/b26270_7009f3613b4b4e83bd4d26a95985e48a.pdf",
+      "label": "Download Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stbrigidspalmerstown.com/_files/ugd/b26270_6eb70e3f48644e648ef48d000e17132b.pdf",
+      "label": "Download Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stbrigidspalmerstown.com/_files/ugd/b26270_6d8ae33ad32f46d1b1c9a5f6e86fa2fc.pdf",
+      "label": "Download Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stbrigidspalmerstown.com/_files/ugd/b26270_6a1d7c8842ec4436b0c00ee6f741f794.pdf",
+      "label": "Download Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stbrigidspalmerstown.com/_files/ugd/b26270_62e8db9d67934a5c881e349d96915622.pdf",
+      "label": "Download Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stbrigidspalmerstown.com/_files/ugd/b26270_60cb3d3044514d01a97eb88354f30dbb.pdf",
+      "label": "Download Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stbrigidspalmerstown.com/_files/ugd/b26270_4c0e8efc25f74c13b884239f3acf0e65.pdf",
+      "label": "Download Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stbrigidspalmerstown.com/_files/ugd/b26270_4bf4b47e38e44d7eb1c53b88ee8c0492.pdf",
+      "label": "Download Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stbrigidspalmerstown.com/_files/ugd/b26270_3a2e347f4b4a4c7fb65b49f0f12cea55.pdf",
+      "label": "Download Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stbrigidspalmerstown.com/_files/ugd/b26270_074054a19df54279967f5592b5367385.pdf",
+      "label": "Download Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stbrigidspalmerstown.com/_files/ugd/b26270_062c2fb803bc4d54b5caa7de86908859.pdf",
+      "label": "Download Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 67.59,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:52:37+0000"
+}

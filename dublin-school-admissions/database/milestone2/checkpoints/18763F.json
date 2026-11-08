@@ -1,0 +1,410 @@
+{
+  "roll": "18763F",
+  "status": "bounded_search_no_new_notice_found",
+  "attempts": [
+    {
+      "url": "https://www.smhballymunschool.ie/parents-area/admissions/?googletranslate=true",
+      "final_url": "https://www.smhballymunschool.ie/parents-area/admissions/?googletranslate=true",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "https://www.smhballymunschool.ie/documentlink/116/?open=true",
+      "final_url": "https://view.officeapps.live.com/op/embed.aspx?src=https://swddoc.b-cdn.net/712/docletter/20261102113512_46_Admissions_Notice-_2027-28.docx",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Admissions Notice- 2027-28.docx"
+    },
+    {
+      "url": "https://www.smhballymunschool.ie/parents-area/admissions/",
+      "final_url": "https://www.smhballymunschool.ie/parents-area/admissions/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://www.smhballymunschool.ie/admin/?open=/parents-area/admissions/?googletranslate=true",
+      "final_url": "https://www.smhballymunschool.ie/admin/?open=/parents-area/admissions/?googletranslate=true",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.smhballymunschool.ie/admin/?open=/parents-area/admissions/",
+      "final_url": "https://www.smhballymunschool.ie/admin/?open=/parents-area/admissions/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.smhballymunschool.ie/parents-area/calendar-2025-26/",
+      "final_url": "https://www.smhballymunschool.ie/parents-area/calendar-2025-26/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Calendar 2025-26"
+    },
+    {
+      "url": "https://www.smhballymunschool.ie/parents-area/calendar-2025-26/?googletranslate=true",
+      "final_url": "https://www.smhballymunschool.ie/parents-area/calendar-2025-26/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.smhballymunschool.ie/admin/?open=/parents-area/calendar-2025-26/?googletranslate=true",
+      "final_url": "https://www.smhballymunschool.ie/admin/?open=/parents-area/calendar-2025-26/?googletranslate=true",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.smhballymunschool.ie/admin/?open=/parents-area/calendar-2025-26/",
+      "final_url": "https://www.smhballymunschool.ie/admin/?open=/parents-area/calendar-2025-26/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.smhballymunschool.ie/documentlink/122/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/712/docletter/20261102114718_82_Admissions_Policy_2027-28_SMH_Ballymun_School.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Admissions Policy 2027-28 SMH Ballymun School.pdf"
+    },
+    {
+      "url": "https://www.smhballymunschool.ie/sitemap.xml",
+      "final_url": "https://www.smhballymunschool.ie/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.smhballymunschool.ie/parents-area/school-letters/",
+      "final_url": "https://www.smhballymunschool.ie/parents-area/school-letters/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Letters"
+    },
+    {
+      "url": "https://www.smhballymunschool.ie/parents-area/school-letters/?googletranslate=true",
+      "final_url": "https://www.smhballymunschool.ie/parents-area/school-letters/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.smhballymunschool.ie/parents-area/newsletter/",
+      "final_url": "https://www.smhballymunschool.ie/parents-area/newsletter/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Newsletter"
+    },
+    {
+      "url": "https://www.smhballymunschool.ie/parents-area/newsletter/?googletranslate=true",
+      "final_url": "https://www.smhballymunschool.ie/parents-area/newsletter/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.smhballymunschool.ie/parents-area/forms/",
+      "final_url": "https://www.smhballymunschool.ie/parents-area/forms/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Forms"
+    },
+    {
+      "url": "https://www.smhballymunschool.ie/parents-area/forms/?googletranslate=true",
+      "final_url": "https://www.smhballymunschool.ie/parents-area/forms/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.smhballymunschool.ie/parents-area/",
+      "final_url": "https://www.smhballymunschool.ie/parents-area/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents"
+    },
+    {
+      "url": "https://www.smhballymunschool.ie/parents-area/?googletranslate=true",
+      "final_url": "https://www.smhballymunschool.ie/parents-area/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.smhballymunschool.ie/our-school/policies/",
+      "final_url": "https://www.smhballymunschool.ie/our-school/policies/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.smhballymunschool.ie/documentlink/98/?open=true",
+      "final_url": "https://www.smhballymunschool.ie/cmsfiles/items/downloads/9971-SMHschoolBallymun-AnnualreviewAnti-Bullying20261.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Anti Bullying Parents Notification of Review 2026.pdf"
+    },
+    {
+      "url": "https://www.smhballymunschool.ie/documentlink/97/?open=true",
+      "final_url": "https://www.smhballymunschool.ie/cmsfiles/items/downloads/4336-CSS3-CSS1CHILDSAFEGUARDINGSMHBALLYMUNSCHOOL2026.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Child Safeguarding (CSS3) Parents Notification of Review 2026-27.pdf"
+    },
+    {
+      "url": "https://www.smhballymunschool.ie/documentlink/117/?open=true",
+      "final_url": "https://view.officeapps.live.com/op/embed.aspx?src=https://swddoc.b-cdn.net/712/docletter/20261102113615_52_Admissions_POLICY_2027-2028_SMH_Ballymun-final_1_.doc",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Admissions POLICY 2027-2028 SMH Ballymun-final 1 .doc"
+    },
+    {
+      "url": "https://www.smhballymunschool.ie/our-school/policies/?googletranslate=true",
+      "final_url": "https://www.smhballymunschool.ie/our-school/policies/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    }
+  ],
+  "documents": [],
+  "pending_links": [
+    {
+      "url": "https://www.smhballymunschool.ie/our-school/admission-policy/?googletranslate=true",
+      "label": "",
+      "via": "prior_public_admissions_landing"
+    },
+    {
+      "url": "https://www.smhballymunschool.ie/our-school/admission-policy/",
+      "label": "Admission Policy",
+      "via": "prior_public_admissions_landing"
+    },
+    {
+      "url": "https://www.smhballymunschool.ie/letterlink/31/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.smhballymunschool.ie/letterlink/30/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.smhballymunschool.ie/letterlink/28/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.smhballymunschool.ie/letterlink/27/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.smhballymunschool.ie/letterlink/26/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.smhballymunschool.ie/letterlink/25/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.smhballymunschool.ie/letterlink/23/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.smhballymunschool.ie/letterlink/22/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.smhballymunschool.ie/letterlink/21/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.smhballymunschool.ie/letterlink/18/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.smhballymunschool.ie/letterlink/17/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.smhballymunschool.ie/documentlink/98/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.smhballymunschool.ie/documentlink/97/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.smhballymunschool.ie/documentlink/93/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.smhballymunschool.ie/documentlink/68/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.smhballymunschool.ie/documentlink/58/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.smhballymunschool.ie/documentlink/58/?open=true",
+      "label": "Parental-Complaints-Procedure V4-final.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.smhballymunschool.ie/documentlink/44/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.smhballymunschool.ie/documentlink/122/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.smhballymunschool.ie/documentlink/120/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.smhballymunschool.ie/documentlink/118/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.smhballymunschool.ie/documentlink/117/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.smhballymunschool.ie/documentlink/116/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.smhballymunschool.ie/documentlink/115/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.smhballymunschool.ie/documentlink/112/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.smhballymunschool.ie/documentlink/110/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.smhballymunschool.ie/documentlink/100/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.smhballymunschool.ie/admin/?open=/parents-area/school-letters/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.smhballymunschool.ie/admin/?open=/parents-area/school-letters/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.smhballymunschool.ie/admin/?open=/parents-area/newsletter/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.smhballymunschool.ie/admin/?open=/parents-area/newsletter/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.smhballymunschool.ie/admin/?open=/parents-area/forms/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.smhballymunschool.ie/admin/?open=/parents-area/forms/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.smhballymunschool.ie/admin/?open=/parents-area/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.smhballymunschool.ie/admin/?open=/parents-area/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.smhballymunschool.ie/admin/?open=/our-school/policies/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.smhballymunschool.ie/admin/?open=/our-school/policies/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.smhballymunschool.ie",
+      "label": "School homepage",
+      "via": "home"
+    },
+    {
+      "url": "https://www.smhballymunschool.ie/documentlink/68/?open=true",
+      "label": "SMH Ballymun Behaviour policy -Sept 2024.doc",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.smhballymunschool.ie/documentlink/110/?open=true",
+      "label": "Illness Infection control policy 2024.docx",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.smhballymunschool.ie/documentlink/120/?open=true",
+      "label": "SMH Ballymun Parent-School communication Policy 2026.docx",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.smhballymunschool.ie/documentlink/112/?open=true",
+      "label": "SMH Intimate Care Policy Jan 26.docx",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.smhballymunschool.ie/cmsfiles/policies/privacy/",
+      "label": "Website Privacy Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.smhballymunschool.ie/cmsfiles/policies/cookie/",
+      "label": "Cookie Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 69.6,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:54:04+0000"
+}

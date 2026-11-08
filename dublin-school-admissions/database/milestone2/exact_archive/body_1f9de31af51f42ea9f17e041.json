@@ -1,0 +1,19 @@
+{
+  "roll": "17507F",
+  "capture": {
+    "original": "https://www.glencullenschool.ie/wp-content/uploads/2021/10/Annual-Admission-Notice-20222023.pdf",
+    "timestamp": "20220627051148",
+    "linked_from_capture": "https://web.archive.org/web/20220627051148/https://www.glencullenschool.ie/policies/admission-policy/",
+    "link_label": "Annual Admission Notice 20222023"
+  },
+  "original_url": "https://www.glencullenschool.ie/wp-content/uploads/2021/10/Annual-Admission-Notice-20222023.pdf",
+  "archived_url": "https://web.archive.org/web/20220627051148/https://www.glencullenschool.ie/wp-content/uploads/2021/10/Annual-Admission-Notice-20222023.pdf",
+  "attempted_at": "2026-11-08T13:08:16.871362+00:00",
+  "linked_from_capture": "https://web.archive.org/web/20220627051148/https://www.glencullenschool.ie/policies/admission-policy/",
+  "http_status": 404,
+  "headers": {
+    "Content-Type": "text/html"
+  },
+  "bytes": 4728,
+  "status": "replay_http_404_or_missing_capture_header"
+}

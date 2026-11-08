@@ -1,0 +1,121 @@
+{
+  "roll": "19546C",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.ollies11.ie",
+      "final_url": "https://www.ollies11.ie",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.ollies11.ie/donate",
+      "final_url": "https://www.ollies11.ie/donate",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Enrolment"
+    },
+    {
+      "url": "https://www.ollies11.ie/sitemap.xml",
+      "final_url": "https://www.ollies11.ie/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.ollies11.ie/pages-sitemap.xml",
+      "final_url": "https://www.ollies11.ie/pages-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.ollies11.ie/member-profiles_p_first-chunk-sitemap.xml",
+      "final_url": "https://www.ollies11.ie/member-profiles_p_first-chunk-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.ollies11.ie/event-pages-sitemap.xml",
+      "final_url": "https://www.ollies11.ie/event-pages-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.ollies11.ie/blank-1",
+      "final_url": "https://www.ollies11.ie/blank-1",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.ollies11.ie/_files/ugd/05931e_4763afba85a143e39047899c7846f27b.pdf",
+      "final_url": "https://60bc6cbc-67ef-4776-a04b-4d09d2c86e09.filesusr.com/ugd/05931e_4763afba85a143e39047899c7846f27b.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "Admissions Notice JI 27"
+    },
+    {
+      "url": "https://www.ollies11.ie/_files/ugd/05931e_07c1610d887547f4990372f3f06d3bf6.pdf",
+      "final_url": "https://60bc6cbc-67ef-4776-a04b-4d09d2c86e09.filesusr.com/ugd/05931e_07c1610d887547f4990372f3f06d3bf6.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "Autism Class Admissions Notice 27"
+    },
+    {
+      "url": "https://www.ollies11.ie/_files/ugd/e18947_94e5eb13ad354d6d82200c6d5defbc09.docx?dn=admissionspolicy.docx",
+      "final_url": "https://www.ollies11.ie/_files/ugd/e18947_94e5eb13ad354d6d82200c6d5defbc09.docx?dn=admissionspolicy.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions Policy"
+    },
+    {
+      "url": "https://www.ollies11.ie/_files/ugd/05931e_6ca044202a104fafa45f7663468cad85.docx?dn=Ollies_Whole_School_Nurture_Policy_2026_27.docx",
+      "final_url": "https://60bc6cbc-67ef-4776-a04b-4d09d2c86e09.filesusr.com/ugd/05931e_6ca044202a104fafa45f7663468cad85.docx?dn=Ollies_Whole_School_Nurture_Policy_2026_27.docx",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "whole school nurture policy 2026"
+    },
+    {
+      "url": "https://www.ollies11.ie/_files/ugd/e18947_d763b19e6c6d4f108f35ea99d1e6eec4.docx?dn=parentalcomplaintspolicy.docx",
+      "final_url": "https://www.ollies11.ie/_files/ugd/e18947_d763b19e6c6d4f108f35ea99d1e6eec4.docx?dn=parentalcomplaintspolicy.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents Complaint Policy"
+    },
+    {
+      "url": "https://www.ollies11.ie/refund-policy",
+      "final_url": "https://www.ollies11.ie/refund-policy",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "News"
+    },
+    {
+      "url": "https://www.ollies11.ie/privacy-policy",
+      "final_url": "https://www.ollies11.ie/privacy-policy",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Creative Schools"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19546C",
+      "url": "https://www.ollies11.ie/_files/ugd/e18947_94e5eb13ad354d6d82200c6d5defbc09.docx?dn=admissionspolicy.docx",
+      "label": "Admissions Policy",
+      "sha256": "3738b29fcf73a309e6e314c5241cccf686591d9ae2ddc2bfec203441cce1d1f3",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/19546C_3738b29fcf73a309e6e3.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 23843
+    }
+  ],
+  "pending_links": [],
+  "elapsed_seconds": 41.45,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:07:00+0000"
+}

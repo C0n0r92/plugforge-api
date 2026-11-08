@@ -1,0 +1,288 @@
+{
+  "roll": "17464N",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.stfinbarrsbns.ie/admissions/",
+      "final_url": "https://www.stfinbarrsbns.ie/admissions/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://www.stfinbarrsbns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://www.stfinbarrsbns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://www.stfinbarrsbns.ie/wp-content/uploads/2025/11/Admissions-Policy_2025-2.pdf",
+      "final_url": "https://www.stfinbarrsbns.ie/wp-content/uploads/2025/11/Admissions-Policy_2025-2.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions Policy"
+    },
+    {
+      "url": "https://www.stfinbarrsbns.ie/wp-content/uploads/2026/10/Application-form-2027-2028.docx",
+      "final_url": "https://www.stfinbarrsbns.ie/wp-content/uploads/2026/10/Application-form-2027-2028.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Enrolment Form"
+    },
+    {
+      "url": "https://www.stfinbarrsbns.ie/sitemap_index.xml",
+      "final_url": "https://www.stfinbarrsbns.ie/sitemap_index.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.stfinbarrsbns.ie/post-sitemap.xml",
+      "final_url": "https://www.stfinbarrsbns.ie/post-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.stfinbarrsbns.ie/policies/",
+      "final_url": "https://www.stfinbarrsbns.ie/policies/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.stfinbarrsbns.ie/page-sitemap.xml",
+      "final_url": "https://www.stfinbarrsbns.ie/page-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.stfinbarrsbns.ie",
+      "final_url": "https://www.stfinbarrsbns.ie",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.stfinbarrsbns.ie/parent-and-toddler-group/",
+      "final_url": "https://www.stfinbarrsbns.ie/parent-and-toddler-group/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parent and Toddler Group 2024"
+    },
+    {
+      "url": "https://www.stfinbarrsbns.ie/grandparents-day-2024/",
+      "final_url": "https://www.stfinbarrsbns.ie/grandparents-day-2024/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Grandparents’ Day 2024"
+    },
+    {
+      "url": "https://www.stfinbarrsbns.ie/wp-content/uploads/2024/01/Grandparents-Day-24-CF-32-1024x768.jpg",
+      "final_url": "https://www.stfinbarrsbns.ie/wp-content/uploads/2024/01/Grandparents-Day-24-CF-32-1024x768.jpg",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stfinbarrsbns.ie/wp-content/uploads/2024/01/Grandparents-Day-24-CF-31-1024x768.jpg",
+      "final_url": "https://www.stfinbarrsbns.ie/wp-content/uploads/2024/01/Grandparents-Day-24-CF-31-1024x768.jpg",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stfinbarrsbns.ie/wp-content/uploads/2024/01/Grandparents-Day-24-CF-30-1024x768.jpg",
+      "final_url": "https://www.stfinbarrsbns.ie/wp-content/uploads/2024/01/Grandparents-Day-24-CF-30-1024x768.jpg",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stfinbarrsbns.ie/wp-content/uploads/2024/01/Grandparents-Day-24-CF-26-1024x768.jpg",
+      "final_url": "https://www.stfinbarrsbns.ie/wp-content/uploads/2024/01/Grandparents-Day-24-CF-26-1024x768.jpg",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stfinbarrsbns.ie/wp-content/uploads/2024/01/Grandparents-Day-24-CF-25-1024x768.jpg",
+      "final_url": "https://www.stfinbarrsbns.ie/wp-content/uploads/2024/01/Grandparents-Day-24-CF-25-1024x768.jpg",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stfinbarrsbns.ie/wp-content/uploads/2024/01/Grandparents-Day-24-CF-23-1024x768.jpg",
+      "final_url": "https://www.stfinbarrsbns.ie/wp-content/uploads/2024/01/Grandparents-Day-24-CF-23-1024x768.jpg",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stfinbarrsbns.ie/wp-content/uploads/2024/01/Grandparents-Day-24-CF-22-1024x768.jpg",
+      "final_url": "https://www.stfinbarrsbns.ie/wp-content/uploads/2024/01/Grandparents-Day-24-CF-22-1024x768.jpg",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stfinbarrsbns.ie/wp-content/uploads/2024/01/Grandparents-Day-24-CF-21-1024x768.jpg",
+      "final_url": "https://www.stfinbarrsbns.ie/wp-content/uploads/2024/01/Grandparents-Day-24-CF-21-1024x768.jpg",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stfinbarrsbns.ie/wp-content/uploads/2024/01/Grandparents-Day-24-CF-19-1024x768.jpg",
+      "final_url": "https://www.stfinbarrsbns.ie/wp-content/uploads/2024/01/Grandparents-Day-24-CF-19-1024x768.jpg",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stfinbarrsbns.ie/wp-content/uploads/2024/01/Grandparents-Day-24-CF-17-1024x768.jpg",
+      "final_url": "https://www.stfinbarrsbns.ie/wp-content/uploads/2024/01/Grandparents-Day-24-CF-17-1024x768.jpg",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stfinbarrsbns.ie/wp-content/uploads/2024/01/Grandparents-Day-24-CF-16-1024x768.jpg",
+      "final_url": "https://www.stfinbarrsbns.ie/wp-content/uploads/2024/01/Grandparents-Day-24-CF-16-1024x768.jpg",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stfinbarrsbns.ie/wp-content/uploads/2024/01/Grandparents-Day-24-CF-15-1024x768.jpg",
+      "final_url": "https://www.stfinbarrsbns.ie/wp-content/uploads/2024/01/Grandparents-Day-24-CF-15-1024x768.jpg",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stfinbarrsbns.ie/wp-content/uploads/2024/01/Grandparents-Day-24-CF-14-1024x768.jpg",
+      "final_url": "https://www.stfinbarrsbns.ie/wp-content/uploads/2024/01/Grandparents-Day-24-CF-14-1024x768.jpg",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    }
+  ],
+  "documents": [
+    {
+      "roll": "17464N",
+      "url": "https://www.stfinbarrsbns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "label": "Oldest public admission media (all dates)",
+      "sha256": "254941767adef19048711d55badfc55e43a19d432da6f57daa24244b9e52fb38",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/17464N_254941767adef1904871.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 286
+    },
+    {
+      "roll": "17464N",
+      "url": "https://www.stfinbarrsbns.ie/wp-content/uploads/2025/11/Admissions-Policy_2025-2.pdf",
+      "label": "Admissions Policy",
+      "sha256": "183f737517bb27420d9042401609eac113de15cb06918964d080d25336bcb781",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/17464N_183f737517bb27420d90.txt",
+      "source_file": "database/milestone2/cache/183f737517bb27420d9042401609eac113de15cb06918964d080d25336bcb781.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 28096
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.stfinbarrsbns.ie/wp-content/uploads/2024/01/Grandparents-Day-24-CF-13-1024x768.jpg",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfinbarrsbns.ie/wp-content/uploads/2024/01/Grandparents-Day-24-CF-12-1024x768.jpg",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfinbarrsbns.ie/happy-granparents-day/",
+      "label": "Grandparents Day 2026",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfinbarrsbns.ie/update-advice-for-parents-on-covid/",
+      "label": "Update Advice for Parents on Covid",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfinbarrsbns.ie/triple-p-parenting-course-sign-up/",
+      "label": "Triple P Parenting Course Sign Up",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfinbarrsbns.ie/november-update-advice-for-parents-on-covid/",
+      "label": "November Update Advice for Parents on Covid",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfinbarrsbns.ie/hse-information-advice-for-parents/",
+      "label": "HSE Information Advice for Parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfinbarrsbns.ie/free-parenting-workshops/",
+      "label": "Free Parenting Workshops",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfinbarrsbns.ie/courses-and-supports-for-parents/",
+      "label": "Courses and Supports for Parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfinbarrsbns.ie/category/parents/",
+      "label": "Parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfinbarrsbns.ie/cabra-parents-support-information/",
+      "label": "Cabra Parents Support Information",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfinbarrsbns.ie/arts-and-crafts-for-parents/",
+      "label": "Arts and Crafts for Parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfinbarrsbns.ie/wp-content/uploads/2026/02/Parent_Guardian-Complaints-Policy-2025.pdf",
+      "label": "View Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfinbarrsbns.ie/wp-content/uploads/2025/11/Healthy-Eating-Policy_-1.pdf",
+      "label": "View Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfinbarrsbns.ie/wp-content/uploads/2025/11/Code-of-Behaviour-2025-2.pdf",
+      "label": "View Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfinbarrsbns.ie/wp-content/uploads/2025/11/Child-Protection-Policy-1.pdf",
+      "label": "View Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stfinbarrsbns.ie/wp-content/uploads/2025/11/Bi-Cinealta-Policy-2.pdf",
+      "label": "View Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 89.48,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:52:11+0000"
+}

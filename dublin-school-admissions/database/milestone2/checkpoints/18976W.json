@@ -1,0 +1,753 @@
+{
+  "roll": "18976W",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.colmcilles.net/key-information/annual-admissions-notice-2020",
+      "final_url": "https://www.colmcilles.net/key-information/annual-admissions-notice-2020",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Annual Admissions Notice"
+    },
+    {
+      "url": "https://www.colmcilles.net/key-information/policies/group-1/admissions",
+      "final_url": "https://www.colmcilles.net/key-information/policies/group-1/admissions",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://www.colmcilles.net/key-information/policies/group-1",
+      "final_url": "https://www.colmcilles.net/key-information/policies/group-1",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://www.colmcilles.net/key-information/policies",
+      "final_url": "https://www.colmcilles.net/key-information/policies",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://www.colmcilles.net/key-information/application-for-enrolment",
+      "final_url": "https://www.colmcilles.net/key-information/application-for-enrolment",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Application for Enrolment"
+    },
+    {
+      "url": "https://www.colmcilles.net/downloadfile/21193822",
+      "final_url": "https://s3.eu-west-1.amazonaws.com/jotter2.files/18593113?response-content-type=application%2Fvnd.openxmlformats-officedocument.wordprocessingml.document&response-content-disposition=attachment%3Bfilename%3Dapplication-for-enrolment-autism-class-october-2025.docx&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIH4MJHC24RK4EHAA%2F20261108%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Date=20261108T130428Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3000&X-Amz-Signature=5730ca9864c1595237ce31dd39511ae506ad7b88b837ad6f77eaa798bf07864e",
+      "status": "robots_permission_unestablished_http_403",
+      "via": "school_public_link",
+      "label": "Download Document"
+    },
+    {
+      "url": "https://www.colmcilles.net/downloadfile/21193821",
+      "final_url": "https://s3.eu-west-1.amazonaws.com/jotter2.files/18593112?response-content-type=application%2Fvnd.openxmlformats-officedocument.wordprocessingml.document&response-content-disposition=attachment%3Bfilename%3Dapplication-for-enrolment-mainstream-october-2025.docx&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIH4MJHC24RK4EHAA%2F20261108%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Date=20261108T130431Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3000&X-Amz-Signature=5b2e7567058da82a50c4b243c219d03cc0d427c3984c849d2ccc9c1b8027d9dd",
+      "status": "robots_permission_unestablished_http_403",
+      "via": "school_public_link",
+      "label": "Download Document"
+    },
+    {
+      "url": "https://www.colmcilles.net/key-information",
+      "final_url": "https://www.colmcilles.net/key-information",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://www.colmcilles.net/parents/class-photographs/2014-2015",
+      "final_url": "https://www.colmcilles.net/parents/class-photographs/2014-2015",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "2014 / 2015"
+    },
+    {
+      "url": "https://www.colmcilles.net/parents/newsletters/2015/march-2015",
+      "final_url": "https://www.colmcilles.net/parents/newsletters/2015/march-2015",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "March 2015"
+    },
+    {
+      "url": "https://www.colmcilles.net/parents/newsletters/2015/june-2015",
+      "final_url": "https://www.colmcilles.net/parents/newsletters/2015/june-2015",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "June 2015"
+    },
+    {
+      "url": "https://www.colmcilles.net/parents/newsletters/2015/february-2015",
+      "final_url": "https://www.colmcilles.net/parents/newsletters/2015/february-2015",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "February 2015"
+    },
+    {
+      "url": "https://www.colmcilles.net/parents/newsletters/2015/december-2015",
+      "final_url": "https://www.colmcilles.net/parents/newsletters/2015/december-2015",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "December 2015"
+    },
+    {
+      "url": "https://www.colmcilles.net/parents/newsletters/2015",
+      "final_url": "https://www.colmcilles.net/parents/newsletters/2015",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "2015"
+    },
+    {
+      "url": "https://www.colmcilles.net/parents/class-photographs/2015-2016",
+      "final_url": "https://www.colmcilles.net/parents/class-photographs/2015-2016",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "2015 / 2016"
+    },
+    {
+      "url": "https://www.colmcilles.net/parents/newsletters/2016",
+      "final_url": "https://www.colmcilles.net/parents/newsletters/2016",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "2016"
+    },
+    {
+      "url": "https://www.colmcilles.net/parents/class-photographs/2016-2017",
+      "final_url": "https://www.colmcilles.net/parents/class-photographs/2016-2017",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "2016 / 2017"
+    },
+    {
+      "url": "https://www.colmcilles.net/parents/newsletters/2017/october-2017",
+      "final_url": "https://www.colmcilles.net/parents/newsletters/2017/october-2017",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "October 2017"
+    },
+    {
+      "url": "https://www.colmcilles.net/parents/newsletters/2017/february-2017",
+      "final_url": "https://www.colmcilles.net/parents/newsletters/2017/february-2017",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "February 2017"
+    },
+    {
+      "url": "https://www.colmcilles.net/parents/newsletters/2017/december-2017",
+      "final_url": "https://www.colmcilles.net/parents/newsletters/2017/december-2017",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "December 2017"
+    },
+    {
+      "url": "https://www.colmcilles.net/parents/newsletters/2017/april-2017",
+      "final_url": "https://www.colmcilles.net/parents/newsletters/2017/april-2017",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "April 2017"
+    },
+    {
+      "url": "https://www.colmcilles.net/parents/newsletters/2017",
+      "final_url": "https://www.colmcilles.net/parents/newsletters/2017",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "2017"
+    },
+    {
+      "url": "https://www.colmcilles.net/parents/newsletters/2018/september-2018",
+      "final_url": "https://www.colmcilles.net/parents/newsletters/2018/september-2018",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "September 2018"
+    },
+    {
+      "url": "https://www.colmcilles.net/parents/newsletters/2018/february-2018",
+      "final_url": "https://www.colmcilles.net/parents/newsletters/2018/february-2018",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "February 2018"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "18976W",
+      "url": "https://www.colmcilles.net/key-information/annual-admissions-notice-2020",
+      "label": "Annual Admissions Notice",
+      "sha256": "027241c85ed56d3fc057182f6399f0d125f4a3eeec2fc723e7cb16463cee0d34",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/18976W_027241c85ed56d3fc057.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 9153
+    },
+    {
+      "roll": "18976W",
+      "url": "https://www.colmcilles.net/key-information/policies/group-1/admissions",
+      "label": "Admissions",
+      "sha256": "ba410d948d842559c8b9ee59867c49c768157e23c8e25a6df7b5a571a1574690",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/18976W_ba410d948d842559c8b9.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 18100
+    },
+    {
+      "roll": "18976W",
+      "url": "https://www.colmcilles.net/key-information/policies/group-1",
+      "label": "Prior school admissions section",
+      "sha256": "3c6073f81c4cc87bc1bf9e07f55a484e6710f925f16c285ff4003bf48090f49b",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/18976W_3c6073f81c4cc87bc1bf.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 5686
+    },
+    {
+      "roll": "18976W",
+      "url": "https://www.colmcilles.net/key-information/policies",
+      "label": "Prior school admissions section",
+      "sha256": "33496cff71eae16fbb707549fd40c859d1e14c36e689c2ec6c917eca23455fce",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/18976W_33496cff71eae16fbb70.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 5663
+    },
+    {
+      "roll": "18976W",
+      "url": "https://www.colmcilles.net/key-information/application-for-enrolment",
+      "label": "Application for Enrolment",
+      "sha256": "2f00c3c70511e9c4000be835491e05a73f7ccd163466c9fb0e9f1fda9beafef6",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/18976W_2f00c3c70511e9c4000b.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 6098
+    },
+    {
+      "roll": "18976W",
+      "url": "https://www.colmcilles.net/key-information",
+      "label": "Prior school admissions section",
+      "sha256": "f067361ebfa36a43c99ee068ea9e85b001a538e3488a78ad6eb7e54accc313f6",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/18976W_f067361ebfa36a43c99e.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 5663
+    },
+    {
+      "roll": "18976W",
+      "url": "https://www.colmcilles.net/parents/class-photographs/2014-2015",
+      "label": "2014 / 2015",
+      "sha256": "91a1f660d24de7e5c7239699db7136b158785e78827b9dab267ce35d7f722a5f",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/18976W_91a1f660d24de7e5c723.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 6071
+    },
+    {
+      "roll": "18976W",
+      "url": "https://www.colmcilles.net/parents/newsletters/2015/march-2015",
+      "label": "March 2015",
+      "sha256": "e87535794325fbce0423a7aae76c9883c7f25599cead08cbacf4cc819e2cf3b6",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/18976W_e87535794325fbce0423.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 9832
+    },
+    {
+      "roll": "18976W",
+      "url": "https://www.colmcilles.net/parents/newsletters/2015/june-2015",
+      "label": "June 2015",
+      "sha256": "415b245f8b05b795f5aa612a434e001c455f8ec8657c2df282fac383adb81fb1",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/18976W_415b245f8b05b795f5aa.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 10783
+    },
+    {
+      "roll": "18976W",
+      "url": "https://www.colmcilles.net/parents/newsletters/2015/february-2015",
+      "label": "February 2015",
+      "sha256": "2a1cb1196f9a58efa4d45f74b0f5182ecc6bfbf374d43c554917cf37992ecec5",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/18976W_2a1cb1196f9a58efa4d4.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 9193
+    },
+    {
+      "roll": "18976W",
+      "url": "https://www.colmcilles.net/parents/newsletters/2015/december-2015",
+      "label": "December 2015",
+      "sha256": "74c0442fd02c7c7c2ec5002bab1646a1a73af505517b4683fb4842eb09b2889a",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/18976W_74c0442fd02c7c7c2ec5.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 12073
+    },
+    {
+      "roll": "18976W",
+      "url": "https://www.colmcilles.net/parents/newsletters/2015",
+      "label": "2015",
+      "sha256": "1cdb4521a584119fa773c6e8629bb9016e1f5fef2d83cb0e6e2d88a0b805aec8",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/18976W_1cdb4521a584119fa773.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 5668
+    },
+    {
+      "roll": "18976W",
+      "url": "https://www.colmcilles.net/parents/class-photographs/2015-2016",
+      "label": "2015 / 2016",
+      "sha256": "a7983b3abd9fb41f7b578c8d8f256388f2876aa080b87ad049670b0491408e84",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/18976W_a7983b3abd9fb41f7b57.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 6054
+    },
+    {
+      "roll": "18976W",
+      "url": "https://www.colmcilles.net/parents/newsletters/2016",
+      "label": "2016",
+      "sha256": "a9c57617a9ae8c7531c6c2efa2d7870aec0da656d5436fec56782125d5e62ab2",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/18976W_a9c57617a9ae8c7531c6.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 5683
+    },
+    {
+      "roll": "18976W",
+      "url": "https://www.colmcilles.net/parents/class-photographs/2016-2017",
+      "label": "2016 / 2017",
+      "sha256": "313e78ed97d461b063f9874cea8df6b2fcea6677742a7273031fcd87c0a65075",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/18976W_313e78ed97d461b063f9.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 6098
+    },
+    {
+      "roll": "18976W",
+      "url": "https://www.colmcilles.net/parents/newsletters/2017/october-2017",
+      "label": "October 2017",
+      "sha256": "0e28f8c3c9eab607eb648fc7a8f1d9c286885d26bf28ed6ad2a7837080869ae3",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/18976W_0e28f8c3c9eab607eb64.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 11312
+    },
+    {
+      "roll": "18976W",
+      "url": "https://www.colmcilles.net/parents/newsletters/2017/february-2017",
+      "label": "February 2017",
+      "sha256": "2486117fe85cdd7dec281f1dd3111323c72103ed0570793e2046201e613ee6ea",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/18976W_2486117fe85cdd7dec28.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 11561
+    },
+    {
+      "roll": "18976W",
+      "url": "https://www.colmcilles.net/parents/newsletters/2017/december-2017",
+      "label": "December 2017",
+      "sha256": "6d2bc6b93058e84ecada9cf7faa8e37e4fed537dbff0a0444372d86bc5a71445",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/18976W_6d2bc6b93058e84ecada.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 11961
+    },
+    {
+      "roll": "18976W",
+      "url": "https://www.colmcilles.net/parents/newsletters/2017/april-2017",
+      "label": "April 2017",
+      "sha256": "5fcb8f826a71d945187295a477e2cf9c4a3cf87eb6a858115ac8834bff1d4d6e",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/18976W_5fcb8f826a71d9451872.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 11537
+    },
+    {
+      "roll": "18976W",
+      "url": "https://www.colmcilles.net/parents/newsletters/2017",
+      "label": "2017",
+      "sha256": "11e486a60f74c05d967db504796f48ad41794cd3696f599f3c40ce99f5748d74",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/18976W_11e486a60f74c05d967d.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 5668
+    },
+    {
+      "roll": "18976W",
+      "url": "https://www.colmcilles.net/parents/newsletters/2018/september-2018",
+      "label": "September 2018",
+      "sha256": "de31227a90dde622d8f83ffa4549384f649108d419cdee0245a86824829a67a4",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/18976W_de31227a90dde622d8f8.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 11806
+    },
+    {
+      "roll": "18976W",
+      "url": "https://www.colmcilles.net/parents/newsletters/2018/february-2018",
+      "label": "February 2018",
+      "sha256": "a27befc4935608082c21b60561d23e59b0081ff933645717a00f76317cca6f02",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/18976W_a27befc4935608082c21.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 10949
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.colmcilles.net/parents/newsletters/2018",
+      "label": "2018",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcilles.net/parents/class-photographs/20192020",
+      "label": "2019/2020",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcilles.net/parents/newsletters/newsletters-2020-21",
+      "label": "Newsletters 2020-21",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcilles.net/parents/uniform",
+      "label": "Uniform",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcilles.net/parents/sherpa-kids-before-after-school-care",
+      "label": "Sherpa Kids Before & After School Care",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcilles.net/parents/return-to-educational-facility-parental-declaration-form",
+      "label": "Return to Educational Facility Parental Declaration Form",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcilles.net/parents/our-school/school-rules",
+      "label": "School Rules",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcilles.net/parents/our-school/religion",
+      "label": "Religion",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcilles.net/parents/our-school/information-for-parents/special-needs",
+      "label": "Special Needs",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcilles.net/parents/our-school/information-for-parents/routines",
+      "label": "Routines",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcilles.net/parents/our-school/information-for-parents/parent-association",
+      "label": "Parent Association",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcilles.net/parents/our-school/information-for-parents/into-tips-for-parents",
+      "label": "INTO Tips for Parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcilles.net/parents/our-school/information-for-parents/intimate-needs",
+      "label": "Intimate Needs",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcilles.net/parents/our-school/information-for-parents/information-for-parents-1",
+      "label": "Information for Parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcilles.net/parents/our-school/information-for-parents/homework",
+      "label": "Homework",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcilles.net/parents/our-school/information-for-parents/home-school-liasion",
+      "label": "Home School Liasion",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcilles.net/parents/our-school/information-for-parents/helping-your-child-with-maths",
+      "label": "Helping your Child with Maths",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcilles.net/parents/our-school/information-for-parents/helping-us",
+      "label": "Helping Us",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcilles.net/parents/our-school/information-for-parents/dress-code",
+      "label": "Dress Code",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcilles.net/parents/our-school/information-for-parents/complaints",
+      "label": "Complaints",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcilles.net/parents/our-school/information-for-parents/accidents",
+      "label": "Accidents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcilles.net/parents/our-school/information-for-parents",
+      "label": "Information For Parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcilles.net/parents/our-school/health-safety/road-safety",
+      "label": "Road Safety",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcilles.net/parents/our-school/health-safety",
+      "label": "Health & Safety",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcilles.net/parents/our-school/child-protection",
+      "label": "Child Protection",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcilles.net/parents/our-school/bullying",
+      "label": "Bullying",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcilles.net/parents/our-school/behaviour-code",
+      "label": "Behaviour Code",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcilles.net/parents/our-school/anti-racism",
+      "label": "Anti Racism",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcilles.net/parents/our-school",
+      "label": "Our School",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcilles.net/parents/newsletters",
+      "label": "Newsletters",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcilles.net/parents/events-calendar",
+      "label": "Events Calendar",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcilles.net/parents/e-payments",
+      "label": "E-Payments",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcilles.net/parents/dates-for-diary",
+      "label": "Dates for Diary",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcilles.net/parents/covid-19",
+      "label": "Covid-19",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcilles.net/parents/class-photographs",
+      "label": "Class Photographs",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcilles.net/parents/booklists",
+      "label": "Booklists",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcilles.net/parents/activities-resources-during-school-closure",
+      "label": "Activities & Resources during School Closure",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcilles.net/parents",
+      "label": "Parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcilles.net/key-information/policies/group-2/substance-use",
+      "label": "Substance Use",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcilles.net/key-information/policies/group-2/sexual-harassment",
+      "label": "Sexual Harassment",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcilles.net/key-information/policies/group-2/self-evaluation",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcilles.net/key-information/policies/group-2/rse",
+      "label": "RSE",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcilles.net/key-information/policies/group-2/religious-education",
+      "label": "Religious Education",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcilles.net/key-information/policies/group-2/parents-as-partners",
+      "label": "Parents as Partners",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcilles.net/key-information/policies/group-2/illness-medication",
+      "label": "Illness & Medication",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcilles.net/key-information/policies/group-2/healthy-eating",
+      "label": "Healthy Eating",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcilles.net/key-information/policies/group-2/electric-devices",
+      "label": "Electric Devices",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcilles.net/key-information/policies/group-2",
+      "label": "Group 2 (F-Z)",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcilles.net/key-information/policies/group-1/exceptionally-abled",
+      "label": "Exceptionally Abled",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcilles.net/key-information/policies/group-1/equality",
+      "label": "Equality",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcilles.net/key-information/policies/group-1/cyber-bullying",
+      "label": "Cyber Bullying",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcilles.net/key-information/policies/group-1/children-not-collected-from-school",
+      "label": "Children Not Collected From School",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcilles.net/key-information/policies/group-1/child-safeguarding",
+      "label": "Child Safeguarding",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcilles.net/key-information/policies/group-1/behaviour",
+      "label": "Behaviour",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcilles.net/key-information/policies/group-1/attendance",
+      "label": "Attendance",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcilles.net/key-information/policies/group-1/anti-bullying",
+      "label": "Anti Bullying",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcilles.net/key-information/policies/group-1/adult-bullying",
+      "label": "Adult Bullying",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcilles.net/activities/parents-assoc-cake-sale",
+      "label": "Parents Assoc. Cake Sale",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcilles.net",
+      "label": "School homepage",
+      "via": "home"
+    },
+    {
+      "url": "http://www.colmcilles.net/sitemap.xml",
+      "label": "Public sitemap",
+      "via": "sitemap_root"
+    },
+    {
+      "url": "https://www.colmcilles.net/pages/privacy_policy",
+      "label": "Policy page Cookie Control Link Icon",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcilles.net/pages/cookies_policy",
+      "label": "Cookies page Cookie Control Link Icon",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcilles.net/key-information/policies/group-2/homework-policy",
+      "label": "Homework Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcilles.net/key-information/policies/group-1/critical-incident-policy",
+      "label": "Critical Incident Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcilles.net/key-information/policies/group-1/cctv-policy",
+      "label": "CCTV Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.colmcilles.net/key-information/policies/group-1/acceptable-use-policy",
+      "label": "Acceptable Use Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 77.47,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:05:27+0000"
+}

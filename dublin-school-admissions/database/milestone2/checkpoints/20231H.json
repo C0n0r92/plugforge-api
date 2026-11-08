@@ -1,0 +1,170 @@
+{
+  "roll": "20231H",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.stbenedictsongar.ie/enrolment.html",
+      "final_url": "https://www.stbenedictsongar.ie/enrolment.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Enrolment"
+    },
+    {
+      "url": "https://drive.google.com/file/d/1m5lBgsU3Ks3uxTh_G2fGjWO_AlLK3Qbu/view?usp=sharing",
+      "final_url": "https://drive.google.com/file/d/1m5lBgsU3Ks3uxTh_G2fGjWO_AlLK3Qbu/view?usp=sharing",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions Notice 2027/28"
+    },
+    {
+      "url": "https://drive.google.com/file/d/1z8wGeoPmROil1Sn_Kjyfo_FTFTLTe8Y2/view?usp=sharing",
+      "final_url": "https://drive.google.com/file/d/1z8wGeoPmROil1Sn_Kjyfo_FTFTLTe8Y2/view?usp=sharing",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions Policy 2027/28"
+    },
+    {
+      "url": "https://www.stbenedictsongar.ie/sitemap.xml",
+      "final_url": "https://www.stbenedictsongar.ie/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.stbenedictsongar.ie/school-policies.html",
+      "final_url": "https://www.stbenedictsongar.ie/school-policies.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Policies"
+    },
+    {
+      "url": "https://www.stbenedictsongar.ie/uploads/7/1/5/7/71579213/admission_policy_2025_2026_final_draft.docx.pdf",
+      "final_url": "https://www.stbenedictsongar.ie/uploads/7/1/5/7/71579213/admission_policy_2025_2026_final_draft.docx.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admission Policy"
+    },
+    {
+      "url": "https://www.stbenedictsongar.ie/uploads/7/1/5/7/71579213/parental-complaints-procedure_.pdf",
+      "final_url": "https://www.stbenedictsongar.ie/uploads/7/1/5/7/71579213/parental-complaints-procedure_.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parental Complaints Procedure"
+    },
+    {
+      "url": "https://www.stbenedictsongar.ie/parents-association.html",
+      "final_url": "https://www.stbenedictsongar.ie/parents-association.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents' Association"
+    },
+    {
+      "url": "https://www.stbenedictsongar.ie/parents-area.html",
+      "final_url": "https://www.stbenedictsongar.ie/parents-area.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents Area"
+    },
+    {
+      "url": "https://www.stbenedictsongar.ie/grandparents-day.html",
+      "final_url": "https://www.stbenedictsongar.ie/grandparents-day.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Grandparent's Day"
+    },
+    {
+      "url": "https://www.stbenedictsongar.ie",
+      "final_url": "https://www.stbenedictsongar.ie",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://drive.google.com/sitemap.xml",
+      "final_url": "https://drive.google.com/sitemap.xml",
+      "status": "robots_disallow",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.stbenedictsongar.ie/uploads/7/1/5/7/71579213/rse_policy_2022__1_.pdf",
+      "final_url": "https://www.stbenedictsongar.ie/uploads/7/1/5/7/71579213/rse_policy_2022__1_.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "RSE Policy"
+    },
+    {
+      "url": "https://www.stbenedictsongar.ie/uploads/7/1/5/7/71579213/stay_safe_policy.docx.pdf",
+      "final_url": "https://www.stbenedictsongar.ie/uploads/7/1/5/7/71579213/stay_safe_policy.docx.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Stay Safe Policy"
+    },
+    {
+      "url": "https://www.stbenedictsongar.ie/uploads/7/1/5/7/71579213/school_uniform_policy__6_.pdf",
+      "final_url": "https://www.stbenedictsongar.ie/uploads/7/1/5/7/71579213/school_uniform_policy__6_.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Uniform Policy"
+    },
+    {
+      "url": "https://www.stbenedictsongar.ie/uploads/7/1/5/7/71579213/scan000081.pdf",
+      "final_url": "https://www.stbenedictsongar.ie/uploads/7/1/5/7/71579213/scan000081.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Bí Cineálta Policy"
+    },
+    {
+      "url": "https://www.stbenedictsongar.ie/uploads/7/1/5/7/71579213/ptm_policy.pdf",
+      "final_url": "https://www.stbenedictsongar.ie/uploads/7/1/5/7/71579213/ptm_policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parent Teacher Meeting Policy"
+    },
+    {
+      "url": "https://www.stbenedictsongar.ie/uploads/7/1/5/7/71579213/homework.pdf",
+      "final_url": "https://www.stbenedictsongar.ie/uploads/7/1/5/7/71579213/homework.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Homework Policy"
+    },
+    {
+      "url": "https://www.stbenedictsongar.ie/uploads/7/1/5/7/71579213/healthy_eating_policy.docx.pdf",
+      "final_url": "https://www.stbenedictsongar.ie/uploads/7/1/5/7/71579213/healthy_eating_policy.docx.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Healthy Eating Pol"
+    },
+    {
+      "url": "https://www.stbenedictsongar.ie/uploads/7/1/5/7/71579213/child_protection_policy.pdf",
+      "final_url": "https://www.stbenedictsongar.ie/uploads/7/1/5/7/71579213/child_protection_policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stbenedictsongar.ie/uploads/7/1/5/7/71579213/acceptable_usage_policy.pdf",
+      "final_url": "https://www.stbenedictsongar.ie/uploads/7/1/5/7/71579213/acceptable_usage_policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Digital Devices Acceptable Usage Policy"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "20231H",
+      "url": "https://www.stbenedictsongar.ie/uploads/7/1/5/7/71579213/admission_policy_2025_2026_final_draft.docx.pdf",
+      "label": "Admission Policy",
+      "sha256": "3054f148382c311e2566e5a84a5ab404ae72ed9ef4b60e4e409a0f8eabe93912",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20231H_3054f148382c311e2566.txt",
+      "source_file": "database/milestone2/cache/3054f148382c311e2566e5a84a5ab404ae72ed9ef4b60e4e409a0f8eabe93912.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 20608
+    }
+  ],
+  "pending_links": [],
+  "elapsed_seconds": 52.85,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:11:19+0000"
+}

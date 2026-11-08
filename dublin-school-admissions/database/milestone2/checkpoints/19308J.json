@@ -1,0 +1,239 @@
+{
+  "roll": "19308J",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.stbrigidsnskillester.ie/enrolment-1",
+      "final_url": "https://www.stbrigidsnskillester.ie/enrolment-1",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Enrolment"
+    },
+    {
+      "url": "https://drive.google.com/file/d/1QFzYbRa-E7R7UFlsEHWOfy2KxU0Z18RT/view?usp=sharing",
+      "final_url": "https://drive.google.com/file/d/1QFzYbRa-E7R7UFlsEHWOfy2KxU0Z18RT/view?usp=sharing",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admission Notice 2026.2027"
+    },
+    {
+      "url": "https://www.stbrigidsnskillester.ie/enrolment",
+      "final_url": "https://www.stbrigidsnskillester.ie/enrolment",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Enrolment"
+    },
+    {
+      "url": "https://www.stbrigidsnskillester.ie/copy-of-policies",
+      "final_url": "https://www.stbrigidsnskillester.ie/copy-of-policies",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://www.stbrigidsnskillester.ie/sitemap.xml",
+      "final_url": "https://www.stbrigidsnskillester.ie/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.stbrigidsnskillester.ie/school-information",
+      "final_url": "https://www.stbrigidsnskillester.ie/school-information",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Information"
+    },
+    {
+      "url": "https://www.stbrigidsnskillester.ie/policies",
+      "final_url": "https://www.stbrigidsnskillester.ie/policies",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.stbrigidsnskillester.ie/_files/ugd/b0cf30_2c0e47f83c8c447193ddd33777621117.pdf",
+      "final_url": "https://de56b6ff-4597-47a1-bc91-b25da1b1fec3.filesusr.com/ugd/b0cf30_2c0e47f83c8c447193ddd33777621117.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "Admission Policy"
+    },
+    {
+      "url": "https://www.stbrigidsnskillester.ie/parents-association",
+      "final_url": "https://www.stbrigidsnskillester.ie/parents-association",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents Association"
+    },
+    {
+      "url": "https://www.stbrigidsnskillester.ie/pages-sitemap.xml",
+      "final_url": "https://www.stbrigidsnskillester.ie/pages-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.stbrigidsnskillester.ie/copy-of-parents-association",
+      "final_url": "https://www.stbrigidsnskillester.ie/copy-of-parents-association",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Transition to Post-Primary"
+    },
+    {
+      "url": "https://www.stbrigidsnskillester.ie/",
+      "final_url": "https://www.stbrigidsnskillester.ie/",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://drive.google.com/sitemap.xml",
+      "final_url": "https://drive.google.com/sitemap.xml",
+      "status": "robots_disallow",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://drive.google.com/file/d/1PeKAAFuSko1ool3kGxx1GasIx3p9bIR9/view?usp=sharing",
+      "final_url": "https://drive.google.com/file/d/1PeKAAFuSko1ool3kGxx1GasIx3p9bIR9/view?usp=sharing",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admission Policy"
+    },
+    {
+      "url": "https://www.stbrigidsnskillester.ie/_files/ugd/707e11_36983415425549f8b751e0facecf9757.pdf?index=true",
+      "final_url": "https://www.stbrigidsnskillester.ie/_files/ugd/707e11_36983415425549f8b751e0facecf9757.pdf?index=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Attendance Policy 2021"
+    },
+    {
+      "url": "https://www.stbrigidsnskillester.ie/_files/ugd/707e11_107bbbe5cdc247e68147d69278a694c3.pdf?index=true",
+      "final_url": "https://www.stbrigidsnskillester.ie/_files/ugd/707e11_107bbbe5cdc247e68147d69278a694c3.pdf?index=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Covid-19 Policy 2021"
+    },
+    {
+      "url": "https://www.stbrigidsnskillester.ie/_files/ugd/707e11_3e60e8b5a7a948e1b3d2c250b435f474.pdf?index=true",
+      "final_url": "https://www.stbrigidsnskillester.ie/_files/ugd/707e11_3e60e8b5a7a948e1b3d2c250b435f474.pdf?index=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Intimate Care Policy 2022"
+    },
+    {
+      "url": "https://www.stbrigidsnskillester.ie/_files/ugd/b0cf30_ff5cf309a5e540adbcff5b6c9202582a.pdf",
+      "final_url": "https://de56b6ff-4597-47a1-bc91-b25da1b1fec3.filesusr.com/ugd/b0cf30_ff5cf309a5e540adbcff5b6c9202582a.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "Internet Acceptable Use Policy"
+    },
+    {
+      "url": "https://www.stbrigidsnskillester.ie/_files/ugd/b0cf30_f2cb40fcfa0f4d15b9b56d593aec1d30.pdf",
+      "final_url": "https://de56b6ff-4597-47a1-bc91-b25da1b1fec3.filesusr.com/ugd/b0cf30_f2cb40fcfa0f4d15b9b56d593aec1d30.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "Data Protection Policy"
+    },
+    {
+      "url": "https://www.stbrigidsnskillester.ie/_files/ugd/b0cf30_ef3630d8a06d4cfa94a6186b1f4773e1.pdf",
+      "final_url": "https://de56b6ff-4597-47a1-bc91-b25da1b1fec3.filesusr.com/ugd/b0cf30_ef3630d8a06d4cfa94a6186b1f4773e1.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "Bí Cineálta Policy"
+    },
+    {
+      "url": "https://www.stbrigidsnskillester.ie/_files/ugd/b0cf30_8c7b83da3362494b99582689b85affa2.pdf",
+      "final_url": "https://de56b6ff-4597-47a1-bc91-b25da1b1fec3.filesusr.com/ugd/b0cf30_8c7b83da3362494b99582689b85affa2.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "Bí Cineálta Student Friendly Policy"
+    },
+    {
+      "url": "https://www.stbrigidsnskillester.ie/_files/ugd/707e11_ff0e7ebf3bac43a7abd1fe92e8f0051c.pdf?index=true",
+      "final_url": "https://www.stbrigidsnskillester.ie/_files/ugd/707e11_ff0e7ebf3bac43a7abd1fe92e8f0051c.pdf?index=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "R.S.E. Policy"
+    },
+    {
+      "url": "https://www.stbrigidsnskillester.ie/_files/ugd/707e11_f76368872acb4c19af91ec74ccd89467.pdf?index=true",
+      "final_url": "https://www.stbrigidsnskillester.ie/_files/ugd/707e11_f76368872acb4c19af91ec74ccd89467.pdf?index=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Equality Policy"
+    },
+    {
+      "url": "https://www.stbrigidsnskillester.ie/_files/ugd/707e11_e905042cfd364ac983e31206ed4f7150.pdf?index=true",
+      "final_url": "https://www.stbrigidsnskillester.ie/_files/ugd/707e11_e905042cfd364ac983e31206ed4f7150.pdf?index=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Homework Policy"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19308J",
+      "url": "https://www.stbrigidsnskillester.ie/enrolment-1",
+      "label": "Enrolment",
+      "sha256": "3b27fc6e276d72a65f5fa502e12da9f27a5ab0066178fea2b3802e4e1f42344a",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19308J_3b27fc6e276d72a65f5f.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 559
+    },
+    {
+      "roll": "19308J",
+      "url": "https://www.stbrigidsnskillester.ie/enrolment",
+      "label": "Enrolment",
+      "sha256": "e9319585d84de98e2897d996392562044c954a45c84534976d16d5f39b6367dc",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19308J_e9319585d84de98e2897.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 559
+    },
+    {
+      "roll": "19308J",
+      "url": "https://www.stbrigidsnskillester.ie/copy-of-policies",
+      "label": "Prior school admissions section",
+      "sha256": "60353774b195570666054363546e37dbec01c62655ff7184fc9b503be8c672b7",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19308J_60353774b19557066605.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 557
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.stbrigidsnskillester.ie/_files/ugd/707e11_dee121f820cb485faa426a543ee68040.pdf?index=true",
+      "label": "Home School Partnership Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stbrigidsnskillester.ie/_files/ugd/707e11_d4e2b4dfb5ad458fa8e42205b52160d3.pdf?index=true",
+      "label": "Religious Education Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stbrigidsnskillester.ie/_files/ugd/707e11_8a7ea07a58714b23a9c04af8efec2ba2.pdf?index=true",
+      "label": "Healthy Eating Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stbrigidsnskillester.ie/_files/ugd/707e11_69286b5f9d32460da5475ff94763a22a.pdf?index=true",
+      "label": "Substance Use Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stbrigidsnskillester.ie/_files/ugd/707e11_61e9625bd64e47de9433c3a9946e2812.pdf?index=true",
+      "label": "Stay Safe Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 50.66,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:05:27+0000"
+}

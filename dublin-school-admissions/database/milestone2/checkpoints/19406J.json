@@ -1,0 +1,272 @@
+{
+  "roll": "19406J",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.holytrinitysns.ie/?s=admission",
+      "final_url": "https://www.holytrinitysns.ie/?s=admission",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Public site search form"
+    },
+    {
+      "url": "https://www.holytrinitysns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://www.holytrinitysns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://www.holytrinitysns.ie/wp-content/uploads/2020/09/Annual-Admissions-Notice.pdf",
+      "final_url": "https://www.holytrinitysns.ie/wp-content/uploads/2020/09/Annual-Admissions-Notice.pdf",
+      "status": "robots_disallow",
+      "via": "public_wordpress_media_link",
+      "label": "Annual Admissions Notice"
+    },
+    {
+      "url": "https://www.holytrinitysns.ie/wp-content/uploads/2020/09/Annual-Admissions-Notice-1.pdf",
+      "final_url": "https://www.holytrinitysns.ie/wp-content/uploads/2020/09/Annual-Admissions-Notice-1.pdf",
+      "status": "robots_disallow",
+      "via": "public_wordpress_media_link",
+      "label": "Annual Admissions Notice"
+    },
+    {
+      "url": "https://www.holytrinitysns.ie/wp-content/uploads/2021/10/Annual-Admissions-Notice.pdf",
+      "final_url": "https://www.holytrinitysns.ie/wp-content/uploads/2021/10/Annual-Admissions-Notice.pdf",
+      "status": "robots_disallow",
+      "via": "public_wordpress_media_link",
+      "label": "Annual Admissions Notice"
+    },
+    {
+      "url": "https://www.holytrinitysns.ie/wp-content/uploads/2022/09/Annual-Admissions-Notice-school-year-23-24-1.pdf",
+      "final_url": "https://www.holytrinitysns.ie/wp-content/uploads/2022/09/Annual-Admissions-Notice-school-year-23-24-1.pdf",
+      "status": "robots_disallow",
+      "via": "public_wordpress_media_link",
+      "label": "Annual Admissions Notice school year 23-24 (1)"
+    },
+    {
+      "url": "https://www.holytrinitysns.ie/wp-content/uploads/2023/10/Annual-Admissions-Notice-School-Year-24-25.pdf",
+      "final_url": "https://www.holytrinitysns.ie/wp-content/uploads/2023/10/Annual-Admissions-Notice-School-Year-24-25.pdf",
+      "status": "robots_disallow",
+      "via": "public_wordpress_media_link",
+      "label": "Annual Admissions Notice School Year 24-25"
+    },
+    {
+      "url": "https://www.holytrinitysns.ie/wp-content/uploads/2024/09/Annual-Admissions-Notice-school-year-25-26.pdf",
+      "final_url": "https://www.holytrinitysns.ie/wp-content/uploads/2024/09/Annual-Admissions-Notice-school-year-25-26.pdf",
+      "status": "robots_disallow",
+      "via": "public_wordpress_media_link",
+      "label": "Annual Admissions Notice school year 25-26"
+    },
+    {
+      "url": "https://www.holytrinitysns.ie/wp-content/uploads/2025/09/Annual-Admissions-Notice-School-Year-26-27.pdf",
+      "final_url": "https://www.holytrinitysns.ie/wp-content/uploads/2025/09/Annual-Admissions-Notice-School-Year-26-27.pdf",
+      "status": "robots_disallow",
+      "via": "public_wordpress_media_link",
+      "label": "Annual Admissions Notice School Year 26-27"
+    },
+    {
+      "url": "https://www.holytrinitysns.ie/wp-content/uploads/2025/02/Annual-Admissions-Notice-school-year-25-26.pdf",
+      "final_url": "https://www.holytrinitysns.ie/wp-content/uploads/2025/02/Annual-Admissions-Notice-school-year-25-26.pdf",
+      "status": "robots_disallow",
+      "via": "public_wordpress_media_link",
+      "label": "Annual Admissions Notice school year 25-26"
+    },
+    {
+      "url": "https://www.holytrinitysns.ie/wp-content/uploads/2019/04/Holy-Trinity-admissions-policy-2.pdf",
+      "final_url": "https://www.holytrinitysns.ie/wp-content/uploads/2019/04/Holy-Trinity-admissions-policy-2.pdf",
+      "status": "robots_disallow",
+      "via": "public_wordpress_media_link",
+      "label": "Holy Trinity admissions policy (2)"
+    },
+    {
+      "url": "https://www.holytrinitysns.ie/wp-content/uploads/2019/02/Holy-Trinity-Admissions-Policy.pdf",
+      "final_url": "https://www.holytrinitysns.ie/wp-content/uploads/2019/02/Holy-Trinity-Admissions-Policy.pdf",
+      "status": "robots_disallow",
+      "via": "public_wordpress_media_link",
+      "label": "Holy Trinity Admissions Policy"
+    },
+    {
+      "url": "https://www.holytrinitysns.ie/wp-content/uploads/2020/11/Admissions-policy-sept-2020.pdf",
+      "final_url": "https://www.holytrinitysns.ie/wp-content/uploads/2020/11/Admissions-policy-sept-2020.pdf",
+      "status": "robots_disallow",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions policy sept 2020"
+    },
+    {
+      "url": "https://www.holytrinitysns.ie/wp-content/uploads/2020/09/Admissions-policy-sept-2020.pdf",
+      "final_url": "https://www.holytrinitysns.ie/wp-content/uploads/2020/09/Admissions-policy-sept-2020.pdf",
+      "status": "robots_disallow",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions policy sept 2020"
+    },
+    {
+      "url": "https://www.holytrinitysns.ie/wp-content/uploads/2020/09/Admissions-policy-sept-2020-1.pdf",
+      "final_url": "https://www.holytrinitysns.ie/wp-content/uploads/2020/09/Admissions-policy-sept-2020-1.pdf",
+      "status": "robots_disallow",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions policy sept 2020"
+    },
+    {
+      "url": "https://www.holytrinitysns.ie/wp-content/uploads/2026/09/Admissions-Policy-Sept-2026.pdf",
+      "final_url": "https://www.holytrinitysns.ie/wp-content/uploads/2026/09/Admissions-Policy-Sept-2026.pdf",
+      "status": "robots_disallow",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Policy Sept 2026"
+    },
+    {
+      "url": "https://www.holytrinitysns.ie/sitemap.xml",
+      "final_url": "https://www.holytrinitysns.ie/sitemap_index.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.holytrinitysns.ie/post-sitemap.xml",
+      "final_url": "https://www.holytrinitysns.ie/post-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.holytrinitysns.ie/page-sitemap.xml",
+      "final_url": "https://www.holytrinitysns.ie/page-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.holytrinitysns.ie/our-school/policies/",
+      "final_url": "https://www.holytrinitysns.ie/our-school/policies/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.holytrinitysns.ie/our-school/parents/",
+      "final_url": "https://www.holytrinitysns.ie/our-school/parents/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Parents"
+    },
+    {
+      "url": "https://www.holytrinitysns.ie/our-school/parents-association/",
+      "final_url": "https://www.holytrinitysns.ie/our-school/parents-association/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Parents Association"
+    },
+    {
+      "url": "https://www.holytrinitysns.ie/attachment-sitemap.xml",
+      "final_url": "https://www.holytrinitysns.ie/attachment-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.holytrinitysns.ie/our-school/policies/annual-admissions-notice/",
+      "final_url": "https://www.holytrinitysns.ie/our-school/policies/annual-admissions-notice/",
+      "status": "robots_disallow",
+      "via": "sitemap_link",
+      "label": "Admission URL from sitemap"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19406J",
+      "url": "https://www.holytrinitysns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "label": "Oldest public admission media (all dates)",
+      "sha256": "e9d22be0c23ea3d5d8dc30ed1f48c3f92d52c0c1333379a927ddd7329427c082",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19406J_e9d22be0c23ea3d5d8dc.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 2655
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.holytrinitysns.ie/our-school/policies/annual-admissions-notice-school-year-25-26/",
+      "label": "Admission URL from sitemap",
+      "via": "sitemap_link"
+    },
+    {
+      "url": "https://www.holytrinitysns.ie/our-school/policies/annual-admissions-notice-school-year-25-26-2/",
+      "label": "Admission URL from sitemap",
+      "via": "sitemap_link"
+    },
+    {
+      "url": "https://www.holytrinitysns.ie/our-school/policies/annual-admissions-notice-school-year-24-25/",
+      "label": "Admission URL from sitemap",
+      "via": "sitemap_link"
+    },
+    {
+      "url": "https://www.holytrinitysns.ie/our-school/policies/annual-admissions-notice-school-year-23-24-1/",
+      "label": "Admission URL from sitemap",
+      "via": "sitemap_link"
+    },
+    {
+      "url": "https://www.holytrinitysns.ie/our-school/policies/annual-admissions-notice-3/",
+      "label": "Admission URL from sitemap",
+      "via": "sitemap_link"
+    },
+    {
+      "url": "https://www.holytrinitysns.ie/our-school/policies/annual-admissions-notice-2/",
+      "label": "Admission URL from sitemap",
+      "via": "sitemap_link"
+    },
+    {
+      "url": "https://www.holytrinitysns.ie/our-school/policies/policies_enrolment_policy_2017/",
+      "label": "Admission URL from sitemap",
+      "via": "sitemap_link"
+    },
+    {
+      "url": "https://www.holytrinitysns.ie/our-school/policies/enrolment_policy_updated_asd-2018/",
+      "label": "Admission URL from sitemap",
+      "via": "sitemap_link"
+    },
+    {
+      "url": "https://www.holytrinitysns.ie/our-school/policies/enrolment_policy_updated_asd-2018-2/",
+      "label": "Admission URL from sitemap",
+      "via": "sitemap_link"
+    },
+    {
+      "url": "https://www.holytrinitysns.ie/our-school/policies/admissions-policy-sept-2020/",
+      "label": "Admission URL from sitemap",
+      "via": "sitemap_link"
+    },
+    {
+      "url": "https://www.holytrinitysns.ie/our-school/policies/admissions-policy-sept-2020-3/",
+      "label": "Admission URL from sitemap",
+      "via": "sitemap_link"
+    },
+    {
+      "url": "https://www.holytrinitysns.ie/our-school/policies/admissions-policy-sept-2020-2/",
+      "label": "Admission URL from sitemap",
+      "via": "sitemap_link"
+    },
+    {
+      "url": "https://www.holytrinitysns.ie/our-school/policies/holy-trinity-admissions-policy/",
+      "label": "Admission URL from sitemap",
+      "via": "sitemap_link"
+    },
+    {
+      "url": "https://www.holytrinitysns.ie/our-school/policies/holy-trinity-admissions-policy-2/",
+      "label": "Admission URL from sitemap",
+      "via": "sitemap_link"
+    },
+    {
+      "url": "https://www.holytrinitysns.ie/",
+      "label": "School homepage",
+      "via": "home"
+    },
+    {
+      "url": "https://www.holytrinitysns.ie/terms/cookie-policy/",
+      "label": "Read More",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 25.82,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:05:50+0000"
+}

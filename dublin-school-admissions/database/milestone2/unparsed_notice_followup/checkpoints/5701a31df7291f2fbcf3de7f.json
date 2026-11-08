@@ -1,0 +1,36 @@
+{
+  "roll": "18210K",
+  "url": "https://storage.googleapis.com/iclasscrm_files/34/Images/Content/2026/306/lc41-Admission_notice_2027_28_Final.pdf",
+  "prior_sha256": "1a504b1da82cb47874de77f86ff91cddd961995e2b96c9d594403673d2dc3c5f",
+  "prior_status": "ok",
+  "prior_attempted_at": "2026-11-08T13:03:23+0000",
+  "started_at": "2026-11-08T13:29:49+0000",
+  "method": "recheck_prior_success_unparsed_notice_with_actual_OCR_if_needed",
+  "documents": [
+    {
+      "roll": "18210K",
+      "url": "https://storage.googleapis.com/iclasscrm_files/34/Images/Content/2026/306/lc41-Admission_notice_2027_28_Final.pdf",
+      "sha256": "1a504b1da82cb47874de77f86ff91cddd961995e2b96c9d594403673d2dc3c5f",
+      "format": "pdf",
+      "source_file": "database/milestone2/unparsed_notice_followup/cache/1a504b1da82cb47874de77f86ff91cddd961995e2b96c9d594403673d2dc3c5f.pdf",
+      "text_file": "database/milestone2/unparsed_notice_followup/evidence/18210K_1a504b1da82cb47874de.txt",
+      "candidate_status": "actual_body_requires_manual_review",
+      "ocr": false,
+      "retrieved_at": "2026-11-08T13:29:52+0000"
+    }
+  ],
+  "attempts": [
+    {
+      "url": "https://storage.googleapis.com/iclasscrm_files/34/Images/Content/2026/306/lc41-Admission_notice_2027_28_Final.pdf",
+      "final_url": "https://storage.googleapis.com/iclasscrm_files/34/Images/Content/2026/306/lc41-Admission_notice_2027_28_Final.pdf",
+      "status": "ok"
+    }
+  ],
+  "status": "body_retrieved_requires_manual_review",
+  "sha256": "1a504b1da82cb47874de77f86ff91cddd961995e2b96c9d594403673d2dc3c5f",
+  "same_payload_as_prior_success": true,
+  "format": "pdf",
+  "parse_stderr": "",
+  "text_length": 5032,
+  "elapsed_seconds": 3.25
+}

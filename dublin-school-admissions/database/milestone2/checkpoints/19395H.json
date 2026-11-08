@@ -1,0 +1,283 @@
+{
+  "roll": "19395H",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://scoilmobhi.ie/2015/11/19/fograi-riomhphost/",
+      "final_url": "https://scoilmobhi.ie/2015/11/19/fograi-riomhphost/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Fógraí r-phost"
+    },
+    {
+      "url": "https://scoilmobhi.ie/2015/11/19/fograi-riomhphost/?share=twitter",
+      "final_url": "https://x.com/intent/tweet?text=F%C3%B3gra%C3%AD%20r-phost&url=https%3A%2F%2Fscoilmobhi.ie%2F2015%2F11%2F19%2Ffograi-riomhphost%2F",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Share on X (Opens in new window) X"
+    },
+    {
+      "url": "http://scoilmobhi.ie/",
+      "final_url": "http://scoilmobhi.ie/",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "Fógraí"
+    },
+    {
+      "url": "https://scoilmobhi.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://scoilmobhi.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://scoilmobhi.ie/wp-content/uploads/2020/09/annual-admissions-notice-2021-2022.pdf",
+      "final_url": "https://scoilmobhi.ie/wp-content/uploads/2020/09/annual-admissions-notice-2021-2022.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Annual Admissions Notice 2021-2022"
+    },
+    {
+      "url": "https://scoilmobhi.ie/wp-content/uploads/2021/09/annual-admissions-notice-2022-2023.pdf",
+      "final_url": "https://scoilmobhi.ie/wp-content/uploads/2021/09/annual-admissions-notice-2022-2023.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Annual Admissions Notice 2022-2023"
+    },
+    {
+      "url": "https://scoilmobhi.ie/wp-content/uploads/2022/09/annual-admissions-notice-2023-2024.pdf",
+      "final_url": "https://scoilmobhi.ie/wp-content/uploads/2022/09/annual-admissions-notice-2023-2024.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Annual Admissions Notice 2023-2024"
+    },
+    {
+      "url": "https://scoilmobhi.ie/wp-content/uploads/2024/09/annual-admissions-notice-2025-2026-2.pdf",
+      "final_url": "https://scoilmobhi.ie/wp-content/uploads/2024/09/annual-admissions-notice-2025-2026-2.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Annual Admissions Notice 2025-2026 (2)"
+    },
+    {
+      "url": "https://scoilmobhi.ie/wp-content/uploads/2024/09/annual-admissions-notice-2025-2026-2-2.pdf",
+      "final_url": "https://scoilmobhi.ie/wp-content/uploads/2024/09/annual-admissions-notice-2025-2026-2-2.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Annual Admissions Notice 2025-2026 (2)"
+    },
+    {
+      "url": "https://scoilmobhi.ie/wp-content/uploads/2024/09/annual-admissions-notice-2025-2026-2-1.pdf",
+      "final_url": "https://scoilmobhi.ie/wp-content/uploads/2024/09/annual-admissions-notice-2025-2026-2-1.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Annual Admissions Notice 2025-2026 (2)"
+    },
+    {
+      "url": "https://scoilmobhi.ie/wp-content/uploads/2020/09/scoil-mobhi-admission-policy-2021-final.pdf",
+      "final_url": "https://scoilmobhi.ie/wp-content/uploads/2020/09/scoil-mobhi-admission-policy-2021-final.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Scoil Mobhi Admission Policy 2021 FINAL"
+    },
+    {
+      "url": "https://scoilmobhi.ie/policies/polasai-iontrala/",
+      "final_url": "https://scoilmobhi.ie/policies/polasai-iontrala/",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://drive.google.com/file/d/19n8n0mSK0-94HyBrkS9nlK5FU5F5XHi9/view",
+      "final_url": "https://drive.google.com/file/d/19n8n0mSK0-94HyBrkS9nlK5FU5F5XHi9/view",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Fógra Iontrála"
+    },
+    {
+      "url": "https://scoilmobhi.ie/policies/polasai-iontrala/?share=twitter",
+      "final_url": "https://x.com/intent/tweet?text=Polasa%C3%AD%20iontr%C3%A1la&url=https%3A%2F%2Fscoilmobhi.ie%2Fpolicies%2Fpolasai-iontrala%2F",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Share on X (Opens in new window) X"
+    },
+    {
+      "url": "https://drive.google.com/file/d/1cPfxut3Eo5fIRKZAecnIRatY_Hg53qmK/view",
+      "final_url": "https://drive.google.com/file/d/1cPfxut3Eo5fIRKZAecnIRatY_Hg53qmK/view",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Polasai Iontrála"
+    },
+    {
+      "url": "https://scoilmobhi.ie/sitemap.xml",
+      "final_url": "https://scoilmobhi.ie/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://scoilmobhi.ie/video-sitemap-1.xml",
+      "final_url": "https://scoilmobhi.ie/video-sitemap-1.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://scoilmobhi.ie/sitemap-1.xml",
+      "final_url": "https://scoilmobhi.ie/sitemap-1.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://scoilmobhi.ie/2018/08/29/foirm-iarratas-pre-enrollment-application-forms-2019/",
+      "final_url": "https://scoilmobhi.ie/2018/08/29/foirm-iarratas-pre-enrollment-application-forms-2019/",
+      "status": "ok",
+      "via": "sitemap_link",
+      "label": "Admission URL from sitemap"
+    },
+    {
+      "url": "https://scoilmobhi.ie/policies/polasaithe-eile/",
+      "final_url": "https://scoilmobhi.ie/policies/polasaithe-eile/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Polasaithe eile"
+    },
+    {
+      "url": "https://scoilmobhi.ie/wp-content/uploads/2015/02/acceptable-usage-policy-bc3a9arla-gaeilge.pdf",
+      "final_url": "https://scoilmobhi.ie/wp-content/uploads/2015/02/acceptable-usage-policy-bc3a9arla-gaeilge.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Acceptable Usage Policy"
+    },
+    {
+      "url": "https://scoilmobhi.ie/policies/polasaithe-eile/?share=twitter",
+      "final_url": "https://x.com/intent/tweet?text=Polasaithe%20eile&url=https%3A%2F%2Fscoilmobhi.ie%2Fpolicies%2Fpolasaithe-eile%2F",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Share on X (Opens in new window) X"
+    },
+    {
+      "url": "https://scoilmobhi.ie/policies/",
+      "final_url": "https://scoilmobhi.ie/policies/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Polasaithe"
+    },
+    {
+      "url": "https://scoilmobhi.ie/policies/?share=twitter",
+      "final_url": "https://x.com/intent/tweet?text=Polasaithe&url=https%3A%2F%2Fscoilmobhi.ie%2Fpolicies%2F",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Share on X (Opens in new window) X"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19395H",
+      "url": "https://scoilmobhi.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "label": "Oldest public admission media (all dates)",
+      "sha256": "ebf82dac3aa12576f5c1aa9fdc92b8ae3bd403951d881dead3be26823284d649",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19395H_ebf82dac3aa12576f5c1.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1451
+    },
+    {
+      "roll": "19395H",
+      "url": "https://scoilmobhi.ie/wp-content/uploads/2020/09/annual-admissions-notice-2021-2022.pdf",
+      "label": "Annual Admissions Notice 2021-2022",
+      "sha256": "747c4b8eff6fd0e7e744841318e677574f2213b431bdbe43fcb930a4438d9e84",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19395H_747c4b8eff6fd0e7e744.txt",
+      "source_file": "database/milestone2/cache/747c4b8eff6fd0e7e744841318e677574f2213b431bdbe43fcb930a4438d9e84.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 3766
+    },
+    {
+      "roll": "19395H",
+      "url": "https://scoilmobhi.ie/wp-content/uploads/2021/09/annual-admissions-notice-2022-2023.pdf",
+      "label": "Annual Admissions Notice 2022-2023",
+      "sha256": "d3fe836910aec66374b6819b516e8c6bd9c2778ef3ec7da129e444c17230705b",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19395H_d3fe836910aec66374b6.txt",
+      "source_file": "database/milestone2/cache/d3fe836910aec66374b6819b516e8c6bd9c2778ef3ec7da129e444c17230705b.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 3761
+    },
+    {
+      "roll": "19395H",
+      "url": "https://scoilmobhi.ie/wp-content/uploads/2022/09/annual-admissions-notice-2023-2024.pdf",
+      "label": "Annual Admissions Notice 2023-2024",
+      "sha256": "b20268eddd30c19c5ab64d46b5c621e7a1ac89cebb8dfc8e7e72a09aa2fa139c",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19395H_b20268eddd30c19c5ab6.txt",
+      "source_file": "database/milestone2/cache/b20268eddd30c19c5ab64d46b5c621e7a1ac89cebb8dfc8e7e72a09aa2fa139c.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 3921
+    },
+    {
+      "roll": "19395H",
+      "url": "https://scoilmobhi.ie/wp-content/uploads/2024/09/annual-admissions-notice-2025-2026-2.pdf",
+      "label": "Annual Admissions Notice 2025-2026 (2)",
+      "sha256": "fe6aa833703104cd9c2b72f599a70af06fe15b070a41587bbc80e69ce15fecc4",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19395H_fe6aa833703104cd9c2b.txt",
+      "source_file": "database/milestone2/cache/fe6aa833703104cd9c2b72f599a70af06fe15b070a41587bbc80e69ce15fecc4.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 3969
+    },
+    {
+      "roll": "19395H",
+      "url": "https://scoilmobhi.ie/policies/polasai-iontrala/",
+      "label": "Prior school admissions section",
+      "sha256": "540a832e5cd79148f7c4d6d89e93e74291829345d26f04e9d03785f63cf36a9d",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19395H_540a832e5cd79148f7c4.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1259
+    },
+    {
+      "roll": "19395H",
+      "url": "https://drive.google.com/file/d/19n8n0mSK0-94HyBrkS9nlK5FU5F5XHi9/view",
+      "label": "Fógra Iontrála",
+      "sha256": "5e567e1d258d075e9671548bac4e4ec3f1edde2f19f2ae57794151cca58767c8",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19395H_5e567e1d258d075e9671.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 62
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://scoilmobhi.ie/news-sitemap.xml",
+      "label": "Public sitemap",
+      "via": "sitemap_root"
+    },
+    {
+      "url": "https://scoilmobhi.ie/",
+      "label": "School homepage",
+      "via": "home"
+    },
+    {
+      "url": "https://drive.google.com/sitemap.xml",
+      "label": "Public sitemap",
+      "via": "sitemap_root"
+    },
+    {
+      "url": "https://drive.google.com/file/d/1cPfxut3Eo5fIRKZAecnIRatY_Hg53qmK/view?usp=sharing",
+      "label": "Enrolment Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://scoilmobhi.ie/wp-content/uploads/2023/02/frith-bhulaiocht-2023.pdf",
+      "label": "Anti bullying policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 64.64,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:06:00+0000"
+}

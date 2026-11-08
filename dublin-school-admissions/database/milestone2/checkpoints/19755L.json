@@ -1,0 +1,258 @@
+{
+  "roll": "19755L",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://sacredhearthuntstown.weebly.com/admission-notice.html",
+      "final_url": "https://sacredhearthuntstown.weebly.com/admission-notice.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admission Notice"
+    },
+    {
+      "url": "https://sacredhearthuntstown.weebly.com/anti-bullying-policy-8203annual-review-notification.html",
+      "final_url": "https://sacredhearthuntstown.weebly.com/anti-bullying-policy-8203annual-review-notification.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Anti-Bullying Policy ​Annual Review Notification"
+    },
+    {
+      "url": "https://sacredhearthuntstown.weebly.com/admissions.html",
+      "final_url": "https://sacredhearthuntstown.weebly.com/admissions.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://sacredhearthuntstown.weebly.com/uploads/1/7/0/6/17060224/special_asd_classes_admission_information_2027_2028.pdf",
+      "final_url": "https://sacredhearthuntstown.weebly.com/uploads/1/7/0/6/17060224/special_asd_classes_admission_information_2027_2028.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: special_asd_classes_admission_information_2027_2028.pdf"
+    },
+    {
+      "url": "https://sacredhearthuntstown.weebly.com/uploads/1/7/0/6/17060224/mainstream_class_admission_application_form_2027-2028.pdf",
+      "final_url": "https://sacredhearthuntstown.weebly.com/uploads/1/7/0/6/17060224/mainstream_class_admission_application_form_2027-2028.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: mainstream_class_admission_application_form_2027-2028.pdf"
+    },
+    {
+      "url": "https://sacredhearthuntstown.weebly.com/uploads/1/7/0/6/17060224/mainstream_class_admission_application_form_2027-2028.docx",
+      "final_url": "https://sacredhearthuntstown.weebly.com/uploads/1/7/0/6/17060224/mainstream_class_admission_application_form_2027-2028.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: mainstream_class_admission_application_form_2027-2028.docx"
+    },
+    {
+      "url": "https://sacredhearthuntstown.weebly.com/uploads/1/7/0/6/17060224/admission_policy.pdf",
+      "final_url": "https://sacredhearthuntstown.weebly.com/uploads/1/7/0/6/17060224/admission_policy.pdf",
+      "status": "public_document_size_bound",
+      "via": "school_public_link",
+      "label": "Download file: admission_policy.pdf"
+    },
+    {
+      "url": "https://sacredhearthuntstown.weebly.com/policies.html",
+      "final_url": "https://sacredhearthuntstown.weebly.com/policies.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://sacredhearthuntstown.weebly.com/parents-association.html",
+      "final_url": "https://sacredhearthuntstown.weebly.com/parents-association.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents' Association"
+    },
+    {
+      "url": "https://sacredhearthuntstown.weebly.com/parental-complaints-procedure.html",
+      "final_url": "https://sacredhearthuntstown.weebly.com/parental-complaints-procedure.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parental Complaints Procedure"
+    },
+    {
+      "url": "https://sacredhearthuntstown.weebly.com/uploads/1/7/0/6/17060224/parental_complaints_procedure_2024.pdf",
+      "final_url": "https://sacredhearthuntstown.weebly.com/uploads/1/7/0/6/17060224/parental_complaints_procedure_2024.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: parental_complaints_procedure_2024.pdf"
+    },
+    {
+      "url": "https://sacredhearthuntstown.weebly.com/admission-policy--enrolment-policy.html",
+      "final_url": "https://sacredhearthuntstown.weebly.com/admission-policy--enrolment-policy.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admission Policy / Enrolment Policy"
+    },
+    {
+      "url": "https://sacredhearthuntstown.weebly.com/uploads/1/7/0/6/17060224/admission_policy_september_2025.pdf",
+      "final_url": "https://sacredhearthuntstown.weebly.com/uploads/1/7/0/6/17060224/admission_policy_september_2025.pdf",
+      "status": "public_document_size_bound",
+      "via": "school_public_link",
+      "label": "Download file: admission_policy_september_2025.pdf"
+    },
+    {
+      "url": "https://sacredhearthuntstown.weebly.com/admission--enrolment-application-forms.html",
+      "final_url": "https://sacredhearthuntstown.weebly.com/admission--enrolment-application-forms.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admission / Enrolment Application Forms"
+    },
+    {
+      "url": "https://sacredhearthuntstown.weebly.com/uploads/1/7/0/6/17060224/mainstream_class_admission_application_form_2026-2027.pdf",
+      "final_url": "https://sacredhearthuntstown.weebly.com/uploads/1/7/0/6/17060224/mainstream_class_admission_application_form_2026-2027.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: mainstream_class_admission_application_form_2026-2027.pdf"
+    },
+    {
+      "url": "https://sacredhearthuntstown.weebly.com/uploads/1/7/0/6/17060224/mainstream_class_admission_application_form_2026-2027.docx",
+      "final_url": "https://sacredhearthuntstown.weebly.com/uploads/1/7/0/6/17060224/mainstream_class_admission_application_form_2026-2027.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: mainstream_class_admission_application_form_2026-2027.docx"
+    },
+    {
+      "url": "https://sacredhearthuntstown.weebly.com",
+      "final_url": "https://sacredhearthuntstown.weebly.com",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "http://sacredhearthuntstown.weebly.com/sitemap.xml",
+      "final_url": "http://sacredhearthuntstown.weebly.com/sitemap.xml",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://sacredhearthuntstown.weebly.com/uniform-policy.html",
+      "final_url": "https://sacredhearthuntstown.weebly.com/uniform-policy.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Uniform Policy"
+    },
+    {
+      "url": "https://sacredhearthuntstown.weebly.com/uploads/1/7/0/6/17060224/school_uniform_policy_2023.pdf",
+      "final_url": "https://sacredhearthuntstown.weebly.com/uploads/1/7/0/6/17060224/school_uniform_policy_2023.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: school_uniform_policy_2023.pdf"
+    },
+    {
+      "url": "https://sacredhearthuntstown.weebly.com/swimming-policy.html",
+      "final_url": "https://sacredhearthuntstown.weebly.com/swimming-policy.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Swimming Policy"
+    },
+    {
+      "url": "https://sacredhearthuntstown.weebly.com/uploads/1/7/0/6/17060224/swimmingpolicy.docx",
+      "final_url": "https://sacredhearthuntstown.weebly.com/uploads/1/7/0/6/17060224/swimmingpolicy.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "here"
+    },
+    {
+      "url": "https://sacredhearthuntstown.weebly.com/parental-involvement-policy.html",
+      "final_url": "https://sacredhearthuntstown.weebly.com/parental-involvement-policy.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parental Involvement Policy"
+    },
+    {
+      "url": "https://sacredhearthuntstown.weebly.com/uploads/1/7/0/6/17060224/parental_involvement_policy.docx",
+      "final_url": "https://sacredhearthuntstown.weebly.com/uploads/1/7/0/6/17060224/parental_involvement_policy.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "here"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19755L",
+      "url": "https://sacredhearthuntstown.weebly.com/admissions.html",
+      "label": "Admissions",
+      "sha256": "cf4e51055e1cc8a5a05be8553335f340dd3ed76bede666dd23a49e465420abc7",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19755L_cf4e51055e1cc8a5a05b.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 4917
+    },
+    {
+      "roll": "19755L",
+      "url": "https://sacredhearthuntstown.weebly.com/admission--enrolment-application-forms.html",
+      "label": "Admission / Enrolment Application Forms",
+      "sha256": "72a46bf29c96dc211d2f148e400a25ccde356382684eb8a471f1fe7261980e86",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19755L_72a46bf29c96dc211d2f.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 303
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://sacredhearthuntstown.weebly.com/intercultural-policy.html",
+      "label": "Intercultural Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://sacredhearthuntstown.weebly.com/ict-acceptable-use-policy.html",
+      "label": "ICT Acceptable Use Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://sacredhearthuntstown.weebly.com/homework-policy.html",
+      "label": "Homework Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://sacredhearthuntstown.weebly.com/healthy-lunch-policy.html",
+      "label": "Healthy Lunch Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://sacredhearthuntstown.weebly.com/health-and-hygiene-policy.html",
+      "label": "Health and Hygiene Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://sacredhearthuntstown.weebly.com/emergency-closure-policy.html",
+      "label": "Emergency Closure Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://sacredhearthuntstown.weebly.com/discipline-and-code-of-behaviour-policy.html",
+      "label": "Discipline and Code of Behaviour Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://sacredhearthuntstown.weebly.com/data-protection-policy.html",
+      "label": "Data Protection Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://sacredhearthuntstown.weebly.com/children-with-special-needs-policy.html",
+      "label": "Children with Special Needs Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://sacredhearthuntstown.weebly.com/birthday-celebration-policy.html",
+      "label": "Birthday Celebration Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://sacredhearthuntstown.weebly.com/biacute-cineaacutelta-anti-bullying-policy.html",
+      "label": "Bí Cineálta Anti-Bullying Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 67.71,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:43:16+0000"
+}

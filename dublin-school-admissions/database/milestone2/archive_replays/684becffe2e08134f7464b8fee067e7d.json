@@ -1,0 +1,50 @@
+{
+  "task_id": "684becffe2e08134f7464b8fee067e7d",
+  "roll": "00697S",
+  "capture": {
+    "digest": "WZ6DFNTDP6UKZ7DEVSJZD4KAE5BEMUYQ",
+    "mimetype": "text/html",
+    "original": "https://www.saintbrigids.ie/News/ACAT-Admissions-20262027/37881/Index.html",
+    "statuscode": "200",
+    "timestamp": "20251028111651"
+  },
+  "original_url": "https://www.saintbrigids.ie/News/ACAT-Admissions-20262027/37881/Index.html",
+  "archived_url": "https://web.archive.org/web/20251028111651/https://www.saintbrigids.ie/News/ACAT-Admissions-20262027/37881/Index.html",
+  "attempted_at": "2026-11-08T12:35:32.505994+00:00",
+  "http_status": 200,
+  "headers": {
+    "Content-Type": "text/html; charset=utf-8",
+    "memento-datetime": "Tue, 28 Oct 2025 11:16:51 GMT"
+  },
+  "payload_sha256": "429fb26aa51ae0c3faad6b6ed7c215acb0d89dd2aa76ae17bcb6a0ead9258fce",
+  "bytes": 86320,
+  "format": "html",
+  "archive_link_candidates": [
+    {
+      "url": "/web/20251028111651/https://www.saintbrigids.ie/Parent-Noticeboard/Index.html",
+      "label": "Parent Noticeboard"
+    },
+    {
+      "url": "/web/20251028111651/https://www.saintbrigids.ie/Mainstream-Admissions/Index.html",
+      "label": "Mainstream Admissions"
+    },
+    {
+      "url": "/web/20251028111651/https://www.saintbrigids.ie/Autism-Class-Admissions/Index.html",
+      "label": "Autism Class Admissions"
+    },
+    {
+      "url": "https://web.archive.org/web/20251028111651/https://www.saintbrigids.ie/Admissions/Index.html",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://web.archive.org/web/20251028111651/https://www.saintbrigids.ie/Parent-Noticeboard/Index.html",
+      "label": "Parent Noticeboard"
+    },
+    {
+      "url": "https://web.archive.org/web/20251028111651/https://www.saintbrigids.ie/Autism-Class-Admissions/Index.html",
+      "label": "Autism Class Admissions"
+    }
+  ],
+  "status": "archived_body_retrieved_requires_notice_evidence_review",
+  "text_file": "database/milestone2/evidence/archive_00697S_429fb26aa51ae0c3faad.txt"
+}

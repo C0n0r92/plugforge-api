@@ -1,0 +1,174 @@
+{
+  "roll": "18682F",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://stcanices.com/admissions/",
+      "final_url": "https://stcanices.com/admissions/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions"
+    },
+    {
+      "url": "http://stcanices.com/wp-content/uploads/2026/10/Admissions-Notice-27-28.pdf",
+      "final_url": "http://stcanices.com/wp-content/uploads/2026/10/Admissions-Notice-27-28.pdf",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "Annual Admissions Notice for 2027/2028 (Click to View)"
+    },
+    {
+      "url": "https://stcanices.com/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://stcanices.com/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://stcanices.com/wp-content/uploads/2023/10/Admissions-Policy-Jan-2023.pdf",
+      "final_url": "https://stcanices.com/wp-content/uploads/2023/10/Admissions-Policy-Jan-2023.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Policy Jan 2023"
+    },
+    {
+      "url": "https://stcanices.com/wp-content/uploads/2023/03/Admissions-Policy-Jan-2023-PDF.pdf",
+      "final_url": "https://stcanices.com/wp-content/uploads/2023/03/Admissions-Policy-Jan-2023-PDF.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Policy Jan 2023 (Click to View)"
+    },
+    {
+      "url": "https://stcanices.com/wp-content/uploads/2023/02/Admissions-Policy-Jan-2023.docx",
+      "final_url": "https://stcanices.com/wp-content/uploads/2023/02/Admissions-Policy-Jan-2023.docx",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Policy Jan 2023 (Click to View)"
+    },
+    {
+      "url": "https://stcanices.com/wp-content/uploads/2023/02/Admissions-Policy-Jan-2023-1.docx",
+      "final_url": "https://stcanices.com/wp-content/uploads/2023/02/Admissions-Policy-Jan-2023-1.docx",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Policy Jan 2023"
+    },
+    {
+      "url": "https://stcanices.com/wp-content/uploads/2026/05/Admissions-Policy-June-2025-Amended-and-Approved.pdf",
+      "final_url": "https://stcanices.com/wp-content/uploads/2026/05/Admissions-Policy-June-2025-Amended-and-Approved.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Policy June 2025 Amended and Approved"
+    },
+    {
+      "url": "https://stcanices.com/wp-content/uploads/2025/12/Admissions-Policy-June-2025-Published-Version.pdf",
+      "final_url": "https://stcanices.com/wp-content/uploads/2025/12/Admissions-Policy-June-2025-Published-Version.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Policy June 2025 Published Version"
+    },
+    {
+      "url": "https://stcanices.com/wp-content/uploads/2025/12/Admissions-Policy-June-2025-Amended-and-Approved.pdf",
+      "final_url": "https://stcanices.com/wp-content/uploads/2025/12/Admissions-Policy-June-2025-Amended-and-Approved.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Policy June 2025 Amended and Approved"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "18682F",
+      "url": "https://stcanices.com/admissions/",
+      "label": "Admissions",
+      "sha256": "9fea12fc152d0878fe427dde2c7f8ec9f82d36d65704bcbdaebc1f91f1add190",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/18682F_9fea12fc152d0878fe42.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 314
+    },
+    {
+      "roll": "18682F",
+      "url": "https://stcanices.com/wp-content/uploads/2023/10/Admissions-Policy-Jan-2023.pdf",
+      "label": "Admissions Policy Jan 2023",
+      "sha256": "9373df6568fadc13ac5d99f0a5f1d3ad7a19362bec42dc3ea88139169fcb3188",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/18682F_9373df6568fadc13ac5d.txt",
+      "source_file": "database/milestone2/cache/9373df6568fadc13ac5d99f0a5f1d3ad7a19362bec42dc3ea88139169fcb3188.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 23560
+    },
+    {
+      "roll": "18682F",
+      "url": "https://stcanices.com/wp-content/uploads/2023/03/Admissions-Policy-Jan-2023-PDF.pdf",
+      "label": "Admissions Policy Jan 2023 (Click to View)",
+      "sha256": "fc011df9c40e51855fbb5fa8f3cee7fbbec4aa1ea5fe3adfa34a75736ade3a08",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/18682F_fc011df9c40e51855fbb.txt",
+      "source_file": "database/milestone2/cache/fc011df9c40e51855fbb5fa8f3cee7fbbec4aa1ea5fe3adfa34a75736ade3a08.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 23554
+    },
+    {
+      "roll": "18682F",
+      "url": "https://stcanices.com/wp-content/uploads/2023/02/Admissions-Policy-Jan-2023.docx",
+      "label": "Admissions Policy Jan 2023 (Click to View)",
+      "sha256": "fc79282ff8f6aa1d865d886c1040fbbe57c278e28a601b56220f8261eff98732",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/18682F_fc79282ff8f6aa1d865d.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 21191
+    },
+    {
+      "roll": "18682F",
+      "url": "https://stcanices.com/wp-content/uploads/2026/05/Admissions-Policy-June-2025-Amended-and-Approved.pdf",
+      "label": "Admissions Policy June 2025 Amended and Approved",
+      "sha256": "8b544bd3a5c195562c16851a6a89e9e5f60eef24f1fb04312fc437d47c961e5c",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/18682F_8b544bd3a5c195562c16.txt",
+      "source_file": "database/milestone2/cache/8b544bd3a5c195562c16851a6a89e9e5f60eef24f1fb04312fc437d47c961e5c.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 24655
+    },
+    {
+      "roll": "18682F",
+      "url": "https://stcanices.com/wp-content/uploads/2025/12/Admissions-Policy-June-2025-Published-Version.pdf",
+      "label": "Admissions Policy June 2025 Published Version",
+      "sha256": "421b87de10c98787d36474bd066d05fbaabef97a92a9af7811063aac2e484e2b",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/18682F_421b87de10c98787d364.txt",
+      "source_file": "database/milestone2/cache/421b87de10c98787d36474bd066d05fbaabef97a92a9af7811063aac2e484e2b.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 24644
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "http://stcanices.com/wp-content/uploads/2026/05/Admissions-Policy-June-2025-Amended-and-Approved.pdf",
+      "label": "Admissions Policy June 2025 (Click to View)",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stcanices.com/sitemap.xml",
+      "label": "Public sitemap",
+      "via": "sitemap_root"
+    },
+    {
+      "url": "https://stcanices.com/policies-2/",
+      "label": "Policies",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stcanices.com/parents-association/",
+      "label": "Parents’ Association",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stcanices.com/",
+      "label": "School homepage",
+      "via": "home"
+    }
+  ],
+  "elapsed_seconds": 167.77,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:41:10+0000"
+}

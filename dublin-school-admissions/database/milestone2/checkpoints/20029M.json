@@ -1,0 +1,351 @@
+{
+  "roll": "20029M",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://stbrigidsinfantschool.ie/annual-admissions-notice-2026-2027/",
+      "final_url": "https://stbrigidsinfantschool.ie/annual-admissions-notice-2026-2027/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Annual Admissions Notice 2026-2027"
+    },
+    {
+      "url": "https://stbrigidsinfantschool.ie/notes-and-news-old/annual-admission-notice/",
+      "final_url": "https://stbrigidsinfantschool.ie/notes-and-news-old/annual-admission-notice/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions/policy URL from public sitemap"
+    },
+    {
+      "url": "https://stbrigidsinfantschool.ie/wp-content/uploads/2020/09/Annual-Admissions-Notice.docx",
+      "final_url": "https://stbrigidsinfantschool.ie/wp-content/uploads/2020/09/Annual-Admissions-Notice.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Annual Admissions Notice"
+    },
+    {
+      "url": "https://stbrigidsinfantschool.ie/important-notice-about-our-schools-admissions-policy/",
+      "final_url": "https://stbrigidsinfantschool.ie/important-notice-about-our-schools-admissions-policy/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Important notice about our Schools Admissions Policy"
+    },
+    {
+      "url": "https://stbrigidsinfantschool.ie/enrolling-now-for-2025-2026-school-year/",
+      "final_url": "https://stbrigidsinfantschool.ie/enrolling-now-for-2025-2026-school-year/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Enrolling now for 2025-2026 school year!"
+    },
+    {
+      "url": "https://stbrigidsinfantschool.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://stbrigidsinfantschool.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "robots_disallow",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://stbrigidsinfantschool.ie/wp-content/uploads/2022/12/Consultation-with-parents-and-staff-Admissions-Policy.docx",
+      "final_url": "https://stbrigidsinfantschool.ie/wp-content/uploads/2022/12/Consultation-with-parents-and-staff-Admissions-Policy.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Consultation with parents and staff – Admissions Policy"
+    },
+    {
+      "url": "https://stbrigidsinfantschool.ie/letter-to-parents-from-chief-medical-officer-december-2020/",
+      "final_url": "https://stbrigidsinfantschool.ie/letter-to-parents-from-chief-medical-officer-december-2020/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Letter to Parents from Chief Medical Officer December 2020"
+    },
+    {
+      "url": "https://stbrigidsinfantschool.ie/wp-content/uploads/2020/12/Letter-from-Chief-Medical-Officer-to-Parents.pdf",
+      "final_url": "https://stbrigidsinfantschool.ie/wp-content/uploads/2020/12/Letter-from-Chief-Medical-Officer-to-Parents.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Letter from Chief Medical Officer to Parents"
+    },
+    {
+      "url": "https://stbrigidsinfantschool.ie/junior-infants-2020-21-information-for-parents/",
+      "final_url": "https://stbrigidsinfantschool.ie/junior-infants-2020-21-information-for-parents/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Junior Infants 2020/21 – Information for Parents"
+    },
+    {
+      "url": "https://stbrigidsinfantschool.ie/free-course-for-parents-november-2020/",
+      "final_url": "https://stbrigidsinfantschool.ie/free-course-for-parents-november-2020/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Free Courses for Parents November 2020"
+    },
+    {
+      "url": "https://stbrigidsinfantschool.ie/letter-to-parents-from-minister-12-january-2021/",
+      "final_url": "https://stbrigidsinfantschool.ie/letter-to-parents-from-minister-12-january-2021/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Letter to Parents from Minister 12 January 2021"
+    },
+    {
+      "url": "https://stbrigidsinfantschool.ie/wp-content/uploads/2021/01/Letter-for-parents-from-Minister-of-Education.docx",
+      "final_url": "https://stbrigidsinfantschool.ie/wp-content/uploads/2021/01/Letter-for-parents-from-Minister-of-Education.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Letter for parents from Minister of Education"
+    },
+    {
+      "url": "https://stbrigidsinfantschool.ie/hse-information-for-parents-20-december-2021/",
+      "final_url": "https://stbrigidsinfantschool.ie/hse-information-for-parents-20-december-2021/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "HSE information for parents, 20 December 2021"
+    },
+    {
+      "url": "https://stbrigidsinfantschool.ie/wp-content/uploads/2021/12/Important_information_for_parents_and_guardians_about_covid19_vaccine_children_aged_5_11.pdf",
+      "final_url": "https://stbrigidsinfantschool.ie/wp-content/uploads/2021/12/Important_information_for_parents_and_guardians_about_covid19_vaccine_children_aged_5_11.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Important_information_for_parents_and_guardians_about_covid19_vaccine_children_aged_5_11"
+    },
+    {
+      "url": "https://stbrigidsinfantschool.ie/wp-content/uploads/2025/09/Enrollment.png",
+      "final_url": "https://stbrigidsinfantschool.ie/wp-content/uploads/2025/09/Enrollment.png",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions/policy URL from public sitemap"
+    },
+    {
+      "url": "https://stbrigidsinfantschool.ie/application-forms-for-2026-2027-enrolment/",
+      "final_url": "https://stbrigidsinfantschool.ie/application-forms-for-2026-2027-enrolment/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Application Forms for 2027-2028 Enrolment"
+    },
+    {
+      "url": "https://stbrigidsinfantschool.ie/sitemap_index.xml",
+      "final_url": "https://stbrigidsinfantschool.ie/sitemap_index.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://stbrigidsinfantschool.ie/seeking-new-parents-nominee-for-board-of-management/",
+      "final_url": "https://stbrigidsinfantschool.ie/seeking-new-parents-nominee-for-board-of-management/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Seeking new parents’ nominee for Board of Management"
+    },
+    {
+      "url": "https://stbrigidsinfantschool.ie/school-information/",
+      "final_url": "https://stbrigidsinfantschool.ie/school-information/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Information"
+    },
+    {
+      "url": "https://stbrigidsinfantschool.ie/safely-back-to-school-poster-for-parents/",
+      "final_url": "https://stbrigidsinfantschool.ie/safely-back-to-school-poster-for-parents/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Safely back to school poster for parents"
+    },
+    {
+      "url": "https://stbrigidsinfantschool.ie/wp-content/uploads/2021/02/HSE-Parent-poster-1.pdf",
+      "final_url": "https://stbrigidsinfantschool.ie/wp-content/uploads/2021/02/HSE-Parent-poster-1.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "HSE Parent poster"
+    },
+    {
+      "url": "https://stbrigidsinfantschool.ie/post-sitemap.xml",
+      "final_url": "https://stbrigidsinfantschool.ie/post-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://stbrigidsinfantschool.ie/policies-and-forms/",
+      "final_url": "https://stbrigidsinfantschool.ie/policies-and-forms/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies and Forms"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "20029M",
+      "url": "https://stbrigidsinfantschool.ie/annual-admissions-notice-2026-2027/",
+      "label": "Annual Admissions Notice 2026-2027",
+      "sha256": "3c284cf1ec118787b717d23476fef48aa4298a50f1b3ea04bc13bf2c6366878f",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20029M_3c284cf1ec118787b717.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 46
+    },
+    {
+      "roll": "20029M",
+      "url": "https://stbrigidsinfantschool.ie/notes-and-news-old/annual-admission-notice/",
+      "label": "Admissions/policy URL from public sitemap",
+      "sha256": "61f05318e80edda0807e41a0b8dc0f1349b0eb62b7b130bc13fc97816a3ffd88",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20029M_61f05318e80edda0807e.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 24
+    },
+    {
+      "roll": "20029M",
+      "url": "https://stbrigidsinfantschool.ie/wp-content/uploads/2020/09/Annual-Admissions-Notice.docx",
+      "label": "Annual Admissions Notice",
+      "sha256": "4fea083409eff1ec9a5067a0aabe483d73b39d7857419aae862a6f6ee56d436c",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/20029M_4fea083409eff1ec9a50.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1499
+    },
+    {
+      "roll": "20029M",
+      "url": "https://stbrigidsinfantschool.ie/enrolling-now-for-2025-2026-school-year/",
+      "label": "Enrolling now for 2025-2026 school year!",
+      "sha256": "88c1877a9a726c9f56f1cc9006732327f2ff9bdbf3b69e1f42c00b9c6d8e825a",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20029M_88c1877a9a726c9f56f1.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 46
+    },
+    {
+      "roll": "20029M",
+      "url": "https://stbrigidsinfantschool.ie/policies-and-forms/",
+      "label": "Policies and Forms",
+      "sha256": "6cc4cd950fb3b4d5060a01c883c57069aec512570220327cb43dea8230d3c567",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20029M_6cc4cd950fb3b4d5060a.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 2095
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://stbrigidsinfantschool.ie/wp-content/themes/stbrigidsins/documents/Code_of_Behaviour_2020.pdf",
+      "label": "Code of Behaviour",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stbrigidsinfantschool.ie/wp-content/uploads/2024/03/Parental-Complaints-Procedure-2024.pdf",
+      "label": "Parental Complaints Procedure",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stbrigidsinfantschool.ie/wp-content/uploads/2026/10/Admissions-Policy-September-2025-final.pdf",
+      "label": "Admissions Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stbrigidsinfantschool.ie/wp-content/uploads/2025/09/07960-NCSE-Parents-Notify-Project-A4-Poster-EN-Proof10-1.pdf",
+      "label": "07960-NCSE-Parents-Notify-Project-A4-Poster-EN-Proof10-1",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stbrigidsinfantschool.ie/parents-committee/",
+      "label": "Parents Committee",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stbrigidsinfantschool.ie/parenting-supports-live-and-online/",
+      "label": "PARENTING SUPPORTS- Live and online",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stbrigidsinfantschool.ie/parental-declaration-form/",
+      "label": "Parental Declaration Form",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stbrigidsinfantschool.ie/page-sitemap.xml",
+      "label": "Public sitemap index child",
+      "via": "sitemap_child"
+    },
+    {
+      "url": "https://stbrigidsinfantschool.ie/letter-to-parents-for-school-reopening-1-march/",
+      "label": "Letter to Parents for school reopening 1 March",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stbrigidsinfantschool.ie/letter-from-hse-for-all-parents/",
+      "label": "Letter from HSE for all parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stbrigidsinfantschool.ie/letter-from-chief-medical-officer-to-all-parents/",
+      "label": "Letter from Chief Medical Officer to all parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stbrigidsinfantschool.ie/illnesses-circulating-information-for-parents/",
+      "label": "Illnesses circulating – information for parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stbrigidsinfantschool.ie/hse-covid-vaccine-information-for-parents/",
+      "label": "HSE Covid Vaccine Information for Parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stbrigidsinfantschool.ie/hse-child-health-information-for-parents/",
+      "label": "HSE Child Health – information for parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stbrigidsinfantschool.ie/department-of-education-advice-for-parents/",
+      "label": "Department of Education advice for parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stbrigidsinfantschool.ie/antigen-testing-for-primary-school-children-information-for-parents/",
+      "label": "Antigen Testing for Primary School Children – Information for Parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stbrigidsinfantschool.ie/",
+      "label": "School homepage",
+      "via": "home"
+    },
+    {
+      "url": "https://stbrigidsinfantschool.ie/wp-content/uploads/2024/03/AntiBullying-Policy-2024.pdf",
+      "label": "Anti-Bullying Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stbrigidsinfantschool.ie/wp-content/uploads/2025/09/Bi-Cinealta-policy.pdf",
+      "label": "Bí Cinealta Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stbrigidsinfantschool.ie/wp-content/uploads/2026/10/Application-Forms-Mainstream-Classes-and-Early-Start-2027-1.pdf",
+      "label": "Application Forms Mainstream Classes and Early Start 2027",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stbrigidsinfantschool.ie/wp-content/uploads/2026/10/Application-Form-Junior-Autism-Classes-2027-2028-1.pdf",
+      "label": "Application Form Junior Autism Classes 2027-2028",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stbrigidsinfantschool.ie/wp-content/themes/stbrigidsins/documents/Communication_at_St_Brigids_Infant_School_1_003_2.pdf",
+      "label": "Communication Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stbrigidsinfantschool.ie/wp-content/themes/stbrigidsins/documents/Acceptable_Use_Policy.pdf",
+      "label": "Acceptable Use Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 95.28,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:42:17+0000"
+}

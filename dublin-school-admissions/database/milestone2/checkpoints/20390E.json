@@ -1,0 +1,18 @@
+{
+  "roll": "20390E",
+  "status": "access_or_infrastructure_deferred",
+  "attempts": [
+    {
+      "url": "https://ballydowdschool.ie",
+      "final_url": "https://ballydowdschool.ie",
+      "status": "robots_transient_ReadTimeout",
+      "via": "home",
+      "label": "School homepage"
+    }
+  ],
+  "documents": [],
+  "pending_links": [],
+  "elapsed_seconds": 7.02,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:11:26+0000"
+}

@@ -1,0 +1,26 @@
+{
+  "roll": "00714P",
+  "capture": {
+    "timestamp": "20251108063120",
+    "original": "https://stmarysbnslucan.com/page/Admissions/355589/Index.html",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "digest": "6RDB7BTFE42RSP74CDCX5EVUGBEPAU7Z"
+  },
+  "original_url": "https://stmarysbnslucan.com/page/Admissions/355589/Index.html",
+  "archived_url": "https://web.archive.org/web/20251108063120/https://stmarysbnslucan.com/page/Admissions/355589/Index.html",
+  "attempted_at": "2026-11-08T13:23:54.216736+00:00",
+  "linked_from_capture": null,
+  "http_status": 200,
+  "headers": {
+    "Content-Type": "text/html; charset=utf-8",
+    "memento-datetime": "Sat, 08 Nov 2025 06:31:20 GMT"
+  },
+  "bytes": 54160,
+  "payload_sha256": "a59fed8a9895d30bdcf3c94b050c3da171bd975bcb718e72f74396b17ba70245",
+  "source_file": "database/milestone2/cache/a59fed8a9895d30bdcf3c94b050c3da171bd975bcb718e72f74396b17ba70245.html",
+  "format": "html",
+  "status": "archived_body_retrieved_requires_manual_evidence_review",
+  "text_file": "database/milestone2/evidence/exact_00714P_a59fed8a9895d30bdcf3.txt",
+  "linked_document_candidates": []
+}

@@ -1,0 +1,28 @@
+[
+  {
+    "roll": "18417J",
+    "url": "https://stjosephsprimaryvi.ie/wp-content/uploads/2025/12/Annual-Admission-notice-2026_27.pdf",
+    "sha256": "77072b1c6c81af38aa70234dfdb636fe133fb14318ce20a74ae6ee64af492ec2",
+    "text_file": "database/milestone2/evidence/stjoseph_vi_visual_transcript.txt",
+    "source_file": "cache/77072b1c6c81af38aa70.pdf",
+    "format": "scanned_pdf",
+    "document_id": "ef6c27f4542325023f86c5d6dfbbbfca",
+    "text_excerpt": "",
+    "groups": [
+      {
+        "title": "2025/2026",
+        "phase": "upcoming",
+        "year": "2025/2026",
+        "cohort": "Children with Visual Impairment: special-school intake",
+        "lo": 1,
+        "hi": 10,
+        "metrics": {
+          "places": null
+        },
+        "notes": "Direct visual review of PDF page1. File name says2026/27 but printed notice/Part1 say2025/26. One-page source has application dates only, no capacity or historical table. No dates treated as admissions counts.",
+        "scope": "whole_table",
+        "quality": "high"
+      }
+    ]
+  }
+]

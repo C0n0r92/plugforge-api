@@ -1,0 +1,36 @@
+{
+  "roll": "16267G",
+  "url": "https://www.stpatsbns.ie/wp-content/uploads/2023/06/Annual-Autism-Class-Admission-Notice.docx.pdf",
+  "prior_sha256": "c6ae5c60e1a6e3e50edbd6bdc5a1f2f8d36b29adf3496751e55650a2e75b42e6",
+  "prior_status": "ok",
+  "prior_attempted_at": "2026-11-08T12:48:07+0000",
+  "started_at": "2026-11-08T13:29:45+0000",
+  "method": "recheck_prior_success_unparsed_notice_with_actual_OCR_if_needed",
+  "documents": [
+    {
+      "roll": "16267G",
+      "url": "https://www.stpatsbns.ie/wp-content/uploads/2023/06/Annual-Autism-Class-Admission-Notice.docx.pdf",
+      "sha256": "c6ae5c60e1a6e3e50edbd6bdc5a1f2f8d36b29adf3496751e55650a2e75b42e6",
+      "format": "pdf",
+      "source_file": "database/milestone2/unparsed_notice_followup/cache/c6ae5c60e1a6e3e50edbd6bdc5a1f2f8d36b29adf3496751e55650a2e75b42e6.pdf",
+      "text_file": "database/milestone2/unparsed_notice_followup/evidence/16267G_c6ae5c60e1a6e3e50edb.txt",
+      "candidate_status": "actual_body_requires_manual_review",
+      "ocr": false,
+      "retrieved_at": "2026-11-08T13:29:46+0000"
+    }
+  ],
+  "attempts": [
+    {
+      "url": "https://www.stpatsbns.ie/wp-content/uploads/2023/06/Annual-Autism-Class-Admission-Notice.docx.pdf",
+      "final_url": "https://www.stpatsbns.ie/wp-content/uploads/2023/06/Annual-Autism-Class-Admission-Notice.docx.pdf",
+      "status": "ok"
+    }
+  ],
+  "status": "body_retrieved_requires_manual_review",
+  "sha256": "c6ae5c60e1a6e3e50edbd6bdc5a1f2f8d36b29adf3496751e55650a2e75b42e6",
+  "same_payload_as_prior_success": true,
+  "format": "pdf",
+  "parse_stderr": "",
+  "text_length": 2227,
+  "elapsed_seconds": 0.14
+}

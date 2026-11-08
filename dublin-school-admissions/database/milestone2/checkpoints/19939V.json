@@ -1,0 +1,217 @@
+{
+  "roll": "19939V",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.goodshepherd.ie/web/child_safeguarding_written_assessment_2024/701855",
+      "final_url": "https://www.goodshepherd.ie/web/child_safeguarding_written_assessment_2024/701855",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://www.goodshepherd.ie/web/child_guarding_statement_2024/649792",
+      "final_url": "https://www.goodshepherd.ie/web/child_guarding_statement_2024/649792",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://www.goodshepherd.ie/web/code_of_behaviour/649573",
+      "final_url": "https://www.goodshepherd.ie/web/code_of_behaviour/649573",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://www.goodshepherd.ie/web/policies/649515",
+      "final_url": "https://www.goodshepherd.ie/web/policies/649515",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.goodshepherd.ie/web/parents/650189",
+      "final_url": "https://www.goodshepherd.ie/web/parents/650189",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents"
+    },
+    {
+      "url": "https://www.goodshepherd.ie/web/handwriting_policy/649785",
+      "final_url": "https://www.goodshepherd.ie/web/handwriting_policy/649785",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://www.goodshepherd.ie/web/b_cinelta_policy/716367",
+      "final_url": "https://www.goodshepherd.ie/web/b_cinelta_policy/716367",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://www.goodshepherd.ie/web/admissions_policy_mld_class/649872",
+      "final_url": "https://www.goodshepherd.ie/web/admissions_policy_mld_class/649872",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions Policy MLD Class"
+    },
+    {
+      "url": "https://www.goodshepherd.ie/web/admissions_policy_language_class/649873",
+      "final_url": "https://www.goodshepherd.ie/web/admissions_policy_language_class/649873",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions Policy Language Class"
+    },
+    {
+      "url": "https://www.gov.ie/en/department-of-education/publications/special-classes-for-children-with-developmental-language-disorder-dld-or-speech-sound-disorder-ssd/",
+      "final_url": "https://www.gov.ie/en/department-of-education/publications/special-classes-for-children-with-developmental-language-disorder-dld-or-speech-sound-disorder-ssd/",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "Decision Making Guidelines for Admissions Committees Development Language Disorder/Speech Sound Disorder classes"
+    },
+    {
+      "url": "https://www.goodshepherd.ie/web/admissions_policy_asd_class/649870",
+      "final_url": "https://www.goodshepherd.ie/web/admissions_policy_asd_class/649870",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions policy ASD class"
+    },
+    {
+      "url": "https://www.goodshepherd.ie/web/admissions_policy_-_mainstream/649804",
+      "final_url": "https://www.goodshepherd.ie/web/admissions_policy_-_mainstream/649804",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions Policy - Mainstream"
+    },
+    {
+      "url": "https://goodshepherd01-my.sharepoint.com/personal/school_goodshepherd_ie/Documents/Documents/Policies/2025%20September%20Updated/Admissions%20Policies/Admission%20Policy%20-%20Mainstream.docx",
+      "final_url": "https://goodshepherd01-my.sharepoint.com/personal/school_goodshepherd_ie/Documents/Documents/Policies/2025%20September%20Updated/Admissions%20Policies/Admission%20Policy%20-%20Mainstream.docx",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "section 1"
+    },
+    {
+      "url": "https://www.goodshepherd.ie/web/admission_policy/661332",
+      "final_url": "https://www.goodshepherd.ie/web/admission_policy/661332",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admission Policy"
+    },
+    {
+      "url": "https://www.goodshepherd.ie/web/",
+      "final_url": "https://www.goodshepherd.ie/web/",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.goodshepherd.ie/sitemap.xml",
+      "final_url": "https://www.goodshepherd.ie/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://thegoodshepherdnationalschool.eschools.co.uk/storage/secure_download/dHRETmNwdDFKRkN0ZUxWTk9LM0k1QT09",
+      "final_url": "https://thegoodshepherdnationalschool.eschools.co.uk/storage/secure_download/dHRETmNwdDFKRkN0ZUxWTk9LM0k1QT09",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions Policy - All Classes - Mainstream & Special.pdf"
+    },
+    {
+      "url": "https://thegoodshepherdnationalschool.eschools.co.uk/storage/secure_download/VGNIWFlGa0txcllMRUlpcUVtblIzUT09",
+      "final_url": "https://thegoodshepherdnationalschool.eschools.co.uk/storage/secure_download/VGNIWFlGa0txcllMRUlpcUVtblIzUT09",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions Policy Language Class"
+    },
+    {
+      "url": "https://thegoodshepherdnationalschool.eschools.co.uk/storage/secure_download/R2JTQ0ppUDZtUEhIaW9xYjhlck16dz09",
+      "final_url": "https://thegoodshepherdnationalschool.eschools.co.uk/storage/secure_download/R2JTQ0ppUDZtUEhIaW9xYjhlck16dz09",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions Policy MLD Class"
+    },
+    {
+      "url": "https://thegoodshepherdnationalschool.eschools.co.uk/storage/secure_download/M2NzK2dtWG1VSGVwYzdNWGM4ZW5wdz09",
+      "final_url": "https://thegoodshepherdnationalschool.eschools.co.uk/storage/secure_download/M2NzK2dtWG1VSGVwYzdNWGM4ZW5wdz09",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions Policy ASD Class"
+    },
+    {
+      "url": "https://thegoodshepherdnationalschool.eschools.co.uk/sitemap.xml",
+      "final_url": "https://thegoodshepherdnationalschool.eschools.co.uk/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.goodshepherd.ie/web/anti-bullying_policy/649521",
+      "final_url": "https://www.goodshepherd.ie/web/anti-bullying_policy/649521",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Anti-bullying Policy"
+    },
+    {
+      "url": "https://www.goodshepherd.ie/web/acceptable_internet_usage_policy/649752",
+      "final_url": "https://www.goodshepherd.ie/web/acceptable_internet_usage_policy/649752",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Acceptable Internet Usage Policy"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19939V",
+      "url": "https://www.goodshepherd.ie/web/admissions_policy_language_class/649873",
+      "label": "Admissions Policy Language Class",
+      "sha256": "7df2fe54be7d42085db09fed27363f309a9c498c349619a30debd58db7dcdf21",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19939V_7df2fe54be7d42085db0.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 8609
+    },
+    {
+      "roll": "19939V",
+      "url": "https://www.goodshepherd.ie/web/admissions_policy_-_mainstream/649804",
+      "label": "Admissions Policy - Mainstream",
+      "sha256": "d0b06d21bfe63b84eb66322e764a277fd854d09ddfa9ddf07fd240f56a87d14f",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19939V_d0b06d21bfe63b84eb66.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 18100
+    },
+    {
+      "roll": "19939V",
+      "url": "https://www.goodshepherd.ie/web/",
+      "label": "School homepage",
+      "sha256": "a2bc9c5172c378395bdc33d2fbf29d3d38619ad5fd629b6c32390a737569db0c",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19939V_a2bc9c5172c378395bdc.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 18081
+    },
+    {
+      "roll": "19939V",
+      "url": "https://thegoodshepherdnationalschool.eschools.co.uk/storage/secure_download/dHRETmNwdDFKRkN0ZUxWTk9LM0k1QT09",
+      "label": "Admissions Policy - All Classes - Mainstream & Special.pdf",
+      "sha256": "28511a6754ace96f167b122899cd1df873454a35078794513599807e1eba616b",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19939V_28511a6754ace96f167b.txt",
+      "source_file": "database/milestone2/cache/28511a6754ace96f167b122899cd1df873454a35078794513599807e1eba616b.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 107888
+    }
+  ],
+  "pending_links": [],
+  "elapsed_seconds": 62.05,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:43:47+0000"
+}

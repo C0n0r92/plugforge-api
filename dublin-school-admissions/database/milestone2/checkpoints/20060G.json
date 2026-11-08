@@ -1,0 +1,212 @@
+{
+  "roll": "20060G",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://metns.ie/admissions/",
+      "final_url": "https://metns.ie/admissions/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://s20060g-metns.s3.eu-west-1.amazonaws.com/2026/09/Admissions-Notice-Appendix-1.pdf",
+      "final_url": "https://s20060g-metns.s3.eu-west-1.amazonaws.com/2026/09/Admissions-Notice-Appendix-1.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "Annual Admission Notice – 2027/28"
+    },
+    {
+      "url": "https://s20060g-metns.s3.eu-west-1.amazonaws.com/2026/09/Admissions-Policy-September-2026.pdf",
+      "final_url": "https://s20060g-metns.s3.eu-west-1.amazonaws.com/2026/09/Admissions-Policy-September-2026.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "Admissions Policy"
+    },
+    {
+      "url": "https://s20060g-metns.s3.eu-west-1.amazonaws.com/2026/06/calendar-2025-26_updated4_11.pdf",
+      "final_url": "https://s20060g-metns.s3.eu-west-1.amazonaws.com/2026/06/calendar-2025-26_updated4_11.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "Academic Year 2025/26"
+    },
+    {
+      "url": "https://s20060g-metns.s3.eu-west-1.amazonaws.com/2019/03/Learn-Together-Values-of-the-Month-2018-2019.pdf",
+      "final_url": "https://s20060g-metns.s3.eu-west-1.amazonaws.com/2019/03/Learn-Together-Values-of-the-Month-2018-2019.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "Ethos Ethical Events Calendar"
+    },
+    {
+      "url": "https://metns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://metns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://s20060g-metns.s3.eu-west-1.amazonaws.com/2024/09/NOTICE_Annual-Admissions-Notice-2024-25.pdf",
+      "final_url": "https://s20060g-metns.s3.eu-west-1.amazonaws.com/2024/09/NOTICE_Annual-Admissions-Notice-2024-25.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "public_wordpress_media_link",
+      "label": "NOTICE_Annual-Admissions-Notice-2024-25"
+    },
+    {
+      "url": "https://s20060g-metns.s3.eu-west-1.amazonaws.com/2025/09/POLICY_Admissions-Policy_Sep-2025.pdf",
+      "final_url": "https://s20060g-metns.s3.eu-west-1.amazonaws.com/2025/09/POLICY_Admissions-Policy_Sep-2025.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "public_wordpress_media_link",
+      "label": "POLICY_Admissions-Policy_Sep-2025"
+    },
+    {
+      "url": "https://s20060g-metns.s3.eu-west-1.amazonaws.com/2024/11/POLICY_Admission-Policy_Sep-24-.pdf",
+      "final_url": "https://s20060g-metns.s3.eu-west-1.amazonaws.com/2024/11/POLICY_Admission-Policy_Sep-24-.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "public_wordpress_media_link",
+      "label": "POLICY_Admission-Policy_Sep-24"
+    },
+    {
+      "url": "https://s20060g-metns.s3.eu-west-1.amazonaws.com/2024/05/METNS-Admissions-Policy_Feb-2024.pdf",
+      "final_url": "https://s20060g-metns.s3.eu-west-1.amazonaws.com/2024/05/METNS-Admissions-Policy_Feb-2024.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "public_wordpress_media_link",
+      "label": "METNS-Admissions-Policy_Feb-2024"
+    },
+    {
+      "url": "https://s20060g-metns.s3.eu-west-1.amazonaws.com/2020/04/Admission-Policy_Staff-Edits.pdf",
+      "final_url": "https://s20060g-metns.s3.eu-west-1.amazonaws.com/2020/04/Admission-Policy_Staff-Edits.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "public_wordpress_media_link",
+      "label": "METNS Admission Policy &#8211; Staff Edits"
+    },
+    {
+      "url": "https://s20060g-metns.s3.eu-west-1.amazonaws.com/2020/04/Admission-Policy_Explanation-to-the-METNS-Community.pdf",
+      "final_url": "https://s20060g-metns.s3.eu-west-1.amazonaws.com/2020/04/Admission-Policy_Explanation-to-the-METNS-Community.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "public_wordpress_media_link",
+      "label": "METNS Admission Policy &#8211; Explanation to the METNS Community"
+    },
+    {
+      "url": "https://metns.ie/?s=admission",
+      "final_url": "https://metns.ie/?s=admission",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Public site search form"
+    },
+    {
+      "url": "https://metns.ie/wp-sitemap.xml",
+      "final_url": "https://metns.ie/wp-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://metns.ie/wp-sitemap-posts-rc_blocks-1.xml",
+      "final_url": "https://metns.ie/wp-sitemap-posts-rc_blocks-1.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://metns.ie/wp-sitemap-posts-post-1.xml",
+      "final_url": "https://metns.ie/wp-sitemap-posts-post-1.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://metns.ie/wp-sitemap-posts-page-1.xml",
+      "final_url": "https://metns.ie/wp-sitemap-posts-page-1.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://metns.ie/policy-feedback/",
+      "final_url": "https://metns.ie/policy-feedback/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policy Feedback – New Admission Policy"
+    },
+    {
+      "url": "https://metns.ie/wp-content/uploads/2020/04/Admission-Policy_Staff-Edits.pdf",
+      "final_url": "https://metns.ie/wp-content/uploads/2020/04/Admission-Policy_Staff-Edits.pdf",
+      "status": "http_404",
+      "via": "school_public_link",
+      "label": "Admission Policy - Proposed Draft 1"
+    },
+    {
+      "url": "https://metns.ie/wp-content/uploads/2020/04/Admission-Policy_Explanation-to-the-METNS-Community.pdf",
+      "final_url": "https://metns.ie/wp-content/uploads/2020/04/Admission-Policy_Explanation-to-the-METNS-Community.pdf",
+      "status": "http_404",
+      "via": "school_public_link",
+      "label": "Explanation to the METNS Community"
+    },
+    {
+      "url": "https://metns.ie/parents/useful-information/",
+      "final_url": "https://metns.ie/parents/useful-information/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Useful Information"
+    },
+    {
+      "url": "https://metns.ie/parents/admin-bills-pencil-case-lists/",
+      "final_url": "https://metns.ie/parents/admin-bills-pencil-case-lists/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admin Bills and Pencil Case Lists"
+    },
+    {
+      "url": "https://metns.ie/parents/",
+      "final_url": "https://metns.ie/parents/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents"
+    },
+    {
+      "url": "https://metns.ie/our-school/policies/",
+      "final_url": "https://metns.ie/our-school/policies/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies & Procedures"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "20060G",
+      "url": "https://metns.ie/admissions/",
+      "label": "Admissions",
+      "sha256": "13e91467c1ee0da1f4f93ef55ff75a94994912e09d629eda6f78ae898e67ab42",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20060G_13e91467c1ee0da1f4f9.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 820
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://metns.ie/our-ethos/ethos-guide-for-parents/",
+      "label": "Ethos Guide for Parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://metns.ie",
+      "label": "School homepage",
+      "via": "home"
+    },
+    {
+      "url": "https://metns.ie/wp-content/uploads/2022/11/POLICY_Healthy-Eating-Policy.pdf",
+      "label": "Healthy Eating Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://metns.ie/wp-content/uploads/2022/01/POLICY_METNS-Fundraising-Policy.pdf",
+      "label": "Fundraising Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 51.9,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:10:26+0000"
+}

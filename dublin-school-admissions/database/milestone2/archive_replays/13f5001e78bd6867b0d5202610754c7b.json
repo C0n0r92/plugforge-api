@@ -1,0 +1,25 @@
+{
+  "task_id": "13f5001e78bd6867b0d5202610754c7b",
+  "roll": "00697S",
+  "capture": {
+    "digest": "TLA45CM6BCIXMIN6QTRHU2PN5PWTDPWG",
+    "mimetype": "text/html",
+    "original": "https://saintbrigids.ie/wp/pwa/annual-admissions-notice/",
+    "statuscode": "200",
+    "timestamp": "20220110090739"
+  },
+  "original_url": "https://saintbrigids.ie/wp/pwa/annual-admissions-notice/",
+  "archived_url": "https://web.archive.org/web/20220110090739/https://saintbrigids.ie/wp/pwa/annual-admissions-notice/",
+  "attempted_at": "2026-11-08T12:32:32.512100+00:00",
+  "http_status": 200,
+  "headers": {
+    "Content-Type": "text/html; charset=UTF-8",
+    "memento-datetime": "Mon, 10 Jan 2022 09:07:39 GMT"
+  },
+  "payload_sha256": "36b2809cac37ea3df0f16c0cccc5fb9cb5305bef78451374c3d6f42dc7c87564",
+  "bytes": 21583,
+  "format": "html",
+  "archive_link_candidates": [],
+  "status": "archived_body_retrieved_requires_notice_evidence_review",
+  "text_file": "database/milestone2/evidence/archive_00697S_36b2809cac37ea3df0f1.txt"
+}

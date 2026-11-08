@@ -1,0 +1,81 @@
+{
+  "roll": "20066S",
+  "status": "bounded_search_no_new_notice_found",
+  "attempts": [
+    {
+      "url": "https://www.letns.org/",
+      "final_url": "https://www.letns.org/",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.letns.org/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://www.letns.org/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "http_access_denied_401",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://www.letns.org/enrolments/",
+      "final_url": "https://www.letns.org/enrolments/",
+      "status": "http_access_denied_401",
+      "via": "school_public_link",
+      "label": "Enrolments"
+    },
+    {
+      "url": "https://www.letns.org/sitemap.xml",
+      "final_url": "https://www.letns.org/sitemap.xml",
+      "status": "http_access_denied_401",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.letns.org/school-info/",
+      "final_url": "https://www.letns.org/school-info/",
+      "status": "http_access_denied_401",
+      "via": "school_public_link",
+      "label": "School Info"
+    },
+    {
+      "url": "https://www.letns.org/policies/",
+      "final_url": "https://www.letns.org/policies/",
+      "status": "http_access_denied_401",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.letns.org/parents-corner/",
+      "final_url": "https://www.letns.org/parents-corner/",
+      "status": "http_access_denied_401",
+      "via": "school_public_link",
+      "label": "Parents Corner"
+    },
+    {
+      "url": "https://www.letns.org/parental-complaints-procedure/",
+      "final_url": "https://www.letns.org/parental-complaints-procedure/",
+      "status": "http_access_denied_401",
+      "via": "school_public_link",
+      "label": "Parental Complaints Procedure"
+    },
+    {
+      "url": "https://www.letns.org/parent-teacher-association/",
+      "final_url": "https://www.letns.org/parent-teacher-association/",
+      "status": "http_access_denied_401",
+      "via": "school_public_link",
+      "label": "Parent Teacher Association"
+    },
+    {
+      "url": "https://www.letns.org/curricular-policies/",
+      "final_url": "https://www.letns.org/curricular-policies/",
+      "status": "http_access_denied_401",
+      "via": "school_public_link",
+      "label": "Curricular Policies"
+    }
+  ],
+  "documents": [],
+  "pending_links": [],
+  "elapsed_seconds": 24.78,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:10:01+0000"
+}

@@ -1,0 +1,332 @@
+{
+  "roll": "19945Q",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://retns.ie/wp-content/uploads/2022/09/Admissions-to-RETNS-1.png",
+      "final_url": "https://retns.ie/wp-content/uploads/2022/09/Admissions-to-RETNS-1.png",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions to RETNS (1)"
+    },
+    {
+      "url": "https://retns.ie/admission-to-retns-2/",
+      "final_url": "https://retns.ie/admission-to-retns-2/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admission to RETNS 2024"
+    },
+    {
+      "url": "https://retns.ie/2024-junior-infants-admission-form/",
+      "final_url": "https://retns.ie/2024-junior-infants-admission-form/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "2025 Junior Infants Admission Form"
+    },
+    {
+      "url": "https://retns.ie/2025-junior-infants-admission-form/",
+      "final_url": "https://retns.ie/2025-junior-infants-admission-form/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "2025 Junior Infants Admission Form"
+    },
+    {
+      "url": "https://retns.ie/2025-admissions-senior-infants-to-sixth/",
+      "final_url": "https://retns.ie/2025-admissions-senior-infants-to-sixth/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "2025 Admissions Senior Infants to Sixth"
+    },
+    {
+      "url": "https://retns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://retns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://retns.ie/wp-content/uploads/2024/09/half_one_club_admissions.pdf",
+      "final_url": "https://retns.ie/wp-content/uploads/2024/09/half_one_club_admissions.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "half_one_club_admissions"
+    },
+    {
+      "url": "https://retns.ie/page/2/?s=admission",
+      "final_url": "https://retns.ie/page/2/?s=admission",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "« Older Entries"
+    },
+    {
+      "url": "https://retns.ie/admission-to-retns/admission-to-retns/",
+      "final_url": "https://retns.ie/admission-to-retns/admission-to-retns/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admission to RETNS"
+    },
+    {
+      "url": "https://retns.ie/admission-to-retns/",
+      "final_url": "https://retns.ie/admission-to-retns/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions to RETNS"
+    },
+    {
+      "url": "https://retns.ie/admission-to-retns-3/",
+      "final_url": "https://retns.ie/admission-to-retns-3/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admission to RETNS"
+    },
+    {
+      "url": "https://retns.ie/?s=admission",
+      "final_url": "https://retns.ie/?s=admission",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Public site search form"
+    },
+    {
+      "url": "https://retns.ie/wp-content/uploads/2022/09/PARENTS-HANDBOOK-2022-2023.pdf",
+      "final_url": "https://retns.ie/wp-content/uploads/2022/09/PARENTS-HANDBOOK-2022-2023.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents Handbook 2022 – 2023"
+    },
+    {
+      "url": "https://retns.ie/wp-content/uploads/2022/09/Homework-Plan-for-2022-2023.pdf",
+      "final_url": "https://retns.ie/wp-content/uploads/2022/09/Homework-Plan-for-2022-2023.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Homework Plan 2022 – 2023"
+    },
+    {
+      "url": "https://retns.ie/wp-content/uploads/2022/06/RETNS-Admissions-Policy-revision.pdf",
+      "final_url": "https://retns.ie/wp-content/uploads/2022/06/RETNS-Admissions-Policy-revision.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "RETNS Admissions Policy revision"
+    },
+    {
+      "url": "https://retns.ie/wp-content/uploads/2023/02/RETNS-Admissions-Policy.pdf",
+      "final_url": "https://retns.ie/wp-content/uploads/2023/02/RETNS-Admissions-Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Current Admissions Policy"
+    },
+    {
+      "url": "https://retns.ie/wp-content/uploads/2026/01/RETNS-Admissions-Policy.pdf",
+      "final_url": "https://retns.ie/wp-content/uploads/2026/01/RETNS-Admissions-Policy.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "RETNS Admissions Policy"
+    },
+    {
+      "url": "https://retns.ie/wp-sitemap.xml",
+      "final_url": "https://retns.ie/wp-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://retns.ie/wp-sitemap-users-1.xml",
+      "final_url": "https://retns.ie/wp-sitemap-users-1.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://retns.ie/wp-sitemap-posts-post-1.xml",
+      "final_url": "https://retns.ie/wp-sitemap-posts-post-1.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://retns.ie/wp-sitemap-posts-page-1.xml",
+      "final_url": "https://retns.ie/wp-sitemap-posts-page-1.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://retns.ie/resources-for-parents-guardians/",
+      "final_url": "https://retns.ie/resources-for-parents-guardians/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Resources for Parents/Guardians"
+    },
+    {
+      "url": "https://retns.ie/policies-guidelines-and-procedures/",
+      "final_url": "https://retns.ie/policies-guidelines-and-procedures/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies, Guidelines and Procedures"
+    },
+    {
+      "url": "https://retns.ie/notification-of-annual-review-of-bi-cinealta-policy/",
+      "final_url": "https://retns.ie/notification-of-annual-review-of-bi-cinealta-policy/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Bí Cineálta - BOM Review"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19945Q",
+      "url": "https://retns.ie/admission-to-retns-2/",
+      "label": "Admission to RETNS 2024",
+      "sha256": "263d809258711cbb592ba8e444bdd6ddb601b8147b50dc175d0b4c8ebab11aa4",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19945Q_263d809258711cbb592b.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 766
+    },
+    {
+      "roll": "19945Q",
+      "url": "https://retns.ie/admission-to-retns/admission-to-retns/",
+      "label": "Admission to RETNS",
+      "sha256": "b32f4675e60fceda58018091052f662d0321158d132bffee962fbd5b50b1b839",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19945Q_b32f4675e60fceda5801.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 766
+    },
+    {
+      "roll": "19945Q",
+      "url": "https://retns.ie/admission-to-retns-3/",
+      "label": "Admission to RETNS",
+      "sha256": "3134c19b8dd180a6fa0ce84973bc51f99a814b2ec37ecab5246cf828d98c9d3c",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19945Q_3134c19b8dd180a6fa0c.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 766
+    },
+    {
+      "roll": "19945Q",
+      "url": "https://retns.ie/?s=admission",
+      "label": "Public site search form",
+      "sha256": "31e0cd7b1762223064aa1a17162d5cc08339b2196bf3234f4ea3b97535ce7ddd",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19945Q_31e0cd7b1762223064aa.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 298
+    },
+    {
+      "roll": "19945Q",
+      "url": "https://retns.ie/wp-content/uploads/2022/06/RETNS-Admissions-Policy-revision.pdf",
+      "label": "RETNS Admissions Policy revision",
+      "sha256": "eb9f0881c54140333b5fbbae245d4549a10a197301618f1e80a73b21470e755b",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19945Q_eb9f0881c54140333b5f.txt",
+      "source_file": "database/milestone2/cache/eb9f0881c54140333b5fbbae245d4549a10a197301618f1e80a73b21470e755b.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 21594
+    },
+    {
+      "roll": "19945Q",
+      "url": "https://retns.ie/wp-content/uploads/2023/02/RETNS-Admissions-Policy.pdf",
+      "label": "Current Admissions Policy",
+      "sha256": "9d1e8aef2e5199bf8441ce0178f7f7c99462562ffe1a6096d82bebca6f9f6f95",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19945Q_9d1e8aef2e5199bf8441.txt",
+      "source_file": "database/milestone2/cache/9d1e8aef2e5199bf8441ce0178f7f7c99462562ffe1a6096d82bebca6f9f6f95.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 22142
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://retns.ie/wp-content/uploads/2026/11/Notification-of-Annual-Review-of-Bi-Cinealta-Policy.pdf",
+      "label": "Notification of Annual Review of Bí Cineálta Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://retns.ie/wp-content/uploads/2026/01/Parental-Complaints-Procedure_V4-final-Nov23-.pdf",
+      "label": "Parental Complaints Procedures",
+      "via": "school_public_link"
+    },
+    {
+      "url": "http://retns.ie/wp-content/uploads/2017/09/RETNS-Garda-vetting-policy-Dec-16.pdf",
+      "label": "Garda Vetting",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://retns.ie/wp-content/uploads/2026/01/RETNS-Communications-Policy-2018-ratified-by-BoM.pdf",
+      "label": "Communications",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://retns.ie/wp-content/uploads/2026/01/RETNS-CCTV-Policy-Feb-2018.pdf",
+      "label": "CCTV",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://retns.ie/wp-content/uploads/2023/02/RETNS-employment-policy-2019.pdf",
+      "label": "Employment",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://retns.ie/parentsassociation/",
+      "label": "RETNS Parents Association",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://retns.ie/history/",
+      "label": "School Info",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://retns.ie/112-2/",
+      "label": "Parents and guardians",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://retns.ie/",
+      "label": "School homepage",
+      "via": "home"
+    },
+    {
+      "url": "https://retns.ie/wp-content/uploads/2022/03/RETNS-Code-of-Behaviour-Policy-June-2021.pdf",
+      "label": "Code of Behaviour",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://retns.ie/wp-content/uploads/2023/11/RETNS-POLICY-ON-ICT-Acceptable-Use-2023.docx_.pdf",
+      "label": "Acceptable Use Policy (AUP)",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://retns.ie/wp-content/uploads/2023/10/RETNS-Assessment-policy.pdf",
+      "label": "Assessment",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://retns.ie/wp-content/uploads/2023/05/RETNS-Protected-Disclosures-Policy-FINAL-08-05-23.pdf",
+      "label": "Protected Disclosures",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://retns.ie/wp-content/uploads/2023/05/RETNS-Library-and-Collection-Development-Policy-FINAL-170423.pdf",
+      "label": "Library & Collection Development",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://retns.ie/wp-content/uploads/2025/02/RETNS-Data-Protection-Policy_V_2_1.pdf",
+      "label": "Data Protection",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://retns.ie/wp-content/uploads/2026/01/Mobile-phone-smart-devices-policy.pdf",
+      "label": "Mobile Phones & Smart Devices",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 83.72,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:41:28+0000"
+}

@@ -1,0 +1,417 @@
+{
+  "roll": "20043G",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://gaelscoilchnocliamhna.ie/wp-content/uploads/2020/09/Fógra-Príobháideachta.docx",
+      "final_url": "https://gaelscoilchnocliamhna.ie/wp-content/uploads/2020/09/Fógra-Príobháideachta.docx",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://gaelscoilchnocliamhna.ie/wp-content/uploads/2020/09/Fógra-Bliantúil.docx",
+      "final_url": "https://gaelscoilchnocliamhna.ie/wp-content/uploads/2020/09/Fógra-Bliantúil.docx",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://gaelscoilchnocliamhna.ie/wp-content/uploads/2022/09/Fogra-Iontrala-Bliantiuil-23-24.docx",
+      "final_url": "https://gaelscoilchnocliamhna.ie/wp-content/uploads/2022/09/Fogra-Iontrala-Bliantiuil-23-24.docx",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://gaelscoilchnocliamhna.ie/wp-content/uploads/2023/09/Fogra-Iontrala-Bliantiuil-24-25.docx",
+      "final_url": "https://gaelscoilchnocliamhna.ie/wp-content/uploads/2023/09/Fogra-Iontrala-Bliantiuil-24-25.docx",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://gaelscoilchnocliamhna.ie/ga/baile/",
+      "final_url": "https://gaelscoilchnocliamhna.ie/ga/baile/",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://gaelscoilchnocliamhna.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://gaelscoilchnocliamhna.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://gaelscoilchnocliamhna.ie/wp-content/uploads/2020/09/Approved-Admission-Policy-2020.docx",
+      "final_url": "https://gaelscoilchnocliamhna.ie/wp-content/uploads/2020/09/Approved-Admission-Policy-2020.docx",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Approved Admission Policy 2020"
+    },
+    {
+      "url": "https://gaelscoilchnocliamhna.ie/wp-content/uploads/2020/04/Draft-Admission-Policy-2020.docx",
+      "final_url": "https://gaelscoilchnocliamhna.ie/wp-content/uploads/2020/04/Draft-Admission-Policy-2020.docx",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Draft Admission Policy 2020"
+    },
+    {
+      "url": "https://gaelscoilchnocliamhna.ie/wp-content/uploads/2021/09/Approved-Admissions-Policy-22-23.docx.pdf",
+      "final_url": "https://gaelscoilchnocliamhna.ie/wp-content/uploads/2021/09/Approved-Admissions-Policy-22-23.docx.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Approved Admissions Policy 22-23.docx"
+    },
+    {
+      "url": "https://gaelscoilchnocliamhna.ie/wp-content/uploads/2022/09/Polasai-Iontrala-Faofa-Approved-Admission-Policy-23-24.pdf",
+      "final_url": "https://gaelscoilchnocliamhna.ie/wp-content/uploads/2022/09/Polasai-Iontrala-Faofa-Approved-Admission-Policy-23-24.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Polasaí Iontrála Faofa (Approved Admission Policy) 23-24"
+    },
+    {
+      "url": "https://gaelscoilchnocliamhna.ie/wp-content/uploads/2022/09/Approved-Admissions-Policy-23-24.pdf",
+      "final_url": "https://gaelscoilchnocliamhna.ie/wp-content/uploads/2022/09/Approved-Admissions-Policy-23-24.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Approved Admissions Policy 23-24"
+    },
+    {
+      "url": "https://gaelscoilchnocliamhna.ie/wp-content/uploads/2022/09/Approved-Admissions-Policy-23-24.docx",
+      "final_url": "https://gaelscoilchnocliamhna.ie/wp-content/uploads/2022/09/Approved-Admissions-Policy-23-24.docx",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Approved Admissions Policy 23-24"
+    },
+    {
+      "url": "https://gaelscoilchnocliamhna.ie/wp-content/uploads/2023/09/Faofa-Chnoc-Liamhna-polasai-Iontrala-Approved-Admissions-Policy-24-25.pdf",
+      "final_url": "https://gaelscoilchnocliamhna.ie/wp-content/uploads/2023/09/Faofa-Chnoc-Liamhna-polasai-Iontrala-Approved-Admissions-Policy-24-25.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Faofa Chnoc Liamhna polasaí Iontrála Approved Admissions Policy 24-25"
+    },
+    {
+      "url": "https://gaelscoilchnocliamhna.ie/wp-content/uploads/2023/09/Approved-Admissions-Policy-24-25.docx",
+      "final_url": "https://gaelscoilchnocliamhna.ie/wp-content/uploads/2023/09/Approved-Admissions-Policy-24-25.docx",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Approved Admissions Policy 24-25"
+    },
+    {
+      "url": "https://gaelscoilchnocliamhna.ie/wp-content/uploads/2023/02/Faofa-Chnoc-Liamhna-Polasai-Iontrala-23-24-Approved-Admissions-Policy-23-24.pdf",
+      "final_url": "https://gaelscoilchnocliamhna.ie/wp-content/uploads/2023/02/Faofa-Chnoc-Liamhna-Polasai-Iontrala-23-24-Approved-Admissions-Policy-23-24.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Faofa Chnoc Liamhna Polasaí Iontrála 23-24 (Approved Admissions Policy 23-24)"
+    },
+    {
+      "url": "https://gaelscoilchnocliamhna.ie/wp-content/uploads/2023/02/Faofa-Chnoc-Liamhna-Polasai-Iontrala-23-24-Approved-Admissions-Policy-23-24.docx",
+      "final_url": "https://gaelscoilchnocliamhna.ie/wp-content/uploads/2023/02/Faofa-Chnoc-Liamhna-Polasai-Iontrala-23-24-Approved-Admissions-Policy-23-24.docx",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Faofa Chnoc Liamhna Polasaí Iontrála 23-24 (Approved Admissions Policy 23-24)"
+    },
+    {
+      "url": "https://gaelscoilchnocliamhna.ie/wp-content/uploads/2023/02/Approved-Admissions-Policy-23-24.docx",
+      "final_url": "https://gaelscoilchnocliamhna.ie/wp-content/uploads/2023/02/Approved-Admissions-Policy-23-24.docx",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Approved Admissions Policy 23-24"
+    },
+    {
+      "url": "https://gaelscoilchnocliamhna.ie/wp-content/uploads/2024/09/Approved-Admissions-Policy-25-26.pdf",
+      "final_url": "https://gaelscoilchnocliamhna.ie/wp-content/uploads/2024/09/Approved-Admissions-Policy-25-26.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Approved Admissions Policy 25-26"
+    },
+    {
+      "url": "https://gaelscoilchnocliamhna.ie/wp-content/uploads/2025/06/Approved-Admissions-Policy-26-27.pdf",
+      "final_url": "https://gaelscoilchnocliamhna.ie/wp-content/uploads/2025/06/Approved-Admissions-Policy-26-27.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Approved Admissions Policy 26-27"
+    },
+    {
+      "url": "https://gaelscoilchnocliamhna.ie/wp-content/uploads/2026/09/Combined-Gaelscoil-Chnoc-Liamhna-Polasai-Iontrala-Admissions-Policy-27-28.pdf",
+      "final_url": "https://gaelscoilchnocliamhna.ie/wp-content/uploads/2026/09/Combined-Gaelscoil-Chnoc-Liamhna-Polasai-Iontrala-Admissions-Policy-27-28.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Combined Gaelscoil Chnoc Liamhna &#8211; Polasaí Iontrála Admissions Policy 27-28"
+    },
+    {
+      "url": "https://gaelscoilchnocliamhna.ie/wp-content/uploads/2026/01/Gaelscoil-Chnoc-Liamhna-Admissions-Policy-26-27.pdf",
+      "final_url": "https://gaelscoilchnocliamhna.ie/wp-content/uploads/2026/01/Gaelscoil-Chnoc-Liamhna-Admissions-Policy-26-27.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Gaelscoil Chnoc Liamhna Admissions Policy 26-27"
+    },
+    {
+      "url": "https://gaelscoilchnocliamhna.ie/wp-content/uploads/2026/01/Faofa-Chnoc-Liamhna-polasai-Iontrala-Approved-Admissions-Policy-26-27.pdf",
+      "final_url": "https://gaelscoilchnocliamhna.ie/wp-content/uploads/2026/01/Faofa-Chnoc-Liamhna-polasai-Iontrala-Approved-Admissions-Policy-26-27.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Faofa Chnoc Liamhna polasaí Iontrála Approved Admissions Policy 26-27"
+    },
+    {
+      "url": "https://gaelscoilchnocliamhna.ie/wp-content/uploads/2026/01/Combined-Gaelscoil-Chnoc-Liamhna-Polasai-Iontrala-Admissions-Policy-26-27.pdf",
+      "final_url": "https://gaelscoilchnocliamhna.ie/wp-content/uploads/2026/01/Combined-Gaelscoil-Chnoc-Liamhna-Polasai-Iontrala-Admissions-Policy-26-27.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Combined Gaelscoil Chnoc Liamhna &#8211; Polasaí Iontrála Admissions Policy 26-27"
+    },
+    {
+      "url": "https://gaelscoilchnocliamhna.ie/wp-content/uploads/2026/01/Approved-Admissions-Policy-26-27.pdf",
+      "final_url": "https://gaelscoilchnocliamhna.ie/wp-content/uploads/2026/01/Approved-Admissions-Policy-26-27.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Approved Admissions Policy 26-27"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "20043G",
+      "url": "https://gaelscoilchnocliamhna.ie/wp-content/uploads/2020/09/Fógra-Bliantúil.docx",
+      "label": "Prior school admissions section",
+      "sha256": "edbbb83565a5a0658d615d980c34734e58471874e3518332fdb98d3f927faaeb",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/20043G_edbbb83565a5a0658d61.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1366
+    },
+    {
+      "roll": "20043G",
+      "url": "https://gaelscoilchnocliamhna.ie/wp-content/uploads/2022/09/Fogra-Iontrala-Bliantiuil-23-24.docx",
+      "label": "Prior school admissions section",
+      "sha256": "d9857d7d748d764738099bfc8cff4ff4d1604d4eeafc3d30f15eabffe3d6ac70",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/20043G_d9857d7d748d76473809.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1495
+    },
+    {
+      "roll": "20043G",
+      "url": "https://gaelscoilchnocliamhna.ie/wp-content/uploads/2023/09/Fogra-Iontrala-Bliantiuil-24-25.docx",
+      "label": "Prior school admissions section",
+      "sha256": "66fed4a4d0b44aafa09fca41377122f821b36c2903012b6771759d911647b24c",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/20043G_66fed4a4d0b44aafa09f.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1636
+    },
+    {
+      "roll": "20043G",
+      "url": "https://gaelscoilchnocliamhna.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "label": "Oldest public admission media (all dates)",
+      "sha256": "e66d6deff56e83c9b46a29608cf06690c04dfb7166fbb51547416310cc02b44a",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20043G_e66d6deff56e83c9b46a.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 7912
+    },
+    {
+      "roll": "20043G",
+      "url": "https://gaelscoilchnocliamhna.ie/wp-content/uploads/2020/09/Approved-Admission-Policy-2020.docx",
+      "label": "Approved Admission Policy 2020",
+      "sha256": "b77f795c0f950fb7ff0ec56b54e08f3829fbb6e0941e824c566596aa2fd5404a",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/20043G_b77f795c0f950fb7ff0e.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 19941
+    },
+    {
+      "roll": "20043G",
+      "url": "https://gaelscoilchnocliamhna.ie/wp-content/uploads/2020/04/Draft-Admission-Policy-2020.docx",
+      "label": "Draft Admission Policy 2020",
+      "sha256": "d97709e5fdd120c4207a21a590b5d5cce9337e040756633cfb5c8be31b0eb72c",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/20043G_d97709e5fdd120c4207a.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 18414
+    },
+    {
+      "roll": "20043G",
+      "url": "https://gaelscoilchnocliamhna.ie/wp-content/uploads/2021/09/Approved-Admissions-Policy-22-23.docx.pdf",
+      "label": "Approved Admissions Policy 22-23.docx",
+      "sha256": "1e8a6db35c8c2f04f8a75fe2f5ec9504fc2f73164465974e8ce7b11853bdb6a3",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20043G_1e8a6db35c8c2f04f8a7.txt",
+      "source_file": "database/milestone2/cache/1e8a6db35c8c2f04f8a75fe2f5ec9504fc2f73164465974e8ce7b11853bdb6a3.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 21662
+    },
+    {
+      "roll": "20043G",
+      "url": "https://gaelscoilchnocliamhna.ie/wp-content/uploads/2022/09/Polasai-Iontrala-Faofa-Approved-Admission-Policy-23-24.pdf",
+      "label": "Polasaí Iontrála Faofa (Approved Admission Policy) 23-24",
+      "sha256": "da7304c8abb9321d580d071d6c95e406f0e8cf360120dd6c379d2336ae944ac4",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20043G_da7304c8abb9321d580d.txt",
+      "source_file": "database/milestone2/cache/da7304c8abb9321d580d071d6c95e406f0e8cf360120dd6c379d2336ae944ac4.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 44179
+    },
+    {
+      "roll": "20043G",
+      "url": "https://gaelscoilchnocliamhna.ie/wp-content/uploads/2022/09/Approved-Admissions-Policy-23-24.pdf",
+      "label": "Approved Admissions Policy 23-24",
+      "sha256": "ce063a9585401911e27af599728556ee264821a6811e249d5ee0a59f701a30b0",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20043G_ce063a9585401911e27a.txt",
+      "source_file": "database/milestone2/cache/ce063a9585401911e27af599728556ee264821a6811e249d5ee0a59f701a30b0.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 21649
+    },
+    {
+      "roll": "20043G",
+      "url": "https://gaelscoilchnocliamhna.ie/wp-content/uploads/2022/09/Approved-Admissions-Policy-23-24.docx",
+      "label": "Approved Admissions Policy 23-24",
+      "sha256": "57d7c347e429399008101504b7f5630e5b546743bd9457b82b87eca8fc2d6e01",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/20043G_57d7c347e42939900810.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 19946
+    },
+    {
+      "roll": "20043G",
+      "url": "https://gaelscoilchnocliamhna.ie/wp-content/uploads/2023/09/Faofa-Chnoc-Liamhna-polasai-Iontrala-Approved-Admissions-Policy-24-25.pdf",
+      "label": "Faofa Chnoc Liamhna polasaí Iontrála Approved Admissions Policy 24-25",
+      "sha256": "1093e7e2826dbc43d1b82777e69c19a3da2d5109c6f4a24dcd3dda39ab108d8a",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20043G_1093e7e2826dbc43d1b8.txt",
+      "source_file": "database/milestone2/cache/1093e7e2826dbc43d1b82777e69c19a3da2d5109c6f4a24dcd3dda39ab108d8a.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 45416
+    },
+    {
+      "roll": "20043G",
+      "url": "https://gaelscoilchnocliamhna.ie/wp-content/uploads/2023/09/Approved-Admissions-Policy-24-25.docx",
+      "label": "Approved Admissions Policy 24-25",
+      "sha256": "7425d079895eee19e35c3dde94d033d4c795ce969d0626fc7489cee1ed10e76c",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/20043G_7425d079895eee19e35c.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 20456
+    },
+    {
+      "roll": "20043G",
+      "url": "https://gaelscoilchnocliamhna.ie/wp-content/uploads/2023/02/Faofa-Chnoc-Liamhna-Polasai-Iontrala-23-24-Approved-Admissions-Policy-23-24.pdf",
+      "label": "Faofa Chnoc Liamhna Polasaí Iontrála 23-24 (Approved Admissions Policy 23-24)",
+      "sha256": "b43ab98a84ee409ca636b622e43875ff89ff044f96fdb94205412f90471a758f",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20043G_b43ab98a84ee409ca636.txt",
+      "source_file": "database/milestone2/cache/b43ab98a84ee409ca636b622e43875ff89ff044f96fdb94205412f90471a758f.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 45369
+    },
+    {
+      "roll": "20043G",
+      "url": "https://gaelscoilchnocliamhna.ie/wp-content/uploads/2023/02/Faofa-Chnoc-Liamhna-Polasai-Iontrala-23-24-Approved-Admissions-Policy-23-24.docx",
+      "label": "Faofa Chnoc Liamhna Polasaí Iontrála 23-24 (Approved Admissions Policy 23-24)",
+      "sha256": "dec2977be86eade2eb06d5974e69aaf889198189fc57ed273181aa2cc8b4c55d",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/20043G_dec2977be86eade2eb06.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 41485
+    },
+    {
+      "roll": "20043G",
+      "url": "https://gaelscoilchnocliamhna.ie/wp-content/uploads/2023/02/Approved-Admissions-Policy-23-24.docx",
+      "label": "Approved Admissions Policy 23-24",
+      "sha256": "1ae5008886b7edb0afdd26930809d219d46cc7ebe83ff1100e5c238200f17661",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/20043G_1ae5008886b7edb0afdd.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 20456
+    },
+    {
+      "roll": "20043G",
+      "url": "https://gaelscoilchnocliamhna.ie/wp-content/uploads/2024/09/Approved-Admissions-Policy-25-26.pdf",
+      "label": "Approved Admissions Policy 25-26",
+      "sha256": "491b45a9b87dc81088ba2a3fe077fa27e84226f216d71ba20b068279cd99f3af",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20043G_491b45a9b87dc81088ba.txt",
+      "source_file": "database/milestone2/cache/491b45a9b87dc81088ba2a3fe077fa27e84226f216d71ba20b068279cd99f3af.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 22380
+    },
+    {
+      "roll": "20043G",
+      "url": "https://gaelscoilchnocliamhna.ie/wp-content/uploads/2025/06/Approved-Admissions-Policy-26-27.pdf",
+      "label": "Approved Admissions Policy 26-27",
+      "sha256": "ae57cdd11284c4abf6b3ce20665ecbc229c9c6bcfa424d5d213baaf01dc4746c",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20043G_ae57cdd11284c4abf6b3.txt",
+      "source_file": "database/milestone2/cache/ae57cdd11284c4abf6b3ce20665ecbc229c9c6bcfa424d5d213baaf01dc4746c.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 22380
+    },
+    {
+      "roll": "20043G",
+      "url": "https://gaelscoilchnocliamhna.ie/wp-content/uploads/2026/09/Combined-Gaelscoil-Chnoc-Liamhna-Polasai-Iontrala-Admissions-Policy-27-28.pdf",
+      "label": "Combined Gaelscoil Chnoc Liamhna &#8211; Polasaí Iontrála Admissions Policy 27-28",
+      "sha256": "e1a6e0ca457802ea3fa6e2270bd9d7e72b09ed27801639b053eef5904bfe14c6",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20043G_e1a6e0ca457802ea3fa6.txt",
+      "source_file": "database/milestone2/cache/e1a6e0ca457802ea3fa6e2270bd9d7e72b09ed27801639b053eef5904bfe14c6.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 52291
+    },
+    {
+      "roll": "20043G",
+      "url": "https://gaelscoilchnocliamhna.ie/wp-content/uploads/2026/01/Gaelscoil-Chnoc-Liamhna-Admissions-Policy-26-27.pdf",
+      "label": "Gaelscoil Chnoc Liamhna Admissions Policy 26-27",
+      "sha256": "e639ef0eb6672a11f76d937c9c106882d48345b30c2f0c36aa8e9e49b9d86f98",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20043G_e639ef0eb6672a11f76d.txt",
+      "source_file": "database/milestone2/cache/e639ef0eb6672a11f76d937c9c106882d48345b30c2f0c36aa8e9e49b9d86f98.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 25737
+    },
+    {
+      "roll": "20043G",
+      "url": "https://gaelscoilchnocliamhna.ie/wp-content/uploads/2026/01/Faofa-Chnoc-Liamhna-polasai-Iontrala-Approved-Admissions-Policy-26-27.pdf",
+      "label": "Faofa Chnoc Liamhna polasaí Iontrála Approved Admissions Policy 26-27",
+      "sha256": "3845ba5a1f395cb79f885711335cab511820d4bdcf8395870e7d33c6815b8eb6",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20043G_3845ba5a1f395cb79f88.txt",
+      "source_file": "database/milestone2/cache/3845ba5a1f395cb79f885711335cab511820d4bdcf8395870e7d33c6815b8eb6.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 45460
+    },
+    {
+      "roll": "20043G",
+      "url": "https://gaelscoilchnocliamhna.ie/wp-content/uploads/2026/01/Combined-Gaelscoil-Chnoc-Liamhna-Polasai-Iontrala-Admissions-Policy-26-27.pdf",
+      "label": "Combined Gaelscoil Chnoc Liamhna &#8211; Polasaí Iontrála Admissions Policy 26-27",
+      "sha256": "96c51c2e5136acd4e99d40dd5e27ee5ef29ec50ad1a8649ee594ba242e7ca820",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20043G_96c51c2e5136acd4e99d.txt",
+      "source_file": "database/milestone2/cache/96c51c2e5136acd4e99d40dd5e27ee5ef29ec50ad1a8649ee594ba242e7ca820.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 52291
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://gaelscoilchnocliamhna.ie/sitemap_index.xml",
+      "label": "Public sitemap",
+      "via": "sitemap_root"
+    }
+  ],
+  "elapsed_seconds": 82.29,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:32:49+0000"
+}

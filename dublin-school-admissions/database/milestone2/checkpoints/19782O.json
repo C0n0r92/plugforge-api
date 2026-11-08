@@ -1,0 +1,171 @@
+{
+  "roll": "19782O",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.stbrigidsbrookfield.ie/enrolment",
+      "final_url": "https://www.stbrigidsbrookfield.ie/enrolment",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "ENROLMENT"
+    },
+    {
+      "url": "https://www.stbrigidsbrookfield.ie/_files/ugd/392cf2_f663b91c2e554e388e6d63f4e3630945.docx?dn=Admission%20Policy%20St%20Brigid's%20JNS%20-%20April%202026.docx",
+      "final_url": "https://www.stbrigidsbrookfield.ie/_files/ugd/392cf2_f663b91c2e554e388e6d63f4e3630945.docx?dn=Admission%20Policy%20St%20Brigid's%20JNS%20-%20April%202026.docx",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://www.stbrigidsbrookfield.ie/_files/ugd/392cf2_e9eb6b602ce44a9ca99a539245121007.pdf",
+      "final_url": "https://www.stbrigidsbrookfield.ie/_files/ugd/392cf2_e9eb6b602ce44a9ca99a539245121007.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admission Policy St Brigid's JNS - June 2025.pdf"
+    },
+    {
+      "url": "https://www.stbrigidsbrookfield.ie/sitemap.xml",
+      "final_url": "https://www.stbrigidsbrookfield.ie/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.stbrigidsbrookfield.ie/policies",
+      "final_url": "https://www.stbrigidsbrookfield.ie/policies",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "POLICIES"
+    },
+    {
+      "url": "https://www.stbrigidsbrookfield.ie/_files/ugd/392cf2_d7fe2c9397b9479d8d20a1943416cbed.pdf",
+      "final_url": "https://www.stbrigidsbrookfield.ie/_files/ugd/392cf2_d7fe2c9397b9479d8d20a1943416cbed.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parental Complaints Procedure"
+    },
+    {
+      "url": "https://www.stbrigidsbrookfield.ie/parents",
+      "final_url": "https://www.stbrigidsbrookfield.ie/parents",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "PARENTS"
+    },
+    {
+      "url": "https://www.stbrigidsbrookfield.ie/pages-sitemap.xml",
+      "final_url": "https://www.stbrigidsbrookfield.ie/pages-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.stbrigidsbrookfield.ie",
+      "final_url": "https://www.stbrigidsbrookfield.ie",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.stbrigidsbrookfield.ie/_files/ugd/392cf2_e53cd287efc0440b9cf1ae0239b7c25e.pdf",
+      "final_url": "https://www.stbrigidsbrookfield.ie/_files/ugd/392cf2_e53cd287efc0440b9cf1ae0239b7c25e.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Homework Policy"
+    },
+    {
+      "url": "https://www.stbrigidsbrookfield.ie/_files/ugd/392cf2_e319ede070ec4cc68fedd8b929dff014.pdf",
+      "final_url": "https://www.stbrigidsbrookfield.ie/_files/ugd/392cf2_e319ede070ec4cc68fedd8b929dff014.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "SEN Policy"
+    },
+    {
+      "url": "https://www.stbrigidsbrookfield.ie/_files/ugd/392cf2_d33dc2b759ba4a438ce1d7530d62d793.docx?dn=Anti%20Bullying%20-%20%20Ratified.docx",
+      "final_url": "https://www.stbrigidsbrookfield.ie/_files/ugd/392cf2_d33dc2b759ba4a438ce1d7530d62d793.docx?dn=Anti%20Bullying%20-%20%20Ratified.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Anti - Bullying Policy"
+    },
+    {
+      "url": "https://www.stbrigidsbrookfield.ie/_files/ugd/392cf2_bcf89972d4ec4399a2b64ba113cb8303.pdf",
+      "final_url": "https://www.stbrigidsbrookfield.ie/_files/ugd/392cf2_bcf89972d4ec4399a2b64ba113cb8303.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Bí Cineálta Policy"
+    },
+    {
+      "url": "https://www.stbrigidsbrookfield.ie/_files/ugd/392cf2_ba87b381b0e244e0a58375295e7c3871.pdf",
+      "final_url": "https://www.stbrigidsbrookfield.ie/_files/ugd/392cf2_ba87b381b0e244e0a58375295e7c3871.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Code of Behaviour Policy"
+    },
+    {
+      "url": "https://www.stbrigidsbrookfield.ie/_files/ugd/392cf2_8edf8a0061ad4726b5d02f1c6e06c299.pdf",
+      "final_url": "https://www.stbrigidsbrookfield.ie/_files/ugd/392cf2_8edf8a0061ad4726b5d02f1c6e06c299.pdf",
+      "status": "public_document_size_bound",
+      "via": "school_public_link",
+      "label": "Child Friendly Bí Cineálta Policy"
+    },
+    {
+      "url": "https://www.stbrigidsbrookfield.ie/_files/ugd/392cf2_8ca2cc8e2c2d48a38e3c893142e506ae.pdf",
+      "final_url": "https://www.stbrigidsbrookfield.ie/_files/ugd/392cf2_8ca2cc8e2c2d48a38e3c893142e506ae.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Trip Policy"
+    },
+    {
+      "url": "https://www.stbrigidsbrookfield.ie/_files/ugd/392cf2_4ea2b9b7b0644b9694c197b2f5ddd7c1.pdf",
+      "final_url": "https://www.stbrigidsbrookfield.ie/_files/ugd/392cf2_4ea2b9b7b0644b9694c197b2f5ddd7c1.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Acceptable Use Policy"
+    },
+    {
+      "url": "https://www.stbrigidsbrookfield.ie/_files/ugd/392cf2_0dcae5e6bdbc4af4a6faa43776bec466.pdf",
+      "final_url": "https://www.stbrigidsbrookfield.ie/_files/ugd/392cf2_0dcae5e6bdbc4af4a6faa43776bec466.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Application Form ASD Class 24.pdf"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19782O",
+      "url": "https://www.stbrigidsbrookfield.ie/enrolment",
+      "label": "ENROLMENT",
+      "sha256": "176396474424dfa2ddf9f56ba2c04a9c40dac386f915a09e8af4d9acfe2b0c55",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19782O_176396474424dfa2ddf9.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 153
+    },
+    {
+      "roll": "19782O",
+      "url": "https://www.stbrigidsbrookfield.ie/_files/ugd/392cf2_f663b91c2e554e388e6d63f4e3630945.docx?dn=Admission%20Policy%20St%20Brigid's%20JNS%20-%20April%202026.docx",
+      "label": "Prior school admissions section",
+      "sha256": "7429d7b34b3856120a023d44c4e4e1e129caf18e2b2d4c7bde5728ee68b929d7",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/19782O_7429d7b34b3856120a02.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 34492
+    },
+    {
+      "roll": "19782O",
+      "url": "https://www.stbrigidsbrookfield.ie/_files/ugd/392cf2_e9eb6b602ce44a9ca99a539245121007.pdf",
+      "label": "Admission Policy St Brigid's JNS - June 2025.pdf",
+      "sha256": "6895fd4acf7f1748d1427f4bf4720b556f218104d097f109bb0bc7e442d9c23c",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19782O_6895fd4acf7f1748d142.txt",
+      "source_file": "database/milestone2/cache/6895fd4acf7f1748d1427f4bf4720b556f218104d097f109bb0bc7e442d9c23c.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 41339
+    }
+  ],
+  "pending_links": [],
+  "elapsed_seconds": 49.76,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:57:34+0000"
+}

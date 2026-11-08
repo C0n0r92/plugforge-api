@@ -1,0 +1,347 @@
+{
+  "roll": "19309L",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.scoilneasain.ie/page/Polasai-Iontrala-agus-Fogra-Iontrala/34731/Index.html",
+      "final_url": "https://www.scoilneasain.ie/page/Polasai-Iontrala-agus-Fogra-Iontrala/34731/Index.html",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://storage.googleapis.com/iclasscrm_files/3001/Images/Content/2026/274/nn55-Fogra_Iontrala_2027.pdf",
+      "final_url": "https://storage.googleapis.com/iclasscrm_files/3001/Images/Content/2026/274/nn55-Fogra_Iontrala_2027.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "SCOIL NEASÁIN Fógra Ligean isteach i scoileanna 2027 / Admissions to School Notice 2027"
+    },
+    {
+      "url": "https://www.scoilneasain.ie/page/Na-Blianta-Tosaigh/43221/Index.html",
+      "final_url": "https://www.scoilneasain.ie/page/Na-Blianta-Tosaigh/43221/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Na Blianta Tosaigh"
+    },
+    {
+      "url": "https://www.scoilneasain.ie/Page/Polasai-Iontrala-agus-Fogra-Iontrala/34731/Index.html",
+      "final_url": "https://www.scoilneasain.ie/Page/Polasai-Iontrala-agus-Fogra-Iontrala/34731/Index.html",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://www.scoilneasain.ie/Admissions-Notice/Index.html",
+      "final_url": "https://www.scoilneasain.ie/Admissions-Notice/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions Notice"
+    },
+    {
+      "url": "https://www.scoilneasain.ie/Polasai-Iontrala/Index.html",
+      "final_url": "https://www.scoilneasain.ie/Polasai-Iontrala/Index.html",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://www.scoilneasain.ie/Iontrail/Index.html",
+      "final_url": "https://www.scoilneasain.ie/Iontrail/Index.html",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://www.scoilneasain.ie/Nuacht/Iontrail-N1-Mean-Fomhair-2025/638087/Index.html",
+      "final_url": "https://www.scoilneasain.ie/Nuacht/Iontrail-N1-Mean-Fomhair-2025/638087/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Iontráil N1 Méan Fómhair 2025"
+    },
+    {
+      "url": "https://www.scoilneasain.ie/page/Polasai-Iontrala/34731/Index.html",
+      "final_url": "https://www.scoilneasain.ie/page/Polasai-Iontrala/34731/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Iontráil 2025"
+    },
+    {
+      "url": "https://www.scoilneasain.ie/Nuacht/Polasai-Iontrala/35014/Index.html",
+      "final_url": "https://www.scoilneasain.ie/Nuacht/Polasai-Iontrala/35014/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Polasaí Iontrála"
+    },
+    {
+      "url": "https://www.scoilneasain.ie/Foirm-Iontrala/Index.html",
+      "final_url": "https://www.scoilneasain.ie/Foirm-Iontrala/Index.html",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://www.scoilneasain.ie/Enrolment/Index.html",
+      "final_url": "https://www.scoilneasain.ie/Enrolment/Index.html",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://www.scoilneasain.ie/Admission/Index.html",
+      "final_url": "https://www.scoilneasain.ie/Admission/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admission"
+    },
+    {
+      "url": "https://www.scoilneasain.ie/Content/2021/2/rn64-Polasai_Iontrala_Scoil_Neasain.pdf",
+      "final_url": "https://www.scoilneasain.ie/Content/2021/2/rn64-Polasai_Iontrala_Scoil_Neasain.pdf",
+      "status": "http_404",
+      "via": "school_public_link",
+      "label": "Polasaí Iontrála / Admissions Policy"
+    },
+    {
+      "url": "https://www.scoilneasain.ie/Content/2025/10/ms46-Polasai_Iontrala_Deireadh_Fomhair_2025.pdf",
+      "final_url": "https://www.scoilneasain.ie/Content/2025/10/ms46-Polasai_Iontrala_Deireadh_Fomhair_2025.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Polasaí Iontrála / Admissions Policy October 2025"
+    },
+    {
+      "url": "https://www.scoilneasain.ie/Content/2025/10/ee11-Polasai_Iontrala_Deireadh_Fomhair_2025.pdf",
+      "final_url": "https://www.scoilneasain.ie/Content/2025/10/ee11-Polasai_Iontrala_Deireadh_Fomhair_2025.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Polasaí Iontrála Deireadh Fómhar 2025/ Admissions Policy October 2025"
+    },
+    {
+      "url": "https://storage.googleapis.com/iclasscrm_files/3001/Images/Content/2026/274/sw78-Foirm_Iarratais_2027.pdf",
+      "final_url": "https://storage.googleapis.com/iclasscrm_files/3001/Images/Content/2026/274/sw78-Foirm_Iarratais_2027.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Foirm Iarratais 2027"
+    },
+    {
+      "url": "https://www.scoilneasain.ie/sitemap.xml",
+      "final_url": "https://www.scoilneasain.ie/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.scoilneasain.ie/page/Polasaithe--Policies/25109/Index.html",
+      "final_url": "https://www.scoilneasain.ie/page/Polasaithe--Policies/25109/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Polasaithe"
+    },
+    {
+      "url": "https://storage.googleapis.com/iclasscrm_files/3001/Images/Content/2026/62/lx49-Raiteas_chuig_Pobal_Scoile_2025.pdf",
+      "final_url": "https://storage.googleapis.com/iclasscrm_files/3001/Images/Content/2026/62/lx49-Raiteas_chuig_Pobal_Scoile_2025.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Fógra maidir le hAthbhreithniú an Bhoird Bhainistíochta Nollaig 2025"
+    },
+    {
+      "url": "https://www.scoilneasain.ie/Content/2025/10/ga20-Polasai_Iontrala_Deireadh_Fomhair_2025.pdf",
+      "final_url": "https://www.scoilneasain.ie/Content/2025/10/ga20-Polasai_Iontrala_Deireadh_Fomhair_2025.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Polasaí Iontrala Deireadh Fómhair 2025 / Admissions Policy October 2025"
+    },
+    {
+      "url": "https://www.scoilneasain.ie/Content/2020/3/scoilneasainpolicyhomework2010.pdf",
+      "final_url": "https://www.scoilneasain.ie/Content/2020/3/scoilneasainpolicyhomework2010.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Polasaí Obair bhaile/Homework (Dátheangach|Bilingual)"
+    },
+    {
+      "url": "https://www.scoilneasain.ie/Content/2020/3/scoilneasainpolicybehaviour2012gaen.pdf",
+      "final_url": "https://www.scoilneasain.ie/Content/2020/3/scoilneasainpolicybehaviour2012gaen.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Polasaí Iompar/Behaviour (Dátheangach|Bilingual)"
+    },
+    {
+      "url": "https://www.scoilneasain.ie/page/Eolas-do-Thuismitheoiri-Information-for-Parents/25958/Index.html",
+      "final_url": "https://www.scoilneasain.ie/page/Eolas-do-Thuismitheoiri-Information-for-Parents/25958/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Eolas do Thuismitheoirí / Information for Parents"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19309L",
+      "url": "https://www.scoilneasain.ie/page/Polasai-Iontrala-agus-Fogra-Iontrala/34731/Index.html",
+      "label": "Prior school admissions section",
+      "sha256": "c2e899e7ac05a50f17840852c1991c7129a9a9d66e5d9d79be9d995f2bc1a73f",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19309L_c2e899e7ac05a50f1784.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 2583
+    },
+    {
+      "roll": "19309L",
+      "url": "https://www.scoilneasain.ie/Page/Polasai-Iontrala-agus-Fogra-Iontrala/34731/Index.html",
+      "label": "Prior school admissions section",
+      "sha256": "2aa72df348cbef92ffe6fe39b4a645b2fa9afd9337fc863891a0dff79c3a7ae4",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19309L_2aa72df348cbef92ffe6.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 2583
+    },
+    {
+      "roll": "19309L",
+      "url": "https://www.scoilneasain.ie/Admissions-Notice/Index.html",
+      "label": "Admissions Notice",
+      "sha256": "dc2034a2e21a6f0b9cc2719dee5ac11161e1d4cded9d03a71e6caa6ad7aa211e",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19309L_dc2034a2e21a6f0b9cc2.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 534
+    },
+    {
+      "roll": "19309L",
+      "url": "https://www.scoilneasain.ie/Polasai-Iontrala/Index.html",
+      "label": "Prior school admissions section",
+      "sha256": "daa53c05b381525c5a68dc5f640e44860b6af92405bc66815e3d2727d75c0efe",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19309L_daa53c05b381525c5a68.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 532
+    },
+    {
+      "roll": "19309L",
+      "url": "https://www.scoilneasain.ie/Iontrail/Index.html",
+      "label": "Prior school admissions section",
+      "sha256": "0b031c4eadbc3297833ffc110346b0158d11aeace0742447c8ea56a5484bf6c6",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19309L_0b031c4eadbc3297833f.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 546
+    },
+    {
+      "roll": "19309L",
+      "url": "https://www.scoilneasain.ie/Nuacht/Iontrail-N1-Mean-Fomhair-2025/638087/Index.html",
+      "label": "Iontráil N1 Méan Fómhair 2025",
+      "sha256": "430170e53cbb33383f5815eda61b875e231da000a4865e4d3c2bdcf0e4d87fb7",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19309L_430170e53cbb33383f58.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1666
+    },
+    {
+      "roll": "19309L",
+      "url": "https://www.scoilneasain.ie/page/Polasai-Iontrala/34731/Index.html",
+      "label": "Iontráil 2025",
+      "sha256": "79a285e8e20b4ba9ddb3a59f1982b4913415747cc0d75723a8492c2d298e3aee",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19309L_79a285e8e20b4ba9ddb3.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 2583
+    },
+    {
+      "roll": "19309L",
+      "url": "https://www.scoilneasain.ie/Foirm-Iontrala/Index.html",
+      "label": "Prior school admissions section",
+      "sha256": "efc51bab08832480f816ed0c6e4aea58d7dac60f7d428100f07961bafabd0067",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19309L_efc51bab08832480f816.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 528
+    },
+    {
+      "roll": "19309L",
+      "url": "https://www.scoilneasain.ie/Enrolment/Index.html",
+      "label": "Prior school admissions section",
+      "sha256": "14dc7d0b337d5a71b26d2ca2f3eaff05efd230ba3f0e1ef5a7a2db5ad77cc65c",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19309L_14dc7d0b337d5a71b26d.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 518
+    },
+    {
+      "roll": "19309L",
+      "url": "https://www.scoilneasain.ie/Admission/Index.html",
+      "label": "Admission",
+      "sha256": "eddb54c449f7e5afeee4e17aa2509587702fa0f3e5784b39b6c3b19699f84513",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19309L_eddb54c449f7e5afeee4.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 546
+    },
+    {
+      "roll": "19309L",
+      "url": "https://www.scoilneasain.ie/Content/2025/10/ms46-Polasai_Iontrala_Deireadh_Fomhair_2025.pdf",
+      "label": "Polasaí Iontrála / Admissions Policy October 2025",
+      "sha256": "ae6995d98b7de6742bfb8ccbceafa3105494735b9484ee077d903b5a93480217",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19309L_ae6995d98b7de6742bfb.txt",
+      "source_file": "database/milestone2/cache/ae6995d98b7de6742bfb8ccbceafa3105494735b9484ee077d903b5a93480217.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 53007
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.scoilneasain.ie/Content/2022/7/xj83-Ag_tosnu_i_Scoil_Neasain_MF_2022.pdf",
+      "label": "Eolas le haghaidh tuistí N1 2024-25 / Information for parents of N1 2024-25",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilneasain.ie/Page/Cumann-na-Tuismitheoiri-Parents-Association/42372/Index.html",
+      "label": "Cumann na Tuismitheoirí / Parents Association",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilneasain.ie/Content/2021/6/dr16-Ceart_Usaid_idirlin_2020.pdf",
+      "label": "Ceart Úsáid Idirlín / Internet Safety Acceptable Usage Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilneasain.ie/Content/2020/3/scoilneasainpolicyinternet.pdf",
+      "label": "Polasaí Sábháilteacht idirlín/Internet safety (Dátheangach|Bilingual)",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilneasain.ie/Application-Form/Index.html",
+      "label": "Prior school admissions section",
+      "via": "prior_link"
+    },
+    {
+      "url": "https://www.scoilneasain.ie",
+      "label": "School homepage",
+      "via": "home"
+    },
+    {
+      "url": "https://www.scoilneasain.ie/Content/2021/3/fj23-Polasai_Bia_Slaintiuil_Scoil_Neasain.pdf",
+      "label": "Polasaí Bia Sláintiúil Scoil Neasáin / Healthy Eating Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://storage.googleapis.com/iclasscrm_files/3001/Images/Content/2026/274/up75-Foirm_Iarratais_2027.pdf",
+      "label": "Foirm Iarratais / Application Form 2027",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilneasain.ie/policy/Index.html",
+      "label": "policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 76.09,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:55:22+0000"
+}

@@ -1,0 +1,206 @@
+{
+  "roll": "18817C",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.scoilbhride1917.ie/Page/ClaruEnrolment--Mean-FomhairSeptember-2027/58498/Index.html",
+      "final_url": "https://www.scoilbhride1917.ie/Page/ClaruEnrolment--Mean-FomhairSeptember-2027/58498/Index.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Clárú/Enrolment - Meán Fómhair/September 2027"
+    },
+    {
+      "url": "https://www.scoilbhride1917.ie/Rollu/Index.html",
+      "final_url": "https://www.scoilbhride1917.ie/Rollu/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Clárú/Enrolment"
+    },
+    {
+      "url": "https://www.scoilbhride1917.ie/Nuacht/ClaruEnrolment--Mean-FomhairSeptember-2027/428974/Index.html",
+      "final_url": "https://www.scoilbhride1917.ie/Nuacht/ClaruEnrolment--Mean-FomhairSeptember-2027/428974/Index.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Clárú/Enrolment - Meán Fómhair/September 2027"
+    },
+    {
+      "url": "https://www.scoilbhride1917.ie/sitemap.xml",
+      "final_url": "https://www.scoilbhride1917.ie/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.scoilbhride1917.ie/page/Polasaithe-Policies/4592/Index.html",
+      "final_url": "https://www.scoilbhride1917.ie/page/Polasaithe-Policies/4592/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Polasaithe"
+    },
+    {
+      "url": "https://www.scoilbhride1917.ie/Content/2020/3/Fogra_Priobhaideachta_.pdf",
+      "final_url": "https://www.scoilbhride1917.ie/Content/2020/3/Fogra_Priobhaideachta_.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Fórga Príobháideachta/Privacy Statement"
+    },
+    {
+      "url": "https://www.scoilbhride1917.ie/Content/2024/2/gp25-ParentalComplaintsProcedure_V4final.pdf",
+      "final_url": "https://www.scoilbhride1917.ie/Content/2024/2/gp25-ParentalComplaintsProcedure_V4final.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Revised Parental Complaints Procedure (2024)"
+    },
+    {
+      "url": "https://www.scoilbhride1917.ie",
+      "final_url": "https://www.scoilbhride1917.ie",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.scoilbhride1917.ie/Content/2024/9/ks36-24.05.2023_daingnithe_Policy_on_Mobile_Phone_Usage_2018_2.pdf",
+      "final_url": "https://www.scoilbhride1917.ie/Content/2024/9/ks36-24.05.2023_daingnithe_Policy_on_Mobile_Phone_Usage_2018_2.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Polasaí Fón Póca/Mobile Phone Policy (2023)"
+    },
+    {
+      "url": "https://www.scoilbhride1917.ie/Content/2024/3/hz29-Phone.pdf",
+      "final_url": "https://www.scoilbhride1917.ie/Content/2024/3/hz29-Phone.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Polasaí i leith Úsáid Gutháin Phóca/Policy on Mobile Phone Usage (2023)"
+    },
+    {
+      "url": "https://www.scoilbhride1917.ie/Content/2024/3/ho35-AcceptableUsePolicy_2021.pdf",
+      "final_url": "https://www.scoilbhride1917.ie/Content/2024/3/ho35-AcceptableUsePolicy_2021.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Polasaí AUP - Acceptable Usage Policy (2023)"
+    },
+    {
+      "url": "https://www.scoilbhride1917.ie/Content/2020/4/Policy_on_Photography_and_Video_Recording_2018.pdf",
+      "final_url": "https://www.scoilbhride1917.ie/Content/2020/4/Policy_on_Photography_and_Video_Recording_2018.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Polasaí i leith Fístaifeadadh agus Griangrafadóireachta/Policy on Video Recording and Photography"
+    },
+    {
+      "url": "https://www.scoilbhride1917.ie/Content/2020/4/Policy_Maoirseachta.pdf",
+      "final_url": "https://www.scoilbhride1917.ie/Content/2020/4/Policy_Maoirseachta.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policy Maoirseachta/Supervision Policy"
+    },
+    {
+      "url": "https://www.scoilbhride1917.ie/Content/2020/4/Polasai_Teagasc_Criostai_2020.pdf",
+      "final_url": "https://www.scoilbhride1917.ie/Content/2020/4/Polasai_Teagasc_Criostai_2020.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Polasaí Teagasc Críostaí/Religious Education Policy"
+    },
+    {
+      "url": "https://www.scoilbhride1917.ie/Content/2020/4/GDPR_Polasai_Gaeilge_Bearla_1.pdf",
+      "final_url": "https://www.scoilbhride1917.ie/Content/2020/4/GDPR_Polasai_Gaeilge_Bearla_1.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Polasaí GDPR/GDPR Policy"
+    },
+    {
+      "url": "https://www.scoilbhride1917.ie/Content/2020/3/Complaints_Policy.pdf",
+      "final_url": "https://www.scoilbhride1917.ie/Content/2020/3/Complaints_Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Polasaí Gearáin/Complaints Policy"
+    },
+    {
+      "url": "https://www.scoilbhride1917.ie/Content/2020/12/ry69-Polasai_maidir_le_cuntoiri_riachtanais_speisialta_Gaeilge2.pdf",
+      "final_url": "https://www.scoilbhride1917.ie/Content/2020/12/ry69-Polasai_maidir_le_cuntoiri_riachtanais_speisialta_Gaeilge2.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Polasaí maidir le Cúntóirí Riachtanais Speisialta/Special Needs Assistant Policy"
+    },
+    {
+      "url": "https://www.scoilbhride1917.ie/Content/2020/12/pl54-L6._Dreacht_Polasai_Frith_Bhulaiochta_arline_.pdf",
+      "final_url": "https://www.scoilbhride1917.ie/Content/2020/12/pl54-L6._Dreacht_Polasai_Frith_Bhulaiochta_arline_.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Polasaí Frith Cibearbhulaíochta/Anti Cyber-Bullying Policy."
+    },
+    {
+      "url": "https://storage.googleapis.com/iclasscrm_files/2481/Images/Content/2026/262/qo65-Scan_3.pdf",
+      "final_url": "https://storage.googleapis.com/iclasscrm_files/2481/Images/Content/2026/262/qo65-Scan_3.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Fógra maidir le hathbhreithniú an Bhoird Bainistíochta ar an Ráiteas um Chumhdach Leanaí - Teach an Ardeaspaig/ Notification regarding the Board of Management's review of the Child Safeguarding Statement - Archbishop's House (2026)"
+    },
+    {
+      "url": "https://storage.googleapis.com/iclasscrm_files/2481/Images/Content/2026/262/ky39-Scan_2.pdf",
+      "final_url": "https://storage.googleapis.com/iclasscrm_files/2481/Images/Content/2026/262/ky39-Scan_2.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Fógra maidir le hAthbhreithniú an Bhoird Bhainistíochta ar an Ráiteas maidir le Cumhdach Leanaí - Cumann na dtuistí / Notification regarding the Board of Management's review of the Child Safeguarding Statement - Parents Association (2026)"
+    },
+    {
+      "url": "https://storage.googleapis.com/iclasscrm_files/2481/Images/Content/2026/264/vh82-Polasai_SB_ml_le_Ligean_Isteach.pdf",
+      "final_url": "https://storage.googleapis.com/iclasscrm_files/2481/Images/Content/2026/264/vh82-Polasai_SB_ml_le_Ligean_Isteach.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Polasaí Ionrollúcháin"
+    },
+    {
+      "url": "https://storage.googleapis.com/iclasscrm_files/2481/Images/Content/2026/264/tx78-Admission_Policy_SB.pdf",
+      "final_url": "https://storage.googleapis.com/iclasscrm_files/2481/Images/Content/2026/264/tx78-Admission_Policy_SB.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Enrolment Policy"
+    },
+    {
+      "url": "https://storage.googleapis.com/iclasscrm_files/2481/Images/Content/2026/264/cw18-Admission_Policy_SB.pdf",
+      "final_url": "https://storage.googleapis.com/iclasscrm_files/2481/Images/Content/2026/264/cw18-Admission_Policy_SB.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Enrolment Policy (2026)"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "18817C",
+      "url": "https://www.scoilbhride1917.ie/Page/ClaruEnrolment--Mean-FomhairSeptember-2027/58498/Index.html",
+      "label": "Clárú/Enrolment - Meán Fómhair/September 2027",
+      "sha256": "0bd26593fa3436c2f55fc9a84ac9d34c703399c0227d981035b5c1bddd8d2cd7",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/18817C_0bd26593fa3436c2f55f.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1932
+    },
+    {
+      "roll": "18817C",
+      "url": "https://www.scoilbhride1917.ie/Nuacht/ClaruEnrolment--Mean-FomhairSeptember-2027/428974/Index.html",
+      "label": "Clárú/Enrolment - Meán Fómhair/September 2027",
+      "sha256": "d93679f08eb4eab5026ea3da0d0c9b7076e2eb966625b573ed6715f95b9cadb8",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/18817C_d93679f08eb4eab5026e.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1917
+    },
+    {
+      "roll": "18817C",
+      "url": "https://www.scoilbhride1917.ie/page/Polasaithe-Policies/4592/Index.html",
+      "label": "Polasaithe",
+      "sha256": "1cfe350fdd9baef5830ccd458555429ea6f018bf1f7da694be172003abf37375",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/18817C_1cfe350fdd9baef5830c.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1572
+    }
+  ],
+  "pending_links": [],
+  "elapsed_seconds": 75.93,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:41:05+0000"
+}

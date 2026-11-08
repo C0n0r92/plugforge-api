@@ -1,0 +1,160 @@
+{
+  "roll": "19926M",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.gaelscoilcm.ie/page/Foirm-Iarratais-Enrolment-Form/50188/Index.html",
+      "final_url": "https://www.gaelscoilcm.ie/page/Foirm-Iarratais-Enrolment-Form/50188/Index.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Iarratas"
+    },
+    {
+      "url": "https://storage.googleapis.com/iclasscrm_files/2858/Images/Content/2026/251/br60-Polasai_Iontrala_GCM_2026.pdf",
+      "final_url": "https://storage.googleapis.com/iclasscrm_files/2858/Images/Content/2026/251/br60-Polasai_Iontrala_GCM_2026.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Polasaí Iontrála"
+    },
+    {
+      "url": "https://www.gaelscoilcm.ie/Page/Foirm-Iarratais-Enrolment-Form/50188/Index.html",
+      "final_url": "https://www.gaelscoilcm.ie/Page/Foirm-Iarratais-Enrolment-Form/50188/Index.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Foirm Iarratais / Enrolment Form"
+    },
+    {
+      "url": "https://www.gaelscoilcm.ie/Enrolment/Index.html",
+      "final_url": "https://www.gaelscoilcm.ie/Enrolment/Index.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Enrolment"
+    },
+    {
+      "url": "https://storage.googleapis.com/iclasscrm_files/2858/Images/Content/2026/251/ay90-Admission_Policy_GCM_2026.pdf",
+      "final_url": "https://storage.googleapis.com/iclasscrm_files/2858/Images/Content/2026/251/ay90-Admission_Policy_GCM_2026.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admission Policy"
+    },
+    {
+      "url": "https://www.gaelscoilcm.ie/sitemap.xml",
+      "final_url": "https://www.gaelscoilcm.ie/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.gaelscoilcm.ie/page/Polasaithe-Policies/18268/Index.html",
+      "final_url": "https://www.gaelscoilcm.ie/page/Polasaithe-Policies/18268/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Polasaithe"
+    },
+    {
+      "url": "https://gaelscoilcm.ie/Content/2025/9/jd31-Polasai_Iontrala_GCM_2025.pdf?21490",
+      "final_url": "https://gaelscoilcm.ie/Content/2025/9/jd31-Polasai_Iontrala_GCM_2025.pdf?21490",
+      "status": "robots_permission_unestablished_http_301",
+      "via": "school_public_link",
+      "label": "Polasaí Iontrála"
+    },
+    {
+      "url": "https://gaelscoilcm.ie/Content/2025/9/oc50-Admission_Policy_GCM_2025.pdf?6675",
+      "final_url": "https://gaelscoilcm.ie/Content/2025/9/oc50-Admission_Policy_GCM_2025.pdf?6675",
+      "status": "robots_permission_unestablished_http_301",
+      "via": "school_public_link",
+      "label": "Admission Policy"
+    },
+    {
+      "url": "http://gaelscoilcm.ie/Content/2020/1/Behaviour_and_Discipline_Policy_2018.pdf",
+      "final_url": "http://gaelscoilcm.ie/Content/2020/1/Behaviour_and_Discipline_Policy_2018.pdf",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "Cód Iompar / Code of Behaviour"
+    },
+    {
+      "url": "https://www.gaelscoilcm.ie/page/Comhairle-na-dTuismitheoiri-The-Parents-Council/27844/Index.html",
+      "final_url": "https://www.gaelscoilcm.ie/page/Comhairle-na-dTuismitheoiri-The-Parents-Council/27844/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Comhairle na dTuismitheoirí"
+    },
+    {
+      "url": "http://gaelscoilcm.ie/Content/2019/10/constitutionoftheparentcouncil.pdf",
+      "final_url": "http://gaelscoilcm.ie/Content/2019/10/constitutionoftheparentcouncil.pdf",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "Parents Council Constitution"
+    },
+    {
+      "url": "https://www.gaelscoilcm.ie/Parents-Association/Index.html",
+      "final_url": "https://www.gaelscoilcm.ie/Parents-Association/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents Association"
+    },
+    {
+      "url": "https://www.gaelscoilcm.ie/Page/Comhairle-na-dTuismitheoiri-The-Parents-Council/27844/Index.html",
+      "final_url": "https://www.gaelscoilcm.ie/Page/Comhairle-na-dTuismitheoiri-The-Parents-Council/27844/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Comhairle na dTuismitheoirí / The Parents Council"
+    },
+    {
+      "url": "https://www.gaelscoilcm.ie",
+      "final_url": "https://www.gaelscoilcm.ie",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "http://gaelscoilcm.ie/Content/2020/1/Polasai_Tinrimh_agus_Ponculachta.pdf",
+      "final_url": "http://gaelscoilcm.ie/Content/2020/1/Polasai_Tinrimh_agus_Ponculachta.pdf",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "Polasaí Bí Sábháilte / Be Safe PolicyFoirm Iarratais / Application Form"
+    },
+    {
+      "url": "https://gaelscoilcm.ie/Content/2024/12/on55-ANTIBULLYINGPOLICYPrimaryRevisedGCM2024.pdf?13981",
+      "final_url": "https://gaelscoilcm.ie/Content/2024/12/on55-ANTIBULLYINGPOLICYPrimaryRevisedGCM2024.pdf?13981",
+      "status": "robots_permission_unestablished_http_301",
+      "via": "school_public_link",
+      "label": "Antibullying Policy"
+    },
+    {
+      "url": "https://gaelscoilcm.ie/Content/2025/9/le41-Foirm_Iarratais_Application_Form_2025.pdf?766",
+      "final_url": "https://gaelscoilcm.ie/Content/2025/9/le41-Foirm_Iarratais_Application_Form_2025.pdf?766",
+      "status": "robots_permission_unestablished_http_301",
+      "via": "school_public_link",
+      "label": "Foirm Iarratais / Application Form"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19926M",
+      "url": "https://storage.googleapis.com/iclasscrm_files/2858/Images/Content/2026/251/br60-Polasai_Iontrala_GCM_2026.pdf",
+      "label": "Polasaí Iontrála",
+      "sha256": "c00c5f93de44fdc0a8d3f90774cf1dea08594625496eac7e545cdde12eb5e98e",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19926M_c00c5f93de44fdc0a8d3.txt",
+      "source_file": "database/milestone2/cache/c00c5f93de44fdc0a8d3f90774cf1dea08594625496eac7e545cdde12eb5e98e.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 23759
+    },
+    {
+      "roll": "19926M",
+      "url": "https://storage.googleapis.com/iclasscrm_files/2858/Images/Content/2026/251/ay90-Admission_Policy_GCM_2026.pdf",
+      "label": "Admission Policy",
+      "sha256": "8182d7713291f75b91d98adaf2ec75250a33f9fd1d29881db2ef7a32283260a1",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19926M_8182d7713291f75b91d9.txt",
+      "source_file": "database/milestone2/cache/8182d7713291f75b91d98adaf2ec75250a33f9fd1d29881db2ef7a32283260a1.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 24025
+    }
+  ],
+  "pending_links": [],
+  "elapsed_seconds": 32.35,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:46:53+0000"
+}

@@ -1,0 +1,206 @@
+{
+  "roll": "20525B",
+  "attempted_at": "2026-11-08T13:08:18+0000",
+  "method": "documented_public_WordPress_media_notice_and_Irish_title_gap_search",
+  "attempts": [
+    {
+      "url": "https://www.educatetogether.ie/wp-json/wp/v2/media?search=notice&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.educatetogether.ie/wp-json/wp/v2/media?search=f%C3%B3gra&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.educatetogether.ie/app/uploads/2020/03/20535E_CherrywoodETNS_AdmissionsNotice.pdf",
+      "status": "ok",
+      "label": "20535E_CherrywoodETNS_AdmissionsNotice"
+    },
+    {
+      "url": "https://www.educatetogether.ie/app/uploads/2020/09/2021CETNSAdmissionsNoticeB.pdf",
+      "status": "ok",
+      "label": "2021CETNSAdmissionsNoticeB"
+    },
+    {
+      "url": "https://www.educatetogether.ie/app/uploads/2021/01/20210107GoreyAdNotice.pdf",
+      "status": "ok",
+      "label": "Gorey ETSS Annual Admissions Notice 2021/2022"
+    },
+    {
+      "url": "https://www.educatetogether.ie/app/uploads/2021/01/20210107BBDLAdNotice.pdf",
+      "status": "ok",
+      "label": "Booterstown, Blackrock &#038; Dun Laoghaire ETSS 2021/2022 Annual Admissions Notice"
+    },
+    {
+      "url": "https://www.educatetogether.ie/app/uploads/2021/02/20543D_SallynogginETNS_AnnualAdmissionsNotice_2021.pdf",
+      "status": "ok",
+      "label": "20543D_SallynogginETNS_AnnualAdmissionsNotice_2021"
+    },
+    {
+      "url": "https://www.educatetogether.ie/app/uploads/2024/07/2024-Template-ET-Annual-Admissions-Notice-Word.docx",
+      "status": "ok",
+      "label": "2024 Template ET Annual Admissions Notice Word"
+    },
+    {
+      "url": "https://www.educatetogether.ie/app/uploads/2025/08/202508-Template-Annual-Admissions-Notice.docx",
+      "status": "ok",
+      "label": "202508 Template Annual Admissions Notice"
+    },
+    {
+      "url": "https://www.educatetogether.ie/app/uploads/2025/08/202508-Template-Annual-Admissions-Notice-1.docx",
+      "status": "ok",
+      "label": "202508-Template-Annual-Admissions-Notice"
+    },
+    {
+      "url": "https://www.educatetogether.ie/app/uploads/2025/10/METNS-Annual-Admission-Notice-2026-2027.pdf",
+      "status": "ok",
+      "label": "METNS Annual Admission Notice 2026 2027"
+    },
+    {
+      "url": "https://www.educatetogether.ie/app/uploads/2025/10/2-METNS-Annual-Admission-Notice-2026-2027.pdf",
+      "status": "ok",
+      "label": "2 METNS Annual Admission Notice 2026 2027"
+    },
+    {
+      "url": "https://www.educatetogether.ie/app/uploads/2026/10/METNS-Annual-Admission-Notice-27-28.pdf",
+      "status": "ok",
+      "label": "METNS Annual Admission Notice 27 28"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "20525B",
+      "url": "https://www.educatetogether.ie/app/uploads/2020/03/20535E_CherrywoodETNS_AdmissionsNotice.pdf",
+      "label": "20535E_CherrywoodETNS_AdmissionsNotice",
+      "sha256": "1d5ce1e861289a564d3e0822c0ef184679e757267ceb56a50ae85c7d1bae518d",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20525B_1d5ce1e861289a564d3e.txt",
+      "source_file": "database/milestone2/cache/1d5ce1e861289a564d3e0822c0ef184679e757267ceb56a50ae85c7d1bae518d.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1334,
+      "discovery_method": "documented_WP_notice_or_Irish_title_media_query",
+      "cms_media_date_as_printed_not_publication": "2020-03-30T15:01:39"
+    },
+    {
+      "roll": "20525B",
+      "url": "https://www.educatetogether.ie/app/uploads/2020/09/2021CETNSAdmissionsNoticeB.pdf",
+      "label": "2021CETNSAdmissionsNoticeB",
+      "sha256": "7194d46944b515d1ba2c8a3ec2f13b1fad048dfca286e3c946865f1036c8c8ca",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20525B_7194d46944b515d1ba2c.txt",
+      "source_file": "database/milestone2/cache/7194d46944b515d1ba2c8a3ec2f13b1fad048dfca286e3c946865f1036c8c8ca.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 2811,
+      "discovery_method": "documented_WP_notice_or_Irish_title_media_query",
+      "cms_media_date_as_printed_not_publication": "2020-09-17T15:20:51"
+    },
+    {
+      "roll": "20525B",
+      "url": "https://www.educatetogether.ie/app/uploads/2021/01/20210107GoreyAdNotice.pdf",
+      "label": "Gorey ETSS Annual Admissions Notice 2021/2022",
+      "sha256": "8a9f94377a223b3f9cf8cf5dc50521ae2f7ec1e317ef28e021d2f2dd4339b6b7",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20525B_8a9f94377a223b3f9cf8.txt",
+      "source_file": "database/milestone2/cache/8a9f94377a223b3f9cf8cf5dc50521ae2f7ec1e317ef28e021d2f2dd4339b6b7.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 3689,
+      "discovery_method": "documented_WP_notice_or_Irish_title_media_query",
+      "cms_media_date_as_printed_not_publication": "2021-01-07T12:45:18"
+    },
+    {
+      "roll": "20525B",
+      "url": "https://www.educatetogether.ie/app/uploads/2021/01/20210107BBDLAdNotice.pdf",
+      "label": "Booterstown, Blackrock &#038; Dun Laoghaire ETSS 2021/2022 Annual Admissions Notice",
+      "sha256": "e5cc7b5881bcb46af4a5549273e91dea95a5f7713945bcf207c77f95de374820",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20525B_e5cc7b5881bcb46af4a5.txt",
+      "source_file": "database/milestone2/cache/e5cc7b5881bcb46af4a5549273e91dea95a5f7713945bcf207c77f95de374820.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 3775,
+      "discovery_method": "documented_WP_notice_or_Irish_title_media_query",
+      "cms_media_date_as_printed_not_publication": "2021-01-07T12:51:07"
+    },
+    {
+      "roll": "20525B",
+      "url": "https://www.educatetogether.ie/app/uploads/2021/02/20543D_SallynogginETNS_AnnualAdmissionsNotice_2021.pdf",
+      "label": "20543D_SallynogginETNS_AnnualAdmissionsNotice_2021",
+      "sha256": "0abbcc39dfee5c72419b2b52fbd2dcf5ffa194a2e0454ce6ca014c9c189096b4",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20525B_0abbcc39dfee5c72419b.txt",
+      "source_file": "database/milestone2/cache/0abbcc39dfee5c72419b2b52fbd2dcf5ffa194a2e0454ce6ca014c9c189096b4.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1701,
+      "discovery_method": "documented_WP_notice_or_Irish_title_media_query",
+      "cms_media_date_as_printed_not_publication": "2021-02-23T17:19:51"
+    },
+    {
+      "roll": "20525B",
+      "url": "https://www.educatetogether.ie/app/uploads/2024/07/2024-Template-ET-Annual-Admissions-Notice-Word.docx",
+      "label": "2024 Template ET Annual Admissions Notice Word",
+      "sha256": "b335c9dfe3e3548b8785b37cc408aad27a844e0ba4cc6a9f0aa5d37d6af07816",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/20525B_b335c9dfe3e3548b8785.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 4649,
+      "discovery_method": "documented_WP_notice_or_Irish_title_media_query",
+      "cms_media_date_as_printed_not_publication": "2024-07-29T13:40:40"
+    },
+    {
+      "roll": "20525B",
+      "url": "https://www.educatetogether.ie/app/uploads/2025/08/202508-Template-Annual-Admissions-Notice.docx",
+      "label": "202508 Template Annual Admissions Notice",
+      "sha256": "8e2c3c42eace5c470b071e03d4a531b4da2e425e7c9c270c8838908f22018029",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/20525B_8e2c3c42eace5c470b07.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 6330,
+      "discovery_method": "documented_WP_notice_or_Irish_title_media_query",
+      "cms_media_date_as_printed_not_publication": "2025-08-14T09:41:28"
+    },
+    {
+      "roll": "20525B",
+      "url": "https://www.educatetogether.ie/app/uploads/2025/10/METNS-Annual-Admission-Notice-2026-2027.pdf",
+      "label": "METNS Annual Admission Notice 2026 2027",
+      "sha256": "bbae7310f8585682fcb0f49f0a9760eb3078ad540782674b06fc68f1cfdb326a",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20525B_bbae7310f8585682fcb0.txt",
+      "source_file": "database/milestone2/cache/bbae7310f8585682fcb0f49f0a9760eb3078ad540782674b06fc68f1cfdb326a.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 10400,
+      "discovery_method": "documented_WP_notice_or_Irish_title_media_query",
+      "cms_media_date_as_printed_not_publication": "2025-10-06T11:17:41"
+    },
+    {
+      "roll": "20525B",
+      "url": "https://www.educatetogether.ie/app/uploads/2025/10/2-METNS-Annual-Admission-Notice-2026-2027.pdf",
+      "label": "2 METNS Annual Admission Notice 2026 2027",
+      "sha256": "b0e958444f42ea57250a7c5ee92d8d84e0a473cf05e832c1547a0cf01b5e411e",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20525B_b0e958444f42ea57250a.txt",
+      "source_file": "database/milestone2/cache/b0e958444f42ea57250a7c5ee92d8d84e0a473cf05e832c1547a0cf01b5e411e.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 10284,
+      "discovery_method": "documented_WP_notice_or_Irish_title_media_query",
+      "cms_media_date_as_printed_not_publication": "2025-10-20T13:18:05"
+    },
+    {
+      "roll": "20525B",
+      "url": "https://www.educatetogether.ie/app/uploads/2026/10/METNS-Annual-Admission-Notice-27-28.pdf",
+      "label": "METNS Annual Admission Notice 27 28",
+      "sha256": "c7b6ccb6c7470ed9948396a826f09c8c06abb0582627787d60bb02e9921747fa",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20525B_c7b6ccb6c7470ed99483.txt",
+      "source_file": "database/milestone2/cache/c7b6ccb6c7470ed9948396a826f09c8c06abb0582627787d60bb02e9921747fa.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 10888,
+      "discovery_method": "documented_WP_notice_or_Irish_title_media_query",
+      "cms_media_date_as_printed_not_publication": "2026-10-06T13:49:05"
+    }
+  ],
+  "pending_links": [],
+  "earliest_year_cutoff": null,
+  "status": "attempted_new_historical_notice_candidates",
+  "elapsed_seconds": 40.4
+}

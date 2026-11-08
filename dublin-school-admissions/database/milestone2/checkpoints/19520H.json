@@ -1,0 +1,60 @@
+{
+  "roll": "19520H",
+  "status": "bounded_search_no_new_notice_found",
+  "attempts": [
+    {
+      "url": "https://sjss.ie",
+      "final_url": "https://sjss.ie",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://sjss.ie/sitemap.xml",
+      "final_url": "https://sjss.ie/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://sjss.ie/policies",
+      "final_url": "https://sjss.ie/policies",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://drive.google.com/file/d/1s5daOQsjCf4xExai32m7N3vW9GGxgg_-/view",
+      "final_url": "https://drive.google.com/file/d/1s5daOQsjCf4xExai32m7N3vW9GGxgg_-/view",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions Notice 2027/2028"
+    },
+    {
+      "url": "https://drive.google.com/file/d/1lRiLCShyVPLbw63dwU3zrEuPXo0V91MJ/view",
+      "final_url": "https://drive.google.com/file/d/1lRiLCShyVPLbw63dwU3zrEuPXo0V91MJ/view",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions Application 27/28"
+    },
+    {
+      "url": "https://drive.google.com/file/d/1Eq2X0D3bahqb1z_3rTXWrW2Yey8RD8yZ/view",
+      "final_url": "https://drive.google.com/file/d/1Eq2X0D3bahqb1z_3rTXWrW2Yey8RD8yZ/view",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admission Policy 2027/2028"
+    },
+    {
+      "url": "https://drive.google.com/sitemap.xml",
+      "final_url": "https://drive.google.com/sitemap.xml",
+      "status": "robots_disallow",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    }
+  ],
+  "documents": [],
+  "pending_links": [],
+  "elapsed_seconds": 17.95,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:06:18+0000"
+}

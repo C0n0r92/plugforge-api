@@ -1,0 +1,223 @@
+{
+  "roll": "18317F",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.crcschool.ie/admissions/",
+      "final_url": "https://www.crcschool.ie/admissions/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://www.crcschool.ie/assets/files/pdf/2023-2024_admissions_form.pdf",
+      "final_url": "https://www.crcschool.ie/assets/files/pdf/2023-2024_admissions_form.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Application Form"
+    },
+    {
+      "url": "https://www.crcschool.ie/assets/files/pdf/admissions_policy_for_central_remedial_clinic_september_2025.pdf",
+      "final_url": "https://www.crcschool.ie/assets/files/pdf/admissions_policy_for_central_remedial_clinic_september_2025.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions Policy"
+    },
+    {
+      "url": "https://www.crcschool.ie/assets/files/pdf/crc-school-admissions-policy_latest_version3.pdf",
+      "final_url": "https://www.crcschool.ie/assets/files/pdf/crc-school-admissions-policy_latest_version3.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions Policy"
+    },
+    {
+      "url": "https://www.crcschool.ie/assets/files/docx/crc-school-admissions-policy_latest_version3.docx",
+      "final_url": "https://www.crcschool.ie/assets/files/docx/crc-school-admissions-policy_latest_version3.docx",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://www.crcschool.ie/sitemap.xml",
+      "final_url": "https://www.crcschool.ie/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.crcschool.ie/policies/",
+      "final_url": "https://www.crcschool.ie/policies/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.crcschool.ie/assets/files/pdf/17792805271600121661.pdf",
+      "final_url": "https://www.crcschool.ie/assets/files/pdf/17792805271600121661.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions Policy"
+    },
+    {
+      "url": "https://www.crcschool.ie/parents-guardians/summer-provision/",
+      "final_url": "https://www.crcschool.ie/parents-guardians/summer-provision/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Summer Provision"
+    },
+    {
+      "url": "https://www.crcschool.ie/parents-guardians/parents--guardian/",
+      "final_url": "https://www.crcschool.ie/parents-guardians/parents--guardian/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents / Guardian"
+    },
+    {
+      "url": "https://www.crcschool.ie/parents-guardians/parent-teacher-association/",
+      "final_url": "https://www.crcschool.ie/parents-guardians/parent-teacher-association/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parent Teacher Association"
+    },
+    {
+      "url": "https://www.crcschool.ie/parents-guardians/assistive-technology/",
+      "final_url": "https://www.crcschool.ie/parents-guardians/assistive-technology/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Assistive Technology"
+    },
+    {
+      "url": "https://www.crcschool.ie/parents-guardians/assistive-technology/\\u0022https:/www.urability.com/\\u0022",
+      "final_url": "https://www.crcschool.ie/parents-guardians/assistive-technology/\\u0022https:/www.urability.com/\\u0022",
+      "status": "http_404",
+      "via": "school_public_link",
+      "label": "https://www.urability.com"
+    },
+    {
+      "url": "https://www.crcschool.ie/parents-guardians/assistive-technology/\\u0022https:/www.helpkidzlearn.com/\\u0022",
+      "final_url": "https://www.crcschool.ie/parents-guardians/assistive-technology/\\u0022https:/www.helpkidzlearn.com/\\u0022",
+      "status": "http_404",
+      "via": "school_public_link",
+      "label": "Help Kidz Learn"
+    },
+    {
+      "url": "https://www.crcschool.ie/parents-guardians/assistive-technology/\\u0022https:/www.cricksoft.com/uk/clicker\\u0022",
+      "final_url": "https://www.crcschool.ie/parents-guardians/assistive-technology/\\u0022https:/www.cricksoft.com/uk/clicker\\u0022",
+      "status": "http_404",
+      "via": "school_public_link",
+      "label": "https://www.cricksoft.com/uk/clicker"
+    },
+    {
+      "url": "https://www.crcschool.ie/parents-guardians/assistive-technology/\\u0022https:/readingeggs.co.uk/\\u0022",
+      "final_url": "https://www.crcschool.ie/parents-guardians/assistive-technology/\\u0022https:/readingeggs.co.uk/\\u0022",
+      "status": "http_404",
+      "via": "school_public_link",
+      "label": "Reading Eggs/Maths Seeds"
+    },
+    {
+      "url": "https://www.crcschool.ie/parents-guardians/assistive-technology/\\u0022https:/ie.ixl.com/\\u0022",
+      "final_url": "https://www.crcschool.ie/parents-guardians/assistive-technology/\\u0022https:/ie.ixl.com/\\u0022",
+      "status": "http_404",
+      "via": "school_public_link",
+      "label": "IXL"
+    },
+    {
+      "url": "https://www.crcschool.ie/parents-guardians/assistive-technology/\\u0022http:/www.inclusive.co.uk/catalogue/acatalog/switch_accessible_software.html\\u0022",
+      "final_url": "https://www.crcschool.ie/parents-guardians/assistive-technology/\\u0022http:/www.inclusive.co.uk/catalogue/acatalog/switch_accessible_software.html\\u0022",
+      "status": "http_404",
+      "via": "school_public_link",
+      "label": "http://www.inclusive.co.uk/catalogue/acatalog/switch_accessible_software.html"
+    },
+    {
+      "url": "https://www.crcschool.ie/parents-guardians/",
+      "final_url": "https://www.crcschool.ie/parents-guardians/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents / Guardians"
+    },
+    {
+      "url": "https://www.crcschool.ie/",
+      "final_url": "https://www.crcschool.ie/",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.crcschool.ie/assets/files/docx/communication_policy_april_2021.docx",
+      "final_url": "https://www.crcschool.ie/assets/files/docx/communication_policy_april_2021.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Communications Policy"
+    },
+    {
+      "url": "https://www.crcschool.ie/assets/files/pdf/anti-bullying_policy_crc_ratified_june_2022.pdf",
+      "final_url": "https://www.crcschool.ie/assets/files/pdf/anti-bullying_policy_crc_ratified_june_2022.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Anti-Bullying Policy"
+    },
+    {
+      "url": "https://www.crcschool.ie/assets/files/docx/application_form_2022.docx",
+      "final_url": "https://www.crcschool.ie/assets/files/docx/application_form_2022.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Application Form"
+    },
+    {
+      "url": "https://www.crcschool.ie/assets/files/docx/anti-bullying_policy_crc_ratified_june_2022.docx",
+      "final_url": "https://www.crcschool.ie/assets/files/docx/anti-bullying_policy_crc_ratified_june_2022.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Anti-Bullying Policy CRC"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "18317F",
+      "url": "https://www.crcschool.ie/assets/files/pdf/crc-school-admissions-policy_latest_version3.pdf",
+      "label": "Admissions Policy",
+      "sha256": "c106e0de3eb15dd499f0f8b5fde8b6e9ad48363179bc211fb59f2ad7b18a78db",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/18317F_c106e0de3eb15dd499f0.txt",
+      "source_file": "database/milestone2/cache/c106e0de3eb15dd499f0f8b5fde8b6e9ad48363179bc211fb59f2ad7b18a78db.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 21835
+    },
+    {
+      "roll": "18317F",
+      "url": "https://www.crcschool.ie/assets/files/docx/crc-school-admissions-policy_latest_version3.docx",
+      "label": "Prior school admissions section",
+      "sha256": "6750a48c2919a1a86cf791185f94ab9ba532035bb089865a3401ea622598f5f8",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/18317F_6750a48c2919a1a86cf7.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 21369
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.crcschool.ie/assets/files/pdf/policy_and_procedure_for_the_safe_administration_of_emergency_medication_for_students_of_the__crc_school_while_in_transit_to_and_from_school_ratified_dec_2024.pdf",
+      "label": "Policy and Procedure for the safe administration of emergency medication for students of the CRC School while in transit to and from school",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.crcschool.ie/assets/files/doc/application_form_2024.doc",
+      "label": "Application Form",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.crcschool.ie/assets/files/pdf/application_form_2025.pdf",
+      "label": "Application Form",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.crcschool.ie/assets/files/pdf/application_form_2026.pdf",
+      "label": "Application Form",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 76.74,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:39:35+0000"
+}

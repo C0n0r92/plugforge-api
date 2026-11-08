@@ -1,0 +1,25 @@
+{
+  "roll": "18569J",
+  "capture": {
+    "timestamp": "20250514134614",
+    "original": "https://stdeclans.ie/admissions/st-declans-special-schoolannual-admission-notice/",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "digest": "QTOHUF3OP6COMHZ7ADKLUDLUQQZOMFGJ"
+  },
+  "original_url": "https://stdeclans.ie/admissions/st-declans-special-schoolannual-admission-notice/",
+  "archived_url": "https://web.archive.org/web/20250514134614/https://stdeclans.ie/admissions/st-declans-special-schoolannual-admission-notice/",
+  "attempted_at": "2026-11-08T13:10:15.088562+00:00",
+  "linked_from_capture": null,
+  "http_status": 200,
+  "headers": {
+    "Content-Type": "text/html; charset=UTF-8",
+    "memento-datetime": "Wed, 14 May 2025 13:46:14 GMT"
+  },
+  "bytes": 109761,
+  "payload_sha256": "d5be7a24e01dc131b260747172f22f83c722b6f09536b1a6ef6f2e4dfddd9a6d",
+  "format": "html",
+  "status": "archived_body_retrieved_requires_manual_evidence_review",
+  "text_file": "database/milestone2/evidence/exact_18569J_d5be7a24e01dc131b260.txt",
+  "linked_document_candidates": []
+}

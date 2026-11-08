@@ -1,0 +1,65 @@
+{
+  "roll": "02872U",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.stmarysnssandyford.ie/school-admission",
+      "final_url": "https://www.stmarysnssandyford.ie/school-admission",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "School Admission"
+    },
+    {
+      "url": "https://www.stmarysnssandyford.ie/useful-links/parents",
+      "final_url": "https://www.stmarysnssandyford.ie/useful-links/parents",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents"
+    },
+    {
+      "url": "https://www.stmarysnssandyford.ie/sitemap.xml",
+      "final_url": "https://www.stmarysnssandyford.ie/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.stmarysnssandyford.ie/policies",
+      "final_url": "https://www.stmarysnssandyford.ie/policies",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.stmarysnssandyford.ie/parents-association",
+      "final_url": "https://www.stmarysnssandyford.ie/parents-association",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents' Association"
+    },
+    {
+      "url": "https://www.stmarysnssandyford.ie",
+      "final_url": "https://www.stmarysnssandyford.ie",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "02872U",
+      "url": "https://www.stmarysnssandyford.ie/school-admission",
+      "label": "School Admission",
+      "sha256": "66f749d77856dc7924b464d00f48edaa3c031b923b6fdf2a9c919de3124392a6",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/02872U_66f749d77856dc7924b4.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 213
+    }
+  ],
+  "pending_links": [],
+  "elapsed_seconds": 16.77,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:00:18+0000"
+}

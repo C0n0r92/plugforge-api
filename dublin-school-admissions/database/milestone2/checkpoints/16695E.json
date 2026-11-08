@@ -1,0 +1,132 @@
+{
+  "roll": "16695E",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.brunnerprimary.ie/admissions",
+      "final_url": "https://www.brunnerprimary.ie/admissions",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://www.brunnerprimary.ie/_files/ugd/2d1e22_ba52f92534b44edfba13d1738d64d130.docx?dn=_Admissions%20Policy%20October%202026.docx",
+      "final_url": "https://www.brunnerprimary.ie/_files/ugd/2d1e22_ba52f92534b44edfba13d1738d64d130.docx?dn=_Admissions%20Policy%20October%202026.docx",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://www.brunnerprimary.ie/_files/ugd/2d1e22_28948d4b53ff49f08895d16e1f72c4e9.pdf",
+      "final_url": "https://www.brunnerprimary.ie/_files/ugd/2d1e22_28948d4b53ff49f08895d16e1f72c4e9.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Read here"
+    },
+    {
+      "url": "https://www.brunnerprimary.ie/sitemap.xml",
+      "final_url": "https://www.brunnerprimary.ie/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.brunnerprimary.ie/policies",
+      "final_url": "https://www.brunnerprimary.ie/policies",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.brunnerprimary.ie/_files/ugd/2d1e22_d706594721d14e9ea323cf75217bbe05.docx?dn=Child%20safeguarding%20Statement%20Update%20Oct%202021.docx",
+      "final_url": "https://www.brunnerprimary.ie/_files/ugd/2d1e22_d706594721d14e9ea323cf75217bbe05.docx?dn=Child%20safeguarding%20Statement%20Update%20Oct%202021.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download"
+    },
+    {
+      "url": "https://www.brunnerprimary.ie/_files/ugd/2d1e22_fefce90922c64bb68edb00d4861766da.pdf",
+      "final_url": "https://www.brunnerprimary.ie/_files/ugd/2d1e22_fefce90922c64bb68edb00d4861766da.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download"
+    },
+    {
+      "url": "https://www.brunnerprimary.ie/_files/ugd/2d1e22_c945bb8424b6450aa46fc38db97e08b3.pdf",
+      "final_url": "https://www.brunnerprimary.ie/_files/ugd/2d1e22_c945bb8424b6450aa46fc38db97e08b3.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download"
+    },
+    {
+      "url": "https://www.brunnerprimary.ie/parents",
+      "final_url": "https://www.brunnerprimary.ie/parents",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents"
+    },
+    {
+      "url": "https://www.brunnerprimary.ie/pages-sitemap.xml",
+      "final_url": "https://www.brunnerprimary.ie/pages-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.brunnerprimary.ie/blog-posts-sitemap.xml",
+      "final_url": "https://www.brunnerprimary.ie/blog-posts-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.brunnerprimary.ie/blog-categories-sitemap.xml",
+      "final_url": "https://www.brunnerprimary.ie/blog-categories-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.brunnerprimary.ie/",
+      "final_url": "https://www.brunnerprimary.ie/",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.brunnerprimary.ie/_files/ugd/2d1e22_45791dd0a8c74bf69f178426eb1f0b4a.pdf",
+      "final_url": "https://www.brunnerprimary.ie/_files/ugd/2d1e22_45791dd0a8c74bf69f178426eb1f0b4a.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "16695E",
+      "url": "https://www.brunnerprimary.ie/_files/ugd/2d1e22_ba52f92534b44edfba13d1738d64d130.docx?dn=_Admissions%20Policy%20October%202026.docx",
+      "label": "Prior school admissions section",
+      "sha256": "ce6636165307caca8aaa9628030c8f65602bae750262f6caf646ef7089942bec",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/16695E_ce6636165307caca8aaa.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 25240
+    },
+    {
+      "roll": "16695E",
+      "url": "https://www.brunnerprimary.ie/_files/ugd/2d1e22_28948d4b53ff49f08895d16e1f72c4e9.pdf",
+      "label": "Read here",
+      "sha256": "07bdd3844fdbcb1b3b73218dafc5efaf291e49faca67bc4102b96857a75c54da",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/16695E_07bdd3844fdbcb1b3b73.txt",
+      "source_file": "database/milestone2/cache/07bdd3844fdbcb1b3b73218dafc5efaf291e49faca67bc4102b96857a75c54da.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 28023
+    }
+  ],
+  "pending_links": [],
+  "elapsed_seconds": 40.62,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:44:27+0000"
+}

@@ -1,0 +1,116 @@
+{
+  "roll": "19576L",
+  "status": "bounded_search_no_new_notice_found",
+  "attempts": [
+    {
+      "url": "https://www.scoilaonghusasnr.ie/",
+      "final_url": "https://www.scoilaonghusasnr.ie/",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://storage.googleapis.com/iclasscrm_files/85/Content/2026/2/tk73-Enrolment_Application.pdf?48297",
+      "final_url": "https://storage.googleapis.com/iclasscrm_files/85/Content/2026/2/tk73-Enrolment_Application.pdf?48297",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Enrolment Form"
+    },
+    {
+      "url": "https://storage.googleapis.com/iclasscrm_files/85/Content/2026/2/vy89-Admission_Policy.pdf?1365",
+      "final_url": "https://storage.googleapis.com/iclasscrm_files/85/Content/2026/2/vy89-Admission_Policy.pdf?1365",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admission to School Policy"
+    },
+    {
+      "url": "https://www.scoilaonghusasnr.ie/sitemap.xml",
+      "final_url": "https://www.scoilaonghusasnr.ie/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.scoilaonghusasnr.ie/page/Policies/61732/Index.html",
+      "final_url": "https://www.scoilaonghusasnr.ie/page/Policies/61732/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "http://ScoilAonghusaSnr.ie/Content/2019/3/enrolment_policy.docx",
+      "final_url": "http://ScoilAonghusaSnr.ie/Content/2019/3/enrolment_policy.docx",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "Enrolment Policy"
+    },
+    {
+      "url": "http://ScoilAonghusaSnr.ie/Content/2019/3/complaints_procedure.docx",
+      "final_url": "http://ScoilAonghusaSnr.ie/Content/2019/3/complaints_procedure.docx",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "Complaints Procedure Policy"
+    },
+    {
+      "url": "https://www.scoilaonghusasnr.ie/policies/Index.html",
+      "final_url": "https://www.scoilaonghusasnr.ie/policies/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "policies"
+    },
+    {
+      "url": "https://www.scoilaonghusasnr.ie/page/Parents-Association/61725/Index.html",
+      "final_url": "https://www.scoilaonghusasnr.ie/page/Parents-Association/61725/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents' Association"
+    },
+    {
+      "url": "https://www.scoilaonghusasnr.ie/Parents/Index.html",
+      "final_url": "https://www.scoilaonghusasnr.ie/Parents/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents"
+    },
+    {
+      "url": "https://www.scoilaonghusasnr.ie/Page/Policies/61732/Index.html",
+      "final_url": "https://www.scoilaonghusasnr.ie/Page/Policies/61732/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.scoilaonghusasnr.ie/Page/Parents-Association/61725/Index.html",
+      "final_url": "https://www.scoilaonghusasnr.ie/Page/Parents-Association/61725/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents' Association"
+    },
+    {
+      "url": "https://admin.iclasscms.com/Media/Detail",
+      "final_url": "https://admin.iclasscms.com/Login.aspx?ReturnUrl=%2fMedia%2fDetail",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admission Policy"
+    },
+    {
+      "url": "https://admin.iclasscms.com/sitemap.xml",
+      "final_url": "https://admin.iclasscms.com/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "http://ScoilAonghusaSnr.ie/Content/2022/2/as70-AntiBullying_Policy.pdf",
+      "final_url": "http://ScoilAonghusaSnr.ie/Content/2022/2/as70-AntiBullying_Policy.pdf",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "Anti-Bullying Policy"
+    }
+  ],
+  "documents": [],
+  "pending_links": [],
+  "elapsed_seconds": 38.17,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:56:20+0000"
+}

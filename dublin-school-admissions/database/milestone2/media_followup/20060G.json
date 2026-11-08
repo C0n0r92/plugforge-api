@@ -1,0 +1,35 @@
+{
+  "roll": "20060G",
+  "attempted_at": "2026-11-08T13:15:09+0000",
+  "method": "documented_public_WordPress_media_notice_and_Irish_title_gap_search",
+  "attempts": [
+    {
+      "url": "https://metns.ie/wp-json/wp/v2/media?search=notice&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok"
+    },
+    {
+      "url": "https://metns.ie/wp-json/wp/v2/media?search=f%C3%B3gra&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok"
+    },
+    {
+      "url": "https://s20060g-metns.s3.eu-west-1.amazonaws.com/2024/09/NOTICE_Annual-Admissions-Notice-2024-25.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "label": "NOTICE_Annual-Admissions-Notice-2024-25"
+    },
+    {
+      "url": "https://s20060g-metns.s3.eu-west-1.amazonaws.com/2026/09/Admissions-Notice-Appendix-1.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "label": "Admissions Notice Appendix 1"
+    },
+    {
+      "url": "https://s20060g-metns.s3.eu-west-1.amazonaws.com/2018/01/Character-Strength-Word-Infographic.jpg",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "label": "Character Strength Word Infographic"
+    }
+  ],
+  "documents": [],
+  "pending_links": [],
+  "earliest_year_cutoff": null,
+  "status": "attempted_no_new_notice_payload",
+  "elapsed_seconds": 5.0
+}

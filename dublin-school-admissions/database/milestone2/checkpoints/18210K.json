@@ -1,0 +1,144 @@
+{
+  "roll": "18210K",
+  "status": "bounded_search_no_new_notice_found",
+  "attempts": [
+    {
+      "url": "https://www.smhbaldoyleschool.ie/page/Admissions/6132/Index.html",
+      "final_url": "https://www.smhbaldoyleschool.ie/page/Admissions/6132/Index.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://storage.googleapis.com/iclasscrm_files/34/Images/Content/2026/306/lc41-Admission_notice_2027_28_Final.pdf",
+      "final_url": "https://storage.googleapis.com/iclasscrm_files/34/Images/Content/2026/306/lc41-Admission_notice_2027_28_Final.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admission notice 2027 28 Final.pdf"
+    },
+    {
+      "url": "https://www.smhbaldoyleschool.ie/Page/Admissions/6132/Index.html",
+      "final_url": "https://www.smhbaldoyleschool.ie/Page/Admissions/6132/Index.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://www.smhbaldoyleschool.ie/Enrolment/Index.html",
+      "final_url": "https://www.smhbaldoyleschool.ie/Enrolment/Index.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Enrolment"
+    },
+    {
+      "url": "https://www.smhbaldoyleschool.ie/Admissions/Index.html",
+      "final_url": "https://www.smhbaldoyleschool.ie/Admissions/Index.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://storage.googleapis.com/iclasscrm_files/34/Images/Content/2026/306/on54-Admission_Policy_2627.pdf",
+      "final_url": "https://storage.googleapis.com/iclasscrm_files/34/Images/Content/2026/306/on54-Admission_Policy_2627.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admission Policy 2627.pdf"
+    },
+    {
+      "url": "https://www.smhbaldoyleschool.ie/sitemap.xml",
+      "final_url": "https://www.smhbaldoyleschool.ie/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.smhbaldoyleschool.ie/page/Policies/530/Index.html",
+      "final_url": "https://www.smhbaldoyleschool.ie/page/Policies/530/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.smhbaldoyleschool.ie/page/Parents-Association/532/Index.html",
+      "final_url": "https://www.smhbaldoyleschool.ie/page/Parents-Association/532/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents"
+    },
+    {
+      "url": "https://www.smhbaldoyleschool.ie/Policies/Index.html",
+      "final_url": "https://www.smhbaldoyleschool.ie/Policies/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.smhbaldoyleschool.ie/Parents-Association/Index.html",
+      "final_url": "https://www.smhbaldoyleschool.ie/Parents-Association/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents Association"
+    },
+    {
+      "url": "https://www.smhbaldoyleschool.ie/Page/Policies/530/Index.html",
+      "final_url": "https://www.smhbaldoyleschool.ie/Page/Policies/530/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.smhbaldoyleschool.ie/Page/Parents-Association/532/Index.html",
+      "final_url": "https://www.smhbaldoyleschool.ie/Page/Parents-Association/532/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents Association"
+    },
+    {
+      "url": "https://www.smhbaldoyleschool.ie/Admissions-Policy/Index.html",
+      "final_url": "https://www.smhbaldoyleschool.ie/Admissions-Policy/Index.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions Policy"
+    },
+    {
+      "url": "https://www.smhbaldoyleschool.ie",
+      "final_url": "https://www.smhbaldoyleschool.ie",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://SMHBaldoyleSchool.ie/Content/2022/10/qf62-Final_Internet_Acc_Use_Policy22.pdf",
+      "final_url": "https://SMHBaldoyleSchool.ie/Content/2022/10/qf62-Final_Internet_Acc_Use_Policy22.pdf",
+      "status": "robots_permission_unestablished_http_301",
+      "via": "school_public_link",
+      "label": "Internet Acceptable Use Policy 2022.doc"
+    },
+    {
+      "url": "https://SMHBaldoyleSchool.ie/Content/2025/9/ry69-Illness_InfectionMedication_Policy_Final2526.pdf",
+      "final_url": "https://SMHBaldoyleSchool.ie/Content/2025/9/ry69-Illness_InfectionMedication_Policy_Final2526.pdf",
+      "status": "robots_permission_unestablished_http_301",
+      "via": "school_public_link",
+      "label": "Illness, Infection &Medication Policy Final2526.pdf"
+    },
+    {
+      "url": "https://storage.googleapis.com/iclasscrm_files/34/Images/Content/2026/265/ae10-Application_Form_20272028.doc",
+      "final_url": "https://storage.googleapis.com/iclasscrm_files/34/Images/Content/2026/265/ae10-Application_Form_20272028.doc",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Application Form 20272028.doc"
+    },
+    {
+      "url": "https://storage.googleapis.com/sitemap.xml",
+      "final_url": "https://storage.googleapis.com/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    }
+  ],
+  "documents": [],
+  "pending_links": [],
+  "elapsed_seconds": 53.37,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:04:14+0000"
+}

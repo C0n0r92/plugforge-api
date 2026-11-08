@@ -1,0 +1,50 @@
+{
+  "task_id": "94e0d06bf964d692aec4d9fc24ca13c6",
+  "roll": "00697S",
+  "capture": {
+    "digest": "SPLUIC66DP45Y6TQLGFIZSIN7GPCLYQX",
+    "mimetype": "text/html",
+    "original": "https://www.saintbrigids.ie/Autism-Class-Admissions/Index.html",
+    "statuscode": "200",
+    "timestamp": "20260219031413"
+  },
+  "original_url": "https://www.saintbrigids.ie/Autism-Class-Admissions/Index.html",
+  "archived_url": "https://web.archive.org/web/20260219031413/https://www.saintbrigids.ie/Autism-Class-Admissions/Index.html",
+  "attempted_at": "2026-11-08T12:35:50.536256+00:00",
+  "http_status": 200,
+  "headers": {
+    "Content-Type": "text/html; charset=utf-8",
+    "memento-datetime": "Thu, 19 Feb 2026 03:14:13 GMT"
+  },
+  "payload_sha256": "1f5af172b4b92e14e27ac3316a59dbef28c08e72a5c79955b6896d4eb90a26bd",
+  "bytes": 48440,
+  "format": "html",
+  "archive_link_candidates": [
+    {
+      "url": "/web/20260219031413/https://www.saintbrigids.ie/Parent-Noticeboard/Index.html",
+      "label": "Parent Noticeboard"
+    },
+    {
+      "url": "/web/20260219031413/https://www.saintbrigids.ie/Mainstream-Admissions/Index.html",
+      "label": "Mainstream Admissions"
+    },
+    {
+      "url": "/web/20260219031413/https://www.saintbrigids.ie/Autism-Class-Admissions/Index.html",
+      "label": "Autism Class Admissions"
+    },
+    {
+      "url": "/web/20260219031413/https://www.saintbrigids.ie/News/ACAT-Admissions-20262027/37881/Index.html",
+      "label": ""
+    },
+    {
+      "url": "/web/20260219031413/https://www.saintbrigids.ie/News/ACAT-Admissions-20262027/37881/Index.html",
+      "label": "ACAT Admissions 2026/2027"
+    },
+    {
+      "url": "/web/20260219031413/https://www.saintbrigids.ie/News/ACAT-Admissions-20262027/37881/Index.html",
+      "label": "Read more..."
+    }
+  ],
+  "status": "archived_body_retrieved_requires_notice_evidence_review",
+  "text_file": "database/milestone2/evidence/archive_00697S_1f5af172b4b92e14e27a.txt"
+}

@@ -1,0 +1,539 @@
+{
+  "roll": "18683H",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.stcanicesgns.ie/policies-and-safeguarding/application-for-admission/annual-admissions-notice/?googletranslate=true",
+      "final_url": "https://www.stcanicesgns.ie/policies-and-safeguarding/application-for-admission/annual-admissions-notice/?googletranslate=true",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "https://www.stcanicesgns.ie/documentlink/113/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/622/docletter/20260930105148_50_Annual_Admissions_Notice_2027_2028.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Annual Admissions Notice 2027 2028.pdf"
+    },
+    {
+      "url": "https://www.stcanicesgns.ie/policies-and-safeguarding/application-for-admission/annual-admissions-notice/",
+      "final_url": "https://www.stcanicesgns.ie/policies-and-safeguarding/application-for-admission/annual-admissions-notice/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Annual Admissions Notice"
+    },
+    {
+      "url": "https://www.stcanicesgns.ie/admin/?open=/policies-and-safeguarding/application-for-admission/annual-admissions-notice/?googletranslate=true",
+      "final_url": "https://www.stcanicesgns.ie/admin/?open=/policies-and-safeguarding/application-for-admission/annual-admissions-notice/?googletranslate=true",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.stcanicesgns.ie/admin/?open=/policies-and-safeguarding/application-for-admission/annual-admissions-notice/",
+      "final_url": "https://www.stcanicesgns.ie/admin/?open=/policies-and-safeguarding/application-for-admission/annual-admissions-notice/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.stcanicesgns.ie/policies-and-safeguarding/application-for-admission/?googletranslate=true",
+      "final_url": "https://www.stcanicesgns.ie/policies-and-safeguarding/application-for-admission/?googletranslate=true",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "https://www.stcanicesgns.ie/policies-and-safeguarding/application-for-admission/",
+      "final_url": "https://www.stcanicesgns.ie/policies-and-safeguarding/application-for-admission/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Application for Admission"
+    },
+    {
+      "url": "https://www.stcanicesgns.ie/policies-and-safeguarding/",
+      "final_url": "https://www.stcanicesgns.ie/policies-and-safeguarding/",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://www.stcanicesgns.ie/admin/?open=/policies-and-safeguarding/application-for-admission/?googletranslate=true",
+      "final_url": "https://www.stcanicesgns.ie/admin/?open=/policies-and-safeguarding/application-for-admission/?googletranslate=true",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.stcanicesgns.ie/admin/?open=/policies-and-safeguarding/application-for-admission/",
+      "final_url": "https://www.stcanicesgns.ie/admin/?open=/policies-and-safeguarding/application-for-admission/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.stcanicesgns.ie/sitemap.xml",
+      "final_url": "https://www.stcanicesgns.ie/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.stcanicesgns.ie/policies-and-safeguarding/parental-complaint-procedures/",
+      "final_url": "https://www.stcanicesgns.ie/policies-and-safeguarding/parental-complaint-procedures/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parental Complaint Procedures"
+    },
+    {
+      "url": "https://www.stcanicesgns.ie/policies-and-safeguarding/parental-complaint-procedures/?googletranslate=true",
+      "final_url": "https://www.stcanicesgns.ie/policies-and-safeguarding/parental-complaint-procedures/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stcanicesgns.ie/policies-and-safeguarding/health-and-safety/",
+      "final_url": "https://www.stcanicesgns.ie/policies-and-safeguarding/health-and-safety/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Health and Safety"
+    },
+    {
+      "url": "https://www.stcanicesgns.ie/policies-and-safeguarding/health-and-safety/?googletranslate=true",
+      "final_url": "https://www.stcanicesgns.ie/policies-and-safeguarding/health-and-safety/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stcanicesgns.ie/policies-and-safeguarding/data-protection/",
+      "final_url": "https://www.stcanicesgns.ie/policies-and-safeguarding/data-protection/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Data Protection"
+    },
+    {
+      "url": "https://www.stcanicesgns.ie/policies-and-safeguarding/data-protection/?googletranslate=true",
+      "final_url": "https://www.stcanicesgns.ie/policies-and-safeguarding/data-protection/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stcanicesgns.ie/policies-and-safeguarding/child-safeguarding-statement/",
+      "final_url": "https://www.stcanicesgns.ie/policies-and-safeguarding/child-safeguarding-statement/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Child Safeguarding"
+    },
+    {
+      "url": "https://www.stcanicesgns.ie/policies-and-safeguarding/child-safeguarding-statement/?googletranslate=true",
+      "final_url": "https://www.stcanicesgns.ie/policies-and-safeguarding/child-safeguarding-statement/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stcanicesgns.ie/policies-and-safeguarding/application-for-admission/application-form-for-senior-infants/?googletranslate=true",
+      "final_url": "https://www.stcanicesgns.ie/policies-and-safeguarding/application-for-admission/application-form-for-senior-infants/?googletranslate=true",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "https://www.stcanicesgns.ie/policies-and-safeguarding/application-for-admission/application-form-for-senior-infants/",
+      "final_url": "https://www.stcanicesgns.ie/policies-and-safeguarding/application-for-admission/application-form-for-senior-infants/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Application Form for Senior Infants - Sixth Class"
+    },
+    {
+      "url": "https://www.stcanicesgns.ie/policies-and-safeguarding/application-for-admission/application-form-for-junior-infants/?googletranslate=true",
+      "final_url": "https://www.stcanicesgns.ie/policies-and-safeguarding/application-for-admission/application-form-for-junior-infants/?googletranslate=true",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "https://www.stcanicesgns.ie/policies-and-safeguarding/application-for-admission/application-form-for-junior-infants/",
+      "final_url": "https://www.stcanicesgns.ie/policies-and-safeguarding/application-for-admission/application-form-for-junior-infants/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Application Form for Junior Infants"
+    },
+    {
+      "url": "https://www.stcanicesgns.ie/policies-and-safeguarding/application-for-admission/admissions-policy/?googletranslate=true",
+      "final_url": "https://www.stcanicesgns.ie/policies-and-safeguarding/application-for-admission/admissions-policy/?googletranslate=true",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    }
+  ],
+  "documents": [
+    {
+      "roll": "18683H",
+      "url": "https://www.stcanicesgns.ie/policies-and-safeguarding/application-for-admission/annual-admissions-notice/?googletranslate=true",
+      "label": "",
+      "sha256": "81d72688482674f1ef79d45afcf40483891cb518f6f00b1b15c8e80dbccc0525",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/18683H_81d72688482674f1ef79.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1578
+    },
+    {
+      "roll": "18683H",
+      "url": "https://www.stcanicesgns.ie/policies-and-safeguarding/application-for-admission/annual-admissions-notice/",
+      "label": "Annual Admissions Notice",
+      "sha256": "3d6d363d46d444999dd6242c65a0807803b333b3585d5f3c6b4b6b16e377fde4",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/18683H_3d6d363d46d444999dd6.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1578
+    },
+    {
+      "roll": "18683H",
+      "url": "https://www.stcanicesgns.ie/policies-and-safeguarding/application-for-admission/?googletranslate=true",
+      "label": "",
+      "sha256": "78de2a6d0bd0f20c2b8735592577886e3e35c282e5e35e981ac611bad7923934",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/18683H_78de2a6d0bd0f20c2b87.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 2840
+    },
+    {
+      "roll": "18683H",
+      "url": "https://www.stcanicesgns.ie/policies-and-safeguarding/application-for-admission/",
+      "label": "Application for Admission",
+      "sha256": "6ba5d05aab59805905fd4003904f64f813412defe6b5bb766e03271c915c3dd4",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/18683H_6ba5d05aab59805905fd.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 2840
+    },
+    {
+      "roll": "18683H",
+      "url": "https://www.stcanicesgns.ie/policies-and-safeguarding/",
+      "label": "Prior school admissions section",
+      "sha256": "23f7432d94221d8155cf1c5ab9d76d7bb23061dc35f1d8471a37cbb9dbc7761f",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/18683H_23f7432d94221d8155cf.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1423
+    },
+    {
+      "roll": "18683H",
+      "url": "https://www.stcanicesgns.ie/policies-and-safeguarding/parental-complaint-procedures/",
+      "label": "Parental Complaint Procedures",
+      "sha256": "26aa92db4469ccf7eda633cd16df49564c980530aea8602611238feb6e4a302a",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/18683H_26aa92db4469ccf7eda6.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1769
+    },
+    {
+      "roll": "18683H",
+      "url": "https://www.stcanicesgns.ie/policies-and-safeguarding/parental-complaint-procedures/?googletranslate=true",
+      "label": "",
+      "sha256": "8ddbddcb17694471e9ffb4fd0506cb76cacf6c4bb3b7f7f9919f93f4735223d3",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/18683H_8ddbddcb17694471e9ff.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1769
+    },
+    {
+      "roll": "18683H",
+      "url": "https://www.stcanicesgns.ie/policies-and-safeguarding/health-and-safety/",
+      "label": "Health and Safety",
+      "sha256": "57a7432718979775803b461fd9bdbe57cedadf15bc67f1dfc1047b0de4b1ced6",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/18683H_57a7432718979775803b.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1293
+    },
+    {
+      "roll": "18683H",
+      "url": "https://www.stcanicesgns.ie/policies-and-safeguarding/health-and-safety/?googletranslate=true",
+      "label": "",
+      "sha256": "d11c58416f26c6c78ab5563d15316251630c52b24bc044e77cbe5eec5101af41",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/18683H_d11c58416f26c6c78ab5.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1293
+    },
+    {
+      "roll": "18683H",
+      "url": "https://www.stcanicesgns.ie/policies-and-safeguarding/data-protection/",
+      "label": "Data Protection",
+      "sha256": "8e47015724875f34d6fbcf65a5ce731c21329f1c10662958bd2fcfd0b359898f",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/18683H_8e47015724875f34d6fb.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1139
+    },
+    {
+      "roll": "18683H",
+      "url": "https://www.stcanicesgns.ie/policies-and-safeguarding/data-protection/?googletranslate=true",
+      "label": "",
+      "sha256": "33456787afaa1910555547f49a5e0830990edf16b3636dee5eda9d1cf237d579",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/18683H_33456787afaa19105555.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1139
+    },
+    {
+      "roll": "18683H",
+      "url": "https://www.stcanicesgns.ie/policies-and-safeguarding/child-safeguarding-statement/",
+      "label": "Child Safeguarding",
+      "sha256": "490939ea435c8550a78a97ca16aeb3f4de5299becc0aa7ac5459105acc87039c",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/18683H_490939ea435c8550a78a.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1738
+    },
+    {
+      "roll": "18683H",
+      "url": "https://www.stcanicesgns.ie/policies-and-safeguarding/child-safeguarding-statement/?googletranslate=true",
+      "label": "",
+      "sha256": "4a679c9e162487081efed3f99e39ec7153989f1f50098dda87deb742a8b589fb",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/18683H_4a679c9e162487081efe.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1738
+    },
+    {
+      "roll": "18683H",
+      "url": "https://www.stcanicesgns.ie/policies-and-safeguarding/application-for-admission/application-form-for-senior-infants/?googletranslate=true",
+      "label": "",
+      "sha256": "6fc42a66d21fc1fd8870e56a8b8e40afaad67ac4180823c3ac0a46279b4e1312",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/18683H_6fc42a66d21fc1fd8870.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1424
+    },
+    {
+      "roll": "18683H",
+      "url": "https://www.stcanicesgns.ie/policies-and-safeguarding/application-for-admission/application-form-for-senior-infants/",
+      "label": "Application Form for Senior Infants - Sixth Class",
+      "sha256": "b7740359d0bb993798dabe14c56b5f08fd5e72b1adbde6f3b392642d1a27972e",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/18683H_b7740359d0bb993798da.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1424
+    },
+    {
+      "roll": "18683H",
+      "url": "https://www.stcanicesgns.ie/policies-and-safeguarding/application-for-admission/application-form-for-junior-infants/?googletranslate=true",
+      "label": "",
+      "sha256": "1ee1c1f0d2778b283bab71d985a261aee16f1f5b7df1ad56e85c738fc12573e3",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/18683H_1ee1c1f0d2778b283bab.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1766
+    },
+    {
+      "roll": "18683H",
+      "url": "https://www.stcanicesgns.ie/policies-and-safeguarding/application-for-admission/application-form-for-junior-infants/",
+      "label": "Application Form for Junior Infants",
+      "sha256": "1c049fdbf9115557958c4dc2b0d85c29efe7f5eabda64c79a6a983b4fc0da030",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/18683H_1c049fdbf9115557958c.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1766
+    },
+    {
+      "roll": "18683H",
+      "url": "https://www.stcanicesgns.ie/policies-and-safeguarding/application-for-admission/admissions-policy/?googletranslate=true",
+      "label": "",
+      "sha256": "4d5cf9b6b04e14b1665566dce40366aa2382edad27c237ea2efebd6219f42713",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/18683H_4d5cf9b6b04e14b16655.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1578
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.stcanicesgns.ie/documentlink/112/?open=true",
+      "label": "St Canice s GNS Admission s Policy 2027 2028.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stcanicesgns.ie/policies-and-safeguarding/application-for-admission/admissions-policy/",
+      "label": "Admissions Policy",
+      "via": "prior_public_admissions_landing"
+    },
+    {
+      "url": "https://www.stcanicesgns.ie/policies-and-safeguarding/?googletranslate=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stcanicesgns.ie/policies-and-safeguarding/-anti---bullying/",
+      "label": "Anti - Bullying",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stcanicesgns.ie/our-school/parents-association/",
+      "label": "Parents Association",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stcanicesgns.ie/documentlink/99/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stcanicesgns.ie/documentlink/77/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stcanicesgns.ie/documentlink/77/?open=true",
+      "label": "Parental Complaints Procedures.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stcanicesgns.ie/documentlink/114/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stcanicesgns.ie/documentlink/113/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stcanicesgns.ie/documentlink/112/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stcanicesgns.ie/documentlink/100/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stcanicesgns.ie/admin/?open=/policies-and-safeguarding/parental-complaint-procedures/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stcanicesgns.ie/admin/?open=/policies-and-safeguarding/parental-complaint-procedures/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stcanicesgns.ie/admin/?open=/policies-and-safeguarding/health-and-safety/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stcanicesgns.ie/admin/?open=/policies-and-safeguarding/health-and-safety/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stcanicesgns.ie/admin/?open=/policies-and-safeguarding/data-protection/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stcanicesgns.ie/admin/?open=/policies-and-safeguarding/data-protection/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stcanicesgns.ie/admin/?open=/policies-and-safeguarding/child-safeguarding-statement/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stcanicesgns.ie/admin/?open=/policies-and-safeguarding/child-safeguarding-statement/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stcanicesgns.ie/admin/?open=/policies-and-safeguarding/application-for-admission/application-form-for-senior-infants/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stcanicesgns.ie/admin/?open=/policies-and-safeguarding/application-for-admission/application-form-for-senior-infants/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stcanicesgns.ie/admin/?open=/policies-and-safeguarding/application-for-admission/application-form-for-junior-infants/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stcanicesgns.ie/admin/?open=/policies-and-safeguarding/application-for-admission/application-form-for-junior-infants/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stcanicesgns.ie/admin/?open=/policies-and-safeguarding/application-for-admission/admissions-policy/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stcanicesgns.ie/admin/?open=/policies-and-safeguarding/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stcanicesgns.ie",
+      "label": "School homepage",
+      "via": "home"
+    },
+    {
+      "url": "https://www.stcanicesgns.ie/policies-and-safeguarding/uniform-policy/",
+      "label": "Uniform Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stcanicesgns.ie/policies-and-safeguarding/homework-policy/",
+      "label": "Homework",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stcanicesgns.ie/policies-and-safeguarding/healthy-eating-policy/",
+      "label": "Healthy Eating Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stcanicesgns.ie/cmsfiles/policies/privacy/",
+      "label": "Website Privacy Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stcanicesgns.ie/cmsfiles/policies/cookie/",
+      "label": "Cookie Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 64.05,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:04:52+0000"
+}

@@ -1,0 +1,72 @@
+{
+  "roll": "20021T",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.henriettass.com/",
+      "final_url": "https://www.henriettass.com/",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.henriettass.com/sitemap.xml",
+      "final_url": "https://www.henriettass.com/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.henriettass.com/policies",
+      "final_url": "https://www.henriettass.com/policies",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://docs.google.com/document/d/1SHuiobkWkspV0ha0jQlz3_yI9haNS1Di/edit?pli=1",
+      "final_url": "https://docs.google.com/document/d/1SHuiobkWkspV0ha0jQlz3_yI9haNS1Di/edit?pli=1",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Annual Admissions Notice 202"
+    },
+    {
+      "url": "https://drive.google.com/file/d/14wMUZYpJ7iIJDzmJibVnnrQ8Quco55wj/view?usp=sharing",
+      "final_url": "https://drive.google.com/file/d/14wMUZYpJ7iIJDzmJibVnnrQ8Quco55wj/view?usp=sharing",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions Policy"
+    },
+    {
+      "url": "https://drive.google.com/sitemap.xml",
+      "final_url": "https://drive.google.com/sitemap.xml",
+      "status": "robots_disallow",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://docs.google.com/sitemap.xml",
+      "final_url": "https://docs.google.com/sitemap.xml",
+      "status": "robots_disallow",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "20021T",
+      "url": "https://www.henriettass.com/policies",
+      "label": "Policies",
+      "sha256": "2d0e2d5a099f9cea7f215e50ad05ccf244d1eb3394f4b49fd2f195a84a7abc3a",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20021T_2d0e2d5a099f9cea7f21.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 401
+    }
+  ],
+  "pending_links": [],
+  "elapsed_seconds": 8.11,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:09:34+0000"
+}

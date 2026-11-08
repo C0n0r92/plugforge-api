@@ -1,0 +1,93 @@
+{
+  "roll": "20378O",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.abacasspecialschool.ie/admissions",
+      "final_url": "https://www.abacasspecialschool.ie/admissions",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://www.abacasspecialschool.ie/_files/ugd/ee66d6_b07a2370a9524bb99cc53d0bfe325727.pdf",
+      "final_url": "https://www.abacasspecialschool.ie/_files/ugd/ee66d6_b07a2370a9524bb99cc53d0bfe325727.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.abacasspecialschool.ie/_files/ugd/ee66d6_a3380df320ab4346926832897dde178a.pdf",
+      "final_url": "https://www.abacasspecialschool.ie/_files/ugd/ee66d6_a3380df320ab4346926832897dde178a.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.abacasspecialschool.ie/sitemap.xml",
+      "final_url": "https://www.abacasspecialschool.ie/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.abacasspecialschool.ie/portfolio-projects-sitemap.xml",
+      "final_url": "https://www.abacasspecialschool.ie/portfolio-projects-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.abacasspecialschool.ie/bom",
+      "final_url": "https://www.abacasspecialschool.ie/bom",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Policies"
+    },
+    {
+      "url": "https://www.abacasspecialschool.ie/blog-posts-sitemap.xml",
+      "final_url": "https://www.abacasspecialschool.ie/blog-posts-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.abacasspecialschool.ie/blog-categories-sitemap.xml",
+      "final_url": "https://www.abacasspecialschool.ie/blog-categories-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.abacasspecialschool.ie",
+      "final_url": "https://www.abacasspecialschool.ie",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.abacasspecialschool.ie/_files/ugd/ee66d6_32448d0494a7451bb0c2eabebe3e6ddd.pdf",
+      "final_url": "https://www.abacasspecialschool.ie/_files/ugd/ee66d6_32448d0494a7451bb0c2eabebe3e6ddd.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Bí Cineálta Policy"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "20378O",
+      "url": "https://www.abacasspecialschool.ie/_files/ugd/ee66d6_b07a2370a9524bb99cc53d0bfe325727.pdf",
+      "label": "",
+      "sha256": "ca1a7515fb39be32704e890e58da59920af8876f9505a961c6f007ea2ac140bd",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20378O_ca1a7515fb39be32704e.txt",
+      "source_file": "database/milestone2/cache/ca1a7515fb39be32704e890e58da59920af8876f9505a961c6f007ea2ac140bd.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 23999
+    }
+  ],
+  "pending_links": [],
+  "elapsed_seconds": 26.92,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:58:32+0000"
+}

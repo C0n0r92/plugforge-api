@@ -1,0 +1,350 @@
+{
+  "roll": "19456B",
+  "status": "bounded_search_no_new_notice_found",
+  "attempts": [
+    {
+      "url": "https://www.stcronansjns.ie/enrolment/?googletranslate=true",
+      "final_url": "https://www.stcronansjns.ie/enrolment/?googletranslate=true",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "https://www.stcronansjns.ie/documentlink/127/?open=true",
+      "final_url": "https://view.officeapps.live.com/op/embed.aspx?src=https://swddoc.b-cdn.net/823/docletter/20260702011216_69_DESAdmissionNotice_2027-2028.docx",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "DESAdmissionNotice 2027-2028.docx"
+    },
+    {
+      "url": "https://www.stcronansjns.ie/enrolment/",
+      "final_url": "https://www.stcronansjns.ie/enrolment/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Enrolment"
+    },
+    {
+      "url": "https://www.stcronansjns.ie/admin/?open=/enrolment/?googletranslate=true",
+      "final_url": "https://www.stcronansjns.ie/admin/?open=/enrolment/?googletranslate=true",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.stcronansjns.ie/admin/?open=/enrolment/",
+      "final_url": "https://www.stcronansjns.ie/admin/?open=/enrolment/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.stcronansjns.ie/documentlink/119/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/823/docletter/20260306020328_79_Admission_Policy_2025.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Admission Policy 2025.pdf"
+    },
+    {
+      "url": "https://www.stcronansjns.ie/sitemap.xml",
+      "final_url": "https://www.stcronansjns.ie/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.stcronansjns.ie/parents-area/uniform/",
+      "final_url": "https://www.stcronansjns.ie/parents-area/uniform/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Uniform"
+    },
+    {
+      "url": "https://www.stcronansjns.ie/parents-area/uniform/?googletranslate=true",
+      "final_url": "https://www.stcronansjns.ie/parents-area/uniform/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stcronansjns.ie/parents-area/stay-safe-programme/",
+      "final_url": "https://www.stcronansjns.ie/parents-area/stay-safe-programme/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Stay Safe Programme"
+    },
+    {
+      "url": "https://www.stcronansjns.ie/parents-area/stay-safe-programme/?googletranslate=true",
+      "final_url": "https://www.stcronansjns.ie/parents-area/stay-safe-programme/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stcronansjns.ie/parents-area/parents-association/",
+      "final_url": "https://www.stcronansjns.ie/parents-area/parents-association/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents Association"
+    },
+    {
+      "url": "https://www.stcronansjns.ie/parents-area/parents-association/?googletranslate=true",
+      "final_url": "https://www.stcronansjns.ie/parents-area/parents-association/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stcronansjns.ie/parents-area/linkstips-for-parents/primary-language-curriculum/",
+      "final_url": "https://www.stcronansjns.ie/parents-area/linkstips-for-parents/primary-language-curriculum/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Primary Language Curriculum"
+    },
+    {
+      "url": "https://www.stcronansjns.ie/parents-area/linkstips-for-parents/primary-language-curriculum/?googletranslate=true",
+      "final_url": "https://www.stcronansjns.ie/parents-area/linkstips-for-parents/primary-language-curriculum/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stcronansjns.ie/parents-area/linkstips-for-parents/ncca-tips-for-parents/",
+      "final_url": "https://www.stcronansjns.ie/parents-area/linkstips-for-parents/ncca-tips-for-parents/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "NCCA Tips for Parents"
+    },
+    {
+      "url": "https://www.stcronansjns.ie/parents-area/linkstips-for-parents/ncca-tips-for-parents/?googletranslate=true",
+      "final_url": "https://www.stcronansjns.ie/parents-area/linkstips-for-parents/ncca-tips-for-parents/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stcronansjns.ie/parents-area/linkstips-for-parents/junior-infants-counting-games-and-activities-for-parents/",
+      "final_url": "https://www.stcronansjns.ie/parents-area/linkstips-for-parents/junior-infants-counting-games-and-activities-for-parents/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Junior Infants Counting Games and Activities for Parents"
+    },
+    {
+      "url": "https://www.stcronansjns.ie/parents-area/linkstips-for-parents/junior-infants-counting-games-and-activities-for-parents/?googletranslate=true",
+      "final_url": "https://www.stcronansjns.ie/parents-area/linkstips-for-parents/junior-infants-counting-games-and-activities-for-parents/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stcronansjns.ie/parents-area/linkstips-for-parents/addition-with-renaming-video/",
+      "final_url": "https://www.stcronansjns.ie/parents-area/linkstips-for-parents/addition-with-renaming-video/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Addition with Renaming VIdeo"
+    },
+    {
+      "url": "https://www.stcronansjns.ie/parents-area/linkstips-for-parents/addition-with-renaming-video/?googletranslate=true",
+      "final_url": "https://www.stcronansjns.ie/parents-area/linkstips-for-parents/addition-with-renaming-video/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stcronansjns.ie/parents-area/linkstips-for-parents/",
+      "final_url": "https://www.stcronansjns.ie/parents-area/linkstips-for-parents/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Links/Tips for Parents"
+    },
+    {
+      "url": "https://www.stcronansjns.ie/parents-area/linkstips-for-parents/?googletranslate=true",
+      "final_url": "https://www.stcronansjns.ie/parents-area/linkstips-for-parents/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stcronansjns.ie/parents-area/internet-safety/",
+      "final_url": "https://www.stcronansjns.ie/parents-area/internet-safety/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Internet Safety"
+    }
+  ],
+  "documents": [],
+  "pending_links": [
+    {
+      "url": "https://www.stcronansjns.ie/parents-area/internet-safety/?googletranslate=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stcronansjns.ie/parents-area/gdpr-consent/",
+      "label": "GDPR Consent",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stcronansjns.ie/parents-area/communion/",
+      "label": "Communion",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stcronansjns.ie/parents-area/calendar/",
+      "label": "Calendar",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stcronansjns.ie/parents-area/booklists/",
+      "label": "Stationary lists",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stcronansjns.ie/parents-area/book-lists-/",
+      "label": "Book lists",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stcronansjns.ie/parents-area/",
+      "label": "Parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stcronansjns.ie/our-school/policies/",
+      "label": "Policies",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stcronansjns.ie/news/junior-infants-counting-games-and-activities-for-parents/",
+      "label": "Junior Infants Counting Games and Activities for Parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stcronansjns.ie/documentlink/7/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stcronansjns.ie/documentlink/7/?open=true",
+      "label": "Parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stcronansjns.ie/documentlink/6/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stcronansjns.ie/documentlink/127/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stcronansjns.ie/documentlink/119/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stcronansjns.ie/admin/?open=/parents-area/uniform/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stcronansjns.ie/admin/?open=/parents-area/uniform/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stcronansjns.ie/admin/?open=/parents-area/stay-safe-programme/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stcronansjns.ie/admin/?open=/parents-area/stay-safe-programme/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stcronansjns.ie/admin/?open=/parents-area/parents-association/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stcronansjns.ie/admin/?open=/parents-area/parents-association/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stcronansjns.ie/admin/?open=/parents-area/linkstips-for-parents/primary-language-curriculum/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stcronansjns.ie/admin/?open=/parents-area/linkstips-for-parents/primary-language-curriculum/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stcronansjns.ie/admin/?open=/parents-area/linkstips-for-parents/ncca-tips-for-parents/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stcronansjns.ie/admin/?open=/parents-area/linkstips-for-parents/ncca-tips-for-parents/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stcronansjns.ie/admin/?open=/parents-area/linkstips-for-parents/junior-infants-counting-games-and-activities-for-parents/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stcronansjns.ie/admin/?open=/parents-area/linkstips-for-parents/junior-infants-counting-games-and-activities-for-parents/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stcronansjns.ie/admin/?open=/parents-area/linkstips-for-parents/addition-with-renaming-video/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stcronansjns.ie/admin/?open=/parents-area/linkstips-for-parents/addition-with-renaming-video/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stcronansjns.ie/admin/?open=/parents-area/linkstips-for-parents/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stcronansjns.ie/admin/?open=/parents-area/linkstips-for-parents/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stcronansjns.ie/admin/?open=/parents-area/internet-safety/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stcronansjns.ie",
+      "label": "School homepage",
+      "via": "home"
+    },
+    {
+      "url": "https://www.stcronansjns.ie/cmsfiles/policies/privacy/",
+      "label": "Website Privacy Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stcronansjns.ie/cmsfiles/policies/cookie/",
+      "label": "Cookie Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 69.64,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:06:34+0000"
+}

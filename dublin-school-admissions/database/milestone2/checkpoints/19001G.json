@@ -1,0 +1,143 @@
+{
+  "roll": "19001G",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.ballyboughalns.ie/uploads/9/3/1/8/93184638/ballyboughal_ns_admission_policy__2023__1_.docx",
+      "final_url": "https://www.ballyboughalns.ie/uploads/9/3/1/8/93184638/ballyboughal_ns_admission_policy__2023__1_.docx",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://www.ballyboughalns.ie/uploads/9/3/1/8/93184638/ballyboughal_ns_admission_policy__1_.docx",
+      "final_url": "https://www.ballyboughalns.ie/uploads/9/3/1/8/93184638/ballyboughal_ns_admission_policy__1_.docx",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://www.ballyboughalns.ie",
+      "final_url": "https://www.ballyboughalns.ie",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.ballyboughalns.ie/uploads/9/3/1/8/93184638/admissions_application_2027.doc",
+      "final_url": "https://www.ballyboughalns.ie/uploads/9/3/1/8/93184638/admissions_application_2027.doc",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions Application Form 27-28"
+    },
+    {
+      "url": "https://www.ballyboughalns.ie/sitemap.xml",
+      "final_url": "https://www.ballyboughalns.ie/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.ballyboughalns.ie/policies.html",
+      "final_url": "https://www.ballyboughalns.ie/policies.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.ballyboughalns.ie/uploads/9/3/1/8/93184638/oct_2013_-_code_of_behaviour_ballyboughal_n.s..doc",
+      "final_url": "https://www.ballyboughalns.ie/uploads/9/3/1/8/93184638/oct_2013_-_code_of_behaviour_ballyboughal_n.s..doc",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: oct_2013_-_code_of_behaviour_ballyboughal_n.s..doc"
+    },
+    {
+      "url": "https://www.ballyboughalns.ie/uploads/9/3/1/8/93184638/26th_january_2016_-_reception____dismissal_of_pupils.odt",
+      "final_url": "https://www.ballyboughalns.ie/uploads/9/3/1/8/93184638/26th_january_2016_-_reception____dismissal_of_pupils.odt",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: 26th_january_2016_-_reception____dismissal_of_pupils.odt"
+    },
+    {
+      "url": "https://www.ballyboughalns.ie/uploads/9/3/1/8/93184638/child_safeguarding_statement.docx",
+      "final_url": "https://www.ballyboughalns.ie/uploads/9/3/1/8/93184638/child_safeguarding_statement.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: child_safeguarding_statement and risk assessment.docx"
+    },
+    {
+      "url": "https://www.ballyboughalns.ie/uploads/9/3/1/8/93184638/17th_oct_2013_-_school_uniform_policy.docx",
+      "final_url": "https://www.ballyboughalns.ie/uploads/9/3/1/8/93184638/17th_oct_2013_-_school_uniform_policy.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: 17th_oct_2013_-_school_uniform_policy.docx"
+    },
+    {
+      "url": "https://www.ballyboughalns.ie/uploads/9/3/1/8/93184638/11th_nov_2016_-_religious_education_policy__updated_by_niamh_.docx",
+      "final_url": "https://www.ballyboughalns.ie/uploads/9/3/1/8/93184638/11th_nov_2016_-_religious_education_policy__updated_by_niamh_.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: 11th_nov_2016_-_religious_education_policy__updated_by_niamh_.docx"
+    },
+    {
+      "url": "https://www.ballyboughalns.ie/parents.html",
+      "final_url": "https://www.ballyboughalns.ie/parents.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents"
+    },
+    {
+      "url": "https://www.ballyboughalns.ie/uploads/9/3/1/8/93184638/6th_march_2023_-_anti_bullying_policy_of_bns.docx",
+      "final_url": "https://www.ballyboughalns.ie/uploads/9/3/1/8/93184638/6th_march_2023_-_anti_bullying_policy_of_bns.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: 6th_march_2023_-_anti_bullying_policy_of_bns.docx"
+    },
+    {
+      "url": "https://www.ballyboughalns.ie/uploads/9/3/1/8/93184638/13th_jan_2016_-__homework_policy.odt",
+      "final_url": "https://www.ballyboughalns.ie/uploads/9/3/1/8/93184638/13th_jan_2016_-__homework_policy.odt",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: 13th_jan_2016_-__homework_policy.odt"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19001G",
+      "url": "https://www.ballyboughalns.ie/uploads/9/3/1/8/93184638/ballyboughal_ns_admission_policy__2023__1_.docx",
+      "label": "Prior school admissions section",
+      "sha256": "e49b41132568f4e8d27d5acae4dcd49ccf521e258e17608d7837a5731fff5e02",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/19001G_e49b41132568f4e8d27d.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 21022
+    },
+    {
+      "roll": "19001G",
+      "url": "https://www.ballyboughalns.ie/uploads/9/3/1/8/93184638/ballyboughal_ns_admission_policy__1_.docx",
+      "label": "Prior school admissions section",
+      "sha256": "edb3b26626e6cd5795cd748f2d501e1e0f20b3dc857b60d9a674fc6c0cdcd491",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/19001G_edb3b26626e6cd5795cd.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 22818
+    },
+    {
+      "roll": "19001G",
+      "url": "https://www.ballyboughalns.ie/policies.html",
+      "label": "Policies",
+      "sha256": "8c5aa71740a305b56dfcd3c2ca12828d22b13c43cfa758bd0e0963f35beba7ad",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19001G_8c5aa71740a305b56dfc.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 18100
+    }
+  ],
+  "pending_links": [],
+  "elapsed_seconds": 40.4,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:54:11+0000"
+}

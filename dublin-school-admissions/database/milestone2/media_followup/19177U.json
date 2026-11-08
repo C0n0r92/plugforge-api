@@ -1,0 +1,60 @@
+{
+  "roll": "19177U",
+  "attempted_at": "2026-11-08T13:11:50+0000",
+  "method": "documented_public_WordPress_media_notice_and_Irish_title_gap_search",
+  "attempts": [
+    {
+      "url": "https://piusxbns.ie/wp-json/wp/v2/media?search=notice&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok"
+    },
+    {
+      "url": "https://piusxbns.ie/wp-json/wp/v2/media?search=f%C3%B3gra&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok"
+    },
+    {
+      "url": "https://s19177u-pxbns.s3.eu-west-1.amazonaws.com/2020/11/NOTICE_Annual-Admissions-Notice_202010.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "label": "Notice &#8211; Annual Admissions Notice 2020"
+    },
+    {
+      "url": "https://s19177u-pxbns.s3.eu-west-1.amazonaws.com/2021/03/Annual-Admissions-Notice-Oct-2020.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "label": "Annual Admissions Notice Oct 2020"
+    },
+    {
+      "url": "https://s19177u-pxbns.s3.eu-west-1.amazonaws.com/2021/10/Annual-Admissions-Notice-Oct-2021.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "label": "Annual Admissions Notice Oct 2021"
+    },
+    {
+      "url": "https://s19177u-pxbns.s3.eu-west-1.amazonaws.com/2022/09/Annual-Admissions-Notice-Oct-2022.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "label": "Annual Admissions Notice Oct 2022"
+    },
+    {
+      "url": "https://s19177u-pxbns.s3.eu-west-1.amazonaws.com/2022/09/Annual-Admissions-Notice-Oct-2022-1.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "label": "Annual Admissions Notice Oct 2022"
+    },
+    {
+      "url": "https://s19177u-pxbns.s3.eu-west-1.amazonaws.com/2024/09/Annual-Admissions-Notice-Oct-2024-1.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "label": "Annual Admissions Notice Oct 2024"
+    },
+    {
+      "url": "https://s19177u-pxbns.s3.eu-west-1.amazonaws.com/2025/10/Annual-Admissions-Notice-Oct-2025.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "label": "Annual Admissions Notice Oct 2025"
+    },
+    {
+      "url": "https://s19177u-pxbns.s3.eu-west-1.amazonaws.com/2026/10/Annual-Admissions-Notice-Oct-2026.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "label": "Annual Admissions Notice Oct 2026"
+    }
+  ],
+  "documents": [],
+  "pending_links": [],
+  "earliest_year_cutoff": null,
+  "status": "attempted_no_new_notice_payload",
+  "elapsed_seconds": 7.0
+}

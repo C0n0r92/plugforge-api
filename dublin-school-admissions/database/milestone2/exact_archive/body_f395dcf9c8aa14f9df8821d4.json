@@ -1,0 +1,25 @@
+{
+  "roll": "15132B",
+  "capture": {
+    "timestamp": "20241125134529",
+    "original": "https://www.haroldboysdalkey.ie/_files/ugd/7ce6f8_c536f50f59b9483cadc1f263a2c399e0.pdf",
+    "linked_from_capture": "https://web.archive.org/web/20250215105523/https://www.haroldboysdalkey.ie/_files/ugd/7ce6f8_c536f50f59b9483cadc1f263a2c399e0.pdf"
+  },
+  "original_url": "https://www.haroldboysdalkey.ie/_files/ugd/7ce6f8_c536f50f59b9483cadc1f263a2c399e0.pdf",
+  "archived_url": "https://web.archive.org/web/20241125134529/https://www.haroldboysdalkey.ie/_files/ugd/7ce6f8_c536f50f59b9483cadc1f263a2c399e0.pdf",
+  "attempted_at": "2026-11-08T12:44:36.408882+00:00",
+  "linked_from_capture": "https://web.archive.org/web/20250215105523/https://www.haroldboysdalkey.ie/_files/ugd/7ce6f8_c536f50f59b9483cadc1f263a2c399e0.pdf",
+  "http_status": 200,
+  "headers": {
+    "Content-Type": "application/pdf",
+    "memento-datetime": "Mon, 25 Nov 2024 13:45:29 GMT"
+  },
+  "bytes": 102547,
+  "payload_sha256": "4daedc1937537b9191cee86ece427c907db8f6289bf6ab9cf87a2fb78a745579",
+  "format": "pdf",
+  "source_file": "database/milestone2/cache/4daedc1937537b9191cee86ece427c907db8f6289bf6ab9cf87a2fb78a745579.pdf",
+  "parse_stderr": "",
+  "status": "archived_body_retrieved_requires_manual_evidence_review",
+  "text_file": "database/milestone2/evidence/exact_15132B_4daedc1937537b9191ce.txt",
+  "linked_document_candidates": []
+}

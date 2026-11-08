@@ -1,0 +1,305 @@
+{
+  "roll": "18647D",
+  "status": "bounded_search_no_new_notice_found",
+  "attempts": [
+    {
+      "url": "https://sstreasa.ie",
+      "final_url": "https://sstreasa.ie",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://sstreasa.ie/our-school/admissions",
+      "final_url": "https://sstreasa.ie/our-school/admissions",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://sstreasa.ie/our-school/admissions?page=1",
+      "final_url": "https://sstreasa.ie/our-school/admissions?page=1",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Next page ››"
+    },
+    {
+      "url": "https://sstreasa.ie/our-school/admissions?page=2",
+      "final_url": "https://sstreasa.ie/our-school/admissions?page=2",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Next page ››"
+    },
+    {
+      "url": "https://sstreasa.ie/our-school/admissions?page=3",
+      "final_url": "https://sstreasa.ie/our-school/admissions?page=3",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Next page ››"
+    },
+    {
+      "url": "https://sstreasa.ie/our-school/admissions?page=4",
+      "final_url": "https://sstreasa.ie/our-school/admissions?page=4",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Next page ››"
+    },
+    {
+      "url": "https://sstreasa.ie/our-school/admissions?page=5",
+      "final_url": "https://sstreasa.ie/our-school/admissions?page=5",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Next page ››"
+    },
+    {
+      "url": "https://sstreasa.ie/our-school/admissions?page=6",
+      "final_url": "https://sstreasa.ie/our-school/admissions?page=6",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Next page ››"
+    },
+    {
+      "url": "https://sstreasa.ie/our-school/admissions?page=7",
+      "final_url": "https://sstreasa.ie/our-school/admissions?page=7",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Next page ››"
+    },
+    {
+      "url": "https://sstreasa.ie/our-school/admissions?page=8",
+      "final_url": "https://sstreasa.ie/our-school/admissions?page=8",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Next page ››"
+    },
+    {
+      "url": "https://sstreasa.ie/our-school/admissions?page=9",
+      "final_url": "https://sstreasa.ie/our-school/admissions?page=9",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Next page ››"
+    },
+    {
+      "url": "https://sstreasa.ie/our-school/admissions?page=10",
+      "final_url": "https://sstreasa.ie/our-school/admissions?page=10",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Next page ››"
+    },
+    {
+      "url": "https://sstreasa.ie/our-school/admissions?page=11",
+      "final_url": "https://sstreasa.ie/our-school/admissions?page=11",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Next page ››"
+    },
+    {
+      "url": "https://sstreasa.ie/our-school/admissions?page=12",
+      "final_url": "https://sstreasa.ie/our-school/admissions?page=12",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Next page ››"
+    },
+    {
+      "url": "https://sstreasa.ie/our-school/admissions?page=13",
+      "final_url": "https://sstreasa.ie/our-school/admissions?page=13",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Next page ››"
+    },
+    {
+      "url": "https://sstreasa.ie/our-school/admissions?page=14",
+      "final_url": "https://sstreasa.ie/our-school/admissions?page=14",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Next page ››"
+    },
+    {
+      "url": "https://sstreasa.ie/our-school/admissions?page=15",
+      "final_url": "https://sstreasa.ie/our-school/admissions?page=15",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Next page ››"
+    },
+    {
+      "url": "https://sstreasa.ie/our-school/admissions?page=16",
+      "final_url": "https://sstreasa.ie/our-school/admissions?page=16",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Next page ››"
+    },
+    {
+      "url": "https://sstreasa.ie/our-school/admissions?page=17",
+      "final_url": "https://sstreasa.ie/our-school/admissions?page=17",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Next page ››"
+    },
+    {
+      "url": "https://sstreasa.ie/our-school/admissions?page=18",
+      "final_url": "https://sstreasa.ie/our-school/admissions?page=18",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Next page ››"
+    },
+    {
+      "url": "https://sstreasa.ie/our-school/admissions?page=19",
+      "final_url": "https://sstreasa.ie/our-school/admissions?page=19",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Next page ››"
+    },
+    {
+      "url": "https://sstreasa.ie/our-school/admissions?page=20",
+      "final_url": "https://sstreasa.ie/our-school/admissions?page=20",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Next page ››"
+    },
+    {
+      "url": "https://sstreasa.ie/our-school/admissions?page=21",
+      "final_url": "https://sstreasa.ie/our-school/admissions?page=21",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Next page ››"
+    },
+    {
+      "url": "https://sstreasa.ie/our-school/admissions?page=22",
+      "final_url": "https://sstreasa.ie/our-school/admissions?page=22",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Next page ››"
+    }
+  ],
+  "documents": [],
+  "pending_links": [
+    {
+      "url": "https://sstreasa.ie/our-school/admissions?page=23",
+      "label": "Next page ››",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://sstreasa.ie/our-school/admissions?page=0",
+      "label": "Previous page ‹‹",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://sstreasa.ie/system/files/file-uploads/2026-09/School%20Calendar%2026%2027.pdf",
+      "label": "School Calendar",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://sstreasa.ie/system/files/file-uploads/2026-09/Admission%20Policy%20.pdf",
+      "label": "Admission Policy Scoil San Treasa",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://sstreasa.ie/news/school-orchestra",
+      "label": "School Orchestra 21st May 2025 Our fantastic school orchestra put on three back-to-back performances today, impressing both parents and children with their precision and musical…",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://sstreasa.ie/news/celebrating-our-new-library",
+      "label": "Celebrating Our New Library! 6th May 2025 Over the past few months, the Parents Association worked hard to renovate a new school library for Scoil San Treasa, which was completed over the…",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://sstreasa.ie/parents/parents-association-20262027",
+      "label": "Parents' Association",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://sstreasa.ie/news/primary-school-survey",
+      "label": "Primary School Survey 18th June 2026 Primary School Survey. The Department of Education and Youth carried out this survey to find out about the type of schools that parents/guardians…",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://sstreasa.ie/news/grandparents-mass",
+      "label": "Grandparents' Mass 10th May 2026 As part of Catholic Schools Week, we celebrated Grandparents’ Day on Friday, 24th April, when the pupils of 3rd Class invited their grandparents to…",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://sstreasa.ie/sitemap.xml",
+      "label": "Public sitemap",
+      "via": "sitemap_root"
+    },
+    {
+      "url": "https://sstreasa.ie/policies",
+      "label": "Policies",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://sstreasa.ie/parents/uniform",
+      "label": "Uniform",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://sstreasa.ie/parents/standardised-tests",
+      "label": "Standardised Tests",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://sstreasa.ie/parents/rainbows-ireland-programme",
+      "label": "Rainbows Ireland Programme",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://sstreasa.ie/parents/primary-online-database-pod",
+      "label": "Primary Online Database",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://sstreasa.ie/parents/morning-club",
+      "label": "Morning Club",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://sstreasa.ie/parents/department-education-de/new-primary-maths-curriculum",
+      "label": "New Primary Maths Curriculum",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://sstreasa.ie/parents/department-education-de",
+      "label": "Department of Education - DE",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://sstreasa.ie/parents/data-protection-and-gdpr",
+      "label": "Data Protection and GDPR",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://sstreasa.ie/parents/booklists",
+      "label": "Booklists",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://sstreasa.ie/parents/after-school-activities",
+      "label": "After School Activities",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://sstreasa.ie/parents",
+      "label": "Parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://sstreasa.ie/our-school/information",
+      "label": "Information",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://sstreasa.ie/system/files/file-uploads/2026-08/Scoil%20San%20Treasa%20Application%20Form%202627%20Classes%20other%20than%20Junior%20Infants_0.pdf",
+      "label": "Application Form 2026 2027 Classes other than Junior Infants",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://sstreasa.ie/privacy-policy",
+      "label": "Privacy Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 82.6,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:54:03+0000"
+}

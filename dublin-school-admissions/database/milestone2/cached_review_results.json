@@ -1,0 +1,1073 @@
+[
+  {
+    "index": 0,
+    "roll": "00752A",
+    "url": "https://www.centralmodelseniorschool.ie/_files/ugd/edbbb3_ecb13e4c4ea6451daaac7096656671dc.pdf",
+    "document_id": "d799aca373d99cf5c1eca638bf29f6a5",
+    "status": "reviewed_no_published_numeric",
+    "reason": null,
+    "groups_extracted": 1
+  },
+  {
+    "index": 1,
+    "roll": "03359N",
+    "url": "https://www.ballyroanboysschool.ie/_files/ugd/bb788b_fefb45d98d754cb4a692fe162c291c66.pdf",
+    "document_id": "85a78c5fc44c84bd7497c54572338cc3",
+    "status": "reviewed_no_published_numeric",
+    "reason": null,
+    "groups_extracted": 1
+  },
+  {
+    "index": 2,
+    "roll": "04992R",
+    "url": "https://www.sacredheartballygall.ie/wp-content/uploads/2025/09/Admissions-Notice-2026-2027-School-Year.pdf",
+    "document_id": "6f1f512d4970cbc6ff07452a18ea44ec",
+    "status": "reviewed_numeric",
+    "reason": null,
+    "groups_extracted": 4
+  },
+  {
+    "index": 3,
+    "roll": "11894I",
+    "url": "https://www.scoilmhuiregns.ie/media/pages/enrolment/5faf3d0c37-1760005376/sm-gns-annual-admission-notice-2026-27.pdf",
+    "document_id": "5701ca169936fcfb5ceadf7555ef4643",
+    "status": "reviewed_numeric",
+    "reason": null,
+    "groups_extracted": 4
+  },
+  {
+    "index": 4,
+    "roll": "12755W",
+    "url": "https://www.kildareplace.ie/_files/ugd/a602a2_01706dfdaf5a4dbbb524d027f7c04e38.pdf",
+    "document_id": "02bdf21131b73009fdada489b353bcac",
+    "status": "rejected_not_notice",
+    "reason": "procedure_not_annual_notice",
+    "groups_extracted": 0
+  },
+  {
+    "index": 5,
+    "roll": "13217W",
+    "url": "https://holyfamilyns.ie/annual-admission-notice/",
+    "document_id": "9a9daf1ac435dbebfb67308c57024a58",
+    "status": "rejected_not_notice",
+    "reason": "download_navigation_not_notice",
+    "groups_extracted": 0
+  },
+  {
+    "index": 6,
+    "roll": "14917J",
+    "url": "https://static1.squarespace.com/static/5fe36092b746f750d4d47ef9/t/639c718cc02e8d28f0763a90/1671197068231/Admissions+details+2023-+2024.pdf",
+    "document_id": "4d31d0908e26c92cc25cea4f3d1b4992",
+    "status": "reviewed_with_source_ambiguity",
+    "reason": null,
+    "groups_extracted": 2
+  },
+  {
+    "index": 7,
+    "roll": "15132B",
+    "url": "https://www.haroldboysdalkey.ie/_files/ugd/7ce6f8_c536f50f59b9483cadc1f263a2c399e0.pdf",
+    "document_id": "6c5fccee30ce1c87ab58e54a42006517",
+    "status": "reviewed_numeric",
+    "reason": null,
+    "groups_extracted": 2
+  },
+  {
+    "index": 8,
+    "roll": "15625B",
+    "url": "https://stcatherinesns.net/wp-content/uploads/2025/09/Annual-Admissions-Notice-2026-27.pdf",
+    "document_id": "2e18959ffb13e0cb5482c77089dd8b71",
+    "status": "reviewed_numeric",
+    "reason": null,
+    "groups_extracted": 3
+  },
+  {
+    "index": 9,
+    "roll": "16333Q",
+    "url": "https://stps.ie/wp-content/uploads/2024/01/2024-2025-School-Year-Admissions-Notice-1.docx",
+    "document_id": "a9d3647569f27cfe84e2073b648e7ddb",
+    "status": "reviewed_with_source_ambiguity",
+    "reason": null,
+    "groups_extracted": 1
+  },
+  {
+    "index": 10,
+    "roll": "16333Q",
+    "url": "https://stps.ie/wp-content/uploads/2023/09/2024-2025-STPS-Annual-Admissions-Notice.pdf",
+    "document_id": "8cab1d20550f2ccabd10288347831230",
+    "status": "reviewed_with_source_ambiguity",
+    "reason": null,
+    "groups_extracted": 1
+  },
+  {
+    "index": 11,
+    "roll": "16461C",
+    "url": "https://stfiniansprimaryschool.ie/",
+    "document_id": "9f97630085a6d5d53ac255317c1fcf7b",
+    "status": "rejected_not_notice",
+    "reason": "homepage_navigation_not_notice",
+    "groups_extracted": 0
+  },
+  {
+    "index": 12,
+    "roll": "16695E",
+    "url": "https://www.brunnerprimary.ie/_files/ugd/2d1e22_f1ffcffc42d647458121bb95a2d83bf2.docx?dn=_Admissions%20notice%202026-2027.docx",
+    "document_id": "79b1529229102b9978082a191483125c",
+    "status": "reviewed_with_source_ambiguity",
+    "reason": null,
+    "groups_extracted": 2
+  },
+  {
+    "index": 13,
+    "roll": "16893I",
+    "url": "https://www.stlaurencesbns.ie/admissions",
+    "document_id": "0d7fa9e7d4d257d357750928328959a4",
+    "status": "rejected_not_notice",
+    "reason": "admissions_landing_not_notice",
+    "groups_extracted": 0
+  },
+  {
+    "index": 14,
+    "roll": "16988T",
+    "url": "https://www.christthekingbns.ie/wp-content/uploads/2025/10/Admissions-notice-26-27.docx.pdf",
+    "document_id": "460a2d08e213d6b6bbde276beb97571b",
+    "status": "reviewed_numeric",
+    "reason": null,
+    "groups_extracted": 3
+  },
+  {
+    "index": 15,
+    "roll": "17083B",
+    "url": "https://smgs.ie/wp-content/uploads/2023/11/Admissions-Notice-2024-25-1.pdf",
+    "document_id": "9d329d49e715e670e5f381253faa1b9c",
+    "status": "reviewed_with_source_ambiguity",
+    "reason": null,
+    "groups_extracted": 1
+  },
+  {
+    "index": 16,
+    "roll": "17148D",
+    "url": "https://www.belgroveseniorgirls.ie/wp-content/uploads/2025/11/Annual-Admission-Notice-26-27.pdf",
+    "document_id": "a36096f906a2f0b4eb5cf4403ea7f752",
+    "status": "reviewed_numeric",
+    "reason": null,
+    "groups_extracted": 1
+  },
+  {
+    "index": 17,
+    "roll": "17148D",
+    "url": "https://www.belgroveseniorgirls.ie/wp-content/uploads/2024/12/2025-26-BSGNS-Annual-Admission-Notice.pdf",
+    "document_id": "2a67d0ccf0baeab7f302f722cd561ed1",
+    "status": "reviewed_numeric",
+    "reason": null,
+    "groups_extracted": 1
+  },
+  {
+    "index": 18,
+    "roll": "17148D",
+    "url": "https://www.belgroveseniorgirls.ie/wp-content/uploads/2023/12/2024-2025-BSGNS-Annual-Admission-Notice.pdf",
+    "document_id": "f0ef17f4dc081c4570a5cd770234ed98",
+    "status": "reviewed_numeric",
+    "reason": null,
+    "groups_extracted": 1
+  },
+  {
+    "index": 19,
+    "roll": "17148D",
+    "url": "https://www.belgroveseniorgirls.ie/wp-content/uploads/2022/12/BSGNS-Annual-Admission-Notice-2023-24.pdf",
+    "document_id": "df14842ed09c91ea3331dac8164801db",
+    "status": "reviewed_numeric",
+    "reason": null,
+    "groups_extracted": 1
+  },
+  {
+    "index": 20,
+    "roll": "17148D",
+    "url": "https://www.belgroveseniorgirls.ie/wp-content/uploads/2022/07/2022-23-BSGNS-Annual-Admission-Notice_compressed.pdf",
+    "document_id": "493dd639ba34f85394eabf9b2f27f335",
+    "status": "reviewed_numeric",
+    "reason": null,
+    "groups_extracted": 1
+  },
+  {
+    "index": 21,
+    "roll": "17148D",
+    "url": "https://www.belgroveseniorgirls.ie/wp-content/uploads/2021/12/2022-23-BSGNS-Annual-Admission-Notice.pdf",
+    "document_id": "a33cfaf24c4366ccc254410837cadb16",
+    "status": "reviewed_numeric",
+    "reason": null,
+    "groups_extracted": 1
+  },
+  {
+    "index": 22,
+    "roll": "17148D",
+    "url": "https://www.belgroveseniorgirls.ie/wp-content/uploads/2020/12/2021-22-BSGNS-Annual-Admission-Notice.pdf",
+    "document_id": "4e1714837327783ccd13ab8ea384a998",
+    "status": "reviewed_numeric",
+    "reason": null,
+    "groups_extracted": 1
+  },
+  {
+    "index": 23,
+    "roll": "17507F",
+    "url": "https://www.glencullenschool.ie/wp-content/uploads/2021/10/Annual-Admission-Notice-20212022.pdf",
+    "document_id": "2a1a73120a0419890f9bfcdeba28fb43",
+    "status": "reviewed_with_source_ambiguity",
+    "reason": null,
+    "groups_extracted": 2
+  },
+  {
+    "index": 24,
+    "roll": "17507F",
+    "url": "https://www.glencullenschool.ie/wp-content/uploads/2020/09/Annual-Admission-Notice-2021.2022.pdf",
+    "document_id": "a7e85a0d8bf4e40bcf8df66e2c04162b",
+    "status": "reviewed_no_published_numeric",
+    "reason": null,
+    "groups_extracted": 1
+  },
+  {
+    "index": 25,
+    "roll": "17603B",
+    "url": "https://scoiliosagain.com/wp-content/uploads/2025/11/Scoil-Iosagain-ANNUAL-ADMISSION-NOTICE-26-27.docx",
+    "document_id": "7a4891404d944dca96e17ef519f0e348",
+    "status": "reviewed_with_source_ambiguity",
+    "reason": null,
+    "groups_extracted": 2
+  },
+  {
+    "index": 26,
+    "roll": "17899C",
+    "url": "https://www.scoilcarmeljns.com/_files/ugd/02d54a_3ee3bae95b6e42d59244d91de613489e.pdf",
+    "document_id": "1c80aba04d0dc8b6b32f116bbd52ee8b",
+    "status": "reviewed_numeric",
+    "reason": null,
+    "groups_extracted": 3
+  },
+  {
+    "index": 27,
+    "roll": "17953F",
+    "url": "https://www.edmondstownns.ie/uploads/1/1/3/3/113387553/admissions_notice_for_2025_academic_year.pdf",
+    "document_id": "7a81e82c1b6fdc3a43b6dea690ee2b5f",
+    "status": "reviewed_numeric",
+    "reason": null,
+    "groups_extracted": 1
+  },
+  {
+    "index": 28,
+    "roll": "17953F",
+    "url": "https://www.edmondstownns.ie/uploads/1/1/3/3/113387553/admissions_notice_for_2024_academic_year.pdf",
+    "document_id": "2696824b7c730b6098fbfcbc4837c4f0",
+    "status": "reviewed_numeric",
+    "reason": null,
+    "groups_extracted": 1
+  },
+  {
+    "index": 29,
+    "roll": "17953F",
+    "url": "https://www.edmondstownns.ie/uploads/1/1/3/3/113387553/admissions_notice_2022.pdf",
+    "document_id": "e0244b90c7c428339ee0efd839c1f805",
+    "status": "reviewed_numeric",
+    "reason": null,
+    "groups_extracted": 1
+  },
+  {
+    "index": 30,
+    "roll": "17996A",
+    "url": "https://glenasmolens.com/wp-content/uploads/2025/09/Admissions-notice-2026-2027.docx-1.pdf",
+    "document_id": "687483c9de6350a6266889e5b66d9c96",
+    "status": "reviewed_with_source_ambiguity",
+    "reason": null,
+    "groups_extracted": 1
+  },
+  {
+    "index": 31,
+    "roll": "17996A",
+    "url": "https://glenasmolens.com/wp-content/uploads/2024/09/Admissions-notice-2025-2026.docx.pdf",
+    "document_id": "a7a1b27f40556a3d66f9c1ce78c52f94",
+    "status": "reviewed_with_source_ambiguity",
+    "reason": null,
+    "groups_extracted": 1
+  },
+  {
+    "index": 32,
+    "roll": "18360G",
+    "url": "https://www.stbrendansprimaryschool.org/wp-content/uploads/2023/10/Admissions-notice-September-2025.pdf",
+    "document_id": "d559d34947ff1817261a671acc57e8f9",
+    "status": "reviewed_with_source_ambiguity",
+    "reason": null,
+    "groups_extracted": 2
+  },
+  {
+    "index": 33,
+    "roll": "18602E",
+    "url": "https://www.smclon.com/files/Annual-Admissions-Notice.pdf",
+    "document_id": "20b2ba1cf71270229391c145597f1c7a",
+    "status": "reviewed_with_source_ambiguity",
+    "reason": null,
+    "groups_extracted": 2
+  },
+  {
+    "index": 34,
+    "roll": "18682F",
+    "url": "https://stcanices.com/wp-content/uploads/2025/12/Admissions-Notice-26-27-Published-Version.pdf",
+    "document_id": "3a922fc252fd4596104d9d3aec632548",
+    "status": "reviewed_no_published_numeric",
+    "reason": null,
+    "groups_extracted": 1
+  },
+  {
+    "index": 35,
+    "roll": "18817C",
+    "url": "https://storage.googleapis.com/iclasscrm_files/2481/Images/Content/2026/264/bb00-ANNUAL_ADMISSION_NOTICE_Gaeilge_2027_gaeilge.pdf",
+    "document_id": "81e940e7a5c9b32309ef69bf66d7f12d",
+    "status": "reviewed_numeric",
+    "reason": null,
+    "groups_extracted": 4
+  },
+  {
+    "index": 36,
+    "roll": "18843D",
+    "url": "https://www.maryqueenofangels2.ie/uploads/2/7/0/0/27005461/annual_admission_notice_2023.pdf",
+    "document_id": "d65ed41ba3041af1da7404113137ecc5",
+    "status": "reviewed_numeric",
+    "reason": null,
+    "groups_extracted": 3
+  },
+  {
+    "index": 37,
+    "roll": "18911R",
+    "url": "https://www.olvgns.ie/uploads/1/3/2/6/13264917/admissions_notice_2026.docx",
+    "document_id": "d17b6c5eabd24c078118b0e5f4c60c0e",
+    "status": "reviewed_with_source_ambiguity",
+    "reason": null,
+    "groups_extracted": 2
+  },
+  {
+    "index": 38,
+    "roll": "19007S",
+    "url": "https://belgrove.ie/wp-content/uploads/2024/11/Annual-addmissions-notice-25-26.pdf",
+    "document_id": "8e7598dcb1b7744295bdb49b40d69572",
+    "status": "reviewed_numeric",
+    "reason": null,
+    "groups_extracted": 1
+  },
+  {
+    "index": 39,
+    "roll": "19221U",
+    "url": "https://www.scoilaine.ie/admissions/?googletranslate=true",
+    "document_id": "1dc5c6c77d4c0d3fd74bec872404bde8",
+    "status": "reviewed_numeric",
+    "reason": null,
+    "groups_extracted": 2
+  },
+  {
+    "index": 40,
+    "roll": "19302U",
+    "url": "https://www.virginmarybns.ie/",
+    "document_id": "f5705fcf1acf5cab8fa4bf6cb3b765a0",
+    "status": "reviewed_numeric",
+    "reason": null,
+    "groups_extracted": 4
+  },
+  {
+    "index": 41,
+    "roll": "19302U",
+    "url": "https://www.virginmarybns.ie/enrolments.html",
+    "document_id": "166a66a8c2ed6e6c5731ed5e395ab0ac",
+    "status": "reviewed_numeric",
+    "reason": null,
+    "groups_extracted": 3
+  },
+  {
+    "index": 42,
+    "roll": "19303W",
+    "url": "https://www.virginmarygns.ie/uploads/3/9/4/3/39434705/admission_notice_vmgns_26-27.pdf",
+    "document_id": "9c0413e2533be4989330e1007af87148",
+    "status": "reviewed_with_source_ambiguity",
+    "reason": null,
+    "groups_extracted": 4
+  },
+  {
+    "index": 43,
+    "roll": "19314E",
+    "url": "https://www.olbns.com/",
+    "document_id": "4a8dc6f011c2bd6626ce820a946f0739",
+    "status": "rejected_not_notice",
+    "reason": "homepage_navigation_not_notice",
+    "groups_extracted": 0
+  },
+  {
+    "index": 44,
+    "roll": "19335M",
+    "url": "https://www.guardianangels.ie/wp-content/uploads/2020/09/Admissions-Notice-2021-22.pdf",
+    "document_id": "ab9f1f26ea04786ddc4f8dd3bb2579ec",
+    "status": "reviewed_numeric",
+    "reason": null,
+    "groups_extracted": 1
+  },
+  {
+    "index": 45,
+    "roll": "19390U",
+    "url": "https://www.saintmarks.ie/Content/2024/11/aa00-ANNUAL_ADMISSION_NOTICE_Ver2_2025_26_school_year.pdf?1638",
+    "document_id": "17a011010e69379791478cec7749591c",
+    "status": "reviewed_numeric",
+    "reason": null,
+    "groups_extracted": 2
+  },
+  {
+    "index": 46,
+    "roll": "19490B",
+    "url": "https://scoilmhuireballyboden.weebly.com/uploads/2/4/2/0/24203565/admission_notice_to_early_intervention_class_2027_-28.pdf",
+    "document_id": "dfdadda8ffad3d8a14a20747e5682235",
+    "status": "reviewed_numeric",
+    "reason": null,
+    "groups_extracted": 1
+  },
+  {
+    "index": 47,
+    "roll": "19505L",
+    "url": "https://www.gaelscoiloilibheir.ie/uploads/1/9/5/3/19531207/f\u00d3gra.iontr\u00c1la.tiru.d15acat.annualadmissionnotice.27.28.pdf",
+    "document_id": "fedec5acbe512a1f62b1774354ef82fe",
+    "status": "reviewed_with_source_ambiguity",
+    "reason": null,
+    "groups_extracted": 2
+  },
+  {
+    "index": 48,
+    "roll": "19505L",
+    "url": "https://www.gaelscoiloilibheir.ie/uploads/1/9/5/3/19531207/polasa\u00ed.iontr\u00e1la.pr\u00edomhshrutha.rnar.scoilbhliain.27.28.pdf",
+    "document_id": "7a3e44a5a8dc4d1dd948b476cda4a7ac",
+    "status": "rejected_not_notice",
+    "reason": "admission_policy_not_notice",
+    "groups_extracted": 0
+  },
+  {
+    "index": 49,
+    "roll": "19510E",
+    "url": "https://talbotsns.com/wp-content/uploads/2022/11/Admission-Notice-2022_2023-1.pdf",
+    "document_id": "713cde28fc3fbe3e49eaeda1a923c49a",
+    "status": "reviewed_with_source_ambiguity",
+    "reason": null,
+    "groups_extracted": 1
+  },
+  {
+    "index": 50,
+    "roll": "19542R",
+    "url": "https://storage.googleapis.com/iclasscrm_files/55/Images/Content/2026/247/gd21-Dates_for_admission_2026.docx",
+    "document_id": "f34ef7938ac2a61a3f4ab43e1460f9d4",
+    "status": "reviewed_numeric",
+    "reason": null,
+    "groups_extracted": 1
+  },
+  {
+    "index": 51,
+    "roll": "19574H",
+    "url": "https://www.divinewordns.ie/Page/Admissions/16912/Index.html",
+    "document_id": "b4fc29cdff889a24a26e2b30001f7ef7",
+    "status": "rejected_not_notice",
+    "reason": "admissions_navigation_not_notice",
+    "groups_extracted": 0
+  },
+  {
+    "index": 52,
+    "roll": "19576L",
+    "url": "https://storage.googleapis.com/iclasscrm_files/85/Content/2026/2/qz69-Admission_Notification2026.pdf?6894",
+    "document_id": "d8de46c8b21a028addfad0b03a137fb1",
+    "status": "reviewed_no_published_numeric",
+    "reason": null,
+    "groups_extracted": 1
+  },
+  {
+    "index": 53,
+    "roll": "19646G",
+    "url": "https://www.scoilsantain.com/Page/Fogra-Bliantuil-Rang-Speisialta/35039/Index.html",
+    "document_id": "aab600290f226dfff692aa1fe8906906",
+    "status": "rejected_not_notice",
+    "reason": "enrolment_navigation_not_notice",
+    "groups_extracted": 0
+  },
+  {
+    "index": 54,
+    "roll": "19652B",
+    "url": "https://www.sacredheartjns.ie/cmsfiles/items/securedocs/8724-Admissions-noticeSacredHeartJNS2728.docx.pdf",
+    "document_id": "27d20d4d9ed75f9a1dd5c18e2f80e9dd",
+    "status": "reviewed_with_source_ambiguity",
+    "reason": null,
+    "groups_extracted": 3
+  },
+  {
+    "index": 55,
+    "roll": "19668Q",
+    "url": "https://stfrancissns.ie/wp-content/uploads/2020/11/St-Francis-SNS-Annual-Admission-notice-2020-2.pdf",
+    "document_id": "1caaaf8290777ac9ac7f73ddcdfe1782",
+    "status": "reviewed_no_published_numeric",
+    "reason": null,
+    "groups_extracted": 1
+  },
+  {
+    "index": 56,
+    "roll": "19723V",
+    "url": "https://www.qoa.ie/Page/Admissions/224556/Index.html",
+    "document_id": "3c7f33627ea1654b7a07360c70e0ca87",
+    "status": "rejected_not_notice",
+    "reason": "homepage_navigation_not_notice",
+    "groups_extracted": 0
+  },
+  {
+    "index": 57,
+    "roll": "19765O",
+    "url": "https://www.stthomas.ie/wp-content/uploads/2026/01/Admission-Notice-2026-27.pdf",
+    "document_id": "ed24d437f71f3918ef5a3b141b50feda",
+    "status": "reviewed_with_source_ambiguity",
+    "reason": null,
+    "groups_extracted": 3
+  },
+  {
+    "index": 58,
+    "roll": "19782O",
+    "url": "https://www.stbrigidsbrookfield.ie/_files/ugd/392cf2_f51acbecbc9d43abade3c3963c978aa9.docx?dn=St%20Brigid's%20J.N.S.%20-%20Annual%20Admissions%20Notice%20(5)%202027%20-%202028.docx",
+    "document_id": "8fc9cf3ad3b9a2e64f4fee192a11a259",
+    "status": "reviewed_with_source_ambiguity",
+    "reason": null,
+    "groups_extracted": 3
+  },
+  {
+    "index": 59,
+    "roll": "19785U",
+    "url": "https://bernadettes.ie/wp-content/uploads/2025/11/Annual-Admissions-Notice-St.-Bernadettes-SNS-.2026-2027.pdf",
+    "document_id": "04f068db9e031fddb1665a0314156230",
+    "status": "reviewed_with_source_ambiguity",
+    "reason": null,
+    "groups_extracted": 3
+  },
+  {
+    "index": 60,
+    "roll": "19785U",
+    "url": "https://bernadettes.ie/wp-content/uploads/2024/11/Annual-Admissions-Notice-St.-Bernadettes-SNS-.2025-2026.pdf",
+    "document_id": "27fccf20ec1ef170a0957c9d4a5840da",
+    "status": "reviewed_numeric",
+    "reason": null,
+    "groups_extracted": 4
+  },
+  {
+    "index": 61,
+    "roll": "19837N",
+    "url": "https://drimnaghcastleprimary.ie/wp-content/uploads/2025/03/DCPS_2025_2026_ANNUAL-ADMISSION-NOTICE-new.pdf",
+    "document_id": "f955371db7baf4c621a1ce215b510a2d",
+    "status": "reviewed_no_published_numeric",
+    "reason": null,
+    "groups_extracted": 1
+  },
+  {
+    "index": 62,
+    "roll": "19837N",
+    "url": "https://drimnaghcastleprimary.ie/wp-content/uploads/2025/02/DCPS_2025_2026_ANNUAL-ADMISSION-NOTICE.pdf",
+    "document_id": "22c626c3086a521fd9461177ffcde106",
+    "status": "reviewed_no_published_numeric",
+    "reason": null,
+    "groups_extracted": 1
+  },
+  {
+    "index": 63,
+    "roll": "19837N",
+    "url": "https://drimnaghcastleprimary.ie/wp-content/uploads/2023/04/Drimnagh-Castle-Primary-School_Admissions-Notice_20232024.pdf",
+    "document_id": "6412f2f5e3ebccd72045d393c6270027",
+    "status": "reviewed_no_published_numeric",
+    "reason": null,
+    "groups_extracted": 1
+  },
+  {
+    "index": 64,
+    "roll": "19840C",
+    "url": "https://www.holyfamilyschool.ie/cmsfiles/items/downloads/9496-AdmissionNotice20272028.pdf",
+    "document_id": "32469d95554dc468fd89ce7390ab2a0f",
+    "status": "reviewed_with_source_ambiguity",
+    "reason": null,
+    "groups_extracted": 4
+  },
+  {
+    "index": 65,
+    "roll": "19865S",
+    "url": "https://divinemercyjns.weebly.com/annual-admission-notice.html",
+    "document_id": "5e68a963e26b718c67fd4be15e789609",
+    "status": "reviewed_with_source_ambiguity",
+    "reason": null,
+    "groups_extracted": 1
+  },
+  {
+    "index": 66,
+    "roll": "19872P",
+    "url": "https://www.scoilcm.ie/uploads/8/4/9/1/8491921/f\u00f3gra-maidir-le-ligean-isteach.docx.pdf",
+    "document_id": "2aa9bc9eb74d91df60bbde6eee51b4d7",
+    "status": "reviewed_with_source_ambiguity",
+    "reason": null,
+    "groups_extracted": 1
+  },
+  {
+    "index": 67,
+    "roll": "19877C",
+    "url": "https://holyfamilysns.ie/wp-content/uploads/2025/11/HFSNS-Admissions-Notice-2026_27.pdf",
+    "document_id": "f407a57f2b455496bcc8f6c98554fadf",
+    "status": "reviewed_numeric",
+    "reason": null,
+    "groups_extracted": 5
+  },
+  {
+    "index": 68,
+    "roll": "19926M",
+    "url": "https://storage.googleapis.com/iclasscrm_files/2858/Images/Content/2026/251/ng52-GCM_FogramaidirleLigeanIsteach_27_28.pdf",
+    "document_id": "f8ea2a02e5606fa4cf8af5fb279b15c5",
+    "status": "reviewed_numeric",
+    "reason": null,
+    "groups_extracted": 1
+  },
+  {
+    "index": 69,
+    "roll": "19939V",
+    "url": "https://www.goodshepherd.ie/web/annual_admission_notice/649856",
+    "document_id": "530c78cca7d8c266ac45a9a0bbad0a12",
+    "status": "rejected_not_notice",
+    "reason": "policy_or_navigation_not_verified_notice",
+    "groups_extracted": 0
+  },
+  {
+    "index": 70,
+    "roll": "19939V",
+    "url": "https://www.goodshepherd.ie/web/admissions/649802",
+    "document_id": "fbafd9641aa1f425631b6e650b9c0c68",
+    "status": "rejected_not_notice",
+    "reason": "policy_or_navigation_not_verified_notice",
+    "groups_extracted": 0
+  },
+  {
+    "index": 71,
+    "roll": "19939V",
+    "url": "https://www.goodshepherd.ie/web/admissions_policy/649803",
+    "document_id": "656d213cd588e254edb5266316359331",
+    "status": "rejected_not_notice",
+    "reason": "policy_or_navigation_not_verified_notice",
+    "groups_extracted": 0
+  },
+  {
+    "index": 72,
+    "roll": "19979K",
+    "url": "https://www.stkevinsns.net/wp-content/uploads/2022/09/Annual-Admissions-Notice_st_kevins_19979k_2023_2024.docx.pdf",
+    "document_id": "b6a9f7c6edc76f6d2f4fb62550ea785e",
+    "status": "reviewed_with_source_ambiguity",
+    "reason": null,
+    "groups_extracted": 1
+  },
+  {
+    "index": 73,
+    "roll": "19979K",
+    "url": "https://www.stkevinsns.net/wp-content/uploads/2021/09/Annual-Admissions-Notice_st_kevins_19979k_2022_2023.pdf",
+    "document_id": "bbc21d2ab0e2c7705e9a1da2abc2fb15",
+    "status": "reviewed_no_published_numeric",
+    "reason": null,
+    "groups_extracted": 1
+  },
+  {
+    "index": 74,
+    "roll": "19979K",
+    "url": "https://www.stkevinsns.net/wp-content/uploads/2020/10/Annual-Admissions-Notice_st_kevins_19979k_2022_2022_website.pdf",
+    "document_id": "2441f68d301875b2090e128f66c2833c",
+    "status": "reviewed_no_published_numeric",
+    "reason": null,
+    "groups_extracted": 1
+  },
+  {
+    "index": 75,
+    "roll": "20012S",
+    "url": "https://www.griffithbarracks.ie/News/Annual-Admissions-Notice-for-202627-School-Year/20309/Index.html",
+    "document_id": "3c9b12210f7cb522400091c3fdd98a77",
+    "status": "rejected_not_notice",
+    "reason": "admissions_navigation_not_notice",
+    "groups_extracted": 0
+  },
+  {
+    "index": 76,
+    "roll": "20029M",
+    "url": "https://stbrigidsinfantschool.ie/wp-content/uploads/2025/09/Annual-Admissions-Notice-2026-2027-School-Year.pdf",
+    "document_id": "9b8207bc5695c9307eb74f3f62cf8575",
+    "status": "reviewed_with_source_ambiguity",
+    "reason": null,
+    "groups_extracted": 3
+  },
+  {
+    "index": 77,
+    "roll": "20043G",
+    "url": "https://gaelscoilchnocliamhna.ie/wp-content/uploads/2026/01/Fogra-Iontrala-Bliantiuil-GA-ENG-26-27-1.pdf",
+    "document_id": "289a52891a63e2ab7900dcb4ffc875c0",
+    "status": "reviewed_numeric",
+    "reason": null,
+    "groups_extracted": 1
+  },
+  {
+    "index": 78,
+    "roll": "20052H",
+    "url": "https://gaelscoilcholmcille.ie/wp-content/uploads/2025/10/admissions-notice-2026.pdf",
+    "document_id": "26679e26f419edf79ed763c38b1f62f9",
+    "status": "reviewed_numeric",
+    "reason": null,
+    "groups_extracted": 2
+  },
+  {
+    "index": 79,
+    "roll": "20056P",
+    "url": "https://gaelscoilphadraig.ie/wp-content/uploads/2025/09/Fogra-bliantuil-.pdf",
+    "document_id": "c0de45a9206df12fdc455be38f0bdf4f",
+    "status": "reviewed_with_source_ambiguity",
+    "reason": null,
+    "groups_extracted": 1
+  },
+  {
+    "index": 80,
+    "roll": "20056P",
+    "url": "https://gaelscoilphadraig.ie/wp-content/uploads/2023/09/Fogra-Bliantuil-Iontrala-2024-2025-1.pdf",
+    "document_id": "9d6b598d5babe184f0d0b44b14136644",
+    "status": "reviewed_with_source_ambiguity",
+    "reason": null,
+    "groups_extracted": 2
+  },
+  {
+    "index": 81,
+    "roll": "20056P",
+    "url": "https://gaelscoilphadraig.ie/wp-content/uploads/2023/09/Fogra-Bliantuil-Iontrala-2024-2025.pdf",
+    "document_id": "04f3bca3aa3ac05d7d8e64c75f014a2b",
+    "status": "reviewed_no_published_numeric",
+    "reason": null,
+    "groups_extracted": 2
+  },
+  {
+    "index": 82,
+    "roll": "20056P",
+    "url": "https://gaelscoilphadraig.ie/wp-content/uploads/2022/09/Fo\u0301gra-Bliantu\u0301il-Iontra\u0301la-Annual-Admission-Statement.pdf",
+    "document_id": "a6793f40a81bd9fd26c7dab8fab68d09",
+    "status": "reviewed_with_source_ambiguity",
+    "reason": null,
+    "groups_extracted": 2
+  },
+  {
+    "index": 83,
+    "roll": "20056P",
+    "url": "https://gaelscoilphadraig.ie/wp-content/uploads/2020/09/Fo\u0301gra-Bliantu\u0301il-Iontra\u0301la-2021-2022.pdf",
+    "document_id": "9fcf6857a04993d69717a49c5e6710c7",
+    "status": "reviewed_no_published_numeric",
+    "reason": null,
+    "groups_extracted": 2
+  },
+  {
+    "index": 84,
+    "roll": "20056P",
+    "url": "https://gaelscoilphadraig.ie/wp-content/uploads/2020/09/Fo\u0301gra-Bliantu\u0301il-Iontra\u0301la-2021-2022-Gaeilge_-Be\u0301arla.pdf",
+    "document_id": "7f707ba18bc3146cf5a171c08a0262e0",
+    "status": "reviewed_no_published_numeric",
+    "reason": null,
+    "groups_extracted": 2
+  },
+  {
+    "index": 85,
+    "roll": "20056P",
+    "url": "https://gaelscoilphadraig.ie/wp-content/uploads/2020/09/Annual-Admissions-Statement-2021-2022.pdf",
+    "document_id": "0738ea814a81cbdeec5c49537920efc4",
+    "status": "reviewed_no_published_numeric",
+    "reason": null,
+    "groups_extracted": 2
+  },
+  {
+    "index": 86,
+    "roll": "20104A",
+    "url": "https://staudoens.ie/school-info/school-enrolment-application-form/",
+    "document_id": "c6f5a04c839c1680f4fe1645bbb2d0ff",
+    "status": "rejected_not_notice",
+    "reason": "admissions_navigation_not_notice",
+    "groups_extracted": 0
+  },
+  {
+    "index": 87,
+    "roll": "20152L",
+    "url": "https://www.ndmns.com/uploads/1/2/7/3/127348810/admissions_notice_2027-28.docx",
+    "document_id": "e8668da6d788363ec0d140047653135a",
+    "status": "reviewed_with_source_ambiguity",
+    "reason": null,
+    "groups_extracted": 2
+  },
+  {
+    "index": 88,
+    "roll": "20187H",
+    "url": "https://www.dmbalgaddysns.ie/uploads/Divine%20Mercy%20SNS%20Admissions%20Notice.pdf",
+    "document_id": "db3df4a4593ee70217c0d094e121a1b8",
+    "status": "reviewed_no_published_numeric",
+    "reason": null,
+    "groups_extracted": 1
+  },
+  {
+    "index": 89,
+    "roll": "20223I",
+    "url": "https://gser.ie/wp-content/uploads/2026/09/Annual-admission-notice-27-28.pdf",
+    "document_id": "f9483b43ab0276704ac08a3fd10b22a5",
+    "status": "payload_unavailable_prior_failure_requires_permitted_source_retrieval",
+    "reason": null,
+    "groups_extracted": 0
+  },
+  {
+    "index": 90,
+    "roll": "20241K",
+    "url": "https://www.scoilchoilmcns.ie/wp-content/uploads/2026/09/Scoil-Choilm-Autism-Class-Admissions-Notice-26-27-1.pdf",
+    "document_id": "c8348be5ba7365205a6bc55986bbb8be",
+    "status": "reviewed_with_source_ambiguity",
+    "reason": null,
+    "groups_extracted": 2
+  },
+  {
+    "index": 91,
+    "roll": "20269J",
+    "url": "https://scoilchormaiccns.ie/wp-content/uploads/2024/12/Annual-Admission-Notice-2025.26.pdf",
+    "document_id": "27d1cf3dc7521634c96fb518ac19f028",
+    "status": "reviewed_numeric",
+    "reason": null,
+    "groups_extracted": 4
+  },
+  {
+    "index": 92,
+    "roll": "20269J",
+    "url": "https://scoilchormaiccns.ie/wp-content/uploads/2021/02/Admission-Policy-2021.pdf",
+    "document_id": "fe92888e1e12a8f3fd4be94d12ef00de",
+    "status": "rejected_not_notice",
+    "reason": "policy_not_notice",
+    "groups_extracted": 0
+  },
+  {
+    "index": 93,
+    "roll": "20302E",
+    "url": "https://www.thornleighet.com",
+    "document_id": "7ff248a7345c29521b9f39b55ada323a",
+    "status": "rejected_not_notice",
+    "reason": "homepage_notice_link_not_notice_body",
+    "groups_extracted": 0
+  },
+  {
+    "index": 94,
+    "roll": "20302E",
+    "url": "https://www.thornleighet.com/uploads/5/3/6/0/53607961/annual_admissions_notice_2026-2027.pdf",
+    "document_id": "e4cb3f3962194aad9d58af983d7413b3",
+    "status": "reviewed_numeric",
+    "reason": null,
+    "groups_extracted": 3
+  },
+  {
+    "index": 95,
+    "roll": "20383H",
+    "url": "https://www.hansfieldetns.com/uploads/1/3/2/2/132220631/admissions_notice_2022-23.pdf",
+    "document_id": "4b524bf7b172fa0e502caac0c2ece6df",
+    "status": "reviewed_numeric",
+    "reason": null,
+    "groups_extracted": 2
+  },
+  {
+    "index": 96,
+    "roll": "20397S",
+    "url": "https://stlouisesprimaryschool.ie/?s=admission",
+    "document_id": "3368253452d1fd46e450c8e95759717a",
+    "status": "rejected_not_notice",
+    "reason": "search_results_not_notice",
+    "groups_extracted": 0
+  },
+  {
+    "index": 97,
+    "roll": "20398U",
+    "url": "https://cscns.ie/wp-content/uploads/2024/11/Admissions-Policy-v2022.2023.pdf",
+    "document_id": "c8fa5e8767f9d65c958c0ad57025a6c2",
+    "status": "rejected_not_notice",
+    "reason": "admission_policy_not_notice",
+    "groups_extracted": 0
+  },
+  {
+    "index": 98,
+    "roll": "20401G",
+    "url": "https://www.stepasideetns.ie/Content/2025/9/vg82-Admissions_Notice_20262027_School_Year.pdf",
+    "document_id": "7c7f71feb2474474e6451010a0acd395",
+    "status": "reviewed_numeric",
+    "reason": null,
+    "groups_extracted": 2
+  },
+  {
+    "index": 99,
+    "roll": "20501K",
+    "url": "https://htetns.ie/wp-content/uploads/2026/10/Annual-Admissions-Notice-2027-2028.pdf",
+    "document_id": "300f7a8d59b5f9cf09e4a36f5a28338a",
+    "status": "reviewed_with_source_ambiguity",
+    "reason": null,
+    "groups_extracted": 3
+  },
+  {
+    "index": 100,
+    "roll": "20501K",
+    "url": "https://htetns.ie/wp-content/uploads/2022/09/Admissions-Notice-2022-2023-1.pdf",
+    "document_id": "7c97766b053becb65830f9246a866469",
+    "status": "reviewed_with_source_ambiguity",
+    "reason": null,
+    "groups_extracted": 3
+  },
+  {
+    "index": 101,
+    "roll": "20501K",
+    "url": "https://htetns.ie/wp-content/uploads/2022/09/Admissions-Notice-2022-2023-1.docx",
+    "document_id": "e978858fb33e2cedbe51a469160c3b19",
+    "status": "reviewed_with_source_ambiguity",
+    "reason": null,
+    "groups_extracted": 3
+  },
+  {
+    "index": 102,
+    "roll": "20528H",
+    "url": "https://rivervalleycns.ie/wp-content/uploads/2025/10/RVCNS-Revised-Admission-Notice-in-line-with-New-Admissions-Act-2025_2026.pdf",
+    "document_id": "05c18bf28c01ded8f8d2f4f86695cf08",
+    "status": "reviewed_numeric",
+    "reason": null,
+    "groups_extracted": 1
+  },
+  {
+    "index": 103,
+    "roll": "20529J",
+    "url": "https://broadmeadowcns.ie/wp-content/uploads/2026/02/Admission-Policy-2025-2026.pdf",
+    "document_id": "cba355f8fb1e7896b77fa132b0196c5f",
+    "status": "rejected_not_notice",
+    "reason": "admission_policy_not_notice",
+    "groups_extracted": 0
+  },
+  {
+    "index": 104,
+    "roll": "20529J",
+    "url": "https://broadmeadowcns.ie/wp-content/uploads/2025/09/DRAFTAdmission-Policy-2025_2026.pdf",
+    "document_id": "1f6921dc5c14d043b160babaf4672beb",
+    "status": "rejected_not_notice",
+    "reason": "draft_policy_not_notice",
+    "groups_extracted": 0
+  },
+  {
+    "index": 105,
+    "roll": "20535E",
+    "url": "https://www.cherrywoodetns.ie/_files/ugd/faab38_646be3e14131423a90f2ff2cab051c3f.pdf",
+    "document_id": "c5d57fded047383d7abecfa22941da52",
+    "status": "reviewed_with_source_ambiguity",
+    "reason": null,
+    "groups_extracted": 2
+  },
+  {
+    "index": 106,
+    "roll": "18317F",
+    "url": "https://www.crcschool.ie/assets/files/pdf/admissions_notice_2025_-_2026.pdf",
+    "document_id": "ed46665d50914fca46718cf9958f8d0a",
+    "status": "reviewed_numeric",
+    "reason": null,
+    "groups_extracted": 1
+  },
+  {
+    "index": 107,
+    "roll": "18317F",
+    "url": "https://www.crcschool.ie/assets/files/pdf/2023-2024_admissions_notice.pdf",
+    "document_id": "9b0db98ec0faa27145bb56e03e13caee",
+    "status": "reviewed_numeric",
+    "reason": null,
+    "groups_extracted": 1
+  },
+  {
+    "index": 108,
+    "roll": "18417J",
+    "url": "https://stjosephsprimaryvi.ie/wp-content/uploads/2025/12/Annual-Admission-notice-2026_27.pdf",
+    "document_id": "ef6c27f4542325023f86c5d6dfbbbfca",
+    "status": "reviewed_visual_no_published_numeric",
+    "reason": null,
+    "groups_extracted": 0
+  },
+  {
+    "index": 109,
+    "roll": "19355S",
+    "url": "https://www.bmss.ie/wp-content/uploads/2026/09/Admissions-Notice-2027-28.pdf",
+    "document_id": "40f698c7ec3b2b3b3c14df93cb5eff6a",
+    "status": "reviewed_numeric",
+    "reason": null,
+    "groups_extracted": 4
+  },
+  {
+    "index": 110,
+    "roll": "19382V",
+    "url": "https://www.scoileoin.ie/wp-content/uploads/2022/10/Admissions-Notice-2024.pdf",
+    "document_id": "53c4e7766adb37251fea7cb597d01881",
+    "status": "reviewed_with_source_ambiguity",
+    "reason": null,
+    "groups_extracted": 1
+  },
+  {
+    "index": 111,
+    "roll": "20053J",
+    "url": "https://www.cheeverstownschool.ie/_files/ugd/ed3463_e9e526fbe3164680a79b24df4a8df8f2.pdf",
+    "document_id": "b56e8e2635b6257aa4ad984212e326ca",
+    "status": "reviewed_numeric",
+    "reason": null,
+    "groups_extracted": 2
+  },
+  {
+    "index": 112,
+    "roll": "20375I",
+    "url": "https://www.abacaskilbarrack.ie/_files/ugd/03b971_6ce0c2400289408f873d9cda04591460.pdf",
+    "document_id": "78be7602c4adbe2c4fc87f18f63d02b5",
+    "status": "reviewed_numeric",
+    "reason": null,
+    "groups_extracted": 2
+  },
+  {
+    "index": 113,
+    "roll": "20595W",
+    "url": "https://www.ddletb.ie/wp-content/uploads/2025/07/Updated-July-Admissions-Notice-Lucan-CSS-14.07.2025.docx",
+    "document_id": "a5e5722feaeac443c3eeb2eac47d70ef",
+    "status": "reviewed_numeric",
+    "reason": null,
+    "groups_extracted": 4
+  },
+  {
+    "index": 114,
+    "roll": "20595W",
+    "url": "https://www.ddletb.ie/wp-content/uploads/2026/05/15.5.26-Admissions-Notice-LCSS.docx",
+    "document_id": "5d451c7f8fd532ac01f591f9703a7177",
+    "status": "reviewed_with_source_ambiguity",
+    "reason": null,
+    "groups_extracted": 4
+  },
+  {
+    "index": 115,
+    "roll": "20596B",
+    "url": "https://www.ddletb.ie/wp-content/uploads/2025/07/Updated_JulyAdmissions-Notice-Belmayne-CSS-14.07.2025.docx",
+    "document_id": "899d5d2c04f944698b80fe0fe2ec7b55",
+    "status": "reviewed_numeric",
+    "reason": null,
+    "groups_extracted": 4
+  },
+  {
+    "index": 116,
+    "roll": "20596B",
+    "url": "https://www.ddletb.ie/wp-content/uploads/2025/07/Updated_JulyAdmissions-Notice-Belmayne-CSS-040625.docx",
+    "document_id": "954c3fb011d72895c1d833b4c27098b1",
+    "status": "reviewed_numeric",
+    "reason": null,
+    "groups_extracted": 4
+  },
+  {
+    "index": 117,
+    "roll": "20607D",
+    "url": "https://www.ddletb.ie/wp-content/uploads/2026/05/CitywestCSSAdmissionsPolicy-1.docx",
+    "document_id": "615fa9a5e86aee7cca4f179e45a91bbf",
+    "status": "rejected_not_notice",
+    "reason": "admission_policy_not_notice",
+    "groups_extracted": 0
+  },
+  {
+    "index": 118,
+    "roll": "20608F",
+    "url": "https://www.ddletb.ie/wp-content/uploads/2026/05/BalbrigganCSSAdmissionsPolicy-1-2.docx",
+    "document_id": "7973946d80b7d8a7dabba47f456a17bf",
+    "status": "rejected_not_notice",
+    "reason": "admission_policy_not_notice",
+    "groups_extracted": 0
+  }
+]

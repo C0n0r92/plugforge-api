@@ -1,0 +1,30 @@
+{
+  "roll": "19242F",
+  "capture": {
+    "timestamp": "20231202051642",
+    "original": "https://www.olvinfants.com/annual-admissions-notice.html",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "digest": "NNBSX4S3ZDG5BZSTEXUSDZIBCBZVCPT7"
+  },
+  "original_url": "https://www.olvinfants.com/annual-admissions-notice.html",
+  "archived_url": "https://web.archive.org/web/20231202051642/https://www.olvinfants.com/annual-admissions-notice.html",
+  "attempted_at": "2026-11-08T13:11:41.416183+00:00",
+  "linked_from_capture": null,
+  "http_status": 200,
+  "headers": {
+    "Content-Type": "text/html; charset=UTF-8",
+    "memento-datetime": "Sat, 02 Dec 2023 05:16:42 GMT"
+  },
+  "bytes": 43357,
+  "payload_sha256": "7f438658082644ca31d59a9e86ad17ad2d248ab8f4398fc06ca468342abd26c8",
+  "format": "html",
+  "status": "archived_body_retrieved_requires_manual_evidence_review",
+  "text_file": "database/milestone2/evidence/exact_19242F_7f438658082644ca31d5.txt",
+  "linked_document_candidates": [
+    {
+      "url": "https://www.olvinfants.com/uploads/1/3/8/4/138468462/__2023_2024_annual-admissions-notice.docx.pdf",
+      "label": "Click here for annual ADMISSIONS Notice"
+    }
+  ]
+}

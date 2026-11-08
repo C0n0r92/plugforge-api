@@ -1,0 +1,116 @@
+{
+  "roll": "00752A",
+  "status": "bounded_search_no_new_notice_found",
+  "attempts": [
+    {
+      "url": "https://www.centralmodelseniorschool.ie",
+      "final_url": "https://www.centralmodelseniorschool.ie",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.centralmodelseniorschool.ie/sitemap.xml",
+      "final_url": "https://www.centralmodelseniorschool.ie/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.centralmodelseniorschool.ie/policies",
+      "final_url": "https://www.centralmodelseniorschool.ie/policies",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "POLICIES"
+    },
+    {
+      "url": "https://www.centralmodelseniorschool.ie/_files/ugd/2e4495_f21f0d4bbd97488f9fdf9ea2c81f46bc.pdf",
+      "final_url": "https://d8b9c0b8-74f8-4ee2-8c7c-dca49edcf029.filesusr.com/ugd/2e4495_f21f0d4bbd97488f9fdf9ea2c81f46bc.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "Parental Complaints Procedure"
+    },
+    {
+      "url": "https://www.centralmodelseniorschool.ie/_files/ugd/edbbb3_4d294fff75504dae9a9d8ed58ca49f61.pdf",
+      "final_url": "https://www.centralmodelseniorschool.ie/_files/ugd/edbbb3_4d294fff75504dae9a9d8ed58ca49f61.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Data Protection Policy 2019"
+    },
+    {
+      "url": "https://www.centralmodelseniorschool.ie/pages-sitemap.xml",
+      "final_url": "https://www.centralmodelseniorschool.ie/pages-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.centralmodelseniorschool.ie/admissions",
+      "final_url": "https://www.centralmodelseniorschool.ie/admissions",
+      "status": "ok",
+      "via": "sitemap_link",
+      "label": "Admission URL from sitemap"
+    },
+    {
+      "url": "https://www.centralmodelseniorschool.ie/blog-posts-sitemap.xml",
+      "final_url": "https://www.centralmodelseniorschool.ie/blog-posts-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.centralmodelseniorschool.ie/blog-categories-sitemap.xml",
+      "final_url": "https://www.centralmodelseniorschool.ie/blog-categories-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.centralmodelseniorschool.ie/_files/ugd/edbbb3_612ae76568fd4e66929042fb68e23d68.pdf",
+      "final_url": "https://www.centralmodelseniorschool.ie/_files/ugd/edbbb3_612ae76568fd4e66929042fb68e23d68.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Bí Cineálta Policy  2025"
+    },
+    {
+      "url": "https://www.centralmodelseniorschool.ie/_files/ugd/54617c_ea62f73e2a8947ca9a378bb5a84712fd.pdf",
+      "final_url": "https://d8b9c0b8-74f8-4ee2-8c7c-dca49edcf029.filesusr.com/ugd/54617c_ea62f73e2a8947ca9a378bb5a84712fd.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "Acceptable Use Policy 2026"
+    },
+    {
+      "url": "https://www.centralmodelseniorschool.ie/_files/ugd/edbbb3_af78cf63f40c4b7b9bf5e4eddbf3c7eb.pdf",
+      "final_url": "https://www.centralmodelseniorschool.ie/_files/ugd/edbbb3_af78cf63f40c4b7b9bf5e4eddbf3c7eb.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Assessment Policy"
+    },
+    {
+      "url": "https://www.centralmodelseniorschool.ie/_files/ugd/edbbb3_26c7d2441a414669a42701eef2f5812e.pdf",
+      "final_url": "https://www.centralmodelseniorschool.ie/_files/ugd/edbbb3_26c7d2441a414669a42701eef2f5812e.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Relationship and Sexuality Education Policy"
+    },
+    {
+      "url": "https://www.centralmodelseniorschool.ie/_files/ugd/edbbb3_18db7fd2c0ec43e7991c61867fa6b8b8.pdf",
+      "final_url": "https://www.centralmodelseniorschool.ie/_files/ugd/edbbb3_18db7fd2c0ec43e7991c61867fa6b8b8.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "SEN Policy"
+    },
+    {
+      "url": "https://www.centralmodelseniorschool.ie/_files/ugd/edbbb3_0be28f47534c4967a104d4658998a4e5.pdf",
+      "final_url": "https://www.centralmodelseniorschool.ie/_files/ugd/edbbb3_0be28f47534c4967a104d4658998a4e5.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Whistleblowing Policy"
+    }
+  ],
+  "documents": [],
+  "pending_links": [],
+  "elapsed_seconds": 42.33,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:43:58+0000"
+}

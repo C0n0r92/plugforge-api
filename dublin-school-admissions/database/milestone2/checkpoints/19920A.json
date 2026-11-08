@@ -1,0 +1,291 @@
+{
+  "roll": "19920A",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.stjohnofgodartane.com/enrolment.html",
+      "final_url": "https://www.stjohnofgodartane.com/enrolment.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Enrolment"
+    },
+    {
+      "url": "https://www.stjohnofgodartane.com/uploads/1/0/5/9/105959155/admissions_policy_sept_2025.pdf",
+      "final_url": "https://www.stjohnofgodartane.com/uploads/1/0/5/9/105959155/admissions_policy_sept_2025.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "admissions policy"
+    },
+    {
+      "url": "https://www.stjohnofgodartane.com/useful-websites-for-parents.html",
+      "final_url": "https://www.stjohnofgodartane.com/useful-websites-for-parents.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Useful Websites for Parents"
+    },
+    {
+      "url": "https://www.stjohnofgodartane.com/the-parents-room.html",
+      "final_url": "https://www.stjohnofgodartane.com/the-parents-room.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "The Parents' Room"
+    },
+    {
+      "url": "https://www.stjohnofgodartane.com/sitemap.xml",
+      "final_url": "https://www.stjohnofgodartane.com/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.stjohnofgodartane.com/news/baby-seagull-enrolling-for-september",
+      "final_url": "https://www.stjohnofgodartane.com/news/baby-seagull-enrolling-for-september",
+      "status": "ok",
+      "via": "sitemap_link",
+      "label": "Admission URL from sitemap"
+    },
+    {
+      "url": "https://www.stjohnofgodartane.com/school-policies.html",
+      "final_url": "https://www.stjohnofgodartane.com/school-policies.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Policies"
+    },
+    {
+      "url": "https://www.stjohnofgodartane.com/uploads/1/0/5/9/105959155/admissions_policy_sept_2024.pdf",
+      "final_url": "https://www.stjohnofgodartane.com/uploads/1/0/5/9/105959155/admissions_policy_sept_2024.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stjohnofgodartane.com/uploads/1/0/5/9/105959155/admissions_policy.pdf",
+      "final_url": "https://www.stjohnofgodartane.com/uploads/1/0/5/9/105959155/admissions_policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions Policy"
+    },
+    {
+      "url": "https://www.stjohnofgodartane.com/uploads/1/0/5/9/105959155/admissions_and_participation_policy.pdf",
+      "final_url": "https://www.stjohnofgodartane.com/uploads/1/0/5/9/105959155/admissions_and_participation_policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stjohnofgodartane.com/uploads/1/0/5/9/105959155/health_eating_policy__finished_may_2012.pdf",
+      "final_url": "https://www.stjohnofgodartane.com/uploads/1/0/5/9/105959155/health_eating_policy__finished_may_2012.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stjohnofgodartane.com/uploads/1/0/5/9/105959155/sjg_data_protection_policy_2018_2.pdf",
+      "final_url": "https://www.stjohnofgodartane.com/uploads/1/0/5/9/105959155/sjg_data_protection_policy_2018_2.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stjohnofgodartane.com/uploads/1/0/5/9/105959155/critical_incident_management_policy_and_plan__-_2020.pdf",
+      "final_url": "https://www.stjohnofgodartane.com/uploads/1/0/5/9/105959155/critical_incident_management_policy_and_plan__-_2020.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stjohnofgodartane.com/school-information.html",
+      "final_url": "https://www.stjohnofgodartane.com/school-information.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Information"
+    },
+    {
+      "url": "https://www.stjohnofgodartane.com/parents.html",
+      "final_url": "https://www.stjohnofgodartane.com/parents.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents"
+    },
+    {
+      "url": "https://www.stjohnofgodartane.com/parent-committee.html",
+      "final_url": "https://www.stjohnofgodartane.com/parent-committee.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parent Committee"
+    },
+    {
+      "url": "https://www.stjohnofgodartane.com/",
+      "final_url": "https://www.stjohnofgodartane.com/",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.stjohnofgodartane.com/uploads/1/0/5/9/105959155/admissions_policy_september_2026.pdf",
+      "final_url": "https://www.stjohnofgodartane.com/uploads/1/0/5/9/105959155/admissions_policy_september_2026.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "admissions policy"
+    },
+    {
+      "url": "https://www.stjohnofgodartane.com/uploads/1/0/5/9/105959155/application_form_third_class.pdf",
+      "final_url": "https://www.stjohnofgodartane.com/uploads/1/0/5/9/105959155/application_form_third_class.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Enrolement form for third class"
+    },
+    {
+      "url": "https://www.stjohnofgodartane.com/uploads/1/0/5/9/105959155/application_form_sixth_class.pdf",
+      "final_url": "https://www.stjohnofgodartane.com/uploads/1/0/5/9/105959155/application_form_sixth_class.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Enrolement Form for sixth class"
+    },
+    {
+      "url": "https://www.stjohnofgodartane.com/uploads/1/0/5/9/105959155/application_form_senior_infants.pdf",
+      "final_url": "https://www.stjohnofgodartane.com/uploads/1/0/5/9/105959155/application_form_senior_infants.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Enrolment form for Senior Infants"
+    },
+    {
+      "url": "https://www.stjohnofgodartane.com/uploads/1/0/5/9/105959155/application_form_second_class.pdf",
+      "final_url": "https://www.stjohnofgodartane.com/uploads/1/0/5/9/105959155/application_form_second_class.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Enrolement Form for second class"
+    },
+    {
+      "url": "https://www.stjohnofgodartane.com/uploads/1/0/5/9/105959155/application_form_fourth_class.pdf",
+      "final_url": "https://www.stjohnofgodartane.com/uploads/1/0/5/9/105959155/application_form_fourth_class.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "enrolement form for fourth class"
+    },
+    {
+      "url": "https://www.stjohnofgodartane.com/uploads/1/0/5/9/105959155/application_form_first_class.pdf",
+      "final_url": "https://www.stjohnofgodartane.com/uploads/1/0/5/9/105959155/application_form_first_class.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Enrolement form for First Class"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19920A",
+      "url": "https://www.stjohnofgodartane.com/enrolment.html",
+      "label": "Enrolment",
+      "sha256": "62ae1b10a3d26aa75af6a96987e4ba9e277bb2f1a787b3ffedbc5f1fb650a6dd",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19920A_62ae1b10a3d26aa75af6.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1553
+    },
+    {
+      "roll": "19920A",
+      "url": "https://www.stjohnofgodartane.com/uploads/1/0/5/9/105959155/admissions_policy_sept_2025.pdf",
+      "label": "admissions policy",
+      "sha256": "a808f96c1f5ddf7f98f6d671f15727e616a52e7eff196d74d150354e8d1a2fa1",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19920A_a808f96c1f5ddf7f98f6.txt",
+      "source_file": "database/milestone2/cache/a808f96c1f5ddf7f98f6d671f15727e616a52e7eff196d74d150354e8d1a2fa1.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 25918
+    },
+    {
+      "roll": "19920A",
+      "url": "https://www.stjohnofgodartane.com/uploads/1/0/5/9/105959155/admissions_policy_sept_2024.pdf",
+      "label": "",
+      "sha256": "c178244f59f492c3f6d832461b65b40b09535beea9f3fe637933ed47c7d06a4e",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19920A_c178244f59f492c3f6d8.txt",
+      "source_file": "database/milestone2/cache/c178244f59f492c3f6d832461b65b40b09535beea9f3fe637933ed47c7d06a4e.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 25918
+    },
+    {
+      "roll": "19920A",
+      "url": "https://www.stjohnofgodartane.com/",
+      "label": "School homepage",
+      "sha256": "7ad2f21fc383e29e72902169ba385674a2e90ac1a6db830a4fca125ec26cb4db",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19920A_7ad2f21fc383e29e7290.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 3777
+    },
+    {
+      "roll": "19920A",
+      "url": "https://www.stjohnofgodartane.com/uploads/1/0/5/9/105959155/admissions_policy_september_2026.pdf",
+      "label": "admissions policy",
+      "sha256": "38079363fca97d174ee5a0e98954817646904574033821e3909f8114a6b6ab50",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19920A_38079363fca97d174ee5.txt",
+      "source_file": "database/milestone2/cache/38079363fca97d174ee5a0e98954817646904574033821e3909f8114a6b6ab50.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 23041
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.stjohnofgodartane.com/uploads/1/0/5/9/105959155/application_form_fifth__class.pdf",
+      "label": "enrolement form for fifth class",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stjohnofgodartane.com/uploads/1/0/5/9/105959155/home_learning_policy_2021__1_.pdf",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stjohnofgodartane.com/uploads/1/0/5/9/105959155/acceptable_use_policy_2021.pdf",
+      "label": "ACCEPTABLE USE POLICY",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stjohnofgodartane.com/uploads/1/0/5/9/105959155/social_media_policy.pdf",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stjohnofgodartane.com/uploads/1/0/5/9/105959155/final_sjg_antibullying_policy.pdf",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stjohnofgodartane.com/uploads/1/0/5/9/105959155/critical_incident_management_policy_and_plan_24-25.pdf",
+      "label": "Critical Incident Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stjohnofgodartane.com/uploads/1/0/5/9/105959155/child_friendly_policy.pdf",
+      "label": "child friendly policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stjohnofgodartane.com/uploads/1/0/5/9/105959155/cctv_policy.pdf",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stjohnofgodartane.com/uploads/1/0/5/9/105959155/application_form_sen_class.pdf",
+      "label": "SEN Application Form",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stjohnofgodartane.com/uploads/1/0/5/9/105959155/application_form_junior_infants.pdf",
+      "label": "application form junior infants",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stjohnofgodartane.com/uploads/1/0/5/9/105959155/antibullying_policy.pdf",
+      "label": "anti-bullying policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 70.19,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:47:12+0000"
+}

@@ -1,0 +1,139 @@
+{
+  "roll": "16332O",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.stpatssns.ie/page/Enrolment/9763/Index.html",
+      "final_url": "https://www.stpatssns.ie/page/Enrolment/9763/Index.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Enrolment"
+    },
+    {
+      "url": "https://www.stpatssns.ie/Content/2025/3/nf52-Enrolement_Form_pdf.pdf",
+      "final_url": "https://www.stpatssns.ie/Content/2025/3/nf52-Enrolement_Form_pdf.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Enrolement Form (PDF)"
+    },
+    {
+      "url": "https://www.stpatssns.ie/Content/2025/3/ps56-Admissions_Policy_1.pdf?800",
+      "final_url": "https://www.stpatssns.ie/Content/2025/3/ps56-Admissions_Policy_1.pdf?800",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions Policy"
+    },
+    {
+      "url": "https://storage.googleapis.com/iclasscrm_files/6342/Content/2026/4/ag20-School_Calendar_2627.pdf?29632",
+      "final_url": "https://storage.googleapis.com/iclasscrm_files/6342/Content/2026/4/ag20-School_Calendar_2627.pdf?29632",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Calendar 2026/27"
+    },
+    {
+      "url": "https://www.stpatssns.ie/sitemap.xml",
+      "final_url": "https://www.stpatssns.ie/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.stpatssns.ie/page/Policies/8433/Index.html",
+      "final_url": "https://www.stpatssns.ie/page/Policies/8433/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://storage.googleapis.com/iclasscrm_files/6342/Images/Content/2025/315/zf92-Admissions_Policy__2024.pdf",
+      "final_url": "https://storage.googleapis.com/iclasscrm_files/6342/Images/Content/2025/315/zf92-Admissions_Policy__2024.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions Policy"
+    },
+    {
+      "url": "https://www.stpatssns.ie/Content/2025/11/qp65-Parental_Complaints_Procedure.pdf",
+      "final_url": "https://www.stpatssns.ie/Content/2025/11/qp65-Parental_Complaints_Procedure.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parental Complaints Procedures"
+    },
+    {
+      "url": "https://www.stpatssns.ie/page/Parents-Association/10029/Index.html",
+      "final_url": "https://www.stpatssns.ie/page/Parents-Association/10029/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents' Association"
+    },
+    {
+      "url": "https://www.stpatssns.ie",
+      "final_url": "https://www.stpatssns.ie",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.stpatssns.ie/Content/2025/3/yq96-CodeofBehaviour2024.pdf?532",
+      "final_url": "https://www.stpatssns.ie/Content/2025/3/yq96-CodeofBehaviour2024.pdf?532",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Code of Behaviour Policy"
+    },
+    {
+      "url": "https://www.stpatssns.ie/Content/2025/3/hb14-AdministrationofMedicines2024.pdf?5400",
+      "final_url": "https://www.stpatssns.ie/Content/2025/3/hb14-AdministrationofMedicines2024.pdf?5400",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Administration of Medicines Policy"
+    },
+    {
+      "url": "https://www.stpatssns.ie/Content/2025/9/ua70-Bi_Cinealta.pdf?49885",
+      "final_url": "https://www.stpatssns.ie/Content/2025/9/ua70-Bi_Cinealta.pdf?49885",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Bí Cineálta Policy"
+    },
+    {
+      "url": "https://www.stpatssns.ie/Content/2025/11/yp95-Anti_Bullying_Policy__2025_1.pdf",
+      "final_url": "https://www.stpatssns.ie/Content/2025/11/yp95-Anti_Bullying_Policy__2025_1.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Anti-Bullying Policy"
+    },
+    {
+      "url": "https://www.stpatssns.ie/Content/2025/11/tu77-RSE_Policy__2025.pdf",
+      "final_url": "https://www.stpatssns.ie/Content/2025/11/tu77-RSE_Policy__2025.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "RSE Policy"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "16332O",
+      "url": "https://www.stpatssns.ie/Content/2025/3/ps56-Admissions_Policy_1.pdf?800",
+      "label": "Admissions Policy",
+      "sha256": "8f6a191c6199c224f211f0bd1fa568b89d5cd2f83a83ef6ba263a295b4496e36",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/16332O_8f6a191c6199c224f211.txt",
+      "source_file": "database/milestone2/cache/8f6a191c6199c224f211f0bd1fa568b89d5cd2f83a83ef6ba263a295b4496e36.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 21886
+    },
+    {
+      "roll": "16332O",
+      "url": "https://storage.googleapis.com/iclasscrm_files/6342/Images/Content/2025/315/zf92-Admissions_Policy__2024.pdf",
+      "label": "Admissions Policy",
+      "sha256": "5d17342c3b873450d0d72ed52b5fb47a5ed39eae4f185ebe70c811d5aa52fa54",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/16332O_5d17342c3b873450d0d7.txt",
+      "source_file": "database/milestone2/cache/5d17342c3b873450d0d72ed52b5fb47a5ed39eae4f185ebe70c811d5aa52fa54.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 21884
+    }
+  ],
+  "pending_links": [],
+  "elapsed_seconds": 46.25,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:02:19+0000"
+}

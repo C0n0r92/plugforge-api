@@ -1,0 +1,41 @@
+{
+  "roll": "04992R",
+  "prefix": "https://www.sacredheartballygall.ie/wp-content/uploads/",
+  "tasks": [
+    {
+      "timestamp": "20201028182150",
+      "original": "http://www.sacredheartballygall.ie/wp-content/uploads/2020/10/Annual-Admissions-Notice-2122.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "WDVOH3FSOWG727KDQJIUGDUJAYLUNI6T"
+    },
+    {
+      "timestamp": "20201202084620",
+      "original": "http://www.sacredheartballygall.ie/wp-content/uploads/2020/11/Annual-Admissions-Notice-SHBNS-2122.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "F4W65ZMSK54W2J7OVJUDG2O5W2N3RB4D"
+    },
+    {
+      "timestamp": "20241104041816",
+      "original": "https://www.sacredheartballygall.ie/wp-content/uploads/2024/10/Admissions-Notice-2025-2026-School-Year.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "IEPWXJNFPUBCQ324R6NIC2ANGI5GXHRJ"
+    },
+    {
+      "timestamp": "20250525020958",
+      "original": "https://www.sacredheartballygall.ie/wp-content/uploads/2025/05/Admissions-Notice.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "NP4HYAKNB57LXDGFQR5RPAFUZ4AR7IXA"
+    },
+    {
+      "timestamp": "20260420064633",
+      "original": "https://www.sacredheartballygall.ie/wp-content/uploads/2025/09/Admissions-Notice-2026-2027-School-Year.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "4C6MSBEXP4ITO7SF6VDQHYQZN3SR4524"
+    }
+  ]
+}

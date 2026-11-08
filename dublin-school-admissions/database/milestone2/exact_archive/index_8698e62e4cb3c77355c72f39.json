@@ -1,0 +1,58 @@
+{
+  "roll": "20397S",
+  "original_url": "https://stlouisesprimaryschool.ie/2022/05/24/admission-notice-for-asd-class/",
+  "method": "documented_CDX_exact_URL_all_available_dates",
+  "attempted_at": "2026-11-08T12:43:36.716184+00:00",
+  "params": {
+    "url": "https://stlouisesprimaryschool.ie/2022/05/24/admission-notice-for-asd-class/",
+    "matchType": "exact",
+    "output": "json",
+    "fl": "timestamp,original,mimetype,statuscode,digest",
+    "filter": "statuscode:200",
+    "collapse": "digest",
+    "limit": "200",
+    "showResumeKey": "true"
+  },
+  "earliest_year_cutoff": null,
+  "captures": [
+    {
+      "timestamp": "20220630214508",
+      "original": "https://stlouisesprimaryschool.ie/2022/05/24/admission-notice-for-asd-class/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "R5FU3NMLMXW5IBWEKSJKONFPITPXDBQ4"
+    },
+    {
+      "timestamp": "20221208151318",
+      "original": "https://stlouisesprimaryschool.ie/2022/05/24/admission-notice-for-asd-class/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "XOK5F2LGCHWZCBGFBW6VIXNNBOAW6VHF"
+    },
+    {
+      "timestamp": "20230325095826",
+      "original": "https://stlouisesprimaryschool.ie/2022/05/24/admission-notice-for-asd-class/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "PUQ3QFC6OL23FZ4JBV2QTSAWZMHMXEZY"
+    }
+  ],
+  "pages": [
+    {
+      "at": "2026-11-08T12:43:41.531623+00:00",
+      "http_status": 200,
+      "params": {
+        "url": "https://stlouisesprimaryschool.ie/2022/05/24/admission-notice-for-asd-class/",
+        "matchType": "exact",
+        "output": "json",
+        "fl": "timestamp,original,mimetype,statuscode,digest",
+        "filter": "statuscode:200",
+        "collapse": "digest",
+        "limit": "200",
+        "showResumeKey": "true"
+      }
+    }
+  ],
+  "status": "index_complete",
+  "capture_count": 3
+}

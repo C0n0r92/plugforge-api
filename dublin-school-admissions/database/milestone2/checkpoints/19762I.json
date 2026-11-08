@@ -1,0 +1,312 @@
+{
+  "roll": "19762I",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.helens.ie/our-school/enrollment/",
+      "final_url": "https://www.helens.ie/our-school/enrollment/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Enrolment"
+    },
+    {
+      "url": "https://www.helens.ie/documentlink/103/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/332/docletter/20251121032917_94_ANNUAL_ADMISSION_NOTICE2026.docx.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "ANNUAL ADMISSION NOTICE2026.docx.pdf"
+    },
+    {
+      "url": "https://www.helens.ie/admin/?open=/our-school/enrollment/",
+      "final_url": "https://www.helens.ie/admin/?open=/our-school/enrollment/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.helens.ie/sitemap.xml",
+      "final_url": "https://www.helens.ie/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.helens.ie/parents/school-uniform/",
+      "final_url": "https://www.helens.ie/parents/school-uniform/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School uniform"
+    },
+    {
+      "url": "https://www.helens.ie/parents/school-closures/",
+      "final_url": "https://www.helens.ie/parents/school-closures/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Calendar"
+    },
+    {
+      "url": "https://www.helens.ie/parents/parent-association/",
+      "final_url": "https://www.helens.ie/parents/parent-association/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parent Association"
+    },
+    {
+      "url": "https://www.helens.ie/parents/newsletter/",
+      "final_url": "https://www.helens.ie/parents/newsletter/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Newsletter"
+    },
+    {
+      "url": "https://www.helens.ie/parents/letters-to-parents/",
+      "final_url": "https://www.helens.ie/parents/letters-to-parents/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Letters to Parents"
+    },
+    {
+      "url": "https://www.helens.ie/letterlink/32/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/332/docletter/20210118114143_48_letterreenrolment.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "letterreenrolment"
+    },
+    {
+      "url": "https://www.helens.ie/parents/",
+      "final_url": "https://www.helens.ie/parents/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents Tuismitheoirí"
+    },
+    {
+      "url": "https://www.helens.ie/our-school/policies/",
+      "final_url": "https://www.helens.ie/our-school/policies/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.helens.ie/documentlink/85/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/332/docletter/20211213011922_7_StHelensSNS_Admission_Policy_2022.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "StHelensSNS Admission Policy 2022"
+    },
+    {
+      "url": "https://www.helens.ie/letterlink/50/?open=true&download=true",
+      "final_url": "https://swdcache.b-cdn.net/332/docletter/20260318113115_99_Calendar2026-2027.docx.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.helens.ie/letterlink/45/?open=true&download=true",
+      "final_url": "https://swdcache.b-cdn.net/332/docletter/20220107033738_82_StHelensSNSapplicationform.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.helens.ie/letterlink/44/?open=true&download=true",
+      "final_url": "https://swdcache.b-cdn.net/332/docletter/20211020110528_49_St.Helens_Newsletter_June_2021_.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.helens.ie/letterlink/32/?open=true&download=true",
+      "final_url": "https://swdcache.b-cdn.net/332/docletter/20210118114143_48_letterreenrolment.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.helens.ie/letterlink/12/?open=true&download=true",
+      "final_url": "https://swdcache.b-cdn.net/332/letters/Cyber Safety - Points for Parents.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.helens.ie/letterlink/12/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/332/letters/Cyber Safety - Points for Parents.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Cyber safety - Points for Parents"
+    },
+    {
+      "url": "https://www.helens.ie/documentlink/99/?open=true&download=true",
+      "final_url": "https://swdcache.b-cdn.net/332/docletter/20250116032201_13_CHildprotectionprocedures.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.helens.ie/documentlink/85/?open=true&download=true",
+      "final_url": "https://swdcache.b-cdn.net/332/docletter/20211213011922_7_StHelensSNS_Admission_Policy_2022.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.helens.ie/documentlink/63/?open=true&download=true",
+      "final_url": "https://swdcache.b-cdn.net/332/docletter/20201110023018_8_sthelenscodeofbehaviour2020.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.helens.ie/documentlink/62/?open=true&download=true",
+      "final_url": "https://swdcache.b-cdn.net/332/docletter/20201110022923_88_StHelensInternetAcceptableUsePolicy.doc.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.helens.ie/documentlink/33/?open=true&download=true",
+      "final_url": "https://swdcache.b-cdn.net/332/downloads/dataprotectionpolicy2019.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": ""
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19762I",
+      "url": "https://www.helens.ie/our-school/enrollment/",
+      "label": "Enrolment",
+      "sha256": "93f1ba9308ef05d92d904aec9d315578f1290c468257518a51d90ad1b1b4a622",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19762I_93f1ba9308ef05d92d90.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 401
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.helens.ie/documentlink/25/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.helens.ie/documentlink/23/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.helens.ie/documentlink/106/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.helens.ie/documentlink/104/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.helens.ie/documentlink/103/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.helens.ie/documentlink/102/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.helens.ie/documentlink/101/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.helens.ie/documentlink/100/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.helens.ie/covid-19-links/covid-19-letters-to-parents/",
+      "label": "Covid-19 Letters to Parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.helens.ie/admin/?open=/parents/school-uniform/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.helens.ie/admin/?open=/parents/school-closures/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.helens.ie/admin/?open=/parents/parent-association/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.helens.ie/admin/?open=/parents/newsletter/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.helens.ie/admin/?open=/parents/letters-to-parents/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.helens.ie/admin/?open=/parents/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.helens.ie/admin/?open=/our-school/policies/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.helens.ie/",
+      "label": "School homepage",
+      "via": "home"
+    },
+    {
+      "url": "https://www.helens.ie/documentlink/33/?open=true",
+      "label": "dataprotectionpolicy2019",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.helens.ie/documentlink/106/?open=true",
+      "label": "bicinealtapolicy2025.docx.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.helens.ie/documentlink/62/?open=true",
+      "label": "StHelensInternetAcceptableUsePolicy.doc",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.helens.ie/documentlink/23/?open=true",
+      "label": "Homework Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.helens.ie/documentlink/101/?open=true",
+      "label": "SthelensAntiBullyingPolicy.doc.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.helens.ie/cmsfiles/policies/privacy/",
+      "label": "Website Privacy Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.helens.ie/cmsfiles/policies/cookie/",
+      "label": "Cookie Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 72.21,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:09:18+0000"
+}

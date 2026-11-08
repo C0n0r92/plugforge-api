@@ -1,0 +1,402 @@
+{
+  "roll": "19575J",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.stmarysjunior.ie/news-297/news/st-marys-jns-admission-notice-20262027/?googletranslate=true",
+      "final_url": "https://www.stmarysjunior.ie/news-297/news/st-marys-jns-admission-notice-20262027/?googletranslate=true",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "https://swdcache.b-cdn.net/559/downloads/20260107053704_39_6155-StMarysJNSAnnualAdmissionNotice2627.pdf",
+      "final_url": "https://swdcache.b-cdn.net/559/downloads/20260107053704_39_6155-StMarysJNSAnnualAdmissionNotice2627.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stmarysjunior.ie/news-297/news/st-marys-jns-admission-notice-20262027/",
+      "final_url": "https://www.stmarysjunior.ie/news-297/news/st-marys-jns-admission-notice-20262027/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "St Mary's JNS Admission Notice 2026/2027"
+    },
+    {
+      "url": "https://www.stmarysjunior.ie/documentlink/281/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/559/downloads/20260107053704_39_6155-StMarysJNSAnnualAdmissionNotice2627.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Admissions Notice 2026"
+    },
+    {
+      "url": "https://www.stmarysjunior.ie/admin/?open=/news-297/news/st-marys-jns-admission-notice-20262027/?googletranslate=true",
+      "final_url": "https://www.stmarysjunior.ie/admin/?open=/news-297/news/st-marys-jns-admission-notice-20262027/?googletranslate=true",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.stmarysjunior.ie/admin/?open=/news-297/news/st-marys-jns-admission-notice-20262027/",
+      "final_url": "https://www.stmarysjunior.ie/admin/?open=/news-297/news/st-marys-jns-admission-notice-20262027/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.stmarysjunior.ie/news-297/news/st-marys-jns-admission-notice-20272028/?googletranslate=true",
+      "final_url": "https://www.stmarysjunior.ie/news-297/news/st-marys-jns-admission-notice-20272028/?googletranslate=true",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "https://swdcache.b-cdn.net/559/downloads/20261001053605_42_3682-StMarysJNSAnnualAdmissionNotice2728.pdf",
+      "final_url": "https://swdcache.b-cdn.net/559/downloads/20261001053605_42_3682-StMarysJNSAnnualAdmissionNotice2728.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stmarysjunior.ie/news-297/news/st-marys-jns-admission-notice-20272028/",
+      "final_url": "https://www.stmarysjunior.ie/news-297/news/st-marys-jns-admission-notice-20272028/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "St Mary's JNS Admission Notice 2027/2028"
+    },
+    {
+      "url": "https://www.stmarysjunior.ie/admin/?open=/news-297/news/st-marys-jns-admission-notice-20272028/?googletranslate=true",
+      "final_url": "https://www.stmarysjunior.ie/admin/?open=/news-297/news/st-marys-jns-admission-notice-20272028/?googletranslate=true",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.stmarysjunior.ie/admin/?open=/news-297/news/st-marys-jns-admission-notice-20272028/",
+      "final_url": "https://www.stmarysjunior.ie/admin/?open=/news-297/news/st-marys-jns-admission-notice-20272028/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.stmarysjunior.ie/documentlink/303/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/559/downloads/20261001053605_42_3682-StMarysJNSAnnualAdmissionNotice2728.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Admission Noties"
+    },
+    {
+      "url": "https://www.stmarysjunior.ie/sitemap.xml",
+      "final_url": "https://www.stmarysjunior.ie/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.stmarysjunior.ie/parents-area/useful-websites/",
+      "final_url": "https://www.stmarysjunior.ie/parents-area/useful-websites/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Useful Websites"
+    },
+    {
+      "url": "https://www.stmarysjunior.ie/parents-area/useful-websites/?googletranslate=true",
+      "final_url": "https://www.stmarysjunior.ie/parents-area/useful-websites/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stmarysjunior.ie/parents-area/school-letters/",
+      "final_url": "https://www.stmarysjunior.ie/parents-area/school-letters/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Letters"
+    },
+    {
+      "url": "https://www.stmarysjunior.ie/parents-area/school-letters/?googletranslate=true",
+      "final_url": "https://www.stmarysjunior.ie/parents-area/school-letters/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stmarysjunior.ie/parents-area/school-closures/",
+      "final_url": "https://www.stmarysjunior.ie/parents-area/school-closures/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Closures"
+    },
+    {
+      "url": "https://www.stmarysjunior.ie/parents-area/school-closures/?googletranslate=true",
+      "final_url": "https://www.stmarysjunior.ie/parents-area/school-closures/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stmarysjunior.ie/parents-area/maths-at-home/",
+      "final_url": "https://www.stmarysjunior.ie/parents-area/maths-at-home/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Maths at Home"
+    },
+    {
+      "url": "https://www.stmarysjunior.ie/parents-area/maths-at-home/?googletranslate=true",
+      "final_url": "https://www.stmarysjunior.ie/parents-area/maths-at-home/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stmarysjunior.ie/parents-area/hscl-teacher/",
+      "final_url": "https://www.stmarysjunior.ie/parents-area/hscl-teacher/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "HSCL Teacher"
+    },
+    {
+      "url": "https://www.stmarysjunior.ie/securedoclink/47/?open=true",
+      "final_url": "https://view.officeapps.live.com/op/embed.aspx?src=https://www.stmarysjunior.ie/cmsfiles/items/securedocs/StMarysJNSAnnualAdmissionNotice20222023.docx",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "St. Mary's JNS Annual Admission Notice 2022/2023"
+    },
+    {
+      "url": "https://www.stmarysjunior.ie/securedoclink/48/?open=true",
+      "final_url": "https://view.officeapps.live.com/op/embed.aspx?src=https://www.stmarysjunior.ie/cmsfiles/items/securedocs/StMarysJNSAnnualAdmissionNotice20232024.docx",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "St Marys JNS Annual Admissions Notice 2023/2024"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19575J",
+      "url": "https://www.stmarysjunior.ie/parents-area/hscl-teacher/",
+      "label": "HSCL Teacher",
+      "sha256": "eb5b40b92ece59a6f1236f7ae3b808ac545423c6858bd4f542746ecd4960ba72",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19575J_eb5b40b92ece59a6f123.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1082
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.stmarysjunior.ie/securedoclink/49/?open=true",
+      "label": "St Mary's JNS Annual Admissions Notice 2024/2025",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmarysjunior.ie/securedoclink/46/?open=true",
+      "label": "Download",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmarysjunior.ie/securedoclink/45/?open=true",
+      "label": "Download",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmarysjunior.ie/securedoclink/39/?open=true",
+      "label": "Parent Association First Meeting of the School Year",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmarysjunior.ie/securedoclink/30/?open=true",
+      "label": "Upcoming Parents' Association Training",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmarysjunior.ie/parents-area/hscl-teacher/?googletranslate=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmarysjunior.ie/parents-area/hscl-teacher/?folder309ID=8",
+      "label": "Local and Community Support Services",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmarysjunior.ie/parents-area/hscl-teacher/?folder309ID=42",
+      "label": "Parent Association Committee",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmarysjunior.ie/parents-area/hscl-teacher/?folder309ID=4",
+      "label": "Support for Using Aladdin Connect",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmarysjunior.ie/parents-area/hscl-teacher/?folder309ID=17",
+      "label": "HSCL Initiatives",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmarysjunior.ie/parents-area/hscl-teacher/?folder309ID=12",
+      "label": "Supporting Your Child's Learning at Home",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmarysjunior.ie/parents-area/hscl-teacher/?folder309ID=11",
+      "label": "Useful Information and Support for Parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmarysjunior.ie/parents-area/hscl-teacher/?folder309ID=1",
+      "label": "St Mary's Maths Eyes Challenges",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmarysjunior.ie/parents-area/booklists/",
+      "label": "Booklists",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmarysjunior.ie/parents-area/",
+      "label": "Parents Area Tuismitheoirí",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmarysjunior.ie/our-school/policies/",
+      "label": "Policies",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmarysjunior.ie/news-297/our-school/policies/",
+      "label": "https://www.stmarysjunior.ie/our-school/policies/",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmarysjunior.ie/documentlink/303/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmarysjunior.ie/documentlink/302/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmarysjunior.ie/documentlink/301/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmarysjunior.ie/documentlink/300/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmarysjunior.ie/documentlink/299/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmarysjunior.ie/documentlink/298/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmarysjunior.ie/documentlink/297/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmarysjunior.ie/documentlink/296/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmarysjunior.ie/documentlink/295/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmarysjunior.ie/documentlink/294/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmarysjunior.ie/documentlink/293/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmarysjunior.ie/documentlink/292/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmarysjunior.ie/documentlink/281/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmarysjunior.ie/admin/?open=/parents-area/useful-websites/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmarysjunior.ie/admin/?open=/parents-area/useful-websites/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmarysjunior.ie/admin/?open=/parents-area/school-letters/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmarysjunior.ie/admin/?open=/parents-area/school-letters/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmarysjunior.ie/admin/?open=/parents-area/school-closures/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmarysjunior.ie/admin/?open=/parents-area/school-closures/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmarysjunior.ie/admin/?open=/parents-area/maths-at-home/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmarysjunior.ie/admin/?open=/parents-area/maths-at-home/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmarysjunior.ie/admin/?open=/parents-area/hscl-teacher/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmarysjunior.ie",
+      "label": "School homepage",
+      "via": "home"
+    },
+    {
+      "url": "https://www.stmarysjunior.ie/cmsfiles/policies/privacy/",
+      "label": "Website Privacy Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmarysjunior.ie/cmsfiles/policies/cookie/",
+      "label": "Cookie Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 55.51,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:07:25+0000"
+}

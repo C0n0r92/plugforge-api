@@ -1,0 +1,202 @@
+{
+  "roll": "05933G",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.georgeshillschool.ie/?s=admission",
+      "final_url": "https://www.georgeshillschool.ie/?s=admission",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Public site search form"
+    },
+    {
+      "url": "https://www.georgeshillschool.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://www.georgeshillschool.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "http_404",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://www.georgeshillschool.ie/?page_id=2639",
+      "final_url": "https://www.georgeshillschool.ie/?page_id=2639",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Enrolement form Senior Infants to 6th"
+    },
+    {
+      "url": "https://www.georgeshillschool.ie/?page_id=2636",
+      "final_url": "https://www.georgeshillschool.ie/?page_id=2636",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Enrolement Form Junior Infants"
+    },
+    {
+      "url": "https://www.georgeshillschool.ie/?page_id=2630",
+      "final_url": "https://www.georgeshillschool.ie/?page_id=2630",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Enrolement form AS class"
+    },
+    {
+      "url": "https://www.georgeshillschool.ie/?page_id=2617",
+      "final_url": "https://www.georgeshillschool.ie/?page_id=2617",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Enrolment Forms"
+    },
+    {
+      "url": "https://www.georgeshillschool.ie/?attachment_id=2640",
+      "final_url": "https://www.georgeshillschool.ie/?attachment_id=2640",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Enrolment-Form-Sr-to-6th"
+    },
+    {
+      "url": "https://www.georgeshillschool.ie/wp-content/uploads/2026/10/Enrolment-Form-Sr-to-6th.docx",
+      "final_url": "https://www.georgeshillschool.ie/wp-content/uploads/2026/10/Enrolment-Form-Sr-to-6th.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Enrolment-Form-Sr-to-6th"
+    },
+    {
+      "url": "https://www.georgeshillschool.ie/?attachment_id=2637",
+      "final_url": "https://www.georgeshillschool.ie/?attachment_id=2637",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Enrolment-Form-Junior-Infants"
+    },
+    {
+      "url": "https://www.georgeshillschool.ie/wp-content/uploads/2026/10/Enrolment-Form-Junior-Infants-1.docx",
+      "final_url": "https://www.georgeshillschool.ie/wp-content/uploads/2026/10/Enrolment-Form-Junior-Infants-1.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Enrolment-Form-Junior-Infants"
+    },
+    {
+      "url": "https://www.georgeshillschool.ie/?attachment_id=2631",
+      "final_url": "https://www.georgeshillschool.ie/?attachment_id=2631",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Enrolment-Form-AS-class"
+    },
+    {
+      "url": "https://www.georgeshillschool.ie/wp-content/uploads/2026/10/Enrolment-Form-AS-class.docx",
+      "final_url": "https://www.georgeshillschool.ie/wp-content/uploads/2026/10/Enrolment-Form-AS-class.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Enrolment-Form-AS-class"
+    },
+    {
+      "url": "https://www.georgeshillschool.ie/?attachment_id=2620",
+      "final_url": "https://www.georgeshillschool.ie/?attachment_id=2620",
+      "status": "http_404",
+      "via": "school_public_link",
+      "label": "Enrolment Form Sr to 6th"
+    },
+    {
+      "url": "https://www.georgeshillschool.ie/?attachment_id=2619",
+      "final_url": "https://www.georgeshillschool.ie/?attachment_id=2619",
+      "status": "http_404",
+      "via": "school_public_link",
+      "label": "Enrolment Form Junior Infants"
+    },
+    {
+      "url": "https://www.georgeshillschool.ie/?attachment_id=2618",
+      "final_url": "https://www.georgeshillschool.ie/?attachment_id=2618",
+      "status": "http_404",
+      "via": "school_public_link",
+      "label": "Enrolment-Form-Early-Intervention-and-AS-class"
+    },
+    {
+      "url": "https://www.georgeshillschool.ie/wp-content/uploads/2026/01/Admissions-Policy-2026.docx",
+      "final_url": "https://www.georgeshillschool.ie/wp-content/uploads/2026/01/Admissions-Policy-2026.docx",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://www.georgeshillschool.ie/index.php/sitemap-detail-index.xml",
+      "final_url": "https://www.georgeshillschool.ie/sitemap-detail-index.xml/",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.georgeshillschool.ie/?page_id=927",
+      "final_url": "https://www.georgeshillschool.ie/?page_id=927",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.georgeshillschool.ie/wp-content/uploads/2024/11/Code-of-Positive-Behaviour.docx",
+      "final_url": "https://www.georgeshillschool.ie/wp-content/uploads/2024/11/Code-of-Positive-Behaviour.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download"
+    },
+    {
+      "url": "https://www.georgeshillschool.ie/?page_id=316",
+      "final_url": "https://www.georgeshillschool.ie/?page_id=316",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents"
+    },
+    {
+      "url": "https://www.georgeshillschool.ie/?page_id=2430",
+      "final_url": "https://www.georgeshillschool.ie/?page_id=2430",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions Policy"
+    },
+    {
+      "url": "https://www.georgeshillschool.ie/?attachment_id=2608",
+      "final_url": "https://www.georgeshillschool.ie/?attachment_id=2608",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions-Policy-2026"
+    },
+    {
+      "url": "https://www.georgeshillschool.ie",
+      "final_url": "https://www.georgeshillschool.ie",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.georgeshillschool.ie/?page_id=2395",
+      "final_url": "https://www.georgeshillschool.ie/?page_id=2395",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Anti-bullying Policy"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "05933G",
+      "url": "https://www.georgeshillschool.ie/wp-content/uploads/2026/01/Admissions-Policy-2026.docx",
+      "label": "Prior school admissions section",
+      "sha256": "5973399ed8ed1502777d2595e2c477e127dddb9980e345d0a49878d2ac8267d1",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/05933G_5973399ed8ed1502777d.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 30378
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.georgeshillschool.ie/wp-content/uploads/2022/10/Anti-bullying-Policy-2022.docx",
+      "label": "Anti-bullying-Policy-2022",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.georgeshillschool.ie/?page_id=1544",
+      "label": "Privacy Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 84.78,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:01:38+0000"
+}

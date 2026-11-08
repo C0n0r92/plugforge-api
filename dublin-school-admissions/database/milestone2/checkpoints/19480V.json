@@ -1,0 +1,217 @@
+{
+  "roll": "19480V",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.stpatrickscathedral.ie/wp-content/uploads/2018/09/dublin-christ-church-cathedral-admission-ticket-in-dublin-485062.jpg",
+      "final_url": "https://www.stpatrickscathedral.ie/wp-content/uploads/2018/09/dublin-christ-church-cathedral-admission-ticket-in-dublin-485062.jpg",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "dublin-christ-church-cathedral-admission-ticket-in-dublin-485062"
+    },
+    {
+      "url": "https://www.stpatrickscathedral.ie/worship/music/choirschool/admissions/",
+      "final_url": "https://www.stpatrickscathedral.ie/worship/music/choirschool/admissions/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "How to apply"
+    },
+    {
+      "url": "https://www.stpatrickscathedral.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://www.stpatrickscathedral.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://www.stpatrickscathedral.ie/page/2/?s=admission",
+      "final_url": "https://www.stpatrickscathedral.ie/page/2/?s=admission",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "2"
+    },
+    {
+      "url": "https://www.stpatrickscathedral.ie/?s=admission",
+      "final_url": "https://www.stpatrickscathedral.ie/?s=admission",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Public site search form"
+    },
+    {
+      "url": "https://stpatrickscathedralchoirschool.eschools.co.uk/storage/secure_download/Z3RMWFNUbU1SMUoxQ2RITmRXcFVUdz09",
+      "final_url": "https://stpatrickscathedralchoirschool.eschools.co.uk/storage/secure_download/Z3RMWFNUbU1SMUoxQ2RITmRXcFVUdz09",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://www.stpatrickscathedral.ie/worship/music/choirschool/admissions/girl-chorister-parent-handbook-20161/",
+      "final_url": "https://www.stpatrickscathedral.ie/worship/music/choirschool/admissions/girl-chorister-parent-handbook-20161/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions/policy URL from public sitemap"
+    },
+    {
+      "url": "https://www.stpatrickscathedral.ie/wp-content/uploads/2016/05/Girl-Chorister-Parent-Handbook-20161.pdf",
+      "final_url": "https://www.stpatrickscathedral.ie/wp-content/uploads/2016/05/Girl-Chorister-Parent-Handbook-20161.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Girl Chorister Parent Handbook 2016(1)"
+    },
+    {
+      "url": "https://www.stpatrickscathedral.ie/worship/music/choirschool/admissions/chorister-parent-handbook-20162/",
+      "final_url": "https://www.stpatrickscathedral.ie/worship/music/choirschool/admissions/chorister-parent-handbook-20162/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions/policy URL from public sitemap"
+    },
+    {
+      "url": "https://www.stpatrickscathedral.ie/wp-content/uploads/2016/05/Chorister-Parent-Handbook-20162.pdf",
+      "final_url": "https://www.stpatrickscathedral.ie/wp-content/uploads/2016/05/Chorister-Parent-Handbook-20162.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Chorister Parent Handbook 2016(2)"
+    },
+    {
+      "url": "https://www.stpatrickscathedral.ie/worship/music/choirschool/admissions/passiontide-flier-2018/",
+      "final_url": "https://www.stpatrickscathedral.ie/worship/music/choirschool/admissions/passiontide-flier-2018/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions/policy URL from public sitemap"
+    },
+    {
+      "url": "https://www.stpatrickscathedral.ie/wp-content/uploads/2018/02/Passiontide-Flier-2018.pdf",
+      "final_url": "https://www.stpatrickscathedral.ie/wp-content/uploads/2018/02/Passiontide-Flier-2018.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Passiontide Flier 2018"
+    },
+    {
+      "url": "https://www.stpatrickscathedral.ie/worship/music/choirschool/admissions/untitled-design-41/",
+      "final_url": "https://www.stpatrickscathedral.ie/worship/music/choirschool/admissions/untitled-design-41/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions/policy URL from public sitemap"
+    },
+    {
+      "url": "https://www.stpatrickscathedral.ie/worship/music/choirschool/admissions/quire-2/",
+      "final_url": "https://www.stpatrickscathedral.ie/worship/music/choirschool/admissions/quire-2/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions/policy URL from public sitemap"
+    },
+    {
+      "url": "https://www.stpatrickscathedral.ie/sitemap.xml",
+      "final_url": "https://www.stpatrickscathedral.ie/sitemap_index.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.stpatrickscathedral.ie/post-sitemap.xml",
+      "final_url": "https://www.stpatrickscathedral.ie/post-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.stpatrickscathedral.ie/page-sitemap.xml",
+      "final_url": "https://www.stpatrickscathedral.ie/page-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.stpatrickscathedral.ie/attachment-sitemap.xml",
+      "final_url": "https://www.stpatrickscathedral.ie/attachment-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://stpatrickscathedralchoirschool.eschools.co.uk/web",
+      "final_url": "https://stpatrickscathedralchoirschool.eschools.co.uk/web",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://stpatrickscathedralchoirschool.eschools.co.uk/web/policies/651738",
+      "final_url": "https://stpatrickscathedralchoirschool.eschools.co.uk/web/policies/651738",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://stpatrickscathedralchoirschool.eschools.co.uk/web/parents_association/651741",
+      "final_url": "https://stpatrickscathedralchoirschool.eschools.co.uk/web/parents_association/651741",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents' Association"
+    },
+    {
+      "url": "https://stpatrickscathedralchoirschool.eschools.co.uk/storage/secure_download/QWFmd1pUZ2syMGpOTFNmYzVmdlpLUT09",
+      "final_url": "https://stpatrickscathedralchoirschool.eschools.co.uk/storage/secure_download/QWFmd1pUZ2syMGpOTFNmYzVmdlpLUT09",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Code of Behaviour.docx"
+    },
+    {
+      "url": "https://stpatrickscathedralchoirschool.eschools.co.uk/storage/secure_download/NlFyKzJuZDFJNVduUWlmN1l6dEZXdz09",
+      "final_url": "https://stpatrickscathedralchoirschool.eschools.co.uk/storage/secure_download/NlFyKzJuZDFJNVduUWlmN1l6dEZXdz09",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Child Safeguarding Statement.docx"
+    },
+    {
+      "url": "https://stpatrickscathedralchoirschool.eschools.co.uk/sitemap.xml",
+      "final_url": "https://stpatrickscathedralchoirschool.eschools.co.uk/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19480V",
+      "url": "https://stpatrickscathedralchoirschool.eschools.co.uk/storage/secure_download/Z3RMWFNUbU1SMUoxQ2RITmRXcFVUdz09",
+      "label": "Prior school admissions section",
+      "sha256": "34202fd9171b1a72c84b0779a0d24f8ac5dc23464ce4d607f56f25072f697582",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/19480V_34202fd9171b1a72c84b.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 23359
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://stpatrickscathedralchoirschool.eschools.co.uk/storage/secure_download/eVRIUHF4Njdid3pMNk9BRmlVbXJuQT09",
+      "label": "Health and Safety Policy.docx",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatrickscathedralchoirschool.eschools.co.uk/storage/secure_download/c012YnRpSGx0Q0x1UmJKQ1ZwTFl2dz09",
+      "label": "Bí Cinalta Anti-bullying Policy.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatrickscathedralchoirschool.eschools.co.uk/storage/secure_download/WE9rdi9JQ1RGdW5Yam5CNVdvOWxjdz09",
+      "label": "Healthy Eating Policy.docx",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatrickscathedralchoirschool.eschools.co.uk/storage/secure_download/Vzh0Kzd4b1RBd0puS0MyWWtJOFI3QT09",
+      "label": "Child Protection Policy.docx",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stpatrickscathedralchoirschool.eschools.co.uk/storage/secure_download/V3Y2eTUvMk9TbHNhTGRXbmRBcTJuZz09",
+      "label": "Attendance Policy.docx",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 97.15,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:07:05+0000"
+}

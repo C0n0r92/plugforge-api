@@ -1,0 +1,223 @@
+{
+  "roll": "18863J",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://benincasa.ie/benincasa-admissions-notice-2027-2028/",
+      "final_url": "https://benincasa.ie/wp-content/uploads/2026/09/Benincasa-Admissions-Notice-2027-2028.pdf",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Benincasa Admissions Notice 2027 - 2028"
+    },
+    {
+      "url": "https://benincasa.ie/admission-policy-of-benincasa-school-2026-27/",
+      "final_url": "https://benincasa.ie/wp-content/uploads/2026/09/Admission-Policy-of-Benincasa-School-2026-27.pdf",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions Policy 2026-2027"
+    },
+    {
+      "url": "https://benincasa.ie",
+      "final_url": "https://benincasa.ie",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://benincasa.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://benincasa.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://benincasa.ie/wp-content/uploads/2026/02/Admission-Policy-of-Benincasa-School-2025.pdf",
+      "final_url": "https://benincasa.ie/wp-content/uploads/2026/02/Admission-Policy-of-Benincasa-School-2025.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admission Policy of Benincasa School 2025"
+    },
+    {
+      "url": "https://benincasa.ie/wp-content/uploads/2025/11/Admissions-Policy-Benincasa.pdf",
+      "final_url": "https://benincasa.ie/wp-content/uploads/2025/11/Admissions-Policy-Benincasa.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Policy Benincasa"
+    },
+    {
+      "url": "https://benincasa.ie/wp-content/uploads/2025/10/Admissions-Policy17.pdf",
+      "final_url": "https://benincasa.ie/wp-content/uploads/2025/10/Admissions-Policy17.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions-Policy17"
+    },
+    {
+      "url": "https://benincasa.ie/wp-content/uploads/2026/09/Admission-Policy-of-Benincasa-School-2026-27.pdf",
+      "final_url": "https://benincasa.ie/wp-content/uploads/2026/09/Admission-Policy-of-Benincasa-School-2026-27.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admission Policy of Benincasa School 2026-27"
+    },
+    {
+      "url": "https://benincasa.ie/sitemap_index.xml",
+      "final_url": "https://benincasa.ie/sitemap_index.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://benincasa.ie/school-policies/",
+      "final_url": "https://benincasa.ie/school-policies/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Policies"
+    },
+    {
+      "url": "https://benincasa.ie/notification-of-annual-review-of-bi-cinealta-policy/",
+      "final_url": "https://benincasa.ie/wp-content/uploads/2026/09/Notification-of-Annual-Review-of-Bi-Cinealta-Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Annual Review of Bí Cineálta Policy"
+    },
+    {
+      "url": "https://benincasa.ie/revised-parents-complaints-procedure/",
+      "final_url": "https://benincasa.ie/wp-content/uploads/2025/10/Revised-Parents-Complaints-Procedure.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Revised Parents’ Complaints Procedure"
+    },
+    {
+      "url": "https://benincasa.ie/page-sitemap.xml",
+      "final_url": "https://benincasa.ie/page-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://benincasa.ie/policy-on-management-of-actual-or-potential-aggression16/",
+      "final_url": "https://benincasa.ie/wp-content/uploads/2025/10/Policy-on-Management-of-Actual-or-Potential-Aggression16.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policy on Management of Actual or Potential Aggression 2016"
+    },
+    {
+      "url": "https://benincasa.ie/mobile-phone-and-electronic-device-usage-policy-2016/",
+      "final_url": "https://benincasa.ie/wp-content/uploads/2025/10/Mobile-Phone-and-Electronic-Device-Usage-Policy-2016.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Mobile Phone and Electronic Device Usage Policy 2016"
+    },
+    {
+      "url": "https://benincasa.ie/data-protection-policy-2016/",
+      "final_url": "https://benincasa.ie/wp-content/uploads/2025/10/Data-Protection-Policy-2016.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Child Protection Policy 2016"
+    },
+    {
+      "url": "https://benincasa.ie/draft-protected-disclosures-in-the-workplace-policy-2025/",
+      "final_url": "https://benincasa.ie/wp-content/uploads/2025/11/Draft-Protected-Disclosures-in-the-Workplace-Policy-2025.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Draft Protected Disclosures in the Workplace Policy"
+    },
+    {
+      "url": "https://benincasa.ie/benincasa-behaviour-policy-2025/",
+      "final_url": "https://benincasa.ie/wp-content/uploads/2025/10/Benincasa-Behaviour-Policy-2025.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Benincasa Behaviour Policy 2025"
+    },
+    {
+      "url": "https://benincasa.ie/school-policy-regarding-requests-for-educational-information-for-private-assessments2026/",
+      "final_url": "https://benincasa.ie/wp-content/uploads/2026/10/School-Policy-Regarding-Requests-for-Educational-Information-for-Private-Assessments2026.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Educational Information Requests Policy"
+    },
+    {
+      "url": "https://benincasa.ie/violence-towards-staff-policy16/",
+      "final_url": "https://benincasa.ie/wp-content/uploads/2025/10/Violence-Towards-Staff-Policy16.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Violence Towards Staff Policy"
+    },
+    {
+      "url": "https://benincasa.ie/unacceptable-behaviours16/",
+      "final_url": "https://benincasa.ie/wp-content/uploads/2025/10/Unacceptable-Behaviours16.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Unacceptable Behaviours Policy"
+    },
+    {
+      "url": "https://benincasa.ie/school_tours_policy_eb16/",
+      "final_url": "https://benincasa.ie/wp-content/uploads/2025/10/school_tours_policy_eb16.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Tours Policy"
+    },
+    {
+      "url": "https://benincasa.ie/rewards-and-sanctions16/",
+      "final_url": "https://benincasa.ie/wp-content/uploads/2025/10/Rewards-and-Sanctions16.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Rewards and Sanctions Policy"
+    },
+    {
+      "url": "https://benincasa.ie/policy-on-expulsion16/",
+      "final_url": "https://benincasa.ie/wp-content/uploads/2025/10/Policy-on-expulsion16.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policy on Expulsion"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "18863J",
+      "url": "https://benincasa.ie/wp-content/uploads/2026/09/Admission-Policy-of-Benincasa-School-2026-27.pdf",
+      "label": "Admissions Policy 2026-2027",
+      "sha256": "1b4fabf57fcbc8e1e40b87a4a13fc6660d179ad28b243781608039692550278c",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/18863J_1b4fabf57fcbc8e1e40b.txt",
+      "source_file": "database/milestone2/cache/1b4fabf57fcbc8e1e40b87a4a13fc6660d179ad28b243781608039692550278c.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 20521
+    },
+    {
+      "roll": "18863J",
+      "url": "https://benincasa.ie/wp-content/uploads/2026/02/Admission-Policy-of-Benincasa-School-2025.pdf",
+      "label": "Admission Policy of Benincasa School 2025",
+      "sha256": "085e5f3328351f7377a4fe0e70b71eb2938f760b0d23b3054e0f049d8b4e70e8",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/18863J_085e5f3328351f7377a4.txt",
+      "source_file": "database/milestone2/cache/085e5f3328351f7377a4fe0e70b71eb2938f760b0d23b3054e0f049d8b4e70e8.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 20512
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://benincasa.ie/policy-on-children-who-abscond16/",
+      "label": "Policy on Children Who Abscond",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://benincasa.ie/healthy-lunch-policy-2/",
+      "label": "Healthy Lunch Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://benincasa.ie/exclusion-policy/",
+      "label": "Exclusion Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://benincasa.ie/benincasa-school-bi-cinealta-policy-to-prevent-and-address-bullying-behaviour-1/",
+      "label": "Bí Cineálta Policy to Prevent and Address Bullying Behaviour",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 128.76,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:43:36+0000"
+}

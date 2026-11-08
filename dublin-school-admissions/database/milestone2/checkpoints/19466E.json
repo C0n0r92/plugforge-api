@@ -1,0 +1,326 @@
+{
+  "roll": "19466E",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://stkevinsgns.com",
+      "final_url": "https://stkevinsgns.com",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://stkevinsgns.com/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://stkevinsgns.com/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://stkevinsgns.com/wp-content/uploads/2020/10/Annual-Admission-Notice.docx",
+      "final_url": "https://stkevinsgns.com/wp-content/uploads/2020/10/Annual-Admission-Notice.docx",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Annual Admission Notice"
+    },
+    {
+      "url": "https://stkevinsgns.com/wp-content/uploads/2021/09/Annual-Admission-Notice-2022-2023.docx",
+      "final_url": "https://stkevinsgns.com/wp-content/uploads/2021/09/Annual-Admission-Notice-2022-2023.docx",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Annual Admission Notice -2022-2023"
+    },
+    {
+      "url": "https://stkevinsgns.com/wp-content/uploads/2021/09/Annual-Admission-Notice-2022-2023-1.docx",
+      "final_url": "https://stkevinsgns.com/wp-content/uploads/2021/09/Annual-Admission-Notice-2022-2023-1.docx",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Annual Admission Notice -2022-2023"
+    },
+    {
+      "url": "https://stkevinsgns.com/wp-content/uploads/2023/10/Annual-Admissions-Notice-20242025.docx",
+      "final_url": "https://stkevinsgns.com/wp-content/uploads/2023/10/Annual-Admissions-Notice-20242025.docx",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Annual Admissions Notice 20242025"
+    },
+    {
+      "url": "https://stkevinsgns.com/wp-content/uploads/2024/09/Admission-Notice-202526.pdf",
+      "final_url": "https://stkevinsgns.com/wp-content/uploads/2024/09/Admission-Notice-202526.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admission Notice 202526"
+    },
+    {
+      "url": "https://stkevinsgns.com/wp-content/uploads/2026/09/Admission-Notice-2728.pdf",
+      "final_url": "https://stkevinsgns.com/wp-content/uploads/2026/09/Admission-Notice-2728.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admission Notice 2728"
+    },
+    {
+      "url": "https://stkevinsgns.com/wp-content/uploads/2021/10/Admissions-Poster-2022.pdf",
+      "final_url": "https://stkevinsgns.com/wp-content/uploads/2021/10/Admissions-Poster-2022.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Poster 2022"
+    },
+    {
+      "url": "https://stkevinsgns.com/wp-content/uploads/2023/10/Admissions-Poster-Junior-Infants-2024_2025.docx",
+      "final_url": "https://stkevinsgns.com/wp-content/uploads/2023/10/Admissions-Poster-Junior-Infants-2024_2025.docx",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Poster  Junior Infants 2024_2025"
+    },
+    {
+      "url": "https://stkevinsgns.com/wp-content/uploads/2024/09/Admission-Poster.pdf",
+      "final_url": "https://stkevinsgns.com/wp-content/uploads/2024/09/Admission-Poster.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admission Poster"
+    },
+    {
+      "url": "https://stkevinsgns.com/wp-content/uploads/2025/09/Admissions-Poster.pdf",
+      "final_url": "https://stkevinsgns.com/wp-content/uploads/2025/09/Admissions-Poster.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Poster"
+    },
+    {
+      "url": "https://stkevinsgns.com/wp-content/uploads/2026/09/Admissions-Advert-Poster-2027-2028-3.docx",
+      "final_url": "https://stkevinsgns.com/wp-content/uploads/2026/09/Admissions-Advert-Poster-2027-2028-3.docx",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Advert Poster 2027 2028 (3)"
+    },
+    {
+      "url": "https://stkevinsgns.com/wp-content/uploads/2026/09/Admission-2728.pdf",
+      "final_url": "https://stkevinsgns.com/wp-content/uploads/2026/09/Admission-2728.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admission 2728"
+    },
+    {
+      "url": "https://stkevinsgns.com/wp-content/uploads/2020/10/Admission-Policy-21-22.docx",
+      "final_url": "https://stkevinsgns.com/wp-content/uploads/2020/10/Admission-Policy-21-22.docx",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admission Policy 21-22"
+    },
+    {
+      "url": "https://stkevinsgns.com/wp-content/uploads/2020/10/Admission-Policy-21-22-approved-by-Ab-House.docx",
+      "final_url": "https://stkevinsgns.com/wp-content/uploads/2020/10/Admission-Policy-21-22-approved-by-Ab-House.docx",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admission Policy 21-22- approved by Ab House"
+    },
+    {
+      "url": "https://stkevinsgns.com/enrolment/",
+      "final_url": "https://stkevinsgns.com/enrolment/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Enrolment"
+    },
+    {
+      "url": "https://stkevinsgns.com/wp-content/uploads/2024/04/Admissions-Policy.pdf",
+      "final_url": "https://stkevinsgns.com/wp-content/uploads/2024/04/Admissions-Policy.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Policy"
+    },
+    {
+      "url": "https://stkevinsgns.com/wp-content/uploads/2024/04/Admissions-Policy-1.pdf",
+      "final_url": "https://stkevinsgns.com/wp-content/uploads/2024/04/Admissions-Policy-1.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Policy"
+    },
+    {
+      "url": "https://stkevinsgns.com/wp-content/uploads/2024/02/St.-Kevins-GNS-Admissions-Policy.docx",
+      "final_url": "https://stkevinsgns.com/wp-content/uploads/2024/02/St.-Kevins-GNS-Admissions-Policy.docx",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "St. Kevin&#8217;s GNS Admission&#8217;s Policy"
+    },
+    {
+      "url": "https://stkevinsgns.com/wp-content/uploads/2025/10/Admission-Policy.pdf",
+      "final_url": "https://stkevinsgns.com/wp-content/uploads/2025/10/Admission-Policy.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admission Policy"
+    },
+    {
+      "url": "https://stkevinsgns.com/wp-content/uploads/2025/09/Admission-Policy.pdf",
+      "final_url": "https://stkevinsgns.com/wp-content/uploads/2025/09/Admission-Policy.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admission Policy"
+    },
+    {
+      "url": "https://stkevinsgns.com/wp-content/uploads/2026/10/Junior-Infants-Application-Form-2728-1.docx",
+      "final_url": "https://stkevinsgns.com/wp-content/uploads/2026/10/Junior-Infants-Application-Form-2728-1.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Junior Infant Enrolment Form Download"
+    },
+    {
+      "url": "https://stkevinsgns.com/wp-content/uploads/2026/09/Survey-Results.pdf",
+      "final_url": "https://stkevinsgns.com/wp-content/uploads/2026/09/Survey-Results.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19466E",
+      "url": "https://stkevinsgns.com/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "label": "Oldest public admission media (all dates)",
+      "sha256": "e2b48d821c0002b4cfc478683ea739c779730284499592274a0a2e5e9562de18",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19466E_e2b48d821c0002b4cfc4.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 4538
+    },
+    {
+      "roll": "19466E",
+      "url": "https://stkevinsgns.com/wp-content/uploads/2020/10/Annual-Admission-Notice.docx",
+      "label": "Annual Admission Notice",
+      "sha256": "0d3c2cbf3ff728a52721d241b3db8e9e4b935706efc389981b6ac5bd085711d2",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/19466E_0d3c2cbf3ff728a52721.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 2972
+    },
+    {
+      "roll": "19466E",
+      "url": "https://stkevinsgns.com/wp-content/uploads/2021/09/Annual-Admission-Notice-2022-2023.docx",
+      "label": "Annual Admission Notice -2022-2023",
+      "sha256": "395d82e9015e618a0e7ed51c3fe5966663dd991c34afe33a8ef422ff2bac0801",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/19466E_395d82e9015e618a0e7e.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 3870
+    },
+    {
+      "roll": "19466E",
+      "url": "https://stkevinsgns.com/wp-content/uploads/2021/09/Annual-Admission-Notice-2022-2023-1.docx",
+      "label": "Annual Admission Notice -2022-2023",
+      "sha256": "f73309c2ddd4ee03201f92bcbb1bdd5cf9cc958891934f2088f4f3b529f6d2f7",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/19466E_f73309c2ddd4ee03201f.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 3819
+    },
+    {
+      "roll": "19466E",
+      "url": "https://stkevinsgns.com/wp-content/uploads/2023/10/Annual-Admissions-Notice-20242025.docx",
+      "label": "Annual Admissions Notice 20242025",
+      "sha256": "3dda2d3e87b20e1023f928996b74dcf6df1f08e5f6d11b7cec6d704b77111dcc",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/19466E_3dda2d3e87b20e1023f9.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 3903
+    },
+    {
+      "roll": "19466E",
+      "url": "https://stkevinsgns.com/wp-content/uploads/2024/09/Admission-Notice-202526.pdf",
+      "label": "Admission Notice 202526",
+      "sha256": "f308aef5eb68d2186b70581857e5ac3364c4b42bb2ec7ff7dab94dc09ec843b9",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19466E_f308aef5eb68d2186b70.txt",
+      "source_file": "database/milestone2/cache/f308aef5eb68d2186b70581857e5ac3364c4b42bb2ec7ff7dab94dc09ec843b9.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 4268
+    },
+    {
+      "roll": "19466E",
+      "url": "https://stkevinsgns.com/wp-content/uploads/2020/10/Admission-Policy-21-22.docx",
+      "label": "Admission Policy 21-22",
+      "sha256": "9866afdec257d0b7c6055126ba1a89912180a9a05baf75e70b73d6570c9edcee",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/19466E_9866afdec257d0b7c605.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 27867
+    },
+    {
+      "roll": "19466E",
+      "url": "https://stkevinsgns.com/wp-content/uploads/2024/04/Admissions-Policy.pdf",
+      "label": "Admissions Policy",
+      "sha256": "c1d91c8787383303ec5278b2caa6ba173ec7ab96ad1466445385ea1829fc962e",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19466E_c1d91c8787383303ec52.txt",
+      "source_file": "database/milestone2/cache/c1d91c8787383303ec5278b2caa6ba173ec7ab96ad1466445385ea1829fc962e.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 30605
+    },
+    {
+      "roll": "19466E",
+      "url": "https://stkevinsgns.com/wp-content/uploads/2024/02/St.-Kevins-GNS-Admissions-Policy.docx",
+      "label": "St. Kevin&#8217;s GNS Admission&#8217;s Policy",
+      "sha256": "e91596e949e9395231d8eccb0e1a75fd9d7377e5e9f35a4bbc4de94fbb5e47bf",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/19466E_e91596e949e9395231d8.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 28451
+    },
+    {
+      "roll": "19466E",
+      "url": "https://stkevinsgns.com/wp-content/uploads/2025/09/Admission-Policy.pdf",
+      "label": "Admission Policy",
+      "sha256": "9f8d64acf7741aca62b883f561687e9b5b6f34b354ee0808149f25518620ca82",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19466E_9f8d64acf7741aca62b8.txt",
+      "source_file": "database/milestone2/cache/9f8d64acf7741aca62b883f561687e9b5b6f34b354ee0808149f25518620ca82.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 26064
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://stkevinsgns.com/wp-content/uploads/2026/09/Admissions-Policy-1.docx",
+      "label": "Admissions Policy (1)",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://stkevinsgns.com/wp-content/uploads/2019/02/button_enrolment-policy.png",
+      "label": "button_Admissions Policy",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://stkevinsgns.com/sitemap.xml",
+      "label": "Public sitemap",
+      "via": "sitemap_root"
+    },
+    {
+      "url": "https://stkevinsgns.com/policies/",
+      "label": "Policies",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stkevinsgns.com/wp-content/uploads/2025/09/Mainstream-Application-Form.pdf",
+      "label": "Mainstream Application Form Download",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stkevinsgns.com/wp-content/uploads/2026/10/Autsim-Class-Application-Form-2728-3.docx",
+      "label": "Autism Class Application 27/28 Download",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stkevinsgns.com/privacy-policy/",
+      "label": "Privacy Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 80.16,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:55:45+0000"
+}

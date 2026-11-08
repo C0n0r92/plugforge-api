@@ -1,0 +1,227 @@
+{
+  "roll": "13611D",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.warrenmountprimary.com/page/Admissions-20262027/160727/Index.html",
+      "final_url": "https://www.warrenmountprimary.com/page/Admissions-20262027/160727/Index.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://storage.googleapis.com/iclasscrm_files/8/Images/Content/2026/278/ve81-Admissions_Notice_20272028.pdf",
+      "final_url": "https://storage.googleapis.com/iclasscrm_files/8/Images/Content/2026/278/ve81-Admissions_Notice_20272028.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions Notice 2027 / 2028 →"
+    },
+    {
+      "url": "https://www.warrenmountprimary.com/page/Parents-Association/196561/Index.html",
+      "final_url": "https://www.warrenmountprimary.com/page/Parents-Association/196561/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents Association"
+    },
+    {
+      "url": "https://www.warrenmountprimary.com/page/iClass-App-Instructions-for-Parents/197872/Index.html",
+      "final_url": "https://www.warrenmountprimary.com/page/iClass-App-Instructions-for-Parents/197872/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "iClass"
+    },
+    {
+      "url": "https://www.warrenmountprimary.com/Page/Admissions-20262027/160727/Index.html",
+      "final_url": "https://www.warrenmountprimary.com/Page/Admissions-20262027/160727/Index.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions 2026/2027"
+    },
+    {
+      "url": "https://www.warrenmountprimary.com/Enrolment-Form/Index.html",
+      "final_url": "https://www.warrenmountprimary.com/Enrolment-Form/Index.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Enrolment Form"
+    },
+    {
+      "url": "https://www.warrenmountprimary.com/Admissions/Index.html",
+      "final_url": "https://www.warrenmountprimary.com/Admissions/Index.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://storage.googleapis.com/iclasscrm_files/8/Images/Content/2026/278/fo25-Admissions_Policy_20262027.pdf",
+      "final_url": "https://storage.googleapis.com/iclasscrm_files/8/Images/Content/2026/278/fo25-Admissions_Policy_20262027.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions Policy 2027 / 2028 →"
+    },
+    {
+      "url": "http://www.warrenmountprimary.com/Content/2018/10/Website_Privacy_Statement_Revised-converted.pdf",
+      "final_url": "http://www.warrenmountprimary.com/Content/2018/10/Website_Privacy_Statement_Revised-converted.pdf",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "Privacy Policy"
+    },
+    {
+      "url": "https://www.warrenmountprimary.com/sitemap.xml",
+      "final_url": "https://www.warrenmountprimary.com/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.warrenmountprimary.com/page/Policies/16/Index.html",
+      "final_url": "https://www.warrenmountprimary.com/page/Policies/16/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.warrenmountprimary.com/Content/2019/5/Enrolment_policy_2019.pdf",
+      "final_url": "https://www.warrenmountprimary.com/Content/2019/5/Enrolment_policy_2019.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Enrolment Policy"
+    },
+    {
+      "url": "https://www.warrenmountprimary.com/Content/2016/11/RSE Policy.pdf",
+      "final_url": "https://www.warrenmountprimary.com/Content/2016/11/RSE Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "RSE Policy"
+    },
+    {
+      "url": "https://www.warrenmountprimary.com/Content/2016/11/Attendance Policy.pdf",
+      "final_url": "https://www.warrenmountprimary.com/Content/2016/11/Attendance Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Attendance Policy"
+    },
+    {
+      "url": "https://www.warrenmountprimary.com/Content/2019/2/Critical_Incident_Policy_2019_(1).pdf",
+      "final_url": "https://www.warrenmountprimary.com/Content/2019/2/Critical_Incident_Policy_2019_(1).pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Critical Incident Policy"
+    },
+    {
+      "url": "https://www.warrenmountprimary.com/Content/2019/11/Mobile_Phone_Policy.doc",
+      "final_url": "https://www.warrenmountprimary.com/Content/2019/11/Mobile_Phone_Policy.doc",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Mobile Phone Policy"
+    },
+    {
+      "url": "https://www.warrenmountprimary.com/Parents-Association/Index.html",
+      "final_url": "https://www.warrenmountprimary.com/Parents-Association/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents Association"
+    },
+    {
+      "url": "https://www.warrenmountprimary.com/Page/Parents-Association/196561/Index.html",
+      "final_url": "https://www.warrenmountprimary.com/Page/Parents-Association/196561/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents Association"
+    },
+    {
+      "url": "https://www.warrenmountprimary.com/News/Parents-Association-Letter-for-the-School-Community/181266/Index.html",
+      "final_url": "https://www.warrenmountprimary.com/News/Parents-Association-Letter-for-the-School-Community/181266/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents Association Letter for the School Community"
+    },
+    {
+      "url": "https://www.warrenmountprimary.com/Content/2022/12/zm94-Letter_to_Parents_from_Parents_Association.pdf",
+      "final_url": "https://www.warrenmountprimary.com/Content/2022/12/zm94-Letter_to_Parents_from_Parents_Association.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Letter to Parents from Parents Association.pdf"
+    },
+    {
+      "url": "https://www.warrenmountprimary.com",
+      "final_url": "https://www.warrenmountprimary.com",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.warrenmountprimary.com/Content/2023/10/eh13-2023_application_form_pdf.pdf?32536",
+      "final_url": "https://www.warrenmountprimary.com/Content/2023/10/eh13-2023_application_form_pdf.pdf?32536",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Enrol HERE"
+    },
+    {
+      "url": "https://www.warrenmountprimary.com/Content/2022/3/md41-Substance_use_.pdf",
+      "final_url": "https://www.warrenmountprimary.com/Content/2022/3/md41-Substance_use_.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Substance Use Policy"
+    },
+    {
+      "url": "https://www.warrenmountprimary.com/Content/2022/3/dm14-ASD_policy_.pdf",
+      "final_url": "https://www.warrenmountprimary.com/Content/2022/3/dm14-ASD_policy_.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "ASD Policy"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "13611D",
+      "url": "https://storage.googleapis.com/iclasscrm_files/8/Images/Content/2026/278/fo25-Admissions_Policy_20262027.pdf",
+      "label": "Admissions Policy 2027 / 2028 →",
+      "sha256": "a0f58e5a9640d622ade250862a2e0bc425195320e70db44c70f1dc24ae759298",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/13611D_a0f58e5a9640d622ade2.txt",
+      "source_file": "database/milestone2/cache/a0f58e5a9640d622ade250862a2e0bc425195320e70db44c70f1dc24ae759298.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 28343
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.warrenmountprimary.com/Content/2024/10/ua70-Anti_bullying_Policy_2024.pdf",
+      "label": "Anti_bullying_Policy 2024",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.warrenmountprimary.com/Content/2025/10/fy29-Child_Protection_1.pdf",
+      "label": "Child Protection Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://storage.googleapis.com/iclasscrm_files/8/Images/Content/2026/278/oy59-ASD_Class_Form.pdf",
+      "label": "ASD Class Application Form",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://storage.googleapis.com/iclasscrm_files/8/Images/Content/2026/278/ls47-JI_Application_form.pdf",
+      "label": "Warrenmount Application Form →",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://storage.googleapis.com/iclasscrm_files/8/Images/Content/2026/278/az90-Early_Start_Application_Form.pdf",
+      "label": "Early Start Application →",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.warrenmountprimary.com/page/Homework-Policy/639679/Index.html",
+      "label": "Homework",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.warrenmountprimary.com/Page/Privacy/8/Index.html",
+      "label": "Privacy Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 76.99,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:01:59+0000"
+}

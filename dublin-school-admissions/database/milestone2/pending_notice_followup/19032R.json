@@ -1,0 +1,18 @@
+{
+  "roll": "19032R",
+  "started_at": "2026-11-08T13:20:22+0000",
+  "method": "previously_linked_explicit_annual_notice_gap_followup",
+  "attempts": [
+    {
+      "url": "http://stewartsschool.ie/wp-content/uploads/2025/10/Admissions-Notice-2026-2027.pdf",
+      "final_url": "http://stewartsschool.ie/wp-content/uploads/2025/10/Admissions-Notice-2026-2027.pdf",
+      "status": "robots_permission_unestablished_http_500",
+      "label": "Admissions Notice 2026-2027"
+    }
+  ],
+  "documents": [],
+  "pending_links": [],
+  "earliest_year_cutoff": null,
+  "status": "attempted_no_new_numeric_notice_established",
+  "elapsed_seconds": 0.0
+}

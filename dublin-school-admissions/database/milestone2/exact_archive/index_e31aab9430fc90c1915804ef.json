@@ -1,0 +1,65 @@
+{
+  "roll": "19723V",
+  "original_url": "https://www.qoa.ie/page/Admissions/224556/Index.html",
+  "method": "documented_CDX_exact_URL_all_available_dates",
+  "attempted_at": "2026-11-08T12:43:09.138218+00:00",
+  "params": {
+    "url": "https://www.qoa.ie/page/Admissions/224556/Index.html",
+    "matchType": "exact",
+    "output": "json",
+    "fl": "timestamp,original,mimetype,statuscode,digest",
+    "filter": "statuscode:200",
+    "collapse": "digest",
+    "limit": "200",
+    "showResumeKey": "true"
+  },
+  "earliest_year_cutoff": null,
+  "captures": [
+    {
+      "timestamp": "20251113181217",
+      "original": "http://qoa.ie/page/Admissions/224556/Index.html",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "YFJ3KONYLNRMR7T2OGIMEPM2YGE5KTEY"
+    },
+    {
+      "timestamp": "20260311063601",
+      "original": "http://www.qoa.ie/page/Admissions/224556/Index.html",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "YIZA6BXD2XEXMVX2KN3WNMAKYKTPUSD6"
+    },
+    {
+      "timestamp": "20260311070745",
+      "original": "http://www.qoa.ie/Page/Admissions/224556/Index.html",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "SCLZUAJD4GUJTXK5SWXG56VZW34DNBNQ"
+    },
+    {
+      "timestamp": "20260519222909",
+      "original": "http://www.qoa.ie/page/Admissions/224556/Index.html",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "N3K2QZPM73VDVLQWJ5ULR5GOXLVJEQXE"
+    }
+  ],
+  "pages": [
+    {
+      "at": "2026-11-08T12:43:13.341283+00:00",
+      "http_status": 200,
+      "params": {
+        "url": "https://www.qoa.ie/page/Admissions/224556/Index.html",
+        "matchType": "exact",
+        "output": "json",
+        "fl": "timestamp,original,mimetype,statuscode,digest",
+        "filter": "statuscode:200",
+        "collapse": "digest",
+        "limit": "200",
+        "showResumeKey": "true"
+      }
+    }
+  ],
+  "status": "index_complete",
+  "capture_count": 4
+}

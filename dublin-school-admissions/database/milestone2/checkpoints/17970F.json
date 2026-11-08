@@ -1,0 +1,222 @@
+{
+  "roll": "17970F",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.ourladyofmercy.ie/uploads/3/0/4/0/30408535/admissions_notice.png",
+      "final_url": "https://www.ourladyofmercy.ie/uploads/3/0/4/0/30408535/admissions_notice.png",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "https://www.ourladyofmercy.ie/sitemap.xml",
+      "final_url": "https://www.ourladyofmercy.ie/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.ourladyofmercy.ie/enrolment--admisssions-policy.html",
+      "final_url": "https://www.ourladyofmercy.ie/enrolment--admisssions-policy.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Enrolment & Admisssions Policy"
+    },
+    {
+      "url": "https://www.ourladyofmercy.ie/uploads/3/0/4/0/30408535/olom_admissions_policy_september_2026.pdf",
+      "final_url": "https://www.ourladyofmercy.ie/uploads/3/0/4/0/30408535/olom_admissions_policy_september_2026.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.ourladyofmercy.ie/wellbeing-documents.html",
+      "final_url": "https://www.ourladyofmercy.ie/wellbeing-documents.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Wellbeing documents"
+    },
+    {
+      "url": "https://www.ourladyofmercy.ie/policies--guidelines.html",
+      "final_url": "https://www.ourladyofmercy.ie/policies--guidelines.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies & Guidelines >"
+    },
+    {
+      "url": "https://www.ourladyofmercy.ie/parents-association.html",
+      "final_url": "https://www.ourladyofmercy.ie/parents-association.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents' Association"
+    },
+    {
+      "url": "https://www.ourladyofmercy.ie/for-parents.html",
+      "final_url": "https://www.ourladyofmercy.ie/for-parents.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "For Parents"
+    },
+    {
+      "url": "https://www.ourladyofmercy.ie",
+      "final_url": "https://www.ourladyofmercy.ie",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.ourladyofmercy.ie/visitors-policy.html",
+      "final_url": "https://www.ourladyofmercy.ie/visitors-policy.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Visitors Policy"
+    },
+    {
+      "url": "https://www.ourladyofmercy.ie/uploads/3/0/4/0/30408535/visitors_policy.docx",
+      "final_url": "https://www.ourladyofmercy.ie/uploads/3/0/4/0/30408535/visitors_policy.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.ourladyofmercy.ie/sen-policy.html",
+      "final_url": "https://www.ourladyofmercy.ie/sen-policy.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "SEN Policy"
+    },
+    {
+      "url": "https://www.ourladyofmercy.ie/uploads/3/0/4/0/30408535/sen_policy_jan_2024.docx",
+      "final_url": "https://www.ourladyofmercy.ie/uploads/3/0/4/0/30408535/sen_policy_jan_2024.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.ourladyofmercy.ie/school-tour-policy.html",
+      "final_url": "https://www.ourladyofmercy.ie/school-tour-policy.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Tour Policy"
+    },
+    {
+      "url": "https://www.ourladyofmercy.ie/uploads/3/0/4/0/30408535/tours_policy_updated_february_2025.pdf",
+      "final_url": "https://www.ourladyofmercy.ie/uploads/3/0/4/0/30408535/tours_policy_updated_february_2025.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.ourladyofmercy.ie/parents-complaints-policy.html",
+      "final_url": "https://www.ourladyofmercy.ie/parents-complaints-policy.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents Complaints Policy"
+    },
+    {
+      "url": "https://www.ourladyofmercy.ie/uploads/3/0/4/0/30408535/parents_complaint_procedure.pdf",
+      "final_url": "https://www.ourladyofmercy.ie/uploads/3/0/4/0/30408535/parents_complaint_procedure.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.ourladyofmercy.ie/parental-involvement-policy.html",
+      "final_url": "https://www.ourladyofmercy.ie/parental-involvement-policy.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parental Involvement Policy"
+    },
+    {
+      "url": "https://www.ourladyofmercy.ie/uploads/3/0/4/0/30408535/parental_involvement_policy__march_15th_2022__1_.pdf",
+      "final_url": "https://www.ourladyofmercy.ie/uploads/3/0/4/0/30408535/parental_involvement_policy__march_15th_2022__1_.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.ourladyofmercy.ie/mobile-phone-policy.html",
+      "final_url": "https://www.ourladyofmercy.ie/mobile-phone-policy.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Mobile Phone Policy"
+    },
+    {
+      "url": "https://www.ourladyofmercy.ie/uploads/3/0/4/0/30408535/nov_2024_mobile_phone_policy.pdf",
+      "final_url": "https://www.ourladyofmercy.ie/uploads/3/0/4/0/30408535/nov_2024_mobile_phone_policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.ourladyofmercy.ie/intimate-toileting-and-care-policy.html",
+      "final_url": "https://www.ourladyofmercy.ie/intimate-toileting-and-care-policy.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Intimate Toileting and Care Policy"
+    },
+    {
+      "url": "https://www.ourladyofmercy.ie/homework-policy.html",
+      "final_url": "https://www.ourladyofmercy.ie/homework-policy.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Homework Policy"
+    },
+    {
+      "url": "https://www.ourladyofmercy.ie/uploads/3/0/4/0/30408535/homework_policy_january_2026.pdf",
+      "final_url": "https://www.ourladyofmercy.ie/uploads/3/0/4/0/30408535/homework_policy_january_2026.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    }
+  ],
+  "documents": [
+    {
+      "roll": "17970F",
+      "url": "https://www.ourladyofmercy.ie/uploads/3/0/4/0/30408535/olom_admissions_policy_september_2026.pdf",
+      "label": "",
+      "sha256": "e88f89a0192585053c020428d486c93e168ff72419e00d71c2a9ee99ebbdd731",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/17970F_e88f89a0192585053c02.txt",
+      "source_file": "database/milestone2/cache/e88f89a0192585053c020428d486c93e168ff72419e00d71c2a9ee99ebbdd731.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 30188
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.ourladyofmercy.ie/health--safety-policy.html",
+      "label": "Health & Safety Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ourladyofmercy.ie/garda-vetting-policy.html",
+      "label": "Garda Vetting Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ourladyofmercy.ie/data-protection-policy.html",
+      "label": "Data Protection Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ourladyofmercy.ie/biacute-cinealtaanti-bullying-policy.html",
+      "label": "Bí Cinealta/Anti-Bullying Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ourladyofmercy.ie/administration-of-medicine-policy.html",
+      "label": "Administration of Medicine Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ourladyofmercy.ie/acceptable-use-policy.html",
+      "label": "Acceptable Use Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 73.09,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:04:20+0000"
+}

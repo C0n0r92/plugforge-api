@@ -1,0 +1,22 @@
+{
+  "roll": "19302U",
+  "capture": {
+    "timestamp": "20130422223627",
+    "original": "http://virginmarybns.ie",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "digest": "4CTTPLKKACWWVZNS55N3DUNSZMXOX4I5"
+  },
+  "original_url": "http://virginmarybns.ie",
+  "archived_url": "https://web.archive.org/web/20130422223627/http://virginmarybns.ie",
+  "attempted_at": "2026-11-08T12:49:38.335194+00:00",
+  "linked_from_capture": null,
+  "http_status": 302,
+  "headers": {
+    "Content-Type": "text/plain; charset=utf-8",
+    "location": "https://web.archive.org/web/20130422223627/http://virginmarybns.ie/"
+  },
+  "bytes": 0,
+  "status": "archive_redirect_pending",
+  "redirect_url": "https://web.archive.org/web/20130422223627/http://virginmarybns.ie/"
+}

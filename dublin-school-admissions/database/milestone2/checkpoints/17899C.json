@@ -1,0 +1,249 @@
+{
+  "roll": "17899C",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.scoilcarmeljns.com/posts/annual-admission-notice",
+      "final_url": "https://www.scoilcarmeljns.com/posts/annual-admission-notice",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions/policy URL from public sitemap"
+    },
+    {
+      "url": "https://www.scoilcarmeljns.com/posts-1/annual-admission-notice",
+      "final_url": "https://www.scoilcarmeljns.com/posts-1/annual-admission-notice",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions/policy URL from public sitemap"
+    },
+    {
+      "url": "https://www.scoilcarmeljns.com/post/annual-admission-notice",
+      "final_url": "https://www.scoilcarmeljns.com/post/annual-admission-notice",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions/policy URL from public sitemap"
+    },
+    {
+      "url": "https://www.scoilcarmeljns.com/post/enrolment-open",
+      "final_url": "https://www.scoilcarmeljns.com/post/enrolment-open",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Enrolment Open"
+    },
+    {
+      "url": "https://www.scoilcarmeljns.com/admissions",
+      "final_url": "https://www.scoilcarmeljns.com/admissions",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://www.scoilcarmeljns.com/_files/ugd/02d54a_71285ea243f14cc29179c3df8db3445e.pdf",
+      "final_url": "https://www.scoilcarmeljns.com/_files/ugd/02d54a_71285ea243f14cc29179c3df8db3445e.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions Policy 2027/2028 ​"
+    },
+    {
+      "url": "https://www.scoilcarmeljns.com/_files/ugd/02d54a_7d69c8fabf04441a96ff3b462c6e2b5a.pdf",
+      "final_url": "https://www.scoilcarmeljns.com/_files/ugd/02d54a_7d69c8fabf04441a96ff3b462c6e2b5a.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Firhouse Parish"
+    },
+    {
+      "url": "https://www.scoilcarmeljns.com/post/enrolment-2025-2026",
+      "final_url": "https://www.scoilcarmeljns.com/post/enrolment-2025-2026",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions/policy URL from public sitemap"
+    },
+    {
+      "url": "https://www.scoilcarmeljns.com/uk_uk-sitemap.xml",
+      "final_url": "https://www.scoilcarmeljns.com/uk_uk-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.scoilcarmeljns.com/uk_uk-dynamic-posts_p_8ab46d6d_d899_49d7_a89b_d6d1abedca84_0_100-sitemap.xml",
+      "final_url": "https://www.scoilcarmeljns.com/uk_uk-dynamic-posts_p_8ab46d6d_d899_49d7_a89b_d6d1abedca84_0_100-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.scoilcarmeljns.com/uk/posts/annual-admission-notice",
+      "final_url": "https://www.scoilcarmeljns.com/uk/posts/annual-admission-notice",
+      "status": "http_404",
+      "via": "sitemap_link",
+      "label": "Admission URL from sitemap"
+    },
+    {
+      "url": "https://www.scoilcarmeljns.com/uk/posts/enrolment-2025---2026",
+      "final_url": "https://www.scoilcarmeljns.com/uk/posts/enrolment-2025---2026",
+      "status": "http_404",
+      "via": "sitemap_link",
+      "label": "Admission URL from sitemap"
+    },
+    {
+      "url": "https://www.scoilcarmeljns.com/uk/posts/online-enrolment-now-open",
+      "final_url": "https://www.scoilcarmeljns.com/uk/posts/online-enrolment-now-open",
+      "status": "http_404",
+      "via": "sitemap_link",
+      "label": "Admission URL from sitemap"
+    },
+    {
+      "url": "https://www.scoilcarmeljns.com/uk/posts/enrolment-open",
+      "final_url": "https://www.scoilcarmeljns.com/uk/posts/enrolment-open",
+      "status": "http_404",
+      "via": "sitemap_link",
+      "label": "Admission URL from sitemap"
+    },
+    {
+      "url": "https://www.scoilcarmeljns.com/uk/posts/enrolment-now-open",
+      "final_url": "https://www.scoilcarmeljns.com/uk/posts/enrolment-now-open",
+      "status": "http_404",
+      "via": "sitemap_link",
+      "label": "Admission URL from sitemap"
+    },
+    {
+      "url": "https://www.scoilcarmeljns.com/uk_uk-blog-posts-sitemap.xml",
+      "final_url": "https://www.scoilcarmeljns.com/uk_uk-blog-posts-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.scoilcarmeljns.com/uk_uk-blog-categories-sitemap.xml",
+      "final_url": "https://www.scoilcarmeljns.com/uk_uk-blog-categories-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.scoilcarmeljns.com/sitemap.xml",
+      "final_url": "https://www.scoilcarmeljns.com/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.scoilcarmeljns.com/posts/online-enrolment-now-open",
+      "final_url": "https://www.scoilcarmeljns.com/posts/online-enrolment-now-open",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions/policy URL from public sitemap"
+    },
+    {
+      "url": "https://www.scoilcarmeljns.com/posts/enrolment-open",
+      "final_url": "https://www.scoilcarmeljns.com/posts/enrolment-open",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions/policy URL from public sitemap"
+    },
+    {
+      "url": "https://www.scoilcarmeljns.com/posts/enrolment-now-open",
+      "final_url": "https://www.scoilcarmeljns.com/posts/enrolment-now-open",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions/policy URL from public sitemap"
+    },
+    {
+      "url": "https://www.scoilcarmeljns.com/posts-1/online-enrolment-now-open",
+      "final_url": "https://www.scoilcarmeljns.com/posts-1/online-enrolment-now-open",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions/policy URL from public sitemap"
+    },
+    {
+      "url": "https://www.scoilcarmeljns.com/posts-1/enrolment-open",
+      "final_url": "https://www.scoilcarmeljns.com/posts-1/enrolment-open",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions/policy URL from public sitemap"
+    },
+    {
+      "url": "https://www.scoilcarmeljns.com/posts-1/enrolment-now-open",
+      "final_url": "https://www.scoilcarmeljns.com/posts-1/enrolment-now-open",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions/policy URL from public sitemap"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "17899C",
+      "url": "https://www.scoilcarmeljns.com/posts/annual-admission-notice",
+      "label": "Admissions/policy URL from public sitemap",
+      "sha256": "30d28708e8ec1f0a2812fa831deaf93155a9d96bbb37c44b58ce18f88410255d",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/17899C_30d28708e8ec1f0a2812.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 380
+    },
+    {
+      "roll": "17899C",
+      "url": "https://www.scoilcarmeljns.com/post/annual-admission-notice",
+      "label": "Admissions/policy URL from public sitemap",
+      "sha256": "fa22b2415fd69c5a9f2e90eec8f1c109f5c3e38d49c511c69f48d68bade38181",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/17899C_fa22b2415fd69c5a9f2e.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 429
+    },
+    {
+      "roll": "17899C",
+      "url": "https://www.scoilcarmeljns.com/_files/ugd/02d54a_71285ea243f14cc29179c3df8db3445e.pdf",
+      "label": "Admissions Policy 2027/2028 ​",
+      "sha256": "d9e8ded9f552a7dfb1d2c955902e4d1b87b0b8c2ca2a7aad117ff90f65393628",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/17899C_d9e8ded9f552a7dfb1d2.txt",
+      "source_file": "database/milestone2/cache/d9e8ded9f552a7dfb1d2c955902e4d1b87b0b8c2ca2a7aad117ff90f65393628.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 25838
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.scoilcarmeljns.com/post/online-enrolment-now-open",
+      "label": "Admissions/policy URL from public sitemap",
+      "via": "prior_public_admissions_landing"
+    },
+    {
+      "url": "https://www.scoilcarmeljns.com/post/enrolment-now-open-1",
+      "label": "Admissions/policy URL from public sitemap",
+      "via": "prior_public_admissions_landing"
+    },
+    {
+      "url": "https://www.scoilcarmeljns.com/post/enrolment-now-open",
+      "label": "Admissions/policy URL from public sitemap",
+      "via": "prior_public_admissions_landing"
+    },
+    {
+      "url": "https://www.scoilcarmeljns.com/policies",
+      "label": "Policies",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilcarmeljns.com/pl_pl-sitemap.xml",
+      "label": "Public sitemap",
+      "via": "sitemap_root"
+    },
+    {
+      "url": "https://www.scoilcarmeljns.com/parentsassociation",
+      "label": "Parents Association",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilcarmeljns.com",
+      "label": "School homepage",
+      "via": "home"
+    }
+  ],
+  "elapsed_seconds": 73.64,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:45:23+0000"
+}

@@ -1,0 +1,60 @@
+{
+  "roll": "19406J",
+  "attempted_at": "2026-11-08T13:12:20+0000",
+  "method": "documented_public_WordPress_media_notice_and_Irish_title_gap_search",
+  "attempts": [
+    {
+      "url": "https://www.holytrinitysns.ie/wp-json/wp/v2/media?search=notice&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.holytrinitysns.ie/wp-json/wp/v2/media?search=f%C3%B3gra&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.holytrinitysns.ie/wp-content/uploads/2020/09/Annual-Admissions-Notice.pdf",
+      "status": "robots_disallow",
+      "label": "Annual Admissions Notice"
+    },
+    {
+      "url": "https://www.holytrinitysns.ie/wp-content/uploads/2020/09/Annual-Admissions-Notice-1.pdf",
+      "status": "robots_disallow",
+      "label": "Annual Admissions Notice"
+    },
+    {
+      "url": "https://www.holytrinitysns.ie/wp-content/uploads/2021/10/Annual-Admissions-Notice.pdf",
+      "status": "robots_disallow",
+      "label": "Annual Admissions Notice"
+    },
+    {
+      "url": "https://www.holytrinitysns.ie/wp-content/uploads/2022/09/Annual-Admissions-Notice-school-year-23-24-1.pdf",
+      "status": "robots_disallow",
+      "label": "Annual Admissions Notice school year 23-24 (1)"
+    },
+    {
+      "url": "https://www.holytrinitysns.ie/wp-content/uploads/2023/10/Annual-Admissions-Notice-School-Year-24-25.pdf",
+      "status": "robots_disallow",
+      "label": "Annual Admissions Notice School Year 24-25"
+    },
+    {
+      "url": "https://www.holytrinitysns.ie/wp-content/uploads/2024/09/Annual-Admissions-Notice-school-year-25-26.pdf",
+      "status": "robots_disallow",
+      "label": "Annual Admissions Notice school year 25-26"
+    },
+    {
+      "url": "https://www.holytrinitysns.ie/wp-content/uploads/2025/02/Annual-Admissions-Notice-school-year-25-26.pdf",
+      "status": "robots_disallow",
+      "label": "Annual Admissions Notice school year 25-26"
+    },
+    {
+      "url": "https://www.holytrinitysns.ie/wp-content/uploads/2025/09/Annual-Admissions-Notice-School-Year-26-27.pdf",
+      "status": "robots_disallow",
+      "label": "Annual Admissions Notice School Year 26-27"
+    }
+  ],
+  "documents": [],
+  "pending_links": [],
+  "earliest_year_cutoff": null,
+  "status": "attempted_no_new_notice_payload",
+  "elapsed_seconds": 7.1
+}

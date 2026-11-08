@@ -1,0 +1,759 @@
+{
+  "roll": "20043G",
+  "original_prefix": "https://gaelscoilchnocliamhna.ie/wp-content/uploads/",
+  "method": "documented_CDX_source_derived_upload_prefix_all_available_dates",
+  "earliest_year_cutoff": null,
+  "attempted_at": "2026-11-08T12:55:33.460262+00:00",
+  "pages": [
+    {
+      "at": "2026-11-08T12:55:33.460449+00:00",
+      "params": {
+        "url": "https://gaelscoilchnocliamhna.ie/wp-content/uploads/",
+        "matchType": "prefix",
+        "output": "json",
+        "fl": "timestamp,original,mimetype,statuscode,digest",
+        "filter": [
+          "statuscode:200",
+          "mimetype:application/pdf",
+          "original:(?i).*(admi|fogra|fógra|iontr|bliant|enrol).*"
+        ],
+        "collapse": "urlkey",
+        "limit": "200",
+        "showResumeKey": "true"
+      },
+      "http_status": 200
+    }
+  ],
+  "captures": [
+    {
+      "timestamp": "20250113002602",
+      "original": "http://gaelscoilchnocliamhna.ie/wp-content/uploads/2020/03/advice-to-young-people-while-schools-are-closed.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "5NVUYCZ6FBD5R2ZJLFNYAYACWFG5TGLX"
+    },
+    {
+      "timestamp": "20200922111624",
+      "original": "http://gaelscoilchnocliamhna.ie/wp-content/uploads/2020/03/dath%C3%BA-spring-mindfulness-colouring-page.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "Y7DNSVUDGEGYWZLDEDJSFFKHE5OWQDDY"
+    },
+    {
+      "timestamp": "20250112231452",
+      "original": "http://gaelscoilchnocliamhna.ie/wp-content/uploads/2020/03/guide-for-parents-supporting-children.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "Y2QOBPJQYIB6UC2LNL7A4TOPOFK7UPNL"
+    },
+    {
+      "timestamp": "20200922120559",
+      "original": "http://gaelscoilchnocliamhna.ie/wp-content/uploads/2020/03/R%C3%A1iteas-Cumhdach-Leana%C3%AD-Tuismitheoiri.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "K6WM2S4X3IHPXPVY6J2BSBFTEAUYEJHC"
+    },
+    {
+      "timestamp": "20200922094705",
+      "original": "http://gaelscoilchnocliamhna.ie/wp-content/uploads/2020/03/R%C3%A1iteas-maidir-le-Cumhdach-Leana%C3%AD.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "VD7IB3VD2Q4UTK3ZWVWDTFBU7Z54WTCH"
+    },
+    {
+      "timestamp": "20250113004549",
+      "original": "http://gaelscoilchnocliamhna.ie/wp-content/uploads/2020/03/talking-to-children-and-young-people-about-covid-19-coronavirus-advice-for-parents-and-schools.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "LIBPPOYLLBMAX5ZF2JK5VMYZRTSM2SMG"
+    },
+    {
+      "timestamp": "20240607040943",
+      "original": "http://gaelscoilchnocliamhna.ie/wp-content/uploads/2020/04/cruthanna-3T-eile.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "GB5DPIJ2CZ3XFCDQ37BPYZIQAEJDL6WC"
+    },
+    {
+      "timestamp": "20240607034028",
+      "original": "http://gaelscoilchnocliamhna.ie/wp-content/uploads/2020/04/cruthanna-3t.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "3U42NFSRHLU4JUJDMQJ2Z42XKNTFIHP6"
+    },
+    {
+      "timestamp": "20240607064012",
+      "original": "http://gaelscoilchnocliamhna.ie/wp-content/uploads/2020/04/Eibhlin-The-Great-Isolation-Activity-Book.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "M7LREQ4SY4BEO65ALHQOJV3DJXLFNHKX"
+    },
+    {
+      "timestamp": "20250113011623",
+      "original": "http://gaelscoilchnocliamhna.ie/wp-content/uploads/2020/04/Getting-ready-to-go-to-the-test-centre.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "EPER6KVQVQU5DUA2FPZXYFMXSISBIRZT"
+    },
+    {
+      "timestamp": "20240608073401",
+      "original": "http://gaelscoilchnocliamhna.ie/wp-content/uploads/2020/04/online_creative_writing_pack_for_primary_schools_pdf_version-1.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "R3BKHLJCPPW26YRPRF3XGAMXXNPWAD4T"
+    },
+    {
+      "timestamp": "20240608044713",
+      "original": "http://gaelscoilchnocliamhna.ie/wp-content/uploads/2020/04/online_creative_writing_pack_for_primary_schools_pdf_version.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "R3BKHLJCPPW26YRPRF3XGAMXXNPWAD4T"
+    },
+    {
+      "timestamp": "20200922114111",
+      "original": "http://gaelscoilchnocliamhna.ie/wp-content/uploads/2020/05/Ag-cur-in-ord.2.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "AG55YD66PBAJPTAQVK4ETVYKCYDJKPV2"
+    },
+    {
+      "timestamp": "20240607050850",
+      "original": "http://gaelscoilchnocliamhna.ie/wp-content/uploads/2020/05/Daniel-Tomhaistear-sruth-leictreach-amps.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "GTVI3SOFIRINWTB2RFFFRMMNJEOZ35VV"
+    },
+    {
+      "timestamp": "20200922101623",
+      "original": "http://gaelscoilchnocliamhna.ie/wp-content/uploads/2020/05/F%C3%A9asta-Focal-Gn%C3%ADomha%C3%ADochta%C3%AD-Taca%C3%ADochta.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "R4DQ7ZUEJAZ5HBDE6UO6FLN24MADOWJC"
+    },
+    {
+      "timestamp": "20200922105752",
+      "original": "http://gaelscoilchnocliamhna.ie/wp-content/uploads/2020/05/L%C3%B3n-sl%C3%A1inti%C3%BAil-2.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "WCGDXMPG7DJIYUU6D7BEGPSBWO73V7Y4"
+    },
+    {
+      "timestamp": "20200922100802",
+      "original": "http://gaelscoilchnocliamhna.ie/wp-content/uploads/2020/05/rte-home-school-hub-week-11th-to-15th-may.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "4BYKMCCJ2O4V7H3VX55WSMKGFAF3G5JG"
+    },
+    {
+      "timestamp": "20200922095539",
+      "original": "http://gaelscoilchnocliamhna.ie/wp-content/uploads/2020/05/rte-home-school-hub-week-18th-to-22nd-may.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "MCJX2QXRKOMVUD7QNLDFMX7SY4NDYZWH"
+    },
+    {
+      "timestamp": "20200922095858",
+      "original": "http://gaelscoilchnocliamhna.ie/wp-content/uploads/2020/05/rte-home-school-hub-week-25th-to-29th-may.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "PIHWMITQSCKUJWDIEQAA6W2GZ4QHTET3"
+    },
+    {
+      "timestamp": "20200922102137",
+      "original": "http://gaelscoilchnocliamhna.ie/wp-content/uploads/2020/06/Mapping-of-the-habitats-and-areas-of-the-oceans-and-seas.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "AKGXTMXDCKWWKEAJ2PTZDMVA7S6EZN7Q"
+    },
+    {
+      "timestamp": "20200922114857",
+      "original": "http://gaelscoilchnocliamhna.ie/wp-content/uploads/2020/06/The-Titanic.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "RZPQHTZ36SAOOSKVYFAUHAMP4DML6FUE"
+    },
+    {
+      "timestamp": "20200922103132",
+      "original": "http://gaelscoilchnocliamhna.ie/wp-content/uploads/2020/08/Polasa%C3%AD-Lunasa-20.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "AV5J3EFJPWGUZHI7HEKRPLBQYBAM4DIQ"
+    },
+    {
+      "timestamp": "20200922101051",
+      "original": "http://gaelscoilchnocliamhna.ie/wp-content/uploads/2020/08/Policy-Statement-Lunasa-20.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "PAOMPE72XISQEKDECW775O3VR4RTXMD5"
+    },
+    {
+      "timestamp": "20250112235436",
+      "original": "http://gaelscoilchnocliamhna.ie/wp-content/uploads/2020/11/Nuachtlitir-GCL-Samhain-2020.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "A5RSA3TQKXID3JJS2U7SDCT6KQ5YIUHN"
+    },
+    {
+      "timestamp": "20240607063110",
+      "original": "http://gaelscoilchnocliamhna.ie/wp-content/uploads/2020/12/Nuacht-litir-GCL-Nollaig-2020.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "U5TGLEN4L7OTJYUZB4FARBB2FW2R4V7Z"
+    },
+    {
+      "timestamp": "20220925231747",
+      "original": "http://gaelscoilchnocliamhna.ie/wp-content/uploads/2021/02/Nathan-S.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "GTRIFA55DIB7YMNZJQRH7XCBD626NNAP"
+    },
+    {
+      "timestamp": "20240608004929",
+      "original": "http://gaelscoilchnocliamhna.ie/wp-content/uploads/2021/02/Nuachtlitir-GCL-Eanair-2021.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "HVHG6JWE26OFJA3RYR4EIUTNNTI6AS2P"
+    },
+    {
+      "timestamp": "20230320084412",
+      "original": "http://gaelscoilchnocliamhna.ie/wp-content/uploads/2021/03/Nuacht-litir-Marta-2021-pdf.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "YZ7SOVH5CT7LOWBD5GDOUJHVJZCXT52M"
+    },
+    {
+      "timestamp": "20240608213540",
+      "original": "http://gaelscoilchnocliamhna.ie/wp-content/uploads/2021/03/Nuachtlitir-GCL-Marta-La-Domhanda-Um-Leabhair-pdf.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "MW75NYLHFFLGM3L3WTE6F577CIPUG4YJ"
+    },
+    {
+      "timestamp": "20231129085717",
+      "original": "https://gaelscoilchnocliamhna.ie/wp-content/uploads/2021/06/Nuachtlitir-Deireadh-na-Bliana-2021-std.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "P5MDXCFYOGAKB3EXP5ODCW6BCQTM52N7"
+    },
+    {
+      "timestamp": "20220926003614",
+      "original": "http://gaelscoilchnocliamhna.ie/wp-content/uploads/2021/12/Anti-Bullying-Policy-21-22.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "6O3YGXQJ6SUG7GS5NJJGZ6KQKLRETXRM"
+    },
+    {
+      "timestamp": "20220926001622",
+      "original": "http://gaelscoilchnocliamhna.ie/wp-content/uploads/2021/12/athbhreithniu-review-ab.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "QXORY767TVQ3SPE5G2GDCOX4TSKNDU5M"
+    },
+    {
+      "timestamp": "20220926000903",
+      "original": "http://gaelscoilchnocliamhna.ie/wp-content/uploads/2021/12/Polasai-Frithbhulaiochta-21-22.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "FCZVXYG2T2BNYCHSJTFYQAT7M6RDO4U3"
+    },
+    {
+      "timestamp": "20220925231426",
+      "original": "https://gaelscoilchnocliamhna.ie/wp-content/uploads/2022/06/Buy-a-Brick.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "QQUSYXPMZRHJPV6OPYPEDYW2XJZ74IK7"
+    },
+    {
+      "timestamp": "20220926010728",
+      "original": "http://gaelscoilchnocliamhna.ie/wp-content/uploads/2022/09/Child-Safeguarding-Statement-and-Risk-assessment-22-23.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "NYAY24NO2NYZLMBRAZKCDNS6V425QHLY"
+    },
+    {
+      "timestamp": "20220926001854",
+      "original": "http://gaelscoilchnocliamhna.ie/wp-content/uploads/2022/09/Cumhdach-Leanai-Raiteas-agus-measunu-riosca-22-23.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "DWM42PLUSLV4PWBD2RU7IUETRZ4F6Y6U"
+    },
+    {
+      "timestamp": "20220925234733",
+      "original": "http://gaelscoilchnocliamhna.ie/wp-content/uploads/2022/09/Fogra-Iontrala-Bliantuil-Annual-Admission-Notice-23-24.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "P3C4XCYEFNURF7W2RGXLELVCWQ36PSD7"
+    },
+    {
+      "timestamp": "20220926001817",
+      "original": "http://gaelscoilchnocliamhna.ie/wp-content/uploads/2022/09/Foirm-Chlaraithe-Registration-Form-23-24.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "TEVWF4XY5TPRHL4FHX2M7LSYU327RZBS"
+    },
+    {
+      "timestamp": "20220926002755",
+      "original": "http://gaelscoilchnocliamhna.ie/wp-content/uploads/2022/09/General-Statement-on-Safety-GCL22-23.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "TSVZ4FANHYHPBLVRQPGQYQTEEUC5QJ6D"
+    },
+    {
+      "timestamp": "20230922045503",
+      "original": "http://gaelscoilchnocliamhna.ie/wp-content/uploads/2022/09/Nuachtlitir-15-09-22.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "W6NMWAAV7TIEJ26SAU53KUYTWOW4B7N4"
+    },
+    {
+      "timestamp": "20220926003408",
+      "original": "http://gaelscoilchnocliamhna.ie/wp-content/uploads/2022/09/Polasai-Iontrala-Faofa-Approved-Admission-Policy-23-24.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "K7SRUE3LVLXFC3DNJSV4M4A26LZSGSUS"
+    },
+    {
+      "timestamp": "20220925232446",
+      "original": "http://gaelscoilchnocliamhna.ie/wp-content/uploads/2022/09/Raiteas-maidir-le-Cumhdach-Leanai-fogra.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "QS4GHRRFXY67A3U66UUDSISGWWHSEDFZ"
+    },
+    {
+      "timestamp": "20220926001932",
+      "original": "http://gaelscoilchnocliamhna.ie/wp-content/uploads/2022/09/Raiteas-Slainte-agus-Sabhailteachta-GCL22-23.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "ICVOHI2MYML4KAVU2I6PE2CV3RSKXMIM"
+    },
+    {
+      "timestamp": "20230530180822",
+      "original": "http://gaelscoilchnocliamhna.ie/wp-content/uploads/2023/02/Faofa-Chnoc-Liamhna-Polasai-Iontrala-23-24-Approved-Admissions-Policy-23-24.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "SBVTIJ3VASWVI6S63QK54V5GBRYETONV"
+    },
+    {
+      "timestamp": "20230530175309",
+      "original": "http://gaelscoilchnocliamhna.ie/wp-content/uploads/2023/02/Polasai-Loin-Shlaintiuil.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "56ILEM2ZMKSD2C42R4X6I2R56CEQ6L5T"
+    },
+    {
+      "timestamp": "20230530172408",
+      "original": "http://gaelscoilchnocliamhna.ie/wp-content/uploads/2023/03/Anti-Bullying-Policy-22-23.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "YCBVCKKLOTGNSHWONMLUWD346MCT3K53"
+    },
+    {
+      "timestamp": "20230530173713",
+      "original": "http://gaelscoilchnocliamhna.ie/wp-content/uploads/2023/03/Polasai-Frithbhulaiochta-22-23.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "2TCLYRHT74QVRRMLIZYKJLSEKEUHBUKW"
+    },
+    {
+      "timestamp": "20240530091433",
+      "original": "http://gaelscoilchnocliamhna.ie/wp-content/uploads/2023/09/Child-Safeguarding-Statement-and-Risk-Assessment-Bearla-23-24.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "4LNKDKMH26JZ5GI33VNPYW5MJ7Z7FUGV"
+    },
+    {
+      "timestamp": "20240530101944",
+      "original": "http://gaelscoilchnocliamhna.ie/wp-content/uploads/2023/09/Faofa-Chnoc-Liamhna-polasai-Iontrala-Approved-Admissions-Policy-24-25.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "QPUTX5RXYBI4AQXXHWGE5ZMSJCR3K3GZ"
+    },
+    {
+      "timestamp": "20240530094721",
+      "original": "http://gaelscoilchnocliamhna.ie/wp-content/uploads/2023/09/Fogra-Iontrala-Bliantiuil-24-25-Annual-Admissions-Notice.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "YUNM2QIAND2OYF2JX7FPHWKN3X4PBSDL"
+    },
+    {
+      "timestamp": "20240530100122",
+      "original": "http://gaelscoilchnocliamhna.ie/wp-content/uploads/2023/09/Foirm-Iarratais-Enrolment-Form-24-25.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "5DHYIYVLFDA7KKVRUCMIVCJGSDGF6DI4"
+    },
+    {
+      "timestamp": "20240530105616",
+      "original": "http://gaelscoilchnocliamhna.ie/wp-content/uploads/2023/09/Raiteas-um-Chumhdach-Leanai-agus-Measunu-Riosca-23-24.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "KLLFN42KZHOP2HX4CGHSYY73HNP62J5W"
+    },
+    {
+      "timestamp": "20240530094154",
+      "original": "http://gaelscoilchnocliamhna.ie/wp-content/uploads/2024/01/An-Beartas-um-Chosaint-Sonrai-agus-Choimead-Taifead-GDPR-Policy.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "KONFT6S3ZYWIZNB2CN2H27C4DQCJGVFM"
+    },
+    {
+      "timestamp": "20240530092735",
+      "original": "http://gaelscoilchnocliamhna.ie/wp-content/uploads/2024/01/GDPR-G-agus-B-Privacy-Notice-.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "BBTRNR5YXWIGFZRHN3XMIPHKFUUKLZZC"
+    },
+    {
+      "timestamp": "20240714063530",
+      "original": "http://gaelscoilchnocliamhna.ie/wp-content/uploads/2024/01/Polasai-Imeachta-Idirghabhala-Gearain-Complaints-and-Intervention-Procedure-nua-24.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "ZZXODHRDVKQPHFGLKADCTL2XDSPKVAOL"
+    },
+    {
+      "timestamp": "20240530083751",
+      "original": "http://gaelscoilchnocliamhna.ie/wp-content/uploads/2024/01/Polasai-Loin-Shlaintiuil-Healthy-Eating-Policy.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "5GIYXFQ2M2GVSVMV2XQN44F52AW2UIAQ"
+    },
+    {
+      "timestamp": "20240530110017",
+      "original": "http://gaelscoilchnocliamhna.ie/wp-content/uploads/2024/01/Polasai-Obair-Bhaile-Homework-Policy.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "MM5WA6C7QUGZUYF5A6ISZQIFOY6VJILU"
+    },
+    {
+      "timestamp": "20240530090409",
+      "original": "http://gaelscoilchnocliamhna.ie/wp-content/uploads/2024/01/Polasai-Riarachain-Leighis-Medicine-Policy.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "MXXAZZ5HBCYEE5NAJK2CDAO5AE2JYBML"
+    },
+    {
+      "timestamp": "20240530103222",
+      "original": "http://gaelscoilchnocliamhna.ie/wp-content/uploads/2024/01/Polasai_tinrimh-_-Rannphairtiocht-Attendance-PolicyGSCL-23.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "TF3MLLBMRU5YZNRID7ANJCCP66SFIOHH"
+    },
+    {
+      "timestamp": "20240530104145",
+      "original": "http://gaelscoilchnocliamhna.ie/wp-content/uploads/2024/03/Cod-Iompair-GCL-Gaeilge.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "DT6XOTGAYZEB4IX6DXEJWHWZH5LRLUV6"
+    },
+    {
+      "timestamp": "20240530093922",
+      "original": "http://gaelscoilchnocliamhna.ie/wp-content/uploads/2024/03/Polasai-Imeachta-Idirghabhala-Gearain-Complaints-and-Intervention-Procedure-nua-24.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "LMHYU4ERTEWZYBVBFTOSRWYF3B7PIM2O"
+    },
+    {
+      "timestamp": "20241004204133",
+      "original": "http://gaelscoilchnocliamhna.ie/wp-content/uploads/2024/09/Annual-Admission-Notice-25-26.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "VY7OBSFZH74PEHNKYJYSU3A32V4SFPP6"
+    },
+    {
+      "timestamp": "20241004203123",
+      "original": "https://gaelscoilchnocliamhna.ie/wp-content/uploads/2024/09/Approved-Admissions-Policy-25-26.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "6UV7XVST475XABUV4IPKMKJMXUTUDOTV"
+    },
+    {
+      "timestamp": "20241004203247",
+      "original": "http://gaelscoilchnocliamhna.ie/wp-content/uploads/2024/09/Code-of-Behaviour-GCL-Bearla.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "LMHYU4ERTEWZYBVBFTOSRWYF3B7PIM2O"
+    },
+    {
+      "timestamp": "20241004220736",
+      "original": "http://gaelscoilchnocliamhna.ie/wp-content/uploads/2024/09/Faofa-Chnoc-Liamhna-polasai-Iontrala-25-26.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "Y3GY4M5VBSR2XCRDQYTYVMBDW7LIEVCB"
+    },
+    {
+      "timestamp": "20241004221143",
+      "original": "http://gaelscoilchnocliamhna.ie/wp-content/uploads/2024/09/Fogra-Iontrala-Bliantiuil-25-26.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "3EM4HIGMKCES6XIE4DM6KKTDYQHDTTOE"
+    },
+    {
+      "timestamp": "20241004220352",
+      "original": "https://gaelscoilchnocliamhna.ie/wp-content/uploads/2024/09/Foirm-Iarratais-Enrolment-Form-25-26.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "NA7OLMOBFL4BXNAAZPJS2BGCQTS5AOXZ"
+    },
+    {
+      "timestamp": "20241213191334",
+      "original": "http://gaelscoilchnocliamhna.ie/wp-content/uploads/2024/11/Anti-Bullying-Policy-Nol-24-25.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "Y6QEHTVK6LZHC75OPANKUEN5HUYCD6IG"
+    },
+    {
+      "timestamp": "20241213191808",
+      "original": "http://gaelscoilchnocliamhna.ie/wp-content/uploads/2024/11/Child-Safeguarding-Statement-and-Risk-Assessment-Bearla-24-25.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "L63KL34KJ2OHL6ONZCRYG4W7EF7Z5IAZ"
+    },
+    {
+      "timestamp": "20241213191149",
+      "original": "http://gaelscoilchnocliamhna.ie/wp-content/uploads/2024/11/Fogra-maidir-le-hathbhreithniu-an-Udarais-Bainistiochta-ar-an-Raiteas-um-Chumhdach-Leanai-24-25.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "3N5XDT4RTPHQJ6BMOHIQMH2D25ESHC3V"
+    },
+    {
+      "timestamp": "20241213171603",
+      "original": "http://gaelscoilchnocliamhna.ie/wp-content/uploads/2024/11/Fogra-maidir-le-hathbhreithniu-bliantuil-an-Bhoird-Bhainistiochta-ar-an-mbeartas-frithbhulaiochta-24-25.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "BNVWIQZYQMTDSGSCKFOBOIZH3EAR2YCV"
+    },
+    {
+      "timestamp": "20241213172118",
+      "original": "http://gaelscoilchnocliamhna.ie/wp-content/uploads/2024/11/General-Statement-on-Safety-GCL24-25.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "MMCK6MTFT6BOZTGW53AS3IU5BA36CJST"
+    },
+    {
+      "timestamp": "20241213194722",
+      "original": "http://gaelscoilchnocliamhna.ie/wp-content/uploads/2024/11/Polasai-Frithbhulaiochta-nol-24-25.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "DYTENUM2YO3VPBARHQ6PKFKCJYI5LIT2"
+    },
+    {
+      "timestamp": "20241213183054",
+      "original": "http://gaelscoilchnocliamhna.ie/wp-content/uploads/2024/11/Polasai-Imeachta-Idirghabhala-Gearain-Complaints-and-Intervention-Procedure-nua-24.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "44HKAKPQDNYZW2EZEHHSORDJCQV7DLEM"
+    },
+    {
+      "timestamp": "20241213173533",
+      "original": "http://gaelscoilchnocliamhna.ie/wp-content/uploads/2024/11/Polasai-Obair-Bhaile-Homework-Policy.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "MM5WA6C7QUGZUYF5A6ISZQIFOY6VJILU"
+    },
+    {
+      "timestamp": "20241213194131",
+      "original": "http://gaelscoilchnocliamhna.ie/wp-content/uploads/2024/11/Polasai-Sceithireachta-Whistleblowing.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "TBMOZKADI5UZOCA6CVGDCUM43ILZE4XU"
+    },
+    {
+      "timestamp": "20241213173006",
+      "original": "http://gaelscoilchnocliamhna.ie/wp-content/uploads/2024/11/Polasai_tinrimh-_-Rannphairtiocht-GSCL.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "TF3MLLBMRU5YZNRID7ANJCCP66SFIOHH"
+    },
+    {
+      "timestamp": "20241213185939",
+      "original": "http://gaelscoilchnocliamhna.ie/wp-content/uploads/2024/11/Raiteas-Slainte-agus-Sabhailteachta-GCL24-25.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "7ZGAKI6UZ5ZCZEWK3STOPMB5IG6WO2NS"
+    },
+    {
+      "timestamp": "20241213192015",
+      "original": "http://gaelscoilchnocliamhna.ie/wp-content/uploads/2024/11/Raiteas-um-Chumhdach-Leanai-agus-Measunu-Riosca-24-25.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "RA4HGEJZOOX464F2PJNPBOCOMLH4YF37"
+    },
+    {
+      "timestamp": "20250321111021",
+      "original": "http://gaelscoilchnocliamhna.ie/wp-content/uploads/2025/01/GDPR-G-agus-B-Privacy-Notice-New.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "WYI7UMXI7UTWYHVJD4F5FSKSIZZVH2MB"
+    },
+    {
+      "timestamp": "20250719140518",
+      "original": "http://gaelscoilchnocliamhna.ie/wp-content/uploads/2025/06/appendix-b-student-friendly-bi-cinealta-policy-1.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "CAOR4GJNSSTLA5XV4QHDCFB6TF2SNKUR"
+    },
+    {
+      "timestamp": "20250719150151",
+      "original": "http://gaelscoilchnocliamhna.ie/wp-content/uploads/2025/06/Approved-Admissions-Policy-26-27.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "DCHPL4LFCRSPARQK5OS4DQZLWZ3D7ICX"
+    },
+    {
+      "timestamp": "20250719141004",
+      "original": "http://gaelscoilchnocliamhna.ie/wp-content/uploads/2025/06/Bi-Cinealta-Gaeilge-GSCL.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "Z3F6Q64VYYF44IHDZR27ZGQSOO3BE4AH"
+    },
+    {
+      "timestamp": "20250719141737",
+      "original": "http://gaelscoilchnocliamhna.ie/wp-content/uploads/2025/06/Child-Safeguarding-Statement-and-Risk-Assessment-Bearla-25-26.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "GZLKCF2JKYU3SSBJEGXNAEMW7TFJLPIJ"
+    },
+    {
+      "timestamp": "20250719150541",
+      "original": "http://gaelscoilchnocliamhna.ie/wp-content/uploads/2025/06/Faofa-Chnoc-Liamhna-polasai-Iontrala-26-27.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "HROMFOQDJDLND52DYRLTFRHEC7SJCVEM"
+    },
+    {
+      "timestamp": "20250719140253",
+      "original": "http://gaelscoilchnocliamhna.ie/wp-content/uploads/2025/06/Fogra-Iontrala-Bliantiuil-26-27.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "BTDVBYREOD5WBE7UZICJHMUUU4F5XPE5"
+    },
+    {
+      "timestamp": "20250719151045",
+      "original": "http://gaelscoilchnocliamhna.ie/wp-content/uploads/2025/06/Fogra-maidir-le-hathbhreithniu-an-Udarais-Bainistiochta-ar-an-Raiteas-um-Chumhdach-Leanai-25-26.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "VTX77QK7IJZCHTQ6FLBLDB3K3F7I2YAW"
+    },
+    {
+      "timestamp": "20250719150502",
+      "original": "http://gaelscoilchnocliamhna.ie/wp-content/uploads/2025/06/Foirm-Iarratais-Enrolment-Form-26-27.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "YKESBWF4IJ2GB4I7OYHXTMUD5RDRZDD2"
+    },
+    {
+      "timestamp": "20251016033000",
+      "original": "http://gaelscoilchnocliamhna.ie/wp-content/uploads/2025/09/GSCL-Bi-CInealta-Bearla.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "F4HH4KL3OVBFG57KPCXMFMHTB2DUZJK6"
+    },
+    {
+      "timestamp": "20260122162258",
+      "original": "https://gaelscoilchnocliamhna.ie/wp-content/uploads/2026/01/Annual-Admission-Notice-26-27.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "YOSMU6I5XDB5N66V3VX4F43JF6STPXB4"
+    },
+    {
+      "timestamp": "20260122173302",
+      "original": "https://gaelscoilchnocliamhna.ie/wp-content/uploads/2026/01/Approved-Admissions-Policy-26-27.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "DCHPL4LFCRSPARQK5OS4DQZLWZ3D7ICX"
+    },
+    {
+      "timestamp": "20260216114542",
+      "original": "https://gaelscoilchnocliamhna.ie/wp-content/uploads/2026/01/Cod-Iompair-GCL-26-28.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "HYLBK4FC64GS7CYKV2DSA7WPYLNEWPGP"
+    },
+    {
+      "timestamp": "20260216104742",
+      "original": "https://gaelscoilchnocliamhna.ie/wp-content/uploads/2026/01/Code-of-Behaviour-26-28.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "UP2Y5ZWVM4HOBTEDTTHP2QN2YKWEEXMB"
+    },
+    {
+      "timestamp": "20260216105001",
+      "original": "https://gaelscoilchnocliamhna.ie/wp-content/uploads/2026/01/Combined-Gaelscoil-Chnoc-Liamhna-Polasai-Iontrala-Admissions-Policy-26-27.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "QZGH6SK443ZKTECXD6VUHYLNZKDPUV75"
+    },
+    {
+      "timestamp": "20260122173507",
+      "original": "https://gaelscoilchnocliamhna.ie/wp-content/uploads/2026/01/Faofa-Chnoc-Liamhna-polasai-Iontrala-26-27.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "HROMFOQDJDLND52DYRLTFRHEC7SJCVEM"
+    },
+    {
+      "timestamp": "20260122163142",
+      "original": "https://gaelscoilchnocliamhna.ie/wp-content/uploads/2026/01/Faofa-Chnoc-Liamhna-polasai-Iontrala-Approved-Admissions-Policy-26-27.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "UQVME6HUT5ND66BZBL22GLKF6JY5JDTD"
+    },
+    {
+      "timestamp": "20260122164110",
+      "original": "https://gaelscoilchnocliamhna.ie/wp-content/uploads/2026/01/Fogra-Iontrala-Bliantiuil-26-27.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "BTDVBYREOD5WBE7UZICJHMUUU4F5XPE5"
+    },
+    {
+      "timestamp": "20260216111502",
+      "original": "https://gaelscoilchnocliamhna.ie/wp-content/uploads/2026/01/Fogra-Iontrala-Bliantiuil-GA-ENG-26-27-1.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "Z5FDVENXN6B65JEUC74IJJT5WRHJJIDK"
+    },
+    {
+      "timestamp": "20260122170120",
+      "original": "https://gaelscoilchnocliamhna.ie/wp-content/uploads/2026/01/Fogra-Iontrala-Bliantiuil-GA-ENG-26-27.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "XQAIKDHAGOGF4ZACIHRTKX2YB7DBG4IZ"
+    },
+    {
+      "timestamp": "20260122173504",
+      "original": "https://gaelscoilchnocliamhna.ie/wp-content/uploads/2026/01/Foirm-Iarratais-Enrolment-Form-26-27.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "VBLXBUTM65TLWJN4PGJAYLDSN36JHGJE"
+    },
+    {
+      "timestamp": "20260216113236",
+      "original": "https://gaelscoilchnocliamhna.ie/wp-content/uploads/2026/01/oICHE-oSCAILTE-oPEN-niGHT-Flyer.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "LIHUPEKBSFNS6PD35HRSUUX66LXK7YEW"
+    },
+    {
+      "timestamp": "20260216120300",
+      "original": "https://gaelscoilchnocliamhna.ie/wp-content/uploads/2026/02/1-Foirm-Iarratais-Enrolment-Form-26-27-GCL.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "ZVNXEDB5VV6R74VMVXTN7LAFHRE5X6SS"
+    },
+    {
+      "timestamp": "20260414174548",
+      "original": "https://gaelscoilchnocliamhna.ie/wp-content/uploads/2026/04/Nuachtlitir-26-03-26.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "B7IMYVGOARGCMCBNIVDYHJTDYGIMK63E"
+    },
+    {
+      "timestamp": "20260414185432",
+      "original": "https://gaelscoilchnocliamhna.ie/wp-content/uploads/2026/04/Nuachtlitir_24_10_25.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": "200",
+      "digest": "7TMG6N7KAAWB5XSAKU6XLIYV6U4VFXV5"
+    }
+  ],
+  "status": "index_complete",
+  "capture_count": 104
+}

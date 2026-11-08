@@ -1,0 +1,188 @@
+{
+  "roll": "19039I",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://stvincentsspecialschool.ie",
+      "final_url": "https://stvincentsspecialschool.ie",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://stvincentsspecialschool.ie/index_htm_files/Admission%20Application%20Form%202027%20-%202028.pdf",
+      "final_url": "https://stvincentsspecialschool.ie/index_htm_files/Admission%20Application%20Form%202027%20-%202028.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://stvincentsspecialschool.ie/index_htm_files/Admissions%20Policy.pdf",
+      "final_url": "https://stvincentsspecialschool.ie/index_htm_files/Admissions%20Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://stvincentsspecialschool.ie/policies.htm",
+      "final_url": "https://stvincentsspecialschool.ie/policies.htm",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://stvincentsspecialschool.ie/index_htm_files/Notice%20to%20Parents.pdf",
+      "final_url": "https://stvincentsspecialschool.ie/index_htm_files/Notice%20to%20Parents.pdf",
+      "status": "http_404",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://stvincentsspecialschool.ie/index_htm_files/Parental%20Complaints%20Procedure%202024.pdf",
+      "final_url": "https://stvincentsspecialschool.ie/index_htm_files/Parental%20Complaints%20Procedure%202024.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://stvincentsspecialschool.ie/index_htm_files/Parent%20Notification%20regarding%20the%20BOM%20Review.pdf",
+      "final_url": "https://stvincentsspecialschool.ie/index_htm_files/Parent%20Notification%20regarding%20the%20BOM%20Review.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://stvincentsspecialschool.ie/parentsguardians.htm",
+      "final_url": "https://stvincentsspecialschool.ie/parentsguardians.htm",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://stvincentsspecialschool.ie/index_htm_files/Whistle%20Blowing%20Policy%20February%202025.pdf",
+      "final_url": "https://stvincentsspecialschool.ie/index_htm_files/Whistle%20Blowing%20Policy%20February%202025.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://stvincentsspecialschool.ie/index_htm_files/PEG%20Policy%20%20Ratified%20May%202026.pdf",
+      "final_url": "https://stvincentsspecialschool.ie/index_htm_files/PEG%20Policy%20%20Ratified%20May%202026.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://stvincentsspecialschool.ie/index_htm_files/Intimate%20Care%20Policy%20February%202025.pdf",
+      "final_url": "https://stvincentsspecialschool.ie/index_htm_files/Intimate%20Care%20Policy%20February%202025.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://stvincentsspecialschool.ie/index_htm_files/Critical%20Incident%20Policy%20February%202025.pdf",
+      "final_url": "https://stvincentsspecialschool.ie/index_htm_files/Critical%20Incident%20Policy%20February%202025.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://stvincentsspecialschool.ie/index_htm_files/Bi%20Cinealta%20Policy%202026.pdf",
+      "final_url": "https://stvincentsspecialschool.ie/index_htm_files/Bi%20Cinealta%20Policy%202026.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://stvincentsspecialschool.ie/index_htm_files/Attendance%20Policy%202026.pdf",
+      "final_url": "https://stvincentsspecialschool.ie/index_htm_files/Attendance%20Policy%202026.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://stvincentsspecialschool.ie/index_htm_files/Administration%20of%20Medication%20Policy%20May%202026.pdf",
+      "final_url": "https://stvincentsspecialschool.ie/index_htm_files/Administration%20of%20Medication%20Policy%20May%202026.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://stvincentsspecialschool.ie/index_htm_files/Acceptable%20Use%20Policy%20May%202026.pdf",
+      "final_url": "https://stvincentsspecialschool.ie/index_htm_files/Acceptable%20Use%20Policy%20May%202026.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "http://www.stvincentsspecialschool.ie/sitemap.xml",
+      "final_url": "http://www.stvincentsspecialschool.ie/sitemap.xml",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://stvincentsspecialschool.ie/index_htm_files/Irish%20Language%20and%20Cultural%20Policy.pdf",
+      "final_url": "https://stvincentsspecialschool.ie/index_htm_files/Irish%20Language%20and%20Cultural%20Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://stvincentsspecialschool.ie/index_htm_files/IEP%20Policy.pdf",
+      "final_url": "https://stvincentsspecialschool.ie/index_htm_files/IEP%20Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://stvincentsspecialschool.ie/index_htm_files/Health%20and%20Safety%20Policy.pdf",
+      "final_url": "https://stvincentsspecialschool.ie/index_htm_files/Health%20and%20Safety%20Policy.pdf",
+      "status": "http_404",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://stvincentsspecialschool.ie/index_htm_files/Fire%20Drill%20and%20Evacuation%20Policy.pdf",
+      "final_url": "https://stvincentsspecialschool.ie/index_htm_files/Fire%20Drill%20and%20Evacuation%20Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://stvincentsspecialschool.ie/index_htm_files/Assessment%20Policy.pdf",
+      "final_url": "https://stvincentsspecialschool.ie/index_htm_files/Assessment%20Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19039I",
+      "url": "https://stvincentsspecialschool.ie/index_htm_files/Admission%20Application%20Form%202027%20-%202028.pdf",
+      "label": "",
+      "sha256": "665435571168f39524a5b2e4c7e9fa3491a11a041290a25327e222f50ea2fc22",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19039I_665435571168f39524a5.txt",
+      "source_file": "database/milestone2/cache/665435571168f39524a5b2e4c7e9fa3491a11a041290a25327e222f50ea2fc22.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 6176
+    },
+    {
+      "roll": "19039I",
+      "url": "https://stvincentsspecialschool.ie/index_htm_files/Admissions%20Policy.pdf",
+      "label": "",
+      "sha256": "19530be695a100e26f093b02964284ccbfb3b961fcf3d461ea04c1685d9bf38b",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19039I_19530be695a100e26f09.txt",
+      "source_file": "database/milestone2/cache/19530be695a100e26f093b02964284ccbfb3b961fcf3d461ea04c1685d9bf38b.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 24423
+    }
+  ],
+  "pending_links": [],
+  "elapsed_seconds": 68.65,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:45:19+0000"
+}

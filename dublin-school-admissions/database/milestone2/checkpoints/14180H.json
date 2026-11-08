@@ -1,0 +1,191 @@
+{
+  "roll": "14180H",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.holmpatrickns.ie/wp-content/uploads/2025/08/admission-open.jpg",
+      "final_url": "https://www.holmpatrickns.ie/wp-content/uploads/2025/08/admission-open.jpg",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "admission open"
+    },
+    {
+      "url": "https://www.holmpatrickns.ie/enrolment/",
+      "final_url": "https://www.holmpatrickns.ie/enrolment/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Enroll now"
+    },
+    {
+      "url": "https://www.holmpatrickns.ie/wp-content/uploads/2026/01/HPNS-Pre-enrolment-form-2025.docx",
+      "final_url": "https://www.holmpatrickns.ie/wp-content/uploads/2026/01/HPNS-Pre-enrolment-form-2025.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Skerries Holmpatrick National School Pre-Enrolment Registration Form"
+    },
+    {
+      "url": "https://www.holmpatrickns.ie/wp-content/uploads/2026/01/HPNS-Enrolment-form-2025.docx",
+      "final_url": "https://www.holmpatrickns.ie/wp-content/uploads/2026/01/HPNS-Enrolment-form-2025.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Skerries Holmpatrick National School Enrolment Form"
+    },
+    {
+      "url": "https://www.holmpatrickns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://www.holmpatrickns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://www.holmpatrickns.ie/wp-content/uploads/2026/01/Admission-Policy.docx",
+      "final_url": "https://www.holmpatrickns.ie/wp-content/uploads/2026/01/Admission-Policy.docx",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://www.holmpatrickns.ie/wp-sitemap.xml",
+      "final_url": "https://www.holmpatrickns.ie/wp-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.holmpatrickns.ie/wp-sitemap-posts-post-1.xml",
+      "final_url": "https://www.holmpatrickns.ie/wp-sitemap-posts-post-1.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.holmpatrickns.ie/wp-sitemap-posts-page-1.xml",
+      "final_url": "https://www.holmpatrickns.ie/wp-sitemap-posts-page-1.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.holmpatrickns.ie/policies/",
+      "final_url": "https://www.holmpatrickns.ie/policies/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.holmpatrickns.ie/parents-info/",
+      "final_url": "https://www.holmpatrickns.ie/parents-info/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents’ Info"
+    },
+    {
+      "url": "https://www.holmpatrickns.ie/hpns-parents-association/",
+      "final_url": "https://www.holmpatrickns.ie/hpns-parents-association/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "HPNS Parents’ Association"
+    },
+    {
+      "url": "https://www.holmpatrickns.ie/",
+      "final_url": "https://www.holmpatrickns.ie/",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.holmpatrickns.ie/parents-association/",
+      "final_url": "https://www.holmpatrickns.ie/parents-association/",
+      "status": "http_404",
+      "via": "school_public_link",
+      "label": "links here"
+    },
+    {
+      "url": "https://www.holmpatrickns.ie/wp-content/uploads/2025/01/HPNS-Healthy-Eating-Policy-2024.pdf",
+      "final_url": "https://www.holmpatrickns.ie/wp-content/uploads/2025/01/HPNS-Healthy-Eating-Policy-2024.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "HPNS Healthy Eating Policy"
+    },
+    {
+      "url": "https://www.holmpatrickns.ie/wp-content/uploads/2025/01/HPNS-Data-Protection-Policy-2024.pdf",
+      "final_url": "https://www.holmpatrickns.ie/wp-content/uploads/2025/01/HPNS-Data-Protection-Policy-2024.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "HPNS Data Protection Policy"
+    },
+    {
+      "url": "https://www.holmpatrickns.ie/wp-content/uploads/2026/01/Whistleblowing-Protected-Disclosures-Policy-2025.doc",
+      "final_url": "https://www.holmpatrickns.ie/wp-content/uploads/2026/01/Whistleblowing-Protected-Disclosures-Policy-2025.doc",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "HPNS Whistleblowing Protected Disclosures Policy"
+    },
+    {
+      "url": "https://www.holmpatrickns.ie/wp-content/uploads/2026/05/Holmpatrick-National-School-Garda-Vetting-Policy.docx",
+      "final_url": "https://www.holmpatrickns.ie/wp-content/uploads/2026/05/Holmpatrick-National-School-Garda-Vetting-Policy.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "HPNS Garda Vetting Policy"
+    },
+    {
+      "url": "https://www.holmpatrickns.ie/wp-content/uploads/2026/04/RSE.doc",
+      "final_url": "https://www.holmpatrickns.ie/wp-content/uploads/2026/04/RSE.doc",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "HPNS Relationships and Sexuality Education (RSE) Policy"
+    },
+    {
+      "url": "https://www.holmpatrickns.ie/wp-content/uploads/2026/04/GDPR-Policy-April-2026.docx",
+      "final_url": "https://www.holmpatrickns.ie/wp-content/uploads/2026/04/GDPR-Policy-April-2026.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "HPNS GDPR Policy"
+    },
+    {
+      "url": "https://www.holmpatrickns.ie/wp-content/uploads/2026/04/Bi-Cinealta-Policy-to-Prevent-and-Address-Bullying-Behaviour-HP-April-2026.docx",
+      "final_url": "https://www.holmpatrickns.ie/wp-content/uploads/2026/04/Bi-Cinealta-Policy-to-Prevent-and-Address-Bullying-Behaviour-HP-April-2026.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "HPNS Bí Cineálta Policy"
+    },
+    {
+      "url": "https://www.holmpatrickns.ie/wp-content/uploads/2026/01/Health-Safety-Policy.doc",
+      "final_url": "https://www.holmpatrickns.ie/wp-content/uploads/2026/01/Health-Safety-Policy.doc",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "HPNS Health and Safety Policy"
+    },
+    {
+      "url": "https://www.holmpatrickns.ie/wp-content/uploads/2026/01/Dignity-Respect-at-Work-Policy.docx",
+      "final_url": "https://www.holmpatrickns.ie/wp-content/uploads/2026/01/Dignity-Respect-at-Work-Policy.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "HPNS Dignity, Respect at Work Policy"
+    },
+    {
+      "url": "https://www.holmpatrickns.ie/cookie-policy-eu/",
+      "final_url": "https://www.holmpatrickns.ie/cookie-policy-eu/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Cookie Policy (EU)"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "14180H",
+      "url": "https://www.holmpatrickns.ie/wp-content/uploads/2026/01/Admission-Policy.docx",
+      "label": "Prior school admissions section",
+      "sha256": "a476ac89394ace033eb316d95f7721402ceba436975c10fccc1f87713a6be00d",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/14180H_a476ac89394ace033eb3.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 23110
+    }
+  ],
+  "pending_links": [],
+  "elapsed_seconds": 78.73,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:02:05+0000"
+}

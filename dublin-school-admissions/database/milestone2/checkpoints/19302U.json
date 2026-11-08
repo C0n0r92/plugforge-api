@@ -1,0 +1,202 @@
+{
+  "roll": "19302U",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.virginmarybns.ie/other-enrolments.html",
+      "final_url": "https://www.virginmarybns.ie/other-enrolments.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Other Enrolments"
+    },
+    {
+      "url": "https://www.virginmarybns.ie/uploads/1/0/3/5/103552994/2020_new_blue_enrolment_application_form_2019.docx",
+      "final_url": "https://www.virginmarybns.ie/uploads/1/0/3/5/103552994/2020_new_blue_enrolment_application_form_2019.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: 2020_new_blue_enrolment_application_form_2019.docx"
+    },
+    {
+      "url": "https://www.virginmarybns.ie/junior-infants-enrolments.html",
+      "final_url": "https://www.virginmarybns.ie/junior-infants-enrolments.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Junior Infants enrolments"
+    },
+    {
+      "url": "https://www.virginmarybns.ie/early-start-enrolments.html",
+      "final_url": "https://www.virginmarybns.ie/early-start-enrolments.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Early Start enrolments"
+    },
+    {
+      "url": "https://www.virginmarybns.ie/autism-class-enrolments.html",
+      "final_url": "https://www.virginmarybns.ie/autism-class-enrolments.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Autism Class enrolments"
+    },
+    {
+      "url": "https://www.virginmarybns.ie/uploads/1/0/3/5/103552994/asd_class_enrollment_form_2022.docx",
+      "final_url": "https://www.virginmarybns.ie/uploads/1/0/3/5/103552994/asd_class_enrollment_form_2022.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: asd_class_enrollment_form_2022.docx"
+    },
+    {
+      "url": "https://www.virginmarybns.ie/uploads/1/0/3/5/103552994/admissions_policy_2024_2025.docx",
+      "final_url": "https://www.virginmarybns.ie/uploads/1/0/3/5/103552994/admissions_policy_2024_2025.docx",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://www.virginmarybns.ie/uploads/1/0/3/5/103552994/2020_blue_early_start_application_form.docx",
+      "final_url": "https://www.virginmarybns.ie/uploads/1/0/3/5/103552994/2020_blue_early_start_application_form.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: Early start application form"
+    },
+    {
+      "url": "https://www.virginmarybns.ie/sitemap.xml",
+      "final_url": "https://www.virginmarybns.ie/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.virginmarybns.ie/policies.html",
+      "final_url": "https://www.virginmarybns.ie/policies.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.virginmarybns.ie/uploads/1/0/3/5/103552994/code_of_behaviour_2024_2025.docx",
+      "final_url": "https://www.virginmarybns.ie/uploads/1/0/3/5/103552994/code_of_behaviour_2024_2025.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: code_of_behaviour_2024_2025.docx"
+    },
+    {
+      "url": "https://www.virginmarybns.ie/uploads/1/0/3/5/103552994/child_safeguarding_statement_2024_2025.docx",
+      "final_url": "https://www.virginmarybns.ie/uploads/1/0/3/5/103552994/child_safeguarding_statement_2024_2025.docx",
+      "status": "public_document_size_bound",
+      "via": "school_public_link",
+      "label": "Download file: child_safeguarding_statement_2024_2025.docx"
+    },
+    {
+      "url": "https://www.virginmarybns.ie/uploads/1/0/3/5/103552994/parental_complaints_procedure.pdf",
+      "final_url": "https://www.virginmarybns.ie/uploads/1/0/3/5/103552994/parental_complaints_procedure.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: parental_complaints_procedure.pdf"
+    },
+    {
+      "url": "https://www.virginmarybns.ie/uploads/1/0/3/5/103552994/notification_to_parents_child_safeguarding_statement.docx",
+      "final_url": "https://www.virginmarybns.ie/uploads/1/0/3/5/103552994/notification_to_parents_child_safeguarding_statement.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: notification_to_parents_child_safeguarding_statement.docx"
+    },
+    {
+      "url": "https://www.virginmarybns.ie/uploads/1/0/3/5/103552994/whistleblowing__protected_disclosures__policy_2024.doc",
+      "final_url": "https://www.virginmarybns.ie/uploads/1/0/3/5/103552994/whistleblowing__protected_disclosures__policy_2024.doc",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: whistleblowing__protected_disclosures__policy_2024.doc"
+    },
+    {
+      "url": "https://www.virginmarybns.ie/uploads/1/0/3/5/103552994/updated_child_protection_policy_2024_25.docx",
+      "final_url": "https://www.virginmarybns.ie/uploads/1/0/3/5/103552994/updated_child_protection_policy_2024_25.docx",
+      "status": "public_document_size_bound",
+      "via": "school_public_link",
+      "label": "Download file: updated_child_protection_policy_2024_25.docx"
+    },
+    {
+      "url": "https://www.virginmarybns.ie/uploads/1/0/3/5/103552994/substance_use_policy_2024.docx",
+      "final_url": "https://www.virginmarybns.ie/uploads/1/0/3/5/103552994/substance_use_policy_2024.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: substance_use_policy_2024.docx"
+    },
+    {
+      "url": "https://www.virginmarybns.ie/uploads/1/0/3/5/103552994/social_media_policy_2024.docx",
+      "final_url": "https://www.virginmarybns.ie/uploads/1/0/3/5/103552994/social_media_policy_2024.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: social_media_policy_2024.docx"
+    },
+    {
+      "url": "https://www.virginmarybns.ie/uploads/1/0/3/5/103552994/set_assessment_policy_2024.docx",
+      "final_url": "https://www.virginmarybns.ie/uploads/1/0/3/5/103552994/set_assessment_policy_2024.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: set_assessment_policy_2024.docx"
+    },
+    {
+      "url": "https://www.virginmarybns.ie/uploads/1/0/3/5/103552994/mobile_phone_policy_new_2024.doc",
+      "final_url": "https://www.virginmarybns.ie/uploads/1/0/3/5/103552994/mobile_phone_policy_new_2024.doc",
+      "status": "public_document_size_bound",
+      "via": "school_public_link",
+      "label": "Download file: mobile_phone_policy_new_2024.doc"
+    },
+    {
+      "url": "https://www.virginmarybns.ie/uploads/1/0/3/5/103552994/intimate_care_toileting_policy_jan_2024.doc",
+      "final_url": "https://www.virginmarybns.ie/uploads/1/0/3/5/103552994/intimate_care_toileting_policy_jan_2024.doc",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: intimate_care_toileting_policy_jan_2024.doc"
+    },
+    {
+      "url": "https://www.virginmarybns.ie/uploads/1/0/3/5/103552994/inclusion_policy_2024.docx",
+      "final_url": "https://www.virginmarybns.ie/uploads/1/0/3/5/103552994/inclusion_policy_2024.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: inclusion_policy_2024.docx"
+    },
+    {
+      "url": "https://www.virginmarybns.ie/uploads/1/0/3/5/103552994/extra_curricular_activities_policy_2024.docx",
+      "final_url": "https://www.virginmarybns.ie/uploads/1/0/3/5/103552994/extra_curricular_activities_policy_2024.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: extra_curricular_activities_policy_2024.docx"
+    },
+    {
+      "url": "https://www.virginmarybns.ie/uploads/1/0/3/5/103552994/dignity_in_the_workplace_policy_2024.docx",
+      "final_url": "https://www.virginmarybns.ie/uploads/1/0/3/5/103552994/dignity_in_the_workplace_policy_2024.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: dignity_in_the_workplace_policy_2024.docx"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19302U",
+      "url": "https://www.virginmarybns.ie/uploads/1/0/3/5/103552994/admissions_policy_2024_2025.docx",
+      "label": "Prior school admissions section",
+      "sha256": "22433f7825cfcfcc5acd2ac8ec9abce868ba22d7780732d9c4483955a3acfe7c",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/19302U_22433f7825cfcfcc5acd.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 27092
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.virginmarybns.ie/uploads/1/0/3/5/103552994/anti_bullying_policy_2024.docx",
+      "label": "Download file: anti_bullying_policy_2024.docx",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.virginmarybns.ie/uploads/1/0/3/5/103552994/acceptable_use_policy_2024.docx",
+      "label": "Download file: acceptable_use_policy_2024.docx",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 69.5,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:42:50+0000"
+}

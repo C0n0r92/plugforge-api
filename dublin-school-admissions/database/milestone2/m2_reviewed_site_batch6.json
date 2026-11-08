@@ -1,0 +1,807 @@
+[
+  {
+    "roll": "17318C",
+    "url": "https://www.holychildbns.ie/uploads/8/0/0/9/80093794/annual_admissions_notice_2026-2027.pdf",
+    "sha256": "8c26eb7a00ca8087f4858cb3300395c7cf10c09536a5b6d9b8cafc9d33db3156",
+    "format": "pdf",
+    "source_file": "database/milestone2/unparsed_notice_followup/cache/8c26eb7a00ca8087f4858cb3300395c7cf10c09536a5b6d9b8cafc9d33db3156.pdf",
+    "text_file": "database/milestone2/unparsed_notice_followup/evidence/17318C_8c26eb7a00ca8087f485.txt",
+    "candidate_status": "actual_body_requires_manual_review",
+    "ocr": false,
+    "retrieved_at": "2026-11-08T13:29:49+0000",
+    "recovery_checkpoint": "database/milestone2/unparsed_notice_followup/checkpoints/31cef64a03126cd0f4a8ba21.json",
+    "recovery_notes": null,
+    "groups": [
+      {
+        "title": "2026/2027",
+        "year": "2026/2027",
+        "cohort": "First Class",
+        "metrics": {
+          "places": 50
+        },
+        "lo": 62,
+        "hi": 71,
+        "notes": "",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2026/2027",
+        "year": "2026/2027",
+        "cohort": "Autism special class",
+        "metrics": {
+          "places": 3
+        },
+        "lo": 62,
+        "hi": 71,
+        "notes": "",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2026/2027",
+        "year": "2025/2026",
+        "cohort": "Autism special class",
+        "metrics": {
+          "places": 4,
+          "applications": 5,
+          "offers": 4,
+          "acceptances": null,
+          "waiting_list_names_placed": 1
+        },
+        "lo": 71,
+        "hi": 98,
+        "notes": "Only criterion2 explicitly accepted4; not manufactured aggregate acceptance.",
+        "phase": "retrospective",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2026/2027",
+        "year": "2025/2026",
+        "cohort": "Autism special class",
+        "metrics": {
+          "offers": 4,
+          "acceptances": 4
+        },
+        "lo": 86,
+        "hi": 90,
+        "notes": "Explicit feeder-school criterion only.",
+        "phase": "retrospective",
+        "scope": "criterion_2_feeder_school",
+        "quality": "high"
+      }
+    ],
+    "retrieval_url": "https://www.holychildbns.ie/uploads/8/0/0/9/80093794/annual_admissions_notice_2026-2027.pdf"
+  },
+  {
+    "roll": "20141G",
+    "url": "https://static1.squarespace.com/static/5a95188045776ee281b9fd9c/t/6abd43f9fb620b64e20d0ee4/1790788601953/Annual+Admission+Notice+2027-28+ASD+class.pdf",
+    "sha256": "977c43dd33b0596dbfd295d9fab562599c4f4523ab56f528f8b4c32668983191",
+    "format": "pdf",
+    "source_file": "database/milestone2/unparsed_notice_followup/cache/977c43dd33b0596dbfd295d9fab562599c4f4523ab56f528f8b4c32668983191.pdf",
+    "text_file": "database/milestone2/unparsed_notice_followup/evidence/20141G_977c43dd33b0596dbfd2.txt",
+    "candidate_status": "actual_body_requires_manual_review",
+    "ocr": false,
+    "retrieved_at": "2026-11-08T13:29:49+0000",
+    "recovery_checkpoint": "database/milestone2/unparsed_notice_followup/checkpoints/3678d13ab2c74a9e0fca2c39.json",
+    "recovery_notes": null,
+    "groups": [
+      {
+        "title": "2027/2028",
+        "year": "2027/2028",
+        "cohort": "ASD special class",
+        "metrics": {
+          "places": 0
+        },
+        "lo": 31,
+        "hi": 34,
+        "notes": "Direct printed0, not an inference from prose currently full.",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      }
+    ],
+    "retrieval_url": "https://static1.squarespace.com/static/5a95188045776ee281b9fd9c/t/6abd43f9fb620b64e20d0ee4/1790788601953/Annual+Admission+Notice+2027-28+ASD+class.pdf"
+  },
+  {
+    "roll": "19500B",
+    "url": "https://phoenixparkschool.ie/wp-content/uploads/2025/10/Admissions-Notice-25_26.pdf",
+    "sha256": "fbb111b3347a0c81b175ca3296e43213b126244e1e57709ab30c6e487811c21b",
+    "format": "pdf",
+    "source_file": "database/milestone2/unparsed_notice_followup/cache/fbb111b3347a0c81b175ca3296e43213b126244e1e57709ab30c6e487811c21b.pdf",
+    "text_file": "database/milestone2/unparsed_notice_followup/evidence/19500B_fbb111b3347a0c81b175.txt",
+    "candidate_status": "actual_body_requires_manual_review",
+    "ocr": false,
+    "retrieved_at": "2026-11-08T13:29:54+0000",
+    "recovery_checkpoint": "database/milestone2/unparsed_notice_followup/checkpoints/433c7e5205ddcff63290aef4.json",
+    "recovery_notes": null,
+    "groups": [
+      {
+        "title": "2026/2027 (Part1)",
+        "year": "2026/2027",
+        "cohort": "All primary special-school classes: Severe EBD",
+        "metrics": {
+          "places": 5
+        },
+        "lo": 40,
+        "hi": 84,
+        "notes": "Capacity and Part1 agree2026/27, introductory policy-copy availability says2025/26. Preserve conflict flag.",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high",
+        "year_status": "explicit_quota_year_conflicting_intro"
+      },
+      {
+        "title": "2026/2027 (Part1)",
+        "year": null,
+        "cohort": "All primary special-school classes: Severe EBD",
+        "metrics": {
+          "places": 5,
+          "applications": 12,
+          "offers": null,
+          "acceptances": 5,
+          "waiting_list_eligible_names": 5
+        },
+        "lo": 61,
+        "hi": 84,
+        "notes": "Historical wrapper/intake and detailedintro/table give conflicting academic years. Total-offers row VALUE explicitly says places accepted; retain accepted count but do not silently turn it into offers. Waitinglist explicitly restricted to those meeting criteria, not all names ever placed.",
+        "phase": "retrospective",
+        "scope": "whole_table",
+        "quality": "medium",
+        "metric_definitions": {
+          "waiting_list_eligible_names": "Source count on waiting list explicitly meeting criteria; not all applications or all names ever placed."
+        }
+      }
+    ],
+    "retrieval_url": "https://phoenixparkschool.ie/wp-content/uploads/2025/10/Admissions-Notice-25_26.pdf"
+  },
+  {
+    "roll": "19500B",
+    "url": "https://phoenixparkschool.ie/wp-content/uploads/2026/10/Admissions-Notice-27_28.pdf",
+    "sha256": "11e690b830c39dfbd4f6eb3ed84306abc279053c29461d70041d36fc5bf93faf",
+    "format": "pdf",
+    "source_file": "database/milestone2/unparsed_notice_followup/cache/11e690b830c39dfbd4f6eb3ed84306abc279053c29461d70041d36fc5bf93faf.pdf",
+    "text_file": "database/milestone2/unparsed_notice_followup/evidence/19500B_11e690b830c39dfbd4f6.txt",
+    "candidate_status": "actual_body_requires_manual_review",
+    "ocr": false,
+    "retrieved_at": "2026-11-08T13:29:51+0000",
+    "recovery_checkpoint": "database/milestone2/unparsed_notice_followup/checkpoints/5e47064872caaa1c72cd6923.json",
+    "recovery_notes": null,
+    "groups": [
+      {
+        "title": "2027/2028",
+        "year": "2027/2028",
+        "cohort": "All primary special-school classes: Severe EBD",
+        "metrics": {
+          "places": 4
+        },
+        "lo": 40,
+        "hi": 85,
+        "notes": "",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2027/2028",
+        "year": null,
+        "cohort": "All primary special-school classes: Severe EBD",
+        "metrics": {
+          "places": 3,
+          "applications": 10,
+          "offers": null,
+          "acceptances": 3,
+          "waiting_list_eligible_names": 2
+        },
+        "lo": 61,
+        "hi": 85,
+        "notes": "Historical wrapper/intake and detailedintro/table give conflicting academic years. Total-offers row VALUE explicitly says places accepted; retain accepted count but do not silently turn it into offers. Waitinglist explicitly restricted to those meeting criteria, not all names ever placed.",
+        "phase": "retrospective",
+        "scope": "whole_table",
+        "quality": "medium",
+        "metric_definitions": {
+          "waiting_list_eligible_names": "Source count on waiting list explicitly meeting criteria; not all applications or all names ever placed."
+        }
+      }
+    ],
+    "retrieval_url": "https://phoenixparkschool.ie/wp-content/uploads/2026/10/Admissions-Notice-27_28.pdf"
+  },
+  {
+    "roll": "18210K",
+    "url": "https://storage.googleapis.com/iclasscrm_files/34/Images/Content/2026/306/lc41-Admission_notice_2027_28_Final.pdf",
+    "sha256": "1a504b1da82cb47874de77f86ff91cddd961995e2b96c9d594403673d2dc3c5f",
+    "format": "pdf",
+    "source_file": "database/milestone2/unparsed_notice_followup/cache/1a504b1da82cb47874de77f86ff91cddd961995e2b96c9d594403673d2dc3c5f.pdf",
+    "text_file": "database/milestone2/unparsed_notice_followup/evidence/18210K_1a504b1da82cb47874de.txt",
+    "candidate_status": "actual_body_requires_manual_review",
+    "ocr": false,
+    "retrieved_at": "2026-11-08T13:29:52+0000",
+    "recovery_checkpoint": "database/milestone2/unparsed_notice_followup/checkpoints/5701a31df7291f2fbcf3de7f.json",
+    "recovery_notes": null,
+    "groups": [
+      {
+        "title": "2027/2028",
+        "year": null,
+        "cohort": "Junior school (special school)",
+        "metrics": {
+          "places": 7
+        },
+        "lo": 40,
+        "hi": 56,
+        "notes": "Part1/title2027/28 versus quota heading2026/27; not resolved by upload date.",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "medium"
+      },
+      {
+        "title": "2027/2028",
+        "year": null,
+        "cohort": "Senior school (special school)",
+        "metrics": {
+          "places": 0
+        },
+        "lo": 40,
+        "hi": 56,
+        "notes": "Part1/title2027/28 versus quota heading2026/27; not resolved by upload date.",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "medium"
+      },
+      {
+        "title": "2027/2028",
+        "year": null,
+        "cohort": "All special-school classes (intake not separated)",
+        "metrics": {
+          "places": 4,
+          "applications": 63,
+          "offers": 4,
+          "acceptances": null,
+          "waiting_list_names_placed": 4
+        },
+        "lo": 56,
+        "hi": 93,
+        "notes": "Historical section/intake/intro2026/27 versus detailedcaption2025/26; exact period unresolved. Six criterion cells4 are not aggregate accepted24.",
+        "phase": "retrospective",
+        "scope": "whole_table",
+        "quality": "medium"
+      }
+    ],
+    "retrieval_url": "https://storage.googleapis.com/iclasscrm_files/34/Images/Content/2026/306/lc41-Admission_notice_2027_28_Final.pdf"
+  },
+  {
+    "roll": "13611D",
+    "url": "https://storage.googleapis.com/iclasscrm_files/8/Images/Content/2026/278/ve81-Admissions_Notice_20272028.pdf",
+    "sha256": "943649eb0672820943862f387528404b51380f0876c936372fd0e84ce7a654f5",
+    "format": "pdf",
+    "source_file": "database/milestone2/unparsed_notice_followup/cache/943649eb0672820943862f387528404b51380f0876c936372fd0e84ce7a654f5.pdf",
+    "text_file": "database/milestone2/unparsed_notice_followup/evidence/13611D_943649eb067282094386.txt",
+    "candidate_status": "actual_body_requires_manual_review",
+    "ocr": false,
+    "retrieved_at": "2026-11-08T13:29:49+0000",
+    "recovery_checkpoint": "database/milestone2/unparsed_notice_followup/checkpoints/5a0d7478c70b6ee2c9bf58c8.json",
+    "recovery_notes": null,
+    "groups": [
+      {
+        "title": "2027/2028",
+        "year": "2027/2028",
+        "cohort": "Junior Infants",
+        "metrics": {
+          "places": 30
+        },
+        "lo": 75,
+        "hi": 88,
+        "notes": "",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2027/2028",
+        "year": "2027/2028",
+        "cohort": "Autism special class",
+        "metrics": {
+          "places": 4
+        },
+        "lo": 75,
+        "hi": 88,
+        "notes": "",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      }
+    ],
+    "retrieval_url": "https://storage.googleapis.com/iclasscrm_files/8/Images/Content/2026/278/ve81-Admissions_Notice_20272028.pdf"
+  },
+  {
+    "roll": "20309S",
+    "url": "https://hopejns.ie/wp-content/uploads/2023/09/admissions_notification_2022_2023.pdf",
+    "sha256": "e281d3ab781c0ae4dbe29da9fb3df48bd67a2979c86e223bbf3863125948c2a3",
+    "format": "pdf",
+    "source_file": "database/milestone2/unparsed_notice_followup/cache/e281d3ab781c0ae4dbe29da9fb3df48bd67a2979c86e223bbf3863125948c2a3.pdf",
+    "text_file": "database/milestone2/unparsed_notice_followup/evidence/20309S_e281d3ab781c0ae4dbe2.txt",
+    "candidate_status": "actual_body_requires_manual_review",
+    "ocr": false,
+    "retrieved_at": "2026-11-08T13:29:47+0000",
+    "recovery_checkpoint": "database/milestone2/unparsed_notice_followup/checkpoints/7e98a653d04e7c9f6ac87dfb.json",
+    "recovery_notes": null,
+    "groups": [
+      {
+        "title": "2023/2024",
+        "year": "2023/2024",
+        "cohort": "Junior Infants",
+        "metrics": {
+          "places": 104
+        },
+        "lo": 35,
+        "hi": 41,
+        "notes": "Academic-year quota heading, not filename, anchors the year.",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2023/2024",
+        "year": "2023/2024",
+        "cohort": "Autism special class",
+        "metrics": {
+          "places": 0
+        },
+        "lo": 35,
+        "hi": 41,
+        "notes": "Academic-year quota heading, not filename, anchors the year.",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      }
+    ],
+    "retrieval_url": "https://hopejns.ie/wp-content/uploads/2023/09/admissions_notification_2022_2023.pdf"
+  },
+  {
+    "roll": "20309S",
+    "url": "https://hopejns.ie/admissions_policies/admissions_notification_2022_2023.pdf",
+    "sha256": "e281d3ab781c0ae4dbe29da9fb3df48bd67a2979c86e223bbf3863125948c2a3",
+    "format": "pdf",
+    "source_file": "database/milestone2/unparsed_notice_followup/cache/e281d3ab781c0ae4dbe29da9fb3df48bd67a2979c86e223bbf3863125948c2a3.pdf",
+    "text_file": "database/milestone2/unparsed_notice_followup/evidence/20309S_e281d3ab781c0ae4dbe2.txt",
+    "candidate_status": "actual_body_requires_manual_review",
+    "ocr": false,
+    "retrieved_at": "2026-11-08T13:29:53+0000",
+    "recovery_checkpoint": "database/milestone2/unparsed_notice_followup/checkpoints/f29800cfe86bf3e416ec773d.json",
+    "recovery_notes": null,
+    "groups": [
+      {
+        "title": "2023/2024",
+        "year": "2023/2024",
+        "cohort": "Junior Infants",
+        "metrics": {
+          "places": 104
+        },
+        "lo": 35,
+        "hi": 41,
+        "notes": "Academic-year quota heading, not filename, anchors the year.",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2023/2024",
+        "year": "2023/2024",
+        "cohort": "Autism special class",
+        "metrics": {
+          "places": 0
+        },
+        "lo": 35,
+        "hi": 41,
+        "notes": "Academic-year quota heading, not filename, anchors the year.",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      }
+    ],
+    "retrieval_url": "https://hopejns.ie/admissions_policies/admissions_notification_2022_2023.pdf"
+  },
+  {
+    "roll": "16267G",
+    "url": "https://www.stpatsbns.ie/wp-content/uploads/2023/06/Annual-Autism-Class-Admission-Notice.docx.pdf",
+    "sha256": "c6ae5c60e1a6e3e50edbd6bdc5a1f2f8d36b29adf3496751e55650a2e75b42e6",
+    "format": "pdf",
+    "source_file": "database/milestone2/unparsed_notice_followup/cache/c6ae5c60e1a6e3e50edbd6bdc5a1f2f8d36b29adf3496751e55650a2e75b42e6.pdf",
+    "text_file": "database/milestone2/unparsed_notice_followup/evidence/16267G_c6ae5c60e1a6e3e50edb.txt",
+    "candidate_status": "actual_body_requires_manual_review",
+    "ocr": false,
+    "retrieved_at": "2026-11-08T13:29:46+0000",
+    "recovery_checkpoint": "database/milestone2/unparsed_notice_followup/checkpoints/b6acc601751fcb8e1ed60094.json",
+    "recovery_notes": null,
+    "groups": [
+      {
+        "title": "2023/2024",
+        "year": "2023/2024",
+        "cohort": "Autism special class",
+        "metrics": {
+          "places": 6
+        },
+        "lo": 50,
+        "hi": 54,
+        "notes": "",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      }
+    ],
+    "retrieval_url": "https://www.stpatsbns.ie/wp-content/uploads/2023/06/Annual-Autism-Class-Admission-Notice.docx.pdf"
+  },
+  {
+    "roll": "19605P",
+    "url": "https://www.scoilmhuirejunior.ie/wp-content/uploads/2023/10/Admissions-Notice-24_25.pdf",
+    "sha256": "5365a909d2ca17d1d3903275372ffa333b1c5c7139498e04b20ca8e9f1153d9b",
+    "format": "pdf",
+    "source_file": "database/milestone2/unparsed_notice_followup/cache/5365a909d2ca17d1d3903275372ffa333b1c5c7139498e04b20ca8e9f1153d9b.pdf",
+    "text_file": "database/milestone2/unparsed_notice_followup/evidence/19605P_5365a909d2ca17d1d390.txt",
+    "candidate_status": "actual_body_requires_manual_review",
+    "ocr": false,
+    "retrieved_at": "2026-11-08T13:29:47+0000",
+    "recovery_checkpoint": "database/milestone2/unparsed_notice_followup/checkpoints/b9debbec76686bec3c7396e1.json",
+    "recovery_notes": null,
+    "groups": [
+      {
+        "title": "2024/2025",
+        "year": "2024/2025",
+        "cohort": "Junior Infants to Second Class combined",
+        "metrics": {
+          "places": 80
+        },
+        "lo": 39,
+        "hi": 48,
+        "notes": "80 explicitly covers JuniorInfants THROUGH SecondClass combined; not a JI-only quota.",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2024/2025",
+        "year": "2024/2025",
+        "cohort": "Autism special class",
+        "metrics": {
+          "places": 1
+        },
+        "lo": 39,
+        "hi": 48,
+        "notes": "80 explicitly covers JuniorInfants THROUGH SecondClass combined; not a JI-only quota.",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2024/2025",
+        "year": "2024/2025",
+        "cohort": "Early Start preschool",
+        "metrics": {
+          "places": 30
+        },
+        "lo": 39,
+        "hi": 48,
+        "notes": "80 explicitly covers JuniorInfants THROUGH SecondClass combined; not a JI-only quota.",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      }
+    ],
+    "retrieval_url": "https://www.scoilmhuirejunior.ie/wp-content/uploads/2023/10/Admissions-Notice-24_25.pdf"
+  },
+  {
+    "roll": "19466E",
+    "url": "https://stkevinsgns.com/wp-content/uploads/2026/09/Admission-Notice-2728.pdf",
+    "sha256": "75cae3f47521a13daf7103c5ca2d058cb4bf9335cd71dbde4b7d1bf184e9f37f",
+    "format": "pdf",
+    "source_file": "database/milestone2/unparsed_notice_followup/cache/75cae3f47521a13daf7103c5ca2d058cb4bf9335cd71dbde4b7d1bf184e9f37f.pdf",
+    "text_file": "database/milestone2/unparsed_notice_followup/evidence/19466E_75cae3f47521a13daf71.txt",
+    "candidate_status": "actual_body_requires_manual_review",
+    "ocr": false,
+    "retrieved_at": "2026-11-08T13:29:48+0000",
+    "recovery_checkpoint": "database/milestone2/unparsed_notice_followup/checkpoints/daf748c2ae9ddecd4b34f3f3.json",
+    "recovery_notes": null,
+    "groups": [
+      {
+        "title": "2027/2028",
+        "year": "2027/2028",
+        "cohort": "Junior Infants",
+        "metrics": {
+          "places": 26
+        },
+        "lo": 24,
+        "hi": 29,
+        "notes": "",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2027/2028",
+        "year": "2027/2028",
+        "cohort": "Autism special class",
+        "metrics": {
+          "places": 1
+        },
+        "lo": 24,
+        "hi": 29,
+        "notes": "",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2027/2028",
+        "year": null,
+        "cohort": "Junior Infants",
+        "metrics": {
+          "places": 26,
+          "applications": 44
+        },
+        "lo": 30,
+        "hi": 45,
+        "notes": "History says previousyear, tablecaption2027/28, special waitingrow2025/26. Do not guess retrospective year.",
+        "phase": "retrospective",
+        "scope": "whole_table",
+        "quality": "medium"
+      },
+      {
+        "title": "2027/2028",
+        "year": null,
+        "cohort": "Autism special class",
+        "metrics": {
+          "places": 2,
+          "applications": 14,
+          "offers": 2,
+          "acceptances": 2
+        },
+        "lo": 45,
+        "hi": 53,
+        "notes": "Historical period not independently resolved. Explicit offers2/accepted2 only, not actual admission.",
+        "phase": "retrospective",
+        "scope": "whole_table",
+        "quality": "medium"
+      },
+      {
+        "title": "2027/2028",
+        "year": "2025/2026",
+        "cohort": "Autism special class",
+        "metrics": {
+          "waiting_list_names_placed": 12
+        },
+        "lo": 50,
+        "hi": 53,
+        "notes": "ONLY this waiting-list row explicitly names2025/26; other table metrics remain undated. No cross-year full funnel.",
+        "phase": "retrospective",
+        "scope": "whole_table",
+        "quality": "high"
+      },
+      {
+        "title": "2027/2028",
+        "year": null,
+        "cohort": "Junior Infants",
+        "metrics": {
+          "offers": 26,
+          "offer_rejections": 2,
+          "waiting_list_round_count": 18
+        },
+        "lo": 34,
+        "hi": 45,
+        "notes": "Printed round1 offers26 and two declined; round1 waitingcount18. No derived24accepted.",
+        "phase": "offer_round",
+        "scope": "round_1",
+        "quality": "medium",
+        "metric_definitions": {
+          "waiting_list_round_count": "Count printed for the named offer round; not inferred cumulative-ever or remaining names."
+        }
+      },
+      {
+        "title": "2027/2028",
+        "year": null,
+        "cohort": "Junior Infants",
+        "metrics": {
+          "offers": 6,
+          "acceptances": 6,
+          "waiting_list_round_count": 12
+        },
+        "lo": 34,
+        "hi": 45,
+        "notes": "Printed round2 offers6/accepted6 and list12. Source does NOT explicitly identify these as waiting-list offers; do not infer movement.",
+        "phase": "offer_round",
+        "scope": "round_2",
+        "quality": "medium",
+        "metric_definitions": {
+          "waiting_list_round_count": "Count printed for the named offer round; not inferred cumulative-ever or remaining names."
+        }
+      },
+      {
+        "title": "2027/2028",
+        "year": null,
+        "cohort": "Junior Infants",
+        "metrics": {
+          "additional_offers": 6,
+          "acceptances": 6,
+          "source_stated_cumulative_offers": 30
+        },
+        "lo": 34,
+        "hi": 45,
+        "notes": "Literal later6additionaloffers,total30,6accepted retained without reconciling contradictory arithmetic. Not labelled waiting-list movement or actual admission.",
+        "phase": "offer_round",
+        "scope": "later_class_expansion",
+        "quality": "medium",
+        "metric_definitions": {
+          "additional_offers": "Explicit additional offers in a named source round; not assumed to be made from waiting list.",
+          "source_stated_cumulative_offers": "Literal cumulative offers printed by source; arithmetic discrepancies with other rounds retained without correction."
+        }
+      }
+    ],
+    "retrieval_url": "https://stkevinsgns.com/wp-content/uploads/2026/09/Admission-Notice-2728.pdf"
+  },
+  {
+    "roll": "19566I",
+    "url": "https://www.clonburrisns.ie/uploads/1/6/6/1/16617588/sept_2026_admissions_notice.pdf",
+    "sha256": "37f4fc546ad0ef00a4fcc0cfa29c2f209578ed25fb4d88ab3982575fe144de62",
+    "format": "pdf",
+    "source_file": "database/milestone2/unparsed_notice_followup/cache/37f4fc546ad0ef00a4fcc0cfa29c2f209578ed25fb4d88ab3982575fe144de62.pdf",
+    "text_file": "database/milestone2/unparsed_notice_followup/evidence/clonburris_visual_transcript.txt",
+    "candidate_status": "actual_body_OCR_requires_manual_review",
+    "ocr": true,
+    "retrieved_at": "2026-11-08T13:30:42+0000",
+    "recovery_checkpoint": "database/milestone2/unparsed_notice_followup/checkpoints/8fdea48e86360480034f2518.json",
+    "recovery_notes": "tesseract_unavailable_and_package_repository_HTTP500; rendered_pages_available_for_manual_visual_review",
+    "groups": [
+      {
+        "title": "2027/2028",
+        "year": "2027/2028",
+        "cohort": "Junior Infants",
+        "metrics": {
+          "places": 70
+        },
+        "lo": 2,
+        "hi": 10,
+        "notes": "Direct visual scan review page2; filename sept2026 is not academic year. Historical multiple-year headings conflict and numeric cells are blank.",
+        "phase": "upcoming",
+        "scope": "whole_table",
+        "quality": "high",
+        "page": 2
+      },
+      {
+        "title": "2027/2028",
+        "year": null,
+        "cohort": "Unspecified prior-year intake",
+        "metrics": {
+          "places": null,
+          "applications": null,
+          "offers": null,
+          "acceptances": null,
+          "waiting_list_names_placed": {
+            "value": null,
+            "status": "not_applicable"
+          }
+        },
+        "lo": 9,
+        "hi": 12,
+        "notes": "Explicit notoversubscribed/sectionnotapplicable statement, but historical year genuinely unresolved. Not numeric zero.",
+        "phase": "retrospective",
+        "scope": "whole_table",
+        "quality": "medium",
+        "page": 2
+      }
+    ],
+    "retrieval_url": "https://www.clonburrisns.ie/uploads/1/6/6/1/16617588/sept_2026_admissions_notice.pdf"
+  },
+  {
+    "roll": "18047C",
+    "url": "https://www.scoilbhridecailini.ie/wp-content/uploads/2025/06/18047C-Appendix-1-Admission-to-Special-Class-SBC-3.6.2025.pdf",
+    "sha256": "ef98b7cadfd5923e0073b5cebcb570ca18bb911adc5b4b45a1fd545307c80686",
+    "format": "pdf",
+    "source_file": "database/milestone2/unparsed_notice_followup/cache/ef98b7cadfd5923e0073b5cebcb570ca18bb911adc5b4b45a1fd545307c80686.pdf",
+    "text_file": "database/milestone2/unparsed_notice_followup/evidence/18047C_ef98b7cadfd5923e0073.txt",
+    "candidate_status": "actual_body_requires_manual_review",
+    "ocr": false,
+    "retrieved_at": "2026-11-08T13:29:53+0000",
+    "recovery_checkpoint": "database/milestone2/unparsed_notice_followup/checkpoints/06d85a956185af4a7f39c26b.json",
+    "recovery_notes": null,
+    "groups": [],
+    "retrieval_url": "https://www.scoilbhridecailini.ie/wp-content/uploads/2025/06/18047C-Appendix-1-Admission-to-Special-Class-SBC-3.6.2025.pdf",
+    "exclusion_reason": "Special-class policy appendix only; six is general full-class size, not a dated annual new-place quota. No annual historical table."
+  },
+  {
+    "roll": "18047C",
+    "url": "https://www.scoilbhridecailini.ie/wp-content/uploads/2022/04/Appendix_1_-Admission_to_Special_Class_SBC.pdf",
+    "sha256": "96dd016499277ffe1b362c8b37a1820166e033a505848cc1d56488b1547418a2",
+    "format": "pdf",
+    "source_file": "database/milestone2/unparsed_notice_followup/cache/96dd016499277ffe1b362c8b37a1820166e033a505848cc1d56488b1547418a2.pdf",
+    "text_file": "database/milestone2/unparsed_notice_followup/evidence/18047C_96dd016499277ffe1b36.txt",
+    "candidate_status": "actual_body_requires_manual_review",
+    "ocr": false,
+    "retrieved_at": "2026-11-08T13:29:47+0000",
+    "recovery_checkpoint": "database/milestone2/unparsed_notice_followup/checkpoints/b67f5628d8d4e18af0b0087c.json",
+    "recovery_notes": null,
+    "groups": [],
+    "retrieval_url": "https://www.scoilbhridecailini.ie/wp-content/uploads/2022/04/Appendix_1_-Admission_to_Special_Class_SBC.pdf",
+    "exclusion_reason": "Special-class policy appendix only; six is general full-class size, not a dated annual new-place quota. No annual historical table."
+  },
+  {
+    "roll": "18047C",
+    "url": "https://www.scoilbhridecailini.ie/wp-content/uploads/2024/10/Appendix-1-Admission-to-Special-Class-SBC-September-2024-PDF.pdf",
+    "sha256": "d3ee9bc64819ceb5b650f425583a6a26bd2acad8460b83b5431a2fd6da2e703a",
+    "format": "pdf",
+    "source_file": "database/milestone2/unparsed_notice_followup/cache/d3ee9bc64819ceb5b650f425583a6a26bd2acad8460b83b5431a2fd6da2e703a.pdf",
+    "text_file": "database/milestone2/unparsed_notice_followup/evidence/18047C_d3ee9bc64819ceb5b650.txt",
+    "candidate_status": "actual_body_requires_manual_review",
+    "ocr": false,
+    "retrieved_at": "2026-11-08T13:29:50+0000",
+    "recovery_checkpoint": "database/milestone2/unparsed_notice_followup/checkpoints/f15d72d625bb43b9d8426245.json",
+    "recovery_notes": null,
+    "groups": [],
+    "retrieval_url": "https://www.scoilbhridecailini.ie/wp-content/uploads/2024/10/Appendix-1-Admission-to-Special-Class-SBC-September-2024-PDF.pdf",
+    "exclusion_reason": "Special-class policy appendix only; six is general full-class size, not a dated annual new-place quota. No annual historical table."
+  },
+  {
+    "roll": "19960M",
+    "url": "https://www.stjohnsns.ie/wp-content/uploads/2024/12/Admission-p.pdf",
+    "sha256": "e561bf16e1624b84095077f3c6c4b665047c7e1cf7858f19fc5bd3b794ae1a86",
+    "format": "pdf",
+    "source_file": "database/milestone2/unparsed_notice_followup/cache/e561bf16e1624b84095077f3c6c4b665047c7e1cf7858f19fc5bd3b794ae1a86.pdf",
+    "text_file": "database/milestone2/unparsed_notice_followup/evidence/19960M_e561bf16e1624b840950.txt",
+    "candidate_status": "actual_body_OCR_requires_manual_review",
+    "ocr": true,
+    "retrieved_at": "2026-11-08T13:30:44+0000",
+    "recovery_checkpoint": "database/milestone2/unparsed_notice_followup/checkpoints/262a2229748d295df0c09660.json",
+    "recovery_notes": "tesseract_unavailable_and_package_repository_HTTP500; rendered_pages_available_for_manual_visual_review",
+    "groups": [],
+    "retrieval_url": "https://www.stjohnsns.ie/wp-content/uploads/2024/12/Admission-p.pdf",
+    "exclusion_reason": "All8rendered scanned policy pages visually reviewed; general policy, no completed annual intake notice/table. Not inaccessible and not blank OCR assumed."
+  },
+  {
+    "roll": "20309S",
+    "url": "https://hopejns.ie/wp-content/uploads/2026/10/Signed-and-Approved-Admissions-2027.pdf",
+    "sha256": "9844299598aafe07ffe9c709ddf546dde288a27e3d577eca2ea70b9b0d2b0923",
+    "format": "pdf",
+    "source_file": "database/milestone2/unparsed_notice_followup/cache/9844299598aafe07ffe9c709ddf546dde288a27e3d577eca2ea70b9b0d2b0923.pdf",
+    "text_file": "database/milestone2/unparsed_notice_followup/evidence/20309S_9844299598aafe07ffe9.txt",
+    "candidate_status": "actual_body_OCR_requires_manual_review",
+    "ocr": true,
+    "retrieved_at": "2026-11-08T13:30:46+0000",
+    "recovery_checkpoint": "database/milestone2/unparsed_notice_followup/checkpoints/a310dfc233b2aba79cae60b2.json",
+    "recovery_notes": "tesseract_unavailable_and_package_repository_HTTP500; rendered_pages_available_for_manual_visual_review",
+    "groups": [],
+    "retrieval_url": "https://hopejns.ie/wp-content/uploads/2026/10/Signed-and-Approved-Admissions-2027.pdf",
+    "exclusion_reason": "All8rendered scanned policy pages visually reviewed; general policy, no completed annual intake notice/table. Not inaccessible and not blank OCR assumed."
+  },
+  {
+    "roll": "20384J",
+    "url": "https://www.powerstownet.com/wp-content/uploads/2022/09/St-Vincents-Castleknock-College-Admissions-2023-Notice.pdf",
+    "sha256": "cbe0cc64b3730e24850da32f406d3b218d95a307b8fba21e4984c6050fe7513c",
+    "format": "pdf",
+    "source_file": "database/milestone2/unparsed_notice_followup/cache/cbe0cc64b3730e24850da32f406d3b218d95a307b8fba21e4984c6050fe7513c.pdf",
+    "text_file": "database/milestone2/unparsed_notice_followup/evidence/20384J_cbe0cc64b3730e24850d.txt",
+    "candidate_status": "actual_body_requires_manual_review",
+    "ocr": false,
+    "retrieved_at": "2026-11-08T13:29:47+0000",
+    "recovery_checkpoint": "database/milestone2/unparsed_notice_followup/checkpoints/d6a897d780a107062ce4d497.json",
+    "recovery_notes": null,
+    "groups": [],
+    "retrieval_url": "https://www.powerstownet.com/wp-content/uploads/2022/09/St-Vincents-Castleknock-College-Admissions-2023-Notice.pdf",
+    "exclusion_reason": "Public poster for another school: StVincentCastleknockCollege SECONDARY firstyear; not Powerstown primary intake."
+  },
+  {
+    "roll": "19556F",
+    "url": "https://www.stkiliansjns.ie/assets/uploads/Autism-Class-Enrolment-2027-28.pdf",
+    "sha256": "81eb6b962e5c508c84aaec2774ab492a6ba7fda1c4ea83ebce58ad4e8a263bb3",
+    "format": "pdf",
+    "source_file": "database/milestone2/unparsed_notice_followup/cache/81eb6b962e5c508c84aaec2774ab492a6ba7fda1c4ea83ebce58ad4e8a263bb3.pdf",
+    "text_file": "database/milestone2/unparsed_notice_followup/evidence/19556F_81eb6b962e5c508c84aa.txt",
+    "candidate_status": "actual_body_requires_manual_review",
+    "ocr": false,
+    "retrieved_at": "2026-11-08T13:29:50+0000",
+    "recovery_checkpoint": "database/milestone2/unparsed_notice_followup/checkpoints/ff437343b28dde8890444a25.json",
+    "recovery_notes": null,
+    "groups": [],
+    "retrieval_url": "https://www.stkiliansjns.ie/assets/uploads/Autism-Class-Enrolment-2027-28.pdf",
+    "exclusion_reason": "Blank enrolment application form, not annual notice or numeric funnel; no pupil/parent entries collected."
+  }
+]

@@ -1,0 +1,284 @@
+{
+  "roll": "19499T",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://stoliverplunkett.ie/admission-information/",
+      "final_url": "https://stoliverplunkett.ie/admission-information/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admission Info"
+    },
+    {
+      "url": "https://stoliverplunkett.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://stoliverplunkett.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://stoliverplunkett.ie/?s=admission",
+      "final_url": "https://stoliverplunkett.ie/?s=admission",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Public site search form"
+    },
+    {
+      "url": "https://stoliverplunkett.ie/wp-content/uploads/2023/10/Application-Form-for-Admission-to-STOP-2024-2025.docx",
+      "final_url": "https://stoliverplunkett.ie/wp-content/uploads/2023/10/Application-Form-for-Admission-to-STOP-2024-2025.docx",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://stoliverplunkett.ie/wp-content/uploads/2024/09/Application-Form-for-Admission-to-STOP-2025-2026.docx.pdf",
+      "final_url": "https://stoliverplunkett.ie/wp-content/uploads/2024/09/Application-Form-for-Admission-to-STOP-2025-2026.docx.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Application Form for Admission to STOP 2025-2026.docx"
+    },
+    {
+      "url": "https://stoliverplunkett.ie/wp-content/uploads/2024/09/Application-Form-for-Admission-to-STOP-2025-2026.docx",
+      "final_url": "https://stoliverplunkett.ie/wp-content/uploads/2024/09/Application-Form-for-Admission-to-STOP-2025-2026.docx",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://stoliverplunkett.ie/wp-content/uploads/2024/09/Application-Form-for-Admission-to-STOP-2024-2025.docx.pdf",
+      "final_url": "https://stoliverplunkett.ie/wp-content/uploads/2024/09/Application-Form-for-Admission-to-STOP-2024-2025.docx.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Application Form for Admission to STOP 2024-2025.docx"
+    },
+    {
+      "url": "https://stoliverplunkett.ie/wp-content/uploads/2024/09/Application-Form-for-Admission-to-STOP-2024-2025.docx-1.pdf",
+      "final_url": "https://stoliverplunkett.ie/wp-content/uploads/2024/09/Application-Form-for-Admission-to-STOP-2024-2025.docx-1.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Application Form for Admission to STOP 2024-2025.docx"
+    },
+    {
+      "url": "https://stoliverplunkett.ie/wp-content/uploads/2026/07/Policies_SOPNS-Admissions-Policy-2026.pdf",
+      "final_url": "https://stoliverplunkett.ie/wp-content/uploads/2026/07/Policies_SOPNS-Admissions-Policy-2026.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Policies_SOPNS-Admissions-Policy-2026"
+    },
+    {
+      "url": "https://stoliverplunkett.ie/wp-sitemap.xml",
+      "final_url": "https://stoliverplunkett.ie/wp-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://stoliverplunkett.ie/wp-sitemap-posts-post-1.xml",
+      "final_url": "https://stoliverplunkett.ie/wp-sitemap-posts-post-1.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://stoliverplunkett.ie/wp-sitemap-posts-page-1.xml",
+      "final_url": "https://stoliverplunkett.ie/wp-sitemap-posts-page-1.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://stoliverplunkett.ie/wp-sitemap-posts-bwg_gallery-1.xml",
+      "final_url": "https://stoliverplunkett.ie/wp-sitemap-posts-bwg_gallery-1.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://stoliverplunkett.ie/policies/",
+      "final_url": "https://stoliverplunkett.ie/policies/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://stoliverplunkett.ie/",
+      "final_url": "https://stoliverplunkett.ie/",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://stoliverplunkett.ie/wp-content/uploads/2024/06/Dignity-at-Work-Policy-2023.pdf",
+      "final_url": "https://stoliverplunkett.ie/wp-content/uploads/2024/06/Dignity-at-Work-Policy-2023.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Dignity at work"
+    },
+    {
+      "url": "https://stoliverplunkett.ie/wp-content/uploads/2024/06/Child-Safeguarding-Statement-2023-.docx-1.pdf",
+      "final_url": "https://stoliverplunkett.ie/wp-content/uploads/2024/06/Child-Safeguarding-Statement-2023-.docx-1.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Child Protection Policy"
+    },
+    {
+      "url": "https://stoliverplunkett.ie/wp-content/uploads/2024/06/Anti-Bullying-Policy-2023.pdf",
+      "final_url": "https://stoliverplunkett.ie/wp-content/uploads/2024/06/Anti-Bullying-Policy-2023.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Anti-Bullying Policy"
+    },
+    {
+      "url": "https://stoliverplunkett.ie/wp-content/uploads/2024/06/Acceptable-Use-Policy-2023.pdf",
+      "final_url": "https://stoliverplunkett.ie/wp-content/uploads/2024/06/Acceptable-Use-Policy-2023.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Acceptable Usage Policy"
+    },
+    {
+      "url": "https://stoliverplunkett.ie/wp-content/uploads/2026/01/Bi-Cinealta-Policy-2025.pdf",
+      "final_url": "https://stoliverplunkett.ie/wp-content/uploads/2026/01/Bi-Cinealta-Policy-2025.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Bi Cinealta Policy"
+    },
+    {
+      "url": "https://stoliverplunkett.ie/wp-content/uploads/2026/09/Parent-_-School-Communication-Policy-1.pdf",
+      "final_url": "https://stoliverplunkett.ie/wp-content/uploads/2026/09/Parent-_-School-Communication-Policy-1.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parent/Teacher Communication"
+    },
+    {
+      "url": "https://stoliverplunkett.ie/wp-content/uploads/2026/09/Healthy-Eating-Safety-and-General-School-Procedures-Policy.pdf",
+      "final_url": "https://stoliverplunkett.ie/wp-content/uploads/2026/09/Healthy-Eating-Safety-and-General-School-Procedures-Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Student Welfare"
+    },
+    {
+      "url": "https://stoliverplunkett.ie/wp-content/uploads/2026/09/2027-2028-Application-Form.pdf",
+      "final_url": "https://stoliverplunkett.ie/wp-content/uploads/2026/09/2027-2028-Application-Form.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://stoliverplunkett.ie/wp-content/uploads/2026/05/GDPR-Policy-April-2026.pdf",
+      "final_url": "https://stoliverplunkett.ie/wp-content/uploads/2026/05/GDPR-Policy-April-2026.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "GDPR Policy"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19499T",
+      "url": "https://stoliverplunkett.ie/admission-information/",
+      "label": "Admission Info",
+      "sha256": "cc967aa460c862b37cba86e91271a52c10f0fbc5b076e09dfe498d41c4f2cb22",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19499T_cc967aa460c862b37cba.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 131
+    },
+    {
+      "roll": "19499T",
+      "url": "https://stoliverplunkett.ie/?s=admission",
+      "label": "Public site search form",
+      "sha256": "8da8502afd695e9572c156c9db4d0538144fd2f3d1af05693782e7ac3c4e72fc",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19499T_8da8502afd695e9572c1.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 46
+    },
+    {
+      "roll": "19499T",
+      "url": "https://stoliverplunkett.ie/wp-content/uploads/2023/10/Application-Form-for-Admission-to-STOP-2024-2025.docx",
+      "label": "Prior school admissions section",
+      "sha256": "b03a5d76fa42a71a8458f632c5e185881e5e51b1be71f219afe313e0a797075c",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/19499T_b03a5d76fa42a71a8458.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 9540
+    },
+    {
+      "roll": "19499T",
+      "url": "https://stoliverplunkett.ie/wp-content/uploads/2024/09/Application-Form-for-Admission-to-STOP-2025-2026.docx.pdf",
+      "label": "Application Form for Admission to STOP 2025-2026.docx",
+      "sha256": "705492cf32f0267390436aea0e56ee5d9c7c6a9c329c8de882c26024c5c19ab3",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19499T_705492cf32f026739043.txt",
+      "source_file": "database/milestone2/cache/705492cf32f0267390436aea0e56ee5d9c7c6a9c329c8de882c26024c5c19ab3.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 2626
+    },
+    {
+      "roll": "19499T",
+      "url": "https://stoliverplunkett.ie/wp-content/uploads/2024/09/Application-Form-for-Admission-to-STOP-2025-2026.docx",
+      "label": "Prior school admissions section",
+      "sha256": "941c237b73ca2a7d2785885701d9532a1bd433a15e56acca4874f66cbdaf5379",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/19499T_941c237b73ca2a7d2785.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 9540
+    },
+    {
+      "roll": "19499T",
+      "url": "https://stoliverplunkett.ie/wp-content/uploads/2024/09/Application-Form-for-Admission-to-STOP-2024-2025.docx.pdf",
+      "label": "Application Form for Admission to STOP 2024-2025.docx",
+      "sha256": "a342e6d0312f9470b3ca44b107dfb67789b0689796d23f16685cc65a21eff985",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19499T_a342e6d0312f9470b3ca.txt",
+      "source_file": "database/milestone2/cache/a342e6d0312f9470b3ca44b107dfb67789b0689796d23f16685cc65a21eff985.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 2696
+    },
+    {
+      "roll": "19499T",
+      "url": "https://stoliverplunkett.ie/wp-content/uploads/2026/07/Policies_SOPNS-Admissions-Policy-2026.pdf",
+      "label": "Policies_SOPNS-Admissions-Policy-2026",
+      "sha256": "9a92cd780be8637925527c7d6bbe3faba871ce730ff9c5fd53698004f32d7b17",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19499T_9a92cd780be863792552.txt",
+      "source_file": "database/milestone2/cache/9a92cd780be8637925527c7d6bbe3faba871ce730ff9c5fd53698004f32d7b17.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 31997
+    },
+    {
+      "roll": "19499T",
+      "url": "https://stoliverplunkett.ie/wp-content/uploads/2026/09/2027-2028-Application-Form.pdf",
+      "label": "",
+      "sha256": "e7ae8de72cb2c0cd305ca3b31cf9586ba80ff34683f0197de46c6e81697b4b86",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19499T_e7ae8de72cb2c0cd305c.txt",
+      "source_file": "database/milestone2/cache/e7ae8de72cb2c0cd305ca3b31cf9586ba80ff34683f0197de46c6e81697b4b86.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 4954
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://stoliverplunkett.ie/wp-content/uploads/2026/04/Attendance-Policy.pdf",
+      "label": "Attendance Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stoliverplunkett.ie/2017/02/behaviour-2/",
+      "label": "Behaviour Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stoliverplunkett.ie/?page_id=4374",
+      "label": "Healthy Eating Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 83.47,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:37:18+0000"
+}

@@ -1,0 +1,72 @@
+{
+  "roll": "19454U",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.ourladyimmaculatejns.ie/Enrolment.aspx",
+      "final_url": "https://www.ourladyimmaculatejns.ie/Enrolment.aspx",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Application Form"
+    },
+    {
+      "url": "https://www.ourladyimmaculatejns.ie/sitemap.xml",
+      "final_url": "https://www.ourladyimmaculatejns.ie/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.ourladyimmaculatejns.ie/page/Policies/74805/Index.html",
+      "final_url": "https://www.ourladyimmaculatejns.ie/page/Policies/74805/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.ourladyimmaculatejns.ie/Content/2023/10/ko35-OLI_Junior_Admissions_Policy_1_a.pdf",
+      "final_url": "https://www.ourladyimmaculatejns.ie/Content/2023/10/ko35-OLI_Junior_Admissions_Policy_1_a.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions Policy"
+    },
+    {
+      "url": "https://www.ourladyimmaculatejns.ie",
+      "final_url": "https://www.ourladyimmaculatejns.ie",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.ourladyimmaculatejns.ie/Content/2024/1/zm94-Antibullying_Policy_Nov_2021_5.docx",
+      "final_url": "https://www.ourladyimmaculatejns.ie/Content/2024/1/zm94-Antibullying_Policy_Nov_2021_5.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Health & Safety Policy"
+    },
+    {
+      "url": "https://www.ourladyimmaculatejns.ie/Content/2024/1/fv28-Child_Protection_Policy_Jan_21st_2022.docx",
+      "final_url": "https://www.ourladyimmaculatejns.ie/Content/2024/1/fv28-Child_Protection_Policy_Jan_21st_2022.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Child Protection Policy"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19454U",
+      "url": "https://www.ourladyimmaculatejns.ie/Content/2023/10/ko35-OLI_Junior_Admissions_Policy_1_a.pdf",
+      "label": "Admissions Policy",
+      "sha256": "c44a64f1dfa57f487419da12ed3d663d483964711c5e211a1a20499f80879630",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19454U_c44a64f1dfa57f487419.txt",
+      "source_file": "database/milestone2/cache/c44a64f1dfa57f487419da12ed3d663d483964711c5e211a1a20499f80879630.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 26565
+    }
+  ],
+  "pending_links": [],
+  "elapsed_seconds": 24.46,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:45:17+0000"
+}

@@ -1,0 +1,25 @@
+{
+  "roll": "19831B",
+  "status": "bounded_search_no_new_notice_found",
+  "attempts": [
+    {
+      "url": "https://scoilchaoimhin.ie",
+      "final_url": "https://scoilchaoimhin.ie",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://scoilchaoimhin.ie/sitemap.xml",
+      "final_url": "https://scoilchaoimhin.ie/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    }
+  ],
+  "documents": [],
+  "pending_links": [],
+  "elapsed_seconds": 4.11,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:08:27+0000"
+}

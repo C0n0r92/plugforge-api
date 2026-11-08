@@ -1,0 +1,1425 @@
+{
+  "roll": "19949B",
+  "status": "bounded_search_no_new_notice_found",
+  "attempts": [
+    {
+      "url": "https://www.muslimns.ie",
+      "final_url": "https://www.muslimns.ie",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.muslimns.ie/admissions/",
+      "final_url": "https://www.muslimns.ie/admissions/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Enrolment"
+    },
+    {
+      "url": "https://www.muslimns.ie/admissions/?googletranslate=true",
+      "final_url": "https://www.muslimns.ie/admissions/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.muslimns.ie/admin/?open=/admissions/?googletranslate=true",
+      "final_url": "https://www.muslimns.ie/admin/?open=/admissions/?googletranslate=true",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.muslimns.ie/admin/?open=/admissions/",
+      "final_url": "https://www.muslimns.ie/admin/?open=/admissions/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://storage.googleapis.com/siteassetsswd/759/docletter/20251113094512_14_Admission_Policy_2025-2026.pdf",
+      "final_url": "https://storage.googleapis.com/siteassetsswd/759/docletter/20251113094512_14_Admission_Policy_2025-2026.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admission Policy"
+    },
+    {
+      "url": "https://www.muslimns.ie/cmsfiles/items/downloads/3743-CodeofBehaviour.pdf",
+      "final_url": "https://www.muslimns.ie/cmsfiles/items/downloads/3743-CodeofBehaviour.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Code of Behaviour"
+    },
+    {
+      "url": "https://www.muslimns.ie/sitemap.xml",
+      "final_url": "https://www.muslimns.ie/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.muslimns.ie/policies/",
+      "final_url": "https://www.muslimns.ie/policies/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Plean Scoile"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/273/?open=true",
+      "final_url": "https://www.muslimns.ie/cmsfiles/items/downloads/1895-MuslimNationalSchoolAnnualAdmissionNotice2027-28.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Muslim National School Admission Notice 2027-2028"
+    },
+    {
+      "url": "https://www.muslimns.ie/policies/?googletranslate=true",
+      "final_url": "https://www.muslimns.ie/policies/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.muslimns.ie/parents-area/uniforms/",
+      "final_url": "https://www.muslimns.ie/parents-area/uniforms/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Uniforms"
+    },
+    {
+      "url": "https://www.muslimns.ie/parents-area/uniforms/?googletranslate=true",
+      "final_url": "https://www.muslimns.ie/parents-area/uniforms/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.muslimns.ie/parents-area/special-class-or-school-placement---parents-notify-ncse-form/",
+      "final_url": "https://www.muslimns.ie/parents-area/special-class-or-school-placement---parents-notify-ncse-form/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Special Class or School Placement - Parents Notify NCSE Form"
+    },
+    {
+      "url": "https://www.muslimns.ie/parents-area/special-class-or-school-placement---parents-notify-ncse-form/?googletranslate=true",
+      "final_url": "https://www.muslimns.ie/parents-area/special-class-or-school-placement---parents-notify-ncse-form/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.muslimns.ie/parents-area/safer-internet/",
+      "final_url": "https://www.muslimns.ie/parents-area/safer-internet/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Safer Internet"
+    },
+    {
+      "url": "https://www.muslimns.ie/parents-area/safer-internet/?googletranslate=true",
+      "final_url": "https://www.muslimns.ie/parents-area/safer-internet/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.muslimns.ie/parents-area/recomended-activities-for-mns-children-/",
+      "final_url": "https://www.muslimns.ie/parents-area/recomended-activities-for-mns-children-/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Recommended Activities"
+    },
+    {
+      "url": "https://www.muslimns.ie/parents-area/recomended-activities-for-mns-children-/?googletranslate=true",
+      "final_url": "https://www.muslimns.ie/parents-area/recomended-activities-for-mns-children-/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.muslimns.ie/parents-area/parents-association/",
+      "final_url": "https://www.muslimns.ie/parents-area/parents-association/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents Association"
+    },
+    {
+      "url": "https://www.muslimns.ie/parents-area/parents-association/?googletranslate=true",
+      "final_url": "https://www.muslimns.ie/parents-area/parents-association/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.muslimns.ie/parents-area/help-your-child-learn/",
+      "final_url": "https://www.muslimns.ie/parents-area/help-your-child-learn/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Help Your Child Learn"
+    },
+    {
+      "url": "https://www.muslimns.ie/parents-area/help-your-child-learn/?googletranslate=true",
+      "final_url": "https://www.muslimns.ie/parents-area/help-your-child-learn/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.muslimns.ie/parents-area/calendar/?caltags=",
+      "final_url": "https://www.muslimns.ie/parents-area/calendar/?caltags=",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "View Calendar"
+    }
+  ],
+  "documents": [],
+  "pending_links": [
+    {
+      "url": "https://www.muslimns.ie/parents-area/calendar/?calyear=2026&calmonth=12&",
+      "label": "December 2026",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/parents-area/calendar/?calyear=2026&calmonth=10&",
+      "label": "October 2026",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/parents-area/calendar/?caltags=&googletranslate=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/parents-area/calendar/?calTable=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/parents-area/calendar/",
+      "label": "Calendar",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/parents-area/bus-information-/",
+      "label": "Bus Information",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/parents-area/",
+      "label": "Parents Area",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/news/irish-for-parents/",
+      "label": "Irish For Parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/letterlink/17/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/76/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/75/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/65/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/44/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/44/?open=true",
+      "label": "10 Tips for Parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/43/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/43/?open=true",
+      "label": "A Parents' Guide to Social Networking",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/42/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/42/?open=true",
+      "label": "A Parents' Guide to Filtering",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/41/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/40/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/39/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/38/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/37/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/36/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/35/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/34/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/311/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/309/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/308/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/306/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/305/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/304/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/303/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/302/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/301/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/300/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/299/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/298/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/297/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/296/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/295/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/294/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/293/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/292/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/291/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/290/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/289/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/288/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/287/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/286/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/285/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/284/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/283/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/282/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/281/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/279/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/278/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/277/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/276/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/275/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/275/?open=true",
+      "label": "Admission Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/274/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/273/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/257/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/255/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/254/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/253/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/252/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/251/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/250/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/249/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/248/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/247/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/246/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/245/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/244/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/243/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/242/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/241/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/239/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/238/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/237/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/236/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/235/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/234/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/233/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/232/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/231/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/230/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/229/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/228/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/227/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/226/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/225/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/224/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/220/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/219/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/218/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/217/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/216/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/215/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/214/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/213/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/212/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/211/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/210/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/209/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/208/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/207/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/206/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/205/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/204/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/203/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/202/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/201/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/200/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/199/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/198/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/198/?open=true",
+      "label": "Code of Conduct for Parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/197/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/196/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/195/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/194/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/193/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/192/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/191/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/190/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/189/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/189/?open=true",
+      "label": "parental complaints procedure",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/188/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/187/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/186/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/185/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/184/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/183/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/182/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/181/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/180/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/179/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/178/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/177/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/176/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/175/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/174/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/173/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/172/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/171/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/170/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/169/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/168/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/167/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/166/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/165/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/164/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/163/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/162/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/161/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/160/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/159/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/158/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/157/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/156/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/155/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/154/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/153/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/137/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/136/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/135/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/134/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/133/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/132/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/131/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/130/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/129/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/128/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/127/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/126/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/108/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/106/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/admin/?open=/policies/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/admin/?open=/policies/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/admin/?open=/parents-area/uniforms/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/admin/?open=/parents-area/uniforms/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/admin/?open=/parents-area/special-class-or-school-placement---parents-notify-ncse-form/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/admin/?open=/parents-area/special-class-or-school-placement---parents-notify-ncse-form/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/admin/?open=/parents-area/safer-internet/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/admin/?open=/parents-area/safer-internet/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/admin/?open=/parents-area/recomended-activities-for-mns-children-/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/admin/?open=/parents-area/recomended-activities-for-mns-children-/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/admin/?open=/parents-area/parents-association/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/admin/?open=/parents-area/parents-association/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/admin/?open=/parents-area/help-your-child-learn/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/admin/?open=/parents-area/help-your-child-learn/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/admin/?open=/parents-area/calendar/?caltags=",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/311/?open=true",
+      "label": "Critical Incident Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/309/?open=true",
+      "label": "Bi Cinealta Policy to Prevent and Address Bullying",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/308/?open=true",
+      "label": "Health Safety Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/288/?open=true",
+      "label": "Substance Use Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/287/?open=true",
+      "label": "Special Education Teaching Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/286/?open=true",
+      "label": "Protected Disclosure Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/285/?open=true",
+      "label": "Safety Health Welfare Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/284/?open=true",
+      "label": "GDPR Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/282/?open=true",
+      "label": "Digital Learning Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/278/?open=true",
+      "label": "Review of Bi Cinealta policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/277/?open=true",
+      "label": "ASD Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/276/?open=true",
+      "label": "Anti-Cyber Bullying Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/274/?open=true",
+      "label": "Acceptable Use Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/184/?open=true",
+      "label": "Restorative Practices Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/182/?open=true",
+      "label": "Emergency Closures Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/181/?open=true",
+      "label": "Litter Control Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/180/?open=true",
+      "label": "School Visitors Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/179/?open=true",
+      "label": "Phone Policy for Staff and Pupils",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/178/?open=true",
+      "label": "Library Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/177/?open=true",
+      "label": "School Transport Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/176/?open=true",
+      "label": "SNA Policy and Guidelines",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/175/?open=true",
+      "label": "Policy on Confidentiality",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/174/?open=true",
+      "label": "Administration of Medicines Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/173/?open=true",
+      "label": "Working Together Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/172/?open=true",
+      "label": "Policy on Staff Meetings",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/171/?open=true",
+      "label": "Attendance Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/170/?open=true",
+      "label": "Supervision Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/169/?open=true",
+      "label": "Policy on Pupil Profiling - Reports on Pupils",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/168/?open=true",
+      "label": "Policy on Class and Classroom Allocation",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/167/?open=true",
+      "label": "Home School Partnership Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/166/?open=true",
+      "label": "Parent-School Partnership Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/165/?open=true",
+      "label": "Commercialism Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/164/?open=true",
+      "label": "Policy on Staff In-Service Education Training INSET",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/163/?open=true",
+      "label": "Droichead Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/162/?open=true",
+      "label": "Reuse Reduce Recycle Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/161/?open=true",
+      "label": "Anaphylaxis Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/160/?open=true",
+      "label": "School Tours -Excursions Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/159/?open=true",
+      "label": "EPV-Course Day Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/158/?open=true",
+      "label": "Policy on the Provision of Work Experience for Transition Year Students",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/157/?open=true",
+      "label": "Psychological Assessment Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/156/?open=true",
+      "label": "Reception Arrival and Dismissal of Pupils Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/154/?open=true",
+      "label": "Policy on Assessment",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/153/?open=true",
+      "label": "Gaeilge Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/137/?open=true",
+      "label": "English Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/136/?open=true",
+      "label": "Maths Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/135/?open=true",
+      "label": "Visual Art Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/134/?open=true",
+      "label": "Drama Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/133/?open=true",
+      "label": "Music Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/132/?open=true",
+      "label": "Geography Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/131/?open=true",
+      "label": "Science Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/130/?open=true",
+      "label": "History Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/129/?open=true",
+      "label": "Physical Education Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/documentlink/128/?open=true",
+      "label": "SPHE Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/cmsfiles/policies/privacy/",
+      "label": "Website Privacy Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.muslimns.ie/cmsfiles/policies/cookie/",
+      "label": "Cookie Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 68.49,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:58:28+0000"
+}

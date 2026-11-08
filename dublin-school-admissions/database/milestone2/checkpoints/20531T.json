@@ -1,0 +1,192 @@
+{
+  "roll": "20531T",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.gslir.ie/resources/Polasaithe/2026-27-Rang-Speis-Teimplead-Polasai-Iontrala_le-rang-speisialta-1%20(2).docx",
+      "final_url": "https://www.gslir.ie/resources/Polasaithe/2026-27-Rang-Speis-Teimplead-Polasai-Iontrala_le-rang-speisialta-1%20(2).docx",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://gslir.ie/resources/Polasaithe/2026-27-Rang-Speis-Teimplead-Polasai-Iontrala_le-rang-speisialta-1%20(2).docx",
+      "final_url": "https://gslir.ie/resources/Polasaithe/2026-27-Rang-Speis-Teimplead-Polasai-Iontrala_le-rang-speisialta-1%20(2).docx",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://www.gslir.ie/resources/Polasaithe/POLASA%C3%8DUM%20CHOSAINTSONRA%C3%8D%20Data%20Protection%20Policy%202022_23%20Leagan%203.docx",
+      "final_url": "https://www.gslir.ie/resources/Polasaithe/POLASA%C3%8DUM%20CHOSAINTSONRA%C3%8D%20Data%20Protection%20Policy%202022_23%20Leagan%203.docx",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://www.gslir.ie/Enrolment.php",
+      "final_url": "https://www.gslir.ie/Enrolment.php",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Iontrálacha / Admissions"
+    },
+    {
+      "url": "https://gslir.ie/resources/Polasaithe/POLASA%C3%8DUM%20CHOSAINTSONRA%C3%8D%20Data%20Protection%20Policy%202022_23%20Leagan%203.docx",
+      "final_url": "https://gslir.ie/resources/Polasaithe/POLASA%C3%8DUM%20CHOSAINTSONRA%C3%8D%20Data%20Protection%20Policy%202022_23%20Leagan%203.docx",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://gslir.ie/Enrolment.php",
+      "final_url": "https://gslir.ie/Enrolment.php",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Iontrálacha / Admissions"
+    },
+    {
+      "url": "https://www.gslir.ie/resources/2027-28-Rang-Speis-Teimplead-Polasai-Iontrala_le-rang-speisialta-1%20(2)%20(13).pdf",
+      "final_url": "https://www.gslir.ie/resources/2027-28-Rang-Speis-Teimplead-Polasai-Iontrala_le-rang-speisialta-1%20(2)%20(13).pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Polasaí Iontrála/Enrolment Policy 2027/28"
+    },
+    {
+      "url": "https://gslir.ie/resources/2027-28-Rang-Speis-Teimplead-Polasai-Iontrala_le-rang-speisialta-1%20(2)%20(13).pdf",
+      "final_url": "https://gslir.ie/resources/2027-28-Rang-Speis-Teimplead-Polasai-Iontrala_le-rang-speisialta-1%20(2)%20(13).pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Polasaí Iontrála/Enrolment Policy 2027/28"
+    },
+    {
+      "url": "https://www.gslir.ie/sitemap.xml",
+      "final_url": "https://www.gslir.ie/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.gslir.ie/Polasaithe-Policies.php",
+      "final_url": "https://www.gslir.ie/Polasaithe-Policies.php",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Polasaithe / Policies"
+    },
+    {
+      "url": "https://www.gslir.ie/resources/Polasaithe_2024/School%20Tour%20Policy%202024.pdf",
+      "final_url": "https://www.gslir.ie/resources/Polasaithe_2024/School%20Tour%20Policy%202024.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Tour Policy"
+    },
+    {
+      "url": "https://www.gslir.ie/resources/Handwriting%20Policy%20Gaelscoil%20Lir%202024.pdf",
+      "final_url": "https://www.gslir.ie/resources/Handwriting%20Policy%20Gaelscoil%20Lir%202024.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Handwriting Policy"
+    },
+    {
+      "url": "https://www.gslir.ie/resources/2026/B%C3%ADCine%C3%A1lta%20Bearla%202025.pdf",
+      "final_url": "https://www.gslir.ie/resources/2026/B%C3%ADCine%C3%A1lta%20Bearla%202025.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Bí Cineálta - Antibullying Policy"
+    },
+    {
+      "url": "https://gslir.ie/sitemap.xml",
+      "final_url": "https://gslir.ie/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://gslir.ie/Polasaithe-Policies.php",
+      "final_url": "https://gslir.ie/Polasaithe-Policies.php",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Polasaithe / Policies"
+    },
+    {
+      "url": "https://gslir.ie/resources/Polasaithe_2024/School%20Tour%20Policy%202024.pdf",
+      "final_url": "https://gslir.ie/resources/Polasaithe_2024/School%20Tour%20Policy%202024.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Tour Policy"
+    },
+    {
+      "url": "https://gslir.ie/resources/Handwriting%20Policy%20Gaelscoil%20Lir%202024.pdf",
+      "final_url": "https://gslir.ie/resources/Handwriting%20Policy%20Gaelscoil%20Lir%202024.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Handwriting Policy"
+    },
+    {
+      "url": "https://gslir.ie/resources/2026/B%C3%ADCine%C3%A1lta%20Bearla%202025.pdf",
+      "final_url": "https://gslir.ie/resources/2026/B%C3%ADCine%C3%A1lta%20Bearla%202025.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Bí Cineálta - Antibullying Policy"
+    },
+    {
+      "url": "https://gslir.ie",
+      "final_url": "https://gslir.ie",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.gslir.ie/resources/Administration%20of%20Medicines%20Policy.pdf",
+      "final_url": "https://www.gslir.ie/resources/Administration%20of%20Medicines%20Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Administration of Medicines Policy"
+    },
+    {
+      "url": "https://gslir.ie/resources/Administration%20of%20Medicines%20Policy.pdf",
+      "final_url": "https://gslir.ie/resources/Administration%20of%20Medicines%20Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Administration of Medicines Policy"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "20531T",
+      "url": "https://www.gslir.ie/resources/Polasaithe/2026-27-Rang-Speis-Teimplead-Polasai-Iontrala_le-rang-speisialta-1%20(2).docx",
+      "label": "Prior school admissions section",
+      "sha256": "2606408fa5326367eab085671ea5fdd2455b5cc0f95ed39ee3b4818546a6c559",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/20531T_2606408fa5326367eab0.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 46796
+    },
+    {
+      "roll": "20531T",
+      "url": "https://www.gslir.ie/Enrolment.php",
+      "label": "Iontrálacha / Admissions",
+      "sha256": "f823ec19a9840917b98b876747dd71b1149070c903e6586c860b1eed73692473",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20531T_f823ec19a9840917b98b.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 269
+    },
+    {
+      "roll": "20531T",
+      "url": "https://www.gslir.ie/resources/2027-28-Rang-Speis-Teimplead-Polasai-Iontrala_le-rang-speisialta-1%20(2)%20(13).pdf",
+      "label": "Polasaí Iontrála/Enrolment Policy 2027/28",
+      "sha256": "f74eb571a557ecc45e83c0a967c53b4c52c13c0208dda11e40eb389d1446a782",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20531T_f74eb571a557ecc45e83.txt",
+      "source_file": "database/milestone2/cache/f74eb571a557ecc45e83c0a967c53b4c52c13c0208dda11e40eb389d1446a782.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 48867
+    }
+  ],
+  "pending_links": [],
+  "elapsed_seconds": 52.51,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:48:04+0000"
+}

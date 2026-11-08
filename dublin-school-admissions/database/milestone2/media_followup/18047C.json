@@ -1,0 +1,30 @@
+{
+  "roll": "18047C",
+  "attempted_at": "2026-11-08T12:49:58+0000",
+  "method": "documented_public_WordPress_media_notice_and_Irish_title_gap_search",
+  "attempts": [
+    {
+      "url": "https://www.scoilbhridecailini.ie/wp-json/wp/v2/media?search=notice&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.scoilbhridecailini.ie/wp-json/wp/v2/media?search=f%C3%B3gra&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.scoilbhridecailini.ie/wp-content/uploads/2021/11/Annual-Admissions-Notice-for-SBC-for-22-239815.pdf",
+      "status": "http_404",
+      "label": "Annual Admissions Notice for SBC for 22-23[9815]"
+    },
+    {
+      "url": "https://www.scoilbhridecailini.ie/wp-content/uploads/2023/10/Admission-Notice-24-25-FINAL.pdf",
+      "status": "http_404",
+      "label": "Admission Notice 24-25 FINAL"
+    }
+  ],
+  "documents": [],
+  "pending_links": [],
+  "earliest_year_cutoff": null,
+  "status": "attempted_no_new_notice_payload",
+  "elapsed_seconds": 12.5
+}

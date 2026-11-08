@@ -1,0 +1,107 @@
+{
+  "roll": "19221U",
+  "original_url": "https://www.scoilaine.ie/admissions/",
+  "method": "documented_CDX_exact_URL_all_available_dates",
+  "attempted_at": "2026-11-08T12:42:22.927526+00:00",
+  "params": {
+    "url": "https://www.scoilaine.ie/admissions/",
+    "matchType": "exact",
+    "output": "json",
+    "fl": "timestamp,original,mimetype,statuscode,digest",
+    "filter": "statuscode:200",
+    "collapse": "digest",
+    "limit": "200",
+    "showResumeKey": "true"
+  },
+  "earliest_year_cutoff": null,
+  "captures": [
+    {
+      "timestamp": "20231202100316",
+      "original": "https://www.scoilaine.ie/admissions/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "O7ACP6F5PXOYY6DHLCAISUZFU5TCC6LO"
+    },
+    {
+      "timestamp": "20240229030504",
+      "original": "https://www.scoilaine.ie/admissions/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "2LPWYDMR5MKC65SIUWVVQMEENMXT2O2A"
+    },
+    {
+      "timestamp": "20240621022350",
+      "original": "https://www.scoilaine.ie/admissions/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "TZZC5WWF6Y45YZ6N5DOMAEF4YWTJGLC3"
+    },
+    {
+      "timestamp": "20240909025649",
+      "original": "https://www.scoilaine.ie/admissions/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "M5SHSSXFUQ5VEK37YMZ6MTKH2ZA4SLG6"
+    },
+    {
+      "timestamp": "20241207215411",
+      "original": "https://www.scoilaine.ie/admissions/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "BHDCDOU22KOVJF4F47UKKKNOWBTOBMBL"
+    },
+    {
+      "timestamp": "20250327211811",
+      "original": "https://www.scoilaine.ie/admissions/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "4XCMFV5755PYKMPZPLK5HHO6MW3QX6F7"
+    },
+    {
+      "timestamp": "20250619194410",
+      "original": "https://www.scoilaine.ie/admissions/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "T3572ZBZFBOWDGQCM4G7Q7HDEGLTIO6V"
+    },
+    {
+      "timestamp": "20250915231019",
+      "original": "https://www.scoilaine.ie/admissions/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "4OFVN5FPUFWGH7IQXCKN3FELWRQPEWRY"
+    },
+    {
+      "timestamp": "20251207225834",
+      "original": "https://www.scoilaine.ie/admissions/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "323HBK7F5W4DHTVTTNA2DHPTVJMVG3CS"
+    },
+    {
+      "timestamp": "20260315025752",
+      "original": "https://www.scoilaine.ie/admissions/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "GAPBODZJCRT3W2P42K5JVYBPTO54NIRZ"
+    }
+  ],
+  "pages": [
+    {
+      "at": "2026-11-08T12:42:27.280270+00:00",
+      "http_status": 200,
+      "params": {
+        "url": "https://www.scoilaine.ie/admissions/",
+        "matchType": "exact",
+        "output": "json",
+        "fl": "timestamp,original,mimetype,statuscode,digest",
+        "filter": "statuscode:200",
+        "collapse": "digest",
+        "limit": "200",
+        "showResumeKey": "true"
+      }
+    }
+  ],
+  "status": "index_complete",
+  "capture_count": 10
+}

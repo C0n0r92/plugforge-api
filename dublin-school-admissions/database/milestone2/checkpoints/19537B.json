@@ -1,0 +1,163 @@
+{
+  "roll": "19537B",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.stattractasjns.ie/page/Admissions/12576/Index.html",
+      "final_url": "https://www.stattractasjns.ie/page/Admissions/12576/Index.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://storage.googleapis.com/iclasscrm_files/6563/Images/Content/2026/293/pe51-Admissions_Policy.pdf",
+      "final_url": "https://storage.googleapis.com/iclasscrm_files/6563/Images/Content/2026/293/pe51-Admissions_Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions Policy"
+    },
+    {
+      "url": "https://www.stattractasjns.ie/sitemap.xml",
+      "final_url": "https://www.stattractasjns.ie/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.stattractasjns.ie/page/School-Policies/10901/Index.html",
+      "final_url": "https://www.stattractasjns.ie/page/School-Policies/10901/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Policies"
+    },
+    {
+      "url": "https://www.stattractasjns.ie/Content/2025/10/an40-AdmissionsPolicy.pdf?52164",
+      "final_url": "https://www.stattractasjns.ie/Content/2025/10/an40-AdmissionsPolicy.pdf?52164",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions Policy (2023)"
+    },
+    {
+      "url": "https://www.stattractasjns.ie/Content/2025/10/cs70-Whole_School_Behaviour_Policy_2014.pdf?17544",
+      "final_url": "https://www.stattractasjns.ie/Content/2025/10/cs70-Whole_School_Behaviour_Policy_2014.pdf?17544",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Whole School Behaviour Policy"
+    },
+    {
+      "url": "https://www.stattractasjns.ie/Content/2025/10/bw80-Procedures_for_Parent_Teacher_Meetings_2014.pdf?15834",
+      "final_url": "https://www.stattractasjns.ie/Content/2025/10/bw80-Procedures_for_Parent_Teacher_Meetings_2014.pdf?15834",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Procedures for Parent Teacher Meetings Policy"
+    },
+    {
+      "url": "https://www.stattractasjns.ie/Content/2025/10/vv88-Pastoral_Care_Statement__23_June_2015.pdf?15147",
+      "final_url": "https://www.stattractasjns.ie/Content/2025/10/vv88-Pastoral_Care_Statement__23_June_2015.pdf?15147",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Pastoral Care Policy"
+    },
+    {
+      "url": "https://www.stattractasjns.ie/Content/2025/10/ue71-Assessment_for_Learning_Policy.pdf?20150",
+      "final_url": "https://www.stattractasjns.ie/Content/2025/10/ue71-Assessment_for_Learning_Policy.pdf?20150",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Assessment for Learning Policy"
+    },
+    {
+      "url": "https://www.stattractasjns.ie/Content/2025/10/mj43-Parental_Involvement_Pol._23_June_2015.pdf?20952",
+      "final_url": "https://www.stattractasjns.ie/Content/2025/10/mj43-Parental_Involvement_Pol._23_June_2015.pdf?20952",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parental Involement Policy"
+    },
+    {
+      "url": "https://www.stattractasjns.ie/Content/2025/10/xw88-Critical_Incident_Policy_September_2017.pdf?40252",
+      "final_url": "https://www.stattractasjns.ie/Content/2025/10/xw88-Critical_Incident_Policy_September_2017.pdf?40252",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Critical Incident Policy"
+    },
+    {
+      "url": "https://www.stattractasjns.ie/page/Parents-Information/11236/Index.html",
+      "final_url": "https://www.stattractasjns.ie/page/Parents-Information/11236/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Calendar"
+    },
+    {
+      "url": "https://www.stattractasjns.ie/page/Forms-Downloads/11437/Index.html",
+      "final_url": "https://www.stattractasjns.ie/page/Forms-Downloads/11437/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Forms & Downloads"
+    },
+    {
+      "url": "https://www.stattractasjns.ie/Content/2025/10/rz69-AdministrationofMedPolicy2020.pdf?15099",
+      "final_url": "https://www.stattractasjns.ie/Content/2025/10/rz69-AdministrationofMedPolicy2020.pdf?15099",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Administration of Medicines Policy"
+    },
+    {
+      "url": "https://www.stattractasjns.ie/Content/2025/10/bb00-CodeofBehaviourPolicy2020.pdf?792",
+      "final_url": "https://www.stattractasjns.ie/Content/2025/10/bb00-CodeofBehaviourPolicy2020.pdf?792",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Code of Behaviour Policy"
+    },
+    {
+      "url": "https://www.stattractasjns.ie",
+      "final_url": "https://www.stattractasjns.ie",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.stattractasjns.ie/Content/2025/10/wt87-CommunicationandLearningPlatformPolicy.pdf?17974",
+      "final_url": "https://www.stattractasjns.ie/Content/2025/10/wt87-CommunicationandLearningPlatformPolicy.pdf?17974",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Communication and Learning Platform Policy"
+    },
+    {
+      "url": "https://www.stattractasjns.ie/Content/2025/10/rm64-DataProtectionPolicy2025.pdf?6192",
+      "final_url": "https://www.stattractasjns.ie/Content/2025/10/rm64-DataProtectionPolicy2025.pdf?6192",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Data Protection Policy"
+    },
+    {
+      "url": "https://www.stattractasjns.ie/Content/2025/10/np45-ComplaintsProcedure.pdf?2608",
+      "final_url": "https://www.stattractasjns.ie/Content/2025/10/np45-ComplaintsProcedure.pdf?2608",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Complaints Procedure Policy"
+    },
+    {
+      "url": "https://storage.googleapis.com/iclasscrm_files/6563/Images/Content/2026/275/dy19-Application_form_2027_2028.pdf",
+      "final_url": "https://storage.googleapis.com/iclasscrm_files/6563/Images/Content/2026/275/dy19-Application_form_2027_2028.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Application Form 2027 - 2028"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19537B",
+      "url": "https://www.stattractasjns.ie/page/Admissions/12576/Index.html",
+      "label": "Admissions",
+      "sha256": "893ffab41fc2bfb99a8dd7d896fb0670d7e9f094d579a8728ed1f9880e2a7971",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19537B_893ffab41fc2bfb99a8d.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 838
+    }
+  ],
+  "pending_links": [],
+  "elapsed_seconds": 63.61,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:56:12+0000"
+}

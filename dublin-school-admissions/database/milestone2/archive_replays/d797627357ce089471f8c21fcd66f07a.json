@@ -1,0 +1,25 @@
+{
+  "task_id": "d797627357ce089471f8c21fcd66f07a",
+  "roll": "00697S",
+  "capture": {
+    "digest": "RKGJCLWPZXMLOIL5W7LTOIV7AANJKLTT",
+    "mimetype": "application/pdf",
+    "original": "https://saintbrigids.ie/wp/pwa/wp-content/uploads/sites/15/2022/12/annual-admission-notice-23.24.pdf",
+    "statuscode": "200",
+    "timestamp": "20230101080252"
+  },
+  "original_url": "https://saintbrigids.ie/wp/pwa/wp-content/uploads/sites/15/2022/12/annual-admission-notice-23.24.pdf",
+  "archived_url": "https://web.archive.org/web/20230101080252/https://saintbrigids.ie/wp/pwa/wp-content/uploads/sites/15/2022/12/annual-admission-notice-23.24.pdf",
+  "attempted_at": "2026-11-08T12:32:12.795718+00:00",
+  "http_status": 200,
+  "headers": {
+    "Content-Type": "application/pdf",
+    "memento-datetime": "Sun, 01 Jan 2023 08:02:52 GMT"
+  },
+  "payload_sha256": "4312662081a0e5052690a20aae9a2cbded88def3f3d3e7d87db33a2cbbd9853b",
+  "bytes": 119590,
+  "source_file": "database/milestone2/cache/4312662081a0e5052690a20aae9a2cbded88def3f3d3e7d87db33a2cbbd9853b.pdf",
+  "format": "pdf",
+  "status": "archived_body_retrieved_requires_notice_evidence_review",
+  "text_file": "database/milestone2/evidence/archive_00697S_4312662081a0e5052690.txt"
+}

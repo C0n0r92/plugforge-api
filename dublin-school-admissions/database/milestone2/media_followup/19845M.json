@@ -1,0 +1,116 @@
+{
+  "roll": "19845M",
+  "attempted_at": "2026-11-08T13:13:44+0000",
+  "method": "documented_public_WordPress_media_notice_and_Irish_title_gap_search",
+  "attempts": [
+    {
+      "url": "https://ndnsp.ie/wp-json/wp/v2/media?search=notice&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok"
+    },
+    {
+      "url": "https://ndnsp.ie/wp-json/wp/v2/media?search=f%C3%B3gra&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok"
+    },
+    {
+      "url": "https://ndnsp.ie/wp-content/uploads/2022/09/Admission-Notice-2023-2024.pdf",
+      "status": "ok",
+      "label": "Admission Notice 2023 2024"
+    },
+    {
+      "url": "https://ndnsp.ie/wp-content/uploads/2023/09/Admission-Notice-2024-2025.pdf",
+      "status": "ok",
+      "label": "Admission Notice 2024 2025"
+    },
+    {
+      "url": "https://ndnsp.ie/wp-content/uploads/2024/09/Admission-Notice-2025-26.pdf",
+      "status": "ok",
+      "label": "Admission Notice 2025 26"
+    },
+    {
+      "url": "https://ndnsp.ie/wp-content/uploads/2025/09/Admission-Notice-2026-27.pdf",
+      "status": "ok",
+      "label": "Admission Notice 2026 27"
+    },
+    {
+      "url": "https://ndnsp.ie/wp-content/uploads/2016/06/element5-digital-OyCl7Y4y0Bk-unsplash-scaled.jpg",
+      "status": "ok",
+      "label": "Admissions Notice"
+    },
+    {
+      "url": "https://ndnsp.ie/wp-content/uploads/2026/09/Admission-Notice-2027-2028.pdf",
+      "status": "ok",
+      "label": "Admission Notice 2027 2028"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19845M",
+      "url": "https://ndnsp.ie/wp-content/uploads/2022/09/Admission-Notice-2023-2024.pdf",
+      "label": "Admission Notice 2023 2024",
+      "sha256": "02b6637b38ba2c3e79a11a08073dfa98ecd036fbc87c0d1adc7e7254dce637ee",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19845M_02b6637b38ba2c3e79a1.txt",
+      "source_file": "database/milestone2/cache/02b6637b38ba2c3e79a11a08073dfa98ecd036fbc87c0d1adc7e7254dce637ee.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 2332,
+      "discovery_method": "documented_WP_notice_or_Irish_title_media_query",
+      "cms_media_date_as_printed_not_publication": "2022-09-13T13:13:19"
+    },
+    {
+      "roll": "19845M",
+      "url": "https://ndnsp.ie/wp-content/uploads/2023/09/Admission-Notice-2024-2025.pdf",
+      "label": "Admission Notice 2024 2025",
+      "sha256": "95e5d9ea0939de2b129a515b23b7cb712456c2a47ec43f86448e1fc6e1ee28e4",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19845M_95e5d9ea0939de2b129a.txt",
+      "source_file": "database/milestone2/cache/95e5d9ea0939de2b129a515b23b7cb712456c2a47ec43f86448e1fc6e1ee28e4.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 5434,
+      "discovery_method": "documented_WP_notice_or_Irish_title_media_query",
+      "cms_media_date_as_printed_not_publication": "2023-09-12T14:43:04"
+    },
+    {
+      "roll": "19845M",
+      "url": "https://ndnsp.ie/wp-content/uploads/2024/09/Admission-Notice-2025-26.pdf",
+      "label": "Admission Notice 2025 26",
+      "sha256": "ab8186ebebb5186904a532c109638933d766aec44d7df20558a831aeb03a0736",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19845M_ab8186ebebb5186904a5.txt",
+      "source_file": "database/milestone2/cache/ab8186ebebb5186904a532c109638933d766aec44d7df20558a831aeb03a0736.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 2716,
+      "discovery_method": "documented_WP_notice_or_Irish_title_media_query",
+      "cms_media_date_as_printed_not_publication": "2024-09-16T11:58:15"
+    },
+    {
+      "roll": "19845M",
+      "url": "https://ndnsp.ie/wp-content/uploads/2025/09/Admission-Notice-2026-27.pdf",
+      "label": "Admission Notice 2026 27",
+      "sha256": "17a02c859eb2c57637cbdc61c455e2f5409a71b6057eddf5dfa400fec5c85c0d",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19845M_17a02c859eb2c57637cb.txt",
+      "source_file": "database/milestone2/cache/17a02c859eb2c57637cbdc61c455e2f5409a71b6057eddf5dfa400fec5c85c0d.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 2826,
+      "discovery_method": "documented_WP_notice_or_Irish_title_media_query",
+      "cms_media_date_as_printed_not_publication": "2025-09-22T09:58:12"
+    },
+    {
+      "roll": "19845M",
+      "url": "https://ndnsp.ie/wp-content/uploads/2026/09/Admission-Notice-2027-2028.pdf",
+      "label": "Admission Notice 2027 2028",
+      "sha256": "b86d1cc50c4c74c8af73342f44c6df3abdafff091bfd599521afcc7517e3f0af",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19845M_b86d1cc50c4c74c8af73.txt",
+      "source_file": "database/milestone2/cache/b86d1cc50c4c74c8af73342f44c6df3abdafff091bfd599521afcc7517e3f0af.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 2884,
+      "discovery_method": "documented_WP_notice_or_Irish_title_media_query",
+      "cms_media_date_as_printed_not_publication": "2026-09-21T12:33:24"
+    }
+  ],
+  "pending_links": [],
+  "earliest_year_cutoff": null,
+  "status": "attempted_new_historical_notice_candidates",
+  "elapsed_seconds": 33.9
+}

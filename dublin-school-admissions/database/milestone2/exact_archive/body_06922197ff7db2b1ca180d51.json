@@ -1,0 +1,25 @@
+{
+  "roll": "20043G",
+  "capture": {
+    "timestamp": "20250727023438",
+    "original": "http://gaelscoilchnocliamhna.ie/wp-content/uploads/2025/06/Fogra-maidir-le-hathbhreithniu-an-Udarais-Bainistiochta-ar-an-Raiteas-um-Chumhdach-Leanai-25-26.pdf",
+    "linked_from_capture": "https://web.archive.org/web/20250719151045/http://gaelscoilchnocliamhna.ie/wp-content/uploads/2025/06/Fogra-maidir-le-hathbhreithniu-an-Udarais-Bainistiochta-ar-an-Raiteas-um-Chumhdach-Leanai-25-26.pdf"
+  },
+  "original_url": "http://gaelscoilchnocliamhna.ie/wp-content/uploads/2025/06/Fogra-maidir-le-hathbhreithniu-an-Udarais-Bainistiochta-ar-an-Raiteas-um-Chumhdach-Leanai-25-26.pdf",
+  "archived_url": "https://web.archive.org/web/20250727023438/http://gaelscoilchnocliamhna.ie/wp-content/uploads/2025/06/Fogra-maidir-le-hathbhreithniu-an-Udarais-Bainistiochta-ar-an-Raiteas-um-Chumhdach-Leanai-25-26.pdf",
+  "attempted_at": "2026-11-08T12:57:42.646113+00:00",
+  "linked_from_capture": "https://web.archive.org/web/20250719151045/http://gaelscoilchnocliamhna.ie/wp-content/uploads/2025/06/Fogra-maidir-le-hathbhreithniu-an-Udarais-Bainistiochta-ar-an-Raiteas-um-Chumhdach-Leanai-25-26.pdf",
+  "http_status": 200,
+  "headers": {
+    "Content-Type": "application/pdf",
+    "memento-datetime": "Sun, 27 Jul 2025 02:34:38 GMT"
+  },
+  "bytes": 233709,
+  "payload_sha256": "8d6e92c44ecc5d076dc86527b8b0a4055c18f650d1997d67f07776a4a90743b3",
+  "format": "pdf",
+  "source_file": "database/milestone2/cache/8d6e92c44ecc5d076dc86527b8b0a4055c18f650d1997d67f07776a4a90743b3.pdf",
+  "parse_stderr": "",
+  "status": "archived_body_retrieved_requires_manual_evidence_review",
+  "text_file": "database/milestone2/evidence/exact_20043G_8d6e92c44ecc5d076dc8.txt",
+  "linked_document_candidates": []
+}

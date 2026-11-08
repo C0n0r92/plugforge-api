@@ -1,0 +1,174 @@
+{
+  "roll": "19396J",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.ourladysgns.ie/",
+      "final_url": "https://www.ourladysgns.ie/",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.ourladysgns.ie/_files/ugd/8af632_c5cd3b3febe2484d942c1a3962613329.pdf",
+      "final_url": "https://03cd64ba-eb9f-4fde-9312-7982ca50bf83.filesusr.com/ugd/8af632_c5cd3b3febe2484d942c1a3962613329.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "Annual Admissions Notice 27/28"
+    },
+    {
+      "url": "https://www.ourladysgns.ie/_files/ugd/0956f9_1977fba2b45a4897ad7ff8d5ef2fe44b.pdf",
+      "final_url": "https://www.ourladysgns.ie/_files/ugd/0956f9_1977fba2b45a4897ad7ff8d5ef2fe44b.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parent Survey Results 2024 / 25"
+    },
+    {
+      "url": "https://www.ourladysgns.ie/_files/ugd/8af632_c399c358328046259ecbd64264512dde.pdf",
+      "final_url": "https://03cd64ba-eb9f-4fde-9312-7982ca50bf83.filesusr.com/ugd/8af632_c399c358328046259ecbd64264512dde.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "Admissions Policy"
+    },
+    {
+      "url": "https://www.ourladysgns.ie/sitemap.xml",
+      "final_url": "https://www.ourladysgns.ie/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.ourladysgns.ie/pages-sitemap.xml",
+      "final_url": "https://www.ourladysgns.ie/pages-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.ourladysgns.ie/blank-4",
+      "final_url": "https://www.ourladysgns.ie/blank-4",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Downloads"
+    },
+    {
+      "url": "https://www.ourladysgns.ie/_files/ugd/8af632_47719132eae14605bb68b0816b8d3519.pdf",
+      "final_url": "https://03cd64ba-eb9f-4fde-9312-7982ca50bf83.filesusr.com/ugd/8af632_47719132eae14605bb68b0816b8d3519.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "Wellbeing Policy"
+    },
+    {
+      "url": "https://www.ourladysgns.ie/_files/ugd/8af632_74759a41d64f459f894c9eccc0c7a2a2.pdf",
+      "final_url": "https://03cd64ba-eb9f-4fde-9312-7982ca50bf83.filesusr.com/ugd/8af632_74759a41d64f459f894c9eccc0c7a2a2.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "Annual Admission Notice"
+    },
+    {
+      "url": "https://www.ourladysgns.ie/_files/ugd/8af632_f8fc78b3700a4392957fb9fca5a24f77.pdf",
+      "final_url": "https://03cd64ba-eb9f-4fde-9312-7982ca50bf83.filesusr.com/ugd/8af632_f8fc78b3700a4392957fb9fca5a24f77.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "Admissions Policy"
+    },
+    {
+      "url": "https://www.ourladysgns.ie/_files/ugd/0956f9_f8abfe4e285d42c5926bfe726078fb42.pdf",
+      "final_url": "https://www.ourladysgns.ie/_files/ugd/0956f9_f8abfe4e285d42c5926bfe726078fb42.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "​Information Booklet for Parents"
+    },
+    {
+      "url": "https://www.ourladysgns.ie/about-us-1-1",
+      "final_url": "https://www.ourladysgns.ie/about-us-1-1",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents Association"
+    },
+    {
+      "url": "https://www.ourladysgns.ie/_files/ugd/8af632_a302c95f4bd84f5bb1592eb4ba8d810b.docx?dn=Homework%20Policy%202022.docx",
+      "final_url": "https://03cd64ba-eb9f-4fde-9312-7982ca50bf83.filesusr.com/ugd/8af632_a302c95f4bd84f5bb1592eb4ba8d810b.docx?dn=Homework%20Policy%202022.docx",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "Homework Policy"
+    },
+    {
+      "url": "https://www.ourladysgns.ie/_files/ugd/8af632_3caa4c3aee914a6a8ea0612ac59b3b2b.pdf",
+      "final_url": "https://03cd64ba-eb9f-4fde-9312-7982ca50bf83.filesusr.com/ugd/8af632_3caa4c3aee914a6a8ea0612ac59b3b2b.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "Attendance Policy"
+    },
+    {
+      "url": "https://www.ourladysgns.ie/_files/ugd/0956f9_cbcbc402fd044d6d9e9af2b9440c63bd.docx?dn=school_uniform_policy__1_%20(1).docx",
+      "final_url": "https://www.ourladysgns.ie/_files/ugd/0956f9_cbcbc402fd044d6d9e9af2b9440c63bd.docx?dn=school_uniform_policy__1_%20(1).docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Uniform Policy"
+    },
+    {
+      "url": "https://www.ourladysgns.ie/_files/ugd/0956f9_aee42a7fe06e4f23ac02658928f64b4e.pdf",
+      "final_url": "https://www.ourladysgns.ie/_files/ugd/0956f9_aee42a7fe06e4f23ac02658928f64b4e.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "​Anti-Cyber Bullying Policy"
+    },
+    {
+      "url": "https://www.ourladysgns.ie/_files/ugd/0956f9_a9abc2ca2b734946ae80bb278bf0e2c9.pdf",
+      "final_url": "https://www.ourladysgns.ie/_files/ugd/0956f9_a9abc2ca2b734946ae80bb278bf0e2c9.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Critical Incident Policy"
+    },
+    {
+      "url": "https://www.ourladysgns.ie/_files/ugd/0956f9_8635132faa9d40cc84cc84fe57290366.pdf",
+      "final_url": "https://www.ourladysgns.ie/_files/ugd/0956f9_8635132faa9d40cc84cc84fe57290366.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Student Council Policy"
+    },
+    {
+      "url": "https://www.ourladysgns.ie/_files/ugd/0956f9_4491c794c52b43efae7a543cd22c8edb.docx?dn=acceptable_use_policy%20(1).docx",
+      "final_url": "https://www.ourladysgns.ie/_files/ugd/0956f9_4491c794c52b43efae7a543cd22c8edb.docx?dn=acceptable_use_policy%20(1).docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Acceptable Use Policy"
+    },
+    {
+      "url": "https://www.ourladysgns.ie/_files/ugd/0956f9_349214e6735a4b418ab7f7cee2277d7f.pdf",
+      "final_url": "https://www.ourladysgns.ie/_files/ugd/0956f9_349214e6735a4b418ab7f7cee2277d7f.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Healthy School Lunch Policy"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19396J",
+      "url": "https://www.ourladysgns.ie/",
+      "label": "School homepage",
+      "sha256": "8da75c9566f90668de5f45271d9708d9d008c9047aa2c66f059ee3c189ea2b80",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19396J_8da75c9566f90668de5f.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 345
+    },
+    {
+      "roll": "19396J",
+      "url": "https://www.ourladysgns.ie/blank-4",
+      "label": "Downloads",
+      "sha256": "d7e5bbd1302c1bac2bd0be2c1c587368fa61dee7d99189541e9e5cf4074c6915",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19396J_d7e5bbd1302c1bac2bd0.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1256
+    }
+  ],
+  "pending_links": [],
+  "elapsed_seconds": 56.34,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:06:11+0000"
+}

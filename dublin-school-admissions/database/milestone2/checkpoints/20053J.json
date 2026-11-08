@@ -1,0 +1,125 @@
+{
+  "roll": "20053J",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.cheeverstownschool.ie/admissions",
+      "final_url": "https://www.cheeverstownschool.ie/admissions",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "ADMISSIONS"
+    },
+    {
+      "url": "https://www.cheeverstownschool.ie/_files/ugd/ed3463_7127586c0afe4001b50248262d0ed851.docx?dn=Enrolment%20application%20form%20-%20March%202026.docx",
+      "final_url": "https://www.cheeverstownschool.ie/_files/ugd/ed3463_7127586c0afe4001b50248262d0ed851.docx?dn=Enrolment%20application%20form%20-%20March%202026.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Enrolment Application Form"
+    },
+    {
+      "url": "https://www.cheeverstownschool.ie/_files/ugd/ed3463_e81a5e6346d44610ab63401b6f1de3a2.pdf",
+      "final_url": "https://www.cheeverstownschool.ie/_files/ugd/ed3463_e81a5e6346d44610ab63401b6f1de3a2.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.cheeverstownschool.ie/_files/ugd/ed3463_5156e93d8d2a4db588249d5b6791039e.pdf",
+      "final_url": "https://www.cheeverstownschool.ie/_files/ugd/ed3463_5156e93d8d2a4db588249d5b6791039e.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.cheeverstownschool.ie/sitemap.xml",
+      "final_url": "https://www.cheeverstownschool.ie/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.cheeverstownschool.ie/policies",
+      "final_url": "https://www.cheeverstownschool.ie/policies",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "POLICIES & PROCEDURES"
+    },
+    {
+      "url": "https://www.cheeverstownschool.ie/_files/ugd/ed3463_8570c55fbde2438da6d8832973afffbc.pdf",
+      "final_url": "https://www.cheeverstownschool.ie/_files/ugd/ed3463_8570c55fbde2438da6d8832973afffbc.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parental Complaints Procedure"
+    },
+    {
+      "url": "https://www.cheeverstownschool.ie/pages-sitemap.xml",
+      "final_url": "https://www.cheeverstownschool.ie/pages-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.cheeverstownschool.ie/",
+      "final_url": "https://www.cheeverstownschool.ie/",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.cheeverstownschool.ie/_files/ugd/ed3463_da96136d987b4bdb886a8628b9562a52.pdf",
+      "final_url": "https://www.cheeverstownschool.ie/_files/ugd/ed3463_da96136d987b4bdb886a8628b9562a52.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Child Safeguarding Child Friendly Policy 2026/27"
+    },
+    {
+      "url": "https://www.cheeverstownschool.ie/_files/ugd/ed3463_2b53e45ad75f402894df26b5d1ced696.pdf",
+      "final_url": "https://www.cheeverstownschool.ie/_files/ugd/ed3463_2b53e45ad75f402894df26b5d1ced696.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Bi Cinealta Policy 2026 signed"
+    },
+    {
+      "url": "https://www.cheeverstownschool.ie/_files/ugd/ed3463_b37a7381edda49e79c0f011d95b15fc3.pdf",
+      "final_url": "https://www.cheeverstownschool.ie/_files/ugd/ed3463_b37a7381edda49e79c0f011d95b15fc3.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Anti bullying policy"
+    },
+    {
+      "url": "https://www.cheeverstownschool.ie/_files/ugd/ed3463_80235f01595e4b6d86446598d0e10ab9.pdf",
+      "final_url": "https://www.cheeverstownschool.ie/_files/ugd/ed3463_80235f01595e4b6d86446598d0e10ab9.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Bí Cineálta child friendly policy"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "20053J",
+      "url": "https://www.cheeverstownschool.ie/admissions",
+      "label": "ADMISSIONS",
+      "sha256": "0b28371dfc96d1d8fa971ffc99e83a7c573f2bc3c16ceb3d67b068485b4fa77a",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20053J_0b28371dfc96d1d8fa97.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 87
+    },
+    {
+      "roll": "20053J",
+      "url": "https://www.cheeverstownschool.ie/policies",
+      "label": "POLICIES & PROCEDURES",
+      "sha256": "253c12beff1fdf67eae4acada0806455e8245489c60cfbf7f677e894ef18efa3",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20053J_253c12beff1fdf67eae4.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 510
+    }
+  ],
+  "pending_links": [],
+  "elapsed_seconds": 35.93,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:43:29+0000"
+}

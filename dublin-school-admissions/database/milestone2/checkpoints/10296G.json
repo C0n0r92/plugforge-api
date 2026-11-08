@@ -1,0 +1,343 @@
+{
+  "roll": "10296G",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.stmarnocksns.ie/enrolment/admission-notice/?googletranslate=true",
+      "final_url": "https://www.stmarnocksns.ie/enrolment/admission-notice/?googletranslate=true",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "https://www.stmarnocksns.ie/documentlink/418/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/512/docletter/20261005034412_90_St._Marnock_s_National_School_APPENDIX_B__ANNUAL_ADMISSION_NOTICE_in_respect_of_admissions_to_the_2027_2028_.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "St. Marnock s National School APPENDIX B  ANNUAL ADMISSION NOTICE in respect of admissions to the 2027 2028 .pdf"
+    },
+    {
+      "url": "https://www.stmarnocksns.ie/enrolment/admission-notice/",
+      "final_url": "https://www.stmarnocksns.ie/enrolment/admission-notice/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admission Notice"
+    },
+    {
+      "url": "https://www.stmarnocksns.ie/admin/?open=/enrolment/admission-notice/?googletranslate=true",
+      "final_url": "https://www.stmarnocksns.ie/admin/?open=/enrolment/admission-notice/?googletranslate=true",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.stmarnocksns.ie/admin/?open=/enrolment/admission-notice/",
+      "final_url": "https://www.stmarnocksns.ie/admin/?open=/enrolment/admission-notice/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.stmarnocksns.ie/parents-area/junior-infant-admissions/",
+      "final_url": "https://www.stmarnocksns.ie/parents-area/junior-infant-admissions/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Junior Infant Admissions 2025"
+    },
+    {
+      "url": "https://www.stmarnocksns.ie/enrolment/junior-infant-admissions-/",
+      "final_url": "https://www.stmarnocksns.ie/enrolment/junior-infant-admissions-/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions 2027-2028"
+    },
+    {
+      "url": "https://www.stmarnocksns.ie/parents-area/junior-infant-admissions/?googletranslate=true",
+      "final_url": "https://www.stmarnocksns.ie/parents-area/junior-infant-admissions/?googletranslate=true",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "https://www.stmarnocksns.ie/enrolment/speech-and-language-class/?googletranslate=true",
+      "final_url": "https://www.stmarnocksns.ie/enrolment/speech-and-language-class/?googletranslate=true",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "https://www.stmarnocksns.ie/enrolment/speech-and-language-class-referral-forms-and-information-leaflets/?googletranslate=true",
+      "final_url": "https://www.stmarnocksns.ie/enrolment/speech-and-language-class-referral-forms-and-information-leaflets/?googletranslate=true",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "https://www.stmarnocksns.ie/enrolment/speech-and-language-class-referral-forms-and-information-leaflets/",
+      "final_url": "https://www.stmarnocksns.ie/enrolment/speech-and-language-class-referral-forms-and-information-leaflets/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Developmental Language Disorder(DLD) and Speech Sound Disorder (SSD) class Referral forms & Information Leaflets"
+    },
+    {
+      "url": "https://www.stmarnocksns.ie/enrolment/junior-infant-admissions-/?googletranslate=true",
+      "final_url": "https://www.stmarnocksns.ie/enrolment/junior-infant-admissions-/?googletranslate=true",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "https://www.stmarnocksns.ie/enrolment/?googletranslate=true",
+      "final_url": "https://www.stmarnocksns.ie/enrolment/?googletranslate=true",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "https://www.stmarnocksns.ie/enrolment/",
+      "final_url": "https://www.stmarnocksns.ie/enrolment/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions Iontrálacha"
+    },
+    {
+      "url": "https://www.stmarnocksns.ie/admin/?open=/parents-area/junior-infant-admissions/?googletranslate=true",
+      "final_url": "https://www.stmarnocksns.ie/admin/?open=/parents-area/junior-infant-admissions/?googletranslate=true",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.stmarnocksns.ie/admin/?open=/parents-area/junior-infant-admissions/",
+      "final_url": "https://www.stmarnocksns.ie/admin/?open=/parents-area/junior-infant-admissions/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.stmarnocksns.ie/admin/?open=/enrolment/speech-and-language-class/?googletranslate=true",
+      "final_url": "https://www.stmarnocksns.ie/admin/?open=/enrolment/speech-and-language-class/?googletranslate=true",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.stmarnocksns.ie/admin/?open=/enrolment/speech-and-language-class-referral-forms-and-information-leaflets/?googletranslate=true",
+      "final_url": "https://www.stmarnocksns.ie/admin/?open=/enrolment/speech-and-language-class-referral-forms-and-information-leaflets/?googletranslate=true",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.stmarnocksns.ie/admin/?open=/enrolment/speech-and-language-class-referral-forms-and-information-leaflets/",
+      "final_url": "https://www.stmarnocksns.ie/admin/?open=/enrolment/speech-and-language-class-referral-forms-and-information-leaflets/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.stmarnocksns.ie/admin/?open=/enrolment/junior-infant-admissions-/?googletranslate=true",
+      "final_url": "https://www.stmarnocksns.ie/admin/?open=/enrolment/junior-infant-admissions-/?googletranslate=true",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.stmarnocksns.ie/admin/?open=/enrolment/junior-infant-admissions-/",
+      "final_url": "https://www.stmarnocksns.ie/admin/?open=/enrolment/junior-infant-admissions-/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.stmarnocksns.ie/admin/?open=/enrolment/?googletranslate=true",
+      "final_url": "https://www.stmarnocksns.ie/admin/?open=/enrolment/?googletranslate=true",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.stmarnocksns.ie/admin/?open=/enrolment/",
+      "final_url": "https://www.stmarnocksns.ie/admin/?open=/enrolment/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.stmarnocksns.ie/documentlink/397/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/512/docletter/20260106100959_81_Leaflet_2_Information_for_Parents_Guardians_and_Teachers_DLD_SSD_Class_2026.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Leaflet 2 Information for Parents Guardians and Teachers DLD SSD Class 2026.pdf"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "10296G",
+      "url": "https://www.stmarnocksns.ie/enrolment/admission-notice/?googletranslate=true",
+      "label": "",
+      "sha256": "0e93fcc3de4a9e82824ddd982f9747d6e7648e4439049daa04af067115a44d2c",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/10296G_0e93fcc3de4a9e82824d.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 386
+    },
+    {
+      "roll": "10296G",
+      "url": "https://www.stmarnocksns.ie/enrolment/admission-notice/",
+      "label": "Admission Notice",
+      "sha256": "b9c3262814f20f7f52aa487c6c27b09ce1a76b30671fb502cc077dfb5d7539af",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/10296G_b9c3262814f20f7f52aa.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 386
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.stmarnocksns.ie/documentlink/396/?open=true",
+      "label": "Leaflet 1 Initial Information Leaflet for Parents 2026.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmarnocksns.ie/documentlink/417/?open=true",
+      "label": "St Marnocks NS Appendix A DLD SSD Class Admissions Policy 2027 2028.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmarnocksns.ie/sitemap.xml",
+      "label": "Public sitemap",
+      "via": "sitemap_root"
+    },
+    {
+      "url": "https://www.stmarnocksns.ie/parents-area/tips-for-new-parents/",
+      "label": "Tips for New Parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmarnocksns.ie/parents-area/special-education/",
+      "label": "Special Education",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmarnocksns.ie/parents-area/school-booklists/",
+      "label": "School Booklists",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmarnocksns.ie/parents-area/parents-association/",
+      "label": "Parents Association",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmarnocksns.ie/parents-area/newsletters/",
+      "label": "Newsletters",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmarnocksns.ie/parents-area/homework-club/",
+      "label": "Homework Club",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmarnocksns.ie/parents-area/cyber-safety/",
+      "label": "Cyber Safety",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmarnocksns.ie/parents-area/calendar/",
+      "label": "Calendar",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmarnocksns.ie/parents-area/",
+      "label": "Parents Tuismitheoirí",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmarnocksns.ie/our-school/policies/",
+      "label": "Policies",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmarnocksns.ie/enrolment/speech-and-language-class/",
+      "label": "Admissions policy for DLD / SSD class",
+      "via": "prior_public_admissions_landing"
+    },
+    {
+      "url": "https://www.stmarnocksns.ie/enrolment/enrolment-policy/?googletranslate=true",
+      "label": "",
+      "via": "prior_public_admissions_landing"
+    },
+    {
+      "url": "https://www.stmarnocksns.ie/enrolment/enrolment-policy/",
+      "label": "Admissions Policy",
+      "via": "prior_public_admissions_landing"
+    },
+    {
+      "url": "https://www.stmarnocksns.ie/documentlink/418/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmarnocksns.ie/documentlink/417/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmarnocksns.ie/documentlink/398/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmarnocksns.ie/documentlink/397/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmarnocksns.ie/documentlink/396/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmarnocksns.ie/documentlink/395/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmarnocksns.ie/documentlink/394/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmarnocksns.ie/contact-us-185/school-information/",
+      "label": "School Information",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmarnocksns.ie/",
+      "label": "School homepage",
+      "via": "home"
+    },
+    {
+      "url": "https://www.stmarnocksns.ie/parents-area/school-uniform/",
+      "label": "School Uniform Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmarnocksns.ie/cmsfiles/policies/privacy/",
+      "label": "Website Privacy Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stmarnocksns.ie/cmsfiles/policies/cookie/",
+      "label": "Cookie Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 44.38,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:01:02+0000"
+}

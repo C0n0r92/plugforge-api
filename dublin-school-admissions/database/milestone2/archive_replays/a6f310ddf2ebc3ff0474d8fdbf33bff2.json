@@ -1,0 +1,46 @@
+{
+  "task_id": "a6f310ddf2ebc3ff0474d8fdbf33bff2",
+  "roll": "00697S",
+  "capture": {
+    "digest": "E5EMGNIQCRLHPB3LQ7PJJKVIL6O4DQHR",
+    "mimetype": "text/html",
+    "original": "https://www.saintbrigids.ie/News/Mainstream-Admissions-for-Junior-Infants-20262027/37524/Index.html",
+    "statuscode": "200",
+    "timestamp": "20260420185809"
+  },
+  "original_url": "https://www.saintbrigids.ie/News/Mainstream-Admissions-for-Junior-Infants-20262027/37524/Index.html",
+  "archived_url": "https://web.archive.org/web/20260420185809/https://www.saintbrigids.ie/News/Mainstream-Admissions-for-Junior-Infants-20262027/37524/Index.html",
+  "attempted_at": "2026-11-08T12:35:57.106156+00:00",
+  "http_status": 200,
+  "headers": {
+    "Content-Type": "text/html; charset=utf-8",
+    "memento-datetime": "Mon, 20 Apr 2026 18:58:09 GMT"
+  },
+  "payload_sha256": "a36f8779ba6965cbc525193d214fdfb37f78302fa80edb5e369ef26d0d79f5a9",
+  "bytes": 61167,
+  "format": "html",
+  "archive_link_candidates": [
+    {
+      "url": "/web/20260420185809/https://www.saintbrigids.ie/Parent-Noticeboard/Index.html",
+      "label": "Parent Noticeboard"
+    },
+    {
+      "url": "/web/20260420185809/https://www.saintbrigids.ie/Mainstream-Admissions/Index.html",
+      "label": "Mainstream Admissions"
+    },
+    {
+      "url": "/web/20260420185809/https://www.saintbrigids.ie/Autism-Class-Admissions/Index.html",
+      "label": "Autism Class Admissions"
+    },
+    {
+      "url": "/web/20260420185809/https://www.saintbrigids.ie/Mainstream-Admissions/Index.html",
+      "label": "Mainstream Admissions"
+    },
+    {
+      "url": "/web/20260420185809/https://www.saintbrigids.ie/Parent-Noticeboard/Index.html",
+      "label": "Parent Noticeboard"
+    }
+  ],
+  "status": "archived_body_retrieved_requires_notice_evidence_review",
+  "text_file": "database/milestone2/evidence/archive_00697S_a36f8779ba6965cbc525.txt"
+}

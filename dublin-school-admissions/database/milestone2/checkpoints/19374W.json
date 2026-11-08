@@ -1,0 +1,349 @@
+{
+  "roll": "19374W",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.ourladysgrove.ie/admission-policy-admission-notice-2027-2028",
+      "final_url": "https://www.ourladysgrove.ie/admission-policy-admission-notice-2027-2028",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admission Policy  Admission Notice 2027 2028"
+    },
+    {
+      "url": "https://ourladysgrove.ie/admission-policy-admission-notice-2027-2028",
+      "final_url": "https://ourladysgrove.ie/admission-policy-admission-notice-2027-2028",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admission Policy  Admission Notice 2027 2028"
+    },
+    {
+      "url": "https://www.ourladysgrove.ie/su_media/documents/admission-policy-olg-2027-2028.pdf",
+      "final_url": "https://www.ourladysgrove.ie/su_media/documents/admission-policy-olg-2027-2028.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admission Policy OLG  2027 2028 .pdf"
+    },
+    {
+      "url": "https://ourladysgrove.ie/su_media/documents/admission-policy-olg-2027-2028.pdf",
+      "final_url": "https://ourladysgrove.ie/su_media/documents/admission-policy-olg-2027-2028.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admission Policy OLG  2027 2028 .pdf"
+    },
+    {
+      "url": "https://www.ourladysgrove.ie/sitemap.xml",
+      "final_url": "https://www.ourladysgrove.ie/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.ourladysgrove.ie/school-policies",
+      "final_url": "https://www.ourladysgrove.ie/school-policies",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Policies"
+    },
+    {
+      "url": "https://www.ourladysgrove.ie/su_media/documents/olgps-critical-incident-plan-2024-25.pdf",
+      "final_url": "https://www.ourladysgrove.ie/su_media/documents/olgps-critical-incident-plan-2024-25.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "OLGPS Critical Incident Plan  2024-25.pdf"
+    },
+    {
+      "url": "https://www.ourladysgrove.ie/su_media/documents/cp-bom-review-notification-2026-2027.pdf",
+      "final_url": "https://www.ourladysgrove.ie/su_media/documents/cp-bom-review-notification-2026-2027.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "CP BOM  Review Notification 2026 2027.pdf"
+    },
+    {
+      "url": "https://www.ourladysgrove.ie/su_media/documents/child-safeguarding-statement-and-risk-assessment-2026-2027.pdf",
+      "final_url": "https://www.ourladysgrove.ie/su_media/documents/child-safeguarding-statement-and-risk-assessment-2026-2027.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Child Safeguarding Statement and Risk Assessment 2026 2027.pdf"
+    },
+    {
+      "url": "https://www.ourladysgrove.ie/su_media/documents/child-safeguarding-statement-2026-2027.pdf",
+      "final_url": "https://www.ourladysgrove.ie/su_media/documents/child-safeguarding-statement-2026-2027.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Child Safeguarding  Statement 2026 2027.pdf"
+    },
+    {
+      "url": "https://www.ourladysgrove.ie/su_media/documents/revised-parental-complaints-procedure-v4-final.pdf",
+      "final_url": "https://www.ourladysgrove.ie/su_media/documents/revised-parental-complaints-procedure-v4-final.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Revised Parental Complaints Procedure V4 Final.pdf"
+    },
+    {
+      "url": "https://www.ourladysgrove.ie/su_media/documents/olg-data-protection-policy-2018.pdf",
+      "final_url": "https://www.ourladysgrove.ie/su_media/documents/olg-data-protection-policy-2018.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "OLG Data Protection Policy 2018.pdf"
+    },
+    {
+      "url": "https://www.ourladysgrove.ie/su_media/documents/o_1ec2fcdem13vjfku8p11iueb86a.pdf",
+      "final_url": "https://www.ourladysgrove.ie/su_media/documents/o_1ec2fcdem13vjfku8p11iueb86a.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Administration of Medicines-Medication Policy 2020.pdf"
+    },
+    {
+      "url": "https://www.ourladysgrove.ie/parents",
+      "final_url": "https://www.ourladysgrove.ie/parents",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents"
+    },
+    {
+      "url": "https://www.ourladysgrove.ie/su_media/documents/vol-cont-forms-2025.pdf",
+      "final_url": "https://www.ourladysgrove.ie/su_media/documents/vol-cont-forms-2025.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Vol Cont Forms 2025.pdf"
+    },
+    {
+      "url": "https://www.ourladysgrove.ie/parent-association",
+      "final_url": "https://www.ourladysgrove.ie/parent-association",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parent Association"
+    },
+    {
+      "url": "https://www.ourladysgrove.ie/links-for-parents",
+      "final_url": "https://www.ourladysgrove.ie/links-for-parents",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Links For Parents"
+    },
+    {
+      "url": "https://www.education.ie/en/Parents/Information/School-Enrolment/Organisation-and-Representative-Group-Submissions/National-Educational-Welfare-Board-NEWB-.pdf",
+      "final_url": "https://www.gov.ie/en/department-of-education/?referer=https://www.education.ie/en/Parents/Information/School-Enrolment/Organisation-and-Representative-Group-Submissions/National-Educational-Welfare-Board-NEWB-.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "National Education Welfare Board"
+    },
+    {
+      "url": "https://www.ourladysgrove.ie/homework-guidelines-for-parents",
+      "final_url": "https://www.ourladysgrove.ie/homework-guidelines-for-parents",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Homework - Guidelines for Parents"
+    },
+    {
+      "url": "https://www.ourladysgrove.ie",
+      "final_url": "https://www.ourladysgrove.ie",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://ourladysgrove.ie/sitemap.xml",
+      "final_url": "https://ourladysgrove.ie/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://ourladysgrove.ie/school-policies",
+      "final_url": "https://ourladysgrove.ie/school-policies",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Policies"
+    },
+    {
+      "url": "https://ourladysgrove.ie/su_media/documents/olgps-critical-incident-plan-2024-25.pdf",
+      "final_url": "https://ourladysgrove.ie/su_media/documents/olgps-critical-incident-plan-2024-25.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "OLGPS Critical Incident Plan  2024-25.pdf"
+    },
+    {
+      "url": "https://ourladysgrove.ie/su_media/documents/cp-bom-review-notification-2026-2027.pdf",
+      "final_url": "https://ourladysgrove.ie/su_media/documents/cp-bom-review-notification-2026-2027.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "CP BOM  Review Notification 2026 2027.pdf"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19374W",
+      "url": "https://www.ourladysgrove.ie/admission-policy-admission-notice-2027-2028",
+      "label": "Admission Policy  Admission Notice 2027 2028",
+      "sha256": "e0257d85e9766608e6f5581daf4357091e1befe534af5d351321c29547361198",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19374W_e0257d85e9766608e6f5.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 208
+    },
+    {
+      "roll": "19374W",
+      "url": "https://www.ourladysgrove.ie/su_media/documents/admission-policy-olg-2027-2028.pdf",
+      "label": "Admission Policy OLG  2027 2028 .pdf",
+      "sha256": "9c8a1774a3e02d68b76a5c6b4404bb9d34309b25609cd8f8cbbe3f9ea15f26eb",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19374W_9c8a1774a3e02d68b76a.txt",
+      "source_file": "database/milestone2/cache/9c8a1774a3e02d68b76a5c6b4404bb9d34309b25609cd8f8cbbe3f9ea15f26eb.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 28233
+    },
+    {
+      "roll": "19374W",
+      "url": "https://www.ourladysgrove.ie/school-policies",
+      "label": "School Policies",
+      "sha256": "cb8b0714e0fafb39b874282aec70f61d4a6d96a2d5ddb6ff773783cf53d419d2",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19374W_cb8b0714e0fafb39b874.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 522
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://ourladysgrove.ie/su_media/documents/child-safeguarding-statement-and-risk-assessment-2026-2027.pdf",
+      "label": "Child Safeguarding Statement and Risk Assessment 2026 2027.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://ourladysgrove.ie/su_media/documents/child-safeguarding-statement-2026-2027.pdf",
+      "label": "Child Safeguarding  Statement 2026 2027.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://ourladysgrove.ie/su_media/documents/revised-parental-complaints-procedure-v4-final.pdf",
+      "label": "Revised Parental Complaints Procedure V4 Final.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://ourladysgrove.ie/su_media/documents/olg-data-protection-policy-2018.pdf",
+      "label": "OLG Data Protection Policy 2018.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://ourladysgrove.ie/su_media/documents/o_1ec2fcdem13vjfku8p11iueb86a.pdf",
+      "label": "Administration of Medicines-Medication Policy 2020.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://ourladysgrove.ie/parents",
+      "label": "Parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://ourladysgrove.ie/parent-association",
+      "label": "Parent Association",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://ourladysgrove.ie/links-for-parents",
+      "label": "Links For Parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://ourladysgrove.ie/homework-guidelines-for-parents",
+      "label": "Homework - Guidelines for Parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ourladysgrove.ie/su_media/documents/o_1gmvvv97qdehvds16pl9v156ta.pdf",
+      "label": "OLG Code Of Behaviour Policy  2022.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://ourladysgrove.ie/su_media/documents/o_1gmvvv97qdehvds16pl9v156ta.pdf",
+      "label": "OLG Code Of Behaviour Policy  2022.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ourladysgrove.ie/su_media/documents/olg-rse-policy-2023-2024.pdf",
+      "label": "OLG RSE Policy 2023 2024.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ourladysgrove.ie/su_media/documents/olg-mobilesmart-phones-and-personal-smart-devices-policy-2023.pdf",
+      "label": "OLG MobileSmart Phones and Personal Smart Devices Policy 2023.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://ourladysgrove.ie/su_media/documents/olg-rse-policy-2023-2024.pdf",
+      "label": "OLG RSE Policy 2023 2024.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://ourladysgrove.ie/su_media/documents/olg-mobilesmart-phones-and-personal-smart-devices-policy-2023.pdf",
+      "label": "OLG MobileSmart Phones and Personal Smart Devices Policy 2023.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ourladysgrove.ie/su_media/documents/bi-cinealta-policy-2025-30-09-2025.pdf",
+      "label": "Bí Cineálta Policy 2025 30 09 2025 .pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://ourladysgrove.ie/su_media/documents/bi-cinealta-policy-2025-30-09-2025.pdf",
+      "label": "Bí Cineálta Policy 2025 30 09 2025 .pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ourladysgrove.ie/su_media/documents/aup-information-and-computer-technology-acceptable-use-policy-2026-2027.pdf",
+      "label": "AUP Information and Computer Technology Acceptable Use Policy  2026- 2027 .pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://ourladysgrove.ie/su_media/documents/aup-information-and-computer-technology-acceptable-use-policy-2026-2027.pdf",
+      "label": "AUP Information and Computer Technology Acceptable Use Policy  2026- 2027 .pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ourladysgrove.ie/su_media/documents/o_1gdl411c5f5jpcj1dpv1eia1jhka.pdf",
+      "label": "OLG Healthy Eating Policy.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ourladysgrove.ie/su_media/documents/o_1gddfl3le1o7e1vn31q73kbq1amqc.pdf",
+      "label": "Whatsapp Policy .pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ourladysgrove.ie/su_media/documents/o_1gddfl03p146k1q8814b06ss1c4fa.pdf",
+      "label": "OLG Dignity At Work Policy .pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ourladysgrove.ie/su_media/documents/1-3-safety-health-and-welfare-policy-26-27.pdf",
+      "label": "1_3 Safety, Health and Welfare Policy- 26-27.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://ourladysgrove.ie/su_media/documents/o_1gdl411c5f5jpcj1dpv1eia1jhka.pdf",
+      "label": "OLG Healthy Eating Policy.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://ourladysgrove.ie/su_media/documents/o_1gddfl3le1o7e1vn31q73kbq1amqc.pdf",
+      "label": "Whatsapp Policy .pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://ourladysgrove.ie/su_media/documents/o_1gddfl03p146k1q8814b06ss1c4fa.pdf",
+      "label": "OLG Dignity At Work Policy .pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://ourladysgrove.ie/su_media/documents/1-3-safety-health-and-welfare-policy-26-27.pdf",
+      "label": "1_3 Safety, Health and Welfare Policy- 26-27.pdf",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 65.43,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:45:33+0000"
+}

@@ -1,0 +1,320 @@
+{
+  "roll": "16988T",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.christthekingbns.ie/enrolment-form/",
+      "final_url": "https://www.christthekingbns.ie/enrolment-form/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Enrolment Form"
+    },
+    {
+      "url": "https://www.christthekingbns.ie/wp-content/uploads/2026/10/Enrolment-Form-CTKBNS-27-28.pdf",
+      "final_url": "https://www.christthekingbns.ie/wp-content/uploads/2026/10/Enrolment-Form-CTKBNS-27-28.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Enrolment Form here"
+    },
+    {
+      "url": "https://www.christthekingbns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://www.christthekingbns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://www.christthekingbns.ie/procedure/",
+      "final_url": "https://www.christthekingbns.ie/procedure/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Enrolment Procedure"
+    },
+    {
+      "url": "https://www.christthekingbns.ie/?s=admission",
+      "final_url": "https://www.christthekingbns.ie/?s=admission",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Public site search form"
+    },
+    {
+      "url": "https://www.christthekingbns.ie/wp-content/uploads/2021/08/Enrolment-Admissions-Policy.pdf",
+      "final_url": "https://www.christthekingbns.ie/wp-content/uploads/2021/08/Enrolment-Admissions-Policy.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Enrolment &#038; Admissions Policy"
+    },
+    {
+      "url": "https://www.christthekingbns.ie/wp-content/uploads/2022/05/Don_t_Let_your_Kids_Miss_Out.pdf",
+      "final_url": "https://www.christthekingbns.ie/wp-content/uploads/2022/05/Don_t_Let_your_Kids_Miss_Out.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Don’t Let Your Child Miss Out"
+    },
+    {
+      "url": "https://www.christthekingbns.ie/wp-content/uploads/2022/05/CTK-BNS-Admission-Policy.pdf",
+      "final_url": "https://www.christthekingbns.ie/wp-content/uploads/2022/05/CTK-BNS-Admission-Policy.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Policy"
+    },
+    {
+      "url": "https://www.christthekingbns.ie/wp-content/uploads/2023/06/CTK-BNS-Admission-Policy-updated-Jan-31-2023.docx",
+      "final_url": "https://www.christthekingbns.ie/wp-content/uploads/2023/06/CTK-BNS-Admission-Policy-updated-Jan-31-2023.docx",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://www.christthekingbns.ie/wp-content/uploads/2023/06/CTK-BNS-Admission-Policy-revised-22-23.pdf",
+      "final_url": "https://www.christthekingbns.ie/wp-content/uploads/2023/06/CTK-BNS-Admission-Policy-revised-22-23.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "CTK BNS Admission Policy revised 22-23"
+    },
+    {
+      "url": "https://www.christthekingbns.ie/wp-content/uploads/2023/06/CTK-BNS-Admission-Policy-22-23.pdf",
+      "final_url": "https://www.christthekingbns.ie/wp-content/uploads/2023/06/CTK-BNS-Admission-Policy-22-23.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "CTK BNS Admission Policy 22-23"
+    },
+    {
+      "url": "https://www.christthekingbns.ie/wp-content/uploads/2023/02/CTK-BNS-Admission-Policy-22-23.pdf",
+      "final_url": "https://www.christthekingbns.ie/wp-content/uploads/2023/02/CTK-BNS-Admission-Policy-22-23.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "CTK BNS Admission Policy 22-23"
+    },
+    {
+      "url": "https://www.christthekingbns.ie/wp-content/uploads/2023/01/CTK-BNS-Admission-Policy-signed-for-review.pdf",
+      "final_url": "https://www.christthekingbns.ie/wp-content/uploads/2023/01/CTK-BNS-Admission-Policy-signed-for-review.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "CTK BNS Admission Policy &#8211; signed &#8211; for review"
+    },
+    {
+      "url": "https://www.christthekingbns.ie/sitemap_index.xml",
+      "final_url": "https://www.christthekingbns.ie/sitemap_index.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.christthekingbns.ie/post-sitemap.xml",
+      "final_url": "https://www.christthekingbns.ie/post-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.christthekingbns.ie/policy/",
+      "final_url": "https://www.christthekingbns.ie/policy/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions Policy"
+    },
+    {
+      "url": "https://www.christthekingbns.ie/policies/",
+      "final_url": "https://www.christthekingbns.ie/policies/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.christthekingbns.ie/page-sitemap.xml",
+      "final_url": "https://www.christthekingbns.ie/page-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.christthekingbns.ie",
+      "final_url": "https://www.christthekingbns.ie",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.christthekingbns.ie/wp-content/uploads/2026/09/Letter-to-Parents_Guardians-from-school-Board-of-Management.pdf",
+      "final_url": "https://www.christthekingbns.ie/wp-content/uploads/2026/09/Letter-to-Parents_Guardians-from-school-Board-of-Management.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Letter to Parents/Guardians from the Board of Management"
+    },
+    {
+      "url": "https://www.christthekingbns.ie/wp-content/uploads/2021/08/School_Data_Protection_Policy.pdf",
+      "final_url": "https://www.christthekingbns.ie/wp-content/uploads/2021/08/School_Data_Protection_Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Data Protection Policy"
+    },
+    {
+      "url": "https://www.christthekingbns.ie/wp-content/uploads/2021/08/Anti-Cyber-Bullying-Policy.pdf",
+      "final_url": "https://www.christthekingbns.ie/wp-content/uploads/2021/08/Anti-Cyber-Bullying-Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Anti Cyber Bullying Policy"
+    },
+    {
+      "url": "https://www.christthekingbns.ie/wp-content/uploads/2022/03/CTK_BNS_-Stay-Safe-Policy-2022-24.pdf",
+      "final_url": "https://www.christthekingbns.ie/wp-content/uploads/2022/03/CTK_BNS_-Stay-Safe-Policy-2022-24.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Stay Safe Policy"
+    },
+    {
+      "url": "https://www.christthekingbns.ie/wp-content/uploads/2022/03/CTK-BNS-Challenging-Behaviour-Policy_Le-Che%CC%81ile-classes.pdf",
+      "final_url": "https://www.christthekingbns.ie/wp-content/uploads/2022/03/CTK-BNS-Challenging-Behaviour-Policy_Le-Che%CC%81ile-classes.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Code of Behaviour and Challenging Behaviour Policy – Le Chéile ASD Classes"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "16988T",
+      "url": "https://www.christthekingbns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "label": "Oldest public admission media (all dates)",
+      "sha256": "52cd0f9bc54469b3d5d5c781f767582218a812f76cd14118cfb07adc2f1aa362",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/16988T_52cd0f9bc54469b3d5d5.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 2763
+    },
+    {
+      "roll": "16988T",
+      "url": "https://www.christthekingbns.ie/procedure/",
+      "label": "Enrolment Procedure",
+      "sha256": "1c753e132ab4e9d64a178bcca3063ea2a50eef61233c861e37f26d7b5e6af50a",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/16988T_1c753e132ab4e9d64a17.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1120
+    },
+    {
+      "roll": "16988T",
+      "url": "https://www.christthekingbns.ie/?s=admission",
+      "label": "Public site search form",
+      "sha256": "c795dd4be435c2dafc57ad5b2de42b69119b69b2bab5978d56ba83a987a77b10",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/16988T_c795dd4be435c2dafc57.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 301
+    },
+    {
+      "roll": "16988T",
+      "url": "https://www.christthekingbns.ie/wp-content/uploads/2022/05/CTK-BNS-Admission-Policy.pdf",
+      "label": "Admissions Policy",
+      "sha256": "daa2c601f5dab77ae1597d0de71e7c8ef44641a75fe5d6df31e74ce89c250191",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/16988T_daa2c601f5dab77ae159.txt",
+      "source_file": "database/milestone2/cache/daa2c601f5dab77ae1597d0de71e7c8ef44641a75fe5d6df31e74ce89c250191.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 28492
+    },
+    {
+      "roll": "16988T",
+      "url": "https://www.christthekingbns.ie/wp-content/uploads/2023/06/CTK-BNS-Admission-Policy-updated-Jan-31-2023.docx",
+      "label": "Prior school admissions section",
+      "sha256": "2af34bacf1a52b6c6783d454ce6ee2864caa2d21f2ab4e0a3425155b6bff686b",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/16988T_2af34bacf1a52b6c6783.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 44418
+    },
+    {
+      "roll": "16988T",
+      "url": "https://www.christthekingbns.ie/wp-content/uploads/2023/06/CTK-BNS-Admission-Policy-revised-22-23.pdf",
+      "label": "CTK BNS Admission Policy revised 22-23",
+      "sha256": "54ed8618e406f58cbff976e47842e52e3c73af6b8fae67e4edc42ce4662fa666",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/16988T_54ed8618e406f58cbff9.txt",
+      "source_file": "database/milestone2/cache/54ed8618e406f58cbff976e47842e52e3c73af6b8fae67e4edc42ce4662fa666.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 29210
+    },
+    {
+      "roll": "16988T",
+      "url": "https://www.christthekingbns.ie/wp-content/uploads/2023/06/CTK-BNS-Admission-Policy-22-23.pdf",
+      "label": "CTK BNS Admission Policy 22-23",
+      "sha256": "be56db1264b62b0855df5eb59a1de695eca5d0b4958698e975ba68895dd02e19",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/16988T_be56db1264b62b0855df.txt",
+      "source_file": "database/milestone2/cache/be56db1264b62b0855df5eb59a1de695eca5d0b4958698e975ba68895dd02e19.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 29135
+    },
+    {
+      "roll": "16988T",
+      "url": "https://www.christthekingbns.ie/wp-content/uploads/2023/01/CTK-BNS-Admission-Policy-signed-for-review.pdf",
+      "label": "CTK BNS Admission Policy &#8211; signed &#8211; for review",
+      "sha256": "6f121a12263c3a586f4fd064200086f121460a41a1a7473b77a588b93ba53089",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/16988T_6f121a12263c3a586f4f.txt",
+      "source_file": "database/milestone2/cache/6f121a12263c3a586f4fd064200086f121460a41a1a7473b77a588b93ba53089.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 29086
+    },
+    {
+      "roll": "16988T",
+      "url": "https://www.christthekingbns.ie/policy/",
+      "label": "Admissions Policy",
+      "sha256": "8b8f13fe72e605d2c7847998d57a5f904e0987bb71a3154176e97b6b6fc878ff",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/16988T_8b8f13fe72e605d2c784.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 397
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.christthekingbns.ie/wp-content/uploads/2024/04/CTK-BNS-Statement-of-Strategy-for-School-Attendance-Nov-2023.pdf",
+      "label": "Attendance Strategy Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.christthekingbns.ie/wp-content/uploads/2023/10/Healthy-Lunch-Policy-CTK-BNS-2023-24.pdf",
+      "label": "Healthy Lunch Policy 23-24",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.christthekingbns.ie/wp-content/uploads/2025/05/Religious-Education-Policy_-CTK-BNS-2024-25.pdf",
+      "label": "Religious Education Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.christthekingbns.ie/wp-content/uploads/2024/10/Health-and-safety-plan-2024-2026.pdf",
+      "label": "Health and Safety Policy 24-26",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.christthekingbns.ie/wp-content/uploads/2025/11/CTK-BNS-Bi-Cinealta-policy-25-26.pdf%20",
+      "label": "Bí Cineálta Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.christthekingbns.ie/wp-content/uploads/2025/05/Critical-Incident-Management-Policy_24-25.pdf",
+      "label": "Critical Incident Management Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.christthekingbns.ie/wp-content/uploads/2026/04/Acceptable-Usage-Policy-for-Internet-Use-25-26.pdf",
+      "label": "Acceptable Usage Policy for Internet Use",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.christthekingbns.ie/wp-content/uploads/2025/11/Student-Bi-Cinealta-Policy-2.pptx",
+      "label": "Bí Cineálta Student-Friendly Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 87.97,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:38:22+0000"
+}

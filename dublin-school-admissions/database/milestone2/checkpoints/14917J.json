@@ -1,0 +1,132 @@
+{
+  "roll": "14917J",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.zionparishschool.ie",
+      "final_url": "https://www.zionparishschool.ie",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.zionparishschool.ie/admissions",
+      "final_url": "https://www.zionparishschool.ie/admissions",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://www.zionparishschool.ie/s/Admissions-Notice-2026-2027-75jy.pdf",
+      "final_url": "https://static1.squarespace.com/static/5fe36092b746f750d4d47ef9/t/68da6321a2a8bf4e15c6188c/1759142689576/Admissions+Notice+2026-2027.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions Notice"
+    },
+    {
+      "url": "https://www.zionparishschool.ie/s/Admissions-details-2023-2024-jajb.pdf",
+      "final_url": "https://static1.squarespace.com/static/5fe36092b746f750d4d47ef9/t/639c718cc02e8d28f0763a90/1671197068231/Admissions+details+2023-+2024.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.zionparishschool.ie/s/Admissions-Form-2025-2026.docx",
+      "final_url": "https://static1.squarespace.com/static/5fe36092b746f750d4d47ef9/t/6729e8afedc8bc05561d339b/1730799791868/Admissions+Form+2025-2026.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.zionparishschool.ie/s/Admissions-Form-2026-2027.docx",
+      "final_url": "https://static1.squarespace.com/static/5fe36092b746f750d4d47ef9/t/68ee218f0eab025f6079ccee/1760436623325/Admissions+Form+2026-2027.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions Form"
+    },
+    {
+      "url": "https://www.zionparishschool.ie/s/Admissions-Policy-2024.docx",
+      "final_url": "https://static1.squarespace.com/static/5fe36092b746f750d4d47ef9/t/67ee5e15ab8e164cc34cfcf2/1743674901476/Admissions+Policy+2024.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions Policy"
+    },
+    {
+      "url": "https://www.zionparishschool.ie/zion-parents-association",
+      "final_url": "https://www.zionparishschool.ie/zion-parents-association",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Zion Parents Association"
+    },
+    {
+      "url": "https://www.zionparishschool.ie/sitemap.xml",
+      "final_url": "https://www.zionparishschool.ie/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.zionparishschool.ie/policies",
+      "final_url": "https://www.zionparishschool.ie/policies",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.zionparishschool.ie/s/Admissions-Policy-2024.pdf",
+      "final_url": "https://static1.squarespace.com/static/5fe36092b746f750d4d47ef9/t/671b76ade1ee9746c3fb868d/1729853102893/Admissions+Policy+2024.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions Policy"
+    },
+    {
+      "url": "https://www.zionparishschool.ie/information-for-parents",
+      "final_url": "https://www.zionparishschool.ie/information-for-parents",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Information for Parents"
+    },
+    {
+      "url": "https://www.zionparishschool.ie/s/Internet-Acceptable-Use-Policy-9fz9.pdf",
+      "final_url": "https://static1.squarespace.com/static/5fe36092b746f750d4d47ef9/t/65c4b4f77f7cec74410dd195/1707390200446/Internet+Acceptable+Use+Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Acceptable Use Policy"
+    },
+    {
+      "url": "https://www.zionparishschool.ie/s/Bi-Cinealta-Policy-Zion.pdf",
+      "final_url": "https://static1.squarespace.com/static/5fe36092b746f750d4d47ef9/t/68de3705ed5c0563d3b7a52e/1759393541868/Bi+Cinealta+Policy+Zion.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Bí Cineálta Policy"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "14917J",
+      "url": "https://static1.squarespace.com/static/5fe36092b746f750d4d47ef9/t/67ee5e15ab8e164cc34cfcf2/1743674901476/Admissions+Policy+2024.docx",
+      "label": "Admissions Policy",
+      "sha256": "25d70ef13a5234e17aa6ad4a21ada5e14db5d2146f962a7bfd1195cc1923f42b",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/14917J_25d70ef13a5234e17aa6.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 26281
+    },
+    {
+      "roll": "14917J",
+      "url": "https://static1.squarespace.com/static/5fe36092b746f750d4d47ef9/t/671b76ade1ee9746c3fb868d/1729853102893/Admissions+Policy+2024.pdf",
+      "label": "Admissions Policy",
+      "sha256": "78c06e6f1925875df36fbf250bdeb075e72ced66a4ae9466a94ed435794c4786",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/14917J_78c06e6f1925875df36f.txt",
+      "source_file": "database/milestone2/cache/78c06e6f1925875df36fbf250bdeb075e72ced66a4ae9466a94ed435794c4786.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 27811
+    }
+  ],
+  "pending_links": [],
+  "elapsed_seconds": 42.43,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:44:28+0000"
+}

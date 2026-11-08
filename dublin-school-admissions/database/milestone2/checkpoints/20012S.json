@@ -1,0 +1,420 @@
+{
+  "roll": "20012S",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.griffithbarracks.ie/News/Annual-Admissions-Notice-2027-28/23597/Index.html",
+      "final_url": "https://www.griffithbarracks.ie/News/Annual-Admissions-Notice-2027-28/23597/Index.html",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "http://www.griffithbarracks.ie/Page/Annual-Admissions-Notice-2027-2028/23460/Index.html",
+      "final_url": "http://www.griffithbarracks.ie/Page/Annual-Admissions-Notice-2027-2028/23460/Index.html",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "Annual Admissions Notice"
+    },
+    {
+      "url": "https://www.griffithbarracks.ie/Admissions-Notice/Index.html",
+      "final_url": "https://www.griffithbarracks.ie/Admissions-Notice/Index.html",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://www.griffithbarracks.ie/News/Griffith-Barracks-Annual-Admissions-Notice/11952/Index.html",
+      "final_url": "https://www.griffithbarracks.ie/News/Griffith-Barracks-Annual-Admissions-Notice/11952/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Griffith Barracks Annual Admissions Notice"
+    },
+    {
+      "url": "https://www.griffithbarracks.ie/annual-admissions-notice/Index.html",
+      "final_url": "https://www.griffithbarracks.ie/annual-admissions-notice/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "annual admissions notice"
+    },
+    {
+      "url": "https://www.griffithbarracks.ie/News/Admissions-for-2026-27-UPDATE/22638/Index.html",
+      "final_url": "https://www.griffithbarracks.ie/News/Admissions-for-2026-27-UPDATE/22638/Index.html",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "http://www.griffithbarracks.ie/News/Annual-Admissions-Notice-for-202627-School-Year/20309/Index.html",
+      "final_url": "http://www.griffithbarracks.ie/News/Annual-Admissions-Notice-for-202627-School-Year/20309/Index.html",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "Admissions Notice"
+    },
+    {
+      "url": "https://www.griffithbarracks.ie/News/Admissions-Window-for-2027-28-School-Year-closes-31st-October-2026/23734/Index.html",
+      "final_url": "https://www.griffithbarracks.ie/News/Admissions-Window-for-2027-28-School-Year-closes-31st-October-2026/23734/Index.html",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://www.griffithbarracks.ie/2027/Index.html",
+      "final_url": "https://www.griffithbarracks.ie/2027/Index.html",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://www.griffithbarracks.ie/Page/Admissions/3730/Index.html",
+      "final_url": "https://www.griffithbarracks.ie/Page/Admissions/3730/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://www.griffithbarracks.ie/annual-admission-notice/Index.html",
+      "final_url": "https://www.griffithbarracks.ie/annual-admission-notice/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "annual admission notice"
+    },
+    {
+      "url": "https://www.griffithbarracks.ie/Older-Classes/Index.html",
+      "final_url": "https://www.griffithbarracks.ie/Older-Classes/Index.html",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://www.griffithbarracks.ie/News/Index.html",
+      "final_url": "https://www.griffithbarracks.ie/News/Index.html",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://www.griffithbarracks.ie/News/Notification-of-Annual-Review-of-Anti-Bullying-Policy/22501/Index.html",
+      "final_url": "https://www.griffithbarracks.ie/News/Notification-of-Annual-Review-of-Anti-Bullying-Policy/22501/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Notification of Annual Review of Anti-Bullying Policy"
+    },
+    {
+      "url": "https://www.griffithbarracks.ie/Junior-Infants/Index.html",
+      "final_url": "https://www.griffithbarracks.ie/Junior-Infants/Index.html",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://www.griffithbarracks.ie/Enrolment/Index.html",
+      "final_url": "https://www.griffithbarracks.ie/Enrolment/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Enrolment"
+    },
+    {
+      "url": "https://www.griffithbarracks.ie/News/Admissions-for-the-202526-School-Year/18939/Index.html",
+      "final_url": "https://www.griffithbarracks.ie/News/Admissions-for-the-202526-School-Year/18939/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions for the 2025/26 School Year"
+    },
+    {
+      "url": "https://www.griffithbarracks.ie/admissions/Index.html",
+      "final_url": "https://www.griffithbarracks.ie/admissions/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "admissions"
+    },
+    {
+      "url": "https://www.griffithbarracks.ie/Admissions-Act/Index.html",
+      "final_url": "https://www.griffithbarracks.ie/Admissions-Act/Index.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions Act"
+    },
+    {
+      "url": "https://www.griffithbarracks.ie/Admission/Index.html",
+      "final_url": "https://www.griffithbarracks.ie/Admission/Index.html",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "http://www.griffithbarracks.ie/Page/Admissions/3730/Index.html",
+      "final_url": "http://www.griffithbarracks.ie/Page/Admissions/3730/Index.html",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "Click here for Admissions Information and Form"
+    },
+    {
+      "url": "http://www.griffithbarracks.ie/Content/2021/9/qj63-Admissions_Policy.pdf",
+      "final_url": "http://www.griffithbarracks.ie/Content/2021/9/qj63-Admissions_Policy.pdf",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "here"
+    },
+    {
+      "url": "https://storage.googleapis.com/iclasscrm_files/73/Images/Content/2025/322/jc31-Admission_Policy_updated_September_2025.pdf",
+      "final_url": "https://storage.googleapis.com/iclasscrm_files/73/Images/Content/2025/322/jc31-Admission_Policy_updated_September_2025.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions Policy"
+    },
+    {
+      "url": "https://storage.googleapis.com/iclasscrm_files/73/Images/Content/2026/252/yu97-Admissions_Policy.pdf",
+      "final_url": "https://storage.googleapis.com/iclasscrm_files/73/Images/Content/2026/252/yu97-Admissions_Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "here"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "20012S",
+      "url": "https://www.griffithbarracks.ie/News/Annual-Admissions-Notice-2027-28/23597/Index.html",
+      "label": "Prior school admissions section",
+      "sha256": "5673ca1c99c8f552e4cc0213e37a0b8da353f398caa88fdbfbdb74f8fa6baa96",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20012S_5673ca1c99c8f552e4cc.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 809
+    },
+    {
+      "roll": "20012S",
+      "url": "https://www.griffithbarracks.ie/Admissions-Notice/Index.html",
+      "label": "Prior school admissions section",
+      "sha256": "43c7f569cbe5225e068de3b38fb103bb06d8ea4f337e63bf666427abada276b2",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20012S_43c7f569cbe5225e068d.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 710
+    },
+    {
+      "roll": "20012S",
+      "url": "https://www.griffithbarracks.ie/News/Griffith-Barracks-Annual-Admissions-Notice/11952/Index.html",
+      "label": "Griffith Barracks Annual Admissions Notice",
+      "sha256": "3da199f845415971530cd67a55ed388c9eef26e3cd6e94066474c52ccf4a8c58",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20012S_3da199f845415971530c.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 3056
+    },
+    {
+      "roll": "20012S",
+      "url": "https://www.griffithbarracks.ie/annual-admissions-notice/Index.html",
+      "label": "annual admissions notice",
+      "sha256": "a52ba80bacaa9626b1c7a55d5cfb0bc8d453541d1da88dfc98353bff2d4e2c98",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20012S_a52ba80bacaa9626b1c7.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 605
+    },
+    {
+      "roll": "20012S",
+      "url": "https://www.griffithbarracks.ie/News/Admissions-for-2026-27-UPDATE/22638/Index.html",
+      "label": "Prior school admissions section",
+      "sha256": "f88fa6d825a6bfad83c1763bd8dd073bd28cccd09b2f61045b465e01a614cf7f",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20012S_f88fa6d825a6bfad83c1.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 436
+    },
+    {
+      "roll": "20012S",
+      "url": "https://www.griffithbarracks.ie/News/Admissions-Window-for-2027-28-School-Year-closes-31st-October-2026/23734/Index.html",
+      "label": "Prior school admissions section",
+      "sha256": "3b1f010b74160c510319015086dbe79d30c32bc255e954d91b1d643854eb25ae",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20012S_3b1f010b74160c510319.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 496
+    },
+    {
+      "roll": "20012S",
+      "url": "https://www.griffithbarracks.ie/2027/Index.html",
+      "label": "Prior school admissions section",
+      "sha256": "030131b7a18d2ae0d8327cb3825b56963c4109e944f302849f858bac66854ec4",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20012S_030131b7a18d2ae0d832.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 651
+    },
+    {
+      "roll": "20012S",
+      "url": "https://www.griffithbarracks.ie/Page/Admissions/3730/Index.html",
+      "label": "Admissions",
+      "sha256": "c82113095fd0060c69895004d32789000062986de66c79f92a8e98a38f72486e",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20012S_c82113095fd0060c6989.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 3165
+    },
+    {
+      "roll": "20012S",
+      "url": "https://www.griffithbarracks.ie/annual-admission-notice/Index.html",
+      "label": "annual admission notice",
+      "sha256": "79f31b4165f837ec0e53da5da94d678893c42406389ded49922fb22b9c82caed",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20012S_79f31b4165f837ec0e53.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 530
+    },
+    {
+      "roll": "20012S",
+      "url": "https://www.griffithbarracks.ie/Older-Classes/Index.html",
+      "label": "Prior school admissions section",
+      "sha256": "357c0ce5466e6067b8a6454af0eb15383788e8999cded76a3d3eb92249d61f7c",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20012S_357c0ce5466e6067b8a6.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 589
+    },
+    {
+      "roll": "20012S",
+      "url": "https://www.griffithbarracks.ie/News/Index.html",
+      "label": "Prior school admissions section",
+      "sha256": "30ef81f1b33197a5e63682d5fd4b994baeafa2398beb273ae5740fd9cdb5b601",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20012S_30ef81f1b33197a5e636.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 909
+    },
+    {
+      "roll": "20012S",
+      "url": "https://www.griffithbarracks.ie/News/Notification-of-Annual-Review-of-Anti-Bullying-Policy/22501/Index.html",
+      "label": "Notification of Annual Review of Anti-Bullying Policy",
+      "sha256": "1d55bf42337fd3d453778ea62b34dba21472f5c4e8e6c0d547ece7641793e207",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20012S_1d55bf42337fd3d45377.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 436
+    },
+    {
+      "roll": "20012S",
+      "url": "https://www.griffithbarracks.ie/Junior-Infants/Index.html",
+      "label": "Prior school admissions section",
+      "sha256": "b64ff5fee01a258c669c69837a0007fd4ec5baa90e9c13cdafa020fcc9d419d7",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20012S_b64ff5fee01a258c669c.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1247
+    },
+    {
+      "roll": "20012S",
+      "url": "https://www.griffithbarracks.ie/Enrolment/Index.html",
+      "label": "Enrolment",
+      "sha256": "9af53c49446950c25d5ec75e4c73e27d05bec7de7320be46030af58c4fce8336",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20012S_9af53c49446950c25d5e.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 843
+    },
+    {
+      "roll": "20012S",
+      "url": "https://www.griffithbarracks.ie/News/Admissions-for-the-202526-School-Year/18939/Index.html",
+      "label": "Admissions for the 2025/26 School Year",
+      "sha256": "a5f5391af7f68b224682bff8e26c466f1384438b8e9a23672ef3252919b35b3f",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20012S_a5f5391af7f68b224682.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 436
+    },
+    {
+      "roll": "20012S",
+      "url": "https://www.griffithbarracks.ie/Admissions-Act/Index.html",
+      "label": "Admissions Act",
+      "sha256": "d22d98b2cd2ad4f482a9d5844cb37a3306dc890a1fc11da636f0144ba043cec9",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20012S_d22d98b2cd2ad4f482a9.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 389
+    },
+    {
+      "roll": "20012S",
+      "url": "https://www.griffithbarracks.ie/Admission/Index.html",
+      "label": "Prior school admissions section",
+      "sha256": "9086ed5d58f5c44fbb02680678321fbb18f60956e5f35c2d4b78306f91a6e4a0",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20012S_9086ed5d58f5c44fbb02.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1209
+    },
+    {
+      "roll": "20012S",
+      "url": "https://storage.googleapis.com/iclasscrm_files/73/Images/Content/2025/322/jc31-Admission_Policy_updated_September_2025.pdf",
+      "label": "Admissions Policy",
+      "sha256": "3da89df975f5ae838983c1edcfd70ebfda80d913e7036fb3df5132fc1d22b2ec",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20012S_3da89df975f5ae838983.txt",
+      "source_file": "database/milestone2/cache/3da89df975f5ae838983c1edcfd70ebfda80d913e7036fb3df5132fc1d22b2ec.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 30264
+    },
+    {
+      "roll": "20012S",
+      "url": "https://storage.googleapis.com/iclasscrm_files/73/Images/Content/2026/252/yu97-Admissions_Policy.pdf",
+      "label": "here",
+      "sha256": "69f7d8ea8e64a82b337a2681f7a87c380f46fbd1fc828ed71dc8ee83ad6a0816",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20012S_69f7d8ea8e64a82b337a.txt",
+      "source_file": "database/milestone2/cache/69f7d8ea8e64a82b337a2681f7a87c380f46fbd1fc828ed71dc8ee83ad6a0816.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 36798
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.griffithbarracks.ie/sitemap.xml",
+      "label": "Public sitemap",
+      "via": "sitemap_root"
+    },
+    {
+      "url": "https://www.griffithbarracks.ie/Page/Policies-Procedures/3695/Index.html",
+      "label": "Policies & Procedures",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.griffithbarracks.ie/Page/Parents-Association/3693/Index.html",
+      "label": "Parents Association",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.griffithbarracks.ie",
+      "label": "School homepage",
+      "via": "home"
+    },
+    {
+      "url": "https://www.griffithbarracks.ie/Policy/Index.html",
+      "label": "Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.griffithbarracks.ie/News/Bi-Cinealta-(Anti-Bullying)-Policy/22364/Index.html",
+      "label": "Bi Cinéalta (Anti-Bullying) Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 73.92,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:47:36+0000"
+}

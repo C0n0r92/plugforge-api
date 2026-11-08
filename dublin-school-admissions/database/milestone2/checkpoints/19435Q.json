@@ -1,0 +1,200 @@
+{
+  "roll": "19435Q",
+  "status": "bounded_search_no_new_notice_found",
+  "attempts": [
+    {
+      "url": "https://www.sfxjunior.com/enrolments/admissions-notice/",
+      "final_url": "https://www.sfxjunior.com/enrolments/admissions-notice/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions Notice 2027-2028"
+    },
+    {
+      "url": "https://www.sfxjunior.com/enrolments/admissions-notice-autism-class/",
+      "final_url": "https://www.sfxjunior.com/enrolments/admissions-notice-autism-class/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions Notice Autism Class 2027-2028"
+    },
+    {
+      "url": "https://www.sfxjunior.com/enrolments/junior-infants/",
+      "final_url": "https://www.sfxjunior.com/enrolments/junior-infants/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Junior Infants 2027-2028"
+    },
+    {
+      "url": "https://www.sfxjunior.com/enrolments/d15acat-26-27/",
+      "final_url": "https://www.sfxjunior.com/enrolments/d15acat-26-27/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "D15ACAT 2027-2028"
+    },
+    {
+      "url": "https://www.sfxjunior.com/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://www.sfxjunior.com/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "http_access_denied_403",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://www.sfxjunior.com/enrolments/senior-infants-2nd-class/",
+      "final_url": "https://www.sfxjunior.com/enrolments/senior-infants-2nd-class/",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": "Senior Infants – 2nd Class"
+    },
+    {
+      "url": "https://www.sfxjunior.com/enrolments/",
+      "final_url": "https://www.sfxjunior.com/enrolments/",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": "Enrolments"
+    },
+    {
+      "url": "https://www.sfxjunior.com/sitemap_index.xml",
+      "final_url": "https://www.sfxjunior.com/sitemap_index.xml",
+      "status": "http_access_denied_403",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.sfxjunior.com/school-info/yard-times/",
+      "final_url": "https://www.sfxjunior.com/school-info/yard-times/",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": "Yard Times"
+    },
+    {
+      "url": "https://www.sfxjunior.com/school-info/whole-school-evaluation/",
+      "final_url": "https://www.sfxjunior.com/school-info/whole-school-evaluation/",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": "Whole School Evaluation"
+    },
+    {
+      "url": "https://www.sfxjunior.com/school-info/school-uniform/",
+      "final_url": "https://www.sfxjunior.com/school-info/school-uniform/",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": "School Uniform"
+    },
+    {
+      "url": "https://www.sfxjunior.com/school-info/school-self-evaluation/",
+      "final_url": "https://www.sfxjunior.com/school-info/school-self-evaluation/",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": "School Self-Evaluation"
+    },
+    {
+      "url": "https://www.sfxjunior.com/school-info/school-policies/",
+      "final_url": "https://www.sfxjunior.com/school-info/school-policies/",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": "School Policies"
+    },
+    {
+      "url": "https://www.sfxjunior.com/school-info/school-policies",
+      "final_url": "https://www.sfxjunior.com/school-info/school-policies",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": "Admission Policy"
+    },
+    {
+      "url": "https://www.sfxjunior.com/school-info/school-calendar/",
+      "final_url": "https://www.sfxjunior.com/school-info/school-calendar/",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": "School Calendar"
+    },
+    {
+      "url": "https://www.sfxjunior.com/school-info/our-staff/",
+      "final_url": "https://www.sfxjunior.com/school-info/our-staff/",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": "Our Staff"
+    },
+    {
+      "url": "https://www.sfxjunior.com/school-info/opening-and-closing-times/",
+      "final_url": "https://www.sfxjunior.com/school-info/opening-and-closing-times/",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": "Opening and Closing Times"
+    },
+    {
+      "url": "https://www.sfxjunior.com/school-info/history/",
+      "final_url": "https://www.sfxjunior.com/school-info/history/",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": "History"
+    },
+    {
+      "url": "https://www.sfxjunior.com/school-info/board-of-management/",
+      "final_url": "https://www.sfxjunior.com/school-info/board-of-management/",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": "Board of Management"
+    },
+    {
+      "url": "https://www.sfxjunior.com/school-info/about-us/",
+      "final_url": "https://www.sfxjunior.com/school-info/about-us/",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": "About us"
+    },
+    {
+      "url": "https://www.sfxjunior.com/school-info/",
+      "final_url": "https://www.sfxjunior.com/school-info/",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": "School Info"
+    },
+    {
+      "url": "https://www.sfxjunior.com/parents/vetting/",
+      "final_url": "https://www.sfxjunior.com/parents/vetting/",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": "Vetting"
+    },
+    {
+      "url": "https://www.sfxjunior.com/parents/tigers-childcare/",
+      "final_url": "https://www.sfxjunior.com/parents/tigers-childcare/",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": "TIGERS Childcare"
+    },
+    {
+      "url": "https://www.sfxjunior.com/parents/recommended-websites/",
+      "final_url": "https://www.sfxjunior.com/parents/recommended-websites/",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": "Recommended Websites"
+    }
+  ],
+  "documents": [],
+  "pending_links": [
+    {
+      "url": "https://www.sfxjunior.com/parents/parents-association/",
+      "label": "Parents’ Association",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sfxjunior.com/parents/newsletters/",
+      "label": "Newsletters",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sfxjunior.com/parents/",
+      "label": "Parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.sfxjunior.com",
+      "label": "School homepage",
+      "via": "home"
+    }
+  ],
+  "elapsed_seconds": 15.69,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:44:53+0000"
+}

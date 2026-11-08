@@ -1,0 +1,54 @@
+{
+  "task_id": "79077c680bfb0ed5120d473d1f32f5ae",
+  "roll": "00697S",
+  "capture": {
+    "digest": "M4LAJ6LO2CF3FU4RGAHOODGKJZGQWR4P",
+    "mimetype": "text/html",
+    "original": "http://www.saintbrigids.ie/Page/Junior-Infant-Admissions-20252026/19674/Index.html",
+    "statuscode": "200",
+    "timestamp": "20241029220449"
+  },
+  "original_url": "http://www.saintbrigids.ie/Page/Junior-Infant-Admissions-20252026/19674/Index.html",
+  "archived_url": "https://web.archive.org/web/20241029220449/http://www.saintbrigids.ie/Page/Junior-Infant-Admissions-20252026/19674/Index.html",
+  "attempted_at": "2026-11-08T12:33:20.614803+00:00",
+  "http_status": 200,
+  "headers": {
+    "Content-Type": "text/html; charset=utf-8",
+    "memento-datetime": "Tue, 29 Oct 2024 22:04:49 GMT"
+  },
+  "payload_sha256": "98a57ca6653801a4a02140c17dedeb0ef5d7618d0092c4f2c1c3efa18c075f09",
+  "bytes": 70983,
+  "format": "html",
+  "archive_link_candidates": [
+    {
+      "url": "https://web.archive.org/web/20241029220449/http://www.saintbrigids.ie/page/Junior-Infant-Admissions-20252026/19674/Index.html",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://web.archive.org/web/20241029220449/https://drive.google.com/file/d/1FkRGQVcHD_ceDW0vcwuHf9IK2KZgdagp/view?usp=sharing",
+      "label": "Admission Notice"
+    },
+    {
+      "url": "https://web.archive.org/web/20241029220449/https://drive.google.com/file/d/1fOuabw5R8M8ncNT2Vd-acu_fG2AkYA1I/view?usp=sharing",
+      "label": "Admission Notice for Autism Classes"
+    },
+    {
+      "url": "https://web.archive.org/web/20241029220449/https://drive.google.com/file/d/1_9y7LSJv2e4b0OxG_gQqGPErs35qEKj5/view?usp=sharing",
+      "label": "Admission Policy"
+    },
+    {
+      "url": "https://web.archive.org/web/20241029220449/http://www.saintbrigids.ie/News/Junior-Infant-Admissions-20252026/21459/Index.html",
+      "label": ""
+    },
+    {
+      "url": "https://web.archive.org/web/20241029220449/http://www.saintbrigids.ie/News/Junior-Infant-Admissions-20252026/21459/Index.html",
+      "label": "Junior Infant Admissions 2025/2026"
+    },
+    {
+      "url": "https://web.archive.org/web/20241029220449/http://www.saintbrigids.ie/News/Junior-Infant-Admissions-20252026/21459/Index.html",
+      "label": "Read more..."
+    }
+  ],
+  "status": "archived_body_retrieved_requires_notice_evidence_review",
+  "text_file": "database/milestone2/evidence/archive_00697S_98a57ca6653801a4a021.txt"
+}

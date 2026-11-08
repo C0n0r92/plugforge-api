@@ -1,0 +1,18 @@
+{
+  "roll": "20398U",
+  "started_at": "2026-11-08T13:20:26+0000",
+  "method": "previously_linked_explicit_annual_notice_gap_followup",
+  "attempts": [
+    {
+      "url": "http://cscns.ie/wp-content/uploads/2015/01/enrolment-timeline-2015-300x222.png",
+      "final_url": "http://cscns.ie/wp-content/uploads/2015/01/enrolment-timeline-2015-300x222.png",
+      "status": "robots_permission_unestablished_http_500",
+      "label": "Admission URL from sitemap"
+    }
+  ],
+  "documents": [],
+  "pending_links": [],
+  "earliest_year_cutoff": null,
+  "status": "attempted_no_new_numeric_notice_established",
+  "elapsed_seconds": 0.22
+}

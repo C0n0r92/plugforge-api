@@ -1,0 +1,116 @@
+{
+  "roll": "19466E",
+  "attempted_at": "2026-11-08T13:03:16+0000",
+  "method": "documented_public_WordPress_media_notice_and_Irish_title_gap_search",
+  "attempts": [
+    {
+      "url": "https://stkevinsgns.com/wp-json/wp/v2/media?search=notice&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok"
+    },
+    {
+      "url": "https://stkevinsgns.com/wp-json/wp/v2/media?search=f%C3%B3gra&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok"
+    },
+    {
+      "url": "https://stkevinsgns.com/wp-content/uploads/2020/10/Annual-Admission-Notice.docx",
+      "status": "ok",
+      "label": "Annual Admission Notice"
+    },
+    {
+      "url": "https://stkevinsgns.com/wp-content/uploads/2021/09/Annual-Admission-Notice-2022-2023.docx",
+      "status": "ok",
+      "label": "Annual Admission Notice -2022-2023"
+    },
+    {
+      "url": "https://stkevinsgns.com/wp-content/uploads/2021/09/Annual-Admission-Notice-2022-2023-1.docx",
+      "status": "ok",
+      "label": "Annual Admission Notice -2022-2023"
+    },
+    {
+      "url": "https://stkevinsgns.com/wp-content/uploads/2023/10/Annual-Admissions-Notice-20242025.docx",
+      "status": "ok",
+      "label": "Annual Admissions Notice 20242025"
+    },
+    {
+      "url": "https://stkevinsgns.com/wp-content/uploads/2024/09/Admission-Notice-202526.pdf",
+      "status": "ok",
+      "label": "Admission Notice 202526"
+    },
+    {
+      "url": "https://stkevinsgns.com/wp-content/uploads/2026/09/Admission-Notice-2728.pdf",
+      "status": "ok",
+      "label": "Admission Notice 2728"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19466E",
+      "url": "https://stkevinsgns.com/wp-content/uploads/2020/10/Annual-Admission-Notice.docx",
+      "label": "Annual Admission Notice",
+      "sha256": "0d3c2cbf3ff728a52721d241b3db8e9e4b935706efc389981b6ac5bd085711d2",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/19466E_0d3c2cbf3ff728a52721.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 2972,
+      "discovery_method": "documented_WP_notice_or_Irish_title_media_query",
+      "cms_media_date_as_printed_not_publication": "2020-10-02T16:51:36"
+    },
+    {
+      "roll": "19466E",
+      "url": "https://stkevinsgns.com/wp-content/uploads/2021/09/Annual-Admission-Notice-2022-2023.docx",
+      "label": "Annual Admission Notice -2022-2023",
+      "sha256": "395d82e9015e618a0e7ed51c3fe5966663dd991c34afe33a8ef422ff2bac0801",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/19466E_395d82e9015e618a0e7e.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 3870,
+      "discovery_method": "documented_WP_notice_or_Irish_title_media_query",
+      "cms_media_date_as_printed_not_publication": "2021-09-13T11:38:58"
+    },
+    {
+      "roll": "19466E",
+      "url": "https://stkevinsgns.com/wp-content/uploads/2021/09/Annual-Admission-Notice-2022-2023-1.docx",
+      "label": "Annual Admission Notice -2022-2023",
+      "sha256": "f73309c2ddd4ee03201f92bcbb1bdd5cf9cc958891934f2088f4f3b529f6d2f7",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/19466E_f73309c2ddd4ee03201f.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 3819,
+      "discovery_method": "documented_WP_notice_or_Irish_title_media_query",
+      "cms_media_date_as_printed_not_publication": "2021-09-13T12:28:46"
+    },
+    {
+      "roll": "19466E",
+      "url": "https://stkevinsgns.com/wp-content/uploads/2023/10/Annual-Admissions-Notice-20242025.docx",
+      "label": "Annual Admissions Notice 20242025",
+      "sha256": "3dda2d3e87b20e1023f928996b74dcf6df1f08e5f6d11b7cec6d704b77111dcc",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/19466E_3dda2d3e87b20e1023f9.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 3903,
+      "discovery_method": "documented_WP_notice_or_Irish_title_media_query",
+      "cms_media_date_as_printed_not_publication": "2023-10-02T10:54:06"
+    },
+    {
+      "roll": "19466E",
+      "url": "https://stkevinsgns.com/wp-content/uploads/2024/09/Admission-Notice-202526.pdf",
+      "label": "Admission Notice 202526",
+      "sha256": "f308aef5eb68d2186b70581857e5ac3364c4b42bb2ec7ff7dab94dc09ec843b9",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19466E_f308aef5eb68d2186b70.txt",
+      "source_file": "database/milestone2/cache/f308aef5eb68d2186b70581857e5ac3364c4b42bb2ec7ff7dab94dc09ec843b9.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 4268,
+      "discovery_method": "documented_WP_notice_or_Irish_title_media_query",
+      "cms_media_date_as_printed_not_publication": "2024-09-30T12:12:38"
+    }
+  ],
+  "pending_links": [],
+  "earliest_year_cutoff": null,
+  "status": "attempted_new_historical_notice_candidates",
+  "elapsed_seconds": 29.8
+}

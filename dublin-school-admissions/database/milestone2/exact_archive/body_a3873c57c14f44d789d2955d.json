@@ -1,0 +1,30 @@
+{
+  "roll": "15569R",
+  "capture": {
+    "timestamp": "20210925145326",
+    "original": "https://www.scoilmoibhi.ie/admissions-and-application-information/",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "digest": "2P6Z3OKKM25X5VEQEIIQGJ3QGJZOJWSF"
+  },
+  "original_url": "https://www.scoilmoibhi.ie/admissions-and-application-information/",
+  "archived_url": "https://web.archive.org/web/20210925145326/https://www.scoilmoibhi.ie/admissions-and-application-information/",
+  "attempted_at": "2026-11-08T12:44:50.797329+00:00",
+  "linked_from_capture": null,
+  "http_status": 200,
+  "headers": {
+    "Content-Type": "text/html; charset=utf-8",
+    "memento-datetime": "Sat, 25 Sep 2021 14:53:26 GMT"
+  },
+  "bytes": 29003,
+  "payload_sha256": "c3c01547033e7cf8cfe3e5ca64b58d57b4cf064f5bb47e14b6c0d9c01e6addaf",
+  "format": "html",
+  "status": "archived_body_retrieved_requires_manual_evidence_review",
+  "text_file": "database/milestone2/evidence/exact_15569R_c3c01547033e7cf8cfe3.txt",
+  "linked_document_candidates": [
+    {
+      "url": "https://primarysite-prod-sorted.s3.amazonaws.com/scoil-moibhi-milverton/UploadedDocument/c932912fed774e3e98cb1beda5dc6413/annual-admissions-notice-2022-scoil-moibhi-1.pdf",
+      "label": "Annual Admissions Notice 2022 Scoil Moibhi (1).pdf"
+    }
+  ]
+}

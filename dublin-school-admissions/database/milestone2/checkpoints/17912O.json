@@ -1,0 +1,255 @@
+{
+  "roll": "17912O",
+  "status": "bounded_search_no_new_notice_found",
+  "attempts": [
+    {
+      "url": "https://www.stjohnboscosbs.ie/enrolment/?googletranslate=true",
+      "final_url": "https://www.stjohnboscosbs.ie/enrolment/?googletranslate=true",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "https://www.stjohnboscosbs.ie/enrolment/",
+      "final_url": "https://www.stjohnboscosbs.ie/enrolment/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Applications"
+    },
+    {
+      "url": "https://www.stjohnboscosbs.ie/documentlink/44/?open=true",
+      "final_url": "https://www.aladdin.ie/i/A5349216679362560",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Autism Class Pre-enrolment Form"
+    },
+    {
+      "url": "https://www.stjohnboscosbs.ie/documentlink/43/?open=true",
+      "final_url": "https://www.aladdin.ie/i/5349216679362560",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "2nd- 6th Class Pre-Enrolment Form"
+    },
+    {
+      "url": "https://www.stjohnboscosbs.ie/admin/?open=/enrolment/?googletranslate=true",
+      "final_url": "https://www.stjohnboscosbs.ie/admin/?open=/enrolment/?googletranslate=true",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.stjohnboscosbs.ie/admin/?open=/enrolment/",
+      "final_url": "https://www.stjohnboscosbs.ie/admin/?open=/enrolment/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://storage.googleapis.com/siteassetsswd/758/docletter/20260212032252_33_Admission_Policy.pdf",
+      "final_url": "https://storage.googleapis.com/siteassetsswd/758/docletter/20260212032252_33_Admission_Policy.pdf",
+      "status": "http_404",
+      "via": "school_public_link",
+      "label": "admission policy"
+    },
+    {
+      "url": "https://www.stjohnboscosbs.ie/sitemap.xml",
+      "final_url": "https://www.stjohnboscosbs.ie/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.stjohnboscosbs.ie/parents-area/uniform/",
+      "final_url": "https://www.stjohnboscosbs.ie/parents-area/uniform/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Uniform"
+    },
+    {
+      "url": "https://www.stjohnboscosbs.ie/parents-area/uniform/?googletranslate=true",
+      "final_url": "https://www.stjohnboscosbs.ie/parents-area/uniform/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stjohnboscosbs.ie/parents-area/newsletters/",
+      "final_url": "https://www.stjohnboscosbs.ie/parents-area/newsletters/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Newsletters"
+    },
+    {
+      "url": "https://www.stjohnboscosbs.ie/parents-area/newsletters/?googletranslate=true",
+      "final_url": "https://www.stjohnboscosbs.ie/parents-area/newsletters/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stjohnboscosbs.ie/parents-area/calendar/",
+      "final_url": "https://www.stjohnboscosbs.ie/parents-area/calendar/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Calendar"
+    },
+    {
+      "url": "https://www.stjohnboscosbs.ie/parents-area/calendar/?calyear=2026&calmonth=12&",
+      "final_url": "https://www.stjohnboscosbs.ie/parents-area/calendar/?calyear=2026&calmonth=12&",
+      "status": "prior_exact_URL_access_denial_not_retried",
+      "via": "school_public_link",
+      "label": "December 2026"
+    },
+    {
+      "url": "https://www.stjohnboscosbs.ie/parents-area/calendar/?calyear=2026&calmonth=10&",
+      "final_url": "https://www.stjohnboscosbs.ie/parents-area/calendar/?calyear=2026&calmonth=10&",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": "October 2026"
+    },
+    {
+      "url": "https://www.stjohnboscosbs.ie/parents-area/calendar/?googletranslate=true",
+      "final_url": "https://www.stjohnboscosbs.ie/parents-area/calendar/?googletranslate=true",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stjohnboscosbs.ie/parents-area/calendar/?calTable=true",
+      "final_url": "https://www.stjohnboscosbs.ie/parents-area/calendar/?calTable=true",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stjohnboscosbs.ie/parents-area/booklists/",
+      "final_url": "https://www.stjohnboscosbs.ie/parents-area/booklists/",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": "Booklists"
+    },
+    {
+      "url": "https://www.stjohnboscosbs.ie/parents-area/",
+      "final_url": "https://www.stjohnboscosbs.ie/parents-area/",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": "Parents Area"
+    },
+    {
+      "url": "https://www.stjohnboscosbs.ie/our-school/policies/",
+      "final_url": "https://www.stjohnboscosbs.ie/our-school/policies/",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.stjohnboscosbs.ie/letterlink/5/?open=true&download=true",
+      "final_url": "https://www.stjohnboscosbs.ie/letterlink/5/?open=true&download=true",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stjohnboscosbs.ie/documentlink/45/?open=true&download=true",
+      "final_url": "https://www.stjohnboscosbs.ie/documentlink/45/?open=true&download=true",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stjohnboscosbs.ie/documentlink/39/?open=true&download=true",
+      "final_url": "https://www.stjohnboscosbs.ie/documentlink/39/?open=true&download=true",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.stjohnboscosbs.ie/documentlink/32/?open=true&download=true",
+      "final_url": "https://www.stjohnboscosbs.ie/documentlink/32/?open=true&download=true",
+      "status": "http_access_denied_403",
+      "via": "school_public_link",
+      "label": ""
+    }
+  ],
+  "documents": [],
+  "pending_links": [
+    {
+      "url": "https://www.stjohnboscosbs.ie/documentlink/31/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stjohnboscosbs.ie/documentlink/30/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stjohnboscosbs.ie/documentlink/29/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stjohnboscosbs.ie/documentlink/27/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stjohnboscosbs.ie/documentlink/26/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stjohnboscosbs.ie/documentlink/24/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stjohnboscosbs.ie/documentlink/14/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stjohnboscosbs.ie/admin/?open=/parents-area/uniform/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stjohnboscosbs.ie/admin/?open=/parents-area/uniform/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stjohnboscosbs.ie/admin/?open=/parents-area/newsletters/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stjohnboscosbs.ie/admin/?open=/parents-area/newsletters/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stjohnboscosbs.ie/admin/?open=/parents-area/calendar/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stjohnboscosbs.ie",
+      "label": "School homepage",
+      "via": "home"
+    },
+    {
+      "url": "https://www.stjohnboscosbs.ie/cmsfiles/policies/privacy/",
+      "label": "Website Privacy Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stjohnboscosbs.ie/cmsfiles/policies/cookie/",
+      "label": "Cookie Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 32.91,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:03:34+0000"
+}

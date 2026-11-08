@@ -1,0 +1,50 @@
+{
+  "task_id": "584e108a601d972fe519d47d75ebdb18",
+  "roll": "00697S",
+  "capture": {
+    "digest": "BJCNZUE55U4NI3T7OOACEYOFAI2HB465",
+    "mimetype": "text/html",
+    "original": "https://www.saintbrigids.ie/Mainstream-Admissions/Index.html",
+    "statuscode": "200",
+    "timestamp": "20260125082320"
+  },
+  "original_url": "https://www.saintbrigids.ie/Mainstream-Admissions/Index.html",
+  "archived_url": "https://web.archive.org/web/20260125082320/https://www.saintbrigids.ie/Mainstream-Admissions/Index.html",
+  "attempted_at": "2026-11-08T12:35:46.412778+00:00",
+  "http_status": 200,
+  "headers": {
+    "Content-Type": "text/html; charset=utf-8",
+    "memento-datetime": "Sun, 25 Jan 2026 08:23:20 GMT"
+  },
+  "payload_sha256": "fb1de8e7ab507575a12065c1ee72ec2fc99a7845a770dcc870087178df1f4f76",
+  "bytes": 48328,
+  "format": "html",
+  "archive_link_candidates": [
+    {
+      "url": "/web/20260125082320/https://www.saintbrigids.ie/Parent-Noticeboard/Index.html",
+      "label": "Parent Noticeboard"
+    },
+    {
+      "url": "/web/20260125082320/https://www.saintbrigids.ie/Mainstream-Admissions/Index.html",
+      "label": "Mainstream Admissions"
+    },
+    {
+      "url": "/web/20260125082320/https://www.saintbrigids.ie/Autism-Class-Admissions/Index.html",
+      "label": "Autism Class Admissions"
+    },
+    {
+      "url": "https://web.archive.org/web/20260125082320/https://www.saintbrigids.ie/News/Mainstream-Admissions-for-Junior-Infants-20262027/37524/Index.html",
+      "label": ""
+    },
+    {
+      "url": "https://web.archive.org/web/20260125082320/https://www.saintbrigids.ie/News/Mainstream-Admissions-for-Junior-Infants-20262027/37524/Index.html",
+      "label": "Mainstream Admissions for Junior Infants 2026/2027"
+    },
+    {
+      "url": "https://web.archive.org/web/20260125082320/https://www.saintbrigids.ie/News/Mainstream-Admissions-for-Junior-Infants-20262027/37524/Index.html",
+      "label": "Read more..."
+    }
+  ],
+  "status": "archived_body_retrieved_requires_notice_evidence_review",
+  "text_file": "database/milestone2/evidence/archive_00697S_fb1de8e7ab507575a120.txt"
+}

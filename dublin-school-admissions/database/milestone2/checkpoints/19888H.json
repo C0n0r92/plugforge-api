@@ -1,0 +1,399 @@
+{
+  "roll": "19888H",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://stannesshankill.com/annual-admission-notice-for-september-2025-intake",
+      "final_url": "https://stannesshankill.com/annual-admission-notice-for-september-2025-intake",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Annual Admission Notice (for September 2027 Intake)"
+    },
+    {
+      "url": "http://stannesshankill.com/wp-content/uploads/2026/09/Annual-Admission-Notice-St-Annes-N.S.-2026-2027-.docx-1-1.pdf",
+      "final_url": "http://stannesshankill.com/wp-content/uploads/2026/09/Annual-Admission-Notice-St-Annes-N.S.-2026-2027-.docx-1-1.pdf",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "Annual Admission Notice St Anne’s N.S. 2027 – 2028 .docx (1) (1)"
+    },
+    {
+      "url": "http://stannesshankill.com/wp-content/uploads/2017/03/Emergency-Closures.pdf",
+      "final_url": "http://stannesshankill.com/wp-content/uploads/2017/03/Emergency-Closures.pdf",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "Emergency Closures"
+    },
+    {
+      "url": "http://stannesshankill.com/wp-content/uploads/2019/05/Data-Protection-Privacy-Statement.pdf",
+      "final_url": "http://stannesshankill.com/wp-content/uploads/2019/05/Data-Protection-Privacy-Statement.pdf",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "Data Protection"
+    },
+    {
+      "url": "https://stannesshankill.com/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://stannesshankill.com/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://stannesshankill.com/wp-content/uploads/2023/12/Annual-Admission-Notice-St-Annes-N.S.-2024-1.pdf",
+      "final_url": "https://stannesshankill.com/wp-content/uploads/2023/12/Annual-Admission-Notice-St-Annes-N.S.-2024-1.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Annual Admission Notice St Anne&#8217;s N.S. 2024 (1)"
+    },
+    {
+      "url": "https://stannesshankill.com/wp-content/uploads/2023/08/Annual-Admission-Notice-St-Annes-N.S.-2024.pdf",
+      "final_url": "https://stannesshankill.com/wp-content/uploads/2023/08/Annual-Admission-Notice-St-Annes-N.S.-2024.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Annual Admission Notice St Anne&#8217;s N.S. 2024"
+    },
+    {
+      "url": "https://stannesshankill.com/wp-content/uploads/2024/10/Annual-Admission-Notice-St-Annes-N.S.-2025.pdf",
+      "final_url": "https://stannesshankill.com/wp-content/uploads/2024/10/Annual-Admission-Notice-St-Annes-N.S.-2025.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Annual Admission Notice St Anne&#8217;s N.S. 2025"
+    },
+    {
+      "url": "https://stannesshankill.com/wp-content/uploads/2024/09/Annual-Admission-Notice-St-Annes-N.S.-2025.pdf",
+      "final_url": "https://stannesshankill.com/wp-content/uploads/2024/09/Annual-Admission-Notice-St-Annes-N.S.-2025.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Annual Admission Notice St Anne&#8217;s N.S. 2025"
+    },
+    {
+      "url": "https://stannesshankill.com/wp-content/uploads/2024/04/Annual-Admission-Notice-Autism-Class.pdf",
+      "final_url": "https://stannesshankill.com/wp-content/uploads/2024/04/Annual-Admission-Notice-Autism-Class.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Annual Admission Notice (Autism Class)"
+    },
+    {
+      "url": "https://stannesshankill.com/wp-content/uploads/2025/10/Annual-Admission-Notice-St-Annes-N.S.-2026-2027-.docx-1.pdf",
+      "final_url": "https://stannesshankill.com/wp-content/uploads/2025/10/Annual-Admission-Notice-St-Annes-N.S.-2026-2027-.docx-1.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Annual Admission Notice St Anne&#8217;s N.S. 2026 &#8211; 2027 .docx (1)"
+    },
+    {
+      "url": "https://stannesshankill.com/wp-content/uploads/2025/09/Annual-Admission-Notice-St-Annes-N.S.-2026-2027-.docx.pdf",
+      "final_url": "https://stannesshankill.com/wp-content/uploads/2025/09/Annual-Admission-Notice-St-Annes-N.S.-2026-2027-.docx.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Annual Admission Notice St Anne&#8217;s N.S. 2026 &#8211; 2027 .docx"
+    },
+    {
+      "url": "https://stannesshankill.com/wp-content/uploads/2026/09/Annual-Admission-Notice-St-Annes-N.S.-2026-2027-.docx-1-1.pdf",
+      "final_url": "https://stannesshankill.com/wp-content/uploads/2026/09/Annual-Admission-Notice-St-Annes-N.S.-2026-2027-.docx-1-1.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Annual Admission Notice St Anne&#8217;s N.S. 2026 &#8211; 2027 .docx (1) (1)"
+    },
+    {
+      "url": "http://stannesshankill.com/wp-content/uploads/2020/08/Roadmap-for-the-Full-Return-to-School.pdf",
+      "final_url": "http://stannesshankill.com/wp-content/uploads/2020/08/Roadmap-for-the-Full-Return-to-School.pdf",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "Gov. Roadmap"
+    },
+    {
+      "url": "http://stannesshankill.com/wp-content/uploads/2021/09/St.-Annes-Response-Plan.pdf",
+      "final_url": "http://stannesshankill.com/wp-content/uploads/2021/09/St.-Annes-Response-Plan.pdf",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "St. Anne’s Response Plan"
+    },
+    {
+      "url": "http://stannesshankill.com/wp-content/uploads/2021/08/82063_f53cc783-ed0a-4e55-bac0-18133323e90d.pdf",
+      "final_url": "http://stannesshankill.com/wp-content/uploads/2021/08/82063_f53cc783-ed0a-4e55-bac0-18133323e90d.pdf",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "Gov. Response Plan"
+    },
+    {
+      "url": "http://stannesshankill.com/wp-content/uploads/2023/12/Parental_Complaints_Procedure_final-1.pdf",
+      "final_url": "http://stannesshankill.com/wp-content/uploads/2023/12/Parental_Complaints_Procedure_final-1.pdf",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "Parental Complaints"
+    },
+    {
+      "url": "http://stannesshankill.com/wp-content/uploads/2023/10/Vision-26-October-23.pdf",
+      "final_url": "http://stannesshankill.com/wp-content/uploads/2023/10/Vision-26-October-23.pdf",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "Vision 2026"
+    },
+    {
+      "url": "https://stannesshankill.com/wp-content/uploads/2024/05/Admission-Policy-for-Special-Class-for-Autistic-Students.pdf",
+      "final_url": "https://stannesshankill.com/wp-content/uploads/2024/05/Admission-Policy-for-Special-Class-for-Autistic-Students.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admission Policy for Special Class for Autistic Students"
+    },
+    {
+      "url": "https://stannesshankill.com/wp-content/uploads/2024/04/Admission-Policy-for-St.-Annes-N.S.-April-2024.pdf",
+      "final_url": "https://stannesshankill.com/wp-content/uploads/2024/04/Admission-Policy-for-St.-Annes-N.S.-April-2024.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admission Policy for St. Anne&#8217;s N.S. (April 2024)"
+    },
+    {
+      "url": "https://stannesshankill.com/wp-content/uploads/2025/10/Admission-Policy-October-2025.docx.pdf",
+      "final_url": "https://stannesshankill.com/wp-content/uploads/2025/10/Admission-Policy-October-2025.docx.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admission Policy October 2025.docx"
+    },
+    {
+      "url": "https://stannesshankill.com/wp-content/uploads/2026/10/Admission-Policy-2026.docx.pdf",
+      "final_url": "https://stannesshankill.com/wp-content/uploads/2026/10/Admission-Policy-2026.docx.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admission Policy 2026.docx"
+    },
+    {
+      "url": "https://stannesshankill.com/wp-content/uploads/2026/10/Admission-Policy-2026.docx-1.pdf",
+      "final_url": "https://stannesshankill.com/wp-content/uploads/2026/10/Admission-Policy-2026.docx-1.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admission Policy 2026.docx"
+    },
+    {
+      "url": "https://stannesshankill.com/back-to-school-information-for-august-2025",
+      "final_url": "https://stannesshankill.com/back-to-school-information-for-august-2025",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Back to School Information for August 2026"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19888H",
+      "url": "https://stannesshankill.com/annual-admission-notice-for-september-2025-intake",
+      "label": "Annual Admission Notice (for September 2027 Intake)",
+      "sha256": "787bd3ee0d7ef0ffe20b37ddbd0eb515d08d80c81539900583f3dfd47b16525e",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19888H_787bd3ee0d7ef0ffe20b.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 270
+    },
+    {
+      "roll": "19888H",
+      "url": "https://stannesshankill.com/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "label": "Oldest public admission media (all dates)",
+      "sha256": "f4de58ca6ff1a25fcd79304634c6af11994ff4263cc5d1d60b5d2fdcbeb9cb9b",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19888H_f4de58ca6ff1a25fcd79.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 3331
+    },
+    {
+      "roll": "19888H",
+      "url": "https://stannesshankill.com/wp-content/uploads/2023/12/Annual-Admission-Notice-St-Annes-N.S.-2024-1.pdf",
+      "label": "Annual Admission Notice St Anne&#8217;s N.S. 2024 (1)",
+      "sha256": "5054fd52c37d9e9541214c6b29693b481e58e1fa25c93da4e9859fac06b54275",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19888H_5054fd52c37d9e954121.txt",
+      "source_file": "database/milestone2/cache/5054fd52c37d9e9541214c6b29693b481e58e1fa25c93da4e9859fac06b54275.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 2622
+    },
+    {
+      "roll": "19888H",
+      "url": "https://stannesshankill.com/wp-content/uploads/2023/08/Annual-Admission-Notice-St-Annes-N.S.-2024.pdf",
+      "label": "Annual Admission Notice St Anne&#8217;s N.S. 2024",
+      "sha256": "8fa2d53c0025058f472c4ff62860e641de7b63983f9714e3c1c2a5cd1415f4aa",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19888H_8fa2d53c0025058f472c.txt",
+      "source_file": "database/milestone2/cache/8fa2d53c0025058f472c4ff62860e641de7b63983f9714e3c1c2a5cd1415f4aa.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 2526
+    },
+    {
+      "roll": "19888H",
+      "url": "https://stannesshankill.com/wp-content/uploads/2024/10/Annual-Admission-Notice-St-Annes-N.S.-2025.pdf",
+      "label": "Annual Admission Notice St Anne&#8217;s N.S. 2025",
+      "sha256": "861935e5dfe04cb67dcdac3cca27af4b161f04f28a75a845e51bcfd76d13e3a7",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19888H_861935e5dfe04cb67dcd.txt",
+      "source_file": "database/milestone2/cache/861935e5dfe04cb67dcdac3cca27af4b161f04f28a75a845e51bcfd76d13e3a7.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 4638
+    },
+    {
+      "roll": "19888H",
+      "url": "https://stannesshankill.com/wp-content/uploads/2024/09/Annual-Admission-Notice-St-Annes-N.S.-2025.pdf",
+      "label": "Annual Admission Notice St Anne&#8217;s N.S. 2025",
+      "sha256": "8bdfabca68ec02ffef4dc4f8216f485e792f734d6e21f0b1977c9172450f6ccc",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19888H_8bdfabca68ec02ffef4d.txt",
+      "source_file": "database/milestone2/cache/8bdfabca68ec02ffef4dc4f8216f485e792f734d6e21f0b1977c9172450f6ccc.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 4638
+    },
+    {
+      "roll": "19888H",
+      "url": "https://stannesshankill.com/wp-content/uploads/2024/04/Annual-Admission-Notice-Autism-Class.pdf",
+      "label": "Annual Admission Notice (Autism Class)",
+      "sha256": "12bf9d92268601c4c129c52054a43d3d6bed3f39b5f001e72fcbd5e91bf7285a",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19888H_12bf9d92268601c4c129.txt",
+      "source_file": "database/milestone2/cache/12bf9d92268601c4c129c52054a43d3d6bed3f39b5f001e72fcbd5e91bf7285a.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 782
+    },
+    {
+      "roll": "19888H",
+      "url": "https://stannesshankill.com/wp-content/uploads/2025/10/Annual-Admission-Notice-St-Annes-N.S.-2026-2027-.docx-1.pdf",
+      "label": "Annual Admission Notice St Anne&#8217;s N.S. 2026 &#8211; 2027 .docx (1)",
+      "sha256": "a62067414a99ba680896a90e182e7d9e1d2b1eda89fc0976e322707c2c3feb5d",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19888H_a62067414a99ba680896.txt",
+      "source_file": "database/milestone2/cache/a62067414a99ba680896a90e182e7d9e1d2b1eda89fc0976e322707c2c3feb5d.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 5356
+    },
+    {
+      "roll": "19888H",
+      "url": "https://stannesshankill.com/wp-content/uploads/2026/09/Annual-Admission-Notice-St-Annes-N.S.-2026-2027-.docx-1-1.pdf",
+      "label": "Annual Admission Notice St Anne&#8217;s N.S. 2026 &#8211; 2027 .docx (1) (1)",
+      "sha256": "f2980fcd0d925b3e5fdb63836b66a4c676d70caf9c1a398b6ba92b64971829fa",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19888H_f2980fcd0d925b3e5fdb.txt",
+      "source_file": "database/milestone2/cache/f2980fcd0d925b3e5fdb63836b66a4c676d70caf9c1a398b6ba92b64971829fa.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 5621
+    },
+    {
+      "roll": "19888H",
+      "url": "https://stannesshankill.com/wp-content/uploads/2024/05/Admission-Policy-for-Special-Class-for-Autistic-Students.pdf",
+      "label": "Admission Policy for Special Class for Autistic Students",
+      "sha256": "fda52884fe415fda2dc5bd372070b5d3b1067a34f6c5aecb129a515074e4d4a7",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19888H_fda52884fe415fda2dc5.txt",
+      "source_file": "database/milestone2/cache/fda52884fe415fda2dc5bd372070b5d3b1067a34f6c5aecb129a515074e4d4a7.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 14757
+    },
+    {
+      "roll": "19888H",
+      "url": "https://stannesshankill.com/wp-content/uploads/2024/04/Admission-Policy-for-St.-Annes-N.S.-April-2024.pdf",
+      "label": "Admission Policy for St. Anne&#8217;s N.S. (April 2024)",
+      "sha256": "036b4063204fb60307e5f084c1a5ff6b8a918783c086b12757a6d7bca17fb11c",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19888H_036b4063204fb60307e5.txt",
+      "source_file": "database/milestone2/cache/036b4063204fb60307e5f084c1a5ff6b8a918783c086b12757a6d7bca17fb11c.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 35898
+    },
+    {
+      "roll": "19888H",
+      "url": "https://stannesshankill.com/wp-content/uploads/2025/10/Admission-Policy-October-2025.docx.pdf",
+      "label": "Admission Policy October 2025.docx",
+      "sha256": "5029140d405a77cbb11354df28eb1b3e0fb43a13846db6ec96bae27a0ef3fef8",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19888H_5029140d405a77cbb113.txt",
+      "source_file": "database/milestone2/cache/5029140d405a77cbb11354df28eb1b3e0fb43a13846db6ec96bae27a0ef3fef8.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 50496
+    },
+    {
+      "roll": "19888H",
+      "url": "https://stannesshankill.com/wp-content/uploads/2026/10/Admission-Policy-2026.docx.pdf",
+      "label": "Admission Policy 2026.docx",
+      "sha256": "265b75d76e0761a463bb54fca005961e98c4983bfebabeecf4ebb162cbe165cd",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19888H_265b75d76e0761a463bb.txt",
+      "source_file": "database/milestone2/cache/265b75d76e0761a463bb54fca005961e98c4983bfebabeecf4ebb162cbe165cd.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 50104
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://stannesshankill.com/admission-policy-for-autism-class",
+      "label": "Admission Policy for Junior Infants, Senior Infants to 6th Class  and Autism Class 2027",
+      "via": "school_public_link"
+    },
+    {
+      "url": "http://stannesshankill.com/wp-content/uploads/2017/03/School-Tours-Policy.pdf",
+      "label": "School Tours Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "http://stannesshankill.com/wp-content/uploads/2017/03/Mobile-Phones-Policy.pdf",
+      "label": "Mobile Phones Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "http://stannesshankill.com/wp-content/uploads/2017/03/Homework-Policy-1.pdf",
+      "label": "Homework Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "http://stannesshankill.com/wp-content/uploads/2017/03/Healthy-Eating-Policy.pdf",
+      "label": "Healthy Eating Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stannesshankill.com/sitemap.xml",
+      "label": "Public sitemap",
+      "via": "sitemap_root"
+    },
+    {
+      "url": "https://stannesshankill.com/",
+      "label": "School homepage",
+      "via": "home"
+    },
+    {
+      "url": "http://stannesshankill.com/wp-content/uploads/2020/08/Covid19-Policy-Statement-for-St.-Annes-N.S.-.pdf",
+      "label": "Policy Statement",
+      "via": "school_public_link"
+    },
+    {
+      "url": "http://stannesshankill.com/wp-content/uploads/2022/11/RSE-Policy-and-SPHE-Yearly-Plan-per-Class-Group-November-2022.pdf",
+      "label": "RSE and SPHE Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "http://stannesshankill.com/wp-content/uploads/2022/04/Communicating-via-WhatsApp-and-Email-.pdf",
+      "label": "WhatsApp and Email Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "http://stannesshankill.com/wp-content/uploads/2026/10/2026-Critical-Incident-Management-Policy.docx.pdf",
+      "label": "Critical Incident Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "http://stannesshankill.com/wp-content/uploads/2026/05/Uniform-Policy-2026.docx.pdf",
+      "label": "Uniform Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stannesshankill.com/health-and-safety-policy",
+      "label": "http://stannesshankill.com/wp-content/uploads/2026/10/Health-and-Safety-Policy-October-2026-.docx.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stannesshankill.com/anti-bullying-policy",
+      "label": "Bí Cineálta Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://stannesshankill.com/acceptable-use-policy-for-i-t",
+      "label": "Acceptable Use Policy for I.T.",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 56.28,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:09:32+0000"
+}

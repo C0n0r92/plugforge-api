@@ -1,0 +1,392 @@
+{
+  "roll": "17595F",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.kilcoskanns.ie/parent-zone/application-for-admission/",
+      "final_url": "https://www.kilcoskanns.ie/parent-zone/application-for-admission/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Application for Admission"
+    },
+    {
+      "url": "https://www.kilcoskanns.ie/documentlink/269/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/333/docletter/20260915112459_61_KNS_Annual_Admission_Notice_Sept_26.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "KNS Annual Admission Notice Sept 26.pdf"
+    },
+    {
+      "url": "https://www.kilcoskanns.ie/admin/?open=/parent-zone/application-for-admission/",
+      "final_url": "https://www.kilcoskanns.ie/admin/?open=/parent-zone/application-for-admission/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.kilcoskanns.ie/sitemap.xml",
+      "final_url": "https://www.kilcoskanns.ie/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.kilcoskanns.ie/parent-zone/traffic-management-in-kilcoskan-ns/",
+      "final_url": "https://www.kilcoskanns.ie/parent-zone/traffic-management-in-kilcoskan-ns/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Traffic Management in Kilcoskan NS"
+    },
+    {
+      "url": "https://www.kilcoskanns.ie/parent-zone/newsletters/",
+      "final_url": "https://www.kilcoskanns.ie/parent-zone/newsletters/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Newsletters"
+    },
+    {
+      "url": "https://www.kilcoskanns.ie/parent-zone/indicative-school-policies/",
+      "final_url": "https://www.kilcoskanns.ie/parent-zone/indicative-school-policies/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "List of Indicative School Policies"
+    },
+    {
+      "url": "https://www.kilcoskanns.ie/parent-zone/calendar-document/",
+      "final_url": "https://www.kilcoskanns.ie/parent-zone/calendar-document/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Calendar Document"
+    },
+    {
+      "url": "https://www.kilcoskanns.ie/parent-zone/booklists-etc/",
+      "final_url": "https://www.kilcoskanns.ie/parent-zone/booklists-etc/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Booklists and Stationery lists"
+    },
+    {
+      "url": "https://www.kilcoskanns.ie/parent-zone/",
+      "final_url": "https://www.kilcoskanns.ie/parent-zone/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies & Documents Tuismitheoirí"
+    },
+    {
+      "url": "https://www.kilcoskanns.ie/our-school/parent-association/",
+      "final_url": "https://www.kilcoskanns.ie/our-school/parent-association/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents Association"
+    },
+    {
+      "url": "https://www.kilcoskanns.ie/letterlink/39/?open=true&download=true",
+      "final_url": "https://swdcache.b-cdn.net/333/docletter/20250610115127_23_Testing_information_sheet_STEN_scores.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.kilcoskanns.ie/letterlink/31/?open=true&download=true",
+      "final_url": "https://swdcache.b-cdn.net/333/docletter/20240502022550_50_Final_Draft_Kilcoskan_NS_Calendar_2024-2025.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.kilcoskanns.ie/letterlink/26/?open=true&download=true",
+      "final_url": "https://swdcache.b-cdn.net/333/docletter/20230228101958_16_Final_Draft_Kilcoskan_NS_Calendar_2023-2024.docx",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.kilcoskanns.ie/letterlink/24/?open=true&download=true",
+      "final_url": "https://swdcache.b-cdn.net/333/docletter/20220624103056_22_Greater_Finglas_Parish_Newsletter_June_2022.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.kilcoskanns.ie/documentlink/69/?open=true&download=true",
+      "final_url": "https://swdcache.b-cdn.net/333/downloads/KNS_-_Volunteer_Policy.docx",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.kilcoskanns.ie/documentlink/63/?open=true&download=true",
+      "final_url": "https://swdcache.b-cdn.net/333/downloads/Tippy_Toes_Flyer.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.kilcoskanns.ie/documentlink/62/?open=true&download=true",
+      "final_url": "https://swdcache.b-cdn.net/333/downloads/TippyToesFlyer.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.kilcoskanns.ie/documentlink/31/?open=true&download=true",
+      "final_url": "https://swdcache.b-cdn.net/333/downloads/KilcoskanNSApplicationForm-AtFebruary2018.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.kilcoskanns.ie/documentlink/30/?open=true&download=true",
+      "final_url": "https://swdcache.b-cdn.net/333/downloads/Child Protection Policy.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.kilcoskanns.ie/documentlink/29/?open=true&download=true",
+      "final_url": "https://swdcache.b-cdn.net/333/downloads/Kilcoskan NS Homework Policy.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.kilcoskanns.ie/documentlink/271/?open=true&download=true",
+      "final_url": "https://swdcache.b-cdn.net/333/docletter/20261023040315_77_KNS_Work_Experience_Policy.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.kilcoskanns.ie/documentlink/27/?open=true&download=true",
+      "final_url": "https://swdcache.b-cdn.net/333/downloads/Kilcoskan NS Extracurricular Activites Policy.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.kilcoskanns.ie/documentlink/269/?open=true&download=true",
+      "final_url": "https://swdcache.b-cdn.net/333/docletter/20260915112459_61_KNS_Annual_Admission_Notice_Sept_26.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": ""
+    }
+  ],
+  "documents": [
+    {
+      "roll": "17595F",
+      "url": "https://www.kilcoskanns.ie/parent-zone/application-for-admission/",
+      "label": "Application for Admission",
+      "sha256": "777675df46b598fac346b703ef22fd65c15ab2c09f9445dffe8b9f53b3181026",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/17595F_777675df46b598fac346.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 363
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.kilcoskanns.ie/documentlink/261/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.kilcoskanns.ie/documentlink/260/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.kilcoskanns.ie/documentlink/26/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.kilcoskanns.ie/documentlink/25/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.kilcoskanns.ie/documentlink/248/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.kilcoskanns.ie/documentlink/24/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.kilcoskanns.ie/documentlink/235/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.kilcoskanns.ie/documentlink/22/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.kilcoskanns.ie/documentlink/192/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.kilcoskanns.ie/documentlink/191/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.kilcoskanns.ie/documentlink/190/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.kilcoskanns.ie/documentlink/189/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.kilcoskanns.ie/documentlink/187/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.kilcoskanns.ie/documentlink/186/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.kilcoskanns.ie/documentlink/185/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.kilcoskanns.ie/documentlink/184/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.kilcoskanns.ie/admin/?open=/parent-zone/traffic-management-in-kilcoskan-ns/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.kilcoskanns.ie/admin/?open=/parent-zone/newsletters/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.kilcoskanns.ie/admin/?open=/parent-zone/indicative-school-policies/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.kilcoskanns.ie/admin/?open=/parent-zone/calendar-document/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.kilcoskanns.ie/admin/?open=/parent-zone/booklists-etc/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.kilcoskanns.ie/admin/?open=/parent-zone/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.kilcoskanns.ie/admin/?open=/our-school/parent-association/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.kilcoskanns.ie/",
+      "label": "School homepage",
+      "via": "home"
+    },
+    {
+      "url": "https://www.kilcoskanns.ie/parent-zone/homework-policy/",
+      "label": "Homework Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.kilcoskanns.ie/parent-zone/healthy-eating-policy/",
+      "label": "Healthy Eating Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.kilcoskanns.ie/parent-zone/extracurricular-activities-policy/",
+      "label": "Extracurricular Activities Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.kilcoskanns.ie/parent-zone/child-protection-policy/",
+      "label": "Child Protection Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.kilcoskanns.ie/parent-zone/anti-bullying-policy/",
+      "label": "Bí Cineálta Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.kilcoskanns.ie/documentlink/69/?open=true",
+      "label": "KNS Volunteer Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.kilcoskanns.ie/documentlink/30/?open=true",
+      "label": "Child Protection Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.kilcoskanns.ie/documentlink/29/?open=true",
+      "label": "Homework Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.kilcoskanns.ie/documentlink/271/?open=true",
+      "label": "KNS Work Experience Policy.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.kilcoskanns.ie/documentlink/27/?open=true",
+      "label": "Extracurricular Activites Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.kilcoskanns.ie/documentlink/26/?open=true",
+      "label": "Healthy Eating Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.kilcoskanns.ie/documentlink/248/?open=true",
+      "label": "KNS Sickness Policy Sept25.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.kilcoskanns.ie/documentlink/235/?open=true",
+      "label": "Kilcoskan NS Anti-Bullying Policy Doc.docx",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.kilcoskanns.ie/documentlink/22/?open=true",
+      "label": "Anti Cyber Bullying Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.kilcoskanns.ie/cmsfiles/policies/privacy/",
+      "label": "Website Privacy Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.kilcoskanns.ie/cmsfiles/policies/cookie/",
+      "label": "Cookie Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 71.37,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:03:50+0000"
+}

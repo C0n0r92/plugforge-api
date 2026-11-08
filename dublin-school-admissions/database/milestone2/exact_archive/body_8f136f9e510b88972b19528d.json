@@ -1,0 +1,25 @@
+{
+  "roll": "19221U",
+  "capture": {
+    "timestamp": "20250915231019",
+    "original": "https://www.scoilaine.ie/admissions/",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "digest": "4OFVN5FPUFWGH7IQXCKN3FELWRQPEWRY"
+  },
+  "original_url": "https://www.scoilaine.ie/admissions/",
+  "archived_url": "https://web.archive.org/web/20250915231019/https://www.scoilaine.ie/admissions/",
+  "attempted_at": "2026-11-08T13:11:00.907868+00:00",
+  "linked_from_capture": null,
+  "http_status": 200,
+  "headers": {
+    "Content-Type": "text/html; charset=UTF-8",
+    "memento-datetime": "Mon, 15 Sep 2025 23:10:19 GMT"
+  },
+  "bytes": 39797,
+  "payload_sha256": "0d409075152731419d3d8182132f234364806b06f3b2e4bedb86dcd03937ecea",
+  "format": "html",
+  "status": "archived_body_retrieved_requires_manual_evidence_review",
+  "text_file": "database/milestone2/evidence/exact_19221U_0d409075152731419d3d.txt",
+  "linked_document_candidates": []
+}

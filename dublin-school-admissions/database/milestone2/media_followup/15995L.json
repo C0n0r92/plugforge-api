@@ -1,0 +1,175 @@
+{
+  "roll": "15995L",
+  "attempted_at": "2026-11-08T13:01:22+0000",
+  "method": "documented_public_WordPress_media_notice_and_Irish_title_gap_search",
+  "attempts": [
+    {
+      "url": "https://starofthesea.ie/wp-json/wp/v2/media?search=notice&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok"
+    },
+    {
+      "url": "https://starofthesea.ie/wp-json/wp/v2/media?search=f%C3%B3gra&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok"
+    },
+    {
+      "url": "https://starofthesea.ie/wp-content/uploads/2020/10/Star-of-the-Sea-Admissions-Notice.pdf",
+      "status": "ok",
+      "label": "Star of the Sea Admissions Notice"
+    },
+    {
+      "url": "https://starofthesea.ie/wp-content/uploads/2021/03/Admissions-Notice-Star-of-the-Sea-BNS.pdf",
+      "status": "ok",
+      "label": "Admissions Notice Star of the Sea BNS"
+    },
+    {
+      "url": "https://starofthesea.ie/wp-content/uploads/2021/04/Admissions-Notice-Star-of-the-Sea-BNS-29.apr_.pdf",
+      "status": "ok",
+      "label": "Admissions-Notice-Star-of-the-Sea-BNS 29.apr"
+    },
+    {
+      "url": "https://starofthesea.ie/wp-content/uploads/2021/09/Admissions-Notice-2022-2023.pdf",
+      "status": "ok",
+      "label": "Admissions Notice 2022 2023"
+    },
+    {
+      "url": "https://starofthesea.ie/wp-content/uploads/2021/09/Admissions-Notice-2022-2023-1.pdf",
+      "status": "ok",
+      "label": "Admissions Notice 2022 2023"
+    },
+    {
+      "url": "https://starofthesea.ie/wp-content/uploads/2022/09/Admissions-Notice-2023-2024.pdf",
+      "status": "ok",
+      "label": "Admissions Notice 2023 2024"
+    },
+    {
+      "url": "https://starofthesea.ie/wp-content/uploads/2023/09/Admissions-Notice-2024-2025-Star-of-the-Sea.pdf",
+      "status": "ok",
+      "label": "Admissions Notice 2024 2025 Star of the Sea"
+    },
+    {
+      "url": "https://starofthesea.ie/wp-content/uploads/2024/09/Admissions-Notice-2025-2026-Star-of-the-Sea.pdf",
+      "status": "ok",
+      "label": "Admissions Notice 2025 2026 Star of the Sea"
+    },
+    {
+      "url": "https://starofthesea.ie/wp-content/uploads/2025/10/Admissions-Notice-2026-2027.pdf",
+      "status": "ok",
+      "label": "Admissions Notice 2026 2027"
+    },
+    {
+      "url": "https://starofthesea.ie/wp-content/uploads/2026/04/Admissions-Notice-2026-2027.pdf",
+      "status": "ok",
+      "label": "Admissions Notice 2026 2027"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "15995L",
+      "url": "https://starofthesea.ie/wp-content/uploads/2020/10/Star-of-the-Sea-Admissions-Notice.pdf",
+      "label": "Star of the Sea Admissions Notice",
+      "sha256": "f925d93f52da8e9308764a83d1102b53ee9650cef30e8abdb9d163de2c79ffaa",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/15995L_f925d93f52da8e930876.txt",
+      "source_file": "database/milestone2/cache/f925d93f52da8e9308764a83d1102b53ee9650cef30e8abdb9d163de2c79ffaa.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 6441,
+      "discovery_method": "documented_WP_notice_or_Irish_title_media_query",
+      "cms_media_date_as_printed_not_publication": "2020-10-15T17:36:31"
+    },
+    {
+      "roll": "15995L",
+      "url": "https://starofthesea.ie/wp-content/uploads/2021/03/Admissions-Notice-Star-of-the-Sea-BNS.pdf",
+      "label": "Admissions Notice Star of the Sea BNS",
+      "sha256": "36e95e60a7c8f1d581cb3008046010da276a9e64790354399972630d757c017b",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/15995L_36e95e60a7c8f1d581cb.txt",
+      "source_file": "database/milestone2/cache/36e95e60a7c8f1d581cb3008046010da276a9e64790354399972630d757c017b.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 8249,
+      "discovery_method": "documented_WP_notice_or_Irish_title_media_query",
+      "cms_media_date_as_printed_not_publication": "2021-03-22T11:41:49"
+    },
+    {
+      "roll": "15995L",
+      "url": "https://starofthesea.ie/wp-content/uploads/2021/09/Admissions-Notice-2022-2023.pdf",
+      "label": "Admissions Notice 2022 2023",
+      "sha256": "e3ac1b69ef1f7dc0bbbb40588fc1c4fedd5874652fd42bb90c3caaca6f3b557e",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/15995L_e3ac1b69ef1f7dc0bbbb.txt",
+      "source_file": "database/milestone2/cache/e3ac1b69ef1f7dc0bbbb40588fc1c4fedd5874652fd42bb90c3caaca6f3b557e.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 9098,
+      "discovery_method": "documented_WP_notice_or_Irish_title_media_query",
+      "cms_media_date_as_printed_not_publication": "2021-09-28T15:23:06"
+    },
+    {
+      "roll": "15995L",
+      "url": "https://starofthesea.ie/wp-content/uploads/2021/09/Admissions-Notice-2022-2023-1.pdf",
+      "label": "Admissions Notice 2022 2023",
+      "sha256": "2320353c2da22ad4b580084a457f145413717a6a68e06a9dec6212dd68ea35b2",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/15995L_2320353c2da22ad4b580.txt",
+      "source_file": "database/milestone2/cache/2320353c2da22ad4b580084a457f145413717a6a68e06a9dec6212dd68ea35b2.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 9098,
+      "discovery_method": "documented_WP_notice_or_Irish_title_media_query",
+      "cms_media_date_as_printed_not_publication": "2021-09-29T12:07:40"
+    },
+    {
+      "roll": "15995L",
+      "url": "https://starofthesea.ie/wp-content/uploads/2022/09/Admissions-Notice-2023-2024.pdf",
+      "label": "Admissions Notice 2023 2024",
+      "sha256": "e1dc4d0032d7f28f6abb484ee2f66bb23141d146e136a13c9383e6c4f512e3e5",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/15995L_e1dc4d0032d7f28f6abb.txt",
+      "source_file": "database/milestone2/cache/e1dc4d0032d7f28f6abb484ee2f66bb23141d146e136a13c9383e6c4f512e3e5.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 8729,
+      "discovery_method": "documented_WP_notice_or_Irish_title_media_query",
+      "cms_media_date_as_printed_not_publication": "2022-09-19T10:21:01"
+    },
+    {
+      "roll": "15995L",
+      "url": "https://starofthesea.ie/wp-content/uploads/2023/09/Admissions-Notice-2024-2025-Star-of-the-Sea.pdf",
+      "label": "Admissions Notice 2024 2025 Star of the Sea",
+      "sha256": "50edff1c304868bcf25d955cabdec8803a2d068483fb173d05d516e4e8fabcbb",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/15995L_50edff1c304868bcf25d.txt",
+      "source_file": "database/milestone2/cache/50edff1c304868bcf25d955cabdec8803a2d068483fb173d05d516e4e8fabcbb.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 8695,
+      "discovery_method": "documented_WP_notice_or_Irish_title_media_query",
+      "cms_media_date_as_printed_not_publication": "2023-09-18T14:14:48"
+    },
+    {
+      "roll": "15995L",
+      "url": "https://starofthesea.ie/wp-content/uploads/2024/09/Admissions-Notice-2025-2026-Star-of-the-Sea.pdf",
+      "label": "Admissions Notice 2025 2026 Star of the Sea",
+      "sha256": "ccc539fb16b4051b9ca86c39f0c886b97702b1b90ce78d34129891645ba21128",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/15995L_ccc539fb16b4051b9ca8.txt",
+      "source_file": "database/milestone2/cache/ccc539fb16b4051b9ca86c39f0c886b97702b1b90ce78d34129891645ba21128.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 8523,
+      "discovery_method": "documented_WP_notice_or_Irish_title_media_query",
+      "cms_media_date_as_printed_not_publication": "2024-09-18T16:12:17"
+    },
+    {
+      "roll": "15995L",
+      "url": "https://starofthesea.ie/wp-content/uploads/2025/10/Admissions-Notice-2026-2027.pdf",
+      "label": "Admissions Notice 2026 2027",
+      "sha256": "6e32f0478ab0df6d943dd7c6e78ec689f7fd5c3dddefce6d42e746495eeb59d7",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/15995L_6e32f0478ab0df6d943d.txt",
+      "source_file": "database/milestone2/cache/6e32f0478ab0df6d943dd7c6e78ec689f7fd5c3dddefce6d42e746495eeb59d7.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 8467,
+      "discovery_method": "documented_WP_notice_or_Irish_title_media_query",
+      "cms_media_date_as_printed_not_publication": "2025-10-14T14:00:52"
+    }
+  ],
+  "pending_links": [],
+  "earliest_year_cutoff": null,
+  "status": "attempted_new_historical_notice_candidates",
+  "elapsed_seconds": 41.7
+}

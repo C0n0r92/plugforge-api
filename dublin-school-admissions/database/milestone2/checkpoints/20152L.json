@@ -1,0 +1,303 @@
+{
+  "roll": "20152L",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.ndmns.com/enrolment-forms.html",
+      "final_url": "https://www.ndmns.com/enrolment-forms.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Enrolment Forms"
+    },
+    {
+      "url": "https://www.ndmns.com/uploads/1/2/7/3/127348810/2025-10_admissions_policy__1_.docx",
+      "final_url": "https://www.ndmns.com/uploads/1/2/7/3/127348810/2025-10_admissions_policy__1_.docx",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://www.ndmns.com/sitemap.xml",
+      "final_url": "https://www.ndmns.com/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.ndmns.com/our-policies.html",
+      "final_url": "https://www.ndmns.com/our-policies.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Our Policies"
+    },
+    {
+      "url": "https://www.ndmns.com/uploads/1/2/7/3/127348810/parents_association_constitution.docx",
+      "final_url": "https://www.ndmns.com/uploads/1/2/7/3/127348810/parents_association_constitution.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "arents Association Constitution"
+    },
+    {
+      "url": "https://www.ndmns.com/uploads/1/2/7/3/127348810/parental_complaints_procedure_v2.pdf",
+      "final_url": "https://www.ndmns.com/uploads/1/2/7/3/127348810/parental_complaints_procedure_v2.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parental Complaints Procedure -"
+    },
+    {
+      "url": "https://www.ndmns.com/uploads/1/2/7/3/127348810/parental_complaints_procedure_-_arabic_version.pdf",
+      "final_url": "https://www.ndmns.com/uploads/1/2/7/3/127348810/parental_complaints_procedure_-_arabic_version.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parental Complaints Procedure - Arabic"
+    },
+    {
+      "url": "https://www.ndmns.com/uploads/1/2/7/3/127348810/complaints_procedure_-_arabic_translation.pdf",
+      "final_url": "https://www.ndmns.com/uploads/1/2/7/3/127348810/complaints_procedure_-_arabic_translation.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parental Complaints Procedure -"
+    },
+    {
+      "url": "https://www.ndmns.com/uploads/1/2/7/3/127348810/anti-bullying_-_supporting_documents.pdf",
+      "final_url": "https://www.ndmns.com/uploads/1/2/7/3/127348810/anti-bullying_-_supporting_documents.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "(& Supporting Documents)"
+    },
+    {
+      "url": "https://www.ndmns.com/uploads/1/2/7/3/127348810/20140331_homework_policy_march_2014_final_version.pdf",
+      "final_url": "https://www.ndmns.com/uploads/1/2/7/3/127348810/20140331_homework_policy_march_2014_final_version.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Homework Policy"
+    },
+    {
+      "url": "https://www.ndmns.com/uploads/1/2/7/3/127348810/history_policy_june_2017.pdf",
+      "final_url": "https://www.ndmns.com/uploads/1/2/7/3/127348810/history_policy_june_2017.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "History Policy"
+    },
+    {
+      "url": "https://www.ndmns.com/uploads/1/2/7/3/127348810/handwriting_policy_-_201712.pdf",
+      "final_url": "https://www.ndmns.com/uploads/1/2/7/3/127348810/handwriting_policy_-_201712.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Handwriting Policy"
+    },
+    {
+      "url": "https://www.ndmns.com/uploads/1/2/7/3/127348810/sna_policy_201805.pdf",
+      "final_url": "https://www.ndmns.com/uploads/1/2/7/3/127348810/sna_policy_201805.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Special Needs Assistant Policy"
+    },
+    {
+      "url": "https://www.ndmns.com/uploads/1/2/7/3/127348810/rse_201810.pdf",
+      "final_url": "https://www.ndmns.com/uploads/1/2/7/3/127348810/rse_201810.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "RSE Policy"
+    },
+    {
+      "url": "https://www.ndmns.com/uploads/1/2/7/3/127348810/healthy_eating_policy_201805.pdf",
+      "final_url": "https://www.ndmns.com/uploads/1/2/7/3/127348810/healthy_eating_policy_201805.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Healthy Eating Policy"
+    },
+    {
+      "url": "https://www.ndmns.com/uploads/1/2/7/3/127348810/english_policy_201806.pdf",
+      "final_url": "https://www.ndmns.com/uploads/1/2/7/3/127348810/english_policy_201806.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "English Policy"
+    },
+    {
+      "url": "https://www.ndmns.com/uploads/1/2/7/3/127348810/data_protection_201805.pdf",
+      "final_url": "https://www.ndmns.com/uploads/1/2/7/3/127348810/data_protection_201805.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Data Protection Policy"
+    },
+    {
+      "url": "https://www.ndmns.com/uploads/1/2/7/3/127348810/stay_safe_policy_-_201902.pdf",
+      "final_url": "https://www.ndmns.com/uploads/1/2/7/3/127348810/stay_safe_policy_-_201902.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Stay Safe  Policy"
+    },
+    {
+      "url": "https://www.ndmns.com/uploads/1/2/7/3/127348810/sphe_policy_-_201902.pdf",
+      "final_url": "https://www.ndmns.com/uploads/1/2/7/3/127348810/sphe_policy_-_201902.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "SPHE Policy"
+    },
+    {
+      "url": "https://www.ndmns.com/uploads/1/2/7/3/127348810/music_policy_201905.pdf",
+      "final_url": "https://www.ndmns.com/uploads/1/2/7/3/127348810/music_policy_201905.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Music Policy"
+    },
+    {
+      "url": "https://www.ndmns.com/uploads/1/2/7/3/127348810/multigrade_policy_201906.pdf",
+      "final_url": "https://www.ndmns.com/uploads/1/2/7/3/127348810/multigrade_policy_201906.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Multigrade Class Policy"
+    },
+    {
+      "url": "https://www.ndmns.com/uploads/1/2/7/3/127348810/health_and_safety_policy_201909.pdf",
+      "final_url": "https://www.ndmns.com/uploads/1/2/7/3/127348810/health_and_safety_policy_201909.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Health and Safety Policy"
+    },
+    {
+      "url": "https://www.ndmns.com/uploads/1/2/7/3/127348810/droichead_policy_201905.pdf",
+      "final_url": "https://www.ndmns.com/uploads/1/2/7/3/127348810/droichead_policy_201905.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Droichead Policy"
+    },
+    {
+      "url": "https://www.ndmns.com/uploads/1/2/7/3/127348810/visual_arts_policy_202003.pdf",
+      "final_url": "https://www.ndmns.com/uploads/1/2/7/3/127348810/visual_arts_policy_202003.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Visual Arts Policy"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "20152L",
+      "url": "https://www.ndmns.com/enrolment-forms.html",
+      "label": "Enrolment Forms",
+      "sha256": "446c64a75db989263c0d643ad460ef313c61c2968a58c2c2eea52b333db0e290",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20152L_446c64a75db989263c0d.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 508
+    },
+    {
+      "roll": "20152L",
+      "url": "https://www.ndmns.com/uploads/1/2/7/3/127348810/2025-10_admissions_policy__1_.docx",
+      "label": "Prior school admissions section",
+      "sha256": "df95e4c4feceb64f6aec0ac51a89155b6c5015029202598427c248b79727ed7d",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/20152L_df95e4c4feceb64f6aec.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 26692
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.ndmns.com/uploads/1/2/7/3/127348810/mathematics_policy_202005.pdf",
+      "label": "Mathematics Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ndmns.com/uploads/1/2/7/3/127348810/geography_policy_202001.pdf",
+      "label": "Geography Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ndmns.com/uploads/1/2/7/3/127348810/administration_of_medication_202003.pdf",
+      "label": "Administration of Medicine Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ndmns.com/uploads/1/2/7/3/127348810/202010_aistear_policy.pdf",
+      "label": "Aistear Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ndmns.com",
+      "label": "School homepage",
+      "via": "home"
+    },
+    {
+      "url": "https://www.ndmns.com/uploads/1/2/7/3/127348810/science_policy_2021-01.pdf",
+      "label": "Science Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ndmns.com/uploads/1/2/7/3/127348810/pe_policy_2021-02.pdf",
+      "label": "Physical Education Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ndmns.com/uploads/1/2/7/3/127348810/internet_acceptable_use_policy_2021-11.pdf",
+      "label": "Internet Acceptable Usage Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ndmns.com/uploads/1/2/7/3/127348810/gaeilge_2021-01.pdf",
+      "label": "Gaeilge Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ndmns.com/uploads/1/2/7/3/127348810/cpd_policy_-_202104.pdf",
+      "label": "CPD Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ndmns.com/uploads/1/2/7/3/127348810/intimate_care_202203.pdf",
+      "label": "Intimate Care Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ndmns.com/uploads/1/2/7/3/127348810/202206_dignity_at_work.pdf",
+      "label": "Dignity at Work Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ndmns.com/uploads/1/2/7/3/127348810/critical_incident_policy_2023-01_-_website.pdf",
+      "label": "Critical Incident Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ndmns.com/uploads/1/2/7/3/127348810/aen___inclusion_policy_2023-02.pdf",
+      "label": "Educational Needs & Inclusion Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ndmns.com/uploads/1/2/7/3/127348810/202301_substance_abuse_policy.pdf",
+      "label": "Substance Abuse Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ndmns.com/uploads/1/2/7/3/127348810/2023-01_drama_policy.pdf",
+      "label": "Drama Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ndmns.com/uploads/1/2/7/3/127348810/attendance_policy_2024-05.pdf",
+      "label": "Attendance Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ndmns.com/uploads/1/2/7/3/127348810/2024-09_phone___pupil_technology.pdf",
+      "label": "Phone Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ndmns.com/uploads/1/2/7/3/127348810/parents_association_acceptable_usage_policy.pdf",
+      "label": "arents' Association Acceptable Usage Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.ndmns.com/uploads/1/2/7/3/127348810/bi_cinealta_child_student-friendly_policy.pdf",
+      "label": "neálta Student-friendly Policy ​",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 71.08,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:58:50+0000"
+}

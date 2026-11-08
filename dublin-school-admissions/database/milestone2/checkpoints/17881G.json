@@ -1,0 +1,335 @@
+{
+  "roll": "17881G",
+  "status": "bounded_search_no_new_notice_found",
+  "attempts": [
+    {
+      "url": "https://www.oconnellprimary.ie/parents---tuismitheoir/scholl-enrolment-application-/?googletranslate=true",
+      "final_url": "https://www.oconnellprimary.ie/parents---tuismitheoir/scholl-enrolment-application-/?googletranslate=true",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "https://www.oconnellprimary.ie/parents---tuismitheoir/scholl-enrolment-application-/",
+      "final_url": "https://www.oconnellprimary.ie/parents---tuismitheoir/scholl-enrolment-application-/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "School Enrolment Application"
+    },
+    {
+      "url": "https://www.oconnellprimary.ie/admin/?open=/parents---tuismitheoir/scholl-enrolment-application-/?googletranslate=true",
+      "final_url": "https://www.oconnellprimary.ie/admin/?open=/parents---tuismitheoir/scholl-enrolment-application-/?googletranslate=true",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.oconnellprimary.ie/admin/?open=/parents---tuismitheoir/scholl-enrolment-application-/",
+      "final_url": "https://www.oconnellprimary.ie/admin/?open=/parents---tuismitheoir/scholl-enrolment-application-/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.oconnellprimary.ie/sitemap.xml",
+      "final_url": "https://www.oconnellprimary.ie/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.oconnellprimary.ie/parents---tuismitheoir/useful-links/",
+      "final_url": "https://www.oconnellprimary.ie/parents---tuismitheoir/useful-links/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Useful Links"
+    },
+    {
+      "url": "https://www.oconnellprimary.ie/parents---tuismitheoir/useful-links/?googletranslate=true",
+      "final_url": "https://www.oconnellprimary.ie/parents---tuismitheoir/useful-links/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.oconnellprimary.ie/parents---tuismitheoir/school-shop/",
+      "final_url": "https://www.oconnellprimary.ie/parents---tuismitheoir/school-shop/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Shop"
+    },
+    {
+      "url": "https://www.oconnellprimary.ie/parents---tuismitheoir/school-shop/?googletranslate=true",
+      "final_url": "https://www.oconnellprimary.ie/parents---tuismitheoir/school-shop/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.oconnellprimary.ie/parents---tuismitheoir/school-letters/",
+      "final_url": "https://www.oconnellprimary.ie/parents---tuismitheoir/school-letters/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Letters"
+    },
+    {
+      "url": "https://www.oconnellprimary.ie/parents---tuismitheoir/school-letters/?googletranslate=true",
+      "final_url": "https://www.oconnellprimary.ie/parents---tuismitheoir/school-letters/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.oconnellprimary.ie/parents---tuismitheoir/parents-association/",
+      "final_url": "https://www.oconnellprimary.ie/parents---tuismitheoir/parents-association/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents Association"
+    },
+    {
+      "url": "https://www.oconnellprimary.ie/parents---tuismitheoir/parents-association/?googletranslate=true",
+      "final_url": "https://www.oconnellprimary.ie/parents---tuismitheoir/parents-association/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.oconnellprimary.ie/parents---tuismitheoir/our-uniform/",
+      "final_url": "https://www.oconnellprimary.ie/parents---tuismitheoir/our-uniform/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Our Uniform"
+    },
+    {
+      "url": "https://www.oconnellprimary.ie/parents---tuismitheoir/our-uniform/?googletranslate=true",
+      "final_url": "https://www.oconnellprimary.ie/parents---tuismitheoir/our-uniform/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.oconnellprimary.ie/parents---tuismitheoir/internet-safety/",
+      "final_url": "https://www.oconnellprimary.ie/parents---tuismitheoir/internet-safety/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Internet Safety"
+    },
+    {
+      "url": "https://www.oconnellprimary.ie/parents---tuismitheoir/internet-safety/Children",
+      "final_url": "https://www.oconnellprimary.ie/parents---tuismitheoir/internet-safety/Children",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.oconnellprimary.ie/parents---tuismitheoir/internet-safety/Children?googletranslate=true",
+      "final_url": "https://www.oconnellprimary.ie/parents---tuismitheoir/internet-safety/Children?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.oconnellprimary.ie/parents---tuismitheoir/internet-safety/?googletranslate=true",
+      "final_url": "https://www.oconnellprimary.ie/parents---tuismitheoir/internet-safety/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.oconnellprimary.ie/parents---tuismitheoir/hscl/",
+      "final_url": "https://www.oconnellprimary.ie/parents---tuismitheoir/hscl/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "HSCL"
+    },
+    {
+      "url": "https://www.oconnellprimary.ie/parents---tuismitheoir/hscl/?googletranslate=true",
+      "final_url": "https://www.oconnellprimary.ie/parents---tuismitheoir/hscl/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.oconnellprimary.ie/parents---tuismitheoir/department-inspections/",
+      "final_url": "https://www.oconnellprimary.ie/parents---tuismitheoir/department-inspections/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Department Inspections"
+    },
+    {
+      "url": "https://www.oconnellprimary.ie/parents---tuismitheoir/department-inspections/?googletranslate=true",
+      "final_url": "https://www.oconnellprimary.ie/parents---tuismitheoir/department-inspections/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.oconnellprimary.ie/parents---tuismitheoir/covid-19/",
+      "final_url": "https://www.oconnellprimary.ie/parents---tuismitheoir/covid-19/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Covid-19"
+    }
+  ],
+  "documents": [],
+  "pending_links": [
+    {
+      "url": "https://www.oconnellprimary.ie/parents---tuismitheoir/covid-19/?googletranslate=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.oconnellprimary.ie/parents---tuismitheoir/calendar/",
+      "label": "Calendar",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.oconnellprimary.ie/parents---tuismitheoir/",
+      "label": "Parents Tuismitheoirí",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.oconnellprimary.ie/our-school/policies/",
+      "label": "Policies",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.oconnellprimary.ie/letterlink/7/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.oconnellprimary.ie/letterlink/10/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.oconnellprimary.ie/documentlink/24/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.oconnellprimary.ie/documentlink/23/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.oconnellprimary.ie/documentlink/22/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.oconnellprimary.ie/admin/?open=/parents---tuismitheoir/useful-links/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.oconnellprimary.ie/admin/?open=/parents---tuismitheoir/useful-links/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.oconnellprimary.ie/admin/?open=/parents---tuismitheoir/school-shop/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.oconnellprimary.ie/admin/?open=/parents---tuismitheoir/school-shop/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.oconnellprimary.ie/admin/?open=/parents---tuismitheoir/school-letters/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.oconnellprimary.ie/admin/?open=/parents---tuismitheoir/school-letters/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.oconnellprimary.ie/admin/?open=/parents---tuismitheoir/parents-association/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.oconnellprimary.ie/admin/?open=/parents---tuismitheoir/parents-association/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.oconnellprimary.ie/admin/?open=/parents---tuismitheoir/our-uniform/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.oconnellprimary.ie/admin/?open=/parents---tuismitheoir/our-uniform/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.oconnellprimary.ie/admin/?open=/parents---tuismitheoir/internet-safety/Children?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.oconnellprimary.ie/admin/?open=/parents---tuismitheoir/internet-safety/Children",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.oconnellprimary.ie/admin/?open=/parents---tuismitheoir/internet-safety/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.oconnellprimary.ie/admin/?open=/parents---tuismitheoir/internet-safety/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.oconnellprimary.ie/admin/?open=/parents---tuismitheoir/hscl/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.oconnellprimary.ie/admin/?open=/parents---tuismitheoir/hscl/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.oconnellprimary.ie/admin/?open=/parents---tuismitheoir/department-inspections/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.oconnellprimary.ie/admin/?open=/parents---tuismitheoir/department-inspections/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.oconnellprimary.ie/admin/?open=/parents---tuismitheoir/covid-19/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.oconnellprimary.ie",
+      "label": "School homepage",
+      "via": "home"
+    },
+    {
+      "url": "https://www.oconnellprimary.ie/cmsfiles/policies/privacy/",
+      "label": "Website Privacy Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.oconnellprimary.ie/cmsfiles/policies/cookie/",
+      "label": "Cookie Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 68.63,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:03:52+0000"
+}

@@ -1,0 +1,218 @@
+{
+  "roll": "18969C",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://steithnes.com/wp-content/uploads/2020/10/new-admissions-policy.docx",
+      "final_url": "https://steithnes.com/wp-content/uploads/2020/10/new-admissions-policy.docx",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://steithnes.com/application-form/",
+      "final_url": "https://steithnes.com/application-form/",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://steithnes.com/wp-content/uploads/2025/05/st.-eithnes-gns-pre-enrolment-form-2025.docx",
+      "final_url": "https://steithnes.com/wp-content/uploads/2025/05/st.-eithnes-gns-pre-enrolment-form-2025.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "St. Eithne’s GNS Pre-Enrolment Form 2025"
+    },
+    {
+      "url": "https://steithnes.com/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://steithnes.com/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "http_404",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://steithnes.com/sitemap.xml",
+      "final_url": "https://steithnes.com/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://steithnes.com/policies/",
+      "final_url": "https://steithnes.com/policies/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://steithnes.com/wp-content/uploads/2019/10/health-and-safety-statement.doc",
+      "final_url": "https://steithnes.com/wp-content/uploads/2019/10/health-and-safety-statement.doc",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download"
+    },
+    {
+      "url": "https://steithnes.com/wp-content/uploads/2025/02/sphe-whole-school-plan-2024.docx",
+      "final_url": "https://steithnes.com/wp-content/uploads/2025/02/sphe-whole-school-plan-2024.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download"
+    },
+    {
+      "url": "https://steithnes.com/wp-content/uploads/2025/02/child-safeguarding-statement-and-risk-assessment-2024-2025.docx",
+      "final_url": "https://steithnes.com/wp-content/uploads/2025/02/child-safeguarding-statement-and-risk-assessment-2024-2025.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download"
+    },
+    {
+      "url": "https://steithnes.com/wp-content/uploads/2019/10/sen-learning-support-policy.docx",
+      "final_url": "https://steithnes.com/wp-content/uploads/2019/10/sen-learning-support-policy.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "SEN (Learning Support) Policy"
+    },
+    {
+      "url": "https://steithnes.com/wp-content/uploads/2019/10/critical-incident-policy.doc",
+      "final_url": "https://steithnes.com/wp-content/uploads/2019/10/critical-incident-policy.doc",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Critical Incident Policy"
+    },
+    {
+      "url": "https://steithnes.com/wp-content/uploads/2019/10/administering-medicine-policy.docx",
+      "final_url": "https://steithnes.com/wp-content/uploads/2019/10/administering-medicine-policy.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Administration of Medicine Policy"
+    },
+    {
+      "url": "https://steithnes.com/policies/?share=twitter",
+      "final_url": "https://x.com/intent/tweet?related=wordpressdotcom&text=Policies&url=https%3A%2F%2Fsteithnes.com%2Fpolicies%2F",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Share on X (Opens in new window) X"
+    },
+    {
+      "url": "https://steithnes.com/parental-involvement/",
+      "final_url": "https://steithnes.com/parental-involvement/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parental Involvement"
+    },
+    {
+      "url": "https://steithnes.com/parental-involvement/?share=twitter",
+      "final_url": "https://x.com/intent/tweet?related=wordpressdotcom&text=Parental%20Involvement&url=https%3A%2F%2Fsteithnes.com%2Fparental-involvement%2F",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Share on X (Opens in new window) X"
+    },
+    {
+      "url": "https://steithnes.com/news-sitemap.xml",
+      "final_url": "https://steithnes.com/news-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://steithnes.com/",
+      "final_url": "https://steithnes.com/",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://steithnes.com/wp-content/uploads/2021/05/remote-learning-policy-2021.docx",
+      "final_url": "https://steithnes.com/wp-content/uploads/2021/05/remote-learning-policy-2021.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Remote Learning Policy: January (2021)"
+    },
+    {
+      "url": "https://steithnes.com/wp-content/uploads/2021/05/disciplinary-and-grievance-procedures-policy-1.docx",
+      "final_url": "https://steithnes.com/wp-content/uploads/2021/05/disciplinary-and-grievance-procedures-policy-1.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Disciplinary and Grievance Procedures Policy: April (2021)"
+    },
+    {
+      "url": "https://steithnes.com/wp-content/uploads/2021/05/dignity-at-work-policy.doc",
+      "final_url": "https://steithnes.com/wp-content/uploads/2021/05/dignity-at-work-policy.doc",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Equality & Anti-Harassment/ Dignity at work Policy: April (2021)"
+    },
+    {
+      "url": "https://steithnes.com/wp-content/uploads/2021/05/data-protection-policy-2021.doc",
+      "final_url": "https://steithnes.com/wp-content/uploads/2021/05/data-protection-policy-2021.doc",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Data Protection Policy: March (2021)"
+    },
+    {
+      "url": "https://steithnes.com/wp-content/uploads/2025/10/code-of-behaviour-policy-nov-2022.doc",
+      "final_url": "https://steithnes.com/wp-content/uploads/2025/10/code-of-behaviour-policy-nov-2022.doc",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Code of Behaviour Policy (Nov 2022)"
+    },
+    {
+      "url": "https://steithnes.com/wp-content/uploads/2025/02/homework-policy-2023.docx",
+      "final_url": "https://steithnes.com/wp-content/uploads/2025/02/homework-policy-2023.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Homework Policy (2023)"
+    },
+    {
+      "url": "https://steithnes.com/wp-content/uploads/2025/02/child-protection-policy-2024-2025.doc",
+      "final_url": "https://steithnes.com/wp-content/uploads/2025/02/child-protection-policy-2024-2025.doc",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Child Protection Policy 2024-2025"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "18969C",
+      "url": "https://steithnes.com/wp-content/uploads/2020/10/new-admissions-policy.docx",
+      "label": "Prior school admissions section",
+      "sha256": "5a3be61c19f1949d0b0bb4deba7f014277d1cc38b16ad3f5fb15523ac61569c0",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/18969C_5a3be61c19f1949d0b0b.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 19178
+    },
+    {
+      "roll": "18969C",
+      "url": "https://steithnes.com/application-form/",
+      "label": "Prior school admissions section",
+      "sha256": "412aeefb6c27bbec2a429abf3822c685f25dbb50a0a56afc1a41b22a4b490ddd",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/18969C_412aeefb6c27bbec2a42.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 386
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://steithnes.com/wp-content/uploads/2025/02/anti-bullying-policy-2024.doc",
+      "label": "Anti-Bullying Policy 2024",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://steithnes.com/wp-content/uploads/2025/10/bi-cinealta-policy-june-2025.docx",
+      "label": "Bí Cineálta Policy- June (2025 )",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://steithnes.com/wp-content/uploads/2025/10/assessment-policy-april-2025.docx",
+      "label": "Assessment Policy- April (2025)",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 70.31,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:54:41+0000"
+}

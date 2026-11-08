@@ -1,0 +1,41 @@
+{
+  "roll": "05600C",
+  "method": "official_Wayback_CDX_exact_mutable_notice_URL_after_30min_backoff",
+  "attempted_at": "2026-11-08T12:39:59.883483+00:00",
+  "params": {
+    "url": "https://www.dominicandunlaoghaire.ie/annual-admissions-notice/",
+    "matchType": "exact",
+    "output": "json",
+    "fl": "timestamp,original,mimetype,statuscode,digest",
+    "filter": "statuscode:200",
+    "collapse": "digest",
+    "limit": "200",
+    "showResumeKey": "true"
+  },
+  "earliest_year_cutoff": null,
+  "http_status": 200,
+  "headers": {
+    "Server": "nginx",
+    "Date": "Sun, 08 Nov 2026 12:40:00 GMT",
+    "Content-Type": "application/json",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "server-timing": "exclusion.robots;dur=0.105543, exclusion.robots.policy;dur=0.091659, esindex;dur=0.008807, TR;dur=0,Tw;dur=0,Tc;dur=0, BYPASS",
+    "x-app-server": "wwwb-app23-dc6",
+    "x-ts": "200",
+    "x-tr": "183",
+    "set-cookie": "wb-cdx-nomatch-SERVER=wwwb-app23; path=/",
+    "X-location": "cdx",
+    "X-RL": "0",
+    "X-NA": "0",
+    "X-Page-Cache": "BYPASS",
+    "X-NID": "Cloudflare, Inc.",
+    "Referrer-Policy": "no-referrer-when-downgrade",
+    "Permissions-Policy": "interest-cohort=()",
+    "X-sd": "0",
+    "X-be": "wb_cdx_pygwb_nomatch",
+    "Content-Encoding": "gzip"
+  },
+  "status": "success",
+  "body": "[[\"timestamp\",\"original\",\"mimetype\",\"statuscode\",\"digest\"],\n[\"20201025044051\",\"http://www.dominicandunlaoghaire.ie/annual-admissions-notice/\",\"text/html\",\"200\",\"2FYMLBKYPSTZGI23HOACCJJ6YMVYN5KW\"],\n[\"20201025053849\",\"https://www.dominicandunlaoghaire.ie/annual-admissions-notice/\",\"text/html\",\"200\",\"YE2PK6AZQLS6XZGVRZTMKYGYA7TBOAIP\"],\n[\"20210117023607\",\"http://www.dominicandunlaoghaire.ie/annual-admissions-notice/\",\"text/html\",\"200\",\"L4B74MIHDQ4F47KY36PM5WBORALUXV25\"],\n[\"20210117034744\",\"https://www.dominicandunlaoghaire.ie/annual-admissions-notice/\",\"text/html\",\"200\",\"NW6GGBUHHVS2B5OK6H52LTL5HIS52VH4\"],\n[\"20210412182318\",\"http://www.dominicandunlaoghaire.ie/annual-admissions-notice/\",\"text/html\",\"200\",\"FKV3PVIUGKL7Z6HQJ644U3Q3TRUAU45G\"],\n[\"20210412200420\",\"https://www.dominicandunlaoghaire.ie/annual-admissions-notice/\",\"text/html\",\"200\",\"Z6ODOOFYK7V3NW7RAFB47HF5NHHMKXCQ\"],\n[\"20210624191027\",\"https://www.dominicandunlaoghaire.ie/annual-admissions-notice/\",\"text/html\",\"200\",\"IJMH4JECDH6MLOLMQ5PRPTUJ7QLNZLJC\"],\n[\"20210927184227\",\"http://www.dominicandunlaoghaire.ie/annual-admissions-notice/\",\"text/html\",\"200\",\"WMM2Z5R5PLT5OLRFCGIEARCJVHGOJOV4\"],\n[\"20210927201741\",\"https://www.dominicandunlaoghaire.ie/annual-admissions-notice/\",\"text/html\",\"200\",\"D2FDRGXJG7FPBTWBAWGSVTY3TUQSZLVH\"],\n[\"20220124160746\",\"http://www.dominicandunlaoghaire.ie/annual-admissions-notice/\",\"text/html\",\"200\",\"CERAGM742BZ5LY7H67HPROFMUKUM62U7\"],\n[\"20220124174138\",\"https://www.dominicandunlaoghaire.ie/annual-admissions-notice/\",\"text/html\",\"200\",\"2KRTYL62DWOZHBSOOPBHMAMPDS4OKOAL\"],\n[\"20220628144145\",\"http://www.dominicandunlaoghaire.ie/annual-admissions-notice/\",\"text/html\",\"200\",\"6IX672EKWJCTG5YBSMRCFILXNH3FGOKR\"],\n[\"20220628161008\",\"https://www.dominicandunlaoghaire.ie/annual-admissions-notice/\",\"text/html\",\"200\",\"2ME5PDSAPGDXADTZS43R3UYEGVKAWZL7\"],\n[\"20221002024159\",\"http://www.dominicandunlaoghaire.ie/annual-admissions-notice/\",\"text/html\",\"200\",\"GIUO74TXJUVGNPIQTSLP2B5JEK3Y57LN\"],\n[\"20221210062708\",\"https://www.dominicandunlaoghaire.ie/annual-admissions-notice/\",\"text/html\",\"200\",\"423AEMJFDY56FNJLYJPZSGXWKK3DYJ7H\"],\n[\"20230129082854\",\"http://www.dominicandunlaoghaire.ie/annual-admissions-notice/\",\"text/html\",\"200\",\"6I3VARZG7WXFHGGZ2GX6AE4PAP7LDQOM\"],\n[\"20230607082730\",\"http://www.dominicandunlaoghaire.ie/annual-admissions-notice/\",\"text/html\",\"200\",\"LNFNZ6RCBBN2O6DMFNLTFFFDUR6ZZQPT\"],\n[\"20230607101104\",\"https://www.dominicandunlaoghaire.ie/annual-admissions-notice/\",\"text/html\",\"200\",\"626BP43QOGCVIT6IBTR5EXVIZOBJRSNS\"],\n[\"20230924011958\",\"https://www.dominicandunlaoghaire.ie/annual-admissions-notice/\",\"text/html\",\"200\",\"MZR2MCYOSHJWVF3EMBEJB7BGNKVUVFWP\"],\n[\"20231204085814\",\"http://www.dominicandunlaoghaire.ie/annual-admissions-notice/\",\"text/html\",\"200\",\"WJCL6RLFB33OGKI2W3M5GSZIK55Q5VUS\"],\n[\"20240415064716\",\"https://www.dominicandunlaoghaire.ie/annual-admissions-notice/\",\"text/html\",\"200\",\"GKFKMVHJT6OXSKWDTX4VZWUKECRNRJJV\"],\n[\"20240530023530\",\"http://www.dominicandunlaoghaire.ie/annual-admissions-notice/\",\"text/html\",\"200\",\"4SFAWGTKQ3VQLBMAPNQMRMYGXEO5UZBO\"],\n[\"20240810063631\",\"http://www.dominicandunlaoghaire.ie/annual-admissions-notice/\",\"text/html\",\"200\",\"PKNS3PHBQWKYUSNUCQVROSU2ROVNWFP7\"],\n[\"20240810081309\",\"https://www.dominicandunlaoghaire.ie/annual-admissions-notice/\",\"text/html\",\"200\",\"UY4EI47IRQCJZ4LET3UJW7QIAHWR7Y6T\"],\n[\"20241102012228\",\"http://www.dominicandunlaoghaire.ie/annual-admissions-notice/\",\"text/html\",\"200\",\"O6POLYZLBG5UEZGQMU6JTBM2K5X2FFOW\"],\n[\"20250119140408\",\"https://www.dominicandunlaoghaire.ie/annual-admissions-notice/\",\"text/html\",\"200\",\"UG5DWGI2QX5DJJXKYKDGFVK3TNMFFO6C\"],\n[\"20250213021703\",\"http://www.dominicandunlaoghaire.ie/annual-admissions-notice/\",\"text/html\",\"200\",\"YXKMEX4AGIZGHRPEGDX6PTSJELPZ3S7A\"],\n[\"20250424060742\",\"http://www.dominicandunlaoghaire.ie/annual-admissions-notice/\",\"text/html\",\"200\",\"ASVZV4YS4RMBTIDPAOZJXR6IC5CH5T6Z\"],\n[\"20250424074329\",\"https://www.dominicandunlaoghaire.ie/annual-admissions-notice/\",\"text/html\",\"200\",\"CUUO6WLU2PGAEYZ46CBJDSJQRJ4YL4FU\"],\n[\"20250710192442\",\"http://www.dominicandunlaoghaire.ie/annual-admissions-notice/\",\"text/html\",\"200\",\"EGFZCXG7I26XBVF7SZWUKDZERTHNDXUS\"],\n[\"20250815131646\",\"https://www.dominicandunlaoghaire.ie/annual-admissions-notice/\",\"text/html\",\"200\",\"6IKWP3C556H5FLJU6QJ72LVZNBIG2TZM\"]]\n"
+}

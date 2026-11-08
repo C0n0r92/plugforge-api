@@ -1,0 +1,167 @@
+{
+  "roll": "19535U",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.stcronanssns.ie/enrolment.html",
+      "final_url": "https://www.stcronanssns.ie/enrolment.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Enrolment"
+    },
+    {
+      "url": "https://www.stcronanssns.ie/uploads/2/0/2/2/20227177/fáilte_go_-_cover.doc",
+      "final_url": "https://www.stcronanssns.ie/uploads/2/0/2/2/20227177/fáilte_go_-_cover.doc",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Read more..."
+    },
+    {
+      "url": "https://www.stcronanssns.ie/uploads/2/0/2/2/20227177/accessibility_statement_scoil_chrónáin.pdf",
+      "final_url": "https://www.stcronanssns.ie/uploads/2/0/2/2/20227177/accessibility_statement_scoil_chrónáin.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Website Accessibility Statement"
+    },
+    {
+      "url": "https://www.stcronanssns.ie/uploads/2/0/2/2/20227177/01._admission_policy_2025-2026.docx",
+      "final_url": "https://www.stcronanssns.ie/uploads/2/0/2/2/20227177/01._admission_policy_2025-2026.docx",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://www.stcronanssns.ie/useful-information-for-parents.html",
+      "final_url": "https://www.stcronanssns.ie/useful-information-for-parents.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents"
+    },
+    {
+      "url": "https://www.stcronanssns.ie/sitemap.xml",
+      "final_url": "https://www.stcronanssns.ie/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.stcronanssns.ie/policies.html",
+      "final_url": "https://www.stcronanssns.ie/policies.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.stcronanssns.ie/uploads/2/0/2/2/20227177/scoil_chrónáin_smartphone_and_smartwatch_guidelines.pdf",
+      "final_url": "https://www.stcronanssns.ie/uploads/2/0/2/2/20227177/scoil_chrónáin_smartphone_and_smartwatch_guidelines.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: scoil_chrónáin_smartphone_and_smartwatch_guidelines.pdf"
+    },
+    {
+      "url": "https://www.stcronanssns.ie/uploads/2/0/2/2/20227177/code_of_behaviour_2026-7.docx",
+      "final_url": "https://www.stcronanssns.ie/uploads/2/0/2/2/20227177/code_of_behaviour_2026-7.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: code_of_behaviour_2026-7.docx"
+    },
+    {
+      "url": "https://www.stcronanssns.ie/uploads/2/0/2/2/20227177/child_safeguarding_statement_2024-25.docx",
+      "final_url": "https://www.stcronanssns.ie/uploads/2/0/2/2/20227177/child_safeguarding_statement_2024-25.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: child_safeguarding_statement_2024-25.docx"
+    },
+    {
+      "url": "https://www.stcronanssns.ie/uploads/2/0/2/2/20227177/healthy_lunch_policy_2020.docx",
+      "final_url": "https://www.stcronanssns.ie/uploads/2/0/2/2/20227177/healthy_lunch_policy_2020.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: healthy_lunch_policy_2020.docx"
+    },
+    {
+      "url": "https://www.stcronanssns.ie/parents-information.html",
+      "final_url": "https://www.stcronanssns.ie/parents-information.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parent's Information >"
+    },
+    {
+      "url": "https://www.stcronanssns.ie/parents-association.html",
+      "final_url": "https://www.stcronanssns.ie/parents-association.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parent's Association >"
+    },
+    {
+      "url": "https://www.stcronanssns.ie/parents-association-news.html",
+      "final_url": "https://www.stcronanssns.ie/parents-association-news.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parent's Association News"
+    },
+    {
+      "url": "https://www.stcronanssns.ie",
+      "final_url": "https://www.stcronanssns.ie",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.stcronanssns.ie/uploads/2/0/2/2/20227177/parenting_programmes.docx",
+      "final_url": "https://www.stcronanssns.ie/uploads/2/0/2/2/20227177/parenting_programmes.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Read more ..."
+    },
+    {
+      "url": "https://www.stcronanssns.ie/uploads/2/0/2/2/20227177/leaflet-for-parents-english.pdf",
+      "final_url": "https://www.stcronanssns.ie/uploads/2/0/2/2/20227177/leaflet-for-parents-english.pdf",
+      "status": "http_404",
+      "via": "school_public_link",
+      "label": "Read more..."
+    },
+    {
+      "url": "https://www.stcronanssns.ie/uploads/2/0/2/2/20227177/critical_incident_policy_2026-7.docx",
+      "final_url": "https://www.stcronanssns.ie/uploads/2/0/2/2/20227177/critical_incident_policy_2026-7.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: critical_incident_policy_2026-7.docx"
+    },
+    {
+      "url": "https://www.stcronanssns.ie/uploads/2/0/2/2/20227177/bi_cinealta_policy_sept_26.docx",
+      "final_url": "https://www.stcronanssns.ie/uploads/2/0/2/2/20227177/bi_cinealta_policy_sept_26.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: bi_cinealta_policy_sept_26.docx"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19535U",
+      "url": "https://www.stcronanssns.ie/enrolment.html",
+      "label": "Enrolment",
+      "sha256": "8d016b9727adfb1fb021bafc3291a9fb28a4d8b83ab0a4aa701a24ddeed8bf09",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19535U_8d016b9727adfb1fb021.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 448
+    },
+    {
+      "roll": "19535U",
+      "url": "https://www.stcronanssns.ie/uploads/2/0/2/2/20227177/01._admission_policy_2025-2026.docx",
+      "label": "Prior school admissions section",
+      "sha256": "3f552fd2b7b3faad37a6ad9b9295cae9149f5d3fa697a2b766c305adb82077d1",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/19535U_3f552fd2b7b3faad37a6.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 23753
+    }
+  ],
+  "pending_links": [],
+  "elapsed_seconds": 55.16,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:55:59+0000"
+}

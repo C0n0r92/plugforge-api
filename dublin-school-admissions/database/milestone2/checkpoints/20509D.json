@@ -1,0 +1,647 @@
+{
+  "roll": "20509D",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.luskjns.ie/admissions/?googletranslate=true",
+      "final_url": "https://www.luskjns.ie/admissions/?googletranslate=true",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "https://www.luskjns.ie/documentlink/228/?open=true",
+      "final_url": "https://view.officeapps.live.com/op/embed.aspx?src=https://swddoc.b-cdn.net/654/docletter/20260925114736_74_Admissions_Notice_for_Lusk_JNS_SEN_Class_20262027.docx",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Admissions Notice for Lusk JNS SEN Class 20262027.docx"
+    },
+    {
+      "url": "https://www.luskjns.ie/documentlink/231/?open=true",
+      "final_url": "https://view.officeapps.live.com/op/embed.aspx?src=https://swddoc.b-cdn.net/654/docletter/20261019121619_20_Annual_Admissions_Notice_2027-2028.docx",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Annual Admissions Notice Junior Infants Mainstream 2027-2028.docx"
+    },
+    {
+      "url": "https://www.databizsolutions.ie/Application",
+      "final_url": "https://www.databizsolutions.ie/Application",
+      "status": "robots_permission_unestablished_http_200",
+      "via": "school_public_link",
+      "label": "Pre-enrolment form for Junior Infant class 2027/2028"
+    },
+    {
+      "url": "https://www.luskjns.ie/documentlink/125/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/654/docletter/20230109120904_58_Pre-enrolment_form_S.I_-_2nd_class.docx.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Pre-enrolment form for Senior Infants to 2nd class"
+    },
+    {
+      "url": "https://www.luskjns.ie/admissions/",
+      "final_url": "https://www.luskjns.ie/admissions/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions iontrálacha"
+    },
+    {
+      "url": "https://www.luskjns.ie/admin/?open=/admissions/?googletranslate=true",
+      "final_url": "https://www.luskjns.ie/admin/?open=/admissions/?googletranslate=true",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.luskjns.ie/admin/?open=/admissions/",
+      "final_url": "https://www.luskjns.ie/admin/?open=/admissions/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.luskjns.ie/sitemap.xml",
+      "final_url": "https://www.luskjns.ie/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.luskjns.ie/policies/",
+      "final_url": "https://www.luskjns.ie/policies/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies Polasaithe"
+    },
+    {
+      "url": "https://www.luskjns.ie/documentlink/236/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/654/docletter/20261106025022_41_Lusk_JNS_Notification_Regarding_the_Board_of_Management_s_Annual_Review_of_the_B_Cine_lta_Policy_2026.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Lusk JNS Notification Regarding the Board of Management's Annual Review of the Bí Cineálta Policy 2026.pdf"
+    },
+    {
+      "url": "https://www.luskjns.ie/documentlink/219/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/654/docletter/20260616100926_20_Lusk_JNS_Admissions_to_School_Policy_2026.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Lusk JNS Admissions to School Policy 2026.pdf"
+    },
+    {
+      "url": "https://www.luskjns.ie/policies/?googletranslate=true",
+      "final_url": "https://www.luskjns.ie/policies/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.luskjns.ie/parents/useful-links/",
+      "final_url": "https://www.luskjns.ie/parents/useful-links/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Useful Links"
+    },
+    {
+      "url": "https://www.luskjns.ie/parents/useful-links/?googletranslate=true",
+      "final_url": "https://www.luskjns.ie/parents/useful-links/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.luskjns.ie/parents/school-self-evaluation/",
+      "final_url": "https://www.luskjns.ie/parents/school-self-evaluation/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Self Evaluation"
+    },
+    {
+      "url": "https://www.luskjns.ie/parents/school-self-evaluation/?googletranslate=true",
+      "final_url": "https://www.luskjns.ie/parents/school-self-evaluation/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.luskjns.ie/parents/ms-ciaras-faqs/",
+      "final_url": "https://www.luskjns.ie/parents/ms-ciaras-faqs/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Ms Ciara's FAQs"
+    },
+    {
+      "url": "https://www.luskjns.ie/parents/ms-ciaras-faqs/?googletranslate=true",
+      "final_url": "https://www.luskjns.ie/parents/ms-ciaras-faqs/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.luskjns.ie/parents/latest-information/",
+      "final_url": "https://www.luskjns.ie/parents/latest-information/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Latest Information"
+    },
+    {
+      "url": "https://www.luskjns.ie/parents/latest-information/?googletranslate=true",
+      "final_url": "https://www.luskjns.ie/parents/latest-information/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.luskjns.ie/parents/calendar/",
+      "final_url": "https://www.luskjns.ie/parents/calendar/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Calendar"
+    },
+    {
+      "url": "https://www.luskjns.ie/parents/calendar/?googletranslate=true",
+      "final_url": "https://www.luskjns.ie/parents/calendar/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.luskjns.ie/parents/booklists/",
+      "final_url": "https://www.luskjns.ie/parents/booklists/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Booklists"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "20509D",
+      "url": "https://www.luskjns.ie/admissions/?googletranslate=true",
+      "label": "",
+      "sha256": "8048be86e11c4727553628a21351551e3299f414bcd774f009b1ab1a00aec9c6",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20509D_8048be86e11c47275536.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 906
+    },
+    {
+      "roll": "20509D",
+      "url": "https://www.luskjns.ie/admissions/",
+      "label": "Admissions iontrálacha",
+      "sha256": "65c34c8215a955ebbed53d5df48f320ea7c7e19964b8326e0b52fc0cf8bc31de",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20509D_65c34c8215a955ebbed5.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 906
+    },
+    {
+      "roll": "20509D",
+      "url": "https://www.luskjns.ie/parents/ms-ciaras-faqs/",
+      "label": "Ms Ciara's FAQs",
+      "sha256": "eb569328897413bec54ac97d363d045d616f28fda372abe0aedd3dd8dc0ac1d8",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20509D_eb569328897413bec54a.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 4393
+    },
+    {
+      "roll": "20509D",
+      "url": "https://www.luskjns.ie/parents/ms-ciaras-faqs/?googletranslate=true",
+      "label": "",
+      "sha256": "f0b185654cb1a72aa53f97f10e0eaa7333da1cca500e2f65073a6ef6365cd479",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20509D_f0b185654cb1a72aa53f.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 4393
+    },
+    {
+      "roll": "20509D",
+      "url": "https://www.luskjns.ie/parents/latest-information/",
+      "label": "Latest Information",
+      "sha256": "d64ab671af4063b0b13d2b1eeb4b9487c72a3e77dad20461d9e9f2c06f1e0cdf",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20509D_d64ab671af4063b0b13d.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 762
+    },
+    {
+      "roll": "20509D",
+      "url": "https://www.luskjns.ie/parents/latest-information/?googletranslate=true",
+      "label": "",
+      "sha256": "204f52c8220e66f92126e1d7bf061dae11997a7d7c0fc721324d944e0c8a77d3",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20509D_204f52c8220e66f92126.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 762
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.luskjns.ie/letterlink/16/?open=true",
+      "label": "Book payment scheme letter to parents June 2023",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.luskjns.ie/parents/booklists/?googletranslate=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.luskjns.ie/parents/",
+      "label": "Parents Tuismitheoirí",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.luskjns.ie/letterlink/16/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.luskjns.ie/documentlink/99/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.luskjns.ie/documentlink/94/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.luskjns.ie/documentlink/88/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.luskjns.ie/documentlink/86/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.luskjns.ie/documentlink/83/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.luskjns.ie/documentlink/81/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.luskjns.ie/documentlink/60/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.luskjns.ie/documentlink/60/?open=true",
+      "label": "Parent signup to DataBiz 1",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.luskjns.ie/documentlink/59/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.luskjns.ie/documentlink/237/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.luskjns.ie/documentlink/236/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.luskjns.ie/documentlink/233/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.luskjns.ie/documentlink/232/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.luskjns.ie/documentlink/231/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.luskjns.ie/documentlink/229/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.luskjns.ie/documentlink/228/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.luskjns.ie/documentlink/224/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.luskjns.ie/documentlink/224/?open=true",
+      "label": "Communication with parents and guardians in regard to the have your say survey.docx",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.luskjns.ie/documentlink/223/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.luskjns.ie/documentlink/221/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.luskjns.ie/documentlink/221/?open=true",
+      "label": "Lusk JNS Admissions to School Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.luskjns.ie/documentlink/219/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.luskjns.ie/documentlink/218/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.luskjns.ie/documentlink/215/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.luskjns.ie/documentlink/204/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.luskjns.ie/documentlink/203/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.luskjns.ie/documentlink/201/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.luskjns.ie/documentlink/201/?open=true",
+      "label": "NPMC Parents information.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.luskjns.ie/documentlink/193/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.luskjns.ie/documentlink/186/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.luskjns.ie/documentlink/171/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.luskjns.ie/documentlink/170/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.luskjns.ie/documentlink/167/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.luskjns.ie/documentlink/163/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.luskjns.ie/documentlink/162/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.luskjns.ie/documentlink/162/?open=true",
+      "label": "Lusk JNS Mobile Phone and Smart Devices' Parental Form.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.luskjns.ie/documentlink/158/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.luskjns.ie/documentlink/157/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.luskjns.ie/documentlink/156/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.luskjns.ie/documentlink/154/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.luskjns.ie/documentlink/144/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.luskjns.ie/documentlink/132/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.luskjns.ie/documentlink/131/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.luskjns.ie/documentlink/125/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.luskjns.ie/documentlink/107/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.luskjns.ie/documentlink/106/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.luskjns.ie/documentlink/105/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.luskjns.ie/admin/?open=/policies/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.luskjns.ie/admin/?open=/policies/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.luskjns.ie/admin/?open=/parents/useful-links/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.luskjns.ie/admin/?open=/parents/useful-links/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.luskjns.ie/admin/?open=/parents/school-self-evaluation/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.luskjns.ie/admin/?open=/parents/school-self-evaluation/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.luskjns.ie/admin/?open=/parents/ms-ciaras-faqs/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.luskjns.ie/admin/?open=/parents/ms-ciaras-faqs/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.luskjns.ie/admin/?open=/parents/latest-information/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.luskjns.ie/admin/?open=/parents/latest-information/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.luskjns.ie/admin/?open=/parents/calendar/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.luskjns.ie/admin/?open=/parents/calendar/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.luskjns.ie/admin/?open=/parents/booklists/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.luskjns.ie",
+      "label": "School homepage",
+      "via": "home"
+    },
+    {
+      "url": "https://www.luskjns.ie/documentlink/237/?open=true",
+      "label": "Bí Cineálta Policy 20262027.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.luskjns.ie/documentlink/94/?open=true",
+      "label": "Lusk JNS Healthy Eating Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.luskjns.ie/documentlink/88/?open=true",
+      "label": "Lusk JNS Acceptable Use Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.luskjns.ie/documentlink/86/?open=true",
+      "label": "Lusk JNS Management of Nut Allergy Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.luskjns.ie/documentlink/83/?open=true",
+      "label": "Lusk JNS Custody and Separation Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.luskjns.ie/documentlink/81/?open=true",
+      "label": "Lusk JNS Child Protection Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.luskjns.ie/documentlink/218/?open=true",
+      "label": "Lusk JNS Class Reconfiguration Policy.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.luskjns.ie/documentlink/203/?open=true",
+      "label": "Bí Cineálta Pupil Friendly Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.luskjns.ie/documentlink/158/?open=true",
+      "label": "Lusk JNS Special Educational Teaching Policy.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.luskjns.ie/documentlink/157/?open=true",
+      "label": "Lusk JNS Assessment and Report Writing Policy.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.luskjns.ie/documentlink/156/?open=true",
+      "label": "Lusk JNS Parent School Communication Policy.pdf",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.luskjns.ie/documentlink/107/?open=true",
+      "label": "Lusk JNS Health and Safety Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.luskjns.ie/documentlink/106/?open=true",
+      "label": "Lusk JNS Critical Incident Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.luskjns.ie/cmsfiles/policies/privacy/",
+      "label": "Website Privacy Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.luskjns.ie/cmsfiles/policies/cookie/",
+      "label": "Cookie Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 65.56,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:12:50+0000"
+}

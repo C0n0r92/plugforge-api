@@ -1,0 +1,177 @@
+{
+  "roll": "19242F",
+  "original_url": "http://www.olvinfants.com/annual-admissions-notice.html",
+  "method": "documented_CDX_exact_URL_all_available_dates",
+  "attempted_at": "2026-11-08T12:55:24.893341+00:00",
+  "params": {
+    "url": "http://www.olvinfants.com/annual-admissions-notice.html",
+    "matchType": "exact",
+    "output": "json",
+    "fl": "timestamp,original,mimetype,statuscode,digest",
+    "filter": "statuscode:200",
+    "collapse": "digest",
+    "limit": "200",
+    "showResumeKey": "true"
+  },
+  "earliest_year_cutoff": null,
+  "captures": [
+    {
+      "timestamp": "20201022002127",
+      "original": "https://www.olvinfants.com/annual-admissions-notice.html",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "J2QC2LSJ4X3SATE2ULHDQC3QMNJZD34Y"
+    },
+    {
+      "timestamp": "20210125034254",
+      "original": "https://www.olvinfants.com/annual-admissions-notice.html",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "BWB6MJI2O3AKALYEONOFK6FFWBCYFPML"
+    },
+    {
+      "timestamp": "20210516023359",
+      "original": "https://www.olvinfants.com/annual-admissions-notice.html",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "537XXI4EFSNJCREYIJQZNXFY2X7SJVDG"
+    },
+    {
+      "timestamp": "20210729021938",
+      "original": "https://www.olvinfants.com/annual-admissions-notice.html",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "JDTLCR7CKYSI73VIWIJB3I5EJZOZYVRS"
+    },
+    {
+      "timestamp": "20210923112925",
+      "original": "https://www.olvinfants.com/annual-admissions-notice.html",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "OIUFSHOLO7LBU2BTOF7ETOZVD2GASBN4"
+    },
+    {
+      "timestamp": "20220117070155",
+      "original": "https://www.olvinfants.com/annual-admissions-notice.html",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "IBZLSYN73F343TRMSCIZDUP6PQ56GIEL"
+    },
+    {
+      "timestamp": "20220705092337",
+      "original": "https://www.olvinfants.com/annual-admissions-notice.html",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "2RTW2KNSKAHPL2OAAA5COFPLCVNIMPPO"
+    },
+    {
+      "timestamp": "20220929203032",
+      "original": "http://www.olvinfants.com/annual-admissions-notice.html",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "HZ6WT6YWYZHJ3CD535QQGIWIULYKN3Z4"
+    },
+    {
+      "timestamp": "20230201153256",
+      "original": "http://www.olvinfants.com/annual-admissions-notice.html",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "Q32672V6MKCA7DYMV6PH3F7DSTAF4I5W"
+    },
+    {
+      "timestamp": "20230320123654",
+      "original": "http://www.olvinfants.com/annual-admissions-notice.html",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "6PFNTMW33U5VW6VEVGK4HYCG3B6WQDHD"
+    },
+    {
+      "timestamp": "20231202051642",
+      "original": "https://www.olvinfants.com/annual-admissions-notice.html",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "NNBSX4S3ZDG5BZSTEXUSDZIBCBZVCPT7"
+    },
+    {
+      "timestamp": "20240303090500",
+      "original": "https://www.olvinfants.com/annual-admissions-notice.html",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "3LSTMNOEC5GH3EHDUTXBWDFHPLNP4XUB"
+    },
+    {
+      "timestamp": "20240620152057",
+      "original": "https://www.olvinfants.com/annual-admissions-notice.html",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "3A22JECDKVIWV3DYIEH3F7XF5GAZDCZI"
+    },
+    {
+      "timestamp": "20240912221011",
+      "original": "https://www.olvinfants.com/annual-admissions-notice.html",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "KEW5TNGPEODFTSDKU55CELXI3QWFCUYV"
+    },
+    {
+      "timestamp": "20241205063714",
+      "original": "https://www.olvinfants.com/annual-admissions-notice.html",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "YRUVDOS52BRBXX3SN72V4AZC3NIMNWE5"
+    },
+    {
+      "timestamp": "20250322022818",
+      "original": "https://www.olvinfants.com/annual-admissions-notice.html",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "7QOFMWKDE6UF5OR5CQHVMAWEZAC5HQMD"
+    },
+    {
+      "timestamp": "20250710041438",
+      "original": "https://www.olvinfants.com/annual-admissions-notice.html",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "D3RBNH3INBXICLTUZRUL3UMFIAJLRQKM"
+    },
+    {
+      "timestamp": "20251016123805",
+      "original": "https://www.olvinfants.com/annual-admissions-notice.html",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "UVIJC6H7DPQZRBE4SYEVYIMKFTQGXIIB"
+    },
+    {
+      "timestamp": "20260123170611",
+      "original": "https://www.olvinfants.com/annual-admissions-notice.html",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "WBVOI6C5XGXAVHIV6W5ZFXGVWGA6UATO"
+    },
+    {
+      "timestamp": "20260611162524",
+      "original": "https://www.olvinfants.com/annual-admissions-notice.html",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "B34BLGTXEKMSJEYWUER5N6FZTWIVKN7J"
+    }
+  ],
+  "pages": [
+    {
+      "at": "2026-11-08T12:55:29.413235+00:00",
+      "http_status": 200,
+      "params": {
+        "url": "http://www.olvinfants.com/annual-admissions-notice.html",
+        "matchType": "exact",
+        "output": "json",
+        "fl": "timestamp,original,mimetype,statuscode,digest",
+        "filter": "statuscode:200",
+        "collapse": "digest",
+        "limit": "200",
+        "showResumeKey": "true"
+      }
+    }
+  ],
+  "status": "index_complete",
+  "capture_count": 20
+}

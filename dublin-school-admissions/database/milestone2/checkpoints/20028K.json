@@ -1,0 +1,122 @@
+{
+  "roll": "20028K",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.setantaschool.ie/admissions",
+      "final_url": "https://www.setantaschool.ie/admissions",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "ADMISSIONS"
+    },
+    {
+      "url": "https://www.setantaschool.ie/_files/ugd/f18db9_03a036b712004326815fd6c92d3e02d4.pdf",
+      "final_url": "https://www.setantaschool.ie/_files/ugd/f18db9_03a036b712004326815fd6c92d3e02d4.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Application Form 2027-2028"
+    },
+    {
+      "url": "https://www.setantaschool.ie/sitemap.xml",
+      "final_url": "https://www.setantaschool.ie/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.setantaschool.ie/school-policies",
+      "final_url": "https://www.setantaschool.ie/school-policies",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "SCHOOL POLICIES"
+    },
+    {
+      "url": "https://www.setantaschool.ie/_files/ugd/f18db9_a70fc04f9c6e45ada6e9035a9c0fc515.pdf",
+      "final_url": "https://www.setantaschool.ie/_files/ugd/f18db9_a70fc04f9c6e45ada6e9035a9c0fc515.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Setanta School Admissions Policy 2020"
+    },
+    {
+      "url": "https://www.setantaschool.ie/",
+      "final_url": "https://www.setantaschool.ie/",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.setantaschool.ie/_files/ugd/f18db9_3ac0f5c86c9d499cb61eaff1cb13a334.pdf",
+      "final_url": "https://www.setantaschool.ie/_files/ugd/f18db9_3ac0f5c86c9d499cb61eaff1cb13a334.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Setanta School Acceptable Use Policy 2023"
+    },
+    {
+      "url": "https://www.setantaschool.ie/_files/ugd/f18db9_9b8091f397364074a81dcec85a269798.pdf",
+      "final_url": "https://www.setantaschool.ie/_files/ugd/f18db9_9b8091f397364074a81dcec85a269798.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Setanta School Illness and Medical Policy 2024"
+    },
+    {
+      "url": "https://www.setantaschool.ie/_files/ugd/f18db9_7631130b0790449eac00e3517338e827.pdf",
+      "final_url": "https://www.setantaschool.ie/_files/ugd/f18db9_7631130b0790449eac00e3517338e827.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Setanta School Child Protection Policy 2024"
+    },
+    {
+      "url": "https://www.setantaschool.ie/_files/ugd/f18db9_c174a1bb67094e01842543d0604daeda.pdf",
+      "final_url": "https://www.setantaschool.ie/_files/ugd/f18db9_c174a1bb67094e01842543d0604daeda.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Setanta School Anti Bullying Policy"
+    },
+    {
+      "url": "https://www.setantaschool.ie/_files/ugd/f18db9_61f12782728f4cde94a3a0adac7f18ef.pdf",
+      "final_url": "https://www.setantaschool.ie/_files/ugd/f18db9_61f12782728f4cde94a3a0adac7f18ef.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Setanta School Working Together Policy - Staff Relations"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "20028K",
+      "url": "https://www.setantaschool.ie/admissions",
+      "label": "ADMISSIONS",
+      "sha256": "e57d5e82f16263891e2df6e2d01366ac0b5e6861d426756f3a03f0a410979976",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20028K_e57d5e82f16263891e2d.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 783
+    },
+    {
+      "roll": "20028K",
+      "url": "https://www.setantaschool.ie/school-policies",
+      "label": "SCHOOL POLICIES",
+      "sha256": "baf4101aee64689155a700f9fb39eb386fc28a4092cf8cc21f944d4c45dd1216",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20028K_baf4101aee64689155a7.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 481
+    },
+    {
+      "roll": "20028K",
+      "url": "https://www.setantaschool.ie/_files/ugd/f18db9_a70fc04f9c6e45ada6e9035a9c0fc515.pdf",
+      "label": "Setanta School Admissions Policy 2020",
+      "sha256": "092d14c55bfae9653f48de94dbb18aa05399c8d228eb43297f05d3466d4e9e7e",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20028K_092d14c55bfae9653f48.txt",
+      "source_file": "database/milestone2/cache/092d14c55bfae9653f48de94dbb18aa05399c8d228eb43297f05d3466d4e9e7e.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 52189
+    }
+  ],
+  "pending_links": [],
+  "elapsed_seconds": 29.86,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:57:52+0000"
+}

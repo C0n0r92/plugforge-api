@@ -1,0 +1,60 @@
+{
+  "roll": "19618B",
+  "status": "bounded_search_no_new_notice_found",
+  "attempts": [
+    {
+      "url": "https://www.stpaulsnsayrfield.ie",
+      "final_url": "https://www.stpaulsnsayrfield.ie",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.stpaulsnsayrfield.ie/media/downloads/Privacy Statement_NoContactForm.pdf",
+      "final_url": "https://www.stpaulsnsayrfield.ie/media/downloads/Privacy Statement_NoContactForm.pdf",
+      "status": "http_404",
+      "via": "school_public_link",
+      "label": "Privacy Statement"
+    },
+    {
+      "url": "https://www.stpaulsnsayrfield.ie/sitemap.xml",
+      "final_url": "https://www.stpaulsnsayrfield.ie/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.stpaulsnsayrfield.ie/pages/downloads.php",
+      "final_url": "https://www.stpaulsnsayrfield.ie/pages/downloads.php",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Downloads"
+    },
+    {
+      "url": "https://www.stpaulsnsayrfield.ie/pages/downloads.php?cookiereset",
+      "final_url": "https://www.stpaulsnsayrfield.ie/pages/downloads.php",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Reset Cookie Permissions"
+    },
+    {
+      "url": "https://www.stpaulsnsayrfield.ie/pages/cookiepolicy.php",
+      "final_url": "https://www.stpaulsnsayrfield.ie/pages/cookiepolicy.php",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "please click here."
+    },
+    {
+      "url": "https://www.stpaulsnsayrfield.ie/pages/cookiepolicy.php?cookiereset",
+      "final_url": "https://www.stpaulsnsayrfield.ie/pages/cookiepolicy.php",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Reset Cookie Permissions"
+    }
+  ],
+  "documents": [],
+  "pending_links": [],
+  "elapsed_seconds": 21.95,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:07:32+0000"
+}

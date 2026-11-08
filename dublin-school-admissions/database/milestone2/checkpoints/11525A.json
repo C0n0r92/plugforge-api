@@ -1,0 +1,506 @@
+{
+  "roll": "11525A",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://saintpats.ie/wp-content/uploads/2020/09/Admission-Policy-of-Patricks-BNS-Sept-2020-1.docx",
+      "final_url": "https://saintpats.ie/wp-content/uploads/2020/09/Admission-Policy-of-Patricks-BNS-Sept-2020-1.docx",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://saintpats.ie/admissions/",
+      "final_url": "https://saintpats.ie/admissions/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://saintpats.ie/wp-content/uploads/2020/06/primary-_sser-for-community_legislative_checklist-complete-25th-june-2014.pdf",
+      "final_url": "https://saintpats.ie/wp-content/uploads/2020/06/primary-_sser-for-community_legislative_checklist-complete-25th-june-2014.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "SSE Report"
+    },
+    {
+      "url": "https://saintpats.ie/wp-content/uploads/2020/06/intimate-care-october-2019.pdf",
+      "final_url": "https://saintpats.ie/wp-content/uploads/2020/06/intimate-care-october-2019.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Intimate Care"
+    },
+    {
+      "url": "https://saintpats.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://saintpats.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://saintpats.ie/wp-content/uploads/2020/09/intro-for-website.pdf",
+      "final_url": "https://saintpats.ie/wp-content/uploads/2020/09/intro-for-website.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Introduction"
+    },
+    {
+      "url": "https://saintpats.ie/wp-content/uploads/2020/12/December-Updated-Admissions-Policy.pdf",
+      "final_url": "https://saintpats.ie/wp-content/uploads/2020/12/December-Updated-Admissions-Policy.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "December Updated Admissions Policy"
+    },
+    {
+      "url": "https://saintpats.ie/wp-content/uploads/2020/11/f-Admission-Policy-of-Patricks-BNS-2nd-Nov-2020-2.pdf",
+      "final_url": "https://saintpats.ie/wp-content/uploads/2020/11/f-Admission-Policy-of-Patricks-BNS-2nd-Nov-2020-2.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "f Admission Policy of Patrick&#8217;s BNS 2nd Nov 2020 (2)"
+    },
+    {
+      "url": "https://saintpats.ie/wp-content/uploads/2020/09/Approved-Admission-Policy-of-St-Patricks-BNS-Sept-2020-.docx.pdf",
+      "final_url": "https://saintpats.ie/wp-content/uploads/2020/09/Approved-Admission-Policy-of-St-Patricks-BNS-Sept-2020-.docx.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Approved Admission Policy of St Patrick&#8217;s BNS Sept 2020 .docx"
+    },
+    {
+      "url": "https://saintpats.ie/wp-content/uploads/2020/09/Admission-Policy-of-Patricks-BNS-Sept-2020-1.pdf",
+      "final_url": "https://saintpats.ie/wp-content/uploads/2020/09/Admission-Policy-of-Patricks-BNS-Sept-2020-1.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "_Admission Policy of Patricks BNS Sept 2020 (1)"
+    },
+    {
+      "url": "https://saintpats.ie/wp-content/uploads/2020/06/ssld-class-enrolment-and-admissions-policy-oct191.pdf",
+      "final_url": "https://saintpats.ie/wp-content/uploads/2020/06/ssld-class-enrolment-and-admissions-policy-oct191.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "ssld class enrolment and admissions policy oct19(1)"
+    },
+    {
+      "url": "https://saintpats.ie/wp-content/uploads/2020/06/ssld-class-enrolment-and-admissions-policy-oct19.pdf",
+      "final_url": "https://saintpats.ie/wp-content/uploads/2020/06/ssld-class-enrolment-and-admissions-policy-oct19.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "ssld class enrolment and admissions policy oct19"
+    },
+    {
+      "url": "https://saintpats.ie/wp-content/uploads/2020/06/enrolment_and_admission_policy.docx",
+      "final_url": "https://saintpats.ie/wp-content/uploads/2020/06/enrolment_and_admission_policy.docx",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "ENROLMENT_AND_ADMISSION_POLICY"
+    },
+    {
+      "url": "https://saintpats.ie/wp-content/uploads/2021/11/Admission-Policy-221121.pdf",
+      "final_url": "https://saintpats.ie/wp-content/uploads/2021/11/Admission-Policy-221121.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admission Policy 22:11:21"
+    },
+    {
+      "url": "https://saintpats.ie/wp-content/uploads/2021/09/Admission-Policy-of-Patricks-BNS-for-Sept-2022-2.docx.pdf",
+      "final_url": "https://saintpats.ie/wp-content/uploads/2021/09/Admission-Policy-of-Patricks-BNS-for-Sept-2022-2.docx.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admission Policy of Patrick&#8217;s BNS for Sept 2022 (2).docx"
+    },
+    {
+      "url": "https://saintpats.ie/wp-content/uploads/2022/09/2022_-Admission-Policy-for-Sept-2023-incl-SSLD-class.pdf",
+      "final_url": "https://saintpats.ie/wp-content/uploads/2022/09/2022_-Admission-Policy-for-Sept-2023-incl-SSLD-class.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "2022_ Admission Policy for Sept 2023 (incl SSLD class)"
+    },
+    {
+      "url": "https://saintpats.ie/wp-content/uploads/2023/11/For-Sept-2024-___Admission-Policy-Sept-2023-signed-by-AL-1.pdf",
+      "final_url": "https://saintpats.ie/wp-content/uploads/2023/11/For-Sept-2024-___Admission-Policy-Sept-2023-signed-by-AL-1.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "For Sept 2024 ___Admission Policy Sept 2023 signed by AL (1)"
+    },
+    {
+      "url": "https://saintpats.ie/wp-content/uploads/2023/09/application-form-admissions-1.pdf",
+      "final_url": "https://saintpats.ie/wp-content/uploads/2023/09/application-form-admissions-1.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "application form admissions (1)"
+    },
+    {
+      "url": "https://saintpats.ie/wp-content/uploads/2023/09/For-Sept-2024-___Admission-Policy-Sept-2023-signed-by-AL.docx-1.pdf",
+      "final_url": "https://saintpats.ie/wp-content/uploads/2023/09/For-Sept-2024-___Admission-Policy-Sept-2023-signed-by-AL.docx-1.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "For Sept 2024 ___Admission Policy Sept 2023 signed by AL.docx (1)"
+    },
+    {
+      "url": "https://saintpats.ie/wp-content/uploads/2023/01/admissions-policy-Jan-2023-amended-.docx-1.pdf",
+      "final_url": "https://saintpats.ie/wp-content/uploads/2023/01/admissions-policy-Jan-2023-amended-.docx-1.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Policy Jan 2023 amended .docx (1)"
+    },
+    {
+      "url": "https://saintpats.ie/wp-content/uploads/2024/11/Admission-Policy-2024-for-Sept-2025-.docx-6.pdf",
+      "final_url": "https://saintpats.ie/wp-content/uploads/2024/11/Admission-Policy-2024-for-Sept-2025-.docx-6.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admission Policy 2024 (for Sept 2025) .docx (6)"
+    },
+    {
+      "url": "https://saintpats.ie/wp-content/uploads/2024/09/Admission-Policy-2024-for-Sept-2025-.docx-2.pdf",
+      "final_url": "https://saintpats.ie/wp-content/uploads/2024/09/Admission-Policy-2024-for-Sept-2025-.docx-2.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admission Policy 2024 (for Sept 2025) .docx (2)"
+    },
+    {
+      "url": "https://saintpats.ie/wp-content/uploads/2025/09/Admission-Policy-for-2026_2027-school-year.docx.pdf",
+      "final_url": "https://saintpats.ie/wp-content/uploads/2025/09/Admission-Policy-for-2026_2027-school-year.docx.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admission Policy for 2026_2027 school year.docx"
+    },
+    {
+      "url": "https://saintpats.ie/wp-content/uploads/2026/10/Application-Form-for-Enrolment-2026_2027-.docx-1.pdf",
+      "final_url": "https://saintpats.ie/wp-content/uploads/2026/10/Application-Form-for-Enrolment-2026_2027-.docx-1.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "downloading, completing and returning an application form"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "11525A",
+      "url": "https://saintpats.ie/wp-content/uploads/2020/09/Admission-Policy-of-Patricks-BNS-Sept-2020-1.docx",
+      "label": "Prior school admissions section",
+      "sha256": "807507e2f6ead6d8f6dcf1aec6a4e07548aab814cd6d485bb09d0d1397955280",
+      "format": "docx",
+      "text_file": "database/milestone2/evidence/11525A_807507e2f6ead6d8f6dc.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 55417
+    },
+    {
+      "roll": "11525A",
+      "url": "https://saintpats.ie/wp-content/uploads/2020/09/intro-for-website.pdf",
+      "label": "Admissions Introduction",
+      "sha256": "a72f420de4d8e7ced29c574cd1bc8806233c9232e0c4279500e9d4b659d5b85e",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/11525A_a72f420de4d8e7ced29c.txt",
+      "source_file": "database/milestone2/cache/a72f420de4d8e7ced29c574cd1bc8806233c9232e0c4279500e9d4b659d5b85e.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1193
+    },
+    {
+      "roll": "11525A",
+      "url": "https://saintpats.ie/wp-content/uploads/2020/12/December-Updated-Admissions-Policy.pdf",
+      "label": "December Updated Admissions Policy",
+      "sha256": "f657212c2b7501f47d63c8f3a3ffd4bc6196fa43cd80771e0d3a484b608de635",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/11525A_f657212c2b7501f47d63.txt",
+      "source_file": "database/milestone2/cache/f657212c2b7501f47d63c8f3a3ffd4bc6196fa43cd80771e0d3a484b608de635.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 63652
+    },
+    {
+      "roll": "11525A",
+      "url": "https://saintpats.ie/wp-content/uploads/2020/11/f-Admission-Policy-of-Patricks-BNS-2nd-Nov-2020-2.pdf",
+      "label": "f Admission Policy of Patrick&#8217;s BNS 2nd Nov 2020 (2)",
+      "sha256": "975a9ca4fa6842214cc093383a9cba11a108e442817714f0004a1067c3081fde",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/11525A_975a9ca4fa6842214cc0.txt",
+      "source_file": "database/milestone2/cache/975a9ca4fa6842214cc093383a9cba11a108e442817714f0004a1067c3081fde.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 63068
+    },
+    {
+      "roll": "11525A",
+      "url": "https://saintpats.ie/wp-content/uploads/2020/09/Approved-Admission-Policy-of-St-Patricks-BNS-Sept-2020-.docx.pdf",
+      "label": "Approved Admission Policy of St Patrick&#8217;s BNS Sept 2020 .docx",
+      "sha256": "4d6b607ef4acc26155981950961070045c0c3f86229fa157f58914097e0d8dfb",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/11525A_4d6b607ef4acc2615598.txt",
+      "source_file": "database/milestone2/cache/4d6b607ef4acc26155981950961070045c0c3f86229fa157f58914097e0d8dfb.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 61179
+    },
+    {
+      "roll": "11525A",
+      "url": "https://saintpats.ie/wp-content/uploads/2020/09/Admission-Policy-of-Patricks-BNS-Sept-2020-1.pdf",
+      "label": "_Admission Policy of Patricks BNS Sept 2020 (1)",
+      "sha256": "ce4acbd35fa52f5396f8f0a31e549bfb9bd900fb856ee573c875aa08962574bd",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/11525A_ce4acbd35fa52f5396f8.txt",
+      "source_file": "database/milestone2/cache/ce4acbd35fa52f5396f8f0a31e549bfb9bd900fb856ee573c875aa08962574bd.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 60982
+    },
+    {
+      "roll": "11525A",
+      "url": "https://saintpats.ie/wp-content/uploads/2021/11/Admission-Policy-221121.pdf",
+      "label": "Admission Policy 22:11:21",
+      "sha256": "8fdd8fdf8a007b43b0887c54c53edcad2833bd56365cd27512e58b0f7f6e4115",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/11525A_8fdd8fdf8a007b43b088.txt",
+      "source_file": "database/milestone2/cache/8fdd8fdf8a007b43b0887c54c53edcad2833bd56365cd27512e58b0f7f6e4115.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 62883
+    },
+    {
+      "roll": "11525A",
+      "url": "https://saintpats.ie/wp-content/uploads/2021/09/Admission-Policy-of-Patricks-BNS-for-Sept-2022-2.docx.pdf",
+      "label": "Admission Policy of Patrick&#8217;s BNS for Sept 2022 (2).docx",
+      "sha256": "ca7ca1e765708aaa253d9a0821639f7e650791ae4a5aaf715bafde5dd1eca6b0",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/11525A_ca7ca1e765708aaa253d.txt",
+      "source_file": "database/milestone2/cache/ca7ca1e765708aaa253d9a0821639f7e650791ae4a5aaf715bafde5dd1eca6b0.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 62993
+    },
+    {
+      "roll": "11525A",
+      "url": "https://saintpats.ie/wp-content/uploads/2022/09/2022_-Admission-Policy-for-Sept-2023-incl-SSLD-class.pdf",
+      "label": "2022_ Admission Policy for Sept 2023 (incl SSLD class)",
+      "sha256": "aecb2a76fb83b253463cae40403878ea9bca3aa23c1151ecf0035d7812f3b0b9",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/11525A_aecb2a76fb83b253463c.txt",
+      "source_file": "database/milestone2/cache/aecb2a76fb83b253463cae40403878ea9bca3aa23c1151ecf0035d7812f3b0b9.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 60026
+    },
+    {
+      "roll": "11525A",
+      "url": "https://saintpats.ie/wp-content/uploads/2023/11/For-Sept-2024-___Admission-Policy-Sept-2023-signed-by-AL-1.pdf",
+      "label": "For Sept 2024 ___Admission Policy Sept 2023 signed by AL (1)",
+      "sha256": "e8e68fb2c8f501e9466c684850c3cf69df052fdb9a36057727e555311b3e8ab5",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/11525A_e8e68fb2c8f501e9466c.txt",
+      "source_file": "database/milestone2/cache/e8e68fb2c8f501e9466c684850c3cf69df052fdb9a36057727e555311b3e8ab5.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 74677
+    },
+    {
+      "roll": "11525A",
+      "url": "https://saintpats.ie/wp-content/uploads/2023/09/For-Sept-2024-___Admission-Policy-Sept-2023-signed-by-AL.docx-1.pdf",
+      "label": "For Sept 2024 ___Admission Policy Sept 2023 signed by AL.docx (1)",
+      "sha256": "286e303566c89711a53ade9fb96019aecd320dc0a688fc7e406f854292d40628",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/11525A_286e303566c89711a53a.txt",
+      "source_file": "database/milestone2/cache/286e303566c89711a53ade9fb96019aecd320dc0a688fc7e406f854292d40628.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 74750
+    },
+    {
+      "roll": "11525A",
+      "url": "https://saintpats.ie/wp-content/uploads/2023/01/admissions-policy-Jan-2023-amended-.docx-1.pdf",
+      "label": "Admissions Policy Jan 2023 amended .docx (1)",
+      "sha256": "9f88c32d4474f859ae1d8c75d397573a92fb1b195c5df49a8f14f0136ca46747",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/11525A_9f88c32d4474f859ae1d.txt",
+      "source_file": "database/milestone2/cache/9f88c32d4474f859ae1d8c75d397573a92fb1b195c5df49a8f14f0136ca46747.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 62179
+    },
+    {
+      "roll": "11525A",
+      "url": "https://saintpats.ie/wp-content/uploads/2024/11/Admission-Policy-2024-for-Sept-2025-.docx-6.pdf",
+      "label": "Admission Policy 2024 (for Sept 2025) .docx (6)",
+      "sha256": "65c80c497c45af06afdfc1d06830ec8a727362580e2ebf3092eda97b903baa7d",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/11525A_65c80c497c45af06afdf.txt",
+      "source_file": "database/milestone2/cache/65c80c497c45af06afdfc1d06830ec8a727362580e2ebf3092eda97b903baa7d.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 76168
+    },
+    {
+      "roll": "11525A",
+      "url": "https://saintpats.ie/wp-content/uploads/2024/09/Admission-Policy-2024-for-Sept-2025-.docx-2.pdf",
+      "label": "Admission Policy 2024 (for Sept 2025) .docx (2)",
+      "sha256": "5d562fc2a35d54a2460d6db71d3c68305cad925a16ff1c7f604f5c74d4f10a7a",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/11525A_5d562fc2a35d54a2460d.txt",
+      "source_file": "database/milestone2/cache/5d562fc2a35d54a2460d6db71d3c68305cad925a16ff1c7f604f5c74d4f10a7a.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 75277
+    },
+    {
+      "roll": "11525A",
+      "url": "https://saintpats.ie/wp-content/uploads/2025/09/Admission-Policy-for-2026_2027-school-year.docx.pdf",
+      "label": "Admission Policy for 2026_2027 school year.docx",
+      "sha256": "43bf646fe33968f454358339f3af50813da09ed08895cd8e85b301640d878b84",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/11525A_43bf646fe33968f45435.txt",
+      "source_file": "database/milestone2/cache/43bf646fe33968f454358339f3af50813da09ed08895cd8e85b301640d878b84.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 33440
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://saintpats.ie/wp-content/uploads/2026/09/Admission-Policy-for-2026_2027-school-year-.docx-5.pdf",
+      "label": "Admissions Polic y",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://saintpats.ie/policies/religious-education-statement-2021/",
+      "label": "Religious Education Statement 2021",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://saintpats.ie/2025/09/22/junior-infant-enrolment-2026/",
+      "label": "Admissions/policy URL from public sitemap",
+      "via": "prior_public_admissions_landing"
+    },
+    {
+      "url": "https://saintpats.ie/wp-content/uploads/2020/06/parent-guardian_complaints_policy.doc",
+      "label": "Parental Concerns",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://saintpats.ie/wp-content/uploads/2020/06/critical-incident-policy-2020-.pdf",
+      "label": "Critical Incident Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://saintpats.ie/sitemap.xml",
+      "label": "Public sitemap",
+      "via": "sitemap_root"
+    },
+    {
+      "url": "https://saintpats.ie/revised-parental-complaints-procedure/",
+      "label": "Revised Parental Complaints Procedure",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://saintpats.ie/policies/",
+      "label": "Policies",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://saintpats.ie/parents-association/",
+      "label": "Parents’ Association",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://saintpats.ie/parents-association-constitution/",
+      "label": "Parents’ Association Constitution",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://saintpats.ie/news-sitemap.xml",
+      "label": "Public sitemap",
+      "via": "sitemap_root"
+    },
+    {
+      "url": "https://saintpats.ie/data-protection-guides-for-parents/",
+      "label": "Data Protection Guides for Parents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://saintpats.ie/b-o-m-parents-association/",
+      "label": "B.O.M. & Parents’ Association",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://saintpats.ie/",
+      "label": "School homepage",
+      "via": "home"
+    },
+    {
+      "url": "https://saintpats.ie/wp-content/uploads/2021/11/Healthy-Eating-Policy-2021.docx.pdf",
+      "label": "Healthy Eating",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://saintpats.ie/rse-policy-2021/",
+      "label": "RSE Policy 2021",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://saintpats.ie/homework-policy-2021/",
+      "label": "Homework Policy 2021",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://saintpats.ie/digital-devices-policy-2025/",
+      "label": "Digital Devices Policy 2025",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://saintpats.ie/ty-work-experience-policy/",
+      "label": "TY Work Experience Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://saintpats.ie/swimming-policy/",
+      "label": "Swimming Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://saintpats.ie/spha-plan-and-policy/",
+      "label": "SPHE Plan and Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://saintpats.ie/school-tours-policy/",
+      "label": "School Tours Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://saintpats.ie/environmental-sustainability-policy/",
+      "label": "Environmental Sustainability Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://saintpats.ie/data-protection-policy/",
+      "label": "Data Protection Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://saintpats.ie/combined-hire-of-school-premises-policy/",
+      "label": "Combined Hire of School Premises Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://saintpats.ie/cctv-policy/",
+      "label": "CCTV Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://saintpats.ie/bi-cinealta-policy-pupils-version/",
+      "label": "Bí Cineálta Policy (pupils’ version)",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://saintpats.ie/bi-cinealta-policy-2/",
+      "label": "Bí Cineálta Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://saintpats.ie/attendance-policy/",
+      "label": "Attendance Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://saintpats.ie/aen-policy/",
+      "label": "AEN Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://saintpats.ie/administration-of-medicines-policy/",
+      "label": "Administration of Medicines Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://saintpats.ie/acceptable-use-policy/",
+      "label": "Acceptable Use Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 71.91,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:35:16+0000"
+}

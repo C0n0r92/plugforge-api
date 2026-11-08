@@ -1,0 +1,44 @@
+{
+  "roll": "19361N",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://rutlandstreetproject.ie/",
+      "final_url": "https://rutlandstreetproject.ie/",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://rutlandstreetproject.ie/sitemap.xml",
+      "final_url": "https://rutlandstreetproject.ie/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://rutlandstreetproject.ie/sitemap_pages.xml",
+      "final_url": "https://rutlandstreetproject.ie/sitemap_pages.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19361N",
+      "url": "https://rutlandstreetproject.ie/",
+      "label": "School homepage",
+      "sha256": "147e1663603e4736e8d95090a1b1e74bf0af6c35759f625031b4467a4fe1a631",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19361N_147e1663603e4736e8d9.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 2598
+    }
+  ],
+  "pending_links": [],
+  "elapsed_seconds": 7.8,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:04:56+0000"
+}

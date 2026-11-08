@@ -1,0 +1,130 @@
+{
+  "roll": "19619D",
+  "status": "bounded_search_no_new_notice_found",
+  "attempts": [
+    {
+      "url": "https://www.stmalachysmns.ie/2026/11/03/enrolment-form/",
+      "final_url": "https://www.stmalachysmns.ie/2026/11/03/enrolment-form/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions/policy URL from public sitemap"
+    },
+    {
+      "url": "https://www.stmalachysmns.ie/wp-content/uploads/2024/06/Enrolment-Form-2024-1.pdf",
+      "final_url": "https://www.stmalachysmns.ie/wp-content/uploads/2024/06/Enrolment-Form-2024-1.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Enrolment-Form-2024"
+    },
+    {
+      "url": "https://www.stmalachysmns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://www.stmalachysmns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://www.stmalachysmns.ie/wp-content/uploads/2023/08/St-Malachys-MNS-admission-policy.docx",
+      "final_url": "https://www.stmalachysmns.ie/wp-content/uploads/2023/08/St-Malachys-MNS-admission-policy.docx",
+      "status": "robots_disallow",
+      "via": "public_wordpress_media_link",
+      "label": "St Malachy&#8217;s MNS admission policy"
+    },
+    {
+      "url": "https://www.stmalachysmns.ie/wp-content/uploads/2024/06/St-Malachys-MNS-admission-policy.pdf",
+      "final_url": "https://www.stmalachysmns.ie/wp-content/uploads/2024/06/St-Malachys-MNS-admission-policy.pdf",
+      "status": "robots_disallow",
+      "via": "public_wordpress_media_link",
+      "label": "St Malachy&#8217;s MNS admission policy"
+    },
+    {
+      "url": "https://www.stmalachysmns.ie/wp-content/uploads/2025/09/St-Malachys-admission-policy.docx",
+      "final_url": "https://www.stmalachysmns.ie/wp-content/uploads/2025/09/St-Malachys-admission-policy.docx",
+      "status": "robots_disallow",
+      "via": "public_wordpress_media_link",
+      "label": "St Malachys admission policy"
+    },
+    {
+      "url": "https://www.stmalachysmns.ie/wp-content/uploads/2025/05/St-Malachys-Admission-Policy.pdf",
+      "final_url": "https://www.stmalachysmns.ie/wp-content/uploads/2025/05/St-Malachys-Admission-Policy.pdf",
+      "status": "robots_disallow",
+      "via": "public_wordpress_media_link",
+      "label": "St Malachys Admission Policy"
+    },
+    {
+      "url": "https://www.stmalachysmns.ie/wp-content/uploads/2025/04/St-Malachys-MNS-Admission-Policy.pdf",
+      "final_url": "https://www.stmalachysmns.ie/wp-content/uploads/2025/04/St-Malachys-MNS-Admission-Policy.pdf",
+      "status": "robots_disallow",
+      "via": "public_wordpress_media_link",
+      "label": "St Malachy&#8217;s MNS Admission Policy"
+    },
+    {
+      "url": "https://www.stmalachysmns.ie/sitemap.xml",
+      "final_url": "https://www.stmalachysmns.ie/sitemap_index.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.stmalachysmns.ie/post-sitemap.xml",
+      "final_url": "https://www.stmalachysmns.ie/post-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.stmalachysmns.ie/page-sitemap.xml",
+      "final_url": "https://www.stmalachysmns.ie/page-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.stmalachysmns.ie/our-school/school-policies/",
+      "final_url": "https://www.stmalachysmns.ie/our-school/school-policies/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "School Policies"
+    },
+    {
+      "url": "https://www.stmalachysmns.ie/our-school/parents-committee/",
+      "final_url": "https://www.stmalachysmns.ie/our-school/parents-committee/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Parents Committee"
+    },
+    {
+      "url": "https://www.stmalachysmns.ie/our-school/parents-association/",
+      "final_url": "https://www.stmalachysmns.ie/our-school/parents-association/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Parents Association"
+    },
+    {
+      "url": "https://www.stmalachysmns.ie",
+      "final_url": "https://www.stmalachysmns.ie",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.stmalachysmns.ie/wp-content/uploads/2024/06/School-Enrolment-Form.pdf",
+      "final_url": "https://www.stmalachysmns.ie/wp-content/uploads/2024/06/School-Enrolment-Form.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "School Enrolment Form"
+    },
+    {
+      "url": "https://www.stmalachysmns.ie/wp-content/uploads/2025/04/Notification-to-NCSE-of-Enrolment-in-Special-School-or-Special-Class.pdf",
+      "final_url": "https://www.stmalachysmns.ie/wp-content/uploads/2025/04/Notification-to-NCSE-of-Enrolment-in-Special-School-or-Special-Class.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Notification to NCSE of Enrolment in Special School or Special Class"
+    }
+  ],
+  "documents": [],
+  "pending_links": [],
+  "elapsed_seconds": 22.31,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:07:32+0000"
+}

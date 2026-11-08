@@ -1,0 +1,123 @@
+{
+  "roll": "19494J",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://bishopgalvin.ie",
+      "final_url": "https://bishopgalvin.ie",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://bishopgalvin.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://bishopgalvin.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://bishopgalvin.ie/wp-content/uploads/2025/12/New-Admissions-Policy-Bishop-Galvin-NS-19494J.pdf",
+      "final_url": "https://bishopgalvin.ie/wp-content/uploads/2025/12/New-Admissions-Policy-Bishop-Galvin-NS-19494J.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "New Admissions Policy-Bishop Galvin NS-19494J"
+    },
+    {
+      "url": "https://bishopgalvin.ie/wp-content/uploads/2025/01/Bishop-Galvin-NS-Admissions-Policy-19494J.pdf",
+      "final_url": "https://bishopgalvin.ie/wp-content/uploads/2025/01/Bishop-Galvin-NS-Admissions-Policy-19494J.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Bishop Galvin NS Admissions Policy"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19494J",
+      "url": "https://bishopgalvin.ie/wp-content/uploads/2025/12/New-Admissions-Policy-Bishop-Galvin-NS-19494J.pdf",
+      "label": "New Admissions Policy-Bishop Galvin NS-19494J",
+      "sha256": "0794fa61a7393238b506280645a80f5ab5a134845bc0002722837afc1bb524f3",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19494J_0794fa61a7393238b506.txt",
+      "source_file": "database/milestone2/cache/0794fa61a7393238b506280645a80f5ab5a134845bc0002722837afc1bb524f3.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 35729
+    },
+    {
+      "roll": "19494J",
+      "url": "https://bishopgalvin.ie/wp-content/uploads/2025/01/Bishop-Galvin-NS-Admissions-Policy-19494J.pdf",
+      "label": "Bishop Galvin NS Admissions Policy",
+      "sha256": "212990c7190db718c811f84b24409c1b9e85a36e78eb4986bd9605933ec5dc3b",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19494J_212990c7190db718c811.txt",
+      "source_file": "database/milestone2/cache/212990c7190db718c811f84b24409c1b9e85a36e78eb4986bd9605933ec5dc3b.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 22072
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://bishopgalvin.ie/wp-content/uploads/2025/12/Admissions-Notice-2026-2027.docx.pdf",
+      "label": "Admissions Notice 2026-2027.docx",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://bishopgalvin.ie/wp-content/uploads/2025/01/Admissions-Notice-2025-2026.pdf",
+      "label": "Admissions Notice 2025-2026",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://bishopgalvin.ie/wp-content/uploads/2025/01/Admissions-Policy-for-BGNS-Autism-Class-2025-2026.pdf",
+      "label": "Admissions Policy for BGNS Autism Class 2025-2026",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://bishopgalvin.ie/sitemap.xml",
+      "label": "Public sitemap",
+      "via": "sitemap_root"
+    },
+    {
+      "url": "https://bishopgalvin.ie/parents/useful-links/",
+      "label": "Useful Links",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://bishopgalvin.ie/parents/school-uniform/",
+      "label": "School Uniform",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://bishopgalvin.ie/parents/restorative-practice/",
+      "label": "Restorative Practice",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://bishopgalvin.ie/parents/parents-association/",
+      "label": "Parents’ Association",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://bishopgalvin.ie/parents/learning-at-home/",
+      "label": "Learning at Home",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://bishopgalvin.ie/parents/booklist/",
+      "label": "Booklist",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://bishopgalvin.ie/parents/",
+      "label": "Welcome to BGNS",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://bishopgalvin.ie/about/policies/",
+      "label": "Policies",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 183.72,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:57:44+0000"
+}

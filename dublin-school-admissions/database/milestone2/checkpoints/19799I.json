@@ -1,0 +1,121 @@
+{
+  "roll": "19799I",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.sruleenns.com/admissions",
+      "final_url": "https://www.sruleenns.com/admissions",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://www.sruleenns.com/_files/ugd/ba9472_80ac5f457fef45e48be1f4f6a92505db.docx?dn=Admissions%20Note%20for%20Special%20Class%202026_2027.docx",
+      "final_url": "https://www.sruleenns.com/_files/ugd/ba9472_80ac5f457fef45e48be1f4f6a92505db.docx?dn=Admissions%20Note%20for%20Special%20Class%202026_2027.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admission Policy ASD"
+    },
+    {
+      "url": "https://www.sruleenns.com/_files/ugd/ba9472_56862818c23a4e7fb458ff96766a439c.pdf",
+      "final_url": "https://www.sruleenns.com/_files/ugd/ba9472_56862818c23a4e7fb458ff96766a439c.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admission Policy"
+    },
+    {
+      "url": "https://www.sruleenns.com/sitemap.xml",
+      "final_url": "https://www.sruleenns.com/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.sruleenns.com/policies",
+      "final_url": "https://www.sruleenns.com/policies",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.sruleenns.com/_files/ugd/ba9472_f221d59d4bac4631915f1c3a2c05c278.pdf",
+      "final_url": "https://www.sruleenns.com/_files/ugd/ba9472_f221d59d4bac4631915f1c3a2c05c278.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Bí Cineálta Policy"
+    },
+    {
+      "url": "https://www.sruleenns.com/_files/ugd/ba9472_a0e2d67fe4e04a84901f380a94e706c1.docx?dn=Enrolment%20Policy%20for%20ASD%20Class%202019%20Srul",
+      "final_url": "https://www.sruleenns.com/_files/ugd/ba9472_a0e2d67fe4e04a84901f380a94e706c1.docx?dn=Enrolment%20Policy%20for%20ASD%20Class%202019%20Srul",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admission Policy ASD Class"
+    },
+    {
+      "url": "https://www.sruleenns.com/_files/ugd/ba9472_fdc5384d54d14ea084b200c6ff3b6f2b.pdf",
+      "final_url": "https://www.sruleenns.com/_files/ugd/ba9472_fdc5384d54d14ea084b200c6ff3b6f2b.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admission Policy"
+    },
+    {
+      "url": "https://www.sruleenns.com/blog-posts-sitemap.xml",
+      "final_url": "https://www.sruleenns.com/blog-posts-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.sruleenns.com/blog-categories-sitemap.xml",
+      "final_url": "https://www.sruleenns.com/blog-categories-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.sruleenns.com",
+      "final_url": "https://www.sruleenns.com",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.sruleenns.com/_files/ugd/ba9472_94ce329909cf43c1b525511c66f5d302.pdf",
+      "final_url": "https://www.sruleenns.com/_files/ugd/ba9472_94ce329909cf43c1b525511c66f5d302.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Anti-Bullying Policy"
+    },
+    {
+      "url": "https://www.sruleenns.com/covid-19-policies-and-plans",
+      "final_url": "https://www.sruleenns.com/covid-19-policies-and-plans",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "COVID-19 Response Plan and Policy"
+    },
+    {
+      "url": "https://www.sruleenns.com/_files/ugd/ba9472_ed0a60215cc0462b8c0d90ddd5a6eeca.docx?dn=Covid%20policy%20Statement%20Word.docx",
+      "final_url": "https://www.sruleenns.com/_files/ugd/ba9472_ed0a60215cc0462b8c0d90ddd5a6eeca.docx?dn=Covid%20policy%20Statement%20Word.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policy Statement"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19799I",
+      "url": "https://www.sruleenns.com/_files/ugd/ba9472_fdc5384d54d14ea084b200c6ff3b6f2b.pdf",
+      "label": "Admission Policy",
+      "sha256": "ae899f3127ae1c18d01e0b5c0dddd74a2c77dbf120374d41d2421ea7cabe4cdc",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19799I_ae899f3127ae1c18d01e.txt",
+      "source_file": "database/milestone2/cache/ae899f3127ae1c18d01e0b5c0dddd74a2c77dbf120374d41d2421ea7cabe4cdc.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 22760
+    }
+  ],
+  "pending_links": [],
+  "elapsed_seconds": 43.84,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:43:01+0000"
+}

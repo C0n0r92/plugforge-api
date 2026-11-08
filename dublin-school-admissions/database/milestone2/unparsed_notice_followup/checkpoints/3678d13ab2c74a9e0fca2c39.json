@@ -1,0 +1,36 @@
+{
+  "roll": "20141G",
+  "url": "https://static1.squarespace.com/static/5a95188045776ee281b9fd9c/t/6abd43f9fb620b64e20d0ee4/1790788601953/Annual+Admission+Notice+2027-28+ASD+class.pdf",
+  "prior_sha256": "977c43dd33b0596dbfd295d9fab562599c4f4523ab56f528f8b4c32668983191",
+  "prior_status": "ok",
+  "prior_attempted_at": "2026-11-08T12:57:53+0000",
+  "started_at": "2026-11-08T13:29:49+0000",
+  "method": "recheck_prior_success_unparsed_notice_with_actual_OCR_if_needed",
+  "documents": [
+    {
+      "roll": "20141G",
+      "url": "https://static1.squarespace.com/static/5a95188045776ee281b9fd9c/t/6abd43f9fb620b64e20d0ee4/1790788601953/Annual+Admission+Notice+2027-28+ASD+class.pdf",
+      "sha256": "977c43dd33b0596dbfd295d9fab562599c4f4523ab56f528f8b4c32668983191",
+      "format": "pdf",
+      "source_file": "database/milestone2/unparsed_notice_followup/cache/977c43dd33b0596dbfd295d9fab562599c4f4523ab56f528f8b4c32668983191.pdf",
+      "text_file": "database/milestone2/unparsed_notice_followup/evidence/20141G_977c43dd33b0596dbfd2.txt",
+      "candidate_status": "actual_body_requires_manual_review",
+      "ocr": false,
+      "retrieved_at": "2026-11-08T13:29:49+0000"
+    }
+  ],
+  "attempts": [
+    {
+      "url": "https://static1.squarespace.com/static/5a95188045776ee281b9fd9c/t/6abd43f9fb620b64e20d0ee4/1790788601953/Annual+Admission+Notice+2027-28+ASD+class.pdf",
+      "final_url": "https://static1.squarespace.com/static/5a95188045776ee281b9fd9c/t/6abd43f9fb620b64e20d0ee4/1790788601953/Annual+Admission+Notice+2027-28+ASD+class.pdf",
+      "status": "ok"
+    }
+  ],
+  "status": "body_retrieved_requires_manual_review",
+  "sha256": "977c43dd33b0596dbfd295d9fab562599c4f4523ab56f528f8b4c32668983191",
+  "same_payload_as_prior_success": true,
+  "format": "pdf",
+  "parse_stderr": "",
+  "text_length": 981,
+  "elapsed_seconds": 0.05
+}

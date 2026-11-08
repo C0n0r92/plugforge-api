@@ -1,0 +1,50 @@
+{
+  "task_id": "1697e883a5f47f53168147e8d6543a3f",
+  "roll": "00697S",
+  "capture": {
+    "digest": "GKM5LRKHPPQIHGJINIWAF5667ACUSKUL",
+    "mimetype": "text/html",
+    "original": "https://www.saintbrigids.ie/Mainstream-Admissions/Index.html",
+    "statuscode": "200",
+    "timestamp": "20260509222139"
+  },
+  "original_url": "https://www.saintbrigids.ie/Mainstream-Admissions/Index.html",
+  "archived_url": "https://web.archive.org/web/20260509222139/https://www.saintbrigids.ie/Mainstream-Admissions/Index.html",
+  "attempted_at": "2026-11-08T12:36:01.587328+00:00",
+  "http_status": 200,
+  "headers": {
+    "Content-Type": "text/html; charset=utf-8",
+    "memento-datetime": "Sat, 09 May 2026 22:21:39 GMT"
+  },
+  "payload_sha256": "b5ae1ac8db51cf44ffe89f110a4c7a82bcb77185fffc60c648807db6209f9c6d",
+  "bytes": 46665,
+  "format": "html",
+  "archive_link_candidates": [
+    {
+      "url": "/web/20260509222139/https://www.saintbrigids.ie/Parent-Noticeboard/Index.html",
+      "label": "Parent Noticeboard"
+    },
+    {
+      "url": "/web/20260509222139/https://www.saintbrigids.ie/Mainstream-Admissions/Index.html",
+      "label": "Mainstream Admissions"
+    },
+    {
+      "url": "/web/20260509222139/https://www.saintbrigids.ie/Autism-Class-Admissions/Index.html",
+      "label": "Autism Class Admissions"
+    },
+    {
+      "url": "/web/20260509222139/https://www.saintbrigids.ie/News/Mainstream-Admissions-for-Junior-Infants-20262027/37524/Index.html",
+      "label": ""
+    },
+    {
+      "url": "/web/20260509222139/https://www.saintbrigids.ie/News/Mainstream-Admissions-for-Junior-Infants-20262027/37524/Index.html",
+      "label": "Mainstream Admissions for Junior Infants 2026/2027"
+    },
+    {
+      "url": "/web/20260509222139/https://www.saintbrigids.ie/News/Mainstream-Admissions-for-Junior-Infants-20262027/37524/Index.html",
+      "label": "Read more..."
+    }
+  ],
+  "status": "archived_body_retrieved_requires_notice_evidence_review",
+  "text_file": "database/milestone2/evidence/archive_00697S_b5ae1ac8db51cf44ffe8.txt"
+}

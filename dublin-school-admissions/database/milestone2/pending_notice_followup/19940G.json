@@ -1,0 +1,30 @@
+{
+  "roll": "19940G",
+  "started_at": "2026-11-08T13:20:22+0000",
+  "method": "previously_linked_explicit_annual_notice_gap_followup",
+  "attempts": [
+    {
+      "url": "https://www.gsnp.ie/admin/?open=/nuacht/news/annual-admission-notice-autism-class-27-28pdf/",
+      "final_url": "https://www.gsnp.ie/admin/?open=/nuacht/news/annual-admission-notice-autism-class-27-28pdf/",
+      "status": "robots_disallow",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.gsnp.ie/admin/?open=/nuacht/news/annual-admission-notice-autism-class-27-28pdf/?googletranslate=true",
+      "final_url": "https://www.gsnp.ie/admin/?open=/nuacht/news/annual-admission-notice-autism-class-27-28pdf/?googletranslate=true",
+      "status": "robots_disallow",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.gsnp.ie/admin/?open=/nuacht/news/annual-admission-notice-gsnp-27-28pdf/",
+      "final_url": "https://www.gsnp.ie/admin/?open=/nuacht/news/annual-admission-notice-gsnp-27-28pdf/",
+      "status": "robots_disallow",
+      "label": "Login"
+    }
+  ],
+  "documents": [],
+  "pending_links": [],
+  "earliest_year_cutoff": null,
+  "status": "attempted_no_new_numeric_notice_established",
+  "elapsed_seconds": 0.0
+}

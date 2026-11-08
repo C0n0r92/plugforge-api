@@ -1,0 +1,370 @@
+{
+  "roll": "19373U",
+  "status": "bounded_search_no_new_notice_found",
+  "attempts": [
+    {
+      "url": "https://www.smhraheny.net/news/admissions-2027-2028/?googletranslate=true",
+      "final_url": "https://www.smhraheny.net/news/admissions-2027-2028/?googletranslate=true",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": ""
+    },
+    {
+      "url": "https://www.smhraheny.net/news/admissions-2027-2028/",
+      "final_url": "https://www.smhraheny.net/news/admissions-2027-2028/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions 2027-2028"
+    },
+    {
+      "url": "https://www.smhraheny.net/admin/?open=/news/admissions-2027-2028/?googletranslate=true",
+      "final_url": "https://www.smhraheny.net/admin/?open=/news/admissions-2027-2028/?googletranslate=true",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.smhraheny.net/admin/?open=/news/admissions-2027-2028/",
+      "final_url": "https://www.smhraheny.net/admin/?open=/news/admissions-2027-2028/",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Login"
+    },
+    {
+      "url": "https://www.smhraheny.net/sitemap.xml",
+      "final_url": "https://www.smhraheny.net/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.smhraheny.net/parents-area/school-letters/",
+      "final_url": "https://www.smhraheny.net/parents-area/school-letters/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Letters"
+    },
+    {
+      "url": "https://www.smhraheny.net/parents-area/school-letters/?googletranslate=true",
+      "final_url": "https://www.smhraheny.net/parents-area/school-letters/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.smhraheny.net/parents-area/resources/",
+      "final_url": "https://www.smhraheny.net/parents-area/resources/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Resources"
+    },
+    {
+      "url": "https://www.smhraheny.net/parents-area/resources/?googletranslate=true",
+      "final_url": "https://www.smhraheny.net/parents-area/resources/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.smhraheny.net/parents-area/newsletters/",
+      "final_url": "https://www.smhraheny.net/parents-area/newsletters/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Newsletters"
+    },
+    {
+      "url": "https://www.smhraheny.net/parents-area/newsletters/?googletranslate=true",
+      "final_url": "https://www.smhraheny.net/parents-area/newsletters/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.smhraheny.net/parents-area/forms/",
+      "final_url": "https://www.smhraheny.net/parents-area/forms/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Forms"
+    },
+    {
+      "url": "https://www.smhraheny.net/parents-area/forms/?googletranslate=true",
+      "final_url": "https://www.smhraheny.net/parents-area/forms/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.smhraheny.net/parents-area/",
+      "final_url": "https://www.smhraheny.net/parents-area/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents Area"
+    },
+    {
+      "url": "https://www.smhraheny.net/parents-area/?googletranslate=true",
+      "final_url": "https://www.smhraheny.net/parents-area/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.smhraheny.net/our-school/policies/",
+      "final_url": "https://www.smhraheny.net/our-school/policies/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.smhraheny.net/securedoclink/53/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/644/securedocs/20251126054522_40_HealthandSafetyStatement25-26.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Download"
+    },
+    {
+      "url": "https://www.smhraheny.net/securedoclink/29/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/644/securedocs/20251126054524_28_ParentalComplaintsProcedurefinal.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Parental Complaints Procedure"
+    },
+    {
+      "url": "https://www.smhraheny.net/securedoclink/12/?open=true",
+      "final_url": "https://view.officeapps.live.com/op/embed.aspx?src=https://swddoc.b-cdn.net/644/securedocs/20251126054525_25_SMHSNSCodeofbehaviour20191.doc",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Download"
+    },
+    {
+      "url": "https://www.smhraheny.net/securedoclink/11/?open=true",
+      "final_url": "https://swdcache.b-cdn.net/644/securedocs/20251126054525_90_PositiveBehaviourSupportandUseofRestrictivePractices2020.pdf",
+      "status": "robots_disallow",
+      "via": "school_public_link",
+      "label": "Download"
+    },
+    {
+      "url": "https://www.smhraheny.net/our-school/policies/?googletranslate=true",
+      "final_url": "https://www.smhraheny.net/our-school/policies/?googletranslate=true",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.smhraheny.net/our-school/policies/?googletranslate=true&folder182ID=45",
+      "final_url": "https://www.smhraheny.net/our-school/policies/?googletranslate=true&folder182ID=45",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.smhraheny.net/our-school/policies/?googletranslate=true&folder182ID=41",
+      "final_url": "https://www.smhraheny.net/our-school/policies/?googletranslate=true&folder182ID=41",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.smhraheny.net/our-school/policies/?googletranslate=true&folder182ID=27",
+      "final_url": "https://www.smhraheny.net/our-school/policies/?googletranslate=true&folder182ID=27",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    }
+  ],
+  "documents": [],
+  "pending_links": [
+    {
+      "url": "https://www.smhraheny.net/securedoclink/76/?open=true",
+      "label": "Download",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.smhraheny.net/our-school/policies/?googletranslate=true&folder182ID=22",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.smhraheny.net/our-school/policies/?googletranslate=true&folder182ID=1",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.smhraheny.net/our-school/policies/?folder182ID=45",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.smhraheny.net/our-school/policies/?folder182ID=41",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.smhraheny.net/our-school/policies/?folder182ID=27",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.smhraheny.net/our-school/policies/?folder182ID=22",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.smhraheny.net/our-school/policies/?folder182ID=1",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.smhraheny.net/letterlink/9/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.smhraheny.net/letterlink/14/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.smhraheny.net/letterlink/13/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.smhraheny.net/letterlink/12/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.smhraheny.net/letterlink/11/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.smhraheny.net/letterlink/10/?open=true&download=true",
+      "label": "",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.smhraheny.net/admin/?open=/parents-area/school-letters/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.smhraheny.net/admin/?open=/parents-area/school-letters/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.smhraheny.net/admin/?open=/parents-area/resources/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.smhraheny.net/admin/?open=/parents-area/resources/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.smhraheny.net/admin/?open=/parents-area/newsletters/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.smhraheny.net/admin/?open=/parents-area/newsletters/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.smhraheny.net/admin/?open=/parents-area/forms/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.smhraheny.net/admin/?open=/parents-area/forms/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.smhraheny.net/admin/?open=/parents-area/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.smhraheny.net/admin/?open=/parents-area/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.smhraheny.net/admin/?open=/our-school/policies/?googletranslate=true&folder182ID=45",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.smhraheny.net/admin/?open=/our-school/policies/?googletranslate=true&folder182ID=41",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.smhraheny.net/admin/?open=/our-school/policies/?googletranslate=true&folder182ID=27",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.smhraheny.net/admin/?open=/our-school/policies/?googletranslate=true",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.smhraheny.net/admin/?open=/our-school/policies/",
+      "label": "Login",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.smhraheny.net/",
+      "label": "School homepage",
+      "via": "home"
+    },
+    {
+      "url": "https://www.smhraheny.net/securedoclink/26/?open=true",
+      "label": "Policy and Procedure in relation to Physical Intimate Care of Pupils 2022",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.smhraheny.net/securedoclink/52/?open=true",
+      "label": "Pupil Health Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.smhraheny.net/securedoclink/47/?open=true",
+      "label": "Dignity at Work Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.smhraheny.net/securedoclink/46/?open=true",
+      "label": "Phone Use Policy for Staff",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.smhraheny.net/securedoclink/42/?open=true",
+      "label": "Whistle blower Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.smhraheny.net/securedoclink/10/?open=true",
+      "label": "Parent School Communication Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.smhraheny.net/cmsfiles/policies/privacy/",
+      "label": "Website Privacy Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.smhraheny.net/cmsfiles/policies/cookie/",
+      "label": "Cookie Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 70.28,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:06:02+0000"
+}

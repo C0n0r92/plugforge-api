@@ -1,0 +1,290 @@
+{
+  "roll": "19470S",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://sfxsenior.com/admissions-policy-annual-notice/",
+      "final_url": "https://sfxsenior.com/admissions-policy-annual-notice/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions Policy & Annual Notice"
+    },
+    {
+      "url": "https://sfxsenior.com/wp-content/uploads/2026/10/Dublin-15-ACAT-2027-Admissions-Announcement.png",
+      "final_url": "https://sfxsenior.com/wp-content/uploads/2026/10/Dublin-15-ACAT-2027-Admissions-Announcement.png",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Dublin 15 ACAT 2027 Admissions Announcement"
+    },
+    {
+      "url": "https://sfxsenior.com/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://sfxsenior.com/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://sfxsenior.com/admissions/",
+      "final_url": "https://sfxsenior.com/admissions/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://sfxsenior.com/wp-content/uploads/2026/10/St-Francis-Xavier-SNS-Admissions-Policy-Revised-Sept25-Signed.pdf",
+      "final_url": "https://sfxsenior.com/wp-content/uploads/2026/10/St-Francis-Xavier-SNS-Admissions-Policy-Revised-Sept25-Signed.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download PDF ↓"
+    },
+    {
+      "url": "https://sfxsenior.com/wp-content/uploads/2026/10/Copy-of-St-Francis-Xavier-SNS-Admissions-Policy-Revised-Sept26.docx.pdf",
+      "final_url": "https://sfxsenior.com/wp-content/uploads/2026/10/Copy-of-St-Francis-Xavier-SNS-Admissions-Policy-Revised-Sept26.docx.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Copy of St Francis Xavier SNS Admissions Policy Revised Sept26.docx"
+    },
+    {
+      "url": "https://sfxsenior.com/wp-content/uploads/2026/10/Dublin-15-ACAT-2027-Admissions-Announcement-150x150.png",
+      "final_url": "https://sfxsenior.com/wp-content/uploads/2026/10/Dublin-15-ACAT-2027-Admissions-Announcement-150x150.png",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions/policy URL from public sitemap"
+    },
+    {
+      "url": "https://sfxsenior.com/sitemap_index.xml",
+      "final_url": "https://sfxsenior.com/sitemap_index.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://sfxsenior.com/policies-practices/",
+      "final_url": "https://sfxsenior.com/policies-practices/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies & Practices"
+    },
+    {
+      "url": "https://sfxsenior.com/wp-content/uploads/2026/10/Child-Safeguarding-Statement-Signed-Oct25.pdf",
+      "final_url": "https://sfxsenior.com/wp-content/uploads/2026/10/Child-Safeguarding-Statement-Signed-Oct25.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download PDF"
+    },
+    {
+      "url": "https://sfxsenior.com/wp-content/uploads/2026/11/Bi-Cinealta-Poster-Final-1_page-0001.jpg",
+      "final_url": "https://sfxsenior.com/wp-content/uploads/2026/11/Bi-Cinealta-Poster-Final-1_page-0001.jpg",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download PDF"
+    },
+    {
+      "url": "https://sfxsenior.com/wp-content/uploads/2026/10/COVID-Policy-Statement-24-8-2020.pdf",
+      "final_url": "https://sfxsenior.com/wp-content/uploads/2026/10/COVID-Policy-Statement-24-8-2020.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Covid Risk Assessment Document ↗"
+    },
+    {
+      "url": "https://sfxsenior.com/parents-association/",
+      "final_url": "https://sfxsenior.com/parents-association/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents’ Association"
+    },
+    {
+      "url": "https://sfxsenior.com/parent-information/",
+      "final_url": "https://sfxsenior.com/parent-information/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parent Information"
+    },
+    {
+      "url": "https://sfxsenior.com/wp-content/uploads/2026/10/Parental-Complaints-Procedure.pdf",
+      "final_url": "https://sfxsenior.com/wp-content/uploads/2026/10/Parental-Complaints-Procedure.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parental Complaints Procedure ↗"
+    },
+    {
+      "url": "https://sfxsenior.com/page-sitemap.xml",
+      "final_url": "https://sfxsenior.com/page-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://sfxsenior.com/",
+      "final_url": "https://sfxsenior.com/",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://sfxsenior.com/wp-content/uploads/2026/10/Sustainability-Policy-20.09.23.pdf",
+      "final_url": "https://sfxsenior.com/wp-content/uploads/2026/10/Sustainability-Policy-20.09.23.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Sustainability Statement 2023 ↗"
+    },
+    {
+      "url": "https://sfxsenior.com/wp-content/uploads/2026/10/Yard-and-Supervision-Policy.pdf",
+      "final_url": "https://sfxsenior.com/wp-content/uploads/2026/10/Yard-and-Supervision-Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Yard and Supervision Policy – Reviewed Feb 2024 ↗"
+    },
+    {
+      "url": "https://sfxsenior.com/wp-content/uploads/2026/10/Intimate-Care-and-Toileting-Policy.pdf",
+      "final_url": "https://sfxsenior.com/wp-content/uploads/2026/10/Intimate-Care-and-Toileting-Policy.pdf",
+      "status": "public_document_size_bound",
+      "via": "school_public_link",
+      "label": "Intimate Care Policy 2024 ↗"
+    },
+    {
+      "url": "https://sfxsenior.com/wp-content/uploads/2026/10/Critical-Incident-Policy-290924.pdf",
+      "final_url": "https://sfxsenior.com/wp-content/uploads/2026/10/Critical-Incident-Policy-290924.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Critical Incident Policy 2024 ↗"
+    },
+    {
+      "url": "https://sfxsenior.com/wp-content/uploads/2026/10/Bus-Escort-Policy.pdf",
+      "final_url": "https://sfxsenior.com/wp-content/uploads/2026/10/Bus-Escort-Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Bus Escort Policy 2024 ↗"
+    },
+    {
+      "url": "https://sfxsenior.com/wp-content/uploads/2026/10/Work-Experience-Policy-2025.pdf",
+      "final_url": "https://sfxsenior.com/wp-content/uploads/2026/10/Work-Experience-Policy-2025.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Work Experience Policy ↗"
+    },
+    {
+      "url": "https://sfxsenior.com/wp-content/uploads/2026/10/Smart-Device-Policy-Signed-2025.pdf",
+      "final_url": "https://sfxsenior.com/wp-content/uploads/2026/10/Smart-Device-Policy-Signed-2025.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Smart-Device Policy 2025 ↗"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19470S",
+      "url": "https://sfxsenior.com/admissions-policy-annual-notice/",
+      "label": "Admissions Policy & Annual Notice",
+      "sha256": "41c18b9e39975ff850a53e370a5841164b43bcf26ae2ccb09f64bb29de98b34f",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19470S_41c18b9e39975ff850a5.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 8752
+    },
+    {
+      "roll": "19470S",
+      "url": "https://sfxsenior.com/admissions/",
+      "label": "Admissions",
+      "sha256": "654dfb655a2532f18aa0174410373293e29e9b32bbd95ed11d66f69f349888e7",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/19470S_654dfb655a2532f18aa0.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 2360
+    },
+    {
+      "roll": "19470S",
+      "url": "https://sfxsenior.com/wp-content/uploads/2026/10/St-Francis-Xavier-SNS-Admissions-Policy-Revised-Sept25-Signed.pdf",
+      "label": "Download PDF ↓",
+      "sha256": "6b20ab284ea0705cb35c4ed0304c02bb962e1069124581e054b2db400143bb4a",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19470S_6b20ab284ea0705cb35c.txt",
+      "source_file": "database/milestone2/cache/6b20ab284ea0705cb35c4ed0304c02bb962e1069124581e054b2db400143bb4a.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 27049
+    },
+    {
+      "roll": "19470S",
+      "url": "https://sfxsenior.com/wp-content/uploads/2026/10/Copy-of-St-Francis-Xavier-SNS-Admissions-Policy-Revised-Sept26.docx.pdf",
+      "label": "Copy of St Francis Xavier SNS Admissions Policy Revised Sept26.docx",
+      "sha256": "a37fcaf2a4d45043d1123fe3aa157ed22b4334712c7c39faea9ae45228d0b3f5",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19470S_a37fcaf2a4d45043d112.txt",
+      "source_file": "database/milestone2/cache/a37fcaf2a4d45043d1123fe3aa157ed22b4334712c7c39faea9ae45228d0b3f5.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 33758
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://sfxsenior.com/wp-content/uploads/2026/10/SPHE-Whole-School-Plan-Reviewed-Dec25-Signed.pdf",
+      "label": "SPHE Policy – Reviewed 2025 ↗",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://sfxsenior.com/wp-content/uploads/2026/10/RSE-Policy-Reviewed-Dec-2025-Signed.pdf",
+      "label": "RSE Policy – Reviewed 2025 ↗",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://sfxsenior.com/wp-content/uploads/2026/10/First-Aid-Policy-Reviewed-2025-Signed.pdf",
+      "label": "First Aid Procedures 2025 ↗",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://sfxsenior.com/wp-content/uploads/2026/10/Bi-Cinealta-Anti-Bullying-Policy-Signed-Sept25.pdf",
+      "label": "Bí Cineálta – Anti-Bullying Policy 2025 ↗",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://sfxsenior.com/wp-content/uploads/2026/10/Special-Education-Policy.docx",
+      "label": "Special Education Policy ↗",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://sfxsenior.com/wp-content/uploads/2026/10/Homework-Policy-2026-Signed.pdf",
+      "label": "Homework Policy – Reviewed Feb 2026 ↗",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://sfxsenior.com/wp-content/uploads/2026/10/Data-Protection-Policy.pdf",
+      "label": "Data Protection Policy ↗",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://sfxsenior.com/wp-content/uploads/2026/10/Cyber-Safety-IAU-Policy-Updated.pdf",
+      "label": "Cyber Safety – IAU Policy ↗",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://sfxsenior.com/wp-content/uploads/2026/10/Covid-Risk-Assessment-Document-St.-Francis-Xavier-Senior-National-School.pdf",
+      "label": "SFX Senior School Covid-19 Policy Statement ↗",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://sfxsenior.com/wp-content/uploads/2026/10/Communication-Policy.pdf",
+      "label": "Parent-Staff Communication Policy ↗",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://sfxsenior.com/wp-content/uploads/2026/10/Code-of-Behaviour-Policy-250924.pdf",
+      "label": "Download PDF",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://sfxsenior.com/wp-content/uploads/2026/10/Attendance-Policy-.pdf",
+      "label": "Download PDF",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://sfxsenior.com/privacy-policy/",
+      "label": "Privacy Statement",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 86.0,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:46:22+0000"
+}

@@ -1,0 +1,26 @@
+{
+  "domain": "centralmodelseniorschool.ie",
+  "rolls": [
+    "00752A"
+  ],
+  "attempted_at": "2026-11-08T12:18:09.448316+00:00",
+  "method": "official_Wayback_CDX_domain_all_available_dates",
+  "params": {
+    "url": "centralmodelseniorschool.ie",
+    "matchType": "domain",
+    "output": "json",
+    "fl": "timestamp,original,mimetype,statuscode,digest",
+    "filter": [
+      "statuscode:200",
+      "original:(?i).*(admission|annual.{0,20}notice|iontr|fogra|f%C3%B3gra).*"
+    ],
+    "collapse": "digest",
+    "limit": "200",
+    "showResumeKey": "true"
+  },
+  "earliest_year_cutoff": null,
+  "no_retry": true,
+  "status": "transient_or_unclassified_failure",
+  "error_class": "ReadTimeout",
+  "error": "HTTPSConnectionPool(host='web.archive.org', port=443): Read timed out. (read timeout=40)"
+}

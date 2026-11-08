@@ -1,0 +1,260 @@
+{
+  "roll": "20400E",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://ballinteeretns.ie/admissions/",
+      "final_url": "https://ballinteeretns.ie/admissions/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://www.ballinteeretns.ie/pre-enrol/admissions@ballinteeretns.ie",
+      "final_url": "https://ballinteeretns.ie/pre-enrol/admissions@ballinteeretns.ie",
+      "status": "http_404",
+      "via": "school_public_link",
+      "label": "info@ballinteeretns.ie"
+    },
+    {
+      "url": "https://ballinteeretns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://ballinteeretns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://ballinteeretns.ie/admissions",
+      "final_url": "https://ballinteeretns.ie/admissions/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Pre-Enrol"
+    },
+    {
+      "url": "https://ballinteeretns.ie/wp-content/uploads/Ballinteer-ETNS-Admissions-Policy-January-2023.pdf",
+      "final_url": "https://ballinteeretns.ie/wp-content/uploads/Ballinteer-ETNS-Admissions-Policy-January-2023.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Ballinteer-ETNS-Admissions-Policy-January-2023"
+    },
+    {
+      "url": "https://ballinteeretns.ie/wp-content/uploads/Ballinteer-ETNS-Admissions-Policy-with-autism-classes-.pdf",
+      "final_url": "https://ballinteeretns.ie/wp-content/uploads/Ballinteer-ETNS-Admissions-Policy-with-autism-classes-.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Ballinteer ETNS Admissions Policy with Autism Classes"
+    },
+    {
+      "url": "https://ballinteeretns.ie/sitemap_index.xml",
+      "final_url": "https://ballinteeretns.ie/sitemap_index.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://ballinteeretns.ie/post-sitemap.xml",
+      "final_url": "https://ballinteeretns.ie/post-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://ballinteeretns.ie/policies/",
+      "final_url": "https://ballinteeretns.ie/policies/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://ballinteeretns.ie/wp-content/uploads/Privacy_Notice_for_Pupils_Parents_Guardians-Ballinteer-ETNS-Feb-2020.pdf",
+      "final_url": "https://ballinteeretns.ie/wp-content/uploads/Privacy_Notice_for_Pupils_Parents_Guardians-Ballinteer-ETNS-Feb-2020.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Privacy Notice for Pupils, Parents and Guardians"
+    },
+    {
+      "url": "https://ballinteeretns.ie/wp-content/uploads/Parental-Complaints-Procedure_V4-final-Nov23.pdf",
+      "final_url": "https://ballinteeretns.ie/wp-content/uploads/Parental-Complaints-Procedure_V4-final-Nov23.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parental Complaints Procedure"
+    },
+    {
+      "url": "https://ballinteeretns.ie/wp-content/uploads/Assessments-and-Reporting-PolicyDec2017.pdf",
+      "final_url": "https://ballinteeretns.ie/wp-content/uploads/Assessments-and-Reporting-PolicyDec2017.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Assessments and Reporting Policy"
+    },
+    {
+      "url": "https://ballinteeretns.ie/wp-content/uploads/SPHE-Policy-BETNS-2018-1.pdf",
+      "final_url": "https://ballinteeretns.ie/wp-content/uploads/SPHE-Policy-BETNS-2018-1.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "SPHE Policy"
+    },
+    {
+      "url": "https://ballinteeretns.ie/wp-content/uploads/Positive-Behaviour-Policy-Review-Draft-2018.pdf",
+      "final_url": "https://ballinteeretns.ie/wp-content/uploads/Positive-Behaviour-Policy-Review-Draft-2018.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Positive Behaviour Policy"
+    },
+    {
+      "url": "https://ballinteeretns.ie/wp-content/uploads/Music-Policy-2018-2.pdf",
+      "final_url": "https://ballinteeretns.ie/wp-content/uploads/Music-Policy-2018-2.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Music Policy"
+    },
+    {
+      "url": "https://ballinteeretns.ie/wp-content/uploads/Drama-Policy-2018.pdf",
+      "final_url": "https://ballinteeretns.ie/wp-content/uploads/Drama-Policy-2018.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Drama Policy"
+    },
+    {
+      "url": "https://ballinteeretns.ie/wp-content/uploads/Attendance-Policy-Final-Sept-2018.pdf",
+      "final_url": "https://ballinteeretns.ie/wp-content/uploads/Attendance-Policy-Final-Sept-2018.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Attendance Policy"
+    },
+    {
+      "url": "https://ballinteeretns.ie/parent-teacher-meeting/",
+      "final_url": "https://ballinteeretns.ie/parent-teacher-meeting/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parent Teacher Meetings"
+    },
+    {
+      "url": "https://ballinteeretns.ie/parent-teacher-association-pta/",
+      "final_url": "https://ballinteeretns.ie/parent-teacher-association-pta/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parent Teacher Association (PTA)"
+    },
+    {
+      "url": "https://ballinteeretns.ie/page-sitemap.xml",
+      "final_url": "https://ballinteeretns.ie/page-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://ballinteeretns.ie",
+      "final_url": "https://ballinteeretns.ie",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://ballinteeretns.ie/wp-content/uploads/Communication-Policy-Nov-2024.pdf",
+      "final_url": "https://ballinteeretns.ie/wp-content/uploads/Communication-Policy-Nov-2024.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Communication Policy"
+    },
+    {
+      "url": "https://ballinteeretns.ie/wp-content/uploads/Protected-Disclosure-Policy-January-2025.pdf",
+      "final_url": "https://ballinteeretns.ie/wp-content/uploads/Protected-Disclosure-Policy-January-2025.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Protected Disclosure Policy"
+    },
+    {
+      "url": "https://ballinteeretns.ie/wp-content/uploads/Multi-Grade-Class-Policy-March-2025.pdf",
+      "final_url": "https://ballinteeretns.ie/wp-content/uploads/Multi-Grade-Class-Policy-March-2025.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Multi-Grade Policy"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "20400E",
+      "url": "https://ballinteeretns.ie/admissions/",
+      "label": "Admissions",
+      "sha256": "3f31f7da7643793b566dc9f8fce902a1579cab3cae1a49dd7135e5b419a5e130",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20400E_3f31f7da7643793b566d.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 738
+    },
+    {
+      "roll": "20400E",
+      "url": "https://ballinteeretns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "label": "Oldest public admission media (all dates)",
+      "sha256": "fd57e306dfb5d551463c7279717cae11d2acd5333ae4a56b9ac8c8b285c6f2d2",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20400E_fd57e306dfb5d551463c.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 579
+    },
+    {
+      "roll": "20400E",
+      "url": "https://ballinteeretns.ie/wp-content/uploads/Ballinteer-ETNS-Admissions-Policy-January-2023.pdf",
+      "label": "Ballinteer-ETNS-Admissions-Policy-January-2023",
+      "sha256": "29c4926f2e7431b22bb36c779dfc19ce71828f4226d712e72934497eb868ad95",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20400E_29c4926f2e7431b22bb3.txt",
+      "source_file": "database/milestone2/cache/29c4926f2e7431b22bb36c779dfc19ce71828f4226d712e72934497eb868ad95.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 26704
+    },
+    {
+      "roll": "20400E",
+      "url": "https://ballinteeretns.ie/wp-content/uploads/Ballinteer-ETNS-Admissions-Policy-with-autism-classes-.pdf",
+      "label": "Ballinteer ETNS Admissions Policy with Autism Classes",
+      "sha256": "72618e1eed78c83b269259c046307f30a98c0c0e88cbe81cfddab7d31c32a338",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20400E_72618e1eed78c83b2692.txt",
+      "source_file": "database/milestone2/cache/72618e1eed78c83b269259c046307f30a98c0c0e88cbe81cfddab7d31c32a338.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 28006
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://ballinteeretns.ie/wp-content/uploads/Mobile-Phone-and-Electronic-Devices-Policy-2025.pdf",
+      "label": "Mobile Phone and Electronic Device Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://ballinteeretns.ie/wp-content/uploads/Homework-Policy-January-2025.pdf",
+      "label": "Homework Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://ballinteeretns.ie/wp-content/uploads/Bi-Cinealta-Policy-2025-Ballinteer-Educate-Together-National-School-Signed-Version.pdf",
+      "label": "Bí Cineálta Policy 2025 (Anti-Bullying Policy)",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://ballinteeretns.ie/wp-content/uploads/Acceptable_Use_Policy_2025.pdf",
+      "label": "Acceptable Use Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://ballinteeretns.ie/wp-content/uploads/Emergency-School-Closure-Policy-2026.pdf",
+      "label": "Emergency School Closure Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://ballinteeretns.ie/wp-content/uploads/Visitor-Code-of-Conduct-Policy.pdf",
+      "label": "Visitor Code of Conduct Policy",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://ballinteeretns.ie/wp-content/uploads/Dignity-at-Work-Policy-Nov-25-1.pdf",
+      "label": "Dignity At Work Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 80.64,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:44:22+0000"
+}

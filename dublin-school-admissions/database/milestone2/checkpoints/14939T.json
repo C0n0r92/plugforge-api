@@ -1,0 +1,177 @@
+{
+  "roll": "14939T",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.rpns.ie/enrolment-1",
+      "final_url": "https://www.rpns.ie/enrolment-1",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Enrolment"
+    },
+    {
+      "url": "https://www.rpns.ie/_files/ugd/d48d47_e57e5737d7ea429a95bf03ed0f7266aa.pdf",
+      "final_url": "https://2ecfde84-096f-4c74-8d5e-218a61ced189.filesusr.com/ugd/d48d47_e57e5737d7ea429a95bf03ed0f7266aa.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "HERE"
+    },
+    {
+      "url": "https://www.rpns.ie/_files/ugd/d48d47_ce57442290be4a47805fb59471597fb3.pdf",
+      "final_url": "https://2ecfde84-096f-4c74-8d5e-218a61ced189.filesusr.com/ugd/d48d47_ce57442290be4a47805fb59471597fb3.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "HERE"
+    },
+    {
+      "url": "https://www.rpns.ie/_files/ugd/d48d47_88b5aab87ea24628bb509525dca52488.pdf",
+      "final_url": "https://2ecfde84-096f-4c74-8d5e-218a61ced189.filesusr.com/ugd/d48d47_88b5aab87ea24628bb509525dca52488.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "HERE"
+    },
+    {
+      "url": "https://www.rpns.ie/_files/ugd/d48d47_479a98d5e0d7475b87af5063d90f2a1a.pdf",
+      "final_url": "https://2ecfde84-096f-4c74-8d5e-218a61ced189.filesusr.com/ugd/d48d47_479a98d5e0d7475b87af5063d90f2a1a.pdf",
+      "status": "prior_robots_access_or_challenge_not_retried",
+      "via": "school_public_link",
+      "label": "HERE"
+    },
+    {
+      "url": "https://www.rpns.ie/sitemap.xml",
+      "final_url": "https://www.rpns.ie/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.rpns.ie/policies-1",
+      "final_url": "https://www.rpns.ie/policies-1",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.rpns.ie/parents-as-partners",
+      "final_url": "https://www.rpns.ie/parents-as-partners",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents as partners"
+    },
+    {
+      "url": "https://www.rpns.ie/parents",
+      "final_url": "https://www.rpns.ie/parents",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents"
+    },
+    {
+      "url": "https://www.rpns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://www.rpns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "http_404",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://www.rpns.ie/pages-sitemap.xml",
+      "final_url": "https://www.rpns.ie/pages-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.rpns.ie/national-parents-council",
+      "final_url": "https://www.rpns.ie/national-parents-council",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "National Parents' Council"
+    },
+    {
+      "url": "https://www.rpns.ie/copy-of-national-parents-council",
+      "final_url": "https://www.rpns.ie/copy-of-national-parents-council",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Neurodiversity"
+    },
+    {
+      "url": "https://www.rpns.ie/blog-posts-sitemap.xml",
+      "final_url": "https://www.rpns.ie/blog-posts-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.rpns.ie/blog-categories-sitemap.xml",
+      "final_url": "https://www.rpns.ie/blog-categories-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.rpns.ie",
+      "final_url": "https://www.rpns.ie",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.rpns.ie/_files/ugd/5baaa0_e4c2e81b823c41599049f1a68af97733.pdf",
+      "final_url": "https://www.rpns.ie/_files/ugd/5baaa0_e4c2e81b823c41599049f1a68af97733.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Child Protection policy and Safeguarding Statement"
+    },
+    {
+      "url": "https://www.rpns.ie/school-tour-outings-policy",
+      "final_url": "https://www.rpns.ie/school-tour-outings-policy",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School tour/outings policy"
+    },
+    {
+      "url": "https://www.rpns.ie/environmental-policy",
+      "final_url": "https://www.rpns.ie/environmental-policy",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Environmental policy"
+    },
+    {
+      "url": "https://www.rpns.ie/child-protection-policy",
+      "final_url": "https://www.rpns.ie/child-protection-policy",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Child Protection policy"
+    },
+    {
+      "url": "https://www.rpns.ie/anti-bullying-policy",
+      "final_url": "https://www.rpns.ie/anti-bullying-policy",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Bí Cineálta"
+    },
+    {
+      "url": "https://www.rpns.ie/acceptable-user-policy",
+      "final_url": "https://www.rpns.ie/acceptable-user-policy",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Acceptable User Policy"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "14939T",
+      "url": "https://www.rpns.ie/enrolment-1",
+      "label": "Enrolment",
+      "sha256": "4a77fe444e48de874e9b3fd77334a7723122a42d89a177c731e7acb3d6ed07ec",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/14939T_4a77fe444e48de874e9b.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1025
+    }
+  ],
+  "pending_links": [],
+  "elapsed_seconds": 68.03,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T13:02:09+0000"
+}

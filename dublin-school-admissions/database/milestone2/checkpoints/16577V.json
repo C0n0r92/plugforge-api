@@ -1,0 +1,263 @@
+{
+  "roll": "16577V",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.stbrigid.ie/enrolment.html",
+      "final_url": "https://www.stbrigid.ie/enrolment.html",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://www.stbrigid.ie/uploads/2/3/2/3/23235088/admissions_policy_2026_2027.pdf",
+      "final_url": "https://www.stbrigid.ie/uploads/2/3/2/3/23235088/admissions_policy_2026_2027.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: Admissions Policy "
+    },
+    {
+      "url": "https://www.stbrigid.ie/sitemap.xml",
+      "final_url": "https://www.stbrigid.ie/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.stbrigid.ie/news-blog/enrolments-for-the-20212022-school-year",
+      "final_url": "https://www.stbrigid.ie/news-blog/enrolments-for-the-20212022-school-year",
+      "status": "ok",
+      "via": "sitemap_link",
+      "label": "Admission URL from sitemap"
+    },
+    {
+      "url": "https://www.stbrigid.ie/news-blog/draft-admissions-policy-2020",
+      "final_url": "https://www.stbrigid.ie/news-blog/draft-admissions-policy-2020",
+      "status": "ok",
+      "via": "sitemap_link",
+      "label": "Admission URL from sitemap"
+    },
+    {
+      "url": "https://www.stbrigid.ie/parents-association.html",
+      "final_url": "https://www.stbrigid.ie/parents-association.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents Association >"
+    },
+    {
+      "url": "https://www.stbrigid.ie/organisational-policies.html",
+      "final_url": "https://www.stbrigid.ie/organisational-policies.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Organisational Policies"
+    },
+    {
+      "url": "https://www.stbrigid.ie/uploads/2/3/2/3/23235088/annual_admissions_notice_2026_2027_school_year.pdf",
+      "final_url": "https://www.stbrigid.ie/uploads/2/3/2/3/23235088/annual_admissions_notice_2026_2027_school_year.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: Annual Admissions Notice 2026-2027"
+    },
+    {
+      "url": "https://www.stbrigid.ie/uploads/2/3/2/3/23235088/review_of_the_child_safeguarding_statement_and_risk_assessment_october_2026.pdf",
+      "final_url": "https://www.stbrigid.ie/uploads/2/3/2/3/23235088/review_of_the_child_safeguarding_statement_and_risk_assessment_october_2026.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: Review of the Child Safeguarding and Risk Assessment October 2026"
+    },
+    {
+      "url": "https://www.stbrigid.ie/uploads/2/3/2/3/23235088/final_child_safeguarding_statement_and_risk_assessment_2026.pdf",
+      "final_url": "https://www.stbrigid.ie/uploads/2/3/2/3/23235088/final_child_safeguarding_statement_and_risk_assessment_2026.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: Child Safeguarding Statement and Risk Assessment 2026/2027"
+    },
+    {
+      "url": "https://www.stbrigid.ie/uploads/2/3/2/3/23235088/admissions_policy_st._brigids_g.n.s.pdf",
+      "final_url": "https://www.stbrigid.ie/uploads/2/3/2/3/23235088/admissions_policy_st._brigids_g.n.s.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: Admissions Policy."
+    },
+    {
+      "url": "https://www.stbrigid.ie/uploads/2/3/2/3/23235088/cctv_policy_2018__1_.pdf",
+      "final_url": "https://www.stbrigid.ie/uploads/2/3/2/3/23235088/cctv_policy_2018__1_.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: CCTV Policy"
+    },
+    {
+      "url": "https://www.stbrigid.ie/news-blog/school-admissions-policy",
+      "final_url": "https://www.stbrigid.ie/news-blog/school-admissions-policy",
+      "status": "ok",
+      "via": "sitemap_link",
+      "label": "Admission URL from sitemap"
+    },
+    {
+      "url": "https://www.stbrigid.ie",
+      "final_url": "https://www.stbrigid.ie",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.stbrigid.ie/uploads/2/3/2/3/23235088/st_brigids_website_privacy_statement.docx",
+      "final_url": "https://www.stbrigid.ie/uploads/2/3/2/3/23235088/st_brigids_website_privacy_statement.docx",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: St. Brigid's N.S. Website Privacy Statement"
+    },
+    {
+      "url": "https://www.stbrigid.ie/uploads/2/3/2/3/23235088/homework_policy_2024_.pdf",
+      "final_url": "https://www.stbrigid.ie/uploads/2/3/2/3/23235088/homework_policy_2024_.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: Homework Policy"
+    },
+    {
+      "url": "https://www.stbrigid.ie/uploads/2/3/2/3/23235088/code_of_behaviour_and_discipline_policy_2024.pdf",
+      "final_url": "https://www.stbrigid.ie/uploads/2/3/2/3/23235088/code_of_behaviour_and_discipline_policy_2024.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: Code of Behaviour "
+    },
+    {
+      "url": "https://www.stbrigid.ie/uploads/2/3/2/3/23235088/_final_bí_cineálta_policy_march_2025_.pdf",
+      "final_url": "https://www.stbrigid.ie/uploads/2/3/2/3/23235088/_final_bí_cineálta_policy_march_2025_.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: Bí Cinealta Policy"
+    },
+    {
+      "url": "https://www.stbrigid.ie/uploads/2/3/2/3/23235088/new_junior_infants_2027-2028_application_form.pdf",
+      "final_url": "https://www.stbrigid.ie/uploads/2/3/2/3/23235088/new_junior_infants_2027-2028_application_form.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "here"
+    },
+    {
+      "url": "https://www.stbrigid.ie/uploads/2/3/2/3/23235088/nutrition_policy__1_.pdf",
+      "final_url": "https://www.stbrigid.ie/uploads/2/3/2/3/23235088/nutrition_policy__1_.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: Nutrition Policy"
+    },
+    {
+      "url": "https://www.stbrigid.ie/uploads/2/3/2/3/23235088/data_protection_policy.pdf",
+      "final_url": "https://www.stbrigid.ie/uploads/2/3/2/3/23235088/data_protection_policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: Data Protection Policy"
+    },
+    {
+      "url": "https://www.stbrigid.ie/uploads/2/3/2/3/23235088/critical_incident_policy.pdf",
+      "final_url": "https://www.stbrigid.ie/uploads/2/3/2/3/23235088/critical_incident_policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: Critical Incident Policy"
+    },
+    {
+      "url": "https://www.stbrigid.ie/uploads/2/3/2/3/23235088/assessment_and_recording_policy.pdf",
+      "final_url": "https://www.stbrigid.ie/uploads/2/3/2/3/23235088/assessment_and_recording_policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: Assessment and Recording Policy"
+    },
+    {
+      "url": "https://www.stbrigid.ie/uploads/2/3/2/3/23235088/administration_of_medicines_policy__1_.pdf",
+      "final_url": "https://www.stbrigid.ie/uploads/2/3/2/3/23235088/administration_of_medicines_policy__1_.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Download file: Administration of Medicines Policy"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "16577V",
+      "url": "https://www.stbrigid.ie/enrolment.html",
+      "label": "Prior school admissions section",
+      "sha256": "ade7ceca14545de5dda7039ef8f529b3a510773242e84427284e53057f52bd14",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/16577V_ade7ceca14545de5dda7.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 2048
+    },
+    {
+      "roll": "16577V",
+      "url": "https://www.stbrigid.ie/uploads/2/3/2/3/23235088/admissions_policy_2026_2027.pdf",
+      "label": "Download file: Admissions Policy ",
+      "sha256": "26b9ab976f4af0a8edd83b71e6aae490951ba9422edd85ecdbd1e25d4175c01f",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/16577V_26b9ab976f4af0a8edd8.txt",
+      "source_file": "database/milestone2/cache/26b9ab976f4af0a8edd83b71e6aae490951ba9422edd85ecdbd1e25d4175c01f.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 26236
+    },
+    {
+      "roll": "16577V",
+      "url": "https://www.stbrigid.ie/news-blog/enrolments-for-the-20212022-school-year",
+      "label": "Admission URL from sitemap",
+      "sha256": "d9395b3ee7eb8043db6103084552d974fa5849bcd5bddb67e45d3c415ed62b61",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/16577V_d9395b3ee7eb8043db61.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 4784
+    },
+    {
+      "roll": "16577V",
+      "url": "https://www.stbrigid.ie/organisational-policies.html",
+      "label": "Organisational Policies",
+      "sha256": "274a0fc42d3837edeb71d1f904482ba463e23be8ec57fe1987b4123c58e1eecc",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/16577V_274a0fc42d3837edeb71.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1927
+    },
+    {
+      "roll": "16577V",
+      "url": "https://www.stbrigid.ie/uploads/2/3/2/3/23235088/annual_admissions_notice_2026_2027_school_year.pdf",
+      "label": "Download file: Annual Admissions Notice 2026-2027",
+      "sha256": "7fca9fb9a2eda91d1fda47283f494accb4aa5611ed95eedb31e5457f627f9060",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/16577V_7fca9fb9a2eda91d1fda.txt",
+      "source_file": "database/milestone2/cache/7fca9fb9a2eda91d1fda47283f494accb4aa5611ed95eedb31e5457f627f9060.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 4338
+    },
+    {
+      "roll": "16577V",
+      "url": "https://www.stbrigid.ie/uploads/2/3/2/3/23235088/admissions_policy_st._brigids_g.n.s.pdf",
+      "label": "Download file: Admissions Policy.",
+      "sha256": "b7f4212c129d15bbcac93166b1126a68efdc74f9cabd9547bc18a298282df613",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/16577V_b7f4212c129d15bbcac9.txt",
+      "source_file": "database/milestone2/cache/b7f4212c129d15bbcac93166b1126a68efdc74f9cabd9547bc18a298282df613.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 26909
+    },
+    {
+      "roll": "16577V",
+      "url": "https://www.stbrigid.ie/news-blog/school-admissions-policy",
+      "label": "Admission URL from sitemap",
+      "sha256": "1132678339c81ee7e57ccfb96eb25f9b05362aab6a9a5f50f8c727dddf2cb30e",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/16577V_1132678339c81ee7e57c.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 3934
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.stbrigid.ie/uploads/2/3/2/3/23235088/acceptable_use_policy.pdf",
+      "label": "Download file: Acceptable Use Policy",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 71.64,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:50:51+0000"
+}

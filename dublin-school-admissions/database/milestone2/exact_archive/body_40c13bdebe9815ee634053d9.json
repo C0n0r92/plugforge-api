@@ -1,0 +1,25 @@
+{
+  "roll": "15569R",
+  "capture": {
+    "timestamp": "20260714123808",
+    "original": "https://www.scoilmoibhi.ie/admissions-and-application-information/",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "digest": "GLODNRLPZUJDDQGLHTYF6545LXMWVF2R"
+  },
+  "original_url": "https://www.scoilmoibhi.ie/admissions-and-application-information/",
+  "archived_url": "https://web.archive.org/web/20260714123808/https://www.scoilmoibhi.ie/admissions-and-application-information/",
+  "attempted_at": "2026-11-08T12:59:45.297819+00:00",
+  "linked_from_capture": null,
+  "http_status": 200,
+  "headers": {
+    "Content-Type": "text/html; charset=utf-8",
+    "memento-datetime": "Tue, 14 Jul 2026 12:38:08 GMT"
+  },
+  "bytes": 34448,
+  "payload_sha256": "e5d56cdd920db249c2a2ebcb95ea3f79030336fa1faa48ecc4553beeac25ba2c",
+  "format": "html",
+  "status": "archived_body_retrieved_requires_manual_evidence_review",
+  "text_file": "database/milestone2/evidence/exact_15569R_e5d56cdd920db249c2a2.txt",
+  "linked_document_candidates": []
+}

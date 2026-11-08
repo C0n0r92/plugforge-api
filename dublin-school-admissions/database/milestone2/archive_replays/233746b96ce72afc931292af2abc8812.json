@@ -1,0 +1,38 @@
+{
+  "task_id": "233746b96ce72afc931292af2abc8812",
+  "roll": "00697S",
+  "capture": {
+    "digest": "5XKFQBF5SJYYQCUEL6ZY45XU56IA2P57",
+    "mimetype": "text/html",
+    "original": "https://m.saintbrigids.ie/noticeboard/i/30337/admission-notice-202324",
+    "statuscode": "200",
+    "timestamp": "20230605192311"
+  },
+  "original_url": "https://m.saintbrigids.ie/noticeboard/i/30337/admission-notice-202324",
+  "archived_url": "https://web.archive.org/web/20230605192311/https://m.saintbrigids.ie/noticeboard/i/30337/admission-notice-202324",
+  "attempted_at": "2026-11-08T12:33:10.401740+00:00",
+  "http_status": 200,
+  "headers": {
+    "Content-Type": "text/html; charset=utf-8",
+    "memento-datetime": "Mon, 05 Jun 2023 19:23:11 GMT"
+  },
+  "payload_sha256": "5a3f93c537837f7cc7d2491f641fe981b99b0061c02c129e2496ac70a5bbbadc",
+  "bytes": 120795,
+  "format": "html",
+  "archive_link_candidates": [
+    {
+      "url": "/web/20230605192311/https://m.saintbrigids.ie/noticeboard",
+      "label": "The Noticeboard"
+    },
+    {
+      "url": "/web/20230605192311/https://m.saintbrigids.ie/",
+      "label": "THE NOTICEBOARD"
+    },
+    {
+      "url": "https://web.archive.org/web/20230605192311/https://drive.google.com/file/d/1s_QgGttjjQsvKsOPO1gYYBM_9GiYSl-x/view?usp=drivesdk",
+      "label": "Click here for our \u00a0Annual Admissions Notice."
+    }
+  ],
+  "status": "archived_body_retrieved_requires_notice_evidence_review",
+  "text_file": "database/milestone2/evidence/archive_00697S_5a3f93c537837f7cc7d2.txt"
+}

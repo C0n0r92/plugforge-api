@@ -1,0 +1,278 @@
+{
+  "roll": "18360G",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.stbrendansprimaryschool.org/?s=admission&paged=2",
+      "final_url": "https://www.stbrendansprimaryschool.org/?s=admission&paged=2",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "« Older Entries"
+    },
+    {
+      "url": "https://www.stbrendansprimaryschool.org/?p=11075",
+      "final_url": "https://www.stbrendansprimaryschool.org/?p=11075",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Annual Admissions Notice 2021-2022"
+    },
+    {
+      "url": "http://www.stbrendansprimaryschool.org/wp-content/uploads/2021/01/Annual-Admissions-Notice-2021-2022.pdf",
+      "final_url": "http://www.stbrendansprimaryschool.org/wp-content/uploads/2021/01/Annual-Admissions-Notice-2021-2022.pdf",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "Annual Admissions Notice 2021-2022"
+    },
+    {
+      "url": "https://www.stbrendansprimaryschool.org/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://www.stbrendansprimaryschool.org/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "http_404",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://www.stbrendansprimaryschool.org/?s=admission&paged=3",
+      "final_url": "https://www.stbrendansprimaryschool.org/?s=admission&paged=3",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "« Older Entries"
+    },
+    {
+      "url": "https://www.stbrendansprimaryschool.org/?s=admission",
+      "final_url": "https://www.stbrendansprimaryschool.org/?s=admission",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Public site search form"
+    },
+    {
+      "url": "https://www.stbrendansprimaryschool.org/?page_id=48205",
+      "final_url": "https://www.stbrendansprimaryschool.org/?page_id=48205",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://www.stbrendansprimaryschool.org/?page_id=47354",
+      "final_url": "https://www.stbrendansprimaryschool.org/?page_id=47354",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://www.stbrendansprimaryschool.org/?page_id=4030",
+      "final_url": "https://www.stbrendansprimaryschool.org/?page_id=4030",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "http://www.stbrendansprimaryschool.org//wp-content/uploads/2015/01/application-for-admissions.pdf",
+      "final_url": "http://www.stbrendansprimaryschool.org//wp-content/uploads/2015/01/application-for-admissions.pdf",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "Application for Admissions"
+    },
+    {
+      "url": "https://www.stbrendansprimaryschool.org/?p=48189",
+      "final_url": "https://www.stbrendansprimaryschool.org/?p=48189",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://www.stbrendansprimaryschool.org/?p=48058",
+      "final_url": "https://www.stbrendansprimaryschool.org/?p=48058",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://www.stbrendansprimaryschool.org/?p=47965",
+      "final_url": "https://www.stbrendansprimaryschool.org/?p=47965",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://www.stbrendansprimaryschool.org/?p=1859",
+      "final_url": "https://www.stbrendansprimaryschool.org/?p=1859",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://www.stbrendansprimaryschool.org/?p=1856",
+      "final_url": "https://www.stbrendansprimaryschool.org/?p=1856",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions"
+    },
+    {
+      "url": "http://www.stbrendansprimaryschool.org/wp-content/uploads/2015/01/Admissions-Policy-2020b.pdf",
+      "final_url": "http://www.stbrendansprimaryschool.org/wp-content/uploads/2015/01/Admissions-Policy-2020b.pdf",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "Admissions Policy"
+    },
+    {
+      "url": "https://www.stbrendansprimaryschool.org/?cat=57",
+      "final_url": "https://www.stbrendansprimaryschool.org/?cat=57",
+      "status": "ok",
+      "via": "prior_link",
+      "label": "Prior school admissions section"
+    },
+    {
+      "url": "https://www.stbrendansprimaryschool.org/wp-content/uploads/2023/01/Admissions-Policy-2025.pdf",
+      "final_url": "https://www.stbrendansprimaryschool.org/wp-content/uploads/2023/01/Admissions-Policy-2025.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admissions Policy 2025"
+    },
+    {
+      "url": "https://www.stbrendansprimaryschool.org/sitemap.xml",
+      "final_url": "https://www.stbrendansprimaryschool.org/sitemap.xml",
+      "status": "http_404",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.stbrendansprimaryschool.org/?page_id=4067",
+      "final_url": "https://www.stbrendansprimaryschool.org/?page_id=4067",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Curriculum Documents"
+    },
+    {
+      "url": "https://www.stbrendansprimaryschool.org/?page_id=4049",
+      "final_url": "https://www.stbrendansprimaryschool.org/?page_id=4049",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parental Consultation Evenings"
+    },
+    {
+      "url": "https://www.stbrendansprimaryschool.org/?page_id=3821",
+      "final_url": "https://www.stbrendansprimaryschool.org/?page_id=3821",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parent View"
+    },
+    {
+      "url": "https://www.stbrendansprimaryschool.org/?p=10164",
+      "final_url": "https://www.stbrendansprimaryschool.org/?p=10164",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parent Teacher Meetings"
+    },
+    {
+      "url": "https://www.stbrendansprimaryschool.org/?cat=74",
+      "final_url": "https://www.stbrendansprimaryschool.org/?cat=74",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parent Information"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "18360G",
+      "url": "https://www.stbrendansprimaryschool.org/?s=admission&paged=2",
+      "label": "« Older Entries",
+      "sha256": "dcfc40cf9d0c7b90fe7660c4585685dfdffa3872146f2cda7b7fb2c2a729715c",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/18360G_dcfc40cf9d0c7b90fe76.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 100
+    },
+    {
+      "roll": "18360G",
+      "url": "https://www.stbrendansprimaryschool.org/?p=11075",
+      "label": "Annual Admissions Notice 2021-2022",
+      "sha256": "27468ab6df7446686a756d9e99f0d670da9f509929969cda6590ba88b732828c",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/18360G_27468ab6df7446686a75.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 100
+    },
+    {
+      "roll": "18360G",
+      "url": "https://www.stbrendansprimaryschool.org/?page_id=47354",
+      "label": "Prior school admissions section",
+      "sha256": "47d0bcd23d7733af6b723cef25b3c920dcd885ff2ae1b746d783bb65eacdb293",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/18360G_47d0bcd23d7733af6b72.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 5075
+    },
+    {
+      "roll": "18360G",
+      "url": "https://www.stbrendansprimaryschool.org/?page_id=4030",
+      "label": "Prior school admissions section",
+      "sha256": "95b5246e0a9aad68dd672117287e3161709e2b998afcc31faaa4dd3a892aeb74",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/18360G_95b5246e0a9aad68dd67.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 2578
+    },
+    {
+      "roll": "18360G",
+      "url": "https://www.stbrendansprimaryschool.org/?p=48189",
+      "label": "Prior school admissions section",
+      "sha256": "8593542594ab479e8437f422f9505120f7d4431dee3e615d5dbba98fdd0c8068",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/18360G_8593542594ab479e8437.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 1537
+    },
+    {
+      "roll": "18360G",
+      "url": "https://www.stbrendansprimaryschool.org/?p=47965",
+      "label": "Prior school admissions section",
+      "sha256": "3e4b62da9e4fb2582c0736459846d0ab7f6a20b1470bc5bf8c318e94437318ec",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/18360G_3e4b62da9e4fb2582c07.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 96
+    },
+    {
+      "roll": "18360G",
+      "url": "https://www.stbrendansprimaryschool.org/?cat=74",
+      "label": "Parent Information",
+      "sha256": "9f3b4460f8315154b301ac74a304490c866d1b08a7bece75b5310319015e91f1",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/18360G_9f3b4460f8315154b301.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 132
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.stbrendansprimaryschool.org",
+      "label": "School homepage",
+      "via": "home"
+    },
+    {
+      "url": "https://www.stbrendansprimaryschool.org/?page_id=47376",
+      "label": "03 Policy Documents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stbrendansprimaryschool.org/?page_id=4068",
+      "label": "Policy Documents",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.stbrendansprimaryschool.org/?p=709",
+      "label": "Policy Documents",
+      "via": "school_public_link"
+    }
+  ],
+  "elapsed_seconds": 86.67,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:52:56+0000"
+}

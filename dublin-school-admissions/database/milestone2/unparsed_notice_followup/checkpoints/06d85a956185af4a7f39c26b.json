@@ -1,0 +1,36 @@
+{
+  "roll": "18047C",
+  "url": "https://www.scoilbhridecailini.ie/wp-content/uploads/2025/06/18047C-Appendix-1-Admission-to-Special-Class-SBC-3.6.2025.pdf",
+  "prior_sha256": "ef98b7cadfd5923e0073b5cebcb570ca18bb911adc5b4b45a1fd545307c80686",
+  "prior_status": "ok",
+  "prior_attempted_at": "2026-11-08T12:36:32+0000",
+  "started_at": "2026-11-08T13:29:47+0000",
+  "method": "recheck_prior_success_unparsed_notice_with_actual_OCR_if_needed",
+  "documents": [
+    {
+      "roll": "18047C",
+      "url": "https://www.scoilbhridecailini.ie/wp-content/uploads/2025/06/18047C-Appendix-1-Admission-to-Special-Class-SBC-3.6.2025.pdf",
+      "sha256": "ef98b7cadfd5923e0073b5cebcb570ca18bb911adc5b4b45a1fd545307c80686",
+      "format": "pdf",
+      "source_file": "database/milestone2/unparsed_notice_followup/cache/ef98b7cadfd5923e0073b5cebcb570ca18bb911adc5b4b45a1fd545307c80686.pdf",
+      "text_file": "database/milestone2/unparsed_notice_followup/evidence/18047C_ef98b7cadfd5923e0073.txt",
+      "candidate_status": "actual_body_requires_manual_review",
+      "ocr": false,
+      "retrieved_at": "2026-11-08T13:29:53+0000"
+    }
+  ],
+  "attempts": [
+    {
+      "url": "https://www.scoilbhridecailini.ie/wp-content/uploads/2025/06/18047C-Appendix-1-Admission-to-Special-Class-SBC-3.6.2025.pdf",
+      "final_url": "https://www.scoilbhridecailini.ie/wp-content/uploads/2025/06/18047C-Appendix-1-Admission-to-Special-Class-SBC-3.6.2025.pdf",
+      "status": "ok"
+    }
+  ],
+  "status": "body_retrieved_requires_manual_review",
+  "sha256": "ef98b7cadfd5923e0073b5cebcb570ca18bb911adc5b4b45a1fd545307c80686",
+  "same_payload_as_prior_success": true,
+  "format": "pdf",
+  "parse_stderr": "",
+  "text_length": 12557,
+  "elapsed_seconds": 6.71
+}

@@ -1,0 +1,139 @@
+{
+  "roll": "20302E",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.thornleighet.com/enrolment.html",
+      "final_url": "https://www.thornleighet.com/enrolment.html",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Enrolment"
+    },
+    {
+      "url": "https://www.thornleighet.com/sitemap.xml",
+      "final_url": "https://www.thornleighet.com/sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.thornleighet.com/parents-association.html",
+      "final_url": "https://www.thornleighet.com/parents-association.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents' Association"
+    },
+    {
+      "url": "https://www.thornleighet.com/our-policies.html",
+      "final_url": "https://www.thornleighet.com/our-policies.html",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Our Policies"
+    },
+    {
+      "url": "https://www.thornleighet.com/uploads/5/3/6/0/53607961/2025-08_admission_policy.pdf",
+      "final_url": "https://www.thornleighet.com/uploads/5/3/6/0/53607961/2025-08_admission_policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Admission Policy"
+    },
+    {
+      "url": "https://www.thornleighet.com/uploads/5/3/6/0/53607961/parental-complaints-procedure_v4-final-nov23.pdf",
+      "final_url": "https://www.thornleighet.com/uploads/5/3/6/0/53607961/parental-complaints-procedure_v4-final-nov23.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parental Complaints Procedure"
+    },
+    {
+      "url": "https://www.thornleighet.com/uploads/5/3/6/0/53607961/2025-10_intimate_care_policy.pdf",
+      "final_url": "https://www.thornleighet.com/uploads/5/3/6/0/53607961/2025-10_intimate_care_policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Intimate Care Policy"
+    },
+    {
+      "url": "https://www.thornleighet.com/uploads/5/3/6/0/53607961/2025-10_attendance_policy.pdf",
+      "final_url": "https://www.thornleighet.com/uploads/5/3/6/0/53607961/2025-10_attendance_policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Attendance Policy"
+    },
+    {
+      "url": "https://www.thornleighet.com/uploads/5/3/6/0/53607961/2025-09_critical_incident_policy_-_website.pdf",
+      "final_url": "https://www.thornleighet.com/uploads/5/3/6/0/53607961/2025-09_critical_incident_policy_-_website.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Critical Incident Policy"
+    },
+    {
+      "url": "https://www.thornleighet.com/uploads/5/3/6/0/53607961/2025-06_bí_cineálta_policy.pdf",
+      "final_url": "https://www.thornleighet.com/uploads/5/3/6/0/53607961/2025-06_bí_cineálta_policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Bí Cineálta Policy"
+    },
+    {
+      "url": "https://www.thornleighet.com/uploads/5/3/6/0/53607961/2026-10_presentation_policy.pdf",
+      "final_url": "https://www.thornleighet.com/uploads/5/3/6/0/53607961/2026-10_presentation_policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Presentation & Handwriting Policy"
+    },
+    {
+      "url": "https://www.thornleighet.com/uploads/5/3/6/0/53607961/2026-02_substance_abuse_policy.pdf",
+      "final_url": "https://www.thornleighet.com/uploads/5/3/6/0/53607961/2026-02_substance_abuse_policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Substance Abuse Policy"
+    },
+    {
+      "url": "https://www.thornleighet.com/uploads/5/3/6/0/53607961/2026-02_internet_acceptable_use_policy.pdf",
+      "final_url": "https://www.thornleighet.com/uploads/5/3/6/0/53607961/2026-02_internet_acceptable_use_policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Internet Acceptable Use Policy"
+    },
+    {
+      "url": "https://www.thornleighet.com/uploads/5/3/6/0/53607961/2026-01_mobile_phone___wearable_technology_policy.pdf",
+      "final_url": "https://www.thornleighet.com/uploads/5/3/6/0/53607961/2026-01_mobile_phone___wearable_technology_policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Mobile Phone and Wearable Technology Policy"
+    },
+    {
+      "url": "https://www.thornleighet.com/uploads/5/3/6/0/53607961/2026-01_arrival_and_dismissal_of_pupils_policy.pdf",
+      "final_url": "https://www.thornleighet.com/uploads/5/3/6/0/53607961/2026-01_arrival_and_dismissal_of_pupils_policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Arrival and Dismissal of Pupils Policy"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "20302E",
+      "url": "https://www.thornleighet.com/enrolment.html",
+      "label": "Enrolment",
+      "sha256": "ed66962f2008ebc6b758a03ca95cf2a4516c33017fc80b4af76d2aaae97a25f1",
+      "format": "html",
+      "text_file": "database/milestone2/evidence/20302E_ed66962f2008ebc6b758.txt",
+      "source_file": null,
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 198
+    },
+    {
+      "roll": "20302E",
+      "url": "https://www.thornleighet.com/uploads/5/3/6/0/53607961/2025-08_admission_policy.pdf",
+      "label": "Admission Policy",
+      "sha256": "5355ab29fa7c5e8549e1a24f2680a40bc0070482876fce55d32ce68b90ee0f04",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20302E_5355ab29fa7c5e8549e1.txt",
+      "source_file": "database/milestone2/cache/5355ab29fa7c5e8549e1a24f2680a40bc0070482876fce55d32ce68b90ee0f04.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 25038
+    }
+  ],
+  "pending_links": [],
+  "elapsed_seconds": 44.21,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:41:29+0000"
+}

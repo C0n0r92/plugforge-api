@@ -1,0 +1,121 @@
+{
+  "roll": "19693P",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.maryqueenofireland.com",
+      "final_url": "https://www.maryqueenofireland.com",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "https://www.maryqueenofireland.com/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://www.maryqueenofireland.com/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://www.maryqueenofireland.com/wp-content/uploads/2023/09/admissions-policy.pdf",
+      "final_url": "https://www.maryqueenofireland.com/wp-content/uploads/2023/09/admissions-policy.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "admissions-policy"
+    },
+    {
+      "url": "https://www.maryqueenofireland.com/wp-content/uploads/2024/11/Admissions-Policy.pdf",
+      "final_url": "https://www.maryqueenofireland.com/wp-content/uploads/2024/11/Admissions-Policy.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Policy"
+    },
+    {
+      "url": "https://www.maryqueenofireland.com/wp-content/uploads/2025/10/Admissions-Policy.pdf",
+      "final_url": "https://www.maryqueenofireland.com/wp-content/uploads/2025/10/Admissions-Policy.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Policy"
+    },
+    {
+      "url": "https://www.maryqueenofireland.com/wp-content/uploads/2026/10/Admissions-Policy.pdf",
+      "final_url": "https://www.maryqueenofireland.com/wp-content/uploads/2026/10/Admissions-Policy.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Policy"
+    },
+    {
+      "url": "https://www.maryqueenofireland.com/sitemap_index.xml",
+      "final_url": "https://www.maryqueenofireland.com/sitemap_index.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://www.maryqueenofireland.com/school-policies/",
+      "final_url": "https://www.maryqueenofireland.com/school-policies/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Policies"
+    },
+    {
+      "url": "https://www.maryqueenofireland.com/post-sitemap.xml",
+      "final_url": "https://www.maryqueenofireland.com/post-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.maryqueenofireland.com/page-sitemap.xml",
+      "final_url": "https://www.maryqueenofireland.com/page-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://www.maryqueenofireland.com/our-school/parents-association/",
+      "final_url": "https://www.maryqueenofireland.com/our-school/parents-association/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents Association"
+    },
+    {
+      "url": "https://www.maryqueenofireland.com/wp-content/uploads/2023/09/internet-acceptable-use-policy.pdf",
+      "final_url": "https://www.maryqueenofireland.com/wp-content/uploads/2023/09/internet-acceptable-use-policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": ""
+    },
+    {
+      "url": "https://www.maryqueenofireland.com/wp-content/uploads/2026/10/Health-and-Safety-Policy.pdf",
+      "final_url": "https://www.maryqueenofireland.com/wp-content/uploads/2026/10/Health-and-Safety-Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Health and Safety Policy"
+    },
+    {
+      "url": "https://www.maryqueenofireland.com/wp-content/uploads/2026/10/Bi-Cinealta-Policy.pdf",
+      "final_url": "https://www.maryqueenofireland.com/wp-content/uploads/2026/10/Bi-Cinealta-Policy.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Bí Cinealta Policy"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "19693P",
+      "url": "https://www.maryqueenofireland.com/wp-content/uploads/2026/10/Admissions-Policy.pdf",
+      "label": "Admissions Policy",
+      "sha256": "34f29ac42dda3e0dd5d3123705839b1eea362cc1dcfc0ffa55dc1156802870ca",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/19693P_34f29ac42dda3e0dd5d3.txt",
+      "source_file": "database/milestone2/cache/34f29ac42dda3e0dd5d3123705839b1eea362cc1dcfc0ffa55dc1156802870ca.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 23766
+    }
+  ],
+  "pending_links": [],
+  "elapsed_seconds": 61.6,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:39:38+0000"
+}

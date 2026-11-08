@@ -1,0 +1,191 @@
+{
+  "roll": "20422O",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://www.scoilaoifecns.ie/scoil-aoife-community-national-school-admissions-notice-2027-2028-1/",
+      "final_url": "https://www.scoilaoifecns.ie/wp-content/uploads/2026/09/SCOIL-AOIFE-COMMUNITY-NATIONAL-SCHOOL-ADMISSIONS-NOTICE-2027-2028-1.pdf",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admission Notice"
+    },
+    {
+      "url": "https://www.scoilaoifecns.ie/enrol/",
+      "final_url": "https://www.scoilaoifecns.ie/enrol/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admission"
+    },
+    {
+      "url": "https://www.scoilaoifecns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://www.scoilaoifecns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://www.scoilaoifecns.ie/wp-content/uploads/2022/01/Latest-Application-for-Admission-form-2022-2023.docx",
+      "final_url": "https://www.scoilaoifecns.ie/wp-content/uploads/2022/01/Latest-Application-for-Admission-form-2022-2023.docx",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Latest Application for Admission form 2022 2023"
+    },
+    {
+      "url": "https://www.scoilaoifecns.ie/wp-content/uploads/2022/01/Application-for-Admission-form-Aug-Sept-2022-2023-in-PDF.pdf",
+      "final_url": "https://www.scoilaoifecns.ie/wp-content/uploads/2022/01/Application-for-Admission-form-Aug-Sept-2022-2023-in-PDF.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Application for Admission form Aug Sept 2022 2023 in PDF"
+    },
+    {
+      "url": "https://www.scoilaoifecns.ie/wp-content/uploads/2022/01/Application-for-Admission-form-2022-2023.pdf",
+      "final_url": "https://www.scoilaoifecns.ie/wp-content/uploads/2022/01/Application-for-Admission-form-2022-2023.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Application for Admission form 2022 2023"
+    },
+    {
+      "url": "https://www.scoilaoifecns.ie/wp-content/uploads/2021/11/Scoil-Aoife-admission-policy-2022-23.pdf",
+      "final_url": "https://www.scoilaoifecns.ie/wp-content/uploads/2021/11/Scoil-Aoife-admission-policy-2022-23.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Scoil Aoife admission-policy-2022-23"
+    },
+    {
+      "url": "https://www.scoilaoifecns.ie/wp-content/uploads/2021/01/Scoil-Aoife-Admission-Policy.pdf",
+      "final_url": "https://www.scoilaoifecns.ie/wp-content/uploads/2021/01/Scoil-Aoife-Admission-Policy.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Scoil-Aoife-Admission-Policy"
+    },
+    {
+      "url": "https://www.scoilaoifecns.ie/wp-content/uploads/2021/01/Scoil-Aoife-Admission-Policy-1.pdf",
+      "final_url": "https://www.scoilaoifecns.ie/wp-content/uploads/2021/01/Scoil-Aoife-Admission-Policy-1.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Scoil-Aoife-Admission-Policy"
+    },
+    {
+      "url": "https://www.scoilaoifecns.ie/wp-content/uploads/2022/11/SACNS-ADMISSION-POLICY-2023-2024.pdf",
+      "final_url": "https://www.scoilaoifecns.ie/wp-content/uploads/2022/11/SACNS-ADMISSION-POLICY-2023-2024.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "SACNS ADMISSION POLICY 2023-2024"
+    },
+    {
+      "url": "https://www.scoilaoifecns.ie/wp-content/uploads/2024/10/2025-2026-ADMISSIONS-POLICY-for-Scoil-Aoife-Community-National-School.pdf",
+      "final_url": "https://www.scoilaoifecns.ie/wp-content/uploads/2024/10/2025-2026-ADMISSIONS-POLICY-for-Scoil-Aoife-Community-National-School.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "2025-2026 ADMISSIONS POLICY for Scoil Aoife Community National School"
+    },
+    {
+      "url": "https://www.scoilaoifecns.ie/wp-content/uploads/2024/02/Policy-For-Admission-to-School-Year-20242025.pdf",
+      "final_url": "https://www.scoilaoifecns.ie/wp-content/uploads/2024/02/Policy-For-Admission-to-School-Year-20242025.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Policy For Admission to School Year 20242025"
+    },
+    {
+      "url": "https://www.scoilaoifecns.ie/wp-content/uploads/2024/02/Policy-For-Admission-to-School-Year-20242025-updated.pdf",
+      "final_url": "https://www.scoilaoifecns.ie/wp-content/uploads/2024/02/Policy-For-Admission-to-School-Year-20242025-updated.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Policy For Admission to School Year 20242025 updated"
+    },
+    {
+      "url": "https://www.scoilaoifecns.ie/wp-content/uploads/2025/09/2026-2027-ADMISSIONS-POLICY-for-Scoil-Aoife-Community-National-School-30.09-202548.pdf",
+      "final_url": "https://www.scoilaoifecns.ie/wp-content/uploads/2025/09/2026-2027-ADMISSIONS-POLICY-for-Scoil-Aoife-Community-National-School-30.09-202548.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "2026-2027 ADMISSIONS POLICY for Scoil Aoife Community National School 30.09-2025[48]"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "20422O",
+      "url": "https://www.scoilaoifecns.ie/wp-content/uploads/2021/11/Scoil-Aoife-admission-policy-2022-23.pdf",
+      "label": "Scoil Aoife admission-policy-2022-23",
+      "sha256": "86b8a05e3d8c32a5cc6ed5847c7bd6a9dace22c1f2e7fd7da052a27b54d7e1fe",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20422O_86b8a05e3d8c32a5cc6e.txt",
+      "source_file": "database/milestone2/cache/86b8a05e3d8c32a5cc6ed5847c7bd6a9dace22c1f2e7fd7da052a27b54d7e1fe.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 54493
+    },
+    {
+      "roll": "20422O",
+      "url": "https://www.scoilaoifecns.ie/wp-content/uploads/2021/01/Scoil-Aoife-Admission-Policy.pdf",
+      "label": "Scoil-Aoife-Admission-Policy",
+      "sha256": "4b42016815722222124339128537412698c73d00405e981f70098609a35a2a28",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20422O_4b420168157222221243.txt",
+      "source_file": "database/milestone2/cache/4b42016815722222124339128537412698c73d00405e981f70098609a35a2a28.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 50922
+    },
+    {
+      "roll": "20422O",
+      "url": "https://www.scoilaoifecns.ie/wp-content/uploads/2022/11/SACNS-ADMISSION-POLICY-2023-2024.pdf",
+      "label": "SACNS ADMISSION POLICY 2023-2024",
+      "sha256": "3a3b1fa00d119c04a14551cb9a66d90b0f5cb97c989e89f6a0e6f7e0c736c981",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20422O_3a3b1fa00d119c04a145.txt",
+      "source_file": "database/milestone2/cache/3a3b1fa00d119c04a14551cb9a66d90b0f5cb97c989e89f6a0e6f7e0c736c981.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 67534
+    },
+    {
+      "roll": "20422O",
+      "url": "https://www.scoilaoifecns.ie/wp-content/uploads/2024/10/2025-2026-ADMISSIONS-POLICY-for-Scoil-Aoife-Community-National-School.pdf",
+      "label": "2025-2026 ADMISSIONS POLICY for Scoil Aoife Community National School",
+      "sha256": "d259593048cfccf0e55e394facee92f19cc7fdf71559ab5b85a6f0e2f51d3eb3",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20422O_d259593048cfccf0e55e.txt",
+      "source_file": "database/milestone2/cache/d259593048cfccf0e55e394facee92f19cc7fdf71559ab5b85a6f0e2f51d3eb3.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 69505
+    },
+    {
+      "roll": "20422O",
+      "url": "https://www.scoilaoifecns.ie/wp-content/uploads/2025/09/2026-2027-ADMISSIONS-POLICY-for-Scoil-Aoife-Community-National-School-30.09-202548.pdf",
+      "label": "2026-2027 ADMISSIONS POLICY for Scoil Aoife Community National School 30.09-2025[48]",
+      "sha256": "257c936c3bad99a291bb0a8744757247e6cd2d74863cfda6e0c08386a424f73b",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20422O_257c936c3bad99a291bb.txt",
+      "source_file": "database/milestone2/cache/257c936c3bad99a291bb0a8744757247e6cd2d74863cfda6e0c08386a424f73b.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 76096
+    }
+  ],
+  "pending_links": [
+    {
+      "url": "https://www.scoilaoifecns.ie/wp-content/uploads/2025/09/2026-2027-ADMISSIONS-POLICY-for-Scoil-Aoife-Community-National-School-30.09-202548-1.pdf",
+      "label": "2026-2027 ADMISSIONS POLICY for Scoil Aoife Community National School 30.09-2025[48]",
+      "via": "public_wordpress_media_link"
+    },
+    {
+      "url": "https://www.scoilaoifecns.ie/2026-2027-admissions-policy-for-scoil-aoife-community-national-school-30-09-202548-2/",
+      "label": "Admission Policy",
+      "via": "prior_public_admissions_landing"
+    },
+    {
+      "url": "https://www.scoilaoifecns.ie/sitemap.xml",
+      "label": "Public sitemap",
+      "via": "sitemap_root"
+    },
+    {
+      "url": "https://www.scoilaoifecns.ie/school-policies/",
+      "label": "School Policies",
+      "via": "school_public_link"
+    },
+    {
+      "url": "https://www.scoilaoifecns.ie",
+      "label": "School homepage",
+      "via": "home"
+    }
+  ],
+  "elapsed_seconds": 150.31,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:39:13+0000"
+}

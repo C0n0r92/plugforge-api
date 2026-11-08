@@ -1,0 +1,195 @@
+{
+  "roll": "20436C",
+  "status": "attempted_historical_discovery_candidates_found",
+  "attempts": [
+    {
+      "url": "https://ppetns.ie/2024/10/01/admissions-for-junior-infants-2025-now-open/",
+      "final_url": "https://ppetns.ie/2024/10/01/admissions-for-junior-infants-2025-now-open/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Applications for Junior Infants 2025 – now open!"
+    },
+    {
+      "url": "https://ppetns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "final_url": "https://ppetns.ie/wp-json/wp/v2/media?search=admission&per_page=100&orderby=date&order=asc&_fields=source_url%2Ctitle%2Cmime_type%2Cdate",
+      "status": "ok",
+      "via": "wordpress_media",
+      "label": "Oldest public admission media (all dates)"
+    },
+    {
+      "url": "https://ppetns.ie/parent-information/enrolment/",
+      "final_url": "https://ppetns.ie/parent-information/enrolment/",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Admissions"
+    },
+    {
+      "url": "https://ppetns.ie/?s=admission",
+      "final_url": "https://ppetns.ie/?s=admission",
+      "status": "ok",
+      "via": "prior_public_admissions_landing",
+      "label": "Public site search form"
+    },
+    {
+      "url": "http://www.stmarysprimaryschool.ie/wp-content/uploads/2020/02/Newsletter-14.2.2020.docx",
+      "final_url": "http://www.stmarysprimaryschool.ie/wp-content/uploads/2020/02/Newsletter-14.2.2020.docx",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "Newsletter-14.2.2020"
+    },
+    {
+      "url": "https://ppetns.ie/wp-content/uploads/2024/10/Admissions-Policy-April24.pdf",
+      "final_url": "https://ppetns.ie/wp-content/uploads/2024/10/Admissions-Policy-April24.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Policy April24"
+    },
+    {
+      "url": "https://ppetns.ie/wp-content/uploads/2025/07/Admissions-Policy-June25.pdf",
+      "final_url": "https://ppetns.ie/wp-content/uploads/2025/07/Admissions-Policy-June25.pdf",
+      "status": "ok",
+      "via": "public_wordpress_media_link",
+      "label": "Admissions Policy June25"
+    },
+    {
+      "url": "https://ppetns.ie/2020/04/20/consultation-admission-policy/",
+      "final_url": "https://ppetns.ie/2020/04/20/consultation-admission-policy/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Consultation – Admission Policy"
+    },
+    {
+      "url": "https://www.ppetns.ie",
+      "final_url": "https://ppetns.ie/",
+      "status": "ok",
+      "via": "home",
+      "label": "School homepage"
+    },
+    {
+      "url": "http://ppetns.ie/wp/parent-information/enrolment/",
+      "final_url": "http://ppetns.ie/wp/parent-information/enrolment/",
+      "status": "robots_permission_unestablished_http_500",
+      "via": "school_public_link",
+      "label": "Enrol Now!"
+    },
+    {
+      "url": "https://ppetns.ie/wp-sitemap.xml",
+      "final_url": "https://ppetns.ie/wp-sitemap.xml",
+      "status": "ok",
+      "via": "sitemap_root",
+      "label": "Public sitemap"
+    },
+    {
+      "url": "https://ppetns.ie/wp-sitemap-posts-post-1.xml",
+      "final_url": "https://ppetns.ie/wp-sitemap-posts-post-1.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://ppetns.ie/wp-sitemap-posts-page-1.xml",
+      "final_url": "https://ppetns.ie/wp-sitemap-posts-page-1.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://ppetns.ie/wp-sitemap-posts-mp-event-1.xml",
+      "final_url": "https://ppetns.ie/wp-sitemap-posts-mp-event-1.xml",
+      "status": "ok",
+      "via": "sitemap_child",
+      "label": "Public sitemap index child"
+    },
+    {
+      "url": "https://ppetns.ie/parent-information/what-is-a-deis-school/",
+      "final_url": "https://ppetns.ie/parent-information/what-is-a-deis-school/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "What is a DEIS+ school?"
+    },
+    {
+      "url": "https://ppetns.ie/parent-information/term-dates/",
+      "final_url": "https://ppetns.ie/parent-information/term-dates/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Term Dates"
+    },
+    {
+      "url": "https://ppetns.ie/parent-information/school-completion-programme/",
+      "final_url": "https://ppetns.ie/parent-information/school-completion-programme/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "School Completion Programme"
+    },
+    {
+      "url": "https://ppetns.ie/parent-information/parents-association/",
+      "final_url": "https://ppetns.ie/parent-information/parents-association/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parents’ Association"
+    },
+    {
+      "url": "https://ppetns.ie/parent-information/parent-supports/",
+      "final_url": "https://ppetns.ie/parent-information/parent-supports/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parent Supports"
+    },
+    {
+      "url": "https://ppetns.ie/parent-information/keeping-safe-online/",
+      "final_url": "https://ppetns.ie/parent-information/keeping-safe-online/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Keeping Your Child Safe"
+    },
+    {
+      "url": "https://ppetns.ie/parent-information/home-school-community-liaison/",
+      "final_url": "https://ppetns.ie/parent-information/home-school-community-liaison/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Home School Community Liaison"
+    },
+    {
+      "url": "https://ppetns.ie/parent-information/",
+      "final_url": "https://ppetns.ie/parent-information/",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Parent Info"
+    },
+    {
+      "url": "https://ppetns.ie/wp-content/uploads/2026/11/Bi-Cinealta-Anti-Bullying-Policy-May2025.pdf",
+      "final_url": "https://ppetns.ie/wp-content/uploads/2026/11/Bi-Cinealta-Anti-Bullying-Policy-May2025.pdf",
+      "status": "ok",
+      "via": "school_public_link",
+      "label": "Bí Cineálta Anti-Bullying Policy May2025"
+    }
+  ],
+  "documents": [
+    {
+      "roll": "20436C",
+      "url": "https://ppetns.ie/wp-content/uploads/2024/10/Admissions-Policy-April24.pdf",
+      "label": "Admissions Policy April24",
+      "sha256": "5ae5ed128ff5fac5b2d9d18750c0ae09f22e3eec1556310e98b14e148b91525e",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20436C_5ae5ed128ff5fac5b2d9.txt",
+      "source_file": "database/milestone2/cache/5ae5ed128ff5fac5b2d9d18750c0ae09f22e3eec1556310e98b14e148b91525e.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 22539
+    },
+    {
+      "roll": "20436C",
+      "url": "https://ppetns.ie/wp-content/uploads/2025/07/Admissions-Policy-June25.pdf",
+      "label": "Admissions Policy June25",
+      "sha256": "e1491c803f4ec42060fd23599fc5050849cb501615ddec6540d47321b46a827a",
+      "format": "pdf",
+      "text_file": "database/milestone2/evidence/20436C_e1491c803f4ec42060fd.txt",
+      "source_file": "database/milestone2/cache/e1491c803f4ec42060fd23599fc5050849cb501615ddec6540d47321b46a827a.pdf",
+      "candidate_status": "notice_body_candidate_requires_evidence_review",
+      "text_length": 23131
+    }
+  ],
+  "pending_links": [],
+  "elapsed_seconds": 79.09,
+  "bound": "24 public linked requests or150seconds per school; robots/public sitemap/one documented oldest-media page; pending links retained; no school count cap; no date cutoff",
+  "started_at": "2026-11-08T12:44:26+0000"
+}
